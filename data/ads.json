@@ -15,7 +15,7 @@
   "created_time": "2026-03-30T23:29:06+0300",
   "creative_id": "1537756468377079",
   "market": "LB",
-  "product": "Catalog Retargeting Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "Still thinking about it? Your {{product.name}} is 20% OFF — ends this week!"
@@ -28,7 +28,7 @@
   },
   "metrics": {
    "spend": 1370.75,
-   "impressions": 305680,
+   "impressions": 305682,
    "reach": 24716,
    "frequency": 12.37,
    "cpm": 4.48,
@@ -842,24 +842,24 @@
    ]
   },
   "metrics": {
-   "spend": 831.44,
-   "impressions": 230526,
+   "spend": 831.49,
+   "impressions": 230537,
    "reach": 84755,
    "frequency": 2.72,
    "cpm": 3.61,
-   "link_clicks": 4448,
+   "link_clicks": 4450,
    "link_ctr_pct": 1.93,
    "cpc_link": 0.19,
-   "video_3s_views": 72831,
-   "thruplays": 13903,
+   "video_3s_views": 72838,
+   "thruplays": 13904,
    "hook_rate_pct": 31.59,
    "hold_rate_pct": 19.09,
-   "p25": 19732,
-   "p50": 10171,
+   "p25": 19733,
+   "p50": 10172,
    "p75": 6659,
    "p100": 4121,
    "avg_watch_s": 4.0,
-   "landing_page_views": 4236,
+   "landing_page_views": 4241,
    "add_to_cart": 232,
    "initiate_checkout": 257,
    "purchases": 67,
@@ -1350,7 +1350,7 @@
    "excludes_web_visitors": false,
    "market_from_targeting": "LB"
   },
-  "creator": "Front Section",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23853121057210795",
    "post_link": "https://www.facebook.com/803246616207248_122124305805058569",
@@ -1440,7 +1440,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Shock Silent",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23853117917470795",
    "post_link": "https://www.facebook.com/803246616207248_122124176487058569",
@@ -1842,8 +1842,8 @@
    ]
   },
   "metrics": {
-   "spend": 473.87,
-   "impressions": 67887,
+   "spend": 474.1,
+   "impressions": 67911,
    "reach": 17495,
    "frequency": 3.88,
    "cpm": 6.98,
@@ -1866,7 +1866,7 @@
    "purchase_value": 1919.85,
    "cost_per_atc": 2.76,
    "cost_per_ic": 5.78,
-   "cpa": 24.94,
+   "cpa": 24.95,
    "roas": 4.05,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-27"
@@ -1916,7 +1916,7 @@
   "created_time": "2026-03-17T16:05:34+0200",
   "creative_id": "1663457748425828",
   "market": "LB",
-  "product": "Mira",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "It’s giving lifted roots, silky shine, and that fresh blowout bounce 😌\nMeet the Blowout Boost 💗 Smooth, volumize, and cut your styling time in half with dual-heat plates + ionic tech.\nSalon results at home, in minutes. Your turn ✨"
@@ -2096,7 +2096,7 @@
   "created_time": "2025-12-22T23:31:57+0200",
   "creative_id": "1190996875880007",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Shop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕",
@@ -2625,7 +2625,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Whirlwind Curl",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23853356502730795",
    "post_link": "https://www.facebook.com/803246616207248_122125105263058569",
@@ -2738,7 +2738,7 @@
   "created_time": "2026-11-05T11:48:49+0200",
   "creative_id": "1086605947672327",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Tight curls vs. the Steambrush Pro 2.0: a first-try test 🧪\n\nHere’s what happened:\nCurls up in a bun ✔️\nHeat-safe glove on ✔️\nOne section, one glide, and the curls turned into sleek, smooth length 😳\n\nThe steam hydrates as it straightens, so even super-curly hair comes out soft and shiny instead of fried. Spoiler: the glove comes in the box too.\n\nVerdict: absolutely worth it.\n\nTap Shop Now to try it on your own curls for $88. Free delivery anywhere in Lebanon 💕\n\nThick hair, meet your shortcut. The Blowout Boost is $69 with free delivery 🤍",
@@ -2764,31 +2764,31 @@
    ]
   },
   "metrics": {
-   "spend": 362.54,
-   "impressions": 76901,
+   "spend": 362.64,
+   "impressions": 76928,
    "reach": 47148,
    "frequency": 1.63,
    "cpm": 4.71,
-   "link_clicks": 1354,
+   "link_clicks": 1355,
    "link_ctr_pct": 1.76,
    "cpc_link": 0.27,
-   "video_3s_views": 18231,
-   "thruplays": 7918,
+   "video_3s_views": 18238,
+   "thruplays": 7919,
    "hook_rate_pct": 23.71,
-   "hold_rate_pct": 43.43,
-   "p25": 7919,
-   "p50": 5429,
+   "hold_rate_pct": 43.42,
+   "p25": 7920,
+   "p50": 5430,
    "p75": 3656,
    "p100": 2490,
    "avg_watch_s": 6.0,
-   "landing_page_views": 1114,
+   "landing_page_views": 1115,
    "add_to_cart": 87,
    "initiate_checkout": 36,
    "purchases": 11,
    "purchase_value": 1078.88,
    "cost_per_atc": 4.17,
    "cost_per_ic": 10.07,
-   "cpa": 32.96,
+   "cpa": 32.97,
    "roas": 2.98,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-27"
@@ -3106,7 +3106,7 @@
   "created_time": "2026-09-06T12:42:41+0300",
   "creative_id": "28198701133094651",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "💜Transform your look in minutes with Wavytalk Steamline Pro's easy-to-use design."
@@ -3757,7 +3757,7 @@
   "created_time": "2025-12-22T23:31:57+0200",
   "creative_id": "1573729813834981",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "hop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕",
@@ -4032,7 +4032,7 @@
   "created_time": "2026-11-11T14:59:01+0200",
   "creative_id": "1674109657446453",
   "market": "LB",
-  "product": "BF Sale",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "Black Friday is here, and our bundles are up to 37% off 🖤\n\nTwo tools, one price, and big savings. This is the best time to stock up on your favorites, or finally get the pair you’ve been eyeing:\n\n✨ Defined Volume Duo (Blowout Boost + Whirlwind Curl): $125 instead of $198\n🌊 Volume & Wave Duo (Power Wave + Blowout Boost): $125 instead of $194\n💫 Sleek & Bounce Duo (Steambrush Pro 2.0 + Blowout Boost): $133 instead of $198\n🌀 Dry & Curl Duo (Turblow Pro + Whirlwind Curl): $149 instead of $228.99\n💎 Salon Pro Duo (Turblow Pro + Steambrush Pro 2.0): $157 instead of $228.99\n\nEvery bundle ships free 🚚\n\nThe sale ends November 19 at 2 AM, or sooner if stock runs out. Swipe through, pick your duo, and shop now through the link! 🛍️",
@@ -4053,8 +4053,8 @@
    ]
   },
   "metrics": {
-   "spend": 220.91,
-   "impressions": 48238,
+   "spend": 221.2,
+   "impressions": 48265,
    "reach": 16894,
    "frequency": 2.86,
    "cpm": 4.58,
@@ -4075,10 +4075,10 @@
    "initiate_checkout": 26,
    "purchases": 10,
    "purchase_value": 1215.4,
-   "cost_per_atc": 2.48,
-   "cost_per_ic": 8.5,
-   "cpa": 22.09,
-   "roas": 5.5,
+   "cost_per_atc": 2.49,
+   "cost_per_ic": 8.51,
+   "cpa": 22.12,
+   "roas": 5.49,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-27"
   },
@@ -4313,7 +4313,7 @@
   "created_time": "2026-08-31T20:07:37+0300",
   "creative_id": "1593343538839453",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Shine, smooth, and steam all in one pass ✨ The Wavytalk Steamline Pro locks in moisture while taming every strand - for sleek, healthy hair made easy!  #wavytalk #wavytalksteamlinepro #silkpress"
@@ -4405,7 +4405,7 @@
   "created_time": "2026-01-25T19:56:52+0200",
   "creative_id": "2544886215944203",
   "market": "LB",
-  "product": "US Video 9",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "Shop the best-selling wavers, straighteners, and dryers"
@@ -4513,8 +4513,8 @@
    ]
   },
   "metrics": {
-   "spend": 187.76,
-   "impressions": 62824,
+   "spend": 187.82,
+   "impressions": 62830,
    "reach": 21253,
    "frequency": 2.96,
    "cpm": 2.99,
@@ -4530,14 +4530,14 @@
    "p75": 2489,
    "p100": 1205,
    "avg_watch_s": 3.0,
-   "landing_page_views": 808,
+   "landing_page_views": 809,
    "add_to_cart": 55,
    "initiate_checkout": 55,
    "purchases": 14,
    "purchase_value": 1149.24,
    "cost_per_atc": 3.41,
    "cost_per_ic": 3.41,
-   "cpa": 13.41,
+   "cpa": 13.42,
    "roas": 6.12,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-27"
@@ -4587,7 +4587,7 @@
   "created_time": "2026-10-07T18:58:35+0300",
   "creative_id": "2124034764861236",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [],
    "headlines": [],
@@ -5145,10 +5145,10 @@
    ]
   },
   "metrics": {
-   "spend": 172.15,
-   "impressions": 59111,
+   "spend": 172.16,
+   "impressions": 59118,
    "reach": 23412,
-   "frequency": 2.52,
+   "frequency": 2.53,
    "cpm": 2.91,
    "link_clicks": 1377,
    "link_ctr_pct": 2.33,
@@ -5162,7 +5162,7 @@
    "p75": 2376,
    "p100": 1780,
    "avg_watch_s": 2.0,
-   "landing_page_views": 1340,
+   "landing_page_views": 1341,
    "add_to_cart": 79,
    "initiate_checkout": 83,
    "purchases": 18,
@@ -5769,7 +5769,7 @@
   "created_time": "2026-11-13T17:37:16+0200",
   "creative_id": "2318781655575396",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "The best straightener for big, curly hair, and here’s why 💨\n\n1️⃣ Real heat for real curls. For thick curls, set it to 380 or 410°F, the higher settings made for hair like this.\n2️⃣ Bigger sections. The brush design grabs more hair at once, so you get through a full head much faster.\n3️⃣ One pass. It straightens in a single glide, so you never have to switch to a second tool to finish.\n\nAdd steam that hydrates as it smooths, and big, curly hair turns sleek, swishy and glossy, salon quality at home.\n\nThe Steambrush Pro 2.0 is $79.20 for Black Friday until November 19 🖤",
@@ -5795,21 +5795,21 @@
    ]
   },
   "metrics": {
-   "spend": 161.05,
-   "impressions": 30160,
-   "reach": 17161,
+   "spend": 161.2,
+   "impressions": 30175,
+   "reach": 17166,
    "frequency": 1.76,
    "cpm": 5.34,
    "link_clicks": 351,
    "link_ctr_pct": 1.16,
    "cpc_link": 0.46,
-   "video_3s_views": 7134,
-   "thruplays": 2194,
-   "hook_rate_pct": 23.65,
-   "hold_rate_pct": 30.75,
-   "p25": 2828,
-   "p50": 1844,
-   "p75": 1236,
+   "video_3s_views": 7139,
+   "thruplays": 2196,
+   "hook_rate_pct": 23.66,
+   "hold_rate_pct": 30.76,
+   "p25": 2830,
+   "p50": 1846,
+   "p75": 1238,
    "p100": 367,
    "avg_watch_s": 4.0,
    "landing_page_views": 297,
@@ -5818,9 +5818,9 @@
    "purchases": 6,
    "purchase_value": 526.29,
    "cost_per_atc": 3.66,
-   "cost_per_ic": 7.0,
-   "cpa": 26.84,
-   "roas": 3.27,
+   "cost_per_ic": 7.01,
+   "cpa": 26.87,
+   "roas": 3.26,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-27"
   },
@@ -6145,7 +6145,7 @@
   "created_time": "2026-01-25T19:56:52+0200",
   "creative_id": "891438309919066",
   "market": "LB",
-  "product": "BA Video 8",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "Shop the best-selling wavers, straighteners, and dryers"
@@ -6422,7 +6422,7 @@
   "created_time": "2026-10-29T14:03:24+0200",
   "creative_id": "1153996290909325",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "All that crimped, frizzy length, now smooth as glass ✨\n\nThe routine is simple:\n💧 Fill the little water tank\n🎀 Pile the top half up in a scrunchie\n🖐️ Pop on the heat-safe glove\n✨ Glide the Steambrush Pro 2.0 through, one section at a time\n\nThe steam hydrates while the brush straightens, so even super-long hair comes out sleek, shiny and moving with every turn.\n\nBonus: the glove and scrunchie you see here come in the box. It’s $88, and delivery all over Lebanon."
@@ -8017,19 +8017,19 @@
    ]
   },
   "metrics": {
-   "spend": 112.73,
-   "impressions": 29298,
+   "spend": 112.74,
+   "impressions": 29301,
    "reach": 15481,
    "frequency": 1.89,
    "cpm": 3.85,
    "link_clicks": 416,
    "link_ctr_pct": 1.42,
    "cpc_link": 0.27,
-   "video_3s_views": 8098,
+   "video_3s_views": 8100,
    "thruplays": 1535,
    "hook_rate_pct": 27.64,
-   "hold_rate_pct": 18.96,
-   "p25": 3544,
+   "hold_rate_pct": 18.95,
+   "p25": 3546,
    "p50": 1635,
    "p75": 974,
    "p100": 611,
@@ -8275,7 +8275,7 @@
   "created_time": "2026-10-22T15:09:25+0300",
   "creative_id": "1795442948162898",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "The Steambrush Pro 2.0 straightens with steam, and your hair stays sleek long after you put it down 💧\n\nHeat alone straightens, but it doesn’t hydrate. That’s why frizz usually creeps back.\n\nThis brush adds steam to every glide, hydrating your hair as it styles for a smoother, shinier finish.\n\nWavy, frizzy strands turn glossy and stay that way all day, even on humid ones.\n\nGet it now!"
@@ -8365,7 +8365,7 @@
   "created_time": "2026-11-03T15:56:39+0200",
   "creative_id": "2023632371663939",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "3X faster straightening means sleek, smooth hair in record time ⚡\n\nThe Steambrush Pro 2.0 straightens and brushes in one glide, while a fine steam hydrates every strand along the way. You get fewer passes, less frizz and a lot more shine.\n\nOne of our customers straightened her whole head in about 10 minutes, and that makes for a much easier morning routine 🤍\n\nGet the Steambrush Pro 2.0 for $88, with free delivery anywhere in Lebanon."
@@ -8522,7 +8522,7 @@
    "excludes_web_visitors": false,
    "market_from_targeting": "LB"
   },
-  "creator": "Blond Bangs Hook",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23859086665300795",
    "post_link": "https://www.facebook.com/803246616207248_122146347561058569",
@@ -8813,7 +8813,7 @@
   "created_time": "2026-11-10T20:07:38+0200",
   "creative_id": "1428957328896714",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "PSA: the trick to silky, smooth hair is steam 💨\n\nRegular straighteners only heat your hair. The Steambrush Pro 2.0 adds a fine steam as it glides, so your hair gets hydrated while it straightens. That’s how shoulder-length waves turn sleek, swishy and glossy in a single pass.\n\nLook at that first section next to the rest of her hair. It’s an instant before and after, right there.\n\nSave this tip for your next good hair day ✨\n\n$88 brings it home, with free delivery anywhere in Lebanon.",
@@ -8913,7 +8913,7 @@
   "created_time": "2026-09-01T22:29:46+0300",
   "creative_id": "1061064300219649",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "🥹Tired of spending hours styling your hair?\n✨Get Wavytalk Steamline Pro– Just Salon-Perfect Straightener & Shine!\"\n✅3-in-1 styling tool\n✅3X faster straightening\n✅4 temperature settings\nSay Goodbye to Salon Visits!\n🔥Limited-Time Offer – While Supplies Last!\n#wavytalkthermalbrush#wavytalkblowoutboost#wavytalksteamhairstraightener#wavytalksteamlinepro"
@@ -9073,7 +9073,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Brown Long Hair",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858811052550795",
    "post_link": "https://www.facebook.com/803246616207248_122143390005058569",
@@ -9399,31 +9399,31 @@
    ]
   },
   "metrics": {
-   "spend": 103.9,
-   "impressions": 13565,
-   "reach": 8702,
-   "frequency": 1.56,
-   "cpm": 7.66,
+   "spend": 104.0,
+   "impressions": 13587,
+   "reach": 8739,
+   "frequency": 1.55,
+   "cpm": 7.65,
    "link_clicks": 154,
-   "link_ctr_pct": 1.14,
-   "cpc_link": 0.67,
-   "video_3s_views": 3368,
-   "thruplays": 947,
+   "link_ctr_pct": 1.13,
+   "cpc_link": 0.68,
+   "video_3s_views": 3374,
+   "thruplays": 949,
    "hook_rate_pct": 24.83,
-   "hold_rate_pct": 28.12,
-   "p25": 1144,
-   "p50": 593,
-   "p75": 483,
+   "hold_rate_pct": 28.13,
+   "p25": 1147,
+   "p50": 595,
+   "p75": 484,
    "p100": 217,
    "avg_watch_s": 4.0,
    "landing_page_views": 142,
-   "add_to_cart": 29,
-   "initiate_checkout": 12,
+   "add_to_cart": 32,
+   "initiate_checkout": 14,
    "purchases": 4,
    "purchase_value": 337.8,
-   "cost_per_atc": 3.58,
-   "cost_per_ic": 8.66,
-   "cpa": 25.98,
+   "cost_per_atc": 3.25,
+   "cost_per_ic": 7.43,
+   "cpa": 26.0,
    "roas": 3.25,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-27"
@@ -9840,7 +9840,7 @@
   "created_time": "2025-12-22T23:31:57+0200",
   "creative_id": "1364282749063946",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "shop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕",
@@ -10186,7 +10186,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Messy Hair Hook",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23853119471620795",
    "post_link": "https://www.facebook.com/803246616207248_122124176667058569",
@@ -10209,7 +10209,7 @@
   "created_time": "2026-10-31T23:48:45+0200",
   "creative_id": "1133842446070529",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Spoiler: that sleek hair at the start used to be a full head of curls 🤍\n\nMeet the Steambrush Pro 2.0. It looks like a brush, but there’s a water tank tucked inside. As it glides through each section, it releases steam that smooths the curl and keeps the hair soft instead of crispy.\n\nBun the top, work through the bottom, then let the rest down. A few passes later, the straight, swishy, shiny result is already done.\n\nCurly today, sleek tomorrow, whenever you feel like it. It’s $88, delivered free anywhere in Lebanon 💕"
@@ -11218,13 +11218,13 @@
    ]
   },
   "metrics": {
-   "spend": 89.93,
-   "impressions": 22592,
-   "reach": 11462,
+   "spend": 89.94,
+   "impressions": 22597,
+   "reach": 11470,
    "frequency": 1.97,
    "cpm": 3.98,
    "link_clicks": 383,
-   "link_ctr_pct": 1.7,
+   "link_ctr_pct": 1.69,
    "cpc_link": 0.23,
    "video_3s_views": 6049,
    "thruplays": 1160,
@@ -11236,12 +11236,12 @@
    "p100": 432,
    "avg_watch_s": 3.0,
    "landing_page_views": 391,
-   "add_to_cart": 26,
-   "initiate_checkout": 31,
+   "add_to_cart": 27,
+   "initiate_checkout": 33,
    "purchases": 14,
    "purchase_value": 1145.18,
-   "cost_per_atc": 3.46,
-   "cost_per_ic": 2.9,
+   "cost_per_atc": 3.33,
+   "cost_per_ic": 2.73,
    "cpa": 6.42,
    "roas": 12.73,
    "date_start": "2025-10-07",
@@ -11729,7 +11729,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Blond Hair",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858810979970795",
    "post_link": "https://www.facebook.com/803246616207248_122143388229058569",
@@ -12577,7 +12577,7 @@
   "created_time": "2026-11-13T17:37:16+0200",
   "creative_id": "2247859579942037",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "This steaming tool cut my straightening time in half ⏱️\n\nBig, fluffy, frizzy hair used to mean pass after pass with a flat iron. Now I glide the Steambrush Pro 2.0 through once, and it’s sleek.\n\nThe steam hydrates while it straightens, so the frizz smooths down and my hair comes out soft, swishy and shiny, without that crispy flat-iron finish. The brush shape gets right up to the roots too.\n\nHalf the time, twice the shine 💁‍♀️\n\nThe Steambrush Pro 2.0 is $79.20 for Black Friday until November 19 🖤",
@@ -12677,7 +12677,7 @@
   "created_time": "2026-10-28T00:20:39+0200",
   "creative_id": "1633764925148848",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "The Steambrush Pro 2.0 straightens with steam, and your hair stays sleek long after you put it down 💧\n\nHeat alone straightens, but it doesn’t hydrate. That’s why frizz usually creeps back.\n\nThis brush adds steam to every glide, hydrating your hair as it styles for a smoother, shinier finish.\n\nWavy, frizzy strands turn glossy and stay that way all day, even on humid ones.\n\nGet it now with free delivery!"
@@ -12947,7 +12947,7 @@
   "created_time": "2026-10-17T23:11:33+0300",
   "creative_id": "2180959772491734",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Tell me why this tool straightened 3C curly hair in 17 minutes.\n\nNot a flat iron. Not a blow dryer. Steam.\n\nThe Wavytalk SteamBrush Pro works in 3 passes per section — and the results are shinier, silkier, and healthier-looking than anything else she’d tried. She went in scared. She came out obsessed.\n\nNow it’s your turn.\n\n✅ 20% OFF\n💧 Steam-powered, low-damage straightening\n↩ 30-Day Return Policy — Zero Risk"
@@ -13198,7 +13198,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Blowout Boost",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23853354115270795",
    "post_link": "https://www.facebook.com/803246616207248_122125084707058569",
@@ -13402,7 +13402,7 @@
   "created_time": "2026-10-21T15:48:58+0300",
   "creative_id": "1507171901462368",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Be honest: how many times do you go over the same section? 🙃\n\nTwice? Four times? And the frizz still finds its way back.\n\nBig, frizzy hair doesn’t just need heat. It needs hydration too.\n\nThe Steambrush Pro 2.0 adds steam to every stroke, so one glide per piece is enough. It heats up in 30 seconds and straightens 3X faster.\n\nThat means less time holding a hot tool and more time loving your hair 💁‍♀️\n\nGrab yours today with free delivery!"
@@ -14400,7 +14400,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Silent Magalie",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23855336774320795",
    "post_link": "https://www.facebook.com/803246616207248_122131972371058569",
@@ -15328,7 +15328,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Blowout Tutorial",
+  "creator": "Pretty Curly Girl",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23853772377880795",
    "post_link": "https://www.facebook.com/803246616207248_122126576283058569",
@@ -15812,7 +15812,7 @@
   "created_time": "2026-08-27T16:13:15+0300",
   "creative_id": "28198701133094651",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "💜Transform your look in minutes with Wavytalk Steamline Pro's easy-to-use design."
@@ -17002,7 +17002,7 @@
   "created_time": "2026-09-01T22:38:55+0300",
   "creative_id": "1645848673919537",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "The Straightener That Actually Protects Your Hair"
@@ -18443,7 +18443,7 @@
   "created_time": "2026-10-07T18:56:09+0300",
   "creative_id": "1083830927908401",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [],
    "headlines": [],
@@ -18529,7 +18529,7 @@
   "created_time": "2026-08-27T16:05:45+0300",
   "creative_id": "1046171588208828",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Natural, head-turning straight hair 🌀💖 with minimal effort—perfect for all hair types! 💇‍♀️"
@@ -18963,7 +18963,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Blond Hair",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858838469210795",
    "post_link": "https://www.facebook.com/803246616207248_122143668795058569",
@@ -19178,7 +19178,7 @@
   "created_time": "2026-09-01T22:06:40+0300",
   "creative_id": "1736633740950986",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "💆‍♀3X Faster Straightening + Hydration?\n🔥Wavytalk’s Steamline Pro is the ultimate 3-in-1 styler Steam Brush\n💦 Salon Smoother Hair in 10 Min\n\n👉Get Smoother Hair Today!\n\n😍 Gratifying! From straight to curly, Wavytalk is the tool for you. 😍\n#wavytalkthermalbrush#wavytalkblowoutboost#wavytalksteamhairstraightener#wavytalksteamlinepro",
@@ -19632,7 +19632,7 @@
   "created_time": "2026-08-27T15:52:11+0300",
   "creative_id": "1593343538839453",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Shine, smooth, and steam all in one pass ✨ The Wavytalk Steamline Pro locks in moisture while taming every strand - for sleek, healthy hair made easy!  #wavytalk #wavytalksteamlinepro #silkpress"
@@ -20916,6 +20916,106 @@
   }
  },
  {
+  "ad_id": "23860116170860795",
+  "ad_name": "Blowout Boost - ma ba2a ehjoz blowout bl salon - Malak Hussein - LB Video",
+  "campaign_id": "23859418885870795",
+  "adset_id": "23860116109250795",
+  "campaign_name": "Prospecting Testing",
+  "adset_name": "Pack #94 - Blowout Boost - Malak Hussein - LB Videos - 21/11/2026",
+  "creative": {
+   "id": "2244133179467127",
+   "effective_object_story_id": "803246616207248_122155591803058569",
+   "effective_instagram_media_id": "18654252052005043"
+  },
+  "status": "ACTIVE",
+  "created_time": "2026-11-21T14:21:19+0200",
+  "creative_id": "2244133179467127",
+  "market": "LB",
+  "product": "Blowout Boost",
+  "copy": {
+   "primary_texts": [
+    "Story time: I used to book a salon blowout for every single occasion 🗓️\n\nBirthdays, dinners, weddings, any event meant another appointment, another wait, and building my whole schedule around someone else's.\n\nThen I found the Blowout Boost. It's a thermal brush you use on dry hair. Set your heat, section your hair and roll through. My roots come out lifted, the finish is smooth, and the ends are so bouncy. Honestly, I fell in love with the look.\n\nNow every occasion gets a blowout, on my own time ✨\n\nGet it now through the link!",
+    "3 years later, this brush still surprises me every time I use it 🤍\n\nThe secret to a salon-quality blowout at home? The Blowout Boost. Get yours for $69.",
+    "The secret to effortless, bouncy curls? The Blowout Boost. This game-changing tool creates a fresh salon blowout look without leaving your bathroom!\n\nOnly $69 - try risk-free: pay when it arrives.",
+    "Say goodbye to bad hair days! 🤍 Get salon-quality curls at home with the Blowout Boost. Wrap, hold, and drop for a big, glossy curl that looks like you just stepped out of the salon.\n\n$69 - pay when it's delivered!",
+    "Still using my trusty 3-year-old brush 🤍. Wrap, hold, drop - effortless glossy curls every time! Yours for just $69 (pay at door).",
+    "You only pay when it's at your door! Get the Blowout Boost for $69 and achieve salon-quality curls without leaving home."
+   ],
+   "headlines": [
+    "No More Booking for Every Occasion",
+    "Still gets it done after 3 years",
+    "The blowout brush that never fades",
+    "3 years in, still my go-to curl tool",
+    "Get salon-quality curls at home",
+    "Achieve a fresh salon blowout look"
+   ],
+   "landing_urls": [
+    "https://wavytalk-lb.com/products/blowout-boost?variant=47146859430026"
+   ],
+   "ctas": [
+    "SHOP_NOW"
+   ]
+  },
+  "metrics": {
+   "spend": 47.1,
+   "impressions": 5657,
+   "reach": 3787,
+   "frequency": 1.49,
+   "cpm": 8.33,
+   "link_clicks": 67,
+   "link_ctr_pct": 1.18,
+   "cpc_link": 0.7,
+   "video_3s_views": 1093,
+   "thruplays": 283,
+   "hook_rate_pct": 19.32,
+   "hold_rate_pct": 25.89,
+   "p25": 367,
+   "p50": 188,
+   "p75": 110,
+   "p100": 46,
+   "avg_watch_s": 3.0,
+   "landing_page_views": 52,
+   "add_to_cart": 14,
+   "initiate_checkout": 5,
+   "purchases": 1,
+   "purchase_value": 71.1,
+   "cost_per_atc": 3.36,
+   "cost_per_ic": 9.42,
+   "cpa": 47.1,
+   "roas": 1.51,
+   "date_start": "2025-10-07",
+   "date_stop": "2026-11-27"
+  },
+  "media_keys": [
+   "v_1584029670148052"
+  ],
+  "rotating": false,
+  "context": {
+   "campaign_role": "testing",
+   "funnel_stage": "cold (TOF)",
+   "objective": "OUTCOME_SALES",
+   "budget_type": "ABO",
+   "optimization_goal": "OFFSITE_CONVERSIONS",
+   "bid_strategy": "LOWEST_COST_WITHOUT_CAP",
+   "audience_type": "broad",
+   "advantage_audience": true,
+   "age_range": "18-65",
+   "genders": "all",
+   "countries": "LB",
+   "interests": "",
+   "included_audiences": "",
+   "excluded_audiences": "Purchasers 180 days | Web Visitors 30 | Klaviyo purchasers last 180 days",
+   "excludes_web_visitors": true,
+   "market_from_targeting": "LB"
+  },
+  "creator": "Malak Hussein",
+  "links": {
+   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860116170860795",
+   "post_link": "https://www.facebook.com/803246616207248_122155591803058569",
+   "video_link": ""
+  }
+ },
+ {
   "ad_id": "23857147549060795",
   "ad_name": "Blowout Boost - POV your new 10 min blowout routine",
   "campaign_id": "23857147461390795",
@@ -21006,106 +21106,6 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23857147549060795",
    "post_link": "https://www.facebook.com/803246616207248_122135809485058569",
-   "video_link": ""
-  }
- },
- {
-  "ad_id": "23860116170860795",
-  "ad_name": "Blowout Boost - ma ba2a ehjoz blowout bl salon - Malak Hussein - LB Video",
-  "campaign_id": "23859418885870795",
-  "adset_id": "23860116109250795",
-  "campaign_name": "Prospecting Testing",
-  "adset_name": "Pack #94 - Blowout Boost - Malak Hussein - LB Videos - 21/11/2026",
-  "creative": {
-   "id": "2244133179467127",
-   "effective_object_story_id": "803246616207248_122155591803058569",
-   "effective_instagram_media_id": "18654252052005043"
-  },
-  "status": "ACTIVE",
-  "created_time": "2026-11-21T14:21:19+0200",
-  "creative_id": "2244133179467127",
-  "market": "LB",
-  "product": "Blowout Boost",
-  "copy": {
-   "primary_texts": [
-    "Story time: I used to book a salon blowout for every single occasion 🗓️\n\nBirthdays, dinners, weddings, any event meant another appointment, another wait, and building my whole schedule around someone else's.\n\nThen I found the Blowout Boost. It's a thermal brush you use on dry hair. Set your heat, section your hair and roll through. My roots come out lifted, the finish is smooth, and the ends are so bouncy. Honestly, I fell in love with the look.\n\nNow every occasion gets a blowout, on my own time ✨\n\nGet it now through the link!",
-    "3 years later, this brush still surprises me every time I use it 🤍\n\nThe secret to a salon-quality blowout at home? The Blowout Boost. Get yours for $69.",
-    "The secret to effortless, bouncy curls? The Blowout Boost. This game-changing tool creates a fresh salon blowout look without leaving your bathroom!\n\nOnly $69 - try risk-free: pay when it arrives.",
-    "Say goodbye to bad hair days! 🤍 Get salon-quality curls at home with the Blowout Boost. Wrap, hold, and drop for a big, glossy curl that looks like you just stepped out of the salon.\n\n$69 - pay when it's delivered!",
-    "Still using my trusty 3-year-old brush 🤍. Wrap, hold, drop - effortless glossy curls every time! Yours for just $69 (pay at door).",
-    "You only pay when it's at your door! Get the Blowout Boost for $69 and achieve salon-quality curls without leaving home."
-   ],
-   "headlines": [
-    "No More Booking for Every Occasion",
-    "Still gets it done after 3 years",
-    "The blowout brush that never fades",
-    "3 years in, still my go-to curl tool",
-    "Get salon-quality curls at home",
-    "Achieve a fresh salon blowout look"
-   ],
-   "landing_urls": [
-    "https://wavytalk-lb.com/products/blowout-boost?variant=47146859430026"
-   ],
-   "ctas": [
-    "SHOP_NOW"
-   ]
-  },
-  "metrics": {
-   "spend": 47.05,
-   "impressions": 5652,
-   "reach": 3779,
-   "frequency": 1.5,
-   "cpm": 8.32,
-   "link_clicks": 67,
-   "link_ctr_pct": 1.19,
-   "cpc_link": 0.7,
-   "video_3s_views": 1093,
-   "thruplays": 283,
-   "hook_rate_pct": 19.34,
-   "hold_rate_pct": 25.89,
-   "p25": 367,
-   "p50": 188,
-   "p75": 110,
-   "p100": 46,
-   "avg_watch_s": 3.0,
-   "landing_page_views": 52,
-   "add_to_cart": 14,
-   "initiate_checkout": 5,
-   "purchases": 1,
-   "purchase_value": 71.1,
-   "cost_per_atc": 3.36,
-   "cost_per_ic": 9.41,
-   "cpa": 47.05,
-   "roas": 1.51,
-   "date_start": "2025-10-07",
-   "date_stop": "2026-11-27"
-  },
-  "media_keys": [
-   "v_1584029670148052"
-  ],
-  "rotating": false,
-  "context": {
-   "campaign_role": "testing",
-   "funnel_stage": "cold (TOF)",
-   "objective": "OUTCOME_SALES",
-   "budget_type": "ABO",
-   "optimization_goal": "OFFSITE_CONVERSIONS",
-   "bid_strategy": "LOWEST_COST_WITHOUT_CAP",
-   "audience_type": "broad",
-   "advantage_audience": true,
-   "age_range": "18-65",
-   "genders": "all",
-   "countries": "LB",
-   "interests": "",
-   "included_audiences": "",
-   "excluded_audiences": "Purchasers 180 days | Web Visitors 30 | Klaviyo purchasers last 180 days",
-   "excludes_web_visitors": true,
-   "market_from_targeting": "LB"
-  },
-  "creator": "Malak Hussein",
-  "links": {
-   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860116170860795",
-   "post_link": "https://www.facebook.com/803246616207248_122155591803058569",
    "video_link": ""
   }
  },
@@ -21836,7 +21836,7 @@
    "excludes_web_visitors": false,
    "market_from_targeting": "LB"
   },
-  "creator": "Blond Bangs Hook",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23859136627540795",
    "post_link": "https://www.facebook.com/803246616207248_122146993737058569",
@@ -21859,7 +21859,7 @@
   "created_time": "2026-09-01T22:23:02+0300",
   "creative_id": "1055649517317891",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "💆‍♀3X Faster Straightening + Hydration?\n🔥Wavytalk’s Steamline Pro is the ultimate 3-in-1 styler Steam Brush\n💦 Salon Smoother Hair in 10 Min\n\n👉Get Smoother Hair Today!\n\n😍 Gratifying! From straight to curly, Wavytalk is the tool for you. 😍\n#wavytalkthermalbrush#wavytalkblowoutboost#wavytalksteamhairstraightener#wavytalksteamlinepro",
@@ -22319,7 +22319,7 @@
   "created_time": "2026-09-05T19:43:18+0300",
   "creative_id": "1908510643889414",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Hear me out — if you've never used steam to straighten your hair, you're seriously missing out.\n\nAnd yes, I know what you're thinking. Steam and curly hair don't mix. But that's simply not true. A fine amount of steam actually prevents overdrying — and when your hair stays moisturized, it's far less likely to break. No clamping between two metal plates, no damage, just sleek, healthy, straight hair.\n\nThe Wavytalk Steamline Pro fills up with a small water tank that lasts your entire straightening session. The steam evaporates in five seconds. And the results? Look at that difference.\n\nDon't knock it until you've tried it. Try it risk-free with our 30-day return policy — 20% off now, while stock lasts. ❤️"
@@ -23213,7 +23213,7 @@
    "excludes_web_visitors": false,
    "market_from_targeting": "LB"
   },
-  "creator": "Blond Bangs Hook",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858451341470795",
    "post_link": "https://www.facebook.com/803246616207248_122140793511058569",
@@ -23511,7 +23511,7 @@
   "created_time": "2026-11-11T15:00:01+0200",
   "creative_id": "1341170439090324",
   "market": "LB",
-  "product": "BF Sale",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "Black Friday is ON, with up to 36% off your favorite hair tools 🖤\n\nPair it with the Blowout Essentials Kit or the Everyday Tote, each just $13.49, and your order ships free over $83 🚚\n\nThe sale ends November 19 at 2 AM, or sooner if stock runs out. Swipe, pick your favorite, and shop now through the link 🛍️",
@@ -23615,7 +23615,7 @@
   "created_time": "2026-01-27T22:40:53+0200",
   "creative_id": "783660827376448",
   "market": "LB",
-  "product": "Picture Ramadan",
+  "product": "multi-product",
   "copy": {
    "primary_texts": [
     "shop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕",
@@ -23784,7 +23784,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Blond Hair",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858811169900795",
    "post_link": "https://www.facebook.com/803246616207248_122143396419058569",
@@ -23900,7 +23900,7 @@
   "created_time": "2026-11-05T23:59:53+0200",
   "creative_id": "1535524181736058",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "All of these curls, straightened in 10 minutes 🤯\n\nThe questions I get every time I post this:\n\n“Does it really work in one pass?”\nYes. One glide per section, even on tight, thick curls.\n\n“Doesn’t it dry your hair out?”\nThe steam actually helps your hair hold onto moisture while it straightens, so it comes out soft and shiny, not crispy.\n\n“What about the roots?”\nThe brush gets right into those stubborn spots without burning your scalp.\n\n“How do you make it last?”\nHeat protectant before, and an anti-humidity spray after.\n\nThe Steambrush Pro 2.0 is $88, with free delivery anywhere in Lebanon 💕",
@@ -24731,7 +24731,7 @@
   "created_time": "2026-01-27T22:40:53+0200",
   "creative_id": "900787008978214",
   "market": "LB",
-  "product": "Picture Valentine",
+  "product": "multi-product",
   "copy": {
    "primary_texts": [
     "shop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕",
@@ -25302,7 +25302,7 @@
   "created_time": "2026-01-18T23:48:47+0200",
   "creative_id": "1250838193618741",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "shop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕"
@@ -25642,7 +25642,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Whirlwind Curl",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23853356395570795",
    "post_link": "https://www.facebook.com/803246616207248_122125171875058569",
@@ -25841,7 +25841,7 @@
   "created_time": "2026-09-01T22:15:51+0300",
   "creative_id": "1936389823673165",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "🥹Tired of spending hours styling your hair?\n✨Get Wavytalk Steamline Pro– Just Salon-Perfect Straightener & Shine!\"\n✅3-in-1 styling tool\n✅3X faster straightening\n✅4 temperature settings\nSay Goodbye to Salon Visits!\n🔥Limited-Time Offer – While Supplies Last!\n#wavytalkthermalbrush#wavytalkblowoutboost#wavytalksteamhairstraightener#wavytalksteamlinepro",
@@ -26277,7 +26277,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Blond Hair",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858838175390795",
    "post_link": "https://www.facebook.com/803246616207248_122143661091058569",
@@ -26369,7 +26369,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Blond Hair",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858838412180795",
    "post_link": "https://www.facebook.com/803246616207248_122143666485058569",
@@ -26501,8 +26501,8 @@
    ]
   },
   "metrics": {
-   "spend": 34.94,
-   "impressions": 5158,
+   "spend": 34.95,
+   "impressions": 5161,
    "reach": 2395,
    "frequency": 2.15,
    "cpm": 6.77,
@@ -26524,8 +26524,8 @@
    "purchases": 1,
    "purchase_value": 66.6,
    "cost_per_atc": 6.99,
-   "cost_per_ic": 8.73,
-   "cpa": 34.94,
+   "cost_per_ic": 8.74,
+   "cpa": 34.95,
    "roas": 1.91,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-27"
@@ -27026,7 +27026,7 @@
   "created_time": "2026-10-27T23:30:38+0200",
   "creative_id": "1738431993888914",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "From wavy and frizzy to silky straight. I did half my hair first so you can see the difference 🤍\n\nThe Steambrush Pro 2.0 has a little water tank inside, so it steams while it straightens. That means the frizz smooths down as I go, and my hair comes out soft and shiny instead of dry and flat.\n\nI just glide it through each section once and move on.\n\nNow $88, with free delivery anywhere in Lebanon."
@@ -27208,7 +27208,7 @@
   "created_time": "2026-02-03T00:43:34+0200",
   "creative_id": "2064517954116804",
   "market": "LB",
-  "product": "US Video 14",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "Shop the best-selling wavers, straighteners, and dryers"
@@ -27676,7 +27676,7 @@
   "created_time": "2026-10-21T15:48:58+0300",
   "creative_id": "1095517896803870",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Curly hair that takes forever to straighten 😩\n\nThe Steambrush Pro 2.0 does it in one pass:\n→ Steam hydration to fight frizz\n→ Heat up to 210°C for thick, textured hair\n→ Anti-scald design for styling close to the roots\n→ Heats up in 30 seconds\n\nSleek, shiny hair in minutes ✨\n\nOrder now with free delivery and cash on delivery."
@@ -28130,7 +28130,7 @@
   "created_time": "2026-01-22T02:56:48+0200",
   "creative_id": "2397054517426944",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "shop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕",
@@ -28649,7 +28649,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Whirlwind Curl",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23853356594530795",
    "post_link": "https://www.facebook.com/803246616207248_122125105137058569",
@@ -28740,7 +28740,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "At Home Blowout",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858058327830795",
    "post_link": "https://www.facebook.com/803246616207248_122138385273058569",
@@ -30783,7 +30783,7 @@
   "created_time": "2026-01-25T19:56:52+0200",
   "creative_id": "2993346387721655",
   "market": "LB",
-  "product": "US Video 11",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "Shop the best-selling wavers, straighteners, and dryers"
@@ -31164,7 +31164,7 @@
   "created_time": "2026-11-06T12:44:20+0200",
   "creative_id": "1093663777055527",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Straighten my hair with me, and yes, that shocked face is real 😮\n\nI started with very long, very curly, very frizzy hair. After one glide with the Steambrush Pro 2.0, that section came out sleek, straight and glossy, and I couldn’t believe how fast it worked.\n\nI kept going one section at a time. The steam smooths everything down while keeping it soft, so even hair this long ends up silky all the way to the ends.\n\nWatch to the end for the hair flip ✨\n\nTap Shop Now for $88. Delivery anywhere in Lebanon is free.",
@@ -31947,16 +31947,16 @@
   },
   "metrics": {
    "spend": 28.46,
-   "impressions": 3595,
+   "impressions": 3601,
    "reach": 2372,
    "frequency": 1.52,
-   "cpm": 7.92,
+   "cpm": 7.9,
    "link_clicks": 53,
    "link_ctr_pct": 1.47,
    "cpc_link": 0.54,
    "video_3s_views": 658,
    "thruplays": 173,
-   "hook_rate_pct": 18.3,
+   "hook_rate_pct": 18.27,
    "hold_rate_pct": 26.29,
    "p25": 222,
    "p50": 126,
@@ -33045,7 +33045,7 @@
   "created_time": "2026-01-27T22:40:53+0200",
   "creative_id": "1630636864967036",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "shop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕",
@@ -33421,7 +33421,7 @@
   "created_time": "2026-11-03T15:50:51+0200",
   "creative_id": "1070579258711964",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "I was never a straightener-brush girl, until this one changed my mind 🤍\n\nMy hair is big, thick and frizzy, and most brushes just puff it up even more. The Steambrush Pro 2.0 is different. It has a little water tank that releases steam as you glide, so your hair gets hydrated while it straightens.\n\nPut the top in a scrunchie, hold each section and brush it straight through. The heat-protected bristles mean you can get close to the roots without burning your fingers.\n\nThe shine you get is the part everyone comments on ✨\n\nIt’s $88, with free delivery anywhere in Lebanon."
@@ -33611,7 +33611,7 @@
   "created_time": "2026-11-06T12:44:20+0200",
   "creative_id": "28874734348822203",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Turns out my curls were hiding a LOT of length 😳\n\nI went from big, wild, copper curls to sleek, straight hair that reaches almost to my waist, all with the Steambrush Pro 2.0.\n\nI put the top up in a scrunchie and brushed through each section slowly. The steam smooths every curl and keeps the hair soft and shiny, so even super-long hair comes out silky from root to tip, without that fried, flat-iron look.\n\nCurly or straight, it’s your call every day 🧡\n\n$88, with free delivery anywhere in Lebanon.",
@@ -33887,7 +33887,7 @@
   "created_time": "2026-11-05T11:48:49+0200",
   "creative_id": "1591388198958114",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "One pass is ridiculous. One pass, and that’s it 🤯\n\nLook at the before: thick, crimped and frizzy all the way down. One glide with the Steambrush Pro 2.0 turns it sleek, straight and glossy, with no going back over the same section.\n\nThe secret is steam. The tank inside hydrates your hair as you style, so you get shine instead of that dry, crunchy flat-iron finish.\n\nBig hair, little effort. Bring it home for $88, and delivery’s on us anywhere in Lebanon 🚚\n\nThick hair, meet your shortcut. The Blowout Boost is $69 with free delivery 🤍",
@@ -34704,7 +34704,7 @@
    "excludes_web_visitors": false,
    "market_from_targeting": "LB"
   },
-  "creator": "Whirlwind Curl",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23856118274500795",
    "post_link": "https://www.facebook.com/803246616207248_122133818199058569",
@@ -34886,7 +34886,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Blond Hair",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858838482160795",
    "post_link": "https://www.facebook.com/803246616207248_122143670031058569",
@@ -35266,7 +35266,7 @@
   "created_time": "2026-01-25T19:56:52+0200",
   "creative_id": "4215134345398942",
   "market": "LB",
-  "product": "Picture Red Hair Valentine",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "Shop the best-selling wavers, straighteners, and dryers"
@@ -35356,7 +35356,7 @@
   "created_time": "2026-10-23T10:41:02+0300",
   "creative_id": "2709549746114183",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "The Steambrush Pro 2.0 is a straightener curly hair can feel good about 💧\n\nStraightening curls often feels like choosing between sleek hair and healthy hair.\n\nThis brush adds steam to the heat, hydrating every strand while it straightens. Most sections come out sleek in a single stroke, so even long, thick curls are done fast.\n\nLove your curls on Monday and wear it straight on Friday ✨\n\nOrder now with free delivery!"
@@ -36432,7 +36432,7 @@
    "excludes_web_visitors": false,
    "market_from_targeting": "LB"
   },
-  "creator": "One Tool",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23856702192620795",
    "post_link": "https://www.facebook.com/803246616207248_122134959015058569",
@@ -37385,7 +37385,7 @@
   "created_time": "2026-10-23T10:41:02+0300",
   "creative_id": "2087667278555175",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "6:44 to 6:51. That’s a full blowout on curly hair, done before you’re out the door.\n\nWhen you’re running late, you don’t need perfect. You need smooth, with a little curl at the ends, fast.\n\nThe Blowout Boost glides through curls section by section, and ionic tech handles the frizz while you move.\n\nSeven minutes later, you walk out looking like you planned it.\n\nFor anyone who always cuts it close, this one’s a must.\n\nGet the Blowout Boost for $69."
@@ -38103,7 +38103,7 @@
   "created_time": "2026-10-28T18:13:20+0200",
   "creative_id": "1637075311211474",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Turns out the secret to my sleekest straight hair was a little bit of water 💧\n\nMy straightener now has a tiny water tank. The Steambrush Pro 2.0 turns it into a fine steam while it styles, so my hair gets hydrated at the same time it gets straightened.\n\nThe difference shows. My hair comes out softer, shinier and way less frizzy than with a regular flat iron, and I only need one glide per section.\n\nSteam, brush, done ✨"
@@ -39012,7 +39012,7 @@
   "created_time": "2026-10-17T23:16:22+0300",
   "creative_id": "1141461418321754",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Curly hair and a flat iron is a nightmare.\n\nMultiple passes. Forever styling. And your hair pays the price every single time.\n\nThe Wavytalk SteamBrush Pro is different — steam-powered straightening that gets it done in one pass. Less heat exposure, less damage, and results you’ll actually love.\n\nUnder 20 minutes. One pass. Zero compromise.\n\n20% OFF today + 30-day return policy."
@@ -39104,7 +39104,7 @@
   "created_time": "2026-09-05T19:55:36+0300",
   "creative_id": "2855882528102718",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Why did nobody tell me a steam straightener would make my curly hair not suck up the humidity and get poofy again?\n\nThe Wavytalk Steamline Pro adds moisture back into your hair as it straightens — so instead of fighting humidity all day, your hair already has what it needs to stay sleek. No poof. No frizz. Just straight, smooth hair that actually lasts.\n\nTry it risk-free with our 30-day return policy — 20% off now, while stock lasts. ❤️"
@@ -39392,16 +39392,16 @@
   },
   "metrics": {
    "spend": 19.6,
-   "impressions": 2629,
+   "impressions": 2631,
    "reach": 636,
-   "frequency": 4.13,
-   "cpm": 7.46,
+   "frequency": 4.14,
+   "cpm": 7.45,
    "link_clicks": 36,
    "link_ctr_pct": 1.37,
    "cpc_link": 0.54,
    "video_3s_views": 510,
    "thruplays": 229,
-   "hook_rate_pct": 19.4,
+   "hook_rate_pct": 19.38,
    "hold_rate_pct": 44.9,
    "p25": 227,
    "p50": 85,
@@ -39806,7 +39806,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Blond Hair",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858838216410795",
    "post_link": "https://www.facebook.com/803246616207248_122143662915058569",
@@ -39898,7 +39898,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Blonde Hair",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858924396190795",
    "post_link": "https://www.facebook.com/803246616207248_122144660235058569",
@@ -41037,7 +41037,7 @@
   "created_time": "2026-02-01T13:42:09+0200",
   "creative_id": "1420390306299949",
   "market": "LB",
-  "product": "Video 12 US Influencer",
+  "product": "multi-product",
   "copy": {
    "primary_texts": [
     "shop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕",
@@ -41322,7 +41322,7 @@
   "created_time": "2026-10-20T22:05:29+0300",
   "creative_id": "1153603374000841",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "One of the prettiest blowouts you’ll ever do on your own hair.\n\nVolume. Curls. Bounce. And you did it yourself — in minutes.\n\nThe Wavytalk Blowout Boost makes professional-level results ridiculously easy to get at home. Hot airbrush technology that wraps every strand around the barrel and lets it slide out perfectly every time.\n\nGet 20% OFF today + 30-day return policy. No risk."
@@ -41772,7 +41772,7 @@
   "created_time": "2026-02-03T00:43:34+0200",
   "creative_id": "887305027533778",
   "market": "LB",
-  "product": "US Video 15",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "Shop the best-selling wavers, straighteners, and dryers"
@@ -41862,7 +41862,7 @@
   "created_time": "2025-11-17T11:12:09+0200",
   "creative_id": "1179715097688657",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "She understood the assignment.\nSmooth, shine, repeat 🔁"
@@ -42052,17 +42052,17 @@
    ]
   },
   "metrics": {
-   "spend": 17.41,
-   "impressions": 2124,
+   "spend": 17.44,
+   "impressions": 2127,
    "reach": 597,
    "frequency": 3.56,
    "cpm": 8.2,
    "link_clicks": 39,
-   "link_ctr_pct": 1.84,
+   "link_ctr_pct": 1.83,
    "cpc_link": 0.45,
    "video_3s_views": 393,
    "thruplays": 83,
-   "hook_rate_pct": 18.5,
+   "hook_rate_pct": 18.48,
    "hold_rate_pct": 21.12,
    "p25": 85,
    "p50": 47,
@@ -42075,9 +42075,9 @@
    "purchases": 2,
    "purchase_value": 166.09,
    "cost_per_atc": 2.18,
-   "cost_per_ic": 4.35,
-   "cpa": 8.71,
-   "roas": 9.54,
+   "cost_per_ic": 4.36,
+   "cpa": 8.72,
+   "roas": 9.52,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-27"
   },
@@ -42671,7 +42671,7 @@
   "created_time": "2026-09-05T19:34:24+0300",
   "creative_id": "1083388387479821",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Hear me out — if you've never used steam to straighten your hair, you're seriously missing out.\n\nAnd yes, I know what you're thinking. Steam and curly hair don't mix. But that's simply not true. A fine amount of steam actually prevents overdrying — and when your hair stays moisturized, it's far less likely to break. No clamping between two metal plates, no damage, just sleek, healthy, straight hair.\n\nThe Wavytalk Steamline Pro fills up with a small water tank that lasts your entire straightening session. The steam evaporates in five seconds. And the results? Look at that difference.\n\nDon't knock it until you've tried it. Try it risk-free with our 30-day return policy — 20% off now, while stock lasts. ❤️"
@@ -42762,7 +42762,7 @@
   "created_time": "2026-10-28T18:13:20+0200",
   "creative_id": "1424668573189542",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Waist-length curls, one steam straightener, and a lot of hair to get through 😳\n\nI put it to the test on my longest, curliest hair. Section by section, the steam smoothed out every curl and left it straight, glossy and soft all the way down to the ends.\n\nThere’s no frizz halo and no crunchy ends, just sleek, swishy length I forgot I had.\n\nIf your curls are this long, this is the one you want 🤍\n\nThe Steambrush Pro 2.0 is on sale for $88, with free delivery anywhere in Lebanon."
@@ -44118,7 +44118,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Short Black Hair",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858964103520795",
    "post_link": "https://www.facebook.com/803246616207248_122145129363058569",
@@ -45059,7 +45059,7 @@
   "created_time": "2026-01-03T16:29:43+0200",
   "creative_id": "858967183414826",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "shop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕",
@@ -45180,17 +45180,17 @@
    ]
   },
   "metrics": {
-   "spend": 15.27,
-   "impressions": 1589,
+   "spend": 15.3,
+   "impressions": 1592,
    "reach": 1236,
    "frequency": 1.29,
    "cpm": 9.61,
    "link_clicks": 23,
-   "link_ctr_pct": 1.45,
-   "cpc_link": 0.66,
+   "link_ctr_pct": 1.44,
+   "cpc_link": 0.67,
    "video_3s_views": 350,
    "thruplays": 64,
-   "hook_rate_pct": 22.03,
+   "hook_rate_pct": 21.98,
    "hold_rate_pct": 18.29,
    "p25": 150,
    "p50": 84,
@@ -45202,10 +45202,10 @@
    "initiate_checkout": 1,
    "purchases": 1,
    "purchase_value": 130.0,
-   "cost_per_atc": 5.09,
-   "cost_per_ic": 15.27,
-   "cpa": 15.27,
-   "roas": 8.51,
+   "cost_per_atc": 5.1,
+   "cost_per_ic": 15.3,
+   "cpa": 15.3,
+   "roas": 8.5,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-27"
   },
@@ -45254,7 +45254,7 @@
   "created_time": "2026-11-25T13:28:51+0200",
   "creative_id": "1901138264465077",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Not just straight: straight with a blowout bend 💁‍♀️\n\nComb the Steambrush Pro 2.0 straight down for sleek, smooth length. For a blowout look, roll the ends under as you finish each pass, and you get that soft bend without needing a round brush.\n\nThe steam smooths every strand, so thick, wavy hair comes out glossy, swingy and frizz-free, all with one tool.\n\nPin-straight on Monday, blowout-bouncy on Friday 🧡\n\nGet your Steambrush Pro today!",
@@ -45281,23 +45281,23 @@
   },
   "metrics": {
    "spend": 15.26,
-   "impressions": 2522,
-   "reach": 2161,
-   "frequency": 1.17,
-   "cpm": 6.05,
+   "impressions": 2525,
+   "reach": 2175,
+   "frequency": 1.16,
+   "cpm": 6.04,
    "link_clicks": 28,
    "link_ctr_pct": 1.11,
    "cpc_link": 0.55,
-   "video_3s_views": 775,
-   "thruplays": 187,
-   "hook_rate_pct": 30.73,
-   "hold_rate_pct": 24.13,
-   "p25": 469,
-   "p50": 173,
+   "video_3s_views": 780,
+   "thruplays": 188,
+   "hook_rate_pct": 30.89,
+   "hold_rate_pct": 24.1,
+   "p25": 472,
+   "p50": 174,
    "p75": 131,
    "p100": 102,
    "avg_watch_s": 5.0,
-   "landing_page_views": 19,
+   "landing_page_views": 21,
    "add_to_cart": 2,
    "initiate_checkout": 0,
    "purchases": 0,
@@ -45928,18 +45928,18 @@
    ]
   },
   "metrics": {
-   "spend": 14.73,
-   "impressions": 1863,
+   "spend": 14.78,
+   "impressions": 1872,
    "reach": 1426,
    "frequency": 1.31,
-   "cpm": 7.91,
+   "cpm": 7.9,
    "link_clicks": 24,
-   "link_ctr_pct": 1.29,
-   "cpc_link": 0.61,
-   "video_3s_views": 472,
+   "link_ctr_pct": 1.28,
+   "cpc_link": 0.62,
+   "video_3s_views": 473,
    "thruplays": 125,
-   "hook_rate_pct": 25.34,
-   "hold_rate_pct": 26.48,
+   "hook_rate_pct": 25.27,
+   "hold_rate_pct": 26.43,
    "p25": 215,
    "p50": 135,
    "p75": 97,
@@ -45950,7 +45950,7 @@
    "initiate_checkout": 0,
    "purchases": 0,
    "purchase_value": 0.0,
-   "cost_per_atc": 14.73,
+   "cost_per_atc": 14.78,
    "cost_per_ic": null,
    "cpa": null,
    "roas": 0.0,
@@ -46223,19 +46223,19 @@
    ]
   },
   "metrics": {
-   "spend": 14.47,
-   "impressions": 1764,
-   "reach": 1410,
+   "spend": 14.5,
+   "impressions": 1770,
+   "reach": 1414,
    "frequency": 1.25,
-   "cpm": 8.2,
+   "cpm": 8.19,
    "link_clicks": 16,
-   "link_ctr_pct": 0.91,
-   "cpc_link": 0.9,
-   "video_3s_views": 363,
+   "link_ctr_pct": 0.9,
+   "cpc_link": 0.91,
+   "video_3s_views": 364,
    "thruplays": 58,
-   "hook_rate_pct": 20.58,
-   "hold_rate_pct": 15.98,
-   "p25": 280,
+   "hook_rate_pct": 20.56,
+   "hold_rate_pct": 15.93,
+   "p25": 281,
    "p50": 152,
    "p75": 103,
    "p100": 58,
@@ -46570,7 +46570,7 @@
   "created_time": "2026-11-25T13:28:51+0200",
   "creative_id": "1608990420550475",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Straight hair >>> and this was a LOT of hair to straighten 🧡\n\nShe started with waist-length, crimped, frizzy ginger curls. Pinning the top up in two little buns, she glided the Steambrush Pro 2.0 through section by section, and the curls turned into glass-like, swishy, poker-straight length.\n\nThe steam keeps it soft and shiny the whole way down, even on hair this long.\n\nIf you've been saving straight-hair inspo, this is how you actually get it ✨\n\nGet your Steambrush Pro today!",
@@ -46596,17 +46596,17 @@
    ]
   },
   "metrics": {
-   "spend": 14.36,
-   "impressions": 2072,
-   "reach": 1779,
-   "frequency": 1.16,
-   "cpm": 6.93,
+   "spend": 14.38,
+   "impressions": 2079,
+   "reach": 1784,
+   "frequency": 1.17,
+   "cpm": 6.92,
    "link_clicks": 19,
-   "link_ctr_pct": 0.92,
+   "link_ctr_pct": 0.91,
    "cpc_link": 0.76,
    "video_3s_views": 610,
    "thruplays": 220,
-   "hook_rate_pct": 29.44,
+   "hook_rate_pct": 29.34,
    "hold_rate_pct": 36.07,
    "p25": 462,
    "p50": 289,
@@ -47050,7 +47050,7 @@
   "created_time": "2026-11-22T22:54:35+0200",
   "creative_id": "2621507901610622",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Short hair can get the bouncy blowout too 💁‍♀️\n\nHere’s how I do mine. I rough-dry my hair first, then clip the top half up and roll the Blowout Boost under through the bottom section. Then I let the top down and do the same, but for the front pieces I lift and roll them back, away from my face.\n\nThe result is full roots, curled-under ends and that glossy, swingy shape you usually only get from a salon, even at shoulder length.\n\nProof that you don’t need long hair for big blowout energy 🤍\n\nBlack Friday price: $62.10 until November 19.",
@@ -47624,19 +47624,19 @@
    ]
   },
   "metrics": {
-   "spend": 13.71,
-   "impressions": 2407,
-   "reach": 2002,
+   "spend": 13.73,
+   "impressions": 2413,
+   "reach": 2009,
    "frequency": 1.2,
-   "cpm": 5.7,
+   "cpm": 5.69,
    "link_clicks": 19,
    "link_ctr_pct": 0.79,
    "cpc_link": 0.72,
-   "video_3s_views": 516,
+   "video_3s_views": 518,
    "thruplays": 95,
-   "hook_rate_pct": 21.44,
-   "hold_rate_pct": 18.41,
-   "p25": 497,
+   "hook_rate_pct": 21.47,
+   "hold_rate_pct": 18.34,
+   "p25": 499,
    "p50": 234,
    "p75": 140,
    "p100": 97,
@@ -47698,7 +47698,7 @@
   "created_time": "2026-11-25T13:28:51+0200",
   "creative_id": "1515700213738185",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Frizzy and curly-haired girls, this one's for you 💗\n\nShe has very thick, very long, wavy-curly hair, and she was nervous it wouldn't work. Then the Steambrush Pro 2.0 glided right through.\n\n💨 Steam locks in moisture, so hair comes out super soft\n🪮 Comb teeth get close to the scalp without burning\n✨ Comb straight through for sleek, straight hair, or use the included heat glove to bend the ends for a blowout look\n\nThick hair, tamed in style 🤍\n\nGet your Steambrush Pro today!",
@@ -47725,23 +47725,23 @@
   },
   "metrics": {
    "spend": 13.67,
-   "impressions": 1902,
-   "reach": 1428,
+   "impressions": 1906,
+   "reach": 1430,
    "frequency": 1.33,
-   "cpm": 7.19,
+   "cpm": 7.17,
    "link_clicks": 15,
    "link_ctr_pct": 0.79,
    "cpc_link": 0.91,
    "video_3s_views": 337,
    "thruplays": 134,
-   "hook_rate_pct": 17.72,
+   "hook_rate_pct": 17.68,
    "hold_rate_pct": 39.76,
    "p25": 173,
    "p50": 102,
    "p75": 70,
    "p100": 42,
    "avg_watch_s": 4.0,
-   "landing_page_views": 12,
+   "landing_page_views": 13,
    "add_to_cart": 1,
    "initiate_checkout": 0,
    "purchases": 0,
@@ -47914,32 +47914,32 @@
    ]
   },
   "metrics": {
-   "spend": 13.54,
-   "impressions": 1740,
-   "reach": 1353,
-   "frequency": 1.29,
+   "spend": 13.6,
+   "impressions": 1747,
+   "reach": 1362,
+   "frequency": 1.28,
    "cpm": 7.78,
    "link_clicks": 12,
    "link_ctr_pct": 0.69,
    "cpc_link": 1.13,
-   "video_3s_views": 384,
-   "thruplays": 54,
-   "hook_rate_pct": 22.07,
-   "hold_rate_pct": 14.06,
-   "p25": 60,
-   "p50": 20,
-   "p75": 10,
-   "p100": 4,
+   "video_3s_views": 386,
+   "thruplays": 55,
+   "hook_rate_pct": 22.1,
+   "hold_rate_pct": 14.25,
+   "p25": 61,
+   "p50": 21,
+   "p75": 11,
+   "p100": 5,
    "avg_watch_s": 3.0,
    "landing_page_views": 8,
    "add_to_cart": 1,
    "initiate_checkout": 1,
    "purchases": 1,
    "purchase_value": 66.6,
-   "cost_per_atc": 13.54,
-   "cost_per_ic": 13.54,
-   "cpa": 13.54,
-   "roas": 4.92,
+   "cost_per_atc": 13.6,
+   "cost_per_ic": 13.6,
+   "cpa": 13.6,
+   "roas": 4.9,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-27"
   },
@@ -48445,7 +48445,7 @@
   "created_time": "2026-10-26T12:58:05+0200",
   "creative_id": "1851209442563414",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Straightened my 3C curls just to see how long they really are 🎀\n\nThe Steambrush Pro 2.0 uses steam to hydrate while it smooths, so even the tightest curls turn sleek, shiny and silky soft ✨\n\nNow on sale for $88, with free delivery 💕"
@@ -49086,7 +49086,7 @@
   "created_time": "2026-03-30T23:36:20+0300",
   "creative_id": "4334277230120864",
   "market": "LB",
-  "product": "Can you guess",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "Something new is almost here. ✨\nStay tuned. 👀\n\n#wavytalk #wavytalklebanon #hairtools #hair"
@@ -49270,7 +49270,7 @@
   "created_time": "2026-10-17T22:55:25+0300",
   "creative_id": "1008664864967354",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Curly hair and a flat iron is a nightmare.\n\nMultiple passes. Forever styling. And your hair pays the price every single time.\n\nThe Wavytalk SteamBrush Pro is different — steam-powered straightening that gets it done in one pass. Less heat exposure, less damage, and results you’ll actually love.\n\nUnder 20 minutes. One pass. Zero compromise.\n\n20% OFF today + 30-day return policy."
@@ -49459,7 +49459,7 @@
   "created_time": "2026-01-03T15:58:18+0200",
   "creative_id": "1226869872670849",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Shop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕",
@@ -49850,13 +49850,13 @@
    ]
   },
   "metrics": {
-   "spend": 11.98,
-   "impressions": 1638,
-   "reach": 988,
+   "spend": 12.01,
+   "impressions": 1644,
+   "reach": 990,
    "frequency": 1.66,
    "cpm": 7.31,
    "link_clicks": 42,
-   "link_ctr_pct": 2.56,
+   "link_ctr_pct": 2.55,
    "cpc_link": 0.29,
    "video_3s_views": 0,
    "thruplays": 0,
@@ -49873,9 +49873,9 @@
    "purchases": 1,
    "purchase_value": 66.6,
    "cost_per_atc": 3.0,
-   "cost_per_ic": 5.99,
-   "cpa": 11.98,
-   "roas": 5.56,
+   "cost_per_ic": 6.0,
+   "cpa": 12.01,
+   "roas": 5.55,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-27"
   },
@@ -50024,7 +50024,7 @@
   "created_time": "2026-10-23T11:46:55+0300",
   "creative_id": "1809131670415046",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "last few days of summer🫶🏻"
@@ -50035,21 +50035,21 @@
   },
   "metrics": {
    "spend": 11.69,
-   "impressions": 10938,
+   "impressions": 10940,
    "reach": 5992,
    "frequency": 1.83,
    "cpm": 1.07,
    "link_clicks": 1,
    "link_ctr_pct": 0.01,
    "cpc_link": 11.69,
-   "video_3s_views": 1762,
-   "thruplays": 128,
-   "hook_rate_pct": 16.11,
-   "hold_rate_pct": 7.26,
-   "p25": 1177,
-   "p50": 372,
-   "p75": 200,
-   "p100": 122,
+   "video_3s_views": 1765,
+   "thruplays": 129,
+   "hook_rate_pct": 16.13,
+   "hold_rate_pct": 7.31,
+   "p25": 1180,
+   "p50": 374,
+   "p75": 201,
+   "p100": 123,
    "avg_watch_s": 2.0,
    "landing_page_views": 0,
    "add_to_cart": 0,
@@ -51123,7 +51123,7 @@
   "created_time": "2026-10-23T11:46:55+0300",
   "creative_id": "2257128191533665",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "quickest and safest straightener💞"
@@ -51133,8 +51133,8 @@
    "ctas": []
   },
   "metrics": {
-   "spend": 10.65,
-   "impressions": 10485,
+   "spend": 10.66,
+   "impressions": 10488,
    "reach": 7722,
    "frequency": 1.36,
    "cpm": 1.02,
@@ -51143,7 +51143,7 @@
    "cpc_link": null,
    "video_3s_views": 3984,
    "thruplays": 2326,
-   "hook_rate_pct": 38.0,
+   "hook_rate_pct": 37.99,
    "hold_rate_pct": 58.38,
    "p25": 2598,
    "p50": 1942,
@@ -51277,7 +51277,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Brown Long Hair",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858873025730795",
    "post_link": "https://www.facebook.com/803246616207248_122143932165058569",
@@ -52049,7 +52049,7 @@
   "created_time": "2025-11-19T13:46:41+0200",
   "creative_id": "2666794917015730",
   "market": "LB",
-  "product": "New Traffic Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "POV: your bestie and you getting ready and hyping each other up while pretending you’re in a hair commercial 💅"
@@ -52093,8 +52093,8 @@
   ],
   "rotating": false,
   "context": {
-   "campaign_role": "other",
-   "funnel_stage": "cold (TOF)",
+   "campaign_role": "traffic",
+   "funnel_stage": "traffic",
    "objective": "OUTCOME_TRAFFIC",
    "budget_type": "ABO",
    "optimization_goal": "PROFILE_VISIT",
@@ -52114,6 +52114,96 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23850628774110795",
    "post_link": "https://www.facebook.com/803246616207248_683431291261226",
+   "video_link": ""
+  }
+ },
+ {
+  "ad_id": "23860136130530795",
+  "ad_name": "Steambrush - Black Friday - Static",
+  "campaign_id": "23859136155560795",
+  "adset_id": "23859294958440795",
+  "campaign_name": "Retargeting",
+  "adset_name": "Pack #3 - 07/10/26 - Steambrush Pro",
+  "creative": {
+   "id": "1177360018132295",
+   "effective_object_story_id": "803246616207248_122155897179058569",
+   "effective_instagram_media_id": "17900279883412285"
+  },
+  "status": "ACTIVE",
+  "created_time": "2026-11-23T21:46:51+0200",
+  "creative_id": "1177360018132295",
+  "market": "LB",
+  "product": "Steambrush Pro",
+  "copy": {
+   "primary_texts": [
+    "Get your Steambrush Pro 2.0 this Black Friday at 27 % OFF 💕\nLimited time, limited stock!"
+   ],
+   "headlines": [
+    "Steambrush Pro 2.0 | 27 % OFF"
+   ],
+   "landing_urls": [
+    "https://wavytalk-lb.com/products/steamline-pro?variant=47456669663370"
+   ],
+   "ctas": [
+    "SHOP_NOW"
+   ]
+  },
+  "metrics": {
+   "spend": 9.9,
+   "impressions": 1613,
+   "reach": 904,
+   "frequency": 1.78,
+   "cpm": 6.14,
+   "link_clicks": 26,
+   "link_ctr_pct": 1.61,
+   "cpc_link": 0.38,
+   "video_3s_views": 0,
+   "thruplays": 0,
+   "hook_rate_pct": 0.0,
+   "hold_rate_pct": null,
+   "p25": 0,
+   "p50": 0,
+   "p75": 0,
+   "p100": 0,
+   "avg_watch_s": 0,
+   "landing_page_views": 19,
+   "add_to_cart": 5,
+   "initiate_checkout": 4,
+   "purchases": 0,
+   "purchase_value": 0.0,
+   "cost_per_atc": 1.98,
+   "cost_per_ic": 2.48,
+   "cpa": null,
+   "roas": 0.0,
+   "date_start": "2025-10-07",
+   "date_stop": "2026-11-27"
+  },
+  "media_keys": [
+   "i_d904aa6f8068c50b5896fc6cab7eb57c"
+  ],
+  "rotating": false,
+  "context": {
+   "campaign_role": "retargeting",
+   "funnel_stage": "warm (MOF/BOF)",
+   "objective": "OUTCOME_SALES",
+   "budget_type": "CBO",
+   "optimization_goal": "OFFSITE_CONVERSIONS",
+   "bid_strategy": "",
+   "audience_type": "warm_custom_audience",
+   "advantage_audience": false,
+   "age_range": "18-65",
+   "genders": "women",
+   "countries": "LB",
+   "interests": "",
+   "included_audiences": "ATC 90 | IC 90 | Web Visitors 30",
+   "excluded_audiences": "Purchasers 180 days | Klaviyo purchasers last 180 days",
+   "excludes_web_visitors": false,
+   "market_from_targeting": "LB"
+  },
+  "creator": "",
+  "links": {
+   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860136130530795",
+   "post_link": "https://www.facebook.com/803246616207248_122155897179058569",
    "video_link": ""
   }
  },
@@ -52213,96 +52303,6 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23857189080230795",
    "post_link": "https://www.facebook.com/803246616207248_122134926465058569",
-   "video_link": ""
-  }
- },
- {
-  "ad_id": "23860136130530795",
-  "ad_name": "Steambrush - Black Friday - Static",
-  "campaign_id": "23859136155560795",
-  "adset_id": "23859294958440795",
-  "campaign_name": "Retargeting",
-  "adset_name": "Pack #3 - 07/10/26 - Steambrush Pro",
-  "creative": {
-   "id": "1177360018132295",
-   "effective_object_story_id": "803246616207248_122155897179058569",
-   "effective_instagram_media_id": "17900279883412285"
-  },
-  "status": "ACTIVE",
-  "created_time": "2026-11-23T21:46:51+0200",
-  "creative_id": "1177360018132295",
-  "market": "LB",
-  "product": "Steamline Pro",
-  "copy": {
-   "primary_texts": [
-    "Get your Steambrush Pro 2.0 this Black Friday at 27 % OFF 💕\nLimited time, limited stock!"
-   ],
-   "headlines": [
-    "Steambrush Pro 2.0 | 27 % OFF"
-   ],
-   "landing_urls": [
-    "https://wavytalk-lb.com/products/steamline-pro?variant=47456669663370"
-   ],
-   "ctas": [
-    "SHOP_NOW"
-   ]
-  },
-  "metrics": {
-   "spend": 9.89,
-   "impressions": 1612,
-   "reach": 904,
-   "frequency": 1.78,
-   "cpm": 6.14,
-   "link_clicks": 26,
-   "link_ctr_pct": 1.61,
-   "cpc_link": 0.38,
-   "video_3s_views": 0,
-   "thruplays": 0,
-   "hook_rate_pct": 0.0,
-   "hold_rate_pct": null,
-   "p25": 0,
-   "p50": 0,
-   "p75": 0,
-   "p100": 0,
-   "avg_watch_s": 0,
-   "landing_page_views": 19,
-   "add_to_cart": 5,
-   "initiate_checkout": 4,
-   "purchases": 0,
-   "purchase_value": 0.0,
-   "cost_per_atc": 1.98,
-   "cost_per_ic": 2.47,
-   "cpa": null,
-   "roas": 0.0,
-   "date_start": "2025-10-07",
-   "date_stop": "2026-11-27"
-  },
-  "media_keys": [
-   "i_d904aa6f8068c50b5896fc6cab7eb57c"
-  ],
-  "rotating": false,
-  "context": {
-   "campaign_role": "retargeting",
-   "funnel_stage": "warm (MOF/BOF)",
-   "objective": "OUTCOME_SALES",
-   "budget_type": "CBO",
-   "optimization_goal": "OFFSITE_CONVERSIONS",
-   "bid_strategy": "",
-   "audience_type": "warm_custom_audience",
-   "advantage_audience": false,
-   "age_range": "18-65",
-   "genders": "women",
-   "countries": "LB",
-   "interests": "",
-   "included_audiences": "ATC 90 | IC 90 | Web Visitors 30",
-   "excluded_audiences": "Purchasers 180 days | Klaviyo purchasers last 180 days",
-   "excludes_web_visitors": false,
-   "market_from_targeting": "LB"
-  },
-  "creator": "",
-  "links": {
-   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860136130530795",
-   "post_link": "https://www.facebook.com/803246616207248_122155897179058569",
    "video_link": ""
   }
  },
@@ -52422,7 +52422,7 @@
   "created_time": "2026-02-03T00:43:34+0200",
   "creative_id": "2833509216852199",
   "market": "LB",
-  "product": "US Video 9",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "Shop the best-selling wavers, straighteners, and dryers"
@@ -52512,7 +52512,7 @@
   "created_time": "2025-11-17T11:20:57+0200",
   "creative_id": "25026824980310199",
   "market": "LB",
-  "product": "New Awareness Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "✨ Because good hair talks first, and it always says “main character energy.”"
@@ -52598,7 +52598,7 @@
   "created_time": "2026-09-12T12:19:01+0300",
   "creative_id": "2564296440705581",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "our new drop!!💞✨"
@@ -52772,7 +52772,7 @@
   "created_time": "2026-04-22T21:06:07+0300",
   "creative_id": "1362639402368580",
   "market": "LB",
-  "product": "3 hairstyles whirlwind curl US",
+  "product": "Whirlwind Curl",
   "copy": {
    "primary_texts": [
     "One tool. Three moods. The Whirlwind Curl understood the assignment ✨#wavytalk #wavytalklebanon #blowout #grwm #hair"
@@ -52833,7 +52833,7 @@
    "excludes_web_visitors": false,
    "market_from_targeting": "LB"
   },
-  "creator": "Whirlwind Curl",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23854461053370795",
    "post_link": "https://www.facebook.com/803246616207248_122129560449058569",
@@ -53149,17 +53149,17 @@
    ]
   },
   "metrics": {
-   "spend": 9.37,
-   "impressions": 1220,
+   "spend": 9.38,
+   "impressions": 1222,
    "reach": 352,
    "frequency": 3.47,
    "cpm": 7.68,
    "link_clicks": 19,
-   "link_ctr_pct": 1.56,
+   "link_ctr_pct": 1.55,
    "cpc_link": 0.49,
    "video_3s_views": 230,
    "thruplays": 53,
-   "hook_rate_pct": 18.85,
+   "hook_rate_pct": 18.82,
    "hold_rate_pct": 23.04,
    "p25": 52,
    "p50": 19,
@@ -53172,9 +53172,9 @@
    "purchases": 1,
    "purchase_value": 67.1,
    "cost_per_atc": 1.56,
-   "cost_per_ic": 9.37,
-   "cpa": 9.37,
-   "roas": 7.16,
+   "cost_per_ic": 9.38,
+   "cpa": 9.38,
+   "roas": 7.15,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-27"
   },
@@ -53418,7 +53418,7 @@
   "created_time": "2026-08-22T14:16:18+0300",
   "creative_id": "3275376299326679",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "90’s style💞"
@@ -53502,7 +53502,7 @@
   "created_time": "2026-05-25T22:36:13+0300",
   "creative_id": "1319669250095378",
   "market": "LB",
-  "product": "In depth tutorial",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "in depth tutorial💇‍♀️ #wavytalklebanon #wavytalk #hair #hairtools"
@@ -54042,7 +54042,7 @@
   "created_time": "2026-01-27T22:40:53+0200",
   "creative_id": "2325449697868472",
   "market": "LB",
-  "product": "Video 11 US Influencer",
+  "product": "multi-product",
   "copy": {
    "primary_texts": [
     "shop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕",
@@ -54142,7 +54142,7 @@
   "created_time": "2026-05-25T22:38:19+0300",
   "creative_id": "990007936857076",
   "market": "JO",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "Which color are you? 🤍🩷🩵💜💛\n\n#wavytalk #wavytalkjordan #blowoutboost #hairtools"
@@ -54226,7 +54226,7 @@
   "created_time": "2026-05-20T15:58:44+0300",
   "creative_id": "1889895028381578",
   "market": "LB",
-  "product": "nothing makes a GRWM",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "nothing makes a GRWM better than a fresh blowout with the WavyTalk Blowout Boost💞 #wavytalklebanon #wavytalk #hair #hairtools #grwm"
@@ -54406,7 +54406,7 @@
   "created_time": "2026-04-14T20:57:23+0300",
   "creative_id": "2720434508337837",
   "market": "LB",
-  "product": "Red Hair US Ambassador",
+  "product": "Whirlwind Curl",
   "copy": {
    "primary_texts": [
     "From full-on volume to soft, spring-ready curls 🌼\nCreated with the Whirlwind Curl for that bouncy, polished finish without the overdone look. #wavytalk #wavytalklebanon #springhair #grwm #curlyhair"
@@ -54672,7 +54672,7 @@
   "created_time": "2026-10-28T00:20:39+0200",
   "creative_id": "972956228695046",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Be honest: how many times do you go over the same section? 🙃\n\nTwice? Four times? And the frizz still finds its way back.\n\nBig, frizzy hair doesn’t just need heat. It needs hydration too.\n\nThe Steambrush Pro 2.0 adds steam to every stroke, so one glide per piece is enough. It heats up in 30 seconds and straightens 3X faster.\n\nThat means less time holding a hot tool and more time loving your hair 💁‍♀️\n\nGrab yours today with free delivery!"
@@ -54762,7 +54762,7 @@
   "created_time": "2026-05-20T16:07:10+0300",
   "creative_id": "967591909355825",
   "market": "JO",
-  "product": "No words needed",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "No words needed, just results…✨\n\nThe blowout boost doing what it does best 😍\n\n#wavytalk #wavytalkjordan #hairtools #blowoutboost"
@@ -54846,7 +54846,7 @@
   "created_time": "2026-06-08T06:53:50+0300",
   "creative_id": "1827268898250186",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "look at those curls✨ #wavytalklebanon #wavytalk #hair #hairtools"
@@ -55083,7 +55083,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Front Section",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23856858107830795",
    "post_link": "https://www.facebook.com/803246616207248_122135250747058569",
@@ -55106,7 +55106,7 @@
   "created_time": "2026-05-20T16:11:45+0300",
   "creative_id": "1964261784207893",
   "market": "JO",
-  "product": "everyone's been gate",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "Everyone’s been gate keeping this 🤫\n\n10 minutes. That’s all it takes\n\nFull blowout at home with the Wavytalk blowout boost.. ✨\n\n#wavytalk #wavytalkjordan #blowoutboost #hairtools"
@@ -55284,7 +55284,7 @@
   "created_time": "2026-05-20T16:02:31+0300",
   "creative_id": "990876946894925",
   "market": "LB",
-  "product": "the whirlwind pro",
+  "product": "Whirlwind Curl",
   "copy": {
    "primary_texts": [
     "The whirlwind pro✨💇‍♀️💞 #wavytalklebanon #wavytalk #hair"
@@ -55723,7 +55723,7 @@
   "created_time": "2026-11-05T23:36:53+0200",
   "creative_id": "1480885100628326",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "The Blowout Boost: Fast & Easy Styling \n✅ Ready in 30 seconds\n✅ Ionic tech leaves every section glossy and smooth\n✅ No extra time needed for fuller, bouncier hair Order today!",
@@ -55748,17 +55748,17 @@
    ]
   },
   "metrics": {
-   "spend": 7.29,
-   "impressions": 855,
+   "spend": 7.3,
+   "impressions": 857,
    "reach": 281,
-   "frequency": 3.04,
-   "cpm": 8.53,
+   "frequency": 3.05,
+   "cpm": 8.52,
    "link_clicks": 22,
    "link_ctr_pct": 2.57,
    "cpc_link": 0.33,
    "video_3s_views": 155,
    "thruplays": 51,
-   "hook_rate_pct": 18.13,
+   "hook_rate_pct": 18.09,
    "hold_rate_pct": 32.9,
    "p25": 88,
    "p50": 49,
@@ -55772,8 +55772,8 @@
    "purchase_value": 76.59,
    "cost_per_atc": 1.82,
    "cost_per_ic": 3.65,
-   "cpa": 7.29,
-   "roas": 10.51,
+   "cpa": 7.3,
+   "roas": 10.49,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-27"
   },
@@ -55822,7 +55822,7 @@
   "created_time": "2026-07-29T23:37:45+0300",
   "creative_id": "1702375980975244",
   "market": "LB",
-  "product": "Catalog Retargeting Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "Still thinking about it? Your {{product.name}}  is waiting for you!"
@@ -55975,7 +55975,7 @@
    "excludes_web_visitors": false,
    "market_from_targeting": "LB"
   },
-  "creator": "Bangs Styling",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23859136155570795",
    "post_link": "https://www.facebook.com/803246616207248_122146991271058569",
@@ -56098,7 +56098,7 @@
   "created_time": "2026-01-03T16:29:43+0200",
   "creative_id": "1226869872670849",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Shop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕",
@@ -56193,7 +56193,7 @@
   "created_time": "2026-06-02T18:41:12+0300",
   "creative_id": "1381216853824348",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "⏱️⏱️⏱️⏱️ #wavytalklebanon #wavytalk #hair #hairtools"
@@ -56557,7 +56557,7 @@
   "created_time": "2026-01-03T16:29:43+0200",
   "creative_id": "1224763976203966",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Shop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕",
@@ -56820,7 +56820,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Front Section",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23856857947520795",
    "post_link": "https://www.facebook.com/803246616207248_122135251311058569",
@@ -57302,7 +57302,7 @@
   "created_time": "2026-10-23T11:46:55+0300",
   "creative_id": "1480508307285632",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "What we want to see tonightt!!!!"
@@ -57481,7 +57481,7 @@
   "created_time": "2026-01-03T16:29:43+0200",
   "creative_id": "26617608447838876",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "shop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕",
@@ -57861,7 +57861,7 @@
   "created_time": "2026-08-31T20:08:41+0300",
   "creative_id": "1046171588208828",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Natural, head-turning straight hair 🌀💖 with minimal effort—perfect for all hair types! 💇‍♀️"
@@ -57952,7 +57952,7 @@
   "created_time": "2026-08-19T21:56:42+0300",
   "creative_id": "4471243519689093",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "even on short hair💞"
@@ -58327,8 +58327,8 @@
   "metrics": {
    "spend": 5.08,
    "impressions": 1099,
-   "reach": 476,
-   "frequency": 2.31,
+   "reach": 478,
+   "frequency": 2.3,
    "cpm": 4.62,
    "link_clicks": 20,
    "link_ctr_pct": 1.82,
@@ -58489,7 +58489,7 @@
   "created_time": "2026-01-03T16:29:43+0200",
   "creative_id": "1371002114353463",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "hop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕",
@@ -58769,7 +58769,7 @@
   "created_time": "2026-08-01T10:53:25+0300",
   "creative_id": "4072372799583680",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "Soft blowout tutorial 🤍"
@@ -59497,6 +59497,96 @@
   }
  },
  {
+  "ad_id": "23860136137060795",
+  "ad_name": "Steambrush - Black Friday - Static 2",
+  "campaign_id": "23859136155560795",
+  "adset_id": "23859294958440795",
+  "campaign_name": "Retargeting",
+  "adset_name": "Pack #3 - 07/10/26 - Steambrush Pro",
+  "creative": {
+   "id": "1487387213260938",
+   "effective_object_story_id": "803246616207248_122155896741058569",
+   "effective_instagram_media_id": "18427301140154667"
+  },
+  "status": "ACTIVE",
+  "created_time": "2026-11-23T21:45:34+0200",
+  "creative_id": "1487387213260938",
+  "market": "LB",
+  "product": "Steambrush Pro",
+  "copy": {
+   "primary_texts": [
+    "Get your Steambrush Pro 2.0 this Black Friday at 27 % OFF 💕\nLimited time, limited stock!"
+   ],
+   "headlines": [
+    "Steambrush Pro 2.0 | 27 % OFF"
+   ],
+   "landing_urls": [
+    "https://wavytalk-lb.com/products/steamline-pro?variant=47456669663370"
+   ],
+   "ctas": [
+    "SHOP_NOW"
+   ]
+  },
+  "metrics": {
+   "spend": 4.45,
+   "impressions": 466,
+   "reach": 333,
+   "frequency": 1.4,
+   "cpm": 9.55,
+   "link_clicks": 9,
+   "link_ctr_pct": 1.93,
+   "cpc_link": 0.49,
+   "video_3s_views": 0,
+   "thruplays": 0,
+   "hook_rate_pct": 0.0,
+   "hold_rate_pct": null,
+   "p25": 0,
+   "p50": 0,
+   "p75": 0,
+   "p100": 0,
+   "avg_watch_s": 0,
+   "landing_page_views": 9,
+   "add_to_cart": 0,
+   "initiate_checkout": 0,
+   "purchases": 0,
+   "purchase_value": 0.0,
+   "cost_per_atc": null,
+   "cost_per_ic": null,
+   "cpa": null,
+   "roas": 0.0,
+   "date_start": "2025-10-07",
+   "date_stop": "2026-11-27"
+  },
+  "media_keys": [
+   "i_5adcfeacab1ca76b5d7ce410e8087b3f"
+  ],
+  "rotating": false,
+  "context": {
+   "campaign_role": "retargeting",
+   "funnel_stage": "warm (MOF/BOF)",
+   "objective": "OUTCOME_SALES",
+   "budget_type": "CBO",
+   "optimization_goal": "OFFSITE_CONVERSIONS",
+   "bid_strategy": "",
+   "audience_type": "warm_custom_audience",
+   "advantage_audience": false,
+   "age_range": "18-65",
+   "genders": "women",
+   "countries": "LB",
+   "interests": "",
+   "included_audiences": "ATC 90 | IC 90 | Web Visitors 30",
+   "excluded_audiences": "Purchasers 180 days | Klaviyo purchasers last 180 days",
+   "excludes_web_visitors": false,
+   "market_from_targeting": "LB"
+  },
+  "creator": "",
+  "links": {
+   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860136137060795",
+   "post_link": "https://www.facebook.com/803246616207248_122155896741058569",
+   "video_link": ""
+  }
+ },
+ {
   "ad_id": "23856126487100795",
   "ad_name": "one tool endless hair days",
   "campaign_id": "23856126443370795",
@@ -59512,7 +59602,7 @@
   "created_time": "2026-05-28T19:02:02+0300",
   "creative_id": "2074648096422379",
   "market": "LB",
-  "product": "one tool endless hair days",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "One tool, endless hair days ✨\nThe WavyTalk Airflow is literally the definition of doing the most with the least effort. Whether you want a sleek blowout, soft bouncy curls, or that effortless voluminous finish, this tool does it all without needing to switch between 10 different products. The airflow technology helps style your hair while reducing frizz and giving that smooth salon-like finish at home. Perfect for busy mornings, last minute plans, or those days when you want your hair to look expensive with minimal effort 🤍 3 styles, 1 tool, and a routine that suddenly became way easier. #WavyTalk #AirflowStyler #HairTok #BlowoutHair #easyhairroutine"
@@ -59577,96 +59667,6 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23856126487100795",
    "post_link": "https://www.facebook.com/803246616207248_27275813975392891",
-   "video_link": ""
-  }
- },
- {
-  "ad_id": "23860136137060795",
-  "ad_name": "Steambrush - Black Friday - Static 2",
-  "campaign_id": "23859136155560795",
-  "adset_id": "23859294958440795",
-  "campaign_name": "Retargeting",
-  "adset_name": "Pack #3 - 07/10/26 - Steambrush Pro",
-  "creative": {
-   "id": "1487387213260938",
-   "effective_object_story_id": "803246616207248_122155896741058569",
-   "effective_instagram_media_id": "18427301140154667"
-  },
-  "status": "ACTIVE",
-  "created_time": "2026-11-23T21:45:34+0200",
-  "creative_id": "1487387213260938",
-  "market": "LB",
-  "product": "Steamline Pro",
-  "copy": {
-   "primary_texts": [
-    "Get your Steambrush Pro 2.0 this Black Friday at 27 % OFF 💕\nLimited time, limited stock!"
-   ],
-   "headlines": [
-    "Steambrush Pro 2.0 | 27 % OFF"
-   ],
-   "landing_urls": [
-    "https://wavytalk-lb.com/products/steamline-pro?variant=47456669663370"
-   ],
-   "ctas": [
-    "SHOP_NOW"
-   ]
-  },
-  "metrics": {
-   "spend": 4.43,
-   "impressions": 461,
-   "reach": 330,
-   "frequency": 1.4,
-   "cpm": 9.61,
-   "link_clicks": 9,
-   "link_ctr_pct": 1.95,
-   "cpc_link": 0.49,
-   "video_3s_views": 0,
-   "thruplays": 0,
-   "hook_rate_pct": 0.0,
-   "hold_rate_pct": null,
-   "p25": 0,
-   "p50": 0,
-   "p75": 0,
-   "p100": 0,
-   "avg_watch_s": 0,
-   "landing_page_views": 7,
-   "add_to_cart": 0,
-   "initiate_checkout": 0,
-   "purchases": 0,
-   "purchase_value": 0.0,
-   "cost_per_atc": null,
-   "cost_per_ic": null,
-   "cpa": null,
-   "roas": 0.0,
-   "date_start": "2025-10-07",
-   "date_stop": "2026-11-27"
-  },
-  "media_keys": [
-   "i_5adcfeacab1ca76b5d7ce410e8087b3f"
-  ],
-  "rotating": false,
-  "context": {
-   "campaign_role": "retargeting",
-   "funnel_stage": "warm (MOF/BOF)",
-   "objective": "OUTCOME_SALES",
-   "budget_type": "CBO",
-   "optimization_goal": "OFFSITE_CONVERSIONS",
-   "bid_strategy": "",
-   "audience_type": "warm_custom_audience",
-   "advantage_audience": false,
-   "age_range": "18-65",
-   "genders": "women",
-   "countries": "LB",
-   "interests": "",
-   "included_audiences": "ATC 90 | IC 90 | Web Visitors 30",
-   "excluded_audiences": "Purchasers 180 days | Klaviyo purchasers last 180 days",
-   "excludes_web_visitors": false,
-   "market_from_targeting": "LB"
-  },
-  "creator": "",
-  "links": {
-   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860136137060795",
-   "post_link": "https://www.facebook.com/803246616207248_122155896741058569",
    "video_link": ""
   }
  },
@@ -59780,7 +59780,7 @@
   "created_time": "2026-08-01T00:00:43+0300",
   "creative_id": "1706186533838440",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "our two best selling products🩷"
@@ -60056,7 +60056,7 @@
   "created_time": "2026-10-23T11:46:55+0300",
   "creative_id": "1629730661867096",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "our favorite curler!!"
@@ -60067,7 +60067,7 @@
   },
   "metrics": {
    "spend": 4.16,
-   "impressions": 4533,
+   "impressions": 4536,
    "reach": 3270,
    "frequency": 1.39,
    "cpm": 0.92,
@@ -60076,7 +60076,7 @@
    "cpc_link": null,
    "video_3s_views": 2110,
    "thruplays": 555,
-   "hook_rate_pct": 46.55,
+   "hook_rate_pct": 46.52,
    "hold_rate_pct": 26.3,
    "p25": 1343,
    "p50": 625,
@@ -60140,7 +60140,7 @@
   "created_time": "2026-06-03T18:02:11+0300",
   "creative_id": "878161335317049",
   "market": "JO",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "The Blowout Boost crew…All in one place🤍\n\n#wavytalkjordan #wavytalk #hairessentials #blowoutboost #goodhairdays"
@@ -60224,7 +60224,7 @@
   "created_time": "2026-08-07T18:14:03+0300",
   "creative_id": "1949681875742857",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "best volume💞"
@@ -60398,7 +60398,7 @@
   "created_time": "2026-01-27T22:40:53+0200",
   "creative_id": "1653871826025313",
   "market": "LB",
-  "product": "Video 10 US Influencer",
+  "product": "multi-product",
   "copy": {
    "primary_texts": [
     "shop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕",
@@ -60498,7 +60498,7 @@
   "created_time": "2026-09-07T08:25:32+0300",
   "creative_id": "1446267957317583",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "must do✨"
@@ -60744,7 +60744,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "At Home Blowout",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858157410830795",
    "post_link": "https://www.facebook.com/803246616207248_122138720475058569",
@@ -60793,14 +60793,14 @@
    ]
   },
   "metrics": {
-   "spend": 3.69,
-   "impressions": 304,
-   "reach": 198,
-   "frequency": 1.54,
-   "cpm": 12.14,
+   "spend": 3.71,
+   "impressions": 307,
+   "reach": 200,
+   "frequency": 1.53,
+   "cpm": 12.08,
    "link_clicks": 1,
    "link_ctr_pct": 0.33,
-   "cpc_link": 3.69,
+   "cpc_link": 3.71,
    "video_3s_views": 0,
    "thruplays": 0,
    "hook_rate_pct": 0.0,
@@ -60962,7 +60962,7 @@
   "created_time": "2026-03-25T19:06:11+0200",
   "creative_id": "1990214835211290",
   "market": "LB",
-  "product": "Hair Dresser Results",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "The result? Let her hair do the talking ✨\n\n#wavytalk #wavytalklebanon #blowoutboost #hairdresser #hairtalk"
@@ -61046,7 +61046,7 @@
   "created_time": "2026-09-04T21:03:58+0300",
   "creative_id": "1066386793040305",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "obsessed 🤩"
@@ -61960,7 +61960,7 @@
   "created_time": "2026-01-03T16:29:43+0200",
   "creative_id": "1406792450813452",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "hop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕",
@@ -62148,7 +62148,7 @@
   "created_time": "2026-03-19T15:28:24+0200",
   "creative_id": "2192386558170329",
   "market": "LB",
-  "product": "Magalie",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "If you want a blowout look in just 10 minutes…✨\nyou need this Wavytalk brush.\n\nSo easy. So good 🤍\nMakes mornings sooo much easier.\n\n#wavytalklebanon #wavytalk #blowout #blowoutboost #hairtools"
@@ -62533,18 +62533,18 @@
    ]
   },
   "metrics": {
-   "spend": 2.64,
-   "impressions": 249,
+   "spend": 2.65,
+   "impressions": 251,
    "reach": 188,
-   "frequency": 1.32,
-   "cpm": 10.6,
+   "frequency": 1.34,
+   "cpm": 10.56,
    "link_clicks": 2,
    "link_ctr_pct": 0.8,
    "cpc_link": 1.32,
-   "video_3s_views": 57,
+   "video_3s_views": 58,
    "thruplays": 25,
-   "hook_rate_pct": 22.89,
-   "hold_rate_pct": 43.86,
+   "hook_rate_pct": 23.11,
+   "hold_rate_pct": 43.1,
    "p25": 25,
    "p50": 8,
    "p75": 7,
@@ -62607,7 +62607,7 @@
   "created_time": "2026-09-04T21:55:08+0300",
   "creative_id": "1936389823673165",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "🥹Tired of spending hours styling your hair?\n✨Get Wavytalk Steamline Pro– Just Salon-Perfect Straightener & Shine!\"\n✅3-in-1 styling tool\n✅3X faster straightening\n✅4 temperature settings\nSay Goodbye to Salon Visits!\n🔥Limited-Time Offer – While Supplies Last!\n#wavytalkthermalbrush#wavytalkblowoutboost#wavytalksteamhairstraightener#wavytalksteamlinepro",
@@ -63084,7 +63084,7 @@
   "created_time": "2026-03-23T23:15:28+0200",
   "creative_id": "930611079669984",
   "market": "LB",
-  "product": "Hair Dresser",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "You know it’s different when even your hairdresser wants one. 🌟\n\nThe Blowout Boost just earned a new fan — and he’s a professional\n\n#wavytalk #wavytalklebanon #hair #blowoutboost #thermalbrush"
@@ -63353,7 +63353,7 @@
   "created_time": "2026-02-03T00:43:34+0200",
   "creative_id": "3897579123880388",
   "market": "LB",
-  "product": "BA Video 5",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "Shop the best-selling wavers, straighteners, and dryers"
@@ -64635,7 +64635,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Front Section",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858058694820795",
    "post_link": "https://www.facebook.com/803246616207248_122135250747058569",
@@ -64658,7 +64658,7 @@
   "created_time": "2026-02-01T13:42:09+0200",
   "creative_id": "912438041262579",
   "market": "LB",
-  "product": "Video 15 US Influencer",
+  "product": "multi-product",
   "copy": {
    "primary_texts": [
     "shop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕",
@@ -64758,7 +64758,7 @@
   "created_time": "2026-01-03T15:58:18+0200",
   "creative_id": "26617608447838876",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "shop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕",
@@ -64853,7 +64853,7 @@
   "created_time": "2026-09-21T15:40:19+0300",
   "creative_id": "1643767180790669",
   "market": "LB",
-  "product": "All Products",
+  "product": "unknown",
   "copy": {
    "primary_texts": [],
    "headlines": [
@@ -65111,7 +65111,7 @@
   "created_time": "2026-03-19T15:22:43+0200",
   "creative_id": "824649280653813",
   "market": "LB",
-  "product": "Mira Second Video",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "Not a salon. Not a filter.\nJust the Blowout Boost 😌✨\n\nThis is what your hair should look like every day 💁‍♀️\nNo effort. No damage. Just results. #wavytalk #wavytalklebanon #grwm #blowout #hair"
@@ -65265,7 +65265,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Whirlwind Curl",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23856335809640795",
    "post_link": "https://www.facebook.com/803246616207248_122134209549058569",
@@ -65468,7 +65468,7 @@
   "created_time": "2026-08-12T12:06:17+0300",
   "creative_id": "3289979974670377",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "a gem 💎💞"
@@ -65552,7 +65552,7 @@
   "created_time": "2026-08-19T21:52:45+0300",
   "creative_id": "1932721780742317",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "the easiest and fastest way to style your hair at home💞"
@@ -65636,7 +65636,7 @@
   "created_time": "2026-11-04T23:27:03+0200",
   "creative_id": "1843689010102191",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Spoiler: that sleek hair at the start used to be a full head of curls 🤍\n\nMeet the Steambrush Pro 2.0. It looks like a brush, but there’s a water tank tucked inside. As it glides through each section, it releases steam that smooths the curl and keeps the hair soft instead of crispy.\n\nBun the top, work through the bottom, then let the rest down. A few passes later, the straight, swishy, shiny result is already done."
@@ -65726,7 +65726,7 @@
   "created_time": "2026-01-25T19:56:52+0200",
   "creative_id": "883383984603794",
   "market": "LB",
-  "product": "BA Video 4",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "Shop the best-selling wavers, straighteners, and dryers"
@@ -65885,7 +65885,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Front Section",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23857963751520795",
    "post_link": "https://www.facebook.com/803246616207248_122135250747058569",
@@ -66279,7 +66279,7 @@
   "created_time": "2026-03-19T15:38:49+0200",
   "creative_id": "1464703775037677",
   "market": "LB",
-  "product": "Magalie",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "The goal? Soft, effortless waves ✨\nThe tool? Blowout Boost.\n\nNo salon.\nNo struggle.\nJust brush… and done.\n\nIt’s really that easy 🤍 #wavytalk #blowoutboost #wavytalklebanon #grwm #hair"
@@ -66363,7 +66363,7 @@
   "created_time": "2026-07-31T23:21:42+0300",
   "creative_id": "1614335593578424",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "The blowout boost never fails to amaze me💞"
@@ -66447,7 +66447,7 @@
   "created_time": "2026-08-14T21:50:47+0300",
   "creative_id": "2147770412844154",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "the best way to use the Airflow curler😍"
@@ -66531,7 +66531,7 @@
   "created_time": "2026-07-31T23:23:37+0300",
   "creative_id": "2747531298977662",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "Hairdresser approved ✅"
@@ -66705,7 +66705,7 @@
   "created_time": "2026-03-19T15:24:30+0200",
   "creative_id": "1365776955585764",
   "market": "LB",
-  "product": "Magalie",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "Final touchups before heading out ✨\nFeaturing our favorite Wavytalk brush 🤍\n\nSo easy. So good.\n\n#wavytalklebanon #wavytalk #blowoutboost #hairtools #hairroutine"
@@ -66879,7 +66879,7 @@
   "created_time": "2026-02-01T13:42:09+0200",
   "creative_id": "1309022334589459",
   "market": "LB",
-  "product": "Video 13 US Influencer",
+  "product": "multi-product",
   "copy": {
    "primary_texts": [
     "shop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕",
@@ -67069,7 +67069,7 @@
   "created_time": "2026-10-23T11:46:55+0300",
   "creative_id": "2001144720524239",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "no better curls🖤"
@@ -67418,6 +67418,96 @@
   }
  },
  {
+  "ad_id": "23860136233740795",
+  "ad_name": "Whirlwind - The quickest way that I get these bouncy curls - US Video",
+  "campaign_id": "23859136155560795",
+  "adset_id": "23859642258160795",
+  "campaign_name": "Retargeting",
+  "adset_name": "Pack #6 - Whirlwind - US Videos - 20/10/2026",
+  "creative": {
+   "id": "1865809244616484",
+   "effective_object_story_id": "803246616207248_122155908879058569",
+   "effective_instagram_media_id": "18130990855854603"
+  },
+  "status": "ACTIVE",
+  "created_time": "2026-11-23T22:25:15+0200",
+  "creative_id": "1865809244616484",
+  "market": "LB",
+  "product": "Whirlwind Curl",
+  "copy": {
+   "primary_texts": [
+    "The quickest route to big, bouncy curls is this one tool 🌀\n\nHere’s the cheat code: clip the top up, twist the Whirlwind Curl as you glide down, and let the cool air do its thing. As you style, 104 tiny vents blow cool air around each curl to lock the shape in, so you can use less heat and still get curls that hold.\n\nCustomers say their curls last for days. Pick your heat setting, and your curls come out soft, shiny and full of bounce.\n\nGet yours this Black Friday before the sale ends!"
+   ],
+   "headlines": [
+    "The Quickest Way to Bouncy Curls"
+   ],
+   "landing_urls": [
+    "https://wavytalk-lb.com/products/whirlwind-curl?variant=47829258993802"
+   ],
+   "ctas": [
+    "SHOP_NOW"
+   ]
+  },
+  "metrics": {
+   "spend": 0.88,
+   "impressions": 101,
+   "reach": 73,
+   "frequency": 1.38,
+   "cpm": 8.71,
+   "link_clicks": 4,
+   "link_ctr_pct": 3.96,
+   "cpc_link": 0.22,
+   "video_3s_views": 0,
+   "thruplays": 0,
+   "hook_rate_pct": 0.0,
+   "hold_rate_pct": null,
+   "p25": 0,
+   "p50": 0,
+   "p75": 0,
+   "p100": 0,
+   "avg_watch_s": 0,
+   "landing_page_views": 3,
+   "add_to_cart": 0,
+   "initiate_checkout": 0,
+   "purchases": 0,
+   "purchase_value": 0.0,
+   "cost_per_atc": null,
+   "cost_per_ic": null,
+   "cpa": null,
+   "roas": 0.0,
+   "date_start": "2025-10-07",
+   "date_stop": "2026-11-27"
+  },
+  "media_keys": [
+   "i_272f48f7482e439a91b2b4dfe7f65f29"
+  ],
+  "rotating": false,
+  "context": {
+   "campaign_role": "retargeting",
+   "funnel_stage": "warm (MOF/BOF)",
+   "objective": "OUTCOME_SALES",
+   "budget_type": "CBO",
+   "optimization_goal": "OFFSITE_CONVERSIONS",
+   "bid_strategy": "",
+   "audience_type": "warm_custom_audience",
+   "advantage_audience": false,
+   "age_range": "18-65",
+   "genders": "all",
+   "countries": "LB",
+   "interests": "",
+   "included_audiences": "ATC 90 | IC 90 | Web Visitors 30",
+   "excluded_audiences": "Purchasers 180 days | Klaviyo purchasers last 180 days",
+   "excludes_web_visitors": false,
+   "market_from_targeting": "LB"
+  },
+  "creator": "",
+  "links": {
+   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860136233740795",
+   "post_link": "https://www.facebook.com/803246616207248_122155908879058569",
+   "video_link": ""
+  }
+ },
+ {
   "ad_id": "23855700586550795",
   "ad_name": "Magalie - Hair Dresser - Jordan",
   "campaign_id": "23855699748060795",
@@ -67592,96 +67682,6 @@
   }
  },
  {
-  "ad_id": "23860136233740795",
-  "ad_name": "Whirlwind - The quickest way that I get these bouncy curls - US Video",
-  "campaign_id": "23859136155560795",
-  "adset_id": "23859642258160795",
-  "campaign_name": "Retargeting",
-  "adset_name": "Pack #6 - Whirlwind - US Videos - 20/10/2026",
-  "creative": {
-   "id": "1865809244616484",
-   "effective_object_story_id": "803246616207248_122155908879058569",
-   "effective_instagram_media_id": "18130990855854603"
-  },
-  "status": "ACTIVE",
-  "created_time": "2026-11-23T22:25:15+0200",
-  "creative_id": "1865809244616484",
-  "market": "LB",
-  "product": "Whirlwind Curl",
-  "copy": {
-   "primary_texts": [
-    "The quickest route to big, bouncy curls is this one tool 🌀\n\nHere’s the cheat code: clip the top up, twist the Whirlwind Curl as you glide down, and let the cool air do its thing. As you style, 104 tiny vents blow cool air around each curl to lock the shape in, so you can use less heat and still get curls that hold.\n\nCustomers say their curls last for days. Pick your heat setting, and your curls come out soft, shiny and full of bounce.\n\nGet yours this Black Friday before the sale ends!"
-   ],
-   "headlines": [
-    "The Quickest Way to Bouncy Curls"
-   ],
-   "landing_urls": [
-    "https://wavytalk-lb.com/products/whirlwind-curl?variant=47829258993802"
-   ],
-   "ctas": [
-    "SHOP_NOW"
-   ]
-  },
-  "metrics": {
-   "spend": 0.87,
-   "impressions": 98,
-   "reach": 73,
-   "frequency": 1.34,
-   "cpm": 8.88,
-   "link_clicks": 4,
-   "link_ctr_pct": 4.08,
-   "cpc_link": 0.22,
-   "video_3s_views": 0,
-   "thruplays": 0,
-   "hook_rate_pct": 0.0,
-   "hold_rate_pct": null,
-   "p25": 0,
-   "p50": 0,
-   "p75": 0,
-   "p100": 0,
-   "avg_watch_s": 0,
-   "landing_page_views": 3,
-   "add_to_cart": 0,
-   "initiate_checkout": 0,
-   "purchases": 0,
-   "purchase_value": 0.0,
-   "cost_per_atc": null,
-   "cost_per_ic": null,
-   "cpa": null,
-   "roas": 0.0,
-   "date_start": "2025-10-07",
-   "date_stop": "2026-11-27"
-  },
-  "media_keys": [
-   "i_272f48f7482e439a91b2b4dfe7f65f29"
-  ],
-  "rotating": false,
-  "context": {
-   "campaign_role": "retargeting",
-   "funnel_stage": "warm (MOF/BOF)",
-   "objective": "OUTCOME_SALES",
-   "budget_type": "CBO",
-   "optimization_goal": "OFFSITE_CONVERSIONS",
-   "bid_strategy": "",
-   "audience_type": "warm_custom_audience",
-   "advantage_audience": false,
-   "age_range": "18-65",
-   "genders": "all",
-   "countries": "LB",
-   "interests": "",
-   "included_audiences": "ATC 90 | IC 90 | Web Visitors 30",
-   "excluded_audiences": "Purchasers 180 days | Klaviyo purchasers last 180 days",
-   "excludes_web_visitors": false,
-   "market_from_targeting": "LB"
-  },
-  "creator": "",
-  "links": {
-   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860136233740795",
-   "post_link": "https://www.facebook.com/803246616207248_122155908879058569",
-   "video_link": ""
-  }
- },
- {
   "ad_id": "23851048603300795",
   "ad_name": "Pic #2",
   "campaign_id": "23850959251960795",
@@ -67792,7 +67792,7 @@
   "created_time": "2026-01-03T15:58:18+0200",
   "creative_id": "1406792450813452",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "hop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕",
@@ -67887,7 +67887,7 @@
   "created_time": "2026-02-01T13:42:09+0200",
   "creative_id": "1788910841797478",
   "market": "LB",
-  "product": "Video 14 US Influencer",
+  "product": "multi-product",
   "copy": {
    "primary_texts": [
     "shop the best-selling wavers, straighteners, and dryers today 💁‍♀️💕",
@@ -67987,7 +67987,7 @@
   "created_time": "2026-11-23T21:46:42+0200",
   "creative_id": "4612979628938902",
   "market": "LB",
-  "product": "Steamline Pro",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "Tight curls vs. the Steambrush Pro 2.0: a first-try test 🧪\n\nHere’s what happened:\nCurls up in a bun ✔️\nHeat-safe glove on ✔️\nOne section, one glide, and the curls turned into sleek, smooth length 😳\n\nThe steam hydrates as it straightens, so even super-curly hair comes out soft and shiny instead of fried. Spoiler: the glove comes in the box too.\n\nVerdict: absolutely worth it.\n\nTap Shop Now to try it on your own curls 💕"
@@ -68628,7 +68628,7 @@
   "created_time": "2026-10-23T11:46:55+0300",
   "creative_id": "1103563279076524",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "ohhh we have to be dramatic it’s the best thermal brush out there"
@@ -68712,7 +68712,7 @@
   "created_time": "2026-10-23T11:46:55+0300",
   "creative_id": "1764738154639365",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "who says it’s only for summer?✨💞"
@@ -68866,7 +68866,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Brown Long Hair",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858836360300795",
    "post_link": "https://www.facebook.com/803246616207248_122143390005058569",
@@ -68889,7 +68889,7 @@
   "created_time": "2026-10-23T11:46:55+0300",
   "creative_id": "1114516077601763",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "our tips💞"
@@ -68973,7 +68973,7 @@
   "created_time": "2026-06-02T19:22:01+0300",
   "creative_id": "2185063102255894",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "which one is your fav??\n #wavytalklebanon #wavytalk #hair #hairtools"
@@ -69147,7 +69147,7 @@
   "created_time": "2026-05-20T15:55:11+0300",
   "creative_id": "1289651346615861",
   "market": "LB",
-  "product": "This is your sign",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "this is your sign💞 #wavytalklebanon #wavytalk #hair #hairtools"
@@ -69231,7 +69231,7 @@
   "created_time": "2026-10-23T11:46:35+0300",
   "creative_id": "1088145940662418",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "our favorite💞"
@@ -69315,7 +69315,7 @@
   "created_time": "2026-06-02T18:42:04+0300",
   "creative_id": "1283403120484631",
   "market": "LB",
-  "product": "New Engagement Ad",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "15 minutes at home? yesss!! #wavytalklebanon #wavytalk #hair #hairtools"
@@ -69864,7 +69864,7 @@
   "created_time": "2026-05-28T18:58:27+0300",
   "creative_id": "2079085662640234",
   "market": "LB",
-  "product": "this is not magic wand",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "this is the magic wand✨✨ #wavytalklebanon #wavytalk #hair #hairtools #blowoutboost"
@@ -69948,7 +69948,7 @@
   "created_time": "2026-05-28T18:59:44+0300",
   "creative_id": "1430201492198864",
   "market": "LB",
-  "product": "fav 10 mins of the day",
+  "product": "unknown",
   "copy": {
    "primary_texts": [
     "fav 10 mins of the day💞 #wavytalklebanon #wavytalk #hair #hairtools"
@@ -70563,7 +70563,7 @@
    "excludes_web_visitors": true,
    "market_from_targeting": "LB"
   },
-  "creator": "Whirlwind Curl",
+  "creator": "",
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23856858354140795",
    "post_link": "https://www.facebook.com/803246616207248_122135247555058569",
