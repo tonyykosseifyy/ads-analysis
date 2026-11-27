@@ -113,3 +113,47 @@ def test_high_demand_503_backs_off_and_recovers(tmp_path, monkeypatch):
     f.write_bytes(b"x")
     assert a.analyze(f)["asset_type"] == "video"
     assert [w for w in waits if w >= 30] == [30, 60, 90, 120, 120]  # ignores the 4s upload polls
+
+
+class FakeBlob:
+    def __init__(self, bucket, name):
+        self.bucket, self.name, self.deleted, self.uploaded = bucket, name, False, None
+
+    def upload_from_filename(self, filename, content_type=None):
+        self.uploaded = (filename, content_type)
+
+    def delete(self):
+        self.deleted = True
+
+
+class FakeBucket:
+    name = "proj-ad-videos"
+
+    def __init__(self):
+        self.blobs = []
+
+    def blob(self, name):
+        b = FakeBlob(self, name)
+        self.blobs.append(b)
+        return b
+
+
+def test_vertex_passes_video_from_private_bucket_and_cleans_up(tmp_path):
+    bucket = FakeBucket()
+    models = FakeModels([json.dumps(SAMPLE)])
+    client = SimpleNamespace(files=FakeFiles(), models=models)
+    a = g.GeminiAnalyzer(None, "gemini-3.8-flash", client=client, vertex={"project": "p", "bucket": "b"}, bucket=bucket)
+    f = tmp_path / "v_1.mp4"
+    f.write_bytes(b"x")
+    assert a.analyze(f)["asset_type"] == "video"
+    blob = bucket.blobs[0]
+    assert blob.uploaded == (str(f), "video/mp4") and blob.deleted
+    assert client.files.polls == 0 and client.files.deleted == []  # AI Studio Files API not used on Vertex
+
+
+def test_make_analyzer_requires_the_right_settings():
+    from aca.config import Settings
+    with pytest.raises(SystemExit, match="GCS_BUCKET"):
+        g.make_analyzer(Settings(gemini_backend="vertex", gcp_project="p", gcs_bucket=None), "m")
+    with pytest.raises(SystemExit, match="GEMINI_API_KEY"):
+        g.make_analyzer(Settings(gemini_backend="aistudio", gemini_api_key=None), "m")

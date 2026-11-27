@@ -3,3 +3,4 @@ google-genai>=3.0
 gspread>=6.1
 google-auth>=2.35
 pytest>=8.0
+google-cloud-storage>=2.18

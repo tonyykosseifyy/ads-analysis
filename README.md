@@ -106,6 +106,14 @@ In this repo, go to **Settings → Secrets and variables → Actions**.
 - **Variables:** `SHEET_ID`. Optionally also `GEMINI_MODEL` (default `gemini-3.8-flash`) and
   `CONCURRENCY` (default 6).
 
+### 5. Gemini through Google Cloud (Vertex AI), set up 27/11/2026
+Billing runs through Google Cloud, so the **$300 Google Cloud credit** applies. It doesn't apply to an AI Studio key.
+- **Project:** `gen-lang-client-0686021992`.
+- **Service account:** `ads-analysis@…`, with **no key**. Its roles are *Agent Platform user* on the project and *Storage Object Admin* on the video bucket only.
+- **Video bucket:** `gen-lang-client-0686021992-ad-videos`. It's private, and it deletes anything older than 1 day. The app also deletes each video as soon as Gemini has read it.
+- **GitHub sign-in:** through Workload Identity Federation (pool `github`, provider `ads-analysis`), with no key file. The provider only accepts tokens from `tonyykosseifyy/ads-analysis`.
+- To go back to the AI Studio key, set the repo variable `GEMINI_BACKEND=aistudio`.
+
 ## Running it
 
 Go to **Actions → Analyze ads → Run workflow**.

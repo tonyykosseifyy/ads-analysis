@@ -136,10 +136,10 @@ def analyze_all(settings: Settings, meta: MetaClient, store: Store, ads: list[di
             log.info("would watch %s  ($%.2f)", k, spend_by_key.get(k, 0))
         return stats
 
-    from .gemini import GeminiAnalyzer, ModelUnavailable
-    settings.require("gemini_api_key")
+    from . import gemini
+    from .gemini import ModelUnavailable
     unavailable: set[str] = set()
-    analyzers = {m: GeminiAnalyzer(settings.gemini_api_key, m) for m in models}
+    analyzers = {m: gemini.make_analyzer(settings, m) for m in models}
     started = time.time()
     settings.work_dir.mkdir(parents=True, exist_ok=True)
 
@@ -388,9 +388,9 @@ def main(argv: list[str] | None = None) -> None:
         return
     if not args.dry_run:
         copy_analyzer = None
-        if s.gemini_api_key and not args.metrics_only:
-            from .gemini import GeminiAnalyzer
-            copy_analyzer = GeminiAnalyzer(s.gemini_api_key, models[0])
+        if (s.gemini_api_key or s.gemini_backend == "vertex") and not args.metrics_only:
+            from .gemini import make_analyzer
+            copy_analyzer = make_analyzer(s, models[0])
         extra.update(enrich(s, meta, ads, store, copy_analyzer))
         extra["AssetBreakdown"] = asset_breakdown(meta, ads)
         run["finished_at"] = now_iso()

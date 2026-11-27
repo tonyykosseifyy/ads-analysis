@@ -17,20 +17,42 @@ class GeminiError(RuntimeError):
     pass
 
 
+def make_analyzer(settings, model: str) -> "GeminiAnalyzer":
+    """Build the analyzer for the configured backend (Vertex AI or AI Studio key)."""
+    settings.require_gemini()
+    if settings.gemini_backend == "vertex":
+        return GeminiAnalyzer(None, model, vertex={"project": settings.gcp_project, "location": settings.gcp_location,
+                                                   "bucket": settings.gcs_bucket})
+    return GeminiAnalyzer(settings.gemini_api_key, model)
+
+
 class ModelUnavailable(GeminiError):
     """The API key's plan has no quota at all for this model (e.g. flagship on the free tier)."""
 
 
 class GeminiAnalyzer:
-    def __init__(self, api_key: str, model: str, client=None):
+    def __init__(self, api_key: str | None, model: str, client=None, vertex: dict | None = None, bucket=None):
+        """vertex={"project":..., "location":..., "bucket":...} routes calls through Vertex AI (Google Cloud
+        billing, so Cloud credits apply). Videos are then passed as gs:// files from a private bucket instead
+        of the AI Studio Files API, which Vertex doesn't have."""
+        self.vertex = vertex
         if client is None:
             from google import genai  # imported lazily so tests run without the SDK
-            client = genai.Client(api_key=api_key)
+            if vertex:
+                client = genai.Client(vertexai=True, project=vertex["project"], location=vertex.get("location", "global"))
+            else:
+                client = genai.Client(api_key=api_key)
+        if vertex and bucket is None:
+            from google.cloud import storage
+            bucket = storage.Client(project=vertex["project"]).bucket(vertex["bucket"])
         self.client = client
+        self.bucket = bucket
         self.model = model
         self.prompt = PROMPT_PATH.read_text(encoding="utf-8")
 
     def analyze(self, path: Path, context: str = "") -> dict:
+        if self.vertex:
+            return self._analyze_vertex(path, context)
         mime = mimetypes.guess_type(path.name)[0] or "video/mp4"
         uploaded = self.client.files.upload(file=str(path), config={"mime_type": mime})
         try:
@@ -41,6 +63,22 @@ class GeminiAnalyzer:
             try:
                 self.client.files.delete(name=uploaded.name)
             except Exception:  # noqa: BLE001 - cleanup is best-effort; files expire after 48h anyway
+                pass
+
+    def _analyze_vertex(self, path: Path, context: str) -> dict:
+        import uuid
+        from google.genai import types
+        mime = mimetypes.guess_type(path.name)[0] or "video/mp4"
+        blob = self.bucket.blob(f"tmp/{uuid.uuid4().hex}-{path.name}")
+        blob.upload_from_filename(str(path), content_type=mime)
+        try:
+            part = types.Part.from_uri(file_uri=f"gs://{self.bucket.name}/{blob.name}", mime_type=mime)
+            prompt = self.prompt + (f"\n\n## Context from the ad account (not visible in the asset)\n{context}" if context else "")
+            return self._call([part], prompt, ANALYSIS_SCHEMA, REQUIRED_TOP_LEVEL, path.name)
+        finally:
+            try:
+                blob.delete()  # the bucket also deletes anything older than a day
+            except Exception:  # noqa: BLE001
                 pass
 
     def analyze_text(self, prompt: str, schema: dict, label: str = "text") -> dict:

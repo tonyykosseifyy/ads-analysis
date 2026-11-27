@@ -18,6 +18,12 @@ class Settings:
     meta_api_version: str = field(default_factory=lambda: _env("META_API_VERSION", "v26.0"))
 
     gemini_api_key: str | None = field(default_factory=lambda: _env("GEMINI_API_KEY"))
+    # "vertex" = Gemini through Google Cloud (covered by the $300 Cloud credit; videos go via a private bucket)
+    # "aistudio" = Gemini Developer API key (prepaid AI Studio credits)
+    gemini_backend: str = field(default_factory=lambda: _env("GEMINI_BACKEND", "aistudio"))
+    gcp_project: str | None = field(default_factory=lambda: _env("GCP_PROJECT"))
+    gcp_location: str = field(default_factory=lambda: _env("GCP_LOCATION", "global"))
+    gcs_bucket: str | None = field(default_factory=lambda: _env("GCS_BUCKET"))
     gemini_model: str = field(default_factory=lambda: _env("GEMINI_MODEL", "gemini-3.8-flash"))
 
     # Google Sheet output is optional: without it, results still land in data/ as JSON + CSV.
@@ -39,6 +45,12 @@ class Settings:
     @property
     def graph_base(self) -> str:
         return f"https://graph.facebook.com/{self.meta_api_version}"
+
+    def require_gemini(self) -> None:
+        if self.gemini_backend == "vertex":
+            self.require("gcp_project", "gcs_bucket")
+        else:
+            self.require("gemini_api_key")
 
     def require(self, *names: str) -> None:
         missing = [n for n in names if not getattr(self, n)]

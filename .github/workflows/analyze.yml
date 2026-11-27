@@ -32,6 +32,7 @@ concurrency:
 
 permissions:
   contents: write
+  id-token: write   # lets the job sign in to Google Cloud without a key (Workload Identity Federation)
 
 jobs:
   analyze:
@@ -44,6 +45,11 @@ jobs:
       SHEET_ID: ${{ vars.SHEET_ID }}
       META_AD_ACCOUNT_ID: ${{ vars.META_AD_ACCOUNT_ID || '1136851577945373' }}
       GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-3.8-flash' }}
+      # Gemini through Vertex AI so the $300 Google Cloud credit applies (set GEMINI_BACKEND=aistudio to use the key)
+      GEMINI_BACKEND: ${{ vars.GEMINI_BACKEND || 'vertex' }}
+      GCP_PROJECT: gen-lang-client-0686021992
+      GCP_LOCATION: global
+      GCS_BUCKET: gen-lang-client-0686021992-ad-videos
       CONCURRENCY: ${{ inputs.concurrency || vars.CONCURRENCY || '6' }}
       MAX_MINUTES: "300"
     steps:
@@ -53,6 +59,13 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
+
+      - name: Sign in to Google Cloud (keyless; only this repo is allowed)
+        if: env.GEMINI_BACKEND == 'vertex'
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: projects/624439017436/locations/global/workloadIdentityPools/github/providers/ads-analysis
+          service_account: ads-analysis@gen-lang-client-0686021992.iam.gserviceaccount.com
 
       - name: Run
         shell: bash
