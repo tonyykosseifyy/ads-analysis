@@ -1,0 +1,149 @@
+{
+ "media_key": "v_1370726431296246",
+ "analyzed_at": "2026-11-27T18:44:52+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "44e474568880293a9abbd6728a38c1a665bdd9fd558c3e7b79ed5ac22705eaa2",
+ "source": {
+  "kind": "video",
+  "id": "1370726431296246",
+  "video_id": "3789450971210521",
+  "length_s": 12.766,
+  "permalink": "/23849366283980795/videos/3789450971210521/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 12.55,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator shows 'The process VS the result' styling her hair with the WavyTalk thermal round brush to achieve a voluminous blowout.",
+  "full_description": "A vertical UGC-style TikTok video featuring a young woman demonstrating the WavyTalk thermal round brush. The first half displays the text overlay 'The process VS...' showing her wrapping and releasing a front section of hair with the hot styling brush to form a bouncy curl. At 6.3s, the scene cuts to 'The result' where she shakes out and shows off her full, smooth, bouncy blowout hairstyle against an upbeat pop music track without spoken dialogue.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.3,
+    "text": "The process VS...",
+    "role": "hook"
+   },
+   {
+    "start_s": 6.3,
+    "end_s": 12.55,
+    "text": "The result",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.3,
+    "shot_type": "medium shot",
+    "visual": "Creator in a bedroom/vanity setting styling a strand of long highlighted brown hair using the pink WavyTalk thermal round brush.",
+    "action": "Creator rolls the thermal brush through a front section of hair, twists and pulls it away to reveal a defined bouncy curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.3,
+    "end_s": 12.55,
+    "shot_type": "medium shot",
+    "visual": "Creator proudly showing off her finished blowout with shiny, voluminous curtain layers framing her face.",
+    "action": "Creator runs her fingers through her hair, smiling, tossing the curls and turning slightly to reveal both sides.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the WavyTalk thermal brush in her hair with on-screen text 'The process VS...'.",
+   "visual_0_3s": "Creator unwrapping and curling her hair section around the heated styling brush.",
+   "spoken_0_3s": "",
+   "text_0_3s": "The process VS...",
+   "hook_type": "before_after",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Instant demonstration of the curling process coupled with curiosity-inducing 'The process VS...' text hook."
+  },
+  "structure": {
+   "format": "before_after",
+   "narrative_beats": [
+    "Process demonstration showing thermal brush curling technique",
+    "Cut to the voluminous salon-style blowout result"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Produces salon-grade bouncy blowout curls at home"
+   ],
+   "pain_points": [
+    "Difficulties in achieving a smooth voluminous blowout using traditional round brushes and dryers"
+   ],
+   "objections_handled": [
+    "Easy single-tool styling without complicated maneuvers"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional salon blowouts / multi-step styling"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 6.3,
+   "demo_clarity": "partial",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long brunette hair with caramel balayage, partly unstyled/sectioned with clip",
+   "hair_after": "Voluminous, shiny 90s-style blowout curls and face-framing layers",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Upbeat electronic pop background track with rhythmic beats and vocal samples",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 1,
+   "avg_shot_length_s": 6.28,
+   "pacing": "medium",
+   "effects": [
+    "jump cut transition"
+   ],
+   "ending": "Creator smiling and posing while displaying full hair results"
+  },
+  "notes": "Classic 'Process vs Result' viral TikTok trend format used to showcase the efficiency and end result of the WavyTalk thermal brush."
+ }
+}

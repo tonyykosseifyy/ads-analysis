@@ -1,0 +1,454 @@
+{
+ "media_key": "v_1761578384812123",
+ "analyzed_at": "2026-11-27T18:36:59+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "a1b70be79aef7d0428e7723b3f6f92661dfcfb661dcc5ba38be4f76bf0b0e847",
+ "source": {
+  "kind": "video",
+  "id": "1761578384812123",
+  "video_id": "1907489986405957",
+  "length_s": 66.633,
+  "permalink": "/23849366283980795/videos/1907489986405957/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 66.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Compilation UGC video highlighting the Wavytalk Whirlwind Curl as an award-winning, versatile hair tool with a risk-free trial and 20% discount.",
+  "full_description": "A high-energy UGC compilation ad for the Wavytalk Whirlwind Curl featuring multiple women styling their hair with curls, waves, and sleek straightening. An AI voiceover explains how the tool replaces curling wands, diffusers, and flat irons, backed by its SheFinds 2025 Beauty Award, 360-degree cool airflow technology to prevent heat damage, hundreds of 5-star TikTok reviews, a 4-week money-back guarantee, and a limited-time 20% off promotion.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "What if we told you that this one tool is better than any curling wand, any diffuser, and any flat iron you'll ever find?",
+    "text_english": "What if we told you that this one tool is better than any curling wand, any diffuser, and any flat iron you'll ever find?"
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 9.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "If you think this is a scam, keep watching.",
+    "text_english": "If you think this is a scam, keep watching."
+   },
+   {
+    "start_s": 9.3,
+    "end_s": 14.1,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "By the end of this, you'll find out why it won the SheFinds Beauty Award in 2025.",
+    "text_english": "By the end of this, you'll find out why it won the SheFinds Beauty Award in 2025."
+   },
+   {
+    "start_s": 14.2,
+    "end_s": 18.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "The Whirlwind Curl from Wavytalk brings real results to back up the hype.",
+    "text_english": "The Whirlwind Curl from Wavytalk brings real results to back up the hype."
+   },
+   {
+    "start_s": 18.1,
+    "end_s": 25.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "When tested against real women, the verdict was clear: defined curls, beachy waves, and sleek straight hair all from one tool.",
+    "text_english": "When tested against real women, the verdict was clear: defined curls, beachy waves, and sleek straight hair all from one tool."
+   },
+   {
+    "start_s": 26.0,
+    "end_s": 29.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "No wonder it's taking over TikTok with hundreds of five-star reviews.",
+    "text_english": "No wonder it's taking over TikTok with hundreds of five-star reviews."
+   },
+   {
+    "start_s": 30.0,
+    "end_s": 33.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Add this to your routine, and you'll never look at your hair the same way again.",
+    "text_english": "Add this to your routine, and you'll never look at your hair the same way again."
+   },
+   {
+    "start_s": 33.6,
+    "end_s": 41.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "The secret? Advanced 360-degree cool airflow technology with air outlets that style your hair without heat damage.",
+    "text_english": "The secret? Advanced 360-degree cool airflow technology with air outlets that style your hair without heat damage."
+   },
+   {
+    "start_s": 41.1,
+    "end_s": 44.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "No skills required, the tool does everything for you.",
+    "text_english": "No skills required, the tool does everything for you."
+   },
+   {
+    "start_s": 44.1,
+    "end_s": 47.9,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "It's not magic, it's just the first thing that actually made a visible difference.",
+    "text_english": "It's not magic, it's just the first thing that actually made a visible difference."
+   },
+   {
+    "start_s": 48.0,
+    "end_s": 55.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "In fact, we're so confident in the results, we're letting you try it at home for four weeks, and if you don't love the results, send it back, no questions asked.",
+    "text_english": "In fact, we're so confident in the results, we're letting you try it at home for four weeks, and if you don't love the results, send it back, no questions asked."
+   },
+   {
+    "start_s": 56.0,
+    "end_s": 58.9,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Click the link below and try it for yourself.",
+    "text_english": "Click the link below and try it for yourself."
+   },
+   {
+    "start_s": 59.0,
+    "end_s": 64.9,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "It won a beauty award, it works on every hair type, and it's 20% off right now. So why not?",
+    "text_english": "It won a beauty award, it works on every hair type, and it's 20% off right now. So why not?"
+   }
+  ],
+  "transcript_full_original": "What if we told you that this one tool is better than any curling wand, any diffuser, and any flat iron you'll ever find? If you think this is a scam, keep watching. By the end of this, you'll find out why it won the SheFinds Beauty Award in 2025. The Whirlwind Curl from Wavytalk brings real results to back up the hype. When tested against real women, the verdict was clear: defined curls, beachy waves, and sleek straight hair all from one tool. No wonder it's taking over TikTok with hundreds of five-star reviews. Add this to your routine, and you'll never look at your hair the same way again. The secret? Advanced 360-degree cool airflow technology with air outlets that style your hair without heat damage. No skills required, the tool does everything for you. It's not magic, it's just the first thing that actually made a visible difference. In fact, we're so confident in the results, we're letting you try it at home for four weeks, and if you don't love the results, send it back, no questions asked. Click the link below and try it for yourself. It won a beauty award, it works on every hair type, and it's 20% off right now. So why not?",
+  "transcript_full_english": "What if we told you that this one tool is better than any curling wand, any diffuser, and any flat iron you'll ever find? If you think this is a scam, keep watching. By the end of this, you'll find out why it won the SheFinds Beauty Award in 2025. The Whirlwind Curl from Wavytalk brings real results to back up the hype. When tested against real women, the verdict was clear: defined curls, beachy waves, and sleek straight hair all from one tool. No wonder it's taking over TikTok with hundreds of five-star reviews. Add this to your routine, and you'll never look at your hair the same way again. The secret? Advanced 360-degree cool airflow technology with air outlets that style your hair without heat damage. No skills required, the tool does everything for you. It's not magic, it's just the first thing that actually made a visible difference. In fact, we're so confident in the results, we're letting you try it at home for four weeks, and if you don't love the results, send it back, no questions asked. Click the link below and try it for yourself. It won a beauty award, it works on every hair type, and it's 20% off right now. So why not?",
+  "word_count": 218,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.8,
+    "text": "What if we told you that this one tool Is Better Than Any Curling Wand, any diffuser, and any flat iron you'll ever find?",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 8.8,
+    "text": "If you think this is a scam, keep watching",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.0,
+    "end_s": 13.5,
+    "text": "SHE FINDS beauty awards 2025",
+    "role": "benefit"
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 13.9,
+    "text": "you'll find out won the She Finds Beauty Award in 2025.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.0,
+    "end_s": 17.8,
+    "text": "The Whirlwind Curl From Wavytalk brings real results",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 25.8,
+    "text": "When Tested AGAINST real women The verdict was Defined Curls, Beachy Waves And Sleek Straight Hair all from one tool.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 26.0,
+    "end_s": 27.5,
+    "text": "NO WONDER IT'S TAKING OVER TIKTOK",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 27.6,
+    "end_s": 29.8,
+    "text": "WAVYTALK REVIEWS ★★★★★ OF FIVE STAR REVIEWS.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 30.0,
+    "end_s": 33.5,
+    "text": "Add this to your routine and you'll never look at your hair the same way again.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 33.6,
+    "end_s": 40.8,
+    "text": "The Secret? advanced 360 degrees cool airflow technology with air outlets that style your hair without heat damage.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 41.0,
+    "end_s": 43.8,
+    "text": "No skills required The tool does everything for you.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 44.0,
+    "end_s": 47.8,
+    "text": "It's not MAGIC, it's just THAT ACTUALLY MADE a visible difference.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 48.0,
+    "end_s": 55.6,
+    "text": "In Fact We're so confident Were Letting you try it at home for 4 Weeks and if you don't love the results, send it back, No Questions Asked",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 56.0,
+    "end_s": 58.8,
+    "text": "Click The Link Below and try it FOR YOURSELF.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 59.0,
+    "end_s": 63.0,
+    "text": "It won a beauty award, It works on every hair type and it's 20% off right now.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 61.5,
+    "end_s": 64.0,
+    "text": "Try It Now",
+    "role": "cta"
+   },
+   {
+    "start_s": 64.2,
+    "end_s": 66.8,
+    "text": "WAVYTALK\n\"Let your hair do the talking\"",
+    "role": "brand"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.8,
+    "shot_type": "medium close-up",
+    "visual": "A young blonde woman curling a section of her hair using the pink Wavytalk styler and releasing a bouncy spiral curl.",
+    "action": "She glides the iron through her strand, lets the curl drop into her hand, and expresses amazement.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 8.9,
+    "shot_type": "split-screen medium close-up",
+    "visual": "Split-screen of a red-haired woman brushing textured hair on the left and styling with the pink tool on the right.",
+    "action": "Showing the process of curling thick red hair with the pink styler.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.9,
+    "end_s": 13.9,
+    "shot_type": "graphic animation overlay",
+    "visual": "A magenta background showing beauty award graphics and product imagery with 'SHE FINDS beauty awards 2025' badge.",
+    "action": "Graphic transition highlighting the beauty award credential.",
+    "product_visible": false
+   },
+   {
+    "start_s": 13.9,
+    "end_s": 17.8,
+    "shot_type": "medium close-up",
+    "visual": "A woman with long reddish-brown hair demonstrating a completed tight spiral curl alongside straight hair using the pink styler.",
+    "action": "She shows the side-by-side comparison of curled vs straight hair while holding the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.8,
+    "end_s": 22.4,
+    "shot_type": "medium shot",
+    "visual": "Red-haired woman in a white bathrobe curling her hair and then shaking out lush voluminous curls with a smile.",
+    "action": "She glides the styler over bangs, clips hair, and shakes out full bouncy curls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.4,
+    "end_s": 25.8,
+    "shot_type": "close-up",
+    "visual": "Back of head shot of someone straightening bleached blonde highlighted hair with the pink tool.",
+    "action": "Straightening iron glides down a section to reveal sleek flat hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 25.8,
+    "end_s": 29.8,
+    "shot_type": "screen recording overlay",
+    "visual": "Mockup of TikTok search feed full of viral videos followed by the Wavytalk website 5-star review page.",
+    "action": "Scrolling grid of social proof videos and customer reviews.",
+    "product_visible": true
+   },
+   {
+    "start_s": 29.8,
+    "end_s": 43.8,
+    "shot_type": "medium close-up",
+    "visual": "Brunette woman styling her bangs and high ponytail using the styler, followed by combing and admiring the result.",
+    "action": "She straightens and bevels her front bangs with the tool, showing smooth finish.",
+    "product_visible": true
+   },
+   {
+    "start_s": 43.8,
+    "end_s": 47.8,
+    "shot_type": "medium shot",
+    "visual": "Young woman in a yellow top curling her strands, then shaking out wavy beach hair with both hands.",
+    "action": "She curls a section and smiles showing off her full wave style.",
+    "product_visible": true
+   },
+   {
+    "start_s": 47.8,
+    "end_s": 55.8,
+    "shot_type": "close-up unboxing",
+    "visual": "Asian creator unboxing the pink styler from packaging, opening the clamp, and peeling the plastic off the dial.",
+    "action": "Creator unboxes, inspects the device, opens the plates, and removes protective film.",
+    "product_visible": true
+   },
+   {
+    "start_s": 55.8,
+    "end_s": 61.2,
+    "shot_type": "montage",
+    "visual": "Red-haired woman enjoying coffee by a window, applying lip gloss, and tossing her long styled waves in a blazer.",
+    "action": "Lifestyle montage displaying gorgeous styled hair in daylight.",
+    "product_visible": false
+   },
+   {
+    "start_s": 61.2,
+    "end_s": 66.8,
+    "shot_type": "motion graphics card",
+    "visual": "Magenta background with animated glitch text 'Try It Now' followed by the official Wavytalk black logo and tagline.",
+    "action": "Text animates in, followed by logo reveal.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Blonde woman holding a pink styling tool around a hair curl looking up curiously.",
+   "visual_0_3s": "Woman curls hair around the pink styler and releases a perfectly defined bouncy spiral curl.",
+   "spoken_0_3s": "What if we told you that this one tool is better than any curling wand...",
+   "text_0_3s": "What if we told you that this one tool Is Better Than Any Curling Wand",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "question",
+   "pattern_interrupt": "Rapid release of an effortless bouncy spiral curl immediately addressing skepticism ('If you think this is a scam...')."
+  },
+  "structure": {
+   "format": "voiceover_broll",
+   "narrative_beats": [
+    "Provocative question / bold claim comparing tool to wands, diffusers, and flat irons",
+    "Tackles scam skepticism with SheFinds 2025 Beauty Award proof",
+    "Showcases versatility: curls, waves, sleek straight hair",
+    "Social proof from viral TikTok videos and 5-star customer reviews",
+    "Explains technology: 360 cool airflow prevent heat damage",
+    "Highlights ease of use: no skills required",
+    "Risk reversal: 4-week money-back guarantee",
+    "Clear call to action with 20% discount offer"
+   ],
+   "main_angle": "replaces_multiple_tools",
+   "secondary_angles": [
+    "less_heat_damage",
+    "easy_for_beginners",
+    "social_proof_popularity",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Better than any curling wand, diffuser, or flat iron",
+    "Won SheFinds Beauty Award in 2025",
+    "Creates defined curls, beachy waves, and sleek straight hair all in one tool",
+    "360-degree cool airflow technology styles without heat damage",
+    "No skills required, tool does everything for you",
+    "4-week home trial with 100% money-back guarantee"
+   ],
+   "pain_points": [
+    "Heat damage from traditional stylers",
+    "Needing multiple tools to straighten, wave, and curl",
+    "Complicated styling requiring professional skills",
+    "Fear of being scammed by online viral hair tools"
+   ],
+   "objections_handled": [
+    "Is it a scam? Validated by SheFinds award and verified 5-star reviews",
+    "Will it burn my hair? Cool airflow prevents heat damage",
+    "Is it hard to use? No skills required",
+    "What if it doesn't work for me? 4-week trial, full refund no questions asked",
+    "Will it work on my hair? Works on every hair type"
+   ],
+   "social_proof": [
+    "SheFinds Beauty Award 2025 winner",
+    "Taking over TikTok viral trend showcase",
+    "Hundreds of 5-star customer reviews shown on screen"
+   ],
+   "comparison_to": "Curling wand, diffuser, and flat iron"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Whirlwind Curl"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 2.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "20% off and 4-week risk-free home trial",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "20% off right now",
+   "cta_spoken": "Click the link below and try it for yourself.",
+   "cta_on_screen": "Try It Now",
+   "cta_at_s": 56.0
+  },
+  "talent": {
+   "people_count": 6,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-30",
+   "hair_before": "Diverse hair textures: straight, frizzy, textured red, dyed blonde, dark brunette",
+   "hair_after": "Bouncy defined spiral curls, voluminous loose waves, and sleek pin-straight hair",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, dynamic, and persuasive"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Upbeat, pulsing synth-pop electronic background track",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 16,
+   "avg_shot_length_s": 4.18,
+   "pacing": "fast",
+   "effects": [
+    "animated captions with highlighted words",
+    "split screen",
+    "laser glow line wipe transition",
+    "glitch text animation",
+    "digital overlay graphic"
+   ],
+   "ending": "Solid bright magenta background with black glitch CTA 'Try It Now' fading to the black Wavytalk logo with tagline 'Let your hair do the talking'."
+  },
+  "notes": "Targeted at Lebanese women through Facebook/Instagram ad placement. Uses English AI voiceover over curated international UGC clips to create a polished direct-response video ad."
+ }
+}

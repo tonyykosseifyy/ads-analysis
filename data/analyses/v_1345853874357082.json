@@ -1,0 +1,333 @@
+{
+ "media_key": "v_1345853874357082",
+ "analyzed_at": "2026-11-27T21:26:25+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "5fdb735036640a5dad96055bc5ecdf439e4ce263f19b88cbb35c7fe5b165d542",
+ "source": {
+  "kind": "video",
+  "id": "1345853874357082",
+  "errors": [
+   "1345853874357082: Gave up after 5 retries: https://graph.facebook.com/v26.0/1345853874357082",
+   "1007200578706975: Gave up after 5 retries: https://graph.facebook.com/v26.0/1007200578706975"
+  ],
+  "ig_media_id": "18107449648793214",
+  "permalink": "https://www.instagram.com/p/DZ_7nVWsB2s/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 72.16,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates a festival-inspired half-up pigtail hairstyle using the Wavytalk Blowout Boost thermal brush bundle and hair accessories.",
+  "full_description": "The video starts with a result-first hook displaying a finished festival hairstyle with bouncy curls and pink hair clips. The creator introduces festival season and announces a tutorial using the Wavytalk Blowout Boost bundle and heat protectant. She shows the boxed product, applies heat protectant, and uses the orange thermal round brush to smooth and curl sections of hair for volume and bounce. She then sections out face-framing strands, ties two high half-up pigtails, curls the front strands with the Blowout Boost brush, wraps hair around the elastics with bobby pins, and adds hair accessories (pink flat clips and a heart clip). The video concludes with the creator showcasing the final look from various angles, holding up the Blowout Boost styling tool, and recommending the VIP volume bundle.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Festival season is finally here and I'm going to show you how to do this hairstyle.",
+    "text_english": "Festival season is finally here and I'm going to show you how to do this hairstyle."
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 8.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm using Wavytalk's Blowout Boost bundle and their heat protectant.",
+    "text_english": "I'm using Wavytalk's Blowout Boost bundle and their heat protectant."
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 11.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "First thing we're going to do is use the Blowout Boost.",
+    "text_english": "First thing we're going to do is use the Blowout Boost."
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 17.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Basically we're just going to smooth out the hair and give it some gorgeous curls and lots of volume.",
+    "text_english": "Basically we're just going to smooth out the hair and give it some gorgeous curls and lots of volume."
+   },
+   {
+    "start_s": 17.2,
+    "end_s": 24.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm going to do this all around my head before we start the hairstyle, and once it's done, we can start sectioning off our face-framing pieces.",
+    "text_english": "I'm going to do this all around my head before we start the hairstyle, and once it's done, we can start sectioning off our face-framing pieces."
+   },
+   {
+    "start_s": 24.6,
+    "end_s": 29.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "For this look, we are going to be doing a half up, half down with a pigtail on each side.",
+    "text_english": "For this look, we are going to be doing a half up, half down with a pigtail on each side."
+   },
+   {
+    "start_s": 29.8,
+    "end_s": 35.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Once I had the ponytails secure, I just curled my front pieces and cleaned up my part.",
+    "text_english": "Once I had the ponytails secure, I just curled my front pieces and cleaned up my part."
+   },
+   {
+    "start_s": 35.8,
+    "end_s": 43.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Next thing you're going to do is grab a section of hair from your ponytail and you're just going to wrap it around the hair tie and bobby pin it into place.",
+    "text_english": "Next thing you're going to do is grab a section of hair from your ponytail and you're just going to wrap it around the hair tie and bobby pin it into place."
+   },
+   {
+    "start_s": 43.1,
+    "end_s": 49.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I feel like this really ties the look together, but we're going to go a little bit further and add some accessories.",
+    "text_english": "I feel like this really ties the look together, but we're going to go a little bit further and add some accessories."
+   },
+   {
+    "start_s": 49.3,
+    "end_s": 55.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "All I did was add two clips to one side and this cute little heart-shaped clip to the other side.",
+    "text_english": "All I did was add two clips to one side and this cute little heart-shaped clip to the other side."
+   },
+   {
+    "start_s": 55.4,
+    "end_s": 61.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So if you have been looking for some inspo for your festival hairstyle, I definitely recommend you try this hairstyle out,",
+    "text_english": "So if you have been looking for some inspo for your festival hairstyle, I definitely recommend you try this hairstyle out,"
+   },
+   {
+    "start_s": 61.2,
+    "end_s": 66.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and get festival ready with Wavytalk's limited edition VIP volume bundle.",
+    "text_english": "and get festival ready with Wavytalk's limited edition VIP volume bundle."
+   },
+   {
+    "start_s": 66.2,
+    "end_s": 71.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I promise you, you will not be disappointed, and you definitely do not want to miss out.",
+    "text_english": "I promise you, you will not be disappointed, and you definitely do not want to miss out."
+   }
+  ],
+  "transcript_full_original": "Festival season is finally here and I'm going to show you how to do this hairstyle. I'm using Wavytalk's Blowout Boost bundle and their heat protectant. First thing we're going to do is use the Blowout Boost. Basically we're just going to smooth out the hair and give it some gorgeous curls and lots of volume. I'm going to do this all around my head before we start the hairstyle, and once it's done, we can start sectioning off our face-framing pieces. For this look, we are going to be doing a half up, half down with a pigtail on each side. Once I had the ponytails secure, I just curled my front pieces and cleaned up my part. Next thing you're going to do is grab a section of hair from your ponytail and you're just going to wrap it around the hair tie and bobby pin it into place. I feel like this really ties the look together, but we're going to go a little bit further and add some accessories. All I did was add two clips to one side and this cute little heart-shaped clip to the other side. So if you have been looking for some inspo for your festival hairstyle, I definitely recommend you try this hairstyle out, and get festival ready with Wavytalk's limited edition VIP volume bundle. I promise you, you will not be disappointed, and you definitely do not want to miss out.",
+  "transcript_full_english": "Festival season is finally here and I'm going to show you how to do this hairstyle. I'm using Wavytalk's Blowout Boost bundle and their heat protectant. First thing we're going to do is use the Blowout Boost. Basically we're just going to smooth out the hair and give it some gorgeous curls and lots of volume. I'm going to do this all around my head before we start the hairstyle, and once it's done, we can start sectioning off our face-framing pieces. For this look, we are going to be doing a half up, half down with a pigtail on each side. Once I had the ponytails secure, I just curled my front pieces and cleaned up my part. Next thing you're going to do is grab a section of hair from your ponytail and you're just going to wrap it around the hair tie and bobby pin it into place. I feel like this really ties the look together, but we're going to go a little bit further and add some accessories. All I did was add two clips to one side and this cute little heart-shaped clip to the other side. So if you have been looking for some inspo for your festival hairstyle, I definitely recommend you try this hairstyle out, and get festival ready with Wavytalk's limited edition VIP volume bundle. I promise you, you will not be disappointed, and you definitely do not want to miss out.",
+  "word_count": 222,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.9,
+    "shot_type": "medium close-up",
+    "visual": "Young woman with styled festival hair (high pigtails, face-framing tendrils, clips, bouncy curls) posing and touching her hair.",
+    "action": "Showing off the finished hairstyle to the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 4.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator shakes out her natural curls before starting the styling process.",
+    "action": "Fluffing her curly hair with both hands.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 7.9,
+    "shot_type": "close-up",
+    "visual": "Creator holds open the black and gold Wavytalk Blowout Boost bundle box and displays the heat protectant bottle.",
+    "action": "Presenting the thermal brush set and bringing the small bottle closer to camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.9,
+    "end_s": 16.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator sections her hair and glides the orange Wavytalk Blowout Boost thermal round brush through strands, rolling at the ends.",
+    "action": "Demonstrating how the tool smooths hair and creates voluminous, bouncy curls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.9,
+    "end_s": 21.8,
+    "shot_type": "medium close-up",
+    "visual": "Finished blowout curls on one side, shaking them to show bounce and shine.",
+    "action": "Shaking hair and admiring curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 21.8,
+    "end_s": 28.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator uses a tail comb to section face-framing pieces and gather top hair into two pigtails.",
+    "action": "Parting hair and securing half-up pigtails with elastics.",
+    "product_visible": false
+   },
+   {
+    "start_s": 28.8,
+    "end_s": 33.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator curls the face-framing front strands using the orange Wavytalk Blowout Boost round brush.",
+    "action": "Rolling front strands in the heated brush and releasing into soft waves.",
+    "product_visible": true
+   },
+   {
+    "start_s": 33.8,
+    "end_s": 44.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator parts front bangs with comb, wraps a small strand around each ponytail elastic, and pins with bobby pins.",
+    "action": "Concealing the elastic hair ties with wrapped hair strands.",
+    "product_visible": false
+   },
+   {
+    "start_s": 44.5,
+    "end_s": 55.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator puts on beaded necklaces and attaches pink hair barrettes to one side and a red/pink heart clip to the other.",
+    "action": "Applying festival accessories to hair and neck.",
+    "product_visible": false
+   },
+   {
+    "start_s": 55.4,
+    "end_s": 63.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator poses from multiple angles showing the full finished festival hairstyle.",
+    "action": "Tossing hair, running fingers through curls, and posing.",
+    "product_visible": false
+   },
+   {
+    "start_s": 63.3,
+    "end_s": 65.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds up the Wavytalk Blowout Boost thermal brush directly next to her styled hair.",
+    "action": "Displaying the tool in hand while smiling.",
+    "product_visible": true
+   },
+   {
+    "start_s": 65.8,
+    "end_s": 72.16,
+    "shot_type": "medium close-up",
+    "visual": "Final glam beauty shots from side profile and front showing pigtails, clips, and voluminous curls.",
+    "action": "Turning head side to side and tugging playfully on pigtails.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing off her festival-ready hairstyle with high half-pigtails, face-framing curls, and clips.",
+   "visual_0_3s": "Creator turns her head from side to side showcasing the voluminous blowout curls and half-up style.",
+   "spoken_0_3s": "Festival season is finally here and I'm going to show you how to do this hairstyle.",
+   "text_0_3s": "",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Instant reveal of a high-aesthetic, finished festival hairstyle."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Result-first hook showcasing finished festival hairstyle",
+    "Product and bundle reveal (Wavytalk Blowout Boost & heat protectant)",
+    "Step-by-step styling with thermal brush to achieve smooth bouncy curls",
+    "Sectioning, half-up pigtails styling, and front piece curling",
+    "Concealing hair ties and adding festival hair accessories",
+    "Final result showcase and call to action to buy bundle"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "gift_or_occasion",
+    "easy_for_beginners",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Smooths out hair while giving gorgeous curls and lots of volume",
+    "Perfect festival hairstyle styling tool"
+   ],
+   "pain_points": [
+    "Struggling to find festival hairstyle inspiration",
+    "Difficulty creating smooth volume and bouncy curls at home"
+   ],
+   "objections_handled": [
+    "Heat damage (heat protectant included in bundle)",
+    "Complicated styling (step-by-step breakdown makes it simple)"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost thermal round brush",
+    "Wavytalk Heat Protectant"
+   ],
+   "first_seen_s": 4.8,
+   "first_used_on_hair_s": 8.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Limited Edition VIP Volume Bundle",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "You definitely do not want to miss out",
+   "cta_spoken": "Get festival ready with Wavytalk's limited edition VIP volume bundle.",
+   "cta_on_screen": "",
+   "cta_at_s": 61.2
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Brunette, naturally curly, medium length",
+   "hair_after": "Glossy, voluminous blowout with bouncy curls, half-up pigtails with pink hair accessories",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Upbeat, bubbly, instructional, trendy"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Upbeat, rhythmic pop instrumental backing track.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 18,
+   "avg_shot_length_s": 4.0,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between styling steps"
+   ],
+   "ending": "Creator plays with her pigtails, gazing at the camera."
+  },
+  "notes": "Ad utilizes a seasonal 'festival season' aesthetic angle. Even though targeted at the Lebanese market by the reseller account, the asset is fully in English from an American UGC creator."
+ }
+}

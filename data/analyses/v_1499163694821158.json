@@ -1,0 +1,242 @@
+{
+ "media_key": "v_1499163694821158",
+ "analyzed_at": "2026-11-27T23:30:04+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "7b55cf6f4448642b670bd13e9dd544a87b2593598ec781c5105107b82af72744",
+ "source": {
+  "kind": "video",
+  "id": "1499163694821158",
+  "errors": [
+   "1499163694821158: Gave up after 5 retries: https://graph.facebook.com/v26.0/1499163694821158",
+   "2924745051201526: Gave up after 5 retries: https://graph.facebook.com/v26.0/2924745051201526"
+  ],
+  "ig_media_id": "18143130691472361",
+  "permalink": "https://www.instagram.com/p/DaPvDNlMKM7/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 31.7,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A silent transformation tutorial demonstrating how to style blow-dried blonde hair into voluminous waves using the Wavytalk Blowout Boost thermal round brush.",
+  "full_description": "The video starts with a three-step hair transformation teaser from behind (Washed, Blow Dried, Styled). The blonde creator then shows the purple packaging and unboxes the pink Wavytalk Blowout Boost thermal brush. She sections her dry blonde hair, wraps sections around the heated barrel to create bouncy curls, shapes her bangs, and runs her fingers through the finished look. The video finishes with a back view of her styled wavy hair accessorized with a large black ribbon bow.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.0,
+    "text": "Washed 🎀",
+    "role": "hook"
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 2.0,
+    "text": "Blow Dried 🎀",
+    "role": "benefit"
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 3.4,
+    "text": "Styled 🎀",
+    "role": "benefit"
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 5.2,
+    "text": "WAVYTALK Blowout Boost",
+    "role": "brand"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.0,
+    "shot_type": "medium shot (back)",
+    "visual": "Back view of woman with damp, wet washed long blonde hair wearing a pink satin robe.",
+    "action": "Displays washed hair status with on-screen text.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 2.0,
+    "shot_type": "medium shot (back)",
+    "visual": "Back view of woman with straight blow-dried long blonde hair.",
+    "action": "Shows hair rough-dried before styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 3.4,
+    "shot_type": "medium shot (back)",
+    "visual": "Back view of woman with bouncy styled waves.",
+    "action": "Reveals the final wavy blowout result in advance as a hook.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 6.8,
+    "shot_type": "medium close-up",
+    "visual": "Woman facing camera holding the purple Wavytalk Blowout Boost box, then pulling out the pink thermal brush tool.",
+    "action": "Unboxes and showcases the styling tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 8.6,
+    "shot_type": "medium shot",
+    "visual": "Woman brushing through her dry blonde hair with a wide pink paddle brush.",
+    "action": "Detangles hair before heat styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.6,
+    "end_s": 13.0,
+    "shot_type": "medium shot",
+    "visual": "Woman parting hair and securing the upper half with a yellow claw clip.",
+    "action": "Sections hair into manageable strands.",
+    "product_visible": false
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 19.5,
+    "shot_type": "medium close-up",
+    "visual": "Woman taking a section of hair, wrapping it around the Wavytalk Blowout Boost heated round brush, gliding and rolling.",
+    "action": "Curls a strand and releases a defined bouncy wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.5,
+    "end_s": 24.2,
+    "shot_type": "medium close-up",
+    "visual": "Woman using the thermal brush on upper side sections of hair.",
+    "action": "Rolls the brush outward to create volume and loose curls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.2,
+    "end_s": 27.8,
+    "shot_type": "medium close-up",
+    "visual": "Woman lifting and rolling front bang/fringe sections upwards away from her face.",
+    "action": "Styles front layers for curtain-bang volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 27.8,
+    "end_s": 29.8,
+    "shot_type": "medium shot",
+    "visual": "Woman running her fingers through her finished curls to blend them.",
+    "action": "Fluffs and shakes out waves.",
+    "product_visible": false
+   },
+   {
+    "start_s": 29.8,
+    "end_s": 31.7,
+    "shot_type": "medium shot (back)",
+    "visual": "Back view of the finished hairstyle, styled half-up with a large black bow clip over soft blonde waves.",
+    "action": "Presents final finished hairstyle result.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Back of woman in pink satin robe with wet long blonde hair and text 'Washed 🎀'.",
+   "visual_0_3s": "Fast-cut progression showing washed hair, blow-dried hair, and fully styled wavy hair from behind.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Washed 🎀 / Blow Dried 🎀 / Styled 🎀",
+   "hook_type": "result_first",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Rapid 1-second cuts flipping between hair states before introducing the product unboxing."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Quick 3-step teaser (Washed -> Blow Dried -> Styled)",
+    "Unboxing and tool reveal",
+    "Hair prep and sectioning",
+    "Demonstration of curling side sections and bangs",
+    "Finger-combing and styling the waves",
+    "Final look showcase with hair accessory"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Transforms blow-dried flat hair into voluminous styled waves",
+    "Heated round brush creates curls and bouncy bangs easily"
+   ],
+   "pain_points": [
+    "Flat, lifeless blow-dried hair needing shape and volume"
+   ],
+   "objections_handled": [
+    "Shows simplicity of gliding and rolling hair without tangling"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Ionic Thermal Brush"
+   ],
+   "first_seen_s": 3.8,
+   "first_used_on_hair_s": 13.2,
+   "final_result_shown_s": 2.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Wet washed, then straight blown-out long blonde hair with darker roots",
+   "hair_after": "Voluminous, bouncy blowout curls styled half-up with a black bow",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Calm, aesthetic, instructional"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Melodic upbeat R&B/pop song with clear female vocals playing throughout the video.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 10,
+   "avg_shot_length_s": 3.17,
+   "pacing": "medium",
+   "effects": [
+    "Text overlay with bow emoji",
+    "Jump cuts between styling phases"
+   ],
+   "ending": "Final aesthetic back reveal showing wavy hair styled with a black ribbon bow."
+  },
+  "notes": "No voiceover or spoken dialogue; relies on music, concise text cards, and clear visual demonstration."
+ }
+}

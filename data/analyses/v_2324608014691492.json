@@ -1,0 +1,305 @@
+{
+ "media_key": "v_2324608014691492",
+ "analyzed_at": "2026-11-27T20:37:55+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "9cc86c3e8416939b94bdf1d0d319cc1c07287cfb85c67284f9bb1308fb86a9d5",
+ "source": {
+  "kind": "video",
+  "id": "2324608014691492",
+  "errors": [
+   "2324608014691492: Gave up after 5 retries: https://graph.facebook.com/v26.0/2324608014691492"
+  ],
+  "video_id": "940971711620293",
+  "length_s": 70.643,
+  "permalink": "/23849366283980795/videos/940971711620293/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 71.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator with thick, frizzy hair demonstrates how the WavyTalk thermal round brush easily creates smooth, bouncy blowouts at home without needing a blow dryer or straightener.",
+  "full_description": "A female creator opens with a 2-second teaser unrolling a thermal brush from a perfect bouncy curl, then cuts to her huge, voluminous, frizzy natural hair. Speaking directly to camera, she explains why fall is ideal for blowouts and demonstrates styling sectioned hair with the pink WavyTalk thermal round brush. She explains that despite having thick wavy hair, she doesn't need to straighten it first because the thermal brush reaches right to the roots. She highlights how difficult a traditional round brush and blow dryer combo is compared to this tool, emphasizes that it is completely silent, and shows off her sleek, voluminous final blowout from front and back.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 1.8,
+    "end_s": 5.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "One thing about me is that I will be doing a lot of blowouts in the fall.",
+    "text_english": "One thing about me is that I will be doing a lot of blowouts in the fall."
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 9.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's not that I don't like my natural hair, but obviously this is a lot to deal with on a day-to-day basis.",
+    "text_english": "It's not that I don't like my natural hair, but obviously this is a lot to deal with on a day-to-day basis."
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 13.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And fall is the perfect time of year to style your hair this way.",
+    "text_english": "And fall is the perfect time of year to style your hair this way."
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 19.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "During the fall, it's much less humid, so your hairstyle stays so much better with way less frizz.",
+    "text_english": "During the fall, it's much less humid, so your hairstyle stays so much better with way less frizz."
+   },
+   {
+    "start_s": 19.5,
+    "end_s": 24.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So if you have big poofy hair like me, this is the perfect time of year to heat style your hair.",
+    "text_english": "So if you have big poofy hair like me, this is the perfect time of year to heat style your hair."
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 28.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Plus nothing completes a cozy fall outfit better than a blowout.",
+    "text_english": "Plus nothing completes a cozy fall outfit better than a blowout."
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 37.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Because my natural hair is pretty wavy and thick, I used to think that I'd have to use a straightener on my hair before I could use a tool like this.",
+    "text_english": "Because my natural hair is pretty wavy and thick, I used to think that I'd have to use a straightener on my hair before I could use a tool like this."
+   },
+   {
+    "start_s": 37.0,
+    "end_s": 47.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "But because you can get so close to the root with this thermal brush, I just rough dry my hair like normal coming out of the shower, and the brush alone does all of the smoothing.",
+    "text_english": "But because you can get so close to the root with this thermal brush, I just rough dry my hair like normal coming out of the shower, and the brush alone does all of the smoothing."
+   },
+   {
+    "start_s": 47.0,
+    "end_s": 51.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So if you have poofy, wavy or curly hair, this will work for you too.",
+    "text_english": "So if you have poofy, wavy or curly hair, this will work for you too."
+   },
+   {
+    "start_s": 51.5,
+    "end_s": 60.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Even as someone who would say that they're pretty good at doing hair, doing a traditional blowout with a round brush and a blow dryer is really difficult,",
+    "text_english": "Even as someone who would say that they're pretty good at doing hair, doing a traditional blowout with a round brush and a blow dryer is really difficult,"
+   },
+   {
+    "start_s": 60.0,
+    "end_s": 63.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and I can genuinely tell you that this is so much easier,",
+    "text_english": "and I can genuinely tell you that this is so much easier,"
+   },
+   {
+    "start_s": 63.0,
+    "end_s": 65.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and it's completely quiet.",
+    "text_english": "and it's completely quiet."
+   },
+   {
+    "start_s": 65.5,
+    "end_s": 69.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It turns out so good every time. I still get shocked by it.",
+    "text_english": "It turns out so good every time. I still get shocked by it."
+   }
+  ],
+  "transcript_full_original": "One thing about me is that I will be doing a lot of blowouts in the fall. It's not that I don't like my natural hair, but obviously this is a lot to deal with on a day-to-day basis. And fall is the perfect time of year to style your hair this way. During the fall, it's much less humid, so your hairstyle stays so much better with way less frizz. So if you have big poofy hair like me, this is the perfect time of year to heat style your hair. Plus nothing completes a cozy fall outfit better than a blowout. Because my natural hair is pretty wavy and thick, I used to think that I'd have to use a straightener on my hair before I could use a tool like this. But because you can get so close to the root with this thermal brush, I just rough dry my hair like normal coming out of the shower, and the brush alone does all of the smoothing. So if you have poofy, wavy or curly hair, this will work for you too. Even as someone who would say that they're pretty good at doing hair, doing a traditional blowout with a round brush and a blow dryer is really difficult, and I can genuinely tell you that this is so much easier, and it's completely quiet. It turns out so good every time. I still get shocked by it.",
+  "transcript_full_english": "One thing about me is that I will be doing a lot of blowouts in the fall. It's not that I don't like my natural hair, but obviously this is a lot to deal with on a day-to-day basis. And fall is the perfect time of year to style your hair this way. During the fall, it's much less humid, so your hairstyle stays so much better with way less frizz. So if you have big poofy hair like me, this is the perfect time of year to heat style your hair. Plus nothing completes a cozy fall outfit better than a blowout. Because my natural hair is pretty wavy and thick, I used to think that I'd have to use a straightener on my hair before I could use a tool like this. But because you can get so close to the root with this thermal brush, I just rough dry my hair like normal coming out of the shower, and the brush alone does all of the smoothing. So if you have poofy, wavy or curly hair, this will work for you too. Even as someone who would say that they're pretty good at doing hair, doing a traditional blowout with a round brush and a blow dryer is really difficult, and I can genuinely tell you that this is so much easier, and it's completely quiet. It turns out so good every time. I still get shocked by it.",
+  "word_count": 234,
+  "speech_starts_at_s": 1.8,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator unrolling the pink thermal brush out of her styled, bouncy hair.",
+    "action": "Twisting and releasing the brush to reveal a shiny, voluminous curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 9.5,
+    "shot_type": "medium shot",
+    "visual": "Creator standing against a neutral wall showing off her extremely voluminous, frizzy, untreated natural hair.",
+    "action": "Shaking and touching her frizzy hair while talking to camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 13.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the pink WavyTalk thermal brush up next to her face.",
+    "action": "Presenting the brush and gesturing with her hands while speaking.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 28.5,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the lower section of her hair with the thermal brush while the rest is clipped on top.",
+    "action": "Gliding the heated barrel down a strand of hair and rolling it outward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 47.0,
+    "shot_type": "medium shot",
+    "visual": "Creator demonstrates getting close to the root of a section with the thermal brush.",
+    "action": "Positioning the thermal brush close to her scalp and pulling through to smooth the root area down to the ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 47.0,
+    "end_s": 51.5,
+    "shot_type": "medium shot",
+    "visual": "Creator pausing with hair partially done, gesturing to her completed curls on both sides.",
+    "action": "Holding up her curls and addressing the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 51.5,
+    "end_s": 65.5,
+    "shot_type": "medium shot",
+    "visual": "Creator styling her top curtain bangs and front layers with the thermal brush.",
+    "action": "Rolling bangs back and away from the face, releasing a smooth face-framing curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 65.5,
+    "end_s": 71.0,
+    "shot_type": "medium shot",
+    "visual": "Finished full blowout showcase; creator claps, touches her bouncy hair, and spins around to display the back.",
+    "action": "Smiling, shaking out curls, and turning around 360 degrees to show full 3D bounce and shine.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator rolling out the thermal brush to reveal a salon-quality curl in profile.",
+   "visual_0_3s": "Transition from a gorgeous finished curl to the creator aggressively fluffing out her poofy, lion-like natural hair.",
+   "spoken_0_3s": "One thing about me is that I will be doing a lot of blowouts in the fall.",
+   "text_0_3s": "",
+   "hook_type": "result_first",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Instant contrast between a perfect polished curl and wildly poofy, frizzy natural hair within the first 2 seconds."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Quick hook showing styled curl followed by raw, poofy natural hair state",
+    "Seasonal context: fall is ideal for blowouts due to low humidity",
+    "Product introduction and root-smoothing demonstration",
+    "Handling objection: no straightener needed before using this tool",
+    "Comparison: round brush and blow dryer are tricky and noisy, while this is easy and completely silent",
+    "Final look reveal with full 360 hair turn"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "easy_for_beginners",
+    "quiet_or_gentle",
+    "volume_and_bounce",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Gets close to the roots to smooth hair completely without pre-straightening",
+    "Replaces the hard technique of a round brush plus hairdryer",
+    "Completely silent operation (thermal brush, no fan noise)",
+    "Works effectively on thick, wavy, curly, and poofy hair"
+   ],
+   "pain_points": [
+    "High humidity ruining hairstyles and causing frizz",
+    "Managing huge, poofy natural hair on a daily basis",
+    "Needing multiple steps (rough drying + flat iron + styling)",
+    "Traditional blowouts with hairdryer and round brush being clumsy, noisy, and difficult"
+   ],
+   "objections_handled": [
+    "Will this work on thick/curly/poofy hair without straightening first?",
+    "Is it hard to use like a traditional blowout?"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional blowout with round brush and blow dryer; hair straighteners."
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 65.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Thick, long, poofy, dark brunette wavy/frizzy hair",
+   "hair_after": "Ultra-glossy, smooth, bouncy 90s blowout with voluminous curls and curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Warm, relatable, conversational, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No background music; raw spoken UGC audio with quiet natural room sound.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 8.8,
+   "pacing": "medium",
+   "effects": [
+    "Jump cuts between sections of hair styling"
+   ],
+   "ending": "Creator tosses her voluminous hair back and turns around to display the finished blowout."
+  },
+  "notes": "Native English UGC ad repurposed for the Lebanese ad account. Clear demonstration addressing common consumer friction for thermal heated round brushes (whether you can reach roots and whether you need to straighten curly hair first)."
+ }
+}

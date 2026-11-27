@@ -1,0 +1,170 @@
+{
+ "media_key": "i_9c0de953264413723dc354aa00805d49",
+ "analyzed_at": "2026-11-27T18:36:31+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "89ad73d86c233665b503ca2fb29d428dc4f97ec573bf4fc92193aaa3a70e1859",
+ "source": {
+  "kind": "image",
+  "id": "9c0de953264413723dc354aa00805d49"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 12.2,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates the pink WavyTalk Power Wave tool by clamping it along a section of her dark hair to create defined, glossy deep waves.",
+  "full_description": "A young female creator with long dark hair sits in front of a neutral bedroom background with a ceiling fan. One side of her hair is already styled into deep, glossy, cascading mermaid waves. She holds the light pink WavyTalk Power Wave curling tool, clamps it down onto a straight section of her hair on the other side, and talks to the camera, praising how quickly and effortlessly it produces voluminous, shiny waves. She moves the tool down the section to reveal the freshly waved texture.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Wait, look at how good this is.",
+    "text_english": "Wait, look at how good this is."
+   },
+   {
+    "start_s": 2.3,
+    "end_s": 6.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You literally just clamp it down and it gives you the most perfect waves in like two seconds.",
+    "text_english": "You literally just clamp it down and it gives you the most perfect waves in like two seconds."
+   },
+   {
+    "start_s": 6.2,
+    "end_s": 9.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at how shiny and bouncy my hair looks right now.",
+    "text_english": "Look at how shiny and bouncy my hair looks right now."
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 12.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It took me literally five minutes to do my whole head, you need this!",
+    "text_english": "It took me literally five minutes to do my whole head, you need this!"
+   }
+  ],
+  "transcript_full_original": "Wait, look at how good this is. You literally just clamp it down and it gives you the most perfect waves in like two seconds. Look at how shiny and bouncy my hair looks right now. It took me literally five minutes to do my whole head, you need this!",
+  "transcript_full_english": "Wait, look at how good this is. You literally just clamp it down and it gives you the most perfect waves in like two seconds. Look at how shiny and bouncy my hair looks right now. It took me literally five minutes to do my whole head, you need this!",
+  "word_count": 51,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing camera holding the pink WavyTalk Power Wave clamped on the mid-length of her hair; the right side of her hair is already styled into deep shiny waves.",
+    "action": "Creator talks enthusiastically to the camera while holding the waver in place on a section of hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 12.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator unclamps the tool, slides it further down the strand to clamp the ends, and showcases the completed shiny waves.",
+    "action": "She demonstrates clamping the lower part of the hair section, then gestures towards her hair while smiling and giving a final recommendation.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera with half her head styled in glossy deep waves while clamping the pink WavyTalk Power Wave on the remaining straight side.",
+   "visual_0_3s": "Creator looks directly at the camera with a striking half-done comparison, clamping the pink styling tool onto her hair.",
+   "spoken_0_3s": "Wait, look at how good this is.",
+   "text_0_3s": "",
+   "hook_type": "result_first",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Immediate high-contrast visual of fully finished glossy deep waves alongside unstyled hair being clamped."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Hook with immediate visual proof of shiny, defined waves",
+    "Live demonstration of clamping the tool down the hair shaft",
+    "Praise of ease, speed, and bouncy salon-like finish",
+    "Enthusiastic recommendation call-to-action"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "easy_for_beginners",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Takes two seconds per clamp",
+    "Does whole head in literally five minutes",
+    "Gives perfect, shiny, and bouncy waves"
+   ],
+   "pain_points": [
+    "Curling hair takes too long",
+    "Difficulty creating uniform beach waves with traditional wands"
+   ],
+   "objections_handled": [
+    "Complicated technique required: shows you literally just clamp and release"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional hair curlers or waving techniques"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Power Wave"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "You need this!",
+   "cta_on_screen": "",
+   "cta_at_s": 11.2
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, dark brown/black, straight to slightly smooth natural texture",
+   "hair_after": "Voluminous, glossy, uniform deep mermaid waves",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "excited, confident, relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No background music; raw spoken dialogue with soft ambient room sound.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 1,
+   "avg_shot_length_s": 6.1,
+   "pacing": "medium",
+   "effects": [],
+   "ending": "Creator smiles at the camera as she finishes showing off her waves."
+  },
+  "notes": "Direct UGC demo format linking to the WavyTalk Power Wave hair waver tool for Lebanon/regional Meta ad campaigns."
+ }
+}

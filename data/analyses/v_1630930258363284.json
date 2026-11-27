@@ -1,0 +1,520 @@
+{
+ "media_key": "v_1630930258363284",
+ "analyzed_at": "2026-11-27T22:00:40+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "0e7646641f4ea240ce3e3229df66508d4d2fe0eccd1abbef2dd130d0c47df24d",
+ "source": {
+  "kind": "video",
+  "id": "1630930258363284",
+  "errors": [
+   "1630930258363284: Gave up after 5 retries: https://graph.facebook.com/v26.0/1630930258363284",
+   "1557479875991653: Gave up after 5 retries: https://graph.facebook.com/v26.0/1557479875991653"
+  ],
+  "ig_media_id": "18104596508275963",
+  "permalink": "https://www.instagram.com/p/DamkEMisVqg/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 82.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator styles her frizzy hair into a bouncy salon blowout using the WavyTalk thermal brush while arguing against spending $600 on high-end tools.",
+  "full_description": "A creator sits in front of the camera showing her very frizzy, voluminous unstyled hair while holding a thermal styling brush. She immediately questions spending $600 on expensive hair tools (referencing the Dyson Airwrap) when this affordable tool exists. Throughout the video, she demonstrates how to use the brush on dry hair, explaining her technique for rolling away from the face vertically, chatting about her highlights and an alumni basketball dance performance, and mentions an upcoming Valentine's Day sale discount. The video concludes with a reveal of her smooth, glossy, voluminous blowout results.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's blow out this hair.",
+    "text_english": "Let's blow out this hair."
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 8.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "There is literally zero reason to spend $600 on a hair tool to give yourself a blowout when something like this exists, and it is the cheapest hair tool I own.",
+    "text_english": "There is literally zero reason to spend $600 on a hair tool to give yourself a blowout when something like this exists, and it is the cheapest hair tool I own."
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 13.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Use this on dry hair, that is why it is quiet, a lot of people ask about that.",
+    "text_english": "Use this on dry hair, that is why it is quiet, a lot of people ask about that."
+   },
+   {
+    "start_s": 13.1,
+    "end_s": 18.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I just gave myself highlights the other day, so I'm very excited to see this blowout look on my new hair.",
+    "text_english": "I just gave myself highlights the other day, so I'm very excited to see this blowout look on my new hair."
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 28.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Also performing at a basketball game today. If you didn't know, I was on my college dance team and today is the alumni game. So I want my hair to look good because I will be on the court dancing today.",
+    "text_english": "Also performing at a basketball game today. If you didn't know, I was on my college dance team and today is the alumni game. So I want my hair to look good because I will be on the court dancing today."
+   },
+   {
+    "start_s": 28.9,
+    "end_s": 34.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm sorry, I just cannot justify spending $600 on a hair tool when tools like this exist.",
+    "text_english": "I'm sorry, I just cannot justify spending $600 on a hair tool when tools like this exist."
+   },
+   {
+    "start_s": 34.6,
+    "end_s": 42.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "One of my other videos, I used to think you had to go under on your left side to get the curl to go away from your face, but you can actually just go over,",
+    "text_english": "One of my other videos, I used to think you had to go under on your left side to get the curl to go away from your face, but you can actually just go over,"
+   },
+   {
+    "start_s": 42.1,
+    "end_s": 54.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "as long as the brush is basically vertical to your head like this, and then you twist outwards, and you can still get a curl that goes away from your face without going under.",
+    "text_english": "as long as the brush is basically vertical to your head like this, and then you twist outwards, and you can still get a curl that goes away from your face without going under."
+   },
+   {
+    "start_s": 54.0,
+    "end_s": 60.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I mean, look at that. You want to go down to get it smooth, and at the ends, you're going to go vertical and then twist.",
+    "text_english": "I mean, look at that. You want to go down to get it smooth, and at the ends, you're going to go vertical and then twist."
+   },
+   {
+    "start_s": 60.1,
+    "end_s": 62.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Oh yeah, this is going to be one of my best blowouts.",
+    "text_english": "Oh yeah, this is going to be one of my best blowouts."
+   },
+   {
+    "start_s": 62.4,
+    "end_s": 69.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Not only is it super cheap already, but I heard from a little birdie that this will be also discounted for the Valentine's Day sale.",
+    "text_english": "Not only is it super cheap already, but I heard from a little birdie that this will be also discounted for the Valentine's Day sale."
+   },
+   {
+    "start_s": 69.3,
+    "end_s": 75.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now for the final reveal, let's see what this bouncy blowout looks like.",
+    "text_english": "Now for the final reveal, let's see what this bouncy blowout looks like."
+   },
+   {
+    "start_s": 75.8,
+    "end_s": 82.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Perfection. Okay, with highlights, this looks so much better. What do you guys think? I am absolutely in love with it.",
+    "text_english": "Perfection. Okay, with highlights, this looks so much better. What do you guys think? I am absolutely in love with it."
+   }
+  ],
+  "transcript_full_original": "Let's blow out this hair. There is literally zero reason to spend $600 on a hair tool to give yourself a blowout when something like this exists, and it is the cheapest hair tool I own. Use this on dry hair, that is why it is quiet, a lot of people ask about that. I just gave myself highlights the other day, so I'm very excited to see this blowout look on my new hair. Also performing at a basketball game today. If you didn't know, I was on my college dance team and today is the alumni game. So I want my hair to look good because I will be on the court dancing today. I'm sorry, I just cannot justify spending $600 on a hair tool when tools like this exist. One of my other videos, I used to think you had to go under on your left side to get the curl to go away from your face, but you can actually just go over, as long as the brush is basically vertical to your head like this, and then you twist outwards, and you can still get a curl that goes away from your face without going under. I mean, look at that. You want to go down to get it smooth, and at the ends, you're going to go vertical and then twist. Oh yeah, this is going to be one of my best blowouts. Not only is it super cheap already, but I heard from a little birdie that this will be also discounted for the Valentine's Day sale. Now for the final reveal, let's see what this bouncy blowout looks like. Perfection. Okay, with highlights, this looks so much better. What do you guys think? I am absolutely in love with it.",
+  "transcript_full_english": "Let's blow out this hair. There is literally zero reason to spend $600 on a hair tool to give yourself a blowout when something like this exists, and it is the cheapest hair tool I own. Use this on dry hair, that is why it is quiet, a lot of people ask about that. I just gave myself highlights the other day, so I'm very excited to see this blowout look on my new hair. Also performing at a basketball game today. If you didn't know, I was on my college dance team and today is the alumni game. So I want my hair to look good because I will be on the court dancing today. I'm sorry, I just cannot justify spending $600 on a hair tool when tools like this exist. One of my other videos, I used to think you had to go under on your left side to get the curl to go away from your face, but you can actually just go over, as long as the brush is basically vertical to your head like this, and then you twist outwards, and you can still get a curl that goes away from your face without going under. I mean, look at that. You want to go down to get it smooth, and at the ends, you're going to go vertical and then twist. Oh yeah, this is going to be one of my best blowouts. Not only is it super cheap already, but I heard from a little birdie that this will be also discounted for the Valentine's Day sale. Now for the final reveal, let's see what this bouncy blowout looks like. Perfection. Okay, with highlights, this looks so much better. What do you guys think? I am absolutely in love with it.",
+  "word_count": 257,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "text": "Let's blow out this hair",
+    "role": "hook"
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 4.5,
+    "text": "there is literally zero reason to spend $600 on a hair tool",
+    "role": "hook"
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 7.3,
+    "text": "to give yourself a blowout when something like this exists",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 9.2,
+    "text": "and it is the cheapest hair tool I own",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.2,
+    "end_s": 11.2,
+    "text": "use this on dry hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 12.8,
+    "text": "that is why it is quiet",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 14.1,
+    "text": "a lot of people ask about that",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.1,
+    "end_s": 16.2,
+    "text": "I just gave myself highlights the other day",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.2,
+    "end_s": 18.9,
+    "text": "so I'm very excited to see this blowout look on my new hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.9,
+    "end_s": 21.0,
+    "text": "also performing at a basketball game today",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 22.4,
+    "text": "if you didn't know",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.4,
+    "end_s": 24.1,
+    "text": "I was on my college dance team",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 24.1,
+    "end_s": 26.2,
+    "text": "and today is the alumni game",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 26.2,
+    "end_s": 27.5,
+    "text": "so I want my hair to look good",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 27.5,
+    "end_s": 29.5,
+    "text": "because I will be on the court dancing today I'm sorry",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 29.5,
+    "end_s": 34.6,
+    "text": "I just cannot justify spending $600 on a hair tool when tools like this exist",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 34.6,
+    "end_s": 36.3,
+    "text": "one of my other videos",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 36.3,
+    "end_s": 38.6,
+    "text": "I used to think you had to go under on your left side",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 38.6,
+    "end_s": 40.8,
+    "text": "to get the curl to go away from your face",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 40.8,
+    "end_s": 42.6,
+    "text": "but you can actually just go over",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 42.6,
+    "end_s": 47.7,
+    "text": "as long as the brush is basically vertical to your head like this",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 47.7,
+    "end_s": 50.1,
+    "text": "and then you twist outwards",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 50.1,
+    "end_s": 54.0,
+    "text": "and you can still get a curl that goes away from your face without going under",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 54.0,
+    "end_s": 55.4,
+    "text": "I mean look at that",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 55.4,
+    "end_s": 57.2,
+    "text": "you wanna go down to get it smooth",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 57.2,
+    "end_s": 58.4,
+    "text": "and at the ends",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 58.4,
+    "end_s": 60.1,
+    "text": "you're gonna go vertical and then twist",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 60.1,
+    "end_s": 62.4,
+    "text": "oh yeah this is gonna be one of my best blowouts",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 62.4,
+    "end_s": 64.9,
+    "text": "only is it super cheap already",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 64.9,
+    "end_s": 66.8,
+    "text": "but I heard from a little birdie",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 66.8,
+    "end_s": 69.3,
+    "text": "that this will be also discounted for the Valentine's Day sale",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 69.3,
+    "end_s": 71.8,
+    "text": "Now for the final reveal",
+    "role": "hook"
+   },
+   {
+    "start_s": 71.8,
+    "end_s": 75.8,
+    "text": "let's see what this bouncy blowout looks like",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 75.8,
+    "end_s": 80.2,
+    "text": "perfection okay with highlights this looks so much better",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 80.2,
+    "end_s": 82.5,
+    "text": "what do you guys think I am absolutely in love with it",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "shot_type": "medium shot",
+    "visual": "Young creator with huge, voluminous, frizzy, unruly hair holding a thermal round brush up towards the camera.",
+    "action": "Creator talks directly to camera holding the thermal brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 29.5,
+    "shot_type": "medium shot",
+    "visual": "Creator has half of her hair pinned up and sections of her hair being brushed through with the thermal brush.",
+    "action": "She glides the heated brush smoothly down a section of hair from root to tip, demonstrating how quickly and effortlessly it straightens and adds curve.",
+    "product_visible": true
+   },
+   {
+    "start_s": 29.5,
+    "end_s": 34.6,
+    "shot_type": "medium shot",
+    "visual": "Creator curling the ends of a lower section while looking into the camera.",
+    "action": "She twists the tool at the ends of her hair while continuing her speech about price justification.",
+    "product_visible": true
+   },
+   {
+    "start_s": 34.6,
+    "end_s": 54.0,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the front framing pieces and explaining the vertical angle technique.",
+    "action": "She places the brush vertically near the roots, rolls it outwards away from the face, and releases a bouncy curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 54.0,
+    "end_s": 62.4,
+    "shot_type": "medium shot",
+    "visual": "Creator showcases the resulting curl and details the smooth glide down and vertical twist at the ends.",
+    "action": "She runs the brush through another strand and twists vertically.",
+    "product_visible": true
+   },
+   {
+    "start_s": 62.4,
+    "end_s": 69.3,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the crown/bangs section by lifting it straight up and rolling it over the barrel.",
+    "action": "She rolls the top section backwards to create root volume while mentioning the Valentine's Day sale.",
+    "product_visible": true
+   },
+   {
+    "start_s": 69.3,
+    "end_s": 75.8,
+    "shot_type": "medium shot",
+    "visual": "Creator drops her arms, shakes out her hair with both hands, shaking the blowout loose.",
+    "action": "She fluffs and arranges her hair with her fingers to reveal the final style.",
+    "product_visible": false
+   },
+   {
+    "start_s": 75.8,
+    "end_s": 82.5,
+    "shot_type": "medium shot",
+    "visual": "Full final result: silky, shiny, voluminous brunette hair with soft highlights and bouncy flipped ends.",
+    "action": "Creator poses, touches her hair, displays the bounce, and covers her face in excitement.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera with extremely frizzy, huge unstyled hair, holding the thermal round brush.",
+   "visual_0_3s": "Extreme contrast between her frizzy 'before' hair and the sleek hair tool in hand, with direct-to-camera eye contact.",
+   "spoken_0_3s": "Let's blow out this hair. There is literally zero reason to spend $600 on a hair tool...",
+   "text_0_3s": "Let's blow out this hair",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Shockingly frizzy/poofy hair combined with an immediate attack on the $600 price tag of the Dyson Airwrap."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Hook: call out $600 hair tools vs this cheap alternative while showing huge frizzy hair",
+    "Core explanation: tool is used on dry hair, clarifying why it is silent",
+    "Personal story & occasion: styled for college dance team alumni basketball performance",
+    "Tutorial / Technique tip: how to hold the brush vertically and wrap outwards away from face",
+    "Incentive / Teaser: mention upcoming Valentine's Day sale discount",
+    "Final Reveal: fluffing and showcasing gorgeous, smooth, salon-grade bouncy hair"
+   ],
+   "main_angle": "price_value_vs_dyson",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "frizz_or_curly_solution",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Zero reason to spend $600 on a hair tool",
+    "Cheapest hair tool she owns",
+    "Used on dry hair so it is completely quiet",
+    "Gives a flawless, bouncy salon-quality blowout at home"
+   ],
+   "pain_points": [
+    "Spending $600 on high-end luxury blowout devices",
+    "Frizzy, unruly, hard-to-tame hair",
+    "Struggling with wrist direction / curling away from face on the opposite side"
+   ],
+   "objections_handled": [
+    "Why isn't it blowing air / why is it quiet? (It's a thermal brush designed for dry hair)",
+    "Is it hard to get the angles right on both sides? (She gives an exact vertical-angle demonstration)"
+   ],
+   "social_proof": [
+    "Answers questions from prior viral videos ('a lot of people ask about that', 'one of my other videos')",
+    "Dramatic visible side-by-side hair transformation in real time"
+   ],
+   "comparison_to": "$600 hair tool (referencing Dyson Airwrap)"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Thermal Blowout Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 1.1,
+   "final_result_shown_s": 75.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Discounted for Valentine's Day sale",
+   "price_mentioned": "$600 (compared to competitor)",
+   "discount_code": "",
+   "urgency": "Upcoming Valentine's Day sale",
+   "cta_spoken": "What do you guys think?",
+   "cta_on_screen": "",
+   "cta_at_s": 80.2
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Very long, thick, highly frizzy, voluminous wavy brown hair with light highlights",
+   "hair_after": "Ultra-smooth, glossy, bouncy blowout with face-framing layers and flipped ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, candid, relatable, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No background music; direct spoken creator audio with ambient clicking/brush handling.",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 10.3,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between sections"
+   ],
+   "ending": "Creator tosses her freshly blown-out hair and covers her face excitedly."
+  },
+  "notes": "Classic organic-style UGC ad utilizing the 'Why spend $600' Dyson-comparison hook. Emphasizes dry-hair usage and addresses viewer FAQs directly, making it highly relatable and engaging for the target demographic."
+ }
+}

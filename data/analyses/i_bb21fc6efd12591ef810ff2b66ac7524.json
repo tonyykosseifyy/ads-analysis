@@ -1,0 +1,140 @@
+{
+ "media_key": "i_bb21fc6efd12591ef810ff2b66ac7524",
+ "analyzed_at": "2026-11-27T19:47:26+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "43167ac3688fb5c7c970f912b38f53dbc0b4580e7c1b869c48e407de6b9bfa64",
+ "source": {
+  "kind": "image",
+  "id": "bb21fc6efd12591ef810ff2b66ac7524"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "4:5",
+  "one_line_summary": "Valentine's themed static ad featuring a woman styling pink hair with the pink WavyTalk thermal brush at a vanity with rose petals.",
+  "full_description": "A static promotional image ad for Valentine's Day. A woman with wavy, muted rose-pink hair is seen from behind at a vanity table, holding the pink WavyTalk Blowout Boost round thermal brush as she rolls a lock of hair around it. On the vanity table sits a pink ornate heart-shaped mirror, scattered red rose petals, and a candle. Above her head, white text reads 'LIMITED VALENTINE'S STOCK!' followed by 'Your perfect Valentine's hair is here.' against a neutral, warm curtain backdrop.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "LIMITED VALENTINE'S STOCK!",
+    "role": "hook"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Your perfect Valentine's hair is here.",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "medium close-up",
+    "visual": "A woman with pastel pink wavy hair sitting in front of a white vanity decorated with a pink heart-shaped mirror and red rose petals. She holds a pink WavyTalk thermal brush styling her hair.",
+    "action": "The woman is holding the heated round brush mid-curl in her pink hair.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "White serif headline 'LIMITED VALENTINE'S STOCK!' centered at top over an aesthetic Valentine's vanity setup with a pink round brush and woman with pink hair.",
+   "visual_0_3s": "Woman from back/side angle holding pink WavyTalk blowout round brush in her dyed pink hair at a vanity with scattered red rose petals and heart mirror.",
+   "spoken_0_3s": "",
+   "text_0_3s": "LIMITED VALENTINE'S STOCK! Your perfect Valentine's hair is here.",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Vibrant aesthetic pink hair matching the pink styling tool and heart-shaped mirror with high-contrast text."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Valentine's Day seasonal urgency announcement",
+    "Product showcase in action creating smooth, voluminous curls"
+   ],
+   "main_angle": "gift_or_occasion",
+   "secondary_angles": [
+    "offer_discount_urgency",
+    "salon_result_at_home",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Your perfect Valentine's hair is here",
+    "Limited stock available for Valentine's"
+   ],
+   "pain_points": [
+    "Struggling to achieve romantic blowout curls for Valentine's Day",
+    "Missing out on limited holiday inventory"
+   ],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": 0,
+   "final_result_shown_s": 0,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "Limited Valentine's Stock",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Limited stock for Valentine's Day",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "model",
+   "name_if_shown": "",
+   "age_range": "20s",
+   "hair_before": "Muted dusty pink, wavy, shoulder-blade length",
+   "hair_after": "Voluminous curled dusty pink hair",
+   "setting": "bedroom",
+   "faces_camera": false,
+   "energy_tone": "Romantic, aesthetic, elegant"
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "professional_studio",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "Text typography overlay",
+    "Soft studio glamour lighting"
+   ],
+   "ending": "Static image ad"
+  },
+  "notes": "Valentine's themed seasonal promotional static graphic creative targeting women for styling tools."
+ }
+}

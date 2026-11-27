@@ -1,0 +1,18 @@
+{
+ "language": "en",
+ "main_angle": "expert_endorsement",
+ "secondary_angles": [
+  "volume_and_bounce",
+  "offer_discount_urgency",
+  "salon_result_at_home",
+  "replaces_multiple_tools"
+ ],
+ "opening_line": "You know what hairdressers notice first?",
+ "opening_style": "expert_or_hairdresser",
+ "mentions_offer": true,
+ "offer": "20% off before the sale is gone",
+ "social_proof": "My stylist used the Whirlwind Curl on my hair and kept commenting — the volume, the hold, the curls staying exactly where they should. He even pointed out it can straighten and curl simultaneously. When someone who does this for a living is impressed, the tool speaks for itself.",
+ "cta": "Grab yours now at 20% off before the sale is gone 🌟",
+ "tone": "conversational, persuasive, social proof-driven",
+ "variation_count": 2
+}

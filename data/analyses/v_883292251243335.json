@@ -1,0 +1,171 @@
+{
+ "media_key": "v_883292251243335",
+ "analyzed_at": "2026-11-27T18:38:46+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "2d782793794c67bffbd3e13eda1cf2650b478ed6ea4bbc7859b3ee16a075a221",
+ "source": {
+  "kind": "video",
+  "id": "883292251243335",
+  "video_id": "1079485647865779",
+  "length_s": 25.1,
+  "permalink": "/23849366283980795/videos/1079485647865779/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 24.88,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator showcases styling voluminous 90s blowout curls on a short bob using the Wavytalk thermal round brush over trending R&B music.",
+  "full_description": "A creator demonstrates styling her short layered bob haircut using the Wavytalk thermal blowout brush. Set to a smooth R&B song, she demonstrates curling various front, side, and crown sections with the heated round barrel to create immense volume and flicked-out ends, concluding with her fluffing out her hair and posing to show the ultra-bouncy, shiny finished result.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator sits facing camera holding the rose gold Wavytalk thermal round brush upright like a microphone, displaying her finished voluminous bouncy blowout bob.",
+    "action": "Smiles and glances playfully to the side while holding the thermal round brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 6.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator takes a side section of her dark hair and rolls it around the heated round brush horizontally.",
+    "action": "Wraps hair over the barrel, slides it through to smooth and curve the ends, demonstrating the brush in motion.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.0,
+    "end_s": 11.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the brush vertically, wrapping a side curl around the barrel.",
+    "action": "Twirls the brush vertically, holds it briefly, then unrolls it letting the bouncy curl spiral out.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 16.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator takes the top front crown/fringe section and wraps it over the thermal brush.",
+    "action": "Rolls the top bangs backwards over the barrel to add crown lift and volume, then slides it forward through the ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 23.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator runs both hands through her hair, shaking out and fluffing the roots and bouncy layers.",
+    "action": "Fluffs her voluminous blowout bob, poses, touches her cheek, and winks playfully at the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 24.88,
+    "shot_type": "medium close-up",
+    "visual": "Return to the opening shot holding the thermal round brush vertically in front of her.",
+    "action": "Smiles and holds the thermal brush upright while showcasing her glossy voluminous hairstyle.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator smiling playfully while holding the Wavytalk thermal round brush next to her exceptionally voluminous, bouncy 90s blowout bob.",
+   "visual_0_3s": "Creator holding the brush and showing off her immaculate voluminous blowout, transitioning directly into wrapping a section around the barrel.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "result_first",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "Immediate showcase of huge, salon-grade 90s supermodel blowout volume on short dark hair paired with a trending R&B audio track."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Result reveal / beauty hero shot holding the tool",
+    "Step-by-step styling of side and crown sections using the thermal brush",
+    "Hair shake and final reveal showing extreme volume, bounce, and shine",
+    "Loop ending back to hero pose with the tool"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Creates effortless salon-level bouncy 90s blowout curls",
+    "Adds intense root lift and crown volume"
+   ],
+   "pain_points": [
+    "Flat, lifeless hair lacking body",
+    "Difficulty styling short bobs with standard curling irons or round brushes and blowdryers"
+   ],
+   "objections_handled": [
+    "Works effectively and easily on short bob-length hair"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 1.5,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Glossy black chin/shoulder-length layered bob with pre-styled blowout volume",
+   "hair_after": "Ultra-voluminous, bouncy 90s style blowout bob with turned-under and flipped ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, glamorous, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Melodic contemporary R&B / neo-soul song with female vocals and mellow beat.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 4.98,
+   "pacing": "medium",
+   "effects": [
+    "straight cut transitions",
+    "flattering warm ring lighting"
+   ],
+   "ending": "Cuts back to creator holding the brush with finished hair, creating a seamless loop potential."
+  },
+  "notes": "Video contains no spoken voiceover or on-screen text overlays; it is purely an aesthetic visual tutorial set to trending music demonstrating the Wavytalk thermal brush on a short bob haircut."
+ }
+}

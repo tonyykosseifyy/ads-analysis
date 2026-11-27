@@ -1,0 +1,343 @@
+{
+ "media_key": "v_868378045639943",
+ "analyzed_at": "2026-11-27T18:42:50+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "bf37a8e884486b868fca18570f86759c6ed4632f6fe51ea10216f48e839c57c5",
+ "source": {
+  "kind": "video",
+  "id": "868378045639943",
+  "video_id": "1419968119493822",
+  "length_s": 22.633,
+  "permalink": "/23849366283980795/videos/1419968119493822/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 22.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates achieving an old money blowout look at home using the Wavytalk thermal ionic brush.",
+  "full_description": "A young female creator in a bedroom setting shows viewers how to create an 'old money blowout look' at home using the Wavytalk Blowout Boost ionic thermal round brush. She presents the tool laid out on a bed, parts her hair with a deep side parting, sections it with alligator clips, and demonstrates gliding the brush down with tension and curling inwards. She reveals smooth, bouncy blowout results, claims you can create over 10 hairstyles with it, and closes holding a branded pink shopping bag offering a 15% discount.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 50,
+    "en": 47,
+    "fr": 3
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "arabizi",
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "اليوم رح أعمل old money blowout look at home لشعري",
+    "text_english": "Today I will do an old money blowout look at home for my hair."
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 4.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I will be using Wavytalk's ionic brush.",
+    "text_english": "I will be using Wavytalk's ionic brush."
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 7.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أول شي you need to create a deep side part.",
+    "text_english": "First thing, you need to create a deep side part."
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 9.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "It's key ليطلعلكن the exact money look.",
+    "text_english": "It's key to get you the exact money look."
+   },
+   {
+    "start_s": 9.4,
+    "end_s": 11.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Then you divide it لـ small sections.",
+    "text_english": "Then you divide it into small sections."
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 14.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "كل ما أصغر، كل ما يصيروا exactly مثل بس تعملوا شعركن عند الحلاق.",
+    "text_english": "The smaller they are, the more they turn out exactly like when you get your hair done at the hairdresser."
+   },
+   {
+    "start_s": 14.6,
+    "end_s": 17.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Slowly glide down with tension and tilt it inwards. Et voilà!",
+    "text_english": "Slowly glide down with tension and tilt it inwards. And voila!"
+   },
+   {
+    "start_s": 17.8,
+    "end_s": 20.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "فيكن تعملوا over 10 hairstyles فيها from home.",
+    "text_english": "You can do over 10 hairstyles with it from home."
+   },
+   {
+    "start_s": 20.6,
+    "end_s": 22.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Get yours now for 15% off!",
+    "text_english": "Get yours now for 15% off!"
+   }
+  ],
+  "transcript_full_original": "اليوم رح أعمل old money blowout look at home لشعري. I will be using Wavytalk's ionic brush. أول شي you need to create a deep side part. It's key ليطلعلكن the exact money look. Then you divide it لـ small sections. كل ما أصغر، كل ما يصيروا exactly مثل بس تعملوا شعركن عند الحلاق. Slowly glide down with tension and tilt it inwards. Et voilà! فيكن تعملوا over 10 hairstyles فيها from home. Get yours now for 15% off!",
+  "transcript_full_english": "Today I will do an old money blowout look at home for my hair. I will be using Wavytalk's ionic brush. First thing, you need to create a deep side part. It's key to get you the exact money look. Then you divide it into small sections. The smaller they are, the more they turn out exactly like when you get your hair done at the hairdresser. Slowly glide down with tension and tilt it inwards. And voila! You can do over 10 hairstyles with it from home. Get yours now for 15% off!",
+  "word_count": 76,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "text": "Lyom r7 a3mol old money blowout look at home la sha3re",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 5.0,
+    "text": "using wavytalk ionic brush awl chi",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 7.3,
+    "text": "you need to create a deep side part",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 9.4,
+    "text": "It's key la yetla3elkon the exact money look then",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.4,
+    "end_s": 11.2,
+    "text": "you divide it la small sections",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 14.6,
+    "text": "kel ma azghar kel ma ysiro exactly mtl bas t3mlo cha3rkon 3end l7ale2",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.6,
+    "end_s": 17.8,
+    "text": "slowly glide down with tension and tilt it inwards",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.8,
+    "end_s": 20.6,
+    "text": "t3mlo over 10 hairstyles via from home",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.6,
+    "end_s": 22.8,
+    "text": "Get yours now for 15% off",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.7,
+    "shot_type": "medium shot",
+    "visual": "Young brunette woman showing off her finished blowout hair, smiling and running fingers through it.",
+    "action": "Creator shakes and fluffs her hair towards the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.7,
+    "end_s": 3.7,
+    "shot_type": "close-up",
+    "visual": "Close-up hand holding the pink WavyTalk ionic thermal brush over its retail box on a white bed.",
+    "action": "Hand tilts and presents the barrel and controls of the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 4.9,
+    "shot_type": "medium full shot",
+    "visual": "Creator sitting cross-legged on a hotel/bedroom bed with product box, brush, accessories laid out.",
+    "action": "Creator smiles excitedly and points down at the product kit on the bed.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 8.7,
+    "shot_type": "medium shot",
+    "visual": "Creator in a white tank top using a tail comb to make a deep side parting.",
+    "action": "Creator parts hair deeply to one side with tail comb and checks in the mirror.",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 9.9,
+    "shot_type": "medium shot",
+    "visual": "Creator smiling playfully holding two hair alligator clips across her face like glasses.",
+    "action": "Creator poses playfully with sectioning clips.",
+    "product_visible": false
+   },
+   {
+    "start_s": 9.9,
+    "end_s": 14.5,
+    "shot_type": "medium shot",
+    "visual": "Creator separating hair into small sections using the tail comb and clipping rest away.",
+    "action": "Creator demonstrates separating small strands to get salon-level perfection.",
+    "product_visible": false
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 17.5,
+    "shot_type": "medium shot",
+    "visual": "Creator using the WavyTalk pink thermal brush on a front section of hair.",
+    "action": "Creator glides brush down with tension and curves inwards at ends, releasing a glossy curled curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 18.8,
+    "shot_type": "medium shot",
+    "visual": "Creator holding the thermal brush smiling and talking to camera excitedly.",
+    "action": "Creator gestures with brush while talking about versatile styling.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.8,
+    "end_s": 20.6,
+    "shot_type": "medium shot",
+    "visual": "Creator showing back and sides of finished hair in pink tank top.",
+    "action": "Creator tosses and runs fingers through her voluminous styled hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 20.6,
+    "end_s": 22.8,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting on bed holding a bright pink WavyTalk shopping bag in one hand and the thermal brush in the other.",
+    "action": "Creator pumps shopping bag and brush excitedly as final discount offer CTA is given.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator smiling with styled bouncy hair touching it in a bedroom setting.",
+   "visual_0_3s": "Creator happily flipping and fluffing her voluminous blowout hair.",
+   "spoken_0_3s": "Lyom r7 a3mol old money blowout look at home la sha3re",
+   "text_0_3s": "Lyom r7 a3mol old money blowout look",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Instant glam hair flip with dynamic energy and an alluring trend hook ('old money blowout')."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: Promise of salon-quality old money blowout at home showing final hair preview",
+    "Product introduction: Presenting the Wavytalk thermal brush and kit",
+    "Step 1: Deep side parting for the signature look",
+    "Step 2: Sectioning hair small for salon-like precision",
+    "Step 3: Technique demonstration (glide with tension, tilt inwards)",
+    "Result & versatility claim: Over 10 hairstyles from home",
+    "Call to Action: 15% discount offer with branded bag reveal"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Recreate the exact old money blowout look at home",
+    "Achieve the exact result of going to the hairdresser",
+    "Create over 10 hairstyles with one tool"
+   ],
+   "pain_points": [
+    "Expensive or inconvenient salon visits to get a professional blowout",
+    "Difficulty styling hair at home to look polished"
+   ],
+   "objections_handled": [
+    "Hard to use: Breaks down the process into easy parting, sectioning, and slow glide technique"
+   ],
+   "social_proof": [],
+   "comparison_to": "Professional hairdresser salon visit ('عند الحلاق')"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Ionic Thermal Brush"
+   ],
+   "first_seen_s": 2.7,
+   "first_used_on_hair_s": 14.5,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "15% off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "now",
+   "cta_spoken": "Get yours now for 15% off!",
+   "cta_on_screen": "Get yours now for 15% off",
+   "cta_at_s": 20.6
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, thick dark brown hair",
+   "hair_after": "Voluminous, shiny 'old money' blowout with curled under ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "upbeat, energetic, enthusiastic, relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Upbeat, rhythmic background pop track",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 2.5,
+   "pacing": "fast",
+   "effects": [
+    "burned-in Arabizi subtitles",
+    "speed cut transitions"
+   ],
+   "ending": "Creator excited on bed holding pink W shopping bag and brush with discount text overlay."
+  },
+  "notes": "The creator uses Franco-Arabic / Arabizi text overlays (Latin script for Lebanese Arabic, e.g., 'Lyom r7 a3mol old money blowout look at home la sha3re') which is common among Gen Z / Millennial Lebanese social media creators."
+ }
+}

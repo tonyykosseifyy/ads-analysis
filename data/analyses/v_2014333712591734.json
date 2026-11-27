@@ -1,0 +1,174 @@
+{
+ "media_key": "v_2014333712591734",
+ "analyzed_at": "2026-11-27T22:07:01+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "7aac52fd2f0419412afb81b44bc9632b8c6f6807741b0b379254494670035059",
+ "source": {
+  "kind": "video",
+  "id": "2014333712591734",
+  "errors": [
+   "2014333712591734: Gave up after 5 retries: https://graph.facebook.com/v26.0/2014333712591734"
+  ],
+  "video_id": "1077077638050163",
+  "length_s": 19.766,
+  "permalink": "/23849366283980795/videos/1077077638050163/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 20.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A woman demonstrates smoothing her curly hair using the WavyTalk Blowout Boost thermal round brush, showing half-styled vs half-natural curly hair.",
+  "full_description": "A creator wearing a pink satin robe sits in front of the camera with her dark curly hair split into two halves: one side natural tight curls and the other side styled into a silky salon blowout. An on-screen hook reads 'proof you don't need to go to a salon to get a nice blow out'. She sections out a strand from the top/front of her head, brushes through it with the WavyTalk Blowout Boost heated round brush, rolls it down, and reveals a smooth, sleek curl, tapping her styled side to showcase the result.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0.0,
+    "en": 0.0,
+    "fr": 0.0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 20.0,
+    "text": "proof you don't need to go to a salon to get a nice blow out",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator in a pink silk robe looking at camera, displaying one side fully styled in a sleek blowout with bounce and the other side in tight natural curls.",
+    "action": "Creator tilts head and fluffs her curls and blowout side to establish the high contrast before/after split.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 6.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the WavyTalk Blowout Boost thermal brush, placing it under a top strand of hair.",
+    "action": "She glides the brush through the section, turning the barrel to smooth and bevel the hair strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 12.8,
+    "shot_type": "medium close-up",
+    "visual": "Front view of creator wrapping the top strand around the round thermal barrel.",
+    "action": "She brushes through the strand a second time from root to tip, rolling the end inward to set the bouncy curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 18.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator rolls the brush downward through the front fringe section.",
+    "action": "She releases the hair, revealing a smooth, voluminous face-framing wave, and points to the smooth finished blowout side.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 20.0,
+    "shot_type": "medium close-up",
+    "visual": "Final look with one side voluminous salon blowout and the other side natural curly texture.",
+    "action": "Creator poses confidently, gesturing towards her blowout.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing half-styled sleek blowout vs half-natural tight curls, with on-screen text 'proof you don't need to go to a salon to get a nice blow out'.",
+   "visual_0_3s": "Half-head demonstration comparing natural coily/curly texture with a finished glossy blowout.",
+   "spoken_0_3s": "",
+   "text_0_3s": "proof you don't need to go to a salon to get a nice blow out",
+   "hook_type": "before_after",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Immediate side-by-side contrast on the creator's head: one half coily curls, other half silky salon blowout."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Hook: Half-and-half hair split demonstrating dramatic curl-to-blowout transformation",
+    "Demo: Live pass with the WavyTalk Blowout Boost on a textured section",
+    "Result reveal: Silky smooth strand seamlessly blending into the finished side"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "You don't need to go to a salon to get a salon blowout",
+    "Tames curly/coily hair into smooth bouncy hair easily"
+   ],
+   "pain_points": [
+    "Expensive and time-consuming salon blowout visits",
+    "Difficulty smoothing curly hair at home"
+   ],
+   "objections_handled": [
+    "Does it work on coarse curly hair? (Proven directly on tight curly hair)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Professional hair salon blowout"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost"
+   ],
+   "first_seen_s": 2.0,
+   "first_used_on_hair_s": 2.1,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Dark brown / black curly/coily textured hair",
+   "hair_after": "Silky, smooth, voluminous bouncy blowout",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, aesthetic, calm"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "R&B / trap beat instrumental with heavy bassline",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 5.0,
+   "pacing": "medium",
+   "effects": [
+    "quick jump cuts between styling passes"
+   ],
+   "ending": "Posing and pointing at the smooth finished hair"
+  },
+  "notes": "Classic split-hair visual hook (half curly / half straight blowout) optimized for TikTok/Reels without spoken audio, relying on strong visual transformation and curiosity."
+ }
+}

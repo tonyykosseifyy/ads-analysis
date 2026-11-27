@@ -1,0 +1,190 @@
+{
+ "media_key": "v_1144429278514684",
+ "analyzed_at": "2026-11-27T18:42:22+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "7515b90444a9463983c7e5d734013af664feea4b05b5991a1489096fca125f7e",
+ "source": {
+  "kind": "video",
+  "id": "1144429278514684",
+  "video_id": "2169246510332519",
+  "length_s": 23.335,
+  "permalink": "/23849366283980795/videos/2169246510332519/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 23.08,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates straightening wavy hair into silky smooth locks using the Wavytalk Steambrush Pro set to upbeat music.",
+  "full_description": "A vertical aesthetic UGC tutorial video featuring a young woman demonstrating how to get silky smooth hair using the Wavytalk Steambrush Pro. With the text hook 'Trick for silky smooth hair: Steam hair tools' displayed continuously at the top, she takes wavy, textured sections of her dark brown hair and glides the heated steam brush through them, revealing immediate sleek, frizz-free results. She styles her bangs and lower layers before proudly showing off the bouncy, shiny, straight finished look.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 23.08,
+    "text": "Trick for silky smooth hair:\nSteam hair tools",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "close-up",
+    "visual": "Creator holds the white Wavytalk steam brush to a wavy front strand of her dark brown hair.",
+    "action": "Creator glides the steam straightener brush through the hair section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 5.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushes through the same strand, comparing the straightened portion with the rest of her textured hair.",
+    "action": "She glides the brush slowly down the strand and inspects the result.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 10.5,
+    "shot_type": "close-up",
+    "visual": "Detailed angle showing the steam brush teeth gliding smoothly through the hair strand.",
+    "action": "Creator performs another smooth pass, showing instant sleekness and shine.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.5,
+    "end_s": 13.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator faces camera, holding the steam brush horizontally to style her front fringe/bangs.",
+    "action": "Creator passes the steam brush under her bangs to smooth and shape them.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 16.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator has top hair pinned up and brushes lower wavy sections with the steam brush.",
+    "action": "She straightens a thick lower section with visible steam escaping the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 19.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator continues running the steam brush through the remaining back and side sections.",
+    "action": "She brushes through the ends to ensure an even, sleek finish.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.5,
+    "end_s": 23.08,
+    "shot_type": "medium close-up",
+    "visual": "Creator puts down the tool, fluffs her fully straightened, glossy hair, and poses for the camera.",
+    "action": "Creator runs hands through hair, turns head side-to-side displaying shiny final results.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Close-up of creator brushing a wavy strand of dark brown hair with the white Wavytalk steam brush with on-screen text overlay.",
+   "visual_0_3s": "Creator passes the steam brush through a wavy strand, visibly transforming it into pin-straight, silky hair.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Trick for silky smooth hair:\nSteam hair tools",
+   "hook_type": "result_first",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Immediate visual transformation of textured, frizzy wave into glassy, silky straight hair in a single stroke."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Hook presenting steam tools as the secret to silky hair",
+    "Single-pass demonstration smoothing out a wavy front strand",
+    "Detail of tool bristles and styling front bangs",
+    "Straightening lower sections with steam",
+    "Final transformation reveal and glam check"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Steam hair tools produce silky smooth hair effortlessly",
+    "Straightens and defrizzes wavy hair in one single pass"
+   ],
+   "pain_points": [
+    "Frizzy, unruly wavy hair",
+    "Heat damage or dry texture from standard flat irons",
+    "Difficulty getting sleek, shiny results quickly"
+   ],
+   "objections_handled": [
+    "Does it straighten wavy/frizzy hair effectively?",
+    "Is it easy and fast to use like a regular hairbrush?"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional flat irons and standard hot tools without steam"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steambrush Pro"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 19.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Shoulder-length layered dark brown wavy hair with natural texture and frizz",
+   "hair_after": "Silky, pin-straight, glossy dark brown hair with soft natural movement",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "aesthetic, calming, confident, satisfying"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Trending electronic pop dance track with female vocals repeating a melodic hook",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 3.3,
+   "pacing": "medium",
+   "effects": [
+    "text overlay"
+   ],
+   "ending": "Creator flips her straight, shiny hair and looks into camera smiling softly as the video ends."
+  },
+  "notes": "Targeted ad for Lebanon audience showcasing the Steambrush Pro. Visual-only tutorial rely entirely on satisfying ASMR-style visual transformation and pop music without voiceover or spoken dialogue."
+ }
+}

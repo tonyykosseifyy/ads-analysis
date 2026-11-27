@@ -1,0 +1,169 @@
+{
+ "media_key": "i_dea4d9d01e47bae813324afc7effae95",
+ "analyzed_at": "2026-11-27T20:55:08+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "32979bf1356fc6ecb392a459b7e8973896a1f613c6a8c7368559ceb5344d0c9a",
+ "source": {
+  "kind": "image",
+  "id": "dea4d9d01e47bae813324afc7effae95"
+ },
+ "role": "rotating",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "Receipt-themed Black Friday graphic promoting the Wavytalk Defined Volume Duo bundle for $125 with 37% off.",
+  "full_description": "A square graphic designed as a stylized crumpled paper receipt against a dark maroon textured background. At the top of the receipt, the Wavytalk logo and 'Black Friday' appear, followed by a bold price callout of '$125.00 | 37% OFF' and a pill sticker reading 'You save: $73.00'. Below, a line item breakdown lists 'DEFINED VOLUME DUO Blowout Boost + Whirlwind Curl' with quantity 1. In the lower section, studio cutouts of the pink thermal round brush (Blowout Boost) and the pink airflow/flat styler (Whirlwind Curl) are displayed side by side. A dark circular badge on the right says 'TODAY ONLY', and barcode receipt corners frame the edges.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK Black Friday",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "$125.00 | 37% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "You save: $73.00",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "ITEM QTY",
+    "role": "other"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "DEFINED VOLUME DUO Blowout Boost + Whirlwind Curl 1",
+    "role": "other"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "TODAY ONLY",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "product shot",
+    "visual": "A white crumpled receipt mockup over a deep plum/burgundy background. The receipt details the Black Friday price, bundle name, and showcases the pink Wavytalk Blowout Boost thermal round brush and Whirlwind Curl iron standing upright side by side.",
+    "action": "Static promotional graphic display",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "White receipt graphic with large bold text '$125.00 | 37% OFF' and 'TODAY ONLY' badge featuring two pink Wavytalk tools.",
+   "visual_0_3s": "White receipt graphic with large bold text '$125.00 | 37% OFF' and 'TODAY ONLY' badge featuring two pink Wavytalk tools.",
+   "spoken_0_3s": "",
+   "text_0_3s": "WAVYTALK Black Friday $125.00 | 37% OFF You save: $73.00 TODAY ONLY",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "none",
+   "pattern_interrupt": "Receipt layout aesthetic mimicking a retail store purchase order."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Brand & Event announcement (Wavytalk Black Friday)",
+    "Prominent bundle pricing and discount percentage ($125, 37% off, save $73)",
+    "Bundle item breakdown and product packshot display (Blowout Boost + Whirlwind Curl)",
+    "Urgency sticker (Today Only)"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "price_value_vs_dyson",
+    "replaces_multiple_tools"
+   ],
+   "key_claims": [
+    "37% OFF savings",
+    "Save $73.00 on the duo bundle",
+    "Valid today only"
+   ],
+   "pain_points": [
+    "High cost of purchasing multiple styling tools separately"
+   ],
+   "objections_handled": [
+    "Affordability (huge savings and bundled discount)"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost",
+    "Wavytalk Whirlwind Curl"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "Defined Volume Duo (Blowout Boost + Whirlwind Curl) at $125.00 (37% off, save $73.00)",
+   "price_mentioned": "$125.00",
+   "discount_code": "",
+   "urgency": "TODAY ONLY / Black Friday",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "studio",
+   "faces_camera": false,
+   "energy_tone": ""
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "Paper texture background overlay",
+    "Receipt paper tear and barcode graphics",
+    "Product photo composite"
+   ],
+   "ending": "Static image ad"
+  },
+  "notes": "Static image performance ad running in Lebanon for Black Friday, pricing stated in USD."
+ }
+}

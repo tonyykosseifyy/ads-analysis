@@ -1,0 +1,652 @@
+{
+ "media_key": "v_2066534997406646",
+ "analyzed_at": "2026-11-27T20:47:30+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "c4f643fdc7cb6400c5ef3039545d004f90e381fd2c21135324d528a258767b18",
+ "source": {
+  "kind": "video",
+  "id": "2066534997406646",
+  "errors": [
+   "2066534997406646: Gave up after 5 retries: https://graph.facebook.com/v26.0/2066534997406646"
+  ],
+  "video_id": "1773760084058020",
+  "length_s": 81.733,
+  "permalink": "/23849366283980795/videos/1773760084058020/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 81.7,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator reacts to a viral viral thermal brush clip, then demos the WavyTalk Blowout Boost on her curly hair, raving about the easy salon blowout results.",
+  "full_description": "The video opens with a split/PiP format featuring a viral English TikTok review of the WavyTalk Blowout Boost thermal round brush while the Lebanese creator reacts in an inset picture-in-picture window. The ad then cuts directly to the creator speaking Lebanese Arabic mixed with English, explaining her shock at transforming her extremely curly hair into a shiny blowout. She displays a photo of her natural curls, references the 1.5 million units sold on TikTok, and demos how she uses the tool section by section to smooth frizz and curl the ends. She highlights its negative ion heat technology, speed (doing her entire head in under 15 minutes), $69 price point, and finishes shaking her bouncy hair while excitedly urging viewers that WavyTalk can 'take all her money'.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "levantine_lebanese",
+   "approx_share_pct": {
+    "ar": 70,
+    "en": 30,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "arabizi",
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "speaker": "other_creator",
+    "language": "en",
+    "text_original": "gives me the most beautiful bombshell blowout every single time I use it. It's absolutely amazing.",
+    "text_english": "gives me the most beautiful bombshell blowout every single time I use it. It's absolutely amazing."
+   },
+   {
+    "start_s": 2.5,
+    "end_s": 5.0,
+    "speaker": "other_creator",
+    "language": "en",
+    "text_original": "Look at this, ready? You curl at the ends for a little flip.",
+    "text_english": "Look at this, ready? You curl at the ends for a little flip."
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 7.5,
+    "speaker": "other_creator",
+    "language": "en",
+    "text_original": "I love it because you can get a salon quality hairstyle and you don't have to leave the house, which is amazing.",
+    "text_english": "I love it because you can get a salon quality hairstyle and you don't have to leave the house, which is amazing."
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 9.0,
+    "speaker": "other_creator",
+    "language": "en",
+    "text_original": "thin hair, the Wavytalk Blowout Boost will make your hair look good.",
+    "text_english": "thin hair, the Wavytalk Blowout Boost will make your hair look good."
+   },
+   {
+    "start_s": 9.0,
+    "end_s": 10.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بتعرفوا شو يعني عملت shock؟",
+    "text_english": "Do you know what it means that I went into shock?"
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 14.1,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "يعني شعري راح من هيك، هيك لهيك!",
+    "text_english": "Like my hair went from this, this, to THIS!"
+   },
+   {
+    "start_s": 14.1,
+    "end_s": 16.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Keep in mind أنا شعراتي كتير كتير كتير curly.",
+    "text_english": "Keep in mind that my hair is very very very curly."
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 19.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "كان عندي major FOMO لأنه شفت في 1.5 million من هو الـ brushes انباعوا ع TikTok.",
+    "text_english": "I had major FOMO because I saw 1.5 million of these brushes were sold on TikTok."
+   },
+   {
+    "start_s": 19.9,
+    "end_s": 23.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "What's up with that? أكيد بدي جربها كانت. And... clock itttt.",
+    "text_english": "What's up with that? Of course I had to try it. And... clock itttt."
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 27.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "هالـ brand عنجد وين ما كان. أول شي كان عنا الـ Steam Brush وهلأ هيدي الـ Blowout Boost Brush.",
+    "text_english": "This brand is truly everywhere. First we had the Steam Brush, and now this Blowout Boost Brush."
+   },
+   {
+    "start_s": 27.0,
+    "end_s": 32.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "The tea هو إنه بيستعملوا negative ion technology يلي هي that smoothes out the cuticle and protects your hair.",
+    "text_english": "The tea is that they use negative ion technology which smoothes out the cuticle and protects your hair."
+   },
+   {
+    "start_s": 32.2,
+    "end_s": 34.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "I just love when tech meets beauty. رح فرجيكن كيف بستعملها.",
+    "text_english": "I just love when tech meets beauty. I'll show you how I use it."
+   },
+   {
+    "start_s": 34.7,
+    "end_s": 40.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أول شي بعمل pass وحدة بس ت اتخلص يعني من الـ frizz، بس كرمال تكون إنه فيي اشتغل فيها للشعرة.",
+    "text_english": "First I do one pass just to get rid of the frizz, just so I can work with the hair strand."
+   },
+   {
+    "start_s": 40.5,
+    "end_s": 42.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Bruh, already فيي إظهر هيك!",
+    "text_english": "Bruh, I could already go out like this!"
+   },
+   {
+    "start_s": 42.8,
+    "end_s": 46.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "For a little curly moment، بس رح أخدها، أبرمها مرّة ثانية.",
+    "text_english": "For a little curly moment, I just take it and wrap it around again."
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 51.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بس هالمرة بدي نزلها to an angle. وأنا وعم نزلها بدي أبرمها، أبرمها، twist, twist.",
+    "text_english": "But this time I want to pull it down at an angle. And as I pull it down, I roll it, roll it, twist, twist."
+   },
+   {
+    "start_s": 51.5,
+    "end_s": 56.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "نبرم، نبرم، نبرم، نبرم، until بتطلع هيك!",
+    "text_english": "We roll, roll, roll, roll, until it turns out like this!"
+   },
+   {
+    "start_s": 56.5,
+    "end_s": 62.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "ماني كتير شخص بيعرف يهتم بشعراته غير إنه الـ curly routine، وعادة كرمال أعمل blowout هيك بروح عند الكوافير. هيدي life saver!",
+    "text_english": "I'm not someone who really knows how to style hair besides the curly routine, and usually for a blowout like this I go to the salon. This is a life saver!"
+   },
+   {
+    "start_s": 62.5,
+    "end_s": 66.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "صار فيي أعمل my whole head ب أقل من ربع ساعة تقريباً.",
+    "text_english": "Now I can do my whole head in roughly less than 15 minutes."
+   },
+   {
+    "start_s": 66.0,
+    "end_s": 68.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "فينا بس ناخد دقيقة to appreciate the shine يلي عم تعطي للشعرة؟",
+    "text_english": "Can we just take a minute to appreciate the shine it gives to the hair?"
+   },
+   {
+    "start_s": 68.6,
+    "end_s": 71.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وهيك هيك أنا وعم خلص بدي بس هيكن تحزروا قديش حقها هيدي الـ item?",
+    "text_english": "And while I'm finishing up, I just want you guys to guess how much this item costs?"
+   },
+   {
+    "start_s": 71.1,
+    "end_s": 73.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "تسعة وستين دولار بس؟!",
+    "text_english": "Only 69 dollars?!"
+   },
+   {
+    "start_s": 73.0,
+    "end_s": 76.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "عنجد ما بعرف كيف كان في مرحلة بحياتي بكاملها ما كنت استعمل فيها هيدا الـ product.",
+    "text_english": "I honestly don't know how there was an entire phase of my life where I wasn't using this product."
+   },
+   {
+    "start_s": 76.5,
+    "end_s": 79.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "إذا قطعت جمعة بكاملها وشفتوني عاملة شعراتي هيك عالجمعة، صرتوا تعرفوا كيف.",
+    "text_english": "If a whole week passes and you see my hair done nicely on the side, now you know how."
+   },
+   {
+    "start_s": 79.5,
+    "end_s": 81.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "WavyTalk، خدوهم لمصرياتي، خدوهم!",
+    "text_english": "WavyTalk, take my money, take it!"
+   }
+  ],
+  "transcript_full_original": "بتعرفوا شو يعني عملت shock؟ يعني شعري راح من هيك، هيك لهيك! Keep in mind أنا شعراتي كتير كتير كتير curly. كان عندي major FOMO لأنه شفت في 1.5 million من هو الـ brushes انباعوا ع TikTok. What's up with that? أكيد بدي جربها كانت. And... clock itttt. هالـ brand عنجد وين ما كان. أول شي كان عنا الـ Steam Brush وهلأ هيدي الـ Blowout Boost Brush. The tea هو إنه بيستعملوا negative ion technology يلي هي that smoothes out the cuticle and protects your hair. I just love when tech meets beauty. رح فرجيكن كيف بستعملها. أول شي بعمل pass وحدة بس ت اتخلص يعني من الـ frizz، بس كرمال تكون إنه فيي اشتغل فيها للشعرة. Bruh, already فيي إظهر هيك! For a little curly moment، بس رح أخدها، أبرمها مرّة ثانية. بس هالمرة بدي نزلها to an angle. وأنا وعم نزلها بدي أبرمها، أبرمها، twist, twist. نبرم، نبرم، نبرم، نبرم، until بتطلع هيك! ماني كتير شخص بيعرف يهتم بشعراته غير إنه الـ curly routine، وعادة كرمال أعمل blowout هيك بروح عند الكوافير. هيدي life saver! صار فيي أعمل my whole head ب أقل من ربع ساعة تقريباً. فينا بس ناخد دقيقة to appreciate the shine يلي عم تعطي للشعرة؟ وهيك هيك أنا وعم خلص بدي بس هيكن تحزروا قديش حقها هيدي الـ item? تسعة وستين دولار بس؟! عنجد ما بعرف كيف كان في مرحلة بحياتي بكاملها ما كنت استعمل فيها هيدا الـ product. إذا قطعت جمعة بكاملها وشفتوني عاملة شعراتي هيك عالجمعة، صرتوا تعرفوا كيف. WavyTalk، خدوهم لمصرياتي، خدوهم!",
+  "transcript_full_english": "Do you know what it means that I went into shock? Like my hair went from this, this, to THIS! Keep in mind that my hair is very very very curly. I had major FOMO because I saw 1.5 million of these brushes were sold on TikTok. What's up with that? Of course I had to try it. And... clock itttt. This brand is truly everywhere. First we had the Steam Brush, and now this Blowout Boost Brush. The tea is that they use negative ion technology which smoothes out the cuticle and protects your hair. I just love when tech meets beauty. I'll show you how I use it. First I do one pass just to get rid of the frizz, just so I can work with the hair strand. Bruh, I could already go out like this! For a little curly moment, I just take it and wrap it around again. But this time I want to pull it down at an angle. And as I pull it down, I roll it, roll it, twist, twist. We roll, roll, roll, roll, until it turns out like this! I'm not someone who really knows how to style hair besides the curly routine, and usually for a blowout like this I go to the salon. This is a life saver! Now I can do my whole head in roughly less than 15 minutes. Can we just take a minute to appreciate the shine it gives to the hair? And while I'm finishing up, I just want you guys to guess how much this item costs? Only 69 dollars?! I honestly don't know how there was an entire phase of my life where I wasn't using this product. If a whole week passes and you see my hair done nicely on the side, now you know how. WavyTalk, take my money, take it!",
+  "word_count": 272,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 8.8,
+    "text": "BTS 20",
+    "role": "brand"
+   },
+   {
+    "start_s": 9.0,
+    "end_s": 10.8,
+    "text": "bta3rfo chou ya3ne 3melet shock",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 13.9,
+    "text": "kif ya3ne cha3re rah men hek la HEK",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.0,
+    "end_s": 15.9,
+    "text": "keep in mind cha3rete ktir ktir ktir curly",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 17.0,
+    "text": "ken 3ande major FOMO la2anno chefet fi",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.1,
+    "end_s": 19.5,
+    "text": "1.5 MILION men hole el brushes nbe3o aa TikTok",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.6,
+    "end_s": 21.0,
+    "text": "what's up with that??",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.1,
+    "end_s": 22.0,
+    "text": "akid bade jareba kenet",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.1,
+    "end_s": 23.4,
+    "text": "*clock itttt*",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 24.5,
+    "text": "Hal brand 3anjad wen ma ken",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 24.6,
+    "end_s": 26.5,
+    "text": "Awal chi ken fi el Steam Brush w halla2",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 26.6,
+    "end_s": 27.5,
+    "text": "hayde el Blowout Boost Brush",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 27.6,
+    "end_s": 29.5,
+    "text": "the tea enno byesta3mlo Negative ion technology",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 29.6,
+    "end_s": 32.0,
+    "text": "that smoothes out the cuticle & protects your hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 32.1,
+    "end_s": 33.7,
+    "text": "I just love when Tech meets Beauty",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 33.8,
+    "end_s": 34.8,
+    "text": "rah farjikoun kif besta3mela",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 34.9,
+    "end_s": 36.5,
+    "text": "awal chi ha3mil pass we7de",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 36.6,
+    "end_s": 38.5,
+    "text": "bas ta etkallas mnel frizz,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 38.6,
+    "end_s": 40.5,
+    "text": "bass kermel tkoun enno fiye echteghil fiya lal cha3ra",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 40.6,
+    "end_s": 42.5,
+    "text": "bruh already fiye edhar hek",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 42.6,
+    "end_s": 44.5,
+    "text": "for a little curly moment bass rah ekheda",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 44.6,
+    "end_s": 46.5,
+    "text": "obroma x2 bass hal marra badde",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 46.6,
+    "end_s": 48.0,
+    "text": "nazzela to an angle",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 48.1,
+    "end_s": 49.5,
+    "text": "w ana w 3am nazela badde",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 49.6,
+    "end_s": 50.8,
+    "text": "obroma",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 50.9,
+    "end_s": 52.0,
+    "text": "twist",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 52.1,
+    "end_s": 54.5,
+    "text": "nobroum",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 54.6,
+    "end_s": 56.5,
+    "text": "until btotla3 hek",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 56.6,
+    "end_s": 58.0,
+    "text": "manne ktir chakhes bya3rif yehtam bi cha3rato",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 58.1,
+    "end_s": 59.8,
+    "text": "gher enno el curly routine",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 59.9,
+    "end_s": 61.5,
+    "text": "w 3adatan kermel a3mil blowout hek",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 61.6,
+    "end_s": 63.0,
+    "text": "hayde life saver",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 63.1,
+    "end_s": 65.9,
+    "text": "Sar fiyye a3mil my whole head in <15 minutes te2riban",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 66.0,
+    "end_s": 68.0,
+    "text": "fina bass nekhoud di2a to appreciate the shine lli 3am ta3ti la cha3re",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 68.1,
+    "end_s": 70.0,
+    "text": "hek hek ana w 3am khallis",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 70.1,
+    "end_s": 71.5,
+    "text": "badde bass hekoun tehzaro adde ha2a hayde el item",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 71.6,
+    "end_s": 73.0,
+    "text": "69$ bass",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 73.1,
+    "end_s": 76.5,
+    "text": "3anjad maba3rif kif ken fi marhale bhayete bi kemela ma kent esta3mil fiya hal product",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 76.6,
+    "end_s": 78.5,
+    "text": "eza ata3it jem3a bi kemela w cheftoune",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 78.6,
+    "end_s": 80.0,
+    "text": "3emla cha3rate heke 3al jem3a",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 80.1,
+    "end_s": 81.0,
+    "text": "serto ta3rfo kif",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 81.1,
+    "end_s": 81.7,
+    "text": "WavyTalk khedouwoun la mosriyete KHEDOUWOUN",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 8.8,
+    "shot_type": "split_screen",
+    "visual": "A viral English UGC creator demonstrates the thermal brush giving herself a blowout while the Lebanese creator reacts in an inset picture-in-picture window on the bottom left.",
+    "action": "English creator curls hair ends and shows bouncy blowout results while Lebanese creator watches in shock.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.8,
+    "end_s": 23.5,
+    "shot_type": "medium_shot",
+    "visual": "Lebanese creator in her living room, half of her hair frizzy and unstyled, half styled into smooth blowout.",
+    "action": "She speaks excitedly to camera, shows a photo overlay of her natural 3C curls, explains her FOMO from TikTok stats, and snaps to show the half-styled hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 34.5,
+    "shot_type": "close_up",
+    "visual": "Creator holding up the pink WavyTalk Blowout Boost brush, showing the barrel and controls.",
+    "action": "She pins up sections of hair using a pink hibiscus clip and explains the negative ion technology.",
+    "product_visible": true
+   },
+   {
+    "start_s": 34.5,
+    "end_s": 56.5,
+    "shot_type": "medium_shot",
+    "visual": "Step-by-step styling demo in front of camera.",
+    "action": "Creator glides brush down a curl to de-frizz it, then wraps, twists, and rolls it down at an angle to create a bouncy spiral curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 56.5,
+    "end_s": 73.0,
+    "shot_type": "medium_shot",
+    "visual": "Creator finishing top crown sections and shaking out gorgeous curls.",
+    "action": "She styles the top crown section, leans close to display mirror shine, and gasps about the $69 price.",
+    "product_visible": true
+   },
+   {
+    "start_s": 73.0,
+    "end_s": 81.7,
+    "shot_type": "close_up",
+    "visual": "Full final results and outro enthusiasm.",
+    "action": "Creator tosses her full head of glossy bouncy curls, holds brush up to lens and screams jokingly to take her money.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Viral English review clip playing with PiP of Lebanese creator watching intensely.",
+   "visual_0_3s": "Fast-paced blowout transformation snippet from viral US UGC video with Lebanese creator reaction inset.",
+   "spoken_0_3s": "gives me the most beautiful bombshell blowout every single time I use it.",
+   "text_0_3s": "BTS 20",
+   "hook_type": "reaction",
+   "hook_type_secondary": "social_proof",
+   "pattern_interrupt": "Combining a viral foreign UGC proof with a local creator's live reaction window before jumping to her own curly hair test."
+  },
+  "structure": {
+   "format": "reaction_or_duet",
+   "narrative_beats": [
+    "Reaction to viral US TikTok trend with 1.5M sold",
+    "Problem qualification (extremely frizzy, curly hair)",
+    "Half-and-half instant reveal (clock it)",
+    "Product tech explanation (negative ion technology)",
+    "Step-by-step tutorial (smoothing pass then angled twist curl)",
+    "Speed benefit (<15 min full head vs salon blowout)",
+    "Price reveal ($69 value claim)",
+    "Final hair flip and passionate endorsement"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "saves_time",
+    "price_value_vs_dyson",
+    "social_proof_popularity"
+   ],
+   "key_claims": [
+    "Tames extremely curly, frizzy hair into a salon blowout",
+    "1.5 million brushes sold on TikTok",
+    "Negative ion technology protects hair and smooths cuticles",
+    "Styles the entire head in less than 15 minutes",
+    "Only costs $69"
+   ],
+   "pain_points": [
+    "Stubborn, hard-to-manage curly hair",
+    "Having to visit the salon/hairdresser just to get a blowout",
+    "Frizz and lack of shine",
+    "Time-consuming multi-step hair routines"
+   ],
+   "objections_handled": [
+    "Will it work on really curly hair? (Creator explicitly shows her 3C curl photo and proves it works live)",
+    "Is it difficult to use? (Clear simple tutorial showing de-frizz pass followed by angled twist)",
+    "Is it expensive? (Addressed directly with shock at $69 price)"
+   ],
+   "social_proof": [
+    "1.5 million brushes sold on TikTok",
+    "Viral US TikTok creator clip featured in opening"
+   ],
+   "comparison_to": "Going to the hair salon / coiffeur"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 22.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Blowout Boost thermal brush available for $69",
+   "price_mentioned": "69$",
+   "discount_code": "BTS 20",
+   "urgency": "",
+   "cta_spoken": "WavyTalk khedouwoun la mosriyete KHEDOUWOUN",
+   "cta_on_screen": "WavyTalk khedouwoun la mosriyete KHEDOUWOUN",
+   "cta_at_s": 81.0
+  },
+  "talent": {
+   "people_count": 2,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Extremely curly, voluminous dark brown frizzy curls",
+   "hair_after": "Smooth, glossy, bombshell blowout with defined spiral waves",
+   "setting": "living_room",
+   "faces_camera": true,
+   "energy_tone": "High-energy, shocked, authentic and relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat lo-fi instrumental bed beneath direct spoken audio.",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 5.8,
+   "pacing": "fast",
+   "effects": [
+    "Picture-in-picture video reaction",
+    "Photo pop-up overlay",
+    "Zoom-ins on face and hair curls",
+    "Sound effects (snap / whoosh)"
+   ],
+   "ending": "Creator playfully thrusts the tool towards camera while yelling 'take my money!'"
+  },
+  "notes": "Authentic Lebanese UGC style pairing an international viral hook with a localized demo tailored to Arab consumers with dense curly hair. Subtitles utilize Arabizi (Latin script with numerals) as typical for Lebanese social media."
+ }
+}

@@ -1,0 +1,236 @@
+{
+ "media_key": "v_2430553400710292",
+ "analyzed_at": "2026-11-27T20:37:41+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "c06e46bf4bc31069345032c15e241724f2adc5c85cdf5a0eaf3c7b35cdc6aeb8",
+ "source": {
+  "kind": "video",
+  "id": "2430553400710292",
+  "video_id": "853104804559904",
+  "length_s": 12.633,
+  "permalink": "/23849366283980795/videos/853104804559904/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 12.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A compilation of different women demonstrating the dramatic, instant straightening results of the steam straightener brush set to a popular viral audio.",
+  "full_description": "The video features a montage of diverse women with thick, curly, and textured hair using a steam straightener brush. Each clip showcases a single pass of the tool transforming frizzy or curly hair into sleek, silky, pin-straight strands, accompanied by visible steam and genuine reactions of amazement. A static on-screen caption frames the transformation as 'POV: you use our steam straightener brush once', while a viral comedic audio about 'slay forever' plays over the footage.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I will never, ever, ever, ever, ever be depressed again.",
+    "text_english": "I will never, ever, ever, ever, ever be depressed again."
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 4.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I will never be depressed again. I'm always going to be slay,",
+    "text_english": "I will never be depressed again. I'm always going to be slay,"
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 6.7,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "and I'm always going to be sexy.",
+    "text_english": "and I'm always going to be sexy."
+   },
+   {
+    "start_s": 6.7,
+    "end_s": 8.7,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I will never be sad and miserable ever again.",
+    "text_english": "I will never be sad and miserable ever again."
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 10.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Slay forever.",
+    "text_english": "Slay forever."
+   },
+   {
+    "start_s": 10.3,
+    "end_s": 12.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I will be slay forever.",
+    "text_english": "I will be slay forever."
+   }
+  ],
+  "transcript_full_original": "I will never, ever, ever, ever, ever be depressed again. I will never be depressed again. I'm always going to be slay, and I'm always going to be sexy. I will never be sad and miserable ever again. Slay forever. I will be slay forever.",
+  "transcript_full_english": "I will never, ever, ever, ever, ever be depressed again. I will never be depressed again. I'm always going to be slay, and I'm always going to be sexy. I will never be sad and miserable ever again. Slay forever. I will be slay forever.",
+  "word_count": 42,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 12.8,
+    "text": "POV: you use our steam straightener brush once\n\n(The key to sleek, shiny hair without the damage)",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "shot_type": "medium shot",
+    "visual": "A young woman with long auburn wavy hair sits in a brightly lit room with half of her hair straight and the other half wavy.",
+    "action": "She glides the white steam straightener brush through a section of hair, emitting a fine mist of steam.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 4.4,
+    "shot_type": "close-up",
+    "visual": "A young woman with tightly curled dark hair in a white top.",
+    "action": "She brushes through a curl clump using the pink steam straightening brush, immediately leaving a glossy, straight strip.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.4,
+    "end_s": 6.6,
+    "shot_type": "medium close-up",
+    "visual": "A young Black woman wearing a pink hoodie with afro-textured hair clipped up.",
+    "action": "She finishes a pass down a section of hair, turns toward the camera, and gasps in shock at how straight and flat it turned out.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.6,
+    "end_s": 8.8,
+    "shot_type": "medium close-up",
+    "visual": "A young woman with curly brown hair with one half already sleek and straight.",
+    "action": "She smiles directly at the camera while running the white steam brush down another section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.8,
+    "end_s": 10.4,
+    "shot_type": "extreme close-up",
+    "visual": "Close-up of thick textured hair being styled.",
+    "action": "The pink steam straightener brush glides down the hair section, instantly straightening the curl pattern in a single pass.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.4,
+    "end_s": 12.8,
+    "shot_type": "medium shot",
+    "visual": "The same woman from the previous shot sitting in her bedroom with partially straightened hair.",
+    "action": "She looks into the camera and covers her mouth in total disbelief and happiness at the result.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "A creator running a steam straightener brush through wavy hair with a POV text overlay.",
+   "visual_0_3s": "Fast cuts of two different creators gliding the steam straightener brush through curly hair, showing instantaneous straightening.",
+   "spoken_0_3s": "I will never, ever, ever, ever, ever be depressed again.",
+   "text_0_3s": "POV: you use our steam straightener brush once (The key to sleek, shiny hair without the damage)",
+   "hook_type": "result_first",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "Instant visual satisfaction of coarse curly hair turning bone straight in a single stroke synced to comedic viral audio."
+  },
+  "structure": {
+   "format": "reaction_or_duet",
+   "narrative_beats": [
+    "POV premise establishing the hair tool's transformative power",
+    "Rapid succession of diverse women straightening curly/textured hair in one stroke",
+    "Shocked and happy reactions validating the tool's effectiveness"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "less_heat_damage",
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "One pass straightening",
+    "Sleek and shiny hair without heat damage",
+    "Works on diverse curl patterns"
+   ],
+   "pain_points": [
+    "Heat damage from traditional flat irons",
+    "Frizzy, unruly curly hair difficult to straighten",
+    "Time-consuming straightening routines"
+   ],
+   "objections_handled": [
+    "Will it work on coarse/coily/textured hair?",
+    "Does it cause heat damage?"
+   ],
+   "social_proof": [
+    "Multiple real creator UGC reactions showing genuine amazement"
+   ],
+   "comparison_to": "Traditional damaging hair straighteners"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steam Straightener Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 4,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Thick wavy, curly, and type 4 coily textured dark and auburn hair",
+   "hair_after": "Glossy, pin-straight sleek hair",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Excited, amazed, and confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Viral TikTok sound featuring a comedic British voice monologue ('I will never ever be depressed again... slay forever').",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 2.13,
+   "pacing": "fast",
+   "effects": [
+    "Text overlay",
+    "Montage editing"
+   ],
+   "ending": "A creator covering her mouth in happy shock looking at her sleek hair transformation."
+  },
+  "notes": "Ad utilizes a classic UGC mashup format built on trending audio to provide heavy visual proof across diverse hair textures."
+ }
+}

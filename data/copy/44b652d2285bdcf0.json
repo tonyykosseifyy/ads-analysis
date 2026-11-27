@@ -1,0 +1,19 @@
+{
+ "language": "en",
+ "main_angle": "social_proof_popularity",
+ "secondary_angles": [
+  "offer_discount_urgency",
+  "salon_result_at_home",
+  "volume_and_bounce",
+  "easy_for_beginners",
+  "saves_time"
+ ],
+ "opening_line": "Sold out for the second time. The Blowout Boost is finally back and on 15% off.",
+ "opening_style": "social_proof",
+ "mentions_offer": true,
+ "offer": "15% off",
+ "social_proof": "Sold out for the second time. It went viral for a reason.",
+ "cta": "Try it risk-free with our 30-day return policy.",
+ "tone": "enthusiastic, urgent, confident",
+ "variation_count": 2
+}

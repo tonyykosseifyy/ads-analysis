@@ -1,0 +1,395 @@
+{
+ "media_key": "v_1376289564254841",
+ "analyzed_at": "2026-11-27T18:41:33+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "16cfe38aa16182466e2ef8d4a3530e7a67ac6f56b6c5b67b4bee308aca2c2be1",
+ "source": {
+  "kind": "video",
+  "id": "1376289564254841",
+  "ig_media_id": "17886157101352091",
+  "permalink": "https://www.instagram.com/p/DWE5byZjPa6/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 18.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Lebanese creator showcases the WavyTalk Blowout Boost, highlighting its use at New York Fashion Week runway models and demonstrating easy at-home blowout results.",
+  "full_description": "A creator presents the boxed WavyTalk Blowout Boost thermal brush, revealing that it was used backstage at New York Fashion Week (FIT's Runway 27) on runway models to achieve high-volume, glowy hair. The video features cut-in b-roll clips of runway styling, a demo styling hair, and models showing bouncy blowouts, before cutting back to the creator displaying her own styled blowout and holding up the unboxed brush with a call to order.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 50,
+    "en": 50,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en",
+    "arabizi"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "This brush استعملوها بـ New York Fashion Week على كل الـ models.",
+    "text_english": "This brush was used at New York Fashion Week on all the models."
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 4.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Yes بـ FIT's Runway 27.",
+    "text_english": "Yes, at FIT's Runway 27."
+   },
+   {
+    "start_s": 4.6,
+    "end_s": 7.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "و it's the reason ليه شعرهم كلهم فيهم volume و glowy.",
+    "text_english": "And it's the reason why all their hair had volume and looked glowy."
+   },
+   {
+    "start_s": 7.7,
+    "end_s": 11.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "لأن this Blowout Boost can do any hairstyle in 10 minutes.",
+    "text_english": "Because this Blowout Boost can do any hairstyle in 10 minutes."
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 13.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Bouncy blowout, soft waves.",
+    "text_english": "Bouncy blowout, soft waves."
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 16.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "و any hairstyle بيخطر ع بالكم can be done at home.",
+    "text_english": "And any hairstyle that comes to mind can be done at home."
+   },
+   {
+    "start_s": 16.3,
+    "end_s": 18.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "و this same brush can be yours, order it now!",
+    "text_english": "And this same brush can be yours, order it now!"
+   }
+  ],
+  "transcript_full_original": "This brush استعملوها بـ New York Fashion Week على كل الـ models. Yes بـ FIT's Runway 27. و it's the reason ليه شعرهم كلهم فيهم volume و glowy. لأن this Blowout Boost can do any hairstyle in 10 minutes. Bouncy blowout, soft waves. و any hairstyle بيخطر ع بالكم can be done at home. و this same brush can be yours, order it now!",
+  "transcript_full_english": "This brush was used at New York Fashion Week on all the models. Yes, at FIT's Runway 27. And it's the reason why all their hair had volume and looked glowy. Because this Blowout Boost can do any hairstyle in 10 minutes. Bouncy blowout, soft waves. And any hairstyle that comes to mind can be done at home. And this same brush can be yours, order it now!",
+  "word_count": 51,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 0.9,
+    "text": "this brush",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 0.9,
+    "end_s": 2.1,
+    "text": "New York fashion week",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 3.1,
+    "text": "aala kel l models",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.1,
+    "end_s": 3.8,
+    "text": "yes",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 4.8,
+    "text": "b FIT's Runway27",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 5.8,
+    "text": "w it's the reason",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 6.8,
+    "text": "leh shaaron fiyo",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 7.4,
+    "text": "fiyon volume",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 8.0,
+    "text": "w glowy",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 8.7,
+    "text": "La2an",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 9.6,
+    "text": "this blowout boost",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.6,
+    "end_s": 10.1,
+    "text": "can do",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.1,
+    "end_s": 10.6,
+    "text": "any hairstyle",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.6,
+    "end_s": 11.2,
+    "text": "in 10 minutes",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 12.1,
+    "text": "Bouncy blowout",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.1,
+    "end_s": 13.0,
+    "text": "soft waves",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 14.0,
+    "text": "w any hairstyle",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.0,
+    "end_s": 14.8,
+    "text": "bye5tor aabelkon",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 15.6,
+    "text": "can be done",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 16.5,
+    "text": "at home",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 17.3,
+    "text": "w the same brush",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.3,
+    "end_s": 17.9,
+    "text": "can be yours",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.9,
+    "end_s": 18.5,
+    "text": "order it now",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.9,
+    "shot_type": "split-screen / UGC talking head",
+    "visual": "Creator standing indoors holding the WavyTalk Blowout Boost box, while an insert video in the top left shows a runway model having hair styled backstage at fashion week.",
+    "action": "Creator talks directly to camera pointing at the box and referencing the fashion week video insert.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 4.6,
+    "shot_type": "medium shot",
+    "visual": "Creator in modern hallway holding the WavyTalk box with both hands.",
+    "action": "Creator speaks enthusiastically into the lapel mic while presenting the box.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.6,
+    "end_s": 7.7,
+    "shot_type": "close-up b-roll",
+    "visual": "Blonde creator using the pink WavyTalk thermal brush on bangs/curls, then fluffing out big bouncy volume.",
+    "action": "Model demonstrates rolling hair onto the brush and fluffing her voluminous hair facing camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.7,
+    "end_s": 9.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator excitedly shaking and holding the Blowout Boost retail box up to the camera.",
+    "action": "Creator dances and smiles happily while pushing box forward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 11.0,
+    "shot_type": "medium shot",
+    "visual": "Creator in bathroom using the pink Blowout Boost round brush to curl her dark hair strand.",
+    "action": "Creator twists hair section around the heated barrel brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 12.8,
+    "shot_type": "close-up b-roll",
+    "visual": "Brunette model with lush bouncy blowout running her fingers through her hair and blowing a kiss.",
+    "action": "Model shows off shiny voluminous curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 16.3,
+    "shot_type": "medium shot",
+    "visual": "Creator standing with back to camera, then turning around and flipping her styled sleek blowout hair.",
+    "action": "Creator turns around, runs hands through hair and beams at the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 16.3,
+    "end_s": 18.5,
+    "shot_type": "medium shot",
+    "visual": "Creator in stylish apartment living room holding up the bare pink Blowout Boost brush.",
+    "action": "Creator points directly at camera while holding the brush, delivering the closing CTA.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the WavyTalk Blowout Boost box next to an insert clip of a high-fashion model backstage.",
+   "visual_0_3s": "Fast split-screen contrasting the retail tool box with glamorous backstage fashion week styling.",
+   "spoken_0_3s": "This brush استعملوها بـ New York Fashion Week على كل الـ models",
+   "text_0_3s": "this brush / New York fashion week / aala kel l models",
+   "hook_type": "expert_or_hairdresser",
+   "hook_type_secondary": "social_proof",
+   "pattern_interrupt": "Immediate association of an affordable at-home tool with elite New York Fashion Week runway models."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Authority hook citing New York Fashion Week usage",
+    "B-roll demonstration of volume and blowout results",
+    "Speed and versatility claim (10 minutes, any style)",
+    "Creator personal result reveal",
+    "Direct call-to-action to order"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "volume_and_bounce",
+    "social_proof_popularity"
+   ],
+   "key_claims": [
+    "Used at New York Fashion Week FIT's Runway 27 on all models",
+    "Provides volume and glowy hair",
+    "Styles hair in 10 minutes",
+    "Achieves bouncy blowouts and soft waves at home"
+   ],
+   "pain_points": [
+    "Flat hair lacking volume",
+    "Difficulty getting salon blowout results at home"
+   ],
+   "objections_handled": [
+    "Professional runway quality can be achieved simply at home"
+   ],
+   "social_proof": [
+    "New York Fashion Week FIT Runway 27 models"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 4.6,
+   "final_result_shown_s": 5.8,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "This same brush can be yours, order it now!",
+   "cta_on_screen": "order it now",
+   "cta_at_s": 16.5
+  },
+  "talent": {
+   "people_count": 3,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Dark brown, long, straight/wavy",
+   "hair_after": "Dark brown, long, smooth with blowout volume and bounce",
+   "setting": "indoor apartment / bathroom",
+   "faces_camera": true,
+   "energy_tone": "Excited, upbeat, trendy"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Upbeat energetic electronic background music track playing under speech",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 2.3,
+   "pacing": "fast",
+   "effects": [
+    "split-screen overlay",
+    "quick cut transitions",
+    "synchronized word-by-word subtitles"
+   ],
+   "ending": "Creator smiling and pointing directly at the viewer with tool in hand"
+  },
+  "notes": "Ad specifically leverages the high-profile New York Fashion Week credential to establish premium authority for the Blowout Boost in the Lebanese market."
+ }
+}

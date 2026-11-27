@@ -1,0 +1,355 @@
+{
+ "media_key": "v_985641517230852",
+ "analyzed_at": "2026-11-27T18:39:32+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "2968742b6ac1ee358c3d96d3dce22fd4bd5fa5b86a7e914fb8892b517b3ebeb0",
+ "source": {
+  "kind": "video",
+  "id": "985641517230852",
+  "ig_media_id": "17895368154444787",
+  "permalink": "https://www.instagram.com/p/DXqgJfcDF6t/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 28,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "A Lebanese creator showcases UGC social proof and key features of the WavyTalk Blowout Boost thermal brush to promise frizz-free salon results at home.",
+  "full_description": "The video starts with a young female creator sitting on a red couch presenting multiple UGC clips of women using the WavyTalk thermal brush. She explains that everyone has tried the Blowout Boost and achieved shiny, frizz-free hair all day. Through cutaways of different women styling their hair and a close-up of the tool's digital screen, she highlights the negative ion technology that avoids drying out hair, 5 adjustable heat settings for all hair types, and safe daily usage. She concludes by encouraging viewers to achieve salon results at home by purchasing through the link below.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 55,
+    "en": 45,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "arabizi",
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This, this, this, this, this.",
+    "text_english": "This, this, this, this, this."
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 5.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "كل هالعالم جربوا the Blowout Boost",
+    "text_english": "All these people tried the Blowout Boost"
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 8.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "صار عندن glowy و no frizz hair all day",
+    "text_english": "and they got glowy and frizz-free hair all day."
+   },
+   {
+    "start_s": 8.1,
+    "end_s": 10.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "الـ negative ion technology فيها ما بينشف الشعر",
+    "text_english": "Its negative ion technology doesn't dry out the hair"
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 13.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "كرمال يضاين all day without any frizz",
+    "text_english": "so it stays all day without any frizz."
+   },
+   {
+    "start_s": 13.8,
+    "end_s": 16.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "فيها 5 temperature modes لتناسب all hair types",
+    "text_english": "It has 5 temperature modes to suit all hair types"
+   },
+   {
+    "start_s": 16.7,
+    "end_s": 18.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "و it's very safe for daily use.",
+    "text_english": "and it's very safe for daily use."
+   },
+   {
+    "start_s": 19.0,
+    "end_s": 21.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "حتى فيكن تعملوا فيها any hairstyle in mind",
+    "text_english": "You can even do any hairstyle you have in mind"
+   },
+   {
+    "start_s": 21.7,
+    "end_s": 23.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "to match your mood everyday.",
+    "text_english": "to match your mood everyday."
+   },
+   {
+    "start_s": 23.4,
+    "end_s": 27.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Get salon results at home like all these people from the link below.",
+    "text_english": "Get salon results at home like all these people from the link below."
+   }
+  ],
+  "transcript_full_original": "This, this, this, this, this. كل هالعالم جربوا the Blowout Boost صار عندن glowy و no frizz hair all day. الـ negative ion technology فيها ما بينشف الشعر كرمال يضاين all day without any frizz. فيها 5 temperature modes لتناسب all hair types و it's very safe for daily use. حتى فيكن تعملوا فيها any hairstyle in mind to match your mood everyday. Get salon results at home like all these people from the link below.",
+  "transcript_full_english": "This, this, this, this, this. All these people tried the Blowout Boost and they got glowy and frizz-free hair all day. Its negative ion technology doesn't dry out the hair so it stays all day without any frizz. It has 5 temperature modes to suit all hair types and it's very safe for daily use. You can even do any hairstyle you have in mind to match your mood everyday. Get salon results at home like all these people from the link below.",
+  "word_count": 68,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "text": "This This This This This",
+    "role": "hook"
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 5.4,
+    "text": "Kel hal aalam jarrabo the Blowout boost",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 8.0,
+    "text": "glowy w no frizz hair all day",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.1,
+    "end_s": 10.8,
+    "text": "L negative ion technology w ma binashef l shaar",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 13.7,
+    "text": "kermel ydayen all day without any frizz",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.8,
+    "end_s": 16.6,
+    "text": "fiya 5 temperature modes all hair types",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.7,
+    "end_s": 18.9,
+    "text": "w its very safe daily use",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.0,
+    "end_s": 21.6,
+    "text": "Hatta Fikon any hairstyle in mind",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.7,
+    "end_s": 23.3,
+    "text": "to match your mood everyday",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.4,
+    "end_s": 27.7,
+    "text": "get salon results at home like all these people from the link below",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "shot_type": "medium shot with split-screen overlays",
+    "visual": "Creator sitting on an orange couch pointing to dynamic video collage overlays popping up around her showing various women using the brush",
+    "action": "Creator gestures with her hand as each UGC clip pops up on screen",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 5.4,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting on couch holding the pink Blowout Boost thermal brush in her hand",
+    "action": "Creator speaks to camera and holds up the thermal brush",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 8.0,
+    "shot_type": "close-up b-roll",
+    "visual": "Blonde woman with smooth blowout finishing her styling with the thermal brush",
+    "action": "Blonde woman styles her hair ends with the heated brush and runs fingers through her locks",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.1,
+    "end_s": 10.0,
+    "shot_type": "close-up product detail",
+    "visual": "Close-up hand holding the pink WavyTalk thermal brush showing the blue ION light and digital LED screen display",
+    "action": "Hand adjusts and presents the tool to the camera",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.1,
+    "end_s": 13.7,
+    "shot_type": "medium shot",
+    "visual": "Creator in a grey blazer tossing and running hands through her smooth, long brunette hair",
+    "action": "Creator smiles excitedly while shaking out her volumized hair",
+    "product_visible": false
+   },
+   {
+    "start_s": 13.8,
+    "end_s": 16.6,
+    "shot_type": "medium mirror shot",
+    "visual": "Creator in bathroom styling her hair sections using the pink WavyTalk thermal brush",
+    "action": "Creator brushes and curls a section of hair inward",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.7,
+    "end_s": 18.9,
+    "shot_type": "medium shot",
+    "visual": "Creator back on couch holding the brush, wagging her index finger",
+    "action": "Creator speaks passionately to camera holding the tool",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.0,
+    "end_s": 21.6,
+    "shot_type": "close-up b-roll",
+    "visual": "Brunette creator running hands through her freshly styled voluminous curls with bobby pins visible",
+    "action": "Creator shakes out bouncy curls and smiles",
+    "product_visible": false
+   },
+   {
+    "start_s": 21.7,
+    "end_s": 27.7,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting on couch talking to camera with fairy lights / bokeh sparkles effect, holding brush and pointing downward",
+    "action": "Creator points both index fingers toward the bottom of the frame where a red arrow emoji pops up",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator on orange couch with a vertical UGC clip pop-up of another creator holding the pink WavyTalk brush",
+   "visual_0_3s": "Rapid pop-ups of multiple UGC video clips surrounding the host creator as she counts them",
+   "spoken_0_3s": "This, this, this, this, this.",
+   "text_0_3s": "This This This This This",
+   "hook_type": "social_proof",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Rapid-fire visual montage popping 5 different user testimonials simultaneously around the speaker to rhythmic repetition of 'this'."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Social proof hook displaying multiple viral videos",
+    "Product introduction (Blowout Boost)",
+    "Key benefits (glowy, frizz-free, negative ion tech)",
+    "Technical feature (5 temperature modes suitable for all hair types)",
+    "Versatility & safety claim (safe for daily use, any hairstyle)",
+    "Call-to-action to buy through link below"
+   ],
+   "main_angle": "social_proof_popularity",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "salon_result_at_home",
+    "less_heat_damage"
+   ],
+   "key_claims": [
+    "Everyone has tried the Blowout Boost",
+    "Leaves hair glowy and frizz-free all day",
+    "Negative ion technology prevents drying out hair",
+    "5 temperature settings suitable for all hair types",
+    "Very safe for everyday use",
+    "Enables any hairstyle at home"
+   ],
+   "pain_points": [
+    "Frizzy and unmanageable hair",
+    "Heat damage and drying out hair with traditional tools",
+    "Complicated styling routines"
+   ],
+   "objections_handled": [
+    "Will it damage hair with daily use? (Handled: safe for daily use and negative ions prevent drying)",
+    "Will it work on my hair type? (Handled: 5 heat settings for all hair types)"
+   ],
+   "social_proof": [
+    "Montage of multiple different UGC creators demonstrating and loving the product"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost thermal brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.6,
+   "final_result_shown_s": 5.5,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Get salon results at home like all these people from the link below",
+   "cta_on_screen": "from the link below",
+   "cta_at_s": 23.4
+  },
+  "talent": {
+   "people_count": 4,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Straight, smooth long dark brown hair",
+   "hair_after": "Voluminous, styled blowout",
+   "setting": "living_room",
+   "faces_camera": true,
+   "energy_tone": "Upbeat, energetic, and relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Upbeat, lively modern pop/electronic background track",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 3.5,
+   "pacing": "fast",
+   "effects": [
+    "Picture-in-picture UGC collage pop-ups",
+    "Color gradient swipe transition",
+    "Bokeh sparkle overlay",
+    "Animated bouncing red pointer arrow sticker"
+   ],
+   "ending": "Creator smiling and pointing down towards the caption/link button"
+  },
+  "notes": "Spoken Arabic is Lebanese mixed naturally with English tech/beauty terms. Burned-in subtitles use Arabizi transliteration for Arabic words."
+ }
+}

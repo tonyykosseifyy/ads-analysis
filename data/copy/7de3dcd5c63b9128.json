@@ -1,0 +1,16 @@
+{
+ "language": "en",
+ "main_angle": "less_heat_damage",
+ "secondary_angles": [
+  "saves_time",
+  "offer_discount_urgency"
+ ],
+ "opening_line": "Your regular dryer melted a candle in 26 seconds. That's the heat you're putting on your hair for 25 minutes every single time.",
+ "opening_style": "problem_callout",
+ "mentions_offer": true,
+ "offer": "30-day return policy — 25% off now, while stock lasts.",
+ "social_proof": "",
+ "cta": "Try it risk-free with our 30-day return policy — 25% off now, while stock lasts.",
+ "tone": "urgent, alarming, persuasive",
+ "variation_count": 7
+}

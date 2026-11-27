@@ -1,0 +1,245 @@
+{
+ "media_key": "v_4503948079894183",
+ "analyzed_at": "2026-11-27T22:40:11+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "ce0ec06b5e814e61e3405cf3dd267fe42a0463b4fad61f2a0ea952d471d8c329",
+ "source": {
+  "kind": "video",
+  "id": "4503948079894183",
+  "video_id": "3857944471022515",
+  "length_s": 22.966,
+  "permalink": "/23849366283980795/videos/3857944471022515/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 23.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator shares an organic UGC review and demonstration of the new Wavytalk heated round brush, showcasing bouncy blowout results.",
+  "full_description": "A young female creator sits in her bedroom and opens with a relatable TikTok-style hook ('this is your sign to get a heated round brush'). She presents a half-styled comparison, then demonstrates curling and styling sections of her dark hair using the pink Wavytalk thermal round brush. She details product features such as negative ion technology and adjustable heat settings before revealing a full, shiny, voluminous blowout look and giving a strong recommendation.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If anyone needed a sign to get a heated round brush, this is your sign.",
+    "text_english": "If anyone needed a sign to get a heated round brush, this is your sign."
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 4.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is the before and after.",
+    "text_english": "This is the before and after."
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 8.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is actually the new version of the Wavytalk brush, and I loved the original so I knew I had to try this one.",
+    "text_english": "This is actually the new version of the Wavytalk brush, and I loved the original so I knew I had to try this one."
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 12.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This one has negative ions, so it's going to give you really smooth, sleek hair.",
+    "text_english": "This one has negative ions, so it's going to give you really smooth, sleek hair."
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 16.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It also has an adjustable heat setting, and it just gives the best results every time.",
+    "text_english": "It also has an adjustable heat setting, and it just gives the best results every time."
+   },
+   {
+    "start_s": 16.2,
+    "end_s": 20.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "As much as I love my other hair tools, nothing quite does it for me like this one.",
+    "text_english": "As much as I love my other hair tools, nothing quite does it for me like this one."
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 21.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The sleekness, the shine, the bounce.",
+    "text_english": "The sleekness, the shine, the bounce."
+   },
+   {
+    "start_s": 21.8,
+    "end_s": 23.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Highly recommend.",
+    "text_english": "Highly recommend."
+   }
+  ],
+  "transcript_full_original": "If anyone needed a sign to get a heated round brush, this is your sign. This is the before and after. This is actually the new version of the Wavytalk brush, and I loved the original so I knew I had to try this one. This one has negative ions, so it's going to give you really smooth, sleek hair. It also has an adjustable heat setting, and it just gives the best results every time. As much as I love my other hair tools, nothing quite does it for me like this one. The sleekness, the shine, the bounce. Highly recommend.",
+  "transcript_full_english": "If anyone needed a sign to get a heated round brush, this is your sign. This is the before and after. This is actually the new version of the Wavytalk brush, and I loved the original so I knew I had to try this one. This one has negative ions, so it's going to give you really smooth, sleek hair. It also has an adjustable heat setting, and it just gives the best results every time. As much as I love my other hair tools, nothing quite does it for me like this one. The sleekness, the shine, the bounce. Highly recommend.",
+  "word_count": 96,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.8,
+    "shot_type": "medium shot",
+    "visual": "A young brunette woman sits in her bedroom facing the camera, holding up the pink Wavytalk thermal brush and gesturing towards her styled hair.",
+    "action": "Creator delivers the opening hook directly to camera and brings the thermal brush into view.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 8.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator has top sections of her hair clipped up, holding a bottom strand and wrapping it around the heated round brush.",
+    "action": "Creator wraps her hair around the barrel, curling and gliding it down smoothly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 12.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator continues styling a side section, pulling the thermal brush through to create smooth volume and curl at the ends.",
+    "action": "Creator brushes and twirls hair through the brush barrel while explaining the negative ions feature.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.5,
+    "end_s": 16.2,
+    "shot_type": "close-up",
+    "visual": "Creator styles a top/front section, wrapping the hair around the brush near the root and slowly releasing it.",
+    "action": "She twists the brush out to release a voluminous spiral wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.2,
+    "end_s": 19.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator styles her front curtain bang / face-framing layer upwards and backwards with the heated round brush.",
+    "action": "She rolls the brush through the bang section to create lift and backwards curve.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.0,
+    "end_s": 23.0,
+    "shot_type": "medium shot",
+    "visual": "Creator shows off her finished, glossy blowout with voluminous curves, running her hands through her hair and holding the thermal brush up with a smile.",
+    "action": "She admires the final results in the camera and gives a final recommendation.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera in a neutral bedroom setting with one side of hair styled in bouncy curls.",
+   "visual_0_3s": "Creator addresses camera and immediately raises a pink Wavytalk thermal brush into the frame.",
+   "spoken_0_3s": "If anyone needed a sign to get a heated round brush, this is your sign.",
+   "text_0_3s": "",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Direct callout to indecisive viewers ('this is your sign') coupled with raising the product into view right on beat."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Relatable social media hook / sign callout",
+    "Immediate half-and-half demonstration tease ('before and after')",
+    "Contextualizing tool as the upgraded new version of a proven favorite",
+    "Step-by-step styling demo while highlighting features (negative ions, adjustable heat)",
+    "Final look reveal highlighting sleekness, bounce, and shine",
+    "Direct personal endorsement"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "frizz_or_curly_solution",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Negative ions produce smooth, sleek hair without frizz",
+    "Adjustable heat settings for controlled styling",
+    "Provides consistent salon-quality bounce and shine every time"
+   ],
+   "pain_points": [
+    "Frizz and lack of smoothness",
+    "Hair tools that fail to create long-lasting bounce and shine"
+   ],
+   "objections_handled": [
+    "Risk of heat damage handled by adjustable heat settings",
+    "Frizz concerns handled by negative ion technology"
+   ],
+   "social_proof": [
+    "Creator previously owned and loved the original version of the tool",
+    "Strong personal endorsement over all other hair tools she owns"
+   ],
+   "comparison_to": "Original Wavytalk thermal brush and her other conventional hair styling tools"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Heated Round Brush / Thermal Brush"
+   ],
+   "first_seen_s": 1.0,
+   "first_used_on_hair_s": 4.2,
+   "final_result_shown_s": 19.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Highly recommend.",
+   "cta_on_screen": "",
+   "cta_at_s": 21.8
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Dark brown / brunette, long, loose wave with slight texture",
+   "hair_after": "Ultra-glossy, voluminous 90s-style bouncy blowout curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "friendly, conversational, enthusiastic, authentic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "none",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 3.8,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between styling steps"
+   ],
+   "ending": "Creator holds the heated brush in hand, smiles, runs hands through hair, and delivers final verbal endorsement."
+  },
+  "notes": "Original English UGC ad run on the Lebanese account. Contains no hard price promo or text overlays, focusing purely on organic UGC creator endorsement and visual product performance."
+ }
+}

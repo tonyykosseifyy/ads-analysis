@@ -1,0 +1,168 @@
+{
+ "media_key": "v_1124660637163698",
+ "analyzed_at": "2026-11-27T20:21:10+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "d8379713e073ec4547e30eae8c7ba7687e5f30ac0707017474a58b45b4237f38",
+ "source": {
+  "kind": "video",
+  "id": "1124660637163698",
+  "errors": [
+   "1124660637163698: Gave up after 5 retries: https://graph.facebook.com/v26.0/1124660637163698",
+   "1130526839465961: Gave up after 5 retries: https://graph.facebook.com/v26.0/1130526839465961"
+  ],
+  "ig_media_id": "18505122757103161",
+  "permalink": "https://www.instagram.com/p/DfA1AFXMuIM/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 11.23,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A young creator in pajamas poses and showcases her bouncy day-two blowout alongside the pink Wavytalk thermal round brush.",
+  "full_description": "A short aesthetic UGC showcase where a young brunette woman in festive gingerbread pajamas shows off her fresh, voluminous day-two blowout. To a popular trending audio track, she presents the pink Wavytalk Blowout Boost thermal round brush, gestures to her bouncy layered curls and curtain bangs, playfully rests the tool on her head while winking, and smiles confidently at the camera.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0.0,
+    "en": 0.0,
+    "fr": 0.0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 11.23,
+    "text": "refresh my day two blowout 💍🧷🧸🧚‍♀️",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "shot_type": "medium selfie shot",
+    "visual": "Young woman facing the camera smiling and admiring her voluminous blowout hair",
+    "action": "Creator shakes and arranges her bouncy blowout curls with her hands",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 4.1,
+    "shot_type": "medium selfie shot",
+    "visual": "Creator holds up the pink Wavytalk thermal round brush",
+    "action": "She presents and twirls the hot round brush in front of the camera",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 7.8,
+    "shot_type": "medium selfie shot",
+    "visual": "Creator pointing at her voluminous curtain bangs and layered curls",
+    "action": "She runs her fingers through her hair and points to showcase the shape and volume",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 8.8,
+    "shot_type": "medium selfie shot",
+    "visual": "Creator resting the brush horizontally atop her head",
+    "action": "She rests the thermal brush on her crown and winks cheekily at the camera",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.8,
+    "end_s": 11.23,
+    "shot_type": "medium selfie shot",
+    "visual": "Creator posing and smiling with full blowout volume on display",
+    "action": "She tilts her head, rolls her eyes playfully, shrugs, and smiles with the brush held up",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator smiling directly at the camera with lush, bouncy day-two blowout curls and overlay text 'refresh my day two blowout'",
+   "visual_0_3s": "Creator smiling, fluffing her layered blowout hair, and bringing up the pink thermal brush",
+   "spoken_0_3s": "",
+   "text_0_3s": "refresh my day two blowout 💍🧷🧸🧚‍♀️",
+   "hook_type": "result_first",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "Instant visual display of pristine, bouncy salon-level blowout hair paired with casual pajamas."
+  },
+  "structure": {
+   "format": "product_showcase",
+   "narrative_beats": [
+    "Showcase perfect day-two blowout results",
+    "Introduce the styling tool responsible (Wavytalk thermal brush)",
+    "Flaunt hair bounce and volume from multiple angles"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "saves_time"
+   ],
+   "key_claims": [
+    "Effortlessly refreshes second-day blowout hair",
+    "Maintains salon-level bounce and volume"
+   ],
+   "pain_points": [
+    "Day-two blowout losing shape or flattening out"
+   ],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 1.2,
+   "first_used_on_hair_s": -1.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "result_only",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Dark brown / black layered hair styled in a bouncy voluminous blowout",
+   "hair_after": "Dark brown / black layered hair styled in a bouncy voluminous blowout",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "playful, confident, upbeat"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Popular TikTok audio clip featuring female singing 'I'm just a simple girl with simple tastes' followed by an upbeat hip-hop beat drop",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 0,
+   "avg_shot_length_s": 11.23,
+   "pacing": "medium",
+   "effects": [],
+   "ending": "Creator smiles warmly, tilts head, and looks up playfully while holding the styling brush"
+  },
+  "notes": "Single continuous take UGC video relying on aesthetic hair quality and a trending sound to drive product awareness."
+ }
+}

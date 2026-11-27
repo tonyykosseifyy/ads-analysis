@@ -1,0 +1,170 @@
+{
+ "media_key": "v_1034959779046348",
+ "analyzed_at": "2026-11-27T18:38:50+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "9862efd555b6b00eb49f3742062e78a2324804a42ae20b5532783aa38983dfe2",
+ "source": {
+  "kind": "video",
+  "id": "1034959779046348",
+  "video_id": "1016280031381581",
+  "length_s": 28.933,
+  "permalink": "/23849366283980795/videos/1016280031381581/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 28.6,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A silent aesthetic tutorial demonstrating how to achieve a bouncy, voluminous blowout using a heated round brush styler.",
+  "full_description": "A creator demonstrates how to style long balayage hair using a pink and gold thermal round brush (Blowout Boost). The video opens with a result hook where she unrolls her curtain bangs to reveal immediate bounce. She then demonstrates wrapping and rolling front sections of hair, followed by a close-up curling motion, showing the resulting shiny spiral curl. The video ends with a showcase of the full blowout from the back and front.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 28.6,
+    "text": "HOW TO GET THE PERFECT BLOWOUT 🤍",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator unrolling the thermal round brush from her front fringe/bangs.",
+    "action": "Creator pulls the heated round brush out of her bangs, shakes out the voluminous curved fringe, and smooths hair with her hands while smiling.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.7,
+    "end_s": 13.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling a front side section of hair.",
+    "action": "Creator glides and rolls the thermal round brush through a front strand of hair, rotating it downward to bevel and curl the end.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 21.4,
+    "shot_type": "close-up",
+    "visual": "Extreme close-up on the thermal round brush barrel wrapped in hair.",
+    "action": "Hair wraps around the barrel bristles; creator slowly unwinds and twists the brush out to release a silky, defined spiral wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.4,
+    "end_s": 23.8,
+    "shot_type": "medium shot from behind",
+    "visual": "Creator showing the back of her styled hair.",
+    "action": "Creator runs fingers through cascading, voluminous layered curls from the back.",
+    "product_visible": false
+   },
+   {
+    "start_s": 23.8,
+    "end_s": 28.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator posing and admiring final hairstyle facing camera.",
+    "action": "Creator fluffs and flips her bouncy hair with both hands, showing off the polished salon blowout look.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the thermal round brush rolled under her front fringe facing the camera.",
+   "visual_0_3s": "Creator unwinds the round brush from her bangs, immediately showing a bouncy, styled curtain fringe.",
+   "spoken_0_3s": "",
+   "text_0_3s": "HOW TO GET THE PERFECT BLOWOUT 🤍",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Immediate reveal of a perfect bouncy curtain bang curl in the opening second."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Result reveal teaser on bangs",
+    "Step-by-step curling demo on side section",
+    "Close-up technique and curl release demo",
+    "Full hair reveal from back",
+    "Final aesthetic pose and hair toss"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Creates the perfect blowout with volume and defined curls"
+   ],
+   "pain_points": [
+    "Struggling to achieve salon-style blowout volume at home"
+   ],
+   "objections_handled": [
+    "Too complicated to use a round brush and blow dryer simultaneously"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional round brush and blow dryer blowout"
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost thermal round brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 21.4,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20s",
+   "hair_before": "Long caramel balayage styled/semi-styled hair",
+   "hair_after": "Voluminous, shiny, layered blowout curls with curved curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "calm, aesthetic, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Mellow, rhythmic R&B/pop beat with bass and synth groove",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 5.7,
+   "pacing": "medium",
+   "effects": [
+    "static text overlay"
+   ],
+   "ending": "Creator smiling and posing while smoothing her hair"
+  },
+  "notes": "Music-only aesthetic tutorial UGC demonstrating the thermal styling brush without dialogue. The persistent overlay text 'HOW TO GET THE PERFECT BLOWOUT 🤍' serves as the anchor hook for the tutorial format."
+ }
+}

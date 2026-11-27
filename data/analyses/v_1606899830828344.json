@@ -1,0 +1,174 @@
+{
+ "media_key": "v_1606899830828344",
+ "analyzed_at": "2026-11-27T20:37:29+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "29158af766fbe900863d1443ec99d6b07ba52d032427733ae19cdb5eb0a194f0",
+ "source": {
+  "kind": "video",
+  "id": "1606899830828344",
+  "errors": [
+   "1606899830828344: Gave up after 5 retries: https://graph.facebook.com/v26.0/1606899830828344",
+   "1054187100678010: Gave up after 5 retries: https://graph.facebook.com/v26.0/1054187100678010"
+  ],
+  "ig_media_id": "18089774369401175",
+  "permalink": "https://www.instagram.com/p/DcVuxUZsTI3/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 27.7,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates how to achieve a bouncy salon blowout at home in 10 minutes using the WavyTalk thermal round brush.",
+  "full_description": "A creator demonstrates a quick faux blowout tutorial using the pink WavyTalk thermal round brush. In the opening, she displays the tool and taps her nails on the handle against the text overlay 'Faux blowout in 10 mins'. She clips up top sections of her hair, twirls and styles lower strands with the brush, shapes her curtain bangs, styles side sections, and applies hairspray. At the end, she shakes out and fluffs her voluminous, bouncy blowout waves, posing and blowing a kiss to the camera.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 27.7,
+    "text": "Faux blowout in 10 mins",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator sitting in a bedroom/vanity setup holding the pink WavyTalk thermal round brush horizontally towards the camera.",
+    "action": "Creator taps her manicured nails on the handle of the tool to showcase it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 10.4,
+    "shot_type": "medium shot",
+    "visual": "Creator with upper hair pinned with a claw clip, holding a section of hair.",
+    "action": "She sprays heat protectant/styling spray, curls the hair section around the heated round brush, holds, and smoothly unrolls it into a bouncy curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.4,
+    "end_s": 14.5,
+    "shot_type": "medium shot",
+    "visual": "Creator styling her front curtain bangs/face-framing layers.",
+    "action": "She rolls the front hair backwards over the thermal brush and pulls through, releasing voluminous face-framing layers.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 21.4,
+    "shot_type": "medium shot",
+    "visual": "Creator working on an upper side section of hair.",
+    "action": "She brushes through the strand, wraps it tightly around the thermal barrel, holds, sprays hairspray, and twists it out into a defined curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.4,
+    "end_s": 27.7,
+    "shot_type": "medium shot",
+    "visual": "Creator with fully styled, voluminous, layered blowout waves.",
+    "action": "She runs her fingers through her hair, fluffs the volume, smiles confidently, blows a kiss, and reaches forward to turn off the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink thermal round brush with the caption 'Faux blowout in 10 mins'.",
+   "visual_0_3s": "Creator shows the pink heated styling brush and taps her acrylic nails on the handle before prepping a hair strand.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Faux blowout in 10 mins",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Nail tap sound visual prompt and fast-cut transformation promise in 10 minutes."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Hook promise of a fast blowout in 10 minutes",
+    "Quick step-by-step demonstration of wrapping and setting hair sections",
+    "Technique shown for face-framing layers",
+    "Final result showcase with hair fluffing and celebratory kiss to camera"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Achieve a faux salon blowout look in 10 minutes at home"
+   ],
+   "pain_points": [
+    "Traditional blowouts take too long or require complicated round brush and hairdryer coordination"
+   ],
+   "objections_handled": [
+    "Too complicated to do at home (dispelled through simple wrap-and-release technique)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional salon blowouts / round brush and dryer"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk thermal round brush (Blowout Boost)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 3.0,
+   "final_result_shown_s": 21.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long brunette hair with caramel balayage, parted and pre-straightened/smooth",
+   "hair_after": "Voluminous 90s salon-style layered blowout with bouncy curl ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, trendy, upbeat"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Spanish urban Latin/reggaeton track playing continuously throughout",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 5.54,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts",
+    "text overlay"
+   ],
+   "ending": "Creator admires her voluminous blowout, runs hands through hair, blows a kiss to camera, and taps screen to finish."
+  },
+  "notes": "Short, aesthetic UGC demo designed for TikTok and Instagram Reels format using a popular trending track and a clean headline overlay hook."
+ }
+}

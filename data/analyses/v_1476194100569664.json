@@ -1,0 +1,257 @@
+{
+ "media_key": "v_1476194100569664",
+ "analyzed_at": "2026-11-27T20:54:46+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "3595b49428747271cdc3ce9b058710e6a83f28500e8fc397aa7a54c0217d097c",
+ "source": {
+  "kind": "video",
+  "id": "1476194100569664",
+  "errors": [
+   "1476194100569664: Gave up after 5 retries: https://graph.facebook.com/v26.0/1476194100569664"
+  ],
+  "ig_media_id": "18092157365136334",
+  "permalink": "https://www.instagram.com/p/DWmpJnejOu0/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 49.7,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "A Lebanese creator introduces the award-winning WavyTalk Whirlwind Curl, demonstrates its airflow technology on her hair, and shares a 20% discount offer.",
+  "full_description": "A female Lebanese UGC creator presents the pink WavyTalk Whirlwind Curl styler to the camera, explaining that it recently won a major beauty award and is now available in Lebanon. She highlights its innovative airflow cooling technology that sets curls instantly without drop, demonstrates curling a section of her dark hair with a single pass in real time, shows off the full voluminous curl results, and ends by announcing a 20% discount until the end of the month.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 55,
+    "en": 45,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "الـ hair tool يلي هلق ربح a major beauty award صار finally in Lebanon.",
+    "text_english": "The hair tool that just won a major beauty award is finally in Lebanon."
+   },
+   {
+    "start_s": 4.4,
+    "end_s": 13.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "و guys مانه بس الـ hype تبعه، حدا كتير مهم بالـ beauty industry كل سنة كل سنة بيروحوا بينقوا product ليكون the product of the year وهيدي السنة كان هيدا الـ product.",
+    "text_english": "And guys, it's not just the hype around it. Someone very important in the beauty industry every single year goes and picks a product to be the product of the year, and this year it was this product."
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 20.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "It's called the Whirlwind Curl، و guys هو بيستعمل a new technology يلي هي airflow technology، ليكوا.",
+    "text_english": "It's called the Whirlwind Curl, and guys, it uses a new technology which is airflow technology, look."
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 28.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "It sets your curls while you're still styling. No more waiting و no more drop. ليكوا بس.",
+    "text_english": "It sets your curls while you're still styling. No more waiting and no more drop. Just look."
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 36.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "فيكم تروحوا من straight, okay? لـ curls بـ literally ten minutes.",
+    "text_english": "You can go from straight, okay? To curls in literally ten minutes."
+   },
+   {
+    "start_s": 36.5,
+    "end_s": 41.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Guys, one tool, three looks و curls that actually stay.",
+    "text_english": "Guys, one tool, three looks and curls that actually stay."
+   },
+   {
+    "start_s": 41.5,
+    "end_s": 44.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "ليكوا my curls كيف طلعوا! عنجد I'm obsessed!",
+    "text_english": "Look at how my curls turned out! Seriously, I'm obsessed!"
+   },
+   {
+    "start_s": 44.5,
+    "end_s": 49.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "في 20% off على هيدا الـ product till the end of this month, فـ grab yours قبل ما they sell out.",
+    "text_english": "There's 20% off on this product till the end of this month, so grab yours before they sell out."
+   }
+  ],
+  "transcript_full_original": "الـ hair tool يلي هلق ربح a major beauty award صار finally in Lebanon. و guys مانه بس الـ hype تبعه، حدا كتير مهم بالـ beauty industry كل سنة كل سنة بيروحوا بينقوا product ليكون the product of the year وهيدي السنة كان هيدا الـ product. It's called the Whirlwind Curl، و guys هو بيستعمل a new technology يلي هي airflow technology، ليكوا. It sets your curls while you're still styling. No more waiting و no more drop. ليكوا بس. فيكم تروحوا من straight, okay? لـ curls بـ literally ten minutes. Guys, one tool, three looks و curls that actually stay. ليكوا my curls كيف طلعوا! عنجد I'm obsessed! في 20% off على هيدا الـ product till the end of this month, فـ grab yours قبل ما they sell out.",
+  "transcript_full_english": "The hair tool that just won a major beauty award is finally in Lebanon. And guys, it's not just the hype around it. Someone very important in the beauty industry every single year goes and picks a product to be the product of the year, and this year it was this product. It's called the Whirlwind Curl, and guys, it uses a new technology which is airflow technology, look. It sets your curls while you're still styling. No more waiting and no more drop. Just look. You can go from straight, okay? To curls in literally ten minutes. Guys, one tool, three looks and curls that actually stay. Look at how my curls turned out! Seriously, I'm obsessed! There's 20% off on this product till the end of this month, so grab yours before they sell out.",
+  "word_count": 126,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 13.5,
+    "shot_type": "medium close-up",
+    "visual": "Female creator sitting in front of a closet holding a light pink styler, gesturing enthusiastically.",
+    "action": "Creator talks to camera about the beauty industry award and shows the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 20.8,
+    "shot_type": "close-up",
+    "visual": "Creator pointing at the fan vents and power controls of the Whirlwind Curl styler.",
+    "action": "Creator names the product, switches on the airflow fan, and listens to the airflow.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 28.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator sectioning a front strand of her dark hair and wrapping it through the styler plates.",
+    "action": "Creator glides the tool smoothly down her hair, releasing a bouncy, defined curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 36.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling a second front section of hair while explaining how fast styling is.",
+    "action": "Creator rotates the tool around her hair section and slides down, checking the result.",
+    "product_visible": true
+   },
+   {
+    "start_s": 36.5,
+    "end_s": 41.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the styler while displaying the formed curls on the left side of her face.",
+    "action": "Creator talks about versatility and curl longevity while holding the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 41.5,
+    "end_s": 44.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator displaying full head of voluminous, shiny dark curls, running fingers through them.",
+    "action": "Creator flips and touches her curls proudly, admiring the finished result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 44.5,
+    "end_s": 49.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the pink styler up again next to her styled curls, pointing down toward the link.",
+    "action": "Creator states the 20% discount offer and calls viewers to order before inventory runs out.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera wearing a grey sweater and holding the pink Whirlwind Curl tool.",
+   "visual_0_3s": "Creator talking excitedly directly into the camera holding up the hair styler.",
+   "spoken_0_3s": "الـ hair tool يلي هلق ربح a major beauty award صار finally in Lebanon.",
+   "text_0_3s": "",
+   "hook_type": "social_proof",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Calling out that an internationally acclaimed beauty award winner is finally available in Lebanon."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Authority hook announcing major beauty award winner is now available locally",
+    "Introduction of Whirlwind Curl and unique airflow cooling feature",
+    "Live hair curling demonstration showing instant bouncy result",
+    "Key benefits: straight to curly in 10 minutes, multiple looks, long-lasting curls",
+    "Final hair reveal and personal reaction",
+    "Limited-time discount offer and urgent CTA"
+   ],
+   "main_angle": "social_proof_popularity",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "saves_time",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Won a major beauty award / product of the year in the beauty industry",
+    "Airflow technology sets curls while styling with no drop",
+    "Go from straight to curls in literally 10 minutes",
+    "One tool delivers three looks with long-lasting hold"
+   ],
+   "pain_points": [
+    "Curls dropping immediately after styling",
+    "Waiting for hair to cool down to set curl shape",
+    "Taking too long to curl hair"
+   ],
+   "objections_handled": [
+    "Curls falling flat quickly ('no more drop', 'curls that actually stay')"
+   ],
+   "social_proof": [
+    "Won major beauty award / product of the year"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Whirlwind Curl"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 21.0,
+   "final_result_shown_s": 41.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "20% off till the end of this month",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Till the end of this month, before they sell out",
+   "cta_spoken": "فـ grab yours قبل ما they sell out",
+   "cta_on_screen": "",
+   "cta_at_s": 47.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, dark brown, straight/slightly wavy with layered cut",
+   "hair_after": "Voluminous, shiny, bouncy spiral curls with lots of body",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, candid, friendly"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 7.1,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator gestures downwards encouraging viewers to purchase before stock runs out."
+  },
+  "notes": "Direct-to-camera Lebanese dialect UGC ad with natural English code-switching. Focused heavily on social proof (award winner) and demonstration of the airflow cooling tech setting curls quickly."
+ }
+}

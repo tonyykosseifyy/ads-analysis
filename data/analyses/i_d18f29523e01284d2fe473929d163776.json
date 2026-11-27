@@ -1,0 +1,159 @@
+{
+ "media_key": "i_d18f29523e01284d2fe473929d163776",
+ "analyzed_at": "2026-11-27T22:07:10+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "05f842bfd9a217d43b64f5de48a13b6e4f7c5ed253c883616817f91e162ff284",
+ "source": {
+  "kind": "image",
+  "id": "d18f29523e01284d2fe473929d163776"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "Receipt-themed Black Friday promo graphic featuring the WavyTalk Blowout Boost Ionic Thermal Brush at $62.10 (30% off).",
+  "full_description": "A square static promotional graphic designed like a crumpled store receipt against a dark textured purple-wine background. The top of the receipt displays the 'WAVYTALK' brand logo, followed by 'Black Friday' and the promotional price '$62.10 | 30% OFF'. Below, receipt line items list 'ITEM' and 'QTY', with 'BLOWOUT BOOST Ionic Thermal Brush' and quantity '1'. A photo cutout of the pink WavyTalk Blowout Boost thermal round brush is positioned in the center over the receipt. A purple circular sticker on the right reads 'TODAY ONLY'. Scraps of paper with barcodes and receipt headers appear in the upper-left and lower-right corners.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK Black Friday",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "$62.10 | 30% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "ITEM QTY",
+    "role": "other"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "BLOWOUT BOOST Ionic Thermal Brush 1",
+    "role": "other"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "TODAY ONLY",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "product shot",
+    "visual": "A stylized store receipt graphic on crumpled white paper against a deep purple background, showcasing the pink WavyTalk Blowout Boost Ionic Thermal Brush along with discount details.",
+    "action": "Static image display showing price, 30% discount, product cutout, and urgency badge.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Crumpled white receipt graphic showing '$62.10 | 30% OFF' and the pink WavyTalk Blowout Boost thermal brush.",
+   "visual_0_3s": "Receipt aesthetic displaying the Blowout Boost thermal brush and Black Friday discount.",
+   "spoken_0_3s": "",
+   "text_0_3s": "WAVYTALK Black Friday $62.10 | 30% OFF",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "none",
+   "pattern_interrupt": "Receipt / invoice visual format standing out against standard video/photo feed content."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Brand & Black Friday headline",
+    "Clear discounted price and percentage ($62.10, 30% off)",
+    "Featured product image cutout (Blowout Boost)",
+    "Urgency sticker ('Today Only')"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "price_value_vs_dyson"
+   ],
+   "key_claims": [
+    "Blowout Boost Ionic Thermal Brush is on sale for $62.10 (30% discount)",
+    "Offer is valid for Black Friday / today only"
+   ],
+   "pain_points": [],
+   "objections_handled": [
+    "Price / affordability objection handled by highlighting significant discount"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "Black Friday Sale: 30% off Blowout Boost Ionic Thermal Brush",
+   "price_mentioned": "$62.10",
+   "discount_code": "",
+   "urgency": "TODAY ONLY / Black Friday",
+   "cta_spoken": "",
+   "cta_on_screen": "TODAY ONLY",
+   "cta_at_s": 0
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "studio",
+   "faces_camera": false,
+   "energy_tone": ""
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "receipt graphic overlay",
+    "crinkled paper texture",
+    "barcode sticker graphic",
+    "badge sticker"
+   ],
+   "ending": "Static image frame."
+  },
+  "notes": "Static promotional creative formatted as a cash register receipt, optimized for conversion retargeting during Black Friday sales."
+ }
+}

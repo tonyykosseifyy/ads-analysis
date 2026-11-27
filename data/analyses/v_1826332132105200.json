@@ -1,0 +1,496 @@
+{
+ "media_key": "v_1826332132105200",
+ "analyzed_at": "2026-11-27T18:37:03+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "262548b014ecefa176100b95db31a41adff642a84e3136014d14280b42da2dce",
+ "source": {
+  "kind": "video",
+  "id": "1826332132105200",
+  "video_id": "995828280075773",
+  "length_s": 142.87,
+  "permalink": "/23849366283980795/videos/995828280075773/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [
+  "longer_than_2_min"
+ ],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 143.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator transforms extremely voluminous, frizzy long hair into a sleek, bouncy blowout using the thermal round brush while comparing it to $600 luxury tools.",
+  "full_description": "A creator with exceptionally thick, waist-length wavy/crimped hair (referred to as a 'lion's mane') demonstrates how she styles her hair into a smooth, voluminous blowout using a thermal hot round brush. She sections her hair, shows real-time smoothing passes, compares the tool's affordability and superior results to high-end $600 tools (alluding to Dyson/Airwrap), and demonstrates techniques for bangs and front layers. The video concludes with a full reveal of glossy, bouncy, voluminous styled hair.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's blow out my hair!",
+    "text_english": "Let's blow out my hair!"
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 3.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I know some of you like the lion's mane better,",
+    "text_english": "I know some of you like the lion's mane better,"
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 5.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "but I don't, so I'm gonna go in with my hot round brush.",
+    "text_english": "but I don't, so I'm gonna go in with my hot round brush."
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 7.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Trust me, I wish I did prefer the lion's mane,",
+    "text_english": "Trust me, I wish I did prefer the lion's mane,"
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 10.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "but frankly it's just too annoying to deal with and it's unpredictable, plus",
+    "text_english": "but frankly it's just too annoying to deal with and it's unpredictable, plus"
+   },
+   {
+    "start_s": 10.8,
+    "end_s": 14.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I actually enjoy styling my own hair. You do not need to spend a ton of money",
+    "text_english": "I actually enjoy styling my own hair. You do not need to spend a ton of money"
+   },
+   {
+    "start_s": 14.3,
+    "end_s": 19.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "to get salon-quality results, and this video is going to prove that to you.",
+    "text_english": "to get salon-quality results, and this video is going to prove that to you."
+   },
+   {
+    "start_s": 19.3,
+    "end_s": 24.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This tool does such an incredible job.",
+    "text_english": "This tool does such an incredible job."
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 27.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "What's better than not leaving the house and saving money?",
+    "text_english": "What's better than not leaving the house and saving money?"
+   },
+   {
+    "start_s": 27.5,
+    "end_s": 30.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I don't know, I think it's fun to master a skill like doing your own hair,",
+    "text_english": "I don't know, I think it's fun to master a skill like doing your own hair,"
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 34.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "because no one's gonna know your hair texture like you do.",
+    "text_english": "because no one's gonna know your hair texture like you do."
+   },
+   {
+    "start_s": 34.0,
+    "end_s": 39.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Like I don't know, I just feel like I have a special touch when it comes to doing my own hair.",
+    "text_english": "Like I don't know, I just feel like I have a special touch when it comes to doing my own hair."
+   },
+   {
+    "start_s": 39.5,
+    "end_s": 43.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I know which sections are more stubborn.",
+    "text_english": "I know which sections are more stubborn."
+   },
+   {
+    "start_s": 43.5,
+    "end_s": 46.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I just can't get over what this brush does for my hair.",
+    "text_english": "I just can't get over what this brush does for my hair."
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 51.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Also don't let anyone make you think like you need a $600 hair tool, if you know what I mean,",
+    "text_english": "Also don't let anyone make you think like you need a $600 hair tool, if you know what I mean,"
+   },
+   {
+    "start_s": 51.0,
+    "end_s": 56.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "to get you that luxurious result, because this tool is so affordable, like are you seeing this?",
+    "text_english": "to get you that luxurious result, because this tool is so affordable, like are you seeing this?"
+   },
+   {
+    "start_s": 56.5,
+    "end_s": 61.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This tool is one of the cheapest tools that I own, and let me just tell you I tried the $600 tool and I returned it.",
+    "text_english": "This tool is one of the cheapest tools that I own, and let me just tell you I tried the $600 tool and I returned it."
+   },
+   {
+    "start_s": 61.5,
+    "end_s": 66.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Just because something's expensive does not mean that it's better.",
+    "text_english": "Just because something's expensive does not mean that it's better."
+   },
+   {
+    "start_s": 66.0,
+    "end_s": 70.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you love it and you use it, that is totally fine, I'm not saying there's anything wrong with that,",
+    "text_english": "If you love it and you use it, that is totally fine, I'm not saying there's anything wrong with that,"
+   },
+   {
+    "start_s": 70.0,
+    "end_s": 73.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I just like giving more affordable options for people.",
+    "text_english": "I just like giving more affordable options for people."
+   },
+   {
+    "start_s": 73.5,
+    "end_s": 78.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Also this video is gonna help me determine whether or not I'm gonna get a haircut,",
+    "text_english": "Also this video is gonna help me determine whether or not I'm gonna get a haircut,"
+   },
+   {
+    "start_s": 78.5,
+    "end_s": 84.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "because the layers are just not layering like they used to. I mean they're still there, but",
+    "text_english": "because the layers are just not layering like they used to. I mean they're still there, but"
+   },
+   {
+    "start_s": 84.0,
+    "end_s": 88.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I don't know, I've been focused more on the length of my hair and not the volume, and I kind of miss that bouncy look.",
+    "text_english": "I don't know, I've been focused more on the length of my hair and not the volume, and I kind of miss that bouncy look."
+   },
+   {
+    "start_s": 88.5,
+    "end_s": 91.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Here's a little sneak peek of the results.",
+    "text_english": "Here's a little sneak peek of the results."
+   },
+   {
+    "start_s": 91.0,
+    "end_s": 95.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I mean, $600 hair tool who? This is incredible.",
+    "text_english": "I mean, $600 hair tool who? This is incredible."
+   },
+   {
+    "start_s": 95.0,
+    "end_s": 101.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm just gonna show you this section without cutting the clip. You know I love to do that so you can see the real-time results.",
+    "text_english": "I'm just gonna show you this section without cutting the clip. You know I love to do that so you can see the real-time results."
+   },
+   {
+    "start_s": 101.5,
+    "end_s": 109.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The key with this hair tool and most hot tools is if your hair is thicker, you're gonna wanna take thinner sections.",
+    "text_english": "The key with this hair tool and most hot tools is if your hair is thicker, you're gonna wanna take thinner sections."
+   },
+   {
+    "start_s": 109.0,
+    "end_s": 113.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You gotta work smarter, not harder.",
+    "text_english": "You gotta work smarter, not harder."
+   },
+   {
+    "start_s": 113.0,
+    "end_s": 117.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you want volume in the front of your head or your bangs, then this is the tool for it.",
+    "text_english": "If you want volume in the front of your head or your bangs, then this is the tool for it."
+   },
+   {
+    "start_s": 117.0,
+    "end_s": 121.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I go over the hair first and then I go under and I go back like this.",
+    "text_english": "I go over the hair first and then I go under and I go back like this."
+   },
+   {
+    "start_s": 121.5,
+    "end_s": 124.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at that volume. Now for the final reveal.",
+    "text_english": "Look at that volume. Now for the final reveal."
+   },
+   {
+    "start_s": 124.5,
+    "end_s": 133.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Like, I seriously cannot deal. Like, come on. I am in love with you.",
+    "text_english": "Like, I seriously cannot deal. Like, come on. I am in love with you."
+   },
+   {
+    "start_s": 133.0,
+    "end_s": 139.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "All right, what do you guys think? Do you think I should cut more layers or leave it as is and keep growing it out?",
+    "text_english": "All right, what do you guys think? Do you think I should cut more layers or leave it as is and keep growing it out?"
+   },
+   {
+    "start_s": 139.0,
+    "end_s": 143.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let me know, I'm kind of loving it right now. Yeah, I hope this video proved my point!",
+    "text_english": "Let me know, I'm kind of loving it right now. Yeah, I hope this video proved my point!"
+   }
+  ],
+  "transcript_full_original": "Let's blow out my hair! I know some of you like the lion's mane better, but I don't, so I'm gonna go in with my hot round brush. Trust me, I wish I did prefer the lion's mane, but frankly it's just too annoying to deal with and it's unpredictable, plus I actually enjoy styling my own hair. You do not need to spend a ton of money to get salon-quality results, and this video is going to prove that to you. This tool does such an incredible job. What's better than not leaving the house and saving money? I don't know, I think it's fun to master a skill like doing your own hair, because no one's gonna know your hair texture like you do. Like I don't know, I just feel like I have a special touch when it comes to doing my own hair. I know which sections are more stubborn. I just can't get over what this brush does for my hair. Also don't let anyone make you think like you need a $600 hair tool, if you know what I mean, to get you that luxurious result, because this tool is so affordable, like are you seeing this? This tool is one of the cheapest tools that I own, and let me just tell you I tried the $600 tool and I returned it. Just because something's expensive does not mean that it's better. If you love it and you use it, that is totally fine, I'm not saying there's anything wrong with that, I just like giving more affordable options for people. Also this video is gonna help me determine whether or not I'm gonna get a haircut, because the layers are just not layering like they used to. I mean they're still there, but I don't know, I've been focused more on the length of my hair and not the volume, and I kind of miss that bouncy look. Here's a little sneak peek of the results. I mean, $600 hair tool who? This is incredible. I'm just gonna show you this section without cutting the clip. You know I love to do that so you can see the real-time results. The key with this hair tool and most hot tools is if your hair is thicker, you're gonna wanna take thinner sections. You gotta work smarter, not harder. If you want volume in the front of your head or your bangs, then this is the tool for it. I go over the hair first and then I go under and I go back like this. Look at that volume. Now for the final reveal. Like, I seriously cannot deal. Like, come on. I am in love with you. All right, what do you guys think? Do you think I should cut more layers or leave it as is and keep growing it out? Let me know, I'm kind of loving it right now. Yeah, I hope this video proved my point!",
+  "transcript_full_english": "Let's blow out my hair! I know some of you like the lion's mane better, but I don't, so I'm gonna go in with my hot round brush. Trust me, I wish I did prefer the lion's mane, but frankly it's just too annoying to deal with and it's unpredictable, plus I actually enjoy styling my own hair. You do not need to spend a ton of money to get salon-quality results, and this video is going to prove that to you. This tool does such an incredible job. What's better than not leaving the house and saving money? I don't know, I think it's fun to master a skill like doing your own hair, because no one's gonna know your hair texture like you do. Like I don't know, I just feel like I have a special touch when it comes to doing my own hair. I know which sections are more stubborn. I just can't get over what this brush does for my hair. Also don't let anyone make you think like you need a $600 hair tool, if you know what I mean, to get you that luxurious result, because this tool is so affordable, like are you seeing this? This tool is one of the cheapest tools that I own, and let me just tell you I tried the $600 tool and I returned it. Just because something's expensive does not mean that it's better. If you love it and you use it, that is totally fine, I'm not saying there's anything wrong with that, I just like giving more affordable options for people. Also this video is gonna help me determine whether or not I'm gonna get a haircut, because the layers are just not layering like they used to. I mean they're still there, but I don't know, I've been focused more on the length of my hair and not the volume, and I kind of miss that bouncy look. Here's a little sneak peek of the results. I mean, $600 hair tool who? This is incredible. I'm just gonna show you this section without cutting the clip. You know I love to do that so you can see the real-time results. The key with this hair tool and most hot tools is if your hair is thicker, you're gonna wanna take thinner sections. You gotta work smarter, not harder. If you want volume in the front of your head or your bangs, then this is the tool for it. I go over the hair first and then I go under and I go back like this. Look at that volume. Now for the final reveal. Like, I seriously cannot deal. Like, come on. I am in love with you. All right, what do you guys think? Do you think I should cut more layers or leave it as is and keep growing it out? Let me know, I'm kind of loving it right now. Yeah, I hope this video proved my point!",
+  "word_count": 427,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 143.0,
+    "text": "Burned-in speech captions matching spoken voiceover",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator sits facing camera showcasing huge, frizzy, voluminous curly/crimped hair, holding up the pink Wavytalk thermal brush.",
+    "action": "Creator talks to the camera, gestures at her 'lion's mane' hair, and presents the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 11.0,
+    "shot_type": "medium shot",
+    "visual": "Creator clips the top of her hair up and combs out a section with a blue flat brush.",
+    "action": "Brushing through the bottom layer to prep for heat styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 24.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator uses the thermal brush on a strand, slowly gliding and curling it downwards.",
+    "action": "Gliding the brush through a section of frizzy hair, leaving behind a smooth, shiny, sleek curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 44.0,
+    "shot_type": "medium close-up",
+    "visual": "Side-by-side visible contrast on her head: styled smooth section vs completely unstyled frizzy hair.",
+    "action": "Creator winds sections around the hot round brush, holding and unwinding to create smooth curls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 44.0,
+    "end_s": 46.5,
+    "shot_type": "medium shot",
+    "visual": "Bottom half of hair fully styled and shiny, resting on creator's chest.",
+    "action": "Creator shakes and shows off the silky, smooth bottom half.",
+    "product_visible": false
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 88.5,
+    "shot_type": "medium close-up",
+    "visual": "Styling the middle sections; creator discusses the comparison with $600 luxury tools.",
+    "action": "Wrapping hair around the thermal brush, demonstrating tension and smooth release.",
+    "product_visible": true
+   },
+   {
+    "start_s": 88.5,
+    "end_s": 91.0,
+    "shot_type": "medium shot",
+    "visual": "Mid-styling sneak peek showing full volume curls cascading over her shoulders.",
+    "action": "Creator smiles, shaking her styled curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 91.0,
+    "end_s": 113.0,
+    "shot_type": "close-up",
+    "visual": "Real-time, uncut demonstration on an upper side section.",
+    "action": "Creator rolls the brush through curly/crimped texture in one smooth take, turning it glossy and straight with flipped ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 113.0,
+    "end_s": 121.5,
+    "shot_type": "close-up",
+    "visual": "Creator styles bangs and front top section over forehead with the thermal brush.",
+    "action": "Curling the bangs forward and backward to create dramatic root lift and curtain bangs.",
+    "product_visible": true
+   },
+   {
+    "start_s": 121.5,
+    "end_s": 143.0,
+    "shot_type": "medium shot",
+    "visual": "Final reveal of the full blowout: luscious, bouncy, glossy cascading hair.",
+    "action": "Creator runs fingers through her voluminous hair, flips curls, kisses the brush, and asks the audience for haircut opinions.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator sits facing camera with massive, fluffy, frizzy crimped hair covering her torso.",
+   "visual_0_3s": "Extremely thick, voluminous unstyled hair fills almost the entire frame while creator talks.",
+   "spoken_0_3s": "Let's blow out my hair! I know some of you like the lion's mane better,",
+   "text_0_3s": "Let's blowout my hair!",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "The enormous volume of unstyled, frizzy 'lion's mane' hair creates an immediate visual disruption."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Hook: Showing extreme unstyled hair texture and introducing the blowout goal.",
+    "Prep & Intro: Prepping hair and presenting the hot round brush tool.",
+    "Demo & Contrast: Step-by-step curling with clear unstyled vs styled contrast.",
+    "Value/Competitor Comparison: Calling out the $600 luxury tool, stating she returned it because this budget tool works better.",
+    "Tip/Technique: Advising on section sizes and front fringe/bang styling for maximum volume.",
+    "Final Result & Reveal: Showing the ultra-glossy, bouncy, massive blowout and asking audience engagement questions."
+   ],
+   "main_angle": "price_value_vs_dyson",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "volume_and_bounce",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "No need to spend $600 on high-end styling tools to get salon-quality blowout results",
+    "Smooths and straightens even extreme, stubborn frizzy hair textures into bouncy curls",
+    "Delivers superior lift and volume on bangs and crown"
+   ],
+   "pain_points": [
+    "Unmanageable, unpredictable, frizzy, stubborn hair",
+    "Expensive salon blowouts or overpriced $600 styling devices"
+   ],
+   "objections_handled": [
+    "Can it handle extremely thick, coarse, or stubborn hair? (Proven visibly in real-time)",
+    "Does a cheaper tool perform as well as expensive luxury tools? (Explains she returned the $600 tool)"
+   ],
+   "social_proof": [
+    "Uncut real-time single-pass demonstration proving no editing trickery"
+   ],
+   "comparison_to": "Dyson Airwrap / $600 luxury styling tool"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Round Brush"
+   ],
+   "first_seen_s": 4.0,
+   "first_used_on_hair_s": 12.0,
+   "final_result_shown_s": 124.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "$600 mentioned as comparison to luxury tools; brush cited as very affordable / cheapest tool",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Let me know, what do you guys think?",
+   "cta_on_screen": "",
+   "cta_at_s": 134.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Extremely thick, waist-length, crimped/wavy frizzy brown hair ('lion's mane')",
+   "hair_after": "Ultra-glossy, smooth, bouncy salon-style blowout with flipped curls and curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, passionate, confident, candid"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "None, pure vocal UGC audio",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 10.2,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between sections",
+    "real-time uncut demonstration segment"
+   ],
+   "ending": "Creator holds up the brush beside her glamorous styled hair, smiling and signing off."
+  },
+  "notes": "Classic organic-style UGC ad focusing on contrast and Dyson-dupe positioning without explicitly naming Dyson, calling it the '$600 tool'."
+ }
+}

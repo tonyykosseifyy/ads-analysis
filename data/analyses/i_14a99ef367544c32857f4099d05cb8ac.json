@@ -1,0 +1,156 @@
+{
+ "media_key": "i_14a99ef367544c32857f4099d05cb8ac",
+ "analyzed_at": "2026-11-27T18:41:09+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "d973579424a4ce9a98f7843a8973655ad85f7d5e43bcac501ceffb897a8698a0",
+ "source": {
+  "kind": "image",
+  "id": "14a99ef367544c32857f4099d05cb8ac"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Festive holiday promotional image for WavyTalk Blowout Boost advertising an 'End of Christmas Offer' with 15% off.",
+  "full_description": "A vertical static holiday marketing creative featuring the pink WavyTalk Blowout Boost thermal round brush centered against a light champagne background. Above the tool, a festive red ribbon banner reads 'End of Christmas Offer', accompanied by bold maroon text stating '15% OFF' and 'SHOP NOW - LIMITED TIME'. The border of the image is lavishly decorated with Christmas pine foliage, frosted pinecones, red holly berries, pink metallic baubles, wrapped holiday gifts, and warm glowing fairy lights bokeh.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "End of Christmas Offer",
+    "role": "hook"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "15% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "SHOP NOW - LIMITED TIME",
+    "role": "cta"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "420°F",
+    "role": "other"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "flat-lay product hero shot",
+    "visual": "A vertical studio flat-lay display featuring the pink WavyTalk Blowout Boost thermal styling brush surrounded by Christmas decor including pine branches, frosted pinecones, baubles, fairy lights, and an 'End of Christmas Offer 15% OFF' banner.",
+    "action": "Static image advertisement showcasing holiday sale discount.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Holiday-themed graphic with a red banner reading 'End of Christmas Offer' and '15% OFF' over a pink WavyTalk thermal brush.",
+   "visual_0_3s": "Holiday-themed graphic with a red banner reading 'End of Christmas Offer' and '15% OFF' over a pink WavyTalk thermal brush.",
+   "spoken_0_3s": "",
+   "text_0_3s": "End of Christmas Offer 15% OFF SHOP NOW - LIMITED TIME",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "none",
+   "pattern_interrupt": "Festive red ribbon banner and large bold 15% OFF discount typography positioned prominently at the top center of a holiday flat-lay setup."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Holiday promotion hook banner",
+    "Clear direct percentage discount callout",
+    "Product presentation hero shot",
+    "Urgency and CTA to shop now"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "gift_or_occasion"
+   ],
+   "key_claims": [
+    "15% off discount on WavyTalk hair tool",
+    "Limited time post-Christmas offer"
+   ],
+   "pain_points": [],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "15% OFF End of Christmas Offer",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "LIMITED TIME",
+   "cta_spoken": "",
+   "cta_on_screen": "SHOP NOW - LIMITED TIME",
+   "cta_at_s": 0
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "studio",
+   "faces_camera": false,
+   "energy_tone": ""
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "graphic text overlay",
+    "bokeh light effect",
+    "holiday photo staging"
+   ],
+   "ending": "Static end frame identical to initial visual."
+  },
+  "notes": "Static image ad creative targeted at the Lebanese holiday shopping audience running post-Christmas sale promotions."
+ }
+}

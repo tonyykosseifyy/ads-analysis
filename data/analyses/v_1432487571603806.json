@@ -1,0 +1,322 @@
+{
+ "media_key": "v_1432487571603806",
+ "analyzed_at": "2026-11-27T22:32:43+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "1ab99df17bb22689d9b389fe03075a85bcf1418572c37b21b8da2fb4012cd941",
+ "source": {
+  "kind": "video",
+  "id": "1432487571603806",
+  "errors": [
+   "1432487571603806: Gave up after 5 retries: https://graph.facebook.com/v26.0/1432487571603806",
+   "2061851474441853: Gave up after 5 retries: https://graph.facebook.com/v26.0/2061851474441853"
+  ],
+  "ig_media_id": "18149389216479122",
+  "permalink": "https://www.instagram.com/p/Dc4Mkh3seN4/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 37.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator Angela demonstrates the Wavytalk Blowout Boost thermal round brush, showing a salon-quality blowout at home with zero frizz and high volume.",
+  "full_description": "A creator demonstrates the Wavytalk Blowout Boost thermal round brush in her bedroom/living room setting. She begins by showing the finished blowout on one side versus styled curls, holding the device and naming it. She demonstrates sectioning and styling her dark hair, highlighting negative ion technology, adjustable heat settings, and smooth gliding without snagging. She then shows off the full finished result, turns around to display the bounce and volume from behind, and closes with a 25% discount code offer.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is my favorite hair tool for a reason. Look at that difference! Like...",
+    "text_english": "This is my favorite hair tool for a reason. Look at that difference! Like..."
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 5.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "...this is the Wavytalk Blowout Boost.",
+    "text_english": "...this is the Wavytalk Blowout Boost."
+   },
+   {
+    "start_s": 5.6,
+    "end_s": 11.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I've been trying to be more careful with heat styling lately, so I love that this brush uses negative ion technology to cut down on damage.",
+    "text_english": "I've been trying to be more careful with heat styling lately, so I love that this brush uses negative ion technology to cut down on damage."
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 15.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I love that this one has an adjustable heat setting, so you can set it to whatever your hair needs.",
+    "text_english": "I love that this one has an adjustable heat setting, so you can set it to whatever your hair needs."
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 18.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And it just glides through my hair so easily without tugging.",
+    "text_english": "And it just glides through my hair so easily without tugging."
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 21.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I feel like it just cuts down all the frizziness and leaves my hair so sleek.",
+    "text_english": "I feel like it just cuts down all the frizziness and leaves my hair so sleek."
+   },
+   {
+    "start_s": 21.4,
+    "end_s": 24.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And we're done! Comes out perfect literally every time.",
+    "text_english": "And we're done! Comes out perfect literally every time."
+   },
+   {
+    "start_s": 24.3,
+    "end_s": 26.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And it looks and feels just like a salon blowout at home.",
+    "text_english": "And it looks and feels just like a salon blowout at home."
+   },
+   {
+    "start_s": 26.9,
+    "end_s": 30.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Here's what it looks like from the back. So bouncy, so much volume.",
+    "text_english": "Here's what it looks like from the back. So bouncy, so much volume."
+   },
+   {
+    "start_s": 30.6,
+    "end_s": 34.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This will forever be my favorite hair tool, especially when I need great hair fast.",
+    "text_english": "This will forever be my favorite hair tool, especially when I need great hair fast."
+   },
+   {
+    "start_s": 34.0,
+    "end_s": 37.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And you can use my code Angela25 to get 25% off!",
+    "text_english": "And you can use my code Angela25 to get 25% off!"
+   }
+  ],
+  "transcript_full_original": "This is my favorite hair tool for a reason. Look at that difference! Like this is the Wavytalk Blowout Boost. I've been trying to be more careful with heat styling lately, so I love that this brush uses negative ion technology to cut down on damage. I love that this one has an adjustable heat setting, so you can set it to whatever your hair needs. And it just glides through my hair so easily without tugging. I feel like it just cuts down all the frizziness and leaves my hair so sleek. And we're done! Comes out perfect literally every time. And it looks and feels just like a salon blowout at home. Here's what it looks like from the back. So bouncy, so much volume. This will forever be my favorite hair tool, especially when I need great hair fast. And you can use my code Angela25 to get 25% off!",
+  "transcript_full_english": "This is my favorite hair tool for a reason. Look at that difference! Like this is the Wavytalk Blowout Boost. I've been trying to be more careful with heat styling lately, so I love that this brush uses negative ion technology to cut down on damage. I love that this one has an adjustable heat setting, so you can set it to whatever your hair needs. And it just glides through my hair so easily without tugging. I feel like it just cuts down all the frizziness and leaves my hair so sleek. And we're done! Comes out perfect literally every time. And it looks and feels just like a salon blowout at home. Here's what it looks like from the back. So bouncy, so much volume. This will forever be my favorite hair tool, especially when I need great hair fast. And you can use my code Angela25 to get 25% off!",
+  "word_count": 139,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.5,
+    "text": "the only hair tool you'll ever need !!",
+    "role": "hook"
+   },
+   {
+    "start_s": 34.0,
+    "end_s": 37.0,
+    "text": "Code \"Angela25\" for 25% off!\nlink in bio <3",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.4,
+    "shot_type": "medium shot",
+    "visual": "Creator facing camera holding the pink thermal brush, showing both sides of her hair.",
+    "action": "Creator gestures to her hair and speaks directly to camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 5.6,
+    "shot_type": "close-up",
+    "visual": "Close-up of creator holding up the pink Wavytalk Blowout Boost brush towards the camera.",
+    "action": "Creator rotates the tool showing the thermal round barrel and digital display.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.6,
+    "end_s": 7.0,
+    "shot_type": "medium shot",
+    "visual": "Creator spraying a product/styling prep on her hair.",
+    "action": "Creator prepares her hair section for heat styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 15.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator wrapping hair section around the thermal brush barrel.",
+    "action": "Creator rolls the brush downward through her hair and twists to curl the ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 18.0,
+    "shot_type": "close-up",
+    "visual": "Close-up of hair gliding smoothly over the bristles and thermal barrel.",
+    "action": "Demonstrating smooth pass without snagging or tugging.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 21.4,
+    "shot_type": "medium shot",
+    "visual": "Creator speaking to camera, pointing at her sleek hair.",
+    "action": "Creator touches and displays the smooth, frizz-free texture.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.4,
+    "end_s": 26.9,
+    "shot_type": "medium shot",
+    "visual": "Creator displaying full finished blowout.",
+    "action": "Creator shakes and arranges voluminous blowout waves around face, smiling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 26.9,
+    "end_s": 30.6,
+    "shot_type": "back view",
+    "visual": "Back of creator showing deep, bouncy, glossy waves.",
+    "action": "Creator tosses head and touches back layers to demonstrate bounce and body.",
+    "product_visible": false
+   },
+   {
+    "start_s": 30.6,
+    "end_s": 34.0,
+    "shot_type": "medium shot",
+    "visual": "Creator facing camera holding the tool upright.",
+    "action": "Creator gives final verbal recommendation.",
+    "product_visible": true
+   },
+   {
+    "start_s": 34.0,
+    "end_s": 37.0,
+    "shot_type": "back view",
+    "visual": "Back view of lush hair with overlay text promoting discount code.",
+    "action": "Creator runs fingers through back hair while text callout displays.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera holding the pink thermal round brush with text overlay 'the only hair tool you'll ever need !!'.",
+   "visual_0_3s": "Creator talking head gesturing to her styled blowout and holding the styling brush.",
+   "spoken_0_3s": "This is my favorite hair tool for a reason. Look at that difference!",
+   "text_0_3s": "the only hair tool you'll ever need !!",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Immediate bold statement claiming this is the only tool needed with immediate visual of salon blowout."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook with bold claim and favorite tool reveal",
+    "Product introduction (Blowout Boost)",
+    "Feature explanation (negative ions, adjustable heat, no tugging)",
+    "Application demonstration on hair sections",
+    "Result reveal from front and back (shine, volume, bounce)",
+    "CTA with discount code"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "less_heat_damage",
+    "volume_and_bounce",
+    "saves_time"
+   ],
+   "key_claims": [
+    "Negative ion technology cuts down on damage",
+    "Adjustable heat settings customize to hair needs",
+    "Glides through hair easily without tugging",
+    "Cuts down frizz and leaves hair sleek",
+    "Salon blowout look and feel at home"
+   ],
+   "pain_points": [
+    "Heat styling damage",
+    "Hair tugging and pulling during styling",
+    "Frizzy and unmanageable hair",
+    "Difficulty getting salon blowout volume at home"
+   ],
+   "objections_handled": [
+    "Heat damage worry handled by mentioning negative ion tech and adjustable heat",
+    "Snagging/pain handled by showing smooth glide without tugging"
+   ],
+   "social_proof": [
+    "Creator personal endorsement ('my favorite hair tool for a reason', 'comes out perfect literally every time')"
+   ],
+   "comparison_to": "Traditional salon blowout"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 7.0,
+   "final_result_shown_s": 21.4,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "25% off",
+   "price_mentioned": "",
+   "discount_code": "Angela25",
+   "urgency": "",
+   "cta_spoken": "And you can use my code Angela25 to get 25% off!",
+   "cta_on_screen": "Code \"Angela25\" for 25% off!\nlink in bio <3",
+   "cta_at_s": 34.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "Angela",
+   "age_range": "20-25",
+   "hair_before": "Brunette, medium-long layered hair",
+   "hair_after": "Voluminous, bouncy blowout with curled ends and face-framing layers",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Warm, confident, conversational, enthusiastic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat lo-fi background pop music",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 3.7,
+   "pacing": "medium",
+   "effects": [
+    "Jump cuts between demonstration steps"
+   ],
+   "ending": "View of lush hair from behind with discount promo overlay text"
+  },
+  "notes": "Global English UGC creator video syndicated for regional ad targeting. Features the pink Wavytalk Blowout Boost thermal round brush."
+ }
+}

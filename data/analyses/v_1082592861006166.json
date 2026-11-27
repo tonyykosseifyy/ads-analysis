@@ -1,0 +1,561 @@
+{
+ "media_key": "v_1082592861006166",
+ "analyzed_at": "2026-11-27T18:37:46+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "961ae2c4e9e70e2be84e847377b003523e0165efede5f224f7f6961f5ead833f",
+ "source": {
+  "kind": "video",
+  "id": "1082592861006166",
+  "video_id": "3765286353627350",
+  "length_s": 87.283,
+  "permalink": "/23849366283980795/videos/3765286353627350/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 87.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demos the Wavytalk Pro Steam Straightener Brush, highlighting how steam straightens faster while locking in moisture and preventing heat damage.",
+  "full_description": "A creator with long, voluminous, textured hair demonstrates the Wavytalk Pro Steam Straightener Brush (Steambrush Pro). She starts with a side-by-side comparison showing one side straightened after a single pass versus the puffy, textured side. She then demonstrates passing the steam straightener through her hair in real-time, explaining the science of how controlled steam prevents over-drying, breakage, and humidity frizz, culminating in a full reveal of smooth, shiny, straight hair with slight curled ends.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at this difference.",
+    "text_english": "Look at this difference."
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 3.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you want the easiest and fastest straightening process,",
+    "text_english": "If you want the easiest and fastest straightening process,"
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 6.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "you need this hair tool. It speaks for itself.",
+    "text_english": "you need this hair tool. It speaks for itself."
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 10.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I don't even have to say anything, I'll just let you guys see these results.",
+    "text_english": "I don't even have to say anything, I'll just let you guys see these results."
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 13.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "One pass, look at this difference.",
+    "text_english": "One pass, look at this difference."
+   },
+   {
+    "start_s": 13.1,
+    "end_s": 15.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I have never been able to style my hair this fast.",
+    "text_english": "I have never been able to style my hair this fast."
+   },
+   {
+    "start_s": 15.7,
+    "end_s": 19.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is the new Pro Steam Straightener Brush that I co-created with Wavytalk,",
+    "text_english": "This is the new Pro Steam Straightener Brush that I co-created with Wavytalk,"
+   },
+   {
+    "start_s": 19.4,
+    "end_s": 22.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and I am absolutely in love with it.",
+    "text_english": "and I am absolutely in love with it."
+   },
+   {
+    "start_s": 24.0,
+    "end_s": 26.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Not only does it straighten my hair faster than any tool I own,",
+    "text_english": "Not only does it straighten my hair faster than any tool I own,"
+   },
+   {
+    "start_s": 26.7,
+    "end_s": 30.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "but because it uses steam it makes my hair so shiny and healthy looking.",
+    "text_english": "but because it uses steam it makes my hair so shiny and healthy looking."
+   },
+   {
+    "start_s": 30.2,
+    "end_s": 33.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So first of all, the steam is so finely controlled that it's not actually making your hair feel wet.",
+    "text_english": "So first of all, the steam is so finely controlled that it's not actually making your hair feel wet."
+   },
+   {
+    "start_s": 35.8,
+    "end_s": 42.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's just enough to penetrate your hair strands in order to prevent over-drying, which actually causes breakage.",
+    "text_english": "It's just enough to penetrate your hair strands in order to prevent over-drying, which actually causes breakage."
+   },
+   {
+    "start_s": 43.1,
+    "end_s": 49.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So the steam actually compliments the straightening process because regular straightening takes the moisture out of your hair with dry heat,",
+    "text_english": "So the steam actually compliments the straightening process because regular straightening takes the moisture out of your hair with dry heat,"
+   },
+   {
+    "start_s": 49.7,
+    "end_s": 53.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "making your hair smoother, shinier, and less prone to snapping.",
+    "text_english": "making your hair smoother, shinier, and less prone to snapping."
+   },
+   {
+    "start_s": 53.4,
+    "end_s": 60.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The steam also allows for faster and more effective straightening, which means less passes, which in turn means less damage on your hair.",
+    "text_english": "The steam also allows for faster and more effective straightening, which means less passes, which in turn means less damage on your hair."
+   },
+   {
+    "start_s": 61.5,
+    "end_s": 66.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at this pass right here, and how smooth it makes my hair.",
+    "text_english": "Look at this pass right here, and how smooth it makes my hair."
+   },
+   {
+    "start_s": 67.2,
+    "end_s": 73.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Because the hair cuticle has been penetrated with moisture from the steam, it's not gonna need to look for that outside moisture in the air as much.",
+    "text_english": "Because the hair cuticle has been penetrated with moisture from the steam, it's not gonna need to look for that outside moisture in the air as much."
+   },
+   {
+    "start_s": 74.0,
+    "end_s": 78.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The steam really helps to lock in the moisture in your hair, which in turn locks in that style.",
+    "text_english": "The steam really helps to lock in the moisture in your hair, which in turn locks in that style."
+   },
+   {
+    "start_s": 78.8,
+    "end_s": 81.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is the final look, what do you guys think?",
+    "text_english": "This is the final look, what do you guys think?"
+   },
+   {
+    "start_s": 81.4,
+    "end_s": 86.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "As you can see, the steam did not curl up my hair or make it frizzy, it actually just made it look soft and shiny!",
+    "text_english": "As you can see, the steam did not curl up my hair or make it frizzy, it actually just made it look soft and shiny!"
+   }
+  ],
+  "transcript_full_original": "Look at this difference. If you want the easiest and fastest straightening process, you need this hair tool. It speaks for itself. I don't even have to say anything, I'll just let you guys see these results. One pass, look at this difference. I have never been able to style my hair this fast. This is the new Pro Steam Straightener Brush that I co-created with Wavytalk, and I am absolutely in love with it. Not only does it straighten my hair faster than any tool I own, but because it uses steam it makes my hair so shiny and healthy looking. So first of all, the steam is so finely controlled that it's not actually making your hair feel wet. It's just enough to penetrate your hair strands in order to prevent over-drying, which actually causes breakage. So the steam actually compliments the straightening process because regular straightening takes the moisture out of your hair with dry heat, making your hair smoother, shinier, and less prone to snapping. The steam also allows for faster and more effective straightening, which means less passes, which in turn means less damage on your hair. Look at this pass right here, and how smooth it makes my hair. Because the hair cuticle has been penetrated with moisture from the steam, it's not gonna need to look for that outside moisture in the air as much. The steam really helps to lock in the moisture in your hair, which in turn locks in that style. This is the final look, what do you guys think? As you can see, the steam did not curl up my hair or make it frizzy, it actually just made it look soft and shiny!",
+  "transcript_full_english": "Look at this difference. If you want the easiest and fastest straightening process, you need this hair tool. It speaks for itself. I don't even have to say anything, I'll just let you guys see these results. One pass, look at this difference. I have never been able to style my hair this fast. This is the new Pro Steam Straightener Brush that I co-created with Wavytalk, and I am absolutely in love with it. Not only does it straighten my hair faster than any tool I own, but because it uses steam it makes my hair so shiny and healthy looking. So first of all, the steam is so finely controlled that it's not actually making your hair feel wet. It's just enough to penetrate your hair strands in order to prevent over-drying, which actually causes breakage. So the steam actually compliments the straightening process because regular straightening takes the moisture out of your hair with dry heat, making your hair smoother, shinier, and less prone to snapping. The steam also allows for faster and more effective straightening, which means less passes, which in turn means less damage on your hair. Look at this pass right here, and how smooth it makes my hair. Because the hair cuticle has been penetrated with moisture from the steam, it's not gonna need to look for that outside moisture in the air as much. The steam really helps to lock in the moisture in your hair, which in turn locks in that style. This is the final look, what do you guys think? As you can see, the steam did not curl up my hair or make it frizzy, it actually just made it look soft and shiny!",
+  "word_count": 272,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "text": "one pass look at this difference",
+    "role": "hook"
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 3.7,
+    "text": "if you want the easiest and fastest straightening process",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 6.8,
+    "text": "you need this hair tool it speaks for itself",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 8.7,
+    "text": "I don't even have to say anything",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 10.7,
+    "text": "I'll just let you guys see these results",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 13.0,
+    "text": "one pass look at this difference",
+    "role": "benefit"
+   },
+   {
+    "start_s": 13.1,
+    "end_s": 15.6,
+    "text": "I have never been able to style my hair this fast",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.7,
+    "end_s": 19.3,
+    "text": "this is the new Pro Steam Straightener Brush that I co-created with Wavytalk",
+    "role": "brand"
+   },
+   {
+    "start_s": 19.4,
+    "end_s": 22.5,
+    "text": "and I am absolutely in love with it",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 24.0,
+    "end_s": 26.6,
+    "text": "not only does it straighten my hair faster than any tool I own",
+    "role": "benefit"
+   },
+   {
+    "start_s": 26.7,
+    "end_s": 30.1,
+    "text": "but because it uses steam it makes my hair so shiny and healthy looking",
+    "role": "benefit"
+   },
+   {
+    "start_s": 30.2,
+    "end_s": 33.7,
+    "text": "so first of all the steam is so finely controlled",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 33.8,
+    "end_s": 36.5,
+    "text": "that it's not actually making your hair feel wet",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 36.6,
+    "end_s": 40.5,
+    "text": "it's just enough to penetrate your hair strands in order to prevent over-drying",
+    "role": "benefit"
+   },
+   {
+    "start_s": 40.6,
+    "end_s": 42.6,
+    "text": "(Over-drying actually causes breakage)",
+    "role": "benefit"
+   },
+   {
+    "start_s": 43.1,
+    "end_s": 46.5,
+    "text": "so the steam actually compliments the straightening process",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 46.6,
+    "end_s": 49.6,
+    "text": "because regular straightening takes the moisture out of your hair with dry heat",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 49.7,
+    "end_s": 51.5,
+    "text": "making your hair smoother",
+    "role": "benefit"
+   },
+   {
+    "start_s": 51.6,
+    "end_s": 53.2,
+    "text": "shinier and less prone to snapping",
+    "role": "benefit"
+   },
+   {
+    "start_s": 53.4,
+    "end_s": 56.5,
+    "text": "steam also allows for faster and more effective straightening",
+    "role": "benefit"
+   },
+   {
+    "start_s": 56.6,
+    "end_s": 60.5,
+    "text": "which means less passes which in turn means less damage on your hair",
+    "role": "benefit"
+   },
+   {
+    "start_s": 61.5,
+    "end_s": 66.4,
+    "text": "look at this pass right here and how smooth it makes my hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 67.2,
+    "end_s": 70.8,
+    "text": "because the hair cuticle has been penetrated with moisture from the steam",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 70.9,
+    "end_s": 73.5,
+    "text": "it's not gonna need to look for that outside moisture in the air as much",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 74.0,
+    "end_s": 76.5,
+    "text": "the steam really helps to lock in the moisture in your hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 76.6,
+    "end_s": 78.4,
+    "text": "which in turn locks in that style",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 78.8,
+    "end_s": 81.3,
+    "text": "this is the final look what do you guys think?",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 81.4,
+    "end_s": 84.5,
+    "text": "as you can see the steam did not curl up my hair or make it frizzy",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 84.6,
+    "end_s": 86.8,
+    "text": "it actually just made it look soft and shiny!",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting facing camera with half her hair pin-straight and glossy, and the other half thick, crinkly, and frizzy.",
+    "action": "Creator gestures to her side-by-side hair transformation to show the extreme contrast.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.5,
+    "end_s": 10.9,
+    "shot_type": "medium shot",
+    "visual": "Creator holding the white Wavytalk Pro Steam Straightener Brush and pulling a section of frizzy hair taut.",
+    "action": "She glides the brush through a large strand in one single slow pass, instantly smoothing it straight.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 13.5,
+    "shot_type": "medium shot",
+    "visual": "Creator pointing at the newly straightened strand alongside remaining untreated hair.",
+    "action": "Creator smiles excitedly and points at the instant one-pass straight strand.",
+    "product_visible": false
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 23.5,
+    "shot_type": "medium shot",
+    "visual": "Creator holding the tool and taking another wavy section of hair.",
+    "action": "Creator brushes slowly down the length of hair while talking about co-creating the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 30.0,
+    "shot_type": "medium shot",
+    "visual": "Creator running her hands down both front sections of her hair.",
+    "action": "She showcases how shiny and sleek the straightened hair looks compared to dry-heat irons.",
+    "product_visible": false
+   },
+   {
+    "start_s": 30.0,
+    "end_s": 42.8,
+    "shot_type": "medium shot",
+    "visual": "Creator using the steam brush from root to tip on another layer.",
+    "action": "Creator passes the brush down her hair, demonstrating the gentle steam and explaining why it doesn't make hair wet.",
+    "product_visible": true
+   },
+   {
+    "start_s": 42.8,
+    "end_s": 52.8,
+    "shot_type": "medium shot",
+    "visual": "Creator curving the ends under slightly with the steam brush.",
+    "action": "She straightens the lower section and curls the ends inward while explaining how dry heat snaps hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 52.8,
+    "end_s": 61.2,
+    "shot_type": "medium shot",
+    "visual": "Creator holding up a top section of textured hair and placing the steam brush at the root.",
+    "action": "She demonstrates another pass down the strand, showing how fewer passes reduce heat damage.",
+    "product_visible": true
+   },
+   {
+    "start_s": 61.2,
+    "end_s": 66.8,
+    "shot_type": "medium shot",
+    "visual": "Creator sliding the tool down to the ends and showing the ultra-glossy strand.",
+    "action": "Creator glides down smoothly, tilting her head to show the mirror-like shine.",
+    "product_visible": true
+   },
+   {
+    "start_s": 66.8,
+    "end_s": 78.5,
+    "shot_type": "medium shot",
+    "visual": "Creator finishing the side and curving ends with both hands on the tool.",
+    "action": "Creator straightens and styles while explaining how moisture prevents atmospheric frizz.",
+    "product_visible": true
+   },
+   {
+    "start_s": 78.5,
+    "end_s": 87.0,
+    "shot_type": "medium shot",
+    "visual": "Final look with all hair completely straightened, bouncy, voluminous, and glossy with styled ends.",
+    "action": "Creator runs fingers through her voluminous, glossy hair, swishing it to display movement and shine.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator sits facing camera displaying a sharp half-and-half split: left side sleek and straight, right side voluminous and crinkly frizzy.",
+   "visual_0_3s": "Side-by-side hair contrast shown immediately, followed by lifting the steam brush tool to start straightening.",
+   "spoken_0_3s": "Look at this difference. If you want the easiest and fastest straightening process...",
+   "text_0_3s": "one pass look at this difference",
+   "hook_type": "before_after",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Immediate high-contrast half-and-half split hair comparison showing extreme difference before any speaking pauses."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Half-and-half hook showing instant split difference",
+    "Real-time one-pass demonstration on textured hair",
+    "Product introduction and creator endorsement",
+    "Explanation of steam technology preventing over-drying and breakage",
+    "Comparison to dry-heat flat irons",
+    "Anti-frizz and style retention benefit explained",
+    "Final look reveal with volume and shine"
+   ],
+   "main_angle": "less_heat_damage",
+   "secondary_angles": [
+    "saves_time",
+    "frizz_or_curly_solution",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Straightens in one single pass",
+    "Fastest and easiest straightening process",
+    "Steam penetrates hair strands to prevent over-drying and breakage",
+    "Prevents hair from snapping compared to dry heat",
+    "Locks in moisture so hair won't absorb humidity and frizz later"
+   ],
+   "pain_points": [
+    "Straightening taking too long",
+    "Dry heat stripping hair moisture and causing breakage/snapping",
+    "Hair frizzing up soon after styling due to environmental humidity"
+   ],
+   "objections_handled": [
+    "Will steam make hair wet? (No, finely controlled steam only hydrates without wetting)",
+    "Will steam make hair frizz or curl back up? (No, it seals cuticles and prevents humidity frizz)"
+   ],
+   "social_proof": [
+    "Creator co-created the tool with Wavytalk and showcases authentic long, thick hair"
+   ],
+   "comparison_to": "Traditional dry-heat straighteners / flat irons"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Pro Steam Straightener Brush"
+   ],
+   "first_seen_s": 2.5,
+   "first_used_on_hair_s": 3.5,
+   "final_result_shown_s": 78.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "what do you guys think?",
+   "cta_on_screen": "",
+   "cta_at_s": 79.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20s",
+   "hair_before": "Very long, thick, crinkly, textured frizzy brunette hair pinned up with a scrunchie",
+   "hair_after": "Ultra-glossy, smooth, hydrated straight blowout with softly curled ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, educational, relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "none",
+   "captions_burned_in": true,
+   "production_style": "phone_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 9.67,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between passes"
+   ],
+   "ending": "Creator shows off bouncy, shiny final blowout and smiles at camera."
+  },
+  "notes": "Ad asset for WavyTalk's steam straightener brush (Steambrush Pro) created in English UGC format, distributed in MENA (Lebanon) ad accounts."
+ }
+}

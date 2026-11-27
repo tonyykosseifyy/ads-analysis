@@ -1,0 +1,170 @@
+{
+ "media_key": "v_1793164898515149",
+ "analyzed_at": "2026-11-27T18:36:00+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "d7ee3c06f27389157637a1bb812537caddd0159153106dfe446427fe34b236bc",
+ "source": {
+  "kind": "video",
+  "id": "1793164898515149",
+  "video_id": "1019685160867631",
+  "length_s": 41.911,
+  "permalink": "/23849366283980795/videos/1019685160867631/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 41.6,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates curling and styling her long brunette hair using the pink WavyTalk thermal brush at home with a 30% off limited-time promotion.",
+  "full_description": "The video features a young woman styling her long, layered dark hair using a pink thermal round brush (WavyTalk Blowout Boost). Set to Etta James' song 'At Last', she begins by curling her front fringe/bangs and releasing a bouncy curl, before demonstrating section by section how she curls the lengths of her hair away from her face. Text overlays highlight achieving a salon-quality blowout at home and advertise a limited-time 30% discount. In the final frames, she tosses and fluffs her voluminous blowout while admiring the results.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 41.6,
+    "text": "POV you achieve the most perfect blowouts at home 💖",
+    "role": "hook"
+   },
+   {
+    "start_s": 6.5,
+    "end_s": 41.6,
+    "text": "Limited-Time 30% OFF\nBuy Now, Save on Salon Visits Instantly",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.5,
+    "shot_type": "medium shot",
+    "visual": "Young woman in a white buttoned top curling her front bang section downward and outward using the pink thermal blowout brush, then releasing it and tossing her voluminous hair.",
+    "action": "Curling bangs with the thermal brush and flicking hair into place.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.5,
+    "end_s": 22.5,
+    "shot_type": "medium shot",
+    "visual": "A promotional banner overlay appears above. The creator takes a side strand of hair, wraps it tightly around the thermal barrel, holds, and unrolls it into a smooth spiral wave.",
+    "action": "Sectioning and curling side hair strand with the thermal round brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.5,
+    "end_s": 35.0,
+    "shot_type": "medium shot",
+    "visual": "Creator takes another mid-section strand, rolls the tool through to smooth and curl the ends outward, uncoiling the brush with a twisting motion.",
+    "action": "Styling and twisting hair sections around the heated barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 35.0,
+    "end_s": 41.6,
+    "shot_type": "medium shot",
+    "visual": "Creator puts down the tool, runs her fingers through her hair, shakes out the voluminous curls, and poses looking into the camera.",
+    "action": "Fluffing and showing off the finished voluminous bouncy blowout.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator rolling the pink thermal brush through her bangs with on-screen text 'POV you achieve the most perfect blowouts at home 💖'.",
+   "visual_0_3s": "Creator rotating the heated round brush through her front fringe, releasing a smooth blowout curve.",
+   "spoken_0_3s": "",
+   "text_0_3s": "POV you achieve the most perfect blowouts at home 💖",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Immediate close-up hair styling action showing glossy, ready-styled hair being shaped effortlessly."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Relatable POV hook showing front bang styling",
+    "Offer banner introduction (30% off)",
+    "Clear demo of curling side sections for a salon wave",
+    "Final hair flip and result showcase"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "offer_discount_urgency",
+    "saves_time"
+   ],
+   "key_claims": [
+    "Achieve the most perfect blowouts at home",
+    "Save on salon visits instantly"
+   ],
+   "pain_points": [
+    "Expensive and frequent salon blowout visits",
+    "Difficulty achieving bouncy blowout curls at home with traditional tools"
+   ],
+   "objections_handled": [
+    "Easy and safe to use without tangling hair"
+   ],
+   "social_proof": [],
+   "comparison_to": "Salon blowouts"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 35.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "Limited-Time 30% OFF",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Limited-Time",
+   "cta_spoken": "",
+   "cta_on_screen": "Buy Now, Save on Salon Visits Instantly",
+   "cta_at_s": 6.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, thick dark brown hair already mostly styled in soft curls/blowout",
+   "hair_after": "Voluminous, bouncy, glossy salon-style blowout with flipped-out layers",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Aesthetic, calm, glamorous, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Soul/jazz ballad vocal track ('At Last' by Etta James)",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 3,
+   "avg_shot_length_s": 10.4,
+   "pacing": "medium",
+   "effects": [
+    "Text overlay banner"
+   ],
+   "ending": "Creator running hands through voluminous curled blowout and posing towards the camera."
+  },
+  "notes": "Ad uses a silent UGC aesthetic tutorial format backed by an iconic romantic sound track, paired with clear text overlays emphasizing home blowout results and a 30% discount offer."
+ }
+}

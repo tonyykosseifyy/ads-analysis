@@ -1,0 +1,186 @@
+{
+ "media_key": "v_1637313954489759",
+ "analyzed_at": "2026-11-27T22:07:23+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "70de6dffec827922ea426191cea17f98c85c43e86cafea6d91f90185c16c8565",
+ "source": {
+  "kind": "video",
+  "id": "1637313954489759",
+  "video_id": "28085234897827526",
+  "length_s": 31.066,
+  "permalink": "/23849366283980795/videos/28085234897827526/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 30.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A blonde creator demonstrates how to style curtain bangs using the Wavytalk thermal round brush for a voluminous blowout look, followed by a color lineup.",
+  "full_description": "A young blonde creator wearing a blue sweatshirt demonstrates a step-by-step tutorial on styling bangs using the white Wavytalk heated round brush. She shows how to roll and angle sections of her fringe away from her face to achieve bouncy, salon-style curtain bangs. After completing the styling, she fluffs her voluminous blonde hair to display the final blowout result, holds the brush toward the camera, and cuts to a flatlay showcase of the product available in five different pastel colors.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 27.5,
+    "text": "how to style your bangs for the perfect blowout look",
+    "role": "hook"
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 30.5,
+    "text": "available in 5 colors🫶",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.2,
+    "shot_type": "medium close-up",
+    "visual": "Blonde creator in an apartment bedroom/living space rolling the white thermal round brush out of her curtain bangs.",
+    "action": "She unwinds the thermal brush from her side bangs and touches the bouncy curled fringe into place.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 14.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing the camera, holding one finger up before styling the front bangs.",
+    "action": "She sections her front bangs, wraps them backward onto the heated brush barrel, rotates the brush to lock in heat, and gently pulls it out.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 21.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the adjacent bang section with the round brush.",
+    "action": "She rolls the next bang section around the thermal brush away from her face and slides it through to create a swooped blowout layer.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.8,
+    "end_s": 27.5,
+    "shot_type": "medium shot",
+    "visual": "Creator showcasing the completed hairstyle.",
+    "action": "She runs both hands through her hair, shaking it out to reveal voluminous, bouncy blonde blowout waves.",
+    "product_visible": false
+   },
+   {
+    "start_s": 27.5,
+    "end_s": 28.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the white Wavytalk heated round brush forward.",
+    "action": "She holds the styling brush up to the camera with a satisfied smile.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 30.5,
+    "shot_type": "top-down close-up",
+    "visual": "Overhead flatlay shot of five Wavytalk thermal brushes laid out diagonally on a white fabric surface.",
+    "action": "Static product display showcasing the five pastel colorways with text overlay.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Blonde woman with the white Wavytalk brush in her bangs under the headline text 'how to style your bangs for the perfect blowout look'.",
+   "visual_0_3s": "She releases a bouncy, curled bang strand from the heated round brush.",
+   "spoken_0_3s": "",
+   "text_0_3s": "how to style your bangs for the perfect blowout look",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Instant visual payoff of a freshly unwound, perfect blowout curl in the first two seconds."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Quick hook showing an unwound blowout curl",
+    "Step-by-step rolling technique for front curtain bangs",
+    "Styling secondary layer for face-framing bounce",
+    "Final hair shake demonstrating full volume",
+    "Product showcase displaying 5 color options"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Styles bangs into the perfect blowout look",
+    "Available in 5 colors"
+   ],
+   "pain_points": [
+    "Struggling to style curtain bangs without salon round-brushing skills"
+   ],
+   "objections_handled": [
+    "Shows how simple and quick the rolling technique is at home"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 21.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "available in 5 colors🫶",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long layered blonde hair with bangs being restyled",
+   "hair_after": "Bouncy, voluminous layered blonde blowout with sweeping curtain bangs",
+   "setting": "apartment",
+   "faces_camera": true,
+   "energy_tone": "trendy, aesthetic, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Upbeat pop dance background track with male vocals singing 'I wanna dance in the lights... rock your body'.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 5.1,
+   "pacing": "medium",
+   "effects": [
+    "text overlay",
+    "cut transitions"
+   ],
+   "ending": "Aesthetic flatlay display showing all five color variations of the thermal brush on white fabric."
+  },
+  "notes": "Non-verbal UGC styling tutorial set to trending pop music focused purely on achieving salon curtain bangs, closing on color variety."
+ }
+}

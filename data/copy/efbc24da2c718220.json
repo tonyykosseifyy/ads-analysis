@@ -1,0 +1,17 @@
+{
+ "language": "en",
+ "main_angle": "replaces_multiple_tools",
+ "secondary_angles": [
+  "frizz_or_curly_solution",
+  "salon_result_at_home",
+  "offer_discount_urgency"
+ ],
+ "opening_line": "How much have you spent on hair tools you used twice? 💸",
+ "opening_style": "question",
+ "mentions_offer": true,
+ "offer": "Sale: $69 With Clips & Detangling Brush",
+ "social_proof": "",
+ "cta": "Make it the last hair tool you buy this year 🙌",
+ "tone": "conversational and relatable",
+ "variation_count": 2
+}

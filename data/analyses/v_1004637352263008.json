@@ -1,0 +1,181 @@
+{
+ "media_key": "v_1004637352263008",
+ "analyzed_at": "2026-11-27T19:49:39+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "50caaaf72556d72496117a6020cea60b1eab1c3157aa8b1c6cc0dc9869d14561",
+ "source": {
+  "kind": "video",
+  "id": "1004637352263008",
+  "errors": [
+   "1004637352263008: Gave up after 5 retries: https://graph.facebook.com/v26.0/1004637352263008",
+   "1545604470257178: Gave up after 5 retries: https://graph.facebook.com/v26.0/1545604470257178"
+  ],
+  "ig_media_id": "18139822309533482",
+  "permalink": "https://www.instagram.com/p/DZrzhpTDMOx/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 20.4,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator holds the pink WavyTalk Whirlwind Curl, announcing it sold out twice and is now back in stock with a 15% discount.",
+  "full_description": "A creator addresses the camera directly in a bedroom or home office setting, holding the pink WavyTalk Whirlwind Curl styler throughout the entire video. She highlights that the tool sold out twice already, promotes a 15% off discount, and explains its 3-in-1 versatility (straightening, curls, and beach waves) before repeating the call to action to buy now from WavyTalk.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 60,
+    "en": 35,
+    "fr": 5
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "It sold out for the second time بس هلا عليه 15% off.",
+    "text_english": "It sold out for the second time, but now it's 15% off."
+   },
+   {
+    "start_s": 3.5,
+    "end_s": 8.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "فـ guys get yours now. هيدا الـ Whirlwind Curl من عند WavyTalk.",
+    "text_english": "So guys get yours now. This is the Whirlwind Curl from WavyTalk."
+   },
+   {
+    "start_s": 8.4,
+    "end_s": 12.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "كلكم صرتوا بتعرفوا قديش بيعمل الشعر lisse حلو، كمان بيعملهن curly،",
+    "text_english": "You all now know how nicely sleek it makes the hair, it also makes it curly,"
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 15.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "و plus بيعطيكم beach waves كتير حلوين.",
+    "text_english": "and plus it gives you really pretty beach waves."
+   },
+   {
+    "start_s": 15.8,
+    "end_s": 20.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "It's a 3-in-1 tool فـ get yours now من عند WavyTalk مع 15% off.",
+    "text_english": "It's a 3-in-1 tool, so get yours now from WavyTalk with 15% off."
+   }
+  ],
+  "transcript_full_original": "It sold out for the second time بس هلا عليه 15% off. فـ guys get yours now. هيدا الـ Whirlwind Curl من عند WavyTalk. كلكم صرتوا بتعرفوا قديش بيعمل الشعر lisse حلو، كمان بيعملهن curly، و plus بيعطيكم beach waves كتير حلوين. It's a 3-in-1 tool فـ get yours now من عند WavyTalk مع 15% off.",
+  "transcript_full_english": "It sold out for the second time, but now it's 15% off. So guys get yours now. This is the Whirlwind Curl from WavyTalk. You all now know how nicely sleek it makes the hair, it also makes it curly, and plus it gives you really pretty beach waves. It's a 3-in-1 tool, so get yours now from WavyTalk with 15% off.",
+  "word_count": 52,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 20.4,
+    "shot_type": "talking head selfie medium shot",
+    "visual": "Young creator with long brunette straight hair sitting in front of a gaming chair, holding up the baby pink WavyTalk Whirlwind Curl styler in front of her chest and gesticulating.",
+    "action": "She presents the device to the camera, gestures two fingers to signal selling out twice, demonstrates the iron mechanism, touches her hair, and delivers a direct-to-camera promo offer.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holds the pink styling tool in her left hand and gestures towards it while smiling into the camera.",
+   "visual_0_3s": "Creator holds up the tool and flashes two fingers indicating sold out twice.",
+   "spoken_0_3s": "It sold out for the second time بس هلا عليه 15% off.",
+   "text_0_3s": "",
+   "hook_type": "social_proof",
+   "hook_type_secondary": "offer_or_price",
+   "pattern_interrupt": "Instant high-energy statement opening with 'It sold out for the second time' while holding the physical product front and center."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Social proof and restock announcement ('sold out twice')",
+    "Discount hook (15% off)",
+    "Product identification (WavyTalk Whirlwind Curl)",
+    "Feature breakdown (straight/sleek, curly, beach waves / 3-in-1)",
+    "Direct Call to Action with discount reminder"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "social_proof_popularity",
+    "replaces_multiple_tools"
+   ],
+   "key_claims": [
+    "Sold out twice already",
+    "Currently 15% off",
+    "3-in-1 tool: straightens hair, creates curls, and creates beach waves"
+   ],
+   "pain_points": [
+    "Missing out on popular viral tools that constantly sell out",
+    "Needing multiple styling tools for different looks"
+   ],
+   "objections_handled": [
+    "Versatility: one tool can create straight, curly, and wavy hair"
+   ],
+   "social_proof": [
+    "Sold out for the second time ('It sold out for the second time')",
+    "Everyone already knows how great it is ('كلكم صرتوا بتعرفوا')"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Whirlwind Curl"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "15% off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Sold out twice previously",
+   "cta_spoken": "get yours now من عند WavyTalk مع 15% off",
+   "cta_on_screen": "",
+   "cta_at_s": 17.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, dark brown, straight/styled",
+   "hair_after": "Long, dark brown, straight/styled (no change)",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, energetic, friendly"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Upbeat, low-volume background instrumental pop music",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 0,
+   "avg_shot_length_s": 20.4,
+   "pacing": "fast",
+   "effects": [],
+   "ending": "Creator finishes sentence smiling into camera while holding the styler upright."
+  },
+  "notes": "Single continuous take phone UGC testimonial without live styling demonstration, relying heavily on scarcity, social proof (sold out twice), and the 15% off promotion."
+ }
+}

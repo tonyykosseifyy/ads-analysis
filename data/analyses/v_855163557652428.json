@@ -1,0 +1,398 @@
+{
+ "media_key": "v_855163557652428",
+ "analyzed_at": "2026-11-27T18:36:06+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "08d0e327ef658b8d99190539fdf18af692e05303f5e7989111990a155f1bb3f1",
+ "source": {
+  "kind": "video",
+  "id": "855163557652428",
+  "video_id": "1361890909158168",
+  "length_s": 41.833,
+  "permalink": "/23849366283980795/videos/1361890909158168/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 42.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A female creator demonstrates styling her bangs with the WavyTalk thermal brush to achieve a voluminous salon-style blowout at home.",
+  "full_description": "A creator with long, styled brunette hair demonstrates how to use the WavyTalk Blowout Boost thermal round brush on her front bangs section. She first rolls the brush over and then curls it upward away from her face to create massive root lift and volume. An inset video in the top-left shows her styling another section for reference. Once released, she fluffs her voluminous blowout, shows off the finished bouncy look, and pitches the tool's affordability compared to salon blowouts with an urgency push regarding an active discount.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you want that salon professional blowout look,",
+    "text_english": "If you want that salon professional blowout look,"
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 3.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "but you don't have the time or money,",
+    "text_english": "but you don't have the time or money,"
+   },
+   {
+    "start_s": 3.9,
+    "end_s": 5.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "then you need this hair tool.",
+    "text_english": "then you need this hair tool."
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 7.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Watch what it does for my hair.",
+    "text_english": "Watch what it does for my hair."
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 11.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "First, I go over like this,",
+    "text_english": "First, I go over like this,"
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 14.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and then I go under and away from my face,",
+    "text_english": "and then I go under and away from my face,"
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 17.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and this is gonna create a ton of volume.",
+    "text_english": "and this is gonna create a ton of volume."
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 20.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I styled the rest of my hair with this tool,",
+    "text_english": "I styled the rest of my hair with this tool,"
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 24.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and just watch what it does for my front section. It's amazing.",
+    "text_english": "and just watch what it does for my front section. It's amazing."
+   },
+   {
+    "start_s": 29.8,
+    "end_s": 31.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Are we kidding right now?",
+    "text_english": "Are we kidding right now?"
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 35.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now, what's even more insane is that this brush alone costs less than if you were to go get a blowout.",
+    "text_english": "Now, what's even more insane is that this brush alone costs less than if you were to go get a blowout."
+   },
+   {
+    "start_s": 35.3,
+    "end_s": 37.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Less expensive and as many blowouts as you want.",
+    "text_english": "Less expensive and as many blowouts as you want."
+   },
+   {
+    "start_s": 37.3,
+    "end_s": 40.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you like this look, then you need this hair tool.",
+    "text_english": "If you like this look, then you need this hair tool."
+   },
+   {
+    "start_s": 40.0,
+    "end_s": 42.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And it's discounted right now, so don't miss that.",
+    "text_english": "And it's discounted right now, so don't miss that."
+   }
+  ],
+  "transcript_full_original": "If you want that salon professional blowout look, but you don't have the time or money, then you need this hair tool. Watch what it does for my hair. First, I go over like this, and then I go under and away from my face, and this is gonna create a ton of volume. I styled the rest of my hair with this tool, and just watch what it does for my front section. It's amazing. Are we kidding right now? Now, what's even more insane is that this brush alone costs less than if you were to go get a blowout. Less expensive and as many blowouts as you want. If you like this look, then you need this hair tool. And it's discounted right now, so don't miss that.",
+  "transcript_full_english": "If you want that salon professional blowout look, but you don't have the time or money, then you need this hair tool. Watch what it does for my hair. First, I go over like this, and then I go under and away from my face, and this is gonna create a ton of volume. I styled the rest of my hair with this tool, and just watch what it does for my front section. It's amazing. Are we kidding right now? Now, what's even more insane is that this brush alone costs less than if you were to go get a blowout. Less expensive and as many blowouts as you want. If you like this look, then you need this hair tool. And it's discounted right now, so don't miss that.",
+  "word_count": 128,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "text": "If you want that salon professional blowout look,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 3.9,
+    "text": "but you don't have the time or money,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.9,
+    "end_s": 5.4,
+    "text": "then you need this hair tool.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 7.4,
+    "text": "Watch what it does for my hair.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 11.2,
+    "text": "First, I go over like this,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 14.5,
+    "text": "and then I go under and away from my face,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 17.5,
+    "text": "and this is gonna create a ton of volume.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 20.0,
+    "text": "I styled the rest of my hair with this tool,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 24.2,
+    "text": "and just watch what it does for my front section. It's amazing.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 34.5,
+    "text": "Another section for reference:",
+    "role": "other"
+   },
+   {
+    "start_s": 29.8,
+    "end_s": 31.0,
+    "text": "Are we kidding right now?",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 35.3,
+    "text": "is that this brush alone cost less than if you were to go get a blowout.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 35.3,
+    "end_s": 37.3,
+    "text": "Less expensive and as many blowouts as you want.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 37.3,
+    "end_s": 40.0,
+    "text": "If you like this look, then you need this hair tool.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 40.0,
+    "end_s": 42.0,
+    "text": "And it's discounted right now, so don't miss that.",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.8,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting in a chair holding up her unstyled front hair section and brushing it forward over her face.",
+    "action": "Creator combs her bangs down over her eyes while delivering the hook about wanting salon blowout results.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 7.4,
+    "shot_type": "medium shot",
+    "visual": "Creator lifts her bangs and presents the WavyTalk thermal round brush in her left hand.",
+    "action": "Creator holds the brush up next to her face, then lifts it above her head to begin styling.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 14.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator placing the round thermal brush against the top of her front hair section and pulling it forward.",
+    "action": "Creator rolls the brush downward over the bangs section, then wraps it underneath and away from her face.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 20.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the brush vertically tensioned high above her head with hair wrapped tightly around the barrel.",
+    "action": "Creator rolls and pulls the heated brush straight up from the roots to set maximum volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.7,
+    "end_s": 24.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator unrolls the brush from her front section while a picture-in-picture video in the top-left demonstrates styling a side strand.",
+    "action": "Creator slides the brush out backwards, releasing a bouncy curled fringe section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.2,
+    "end_s": 30.0,
+    "shot_type": "medium shot",
+    "visual": "The finished bangs bounce down and creator runs her hands through her roots to shake out and style the hair.",
+    "action": "Creator uses both hands to shake out and admire the massive volume and polished blowout waves.",
+    "product_visible": false
+   },
+   {
+    "start_s": 30.0,
+    "end_s": 42.0,
+    "shot_type": "medium shot",
+    "visual": "Creator holding the WavyTalk thermal brush upright next to her face with bouncy, voluminous blowout hair fully styled.",
+    "action": "Creator points to the brush, explains the value proposition, and delivers a call-to-action regarding the active discount.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator pulling a thick section of front hair straight up and brushing it with a pink paddle brush.",
+   "visual_0_3s": "Creator brushes her long bangs section forward over her face while sitting in an armchair.",
+   "spoken_0_3s": "If you want that salon professional blowout look, but you don't have the time or money,",
+   "text_0_3s": "If you want that salon professional blowout look, but you don't have the time or money,",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Creator completely covers her face by brushing her long hair forward like a curtain before revealing the tool."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Problem callout: wanting salon blowouts without the high cost and wasted time",
+    "Product introduction: revealing the thermal heated round brush",
+    "Step-by-step technique demo on bangs: brushing over, then under and up for root lift",
+    "Simultaneous proof: picture-in-picture showing how it styles other sections",
+    "Reveal and reaction: gorgeous bouncy front volume and hair shake",
+    "Price/value comparison: costing less than a single salon blowout",
+    "Urgency CTA: discounted now"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "price_value_vs_dyson",
+    "saves_time",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Provides a salon professional blowout look at home",
+    "Creates massive root volume easily",
+    "Costs less than getting a single blowout at a hair salon",
+    "Allows unlimited blowouts at home"
+   ],
+   "pain_points": [
+    "Salon blowouts are expensive",
+    "Going to the salon takes too much time",
+    "Difficulty getting salon-level volume on bangs and front layers"
+   ],
+   "objections_handled": [
+    "Difficulty styling: clearly shows the exact two-step movement (over, then under and away)",
+    "Price: emphasizes it costs less than a single salon appointment"
+   ],
+   "social_proof": [
+    "Direct on-camera visual result showing thick, shiny, voluminous blowout waves"
+   ],
+   "comparison_to": "Professional salon blowouts"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 3.8,
+   "first_used_on_hair_s": 6.8,
+   "final_result_shown_s": 24.2,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Discounted price available",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Discounted right now, don't miss that",
+   "cta_spoken": "If you like this look, then you need this hair tool. And it's discounted right now, so don't miss that.",
+   "cta_on_screen": "",
+   "cta_at_s": 37.3
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long brunette styled waves with an unstyled, flat front bangs section",
+   "hair_after": "Voluminous, bouncy 90s-style curtain bangs and smooth blowout waves",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, instructional, enthusiastic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No background music; direct spoken creator audio with ambient hair swoosh sound effect during the reveal",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 0,
+   "avg_shot_length_s": 42.0,
+   "pacing": "medium",
+   "effects": [
+    "Picture-in-picture inset video overlay showing side section styling",
+    "Burned-in center text captions"
+   ],
+   "ending": "Creator holds the brush next to her styled hair, smiling and gesturing towards the viewer."
+  },
+  "notes": "Single continuous take with a picture-in-picture video overlay inserted between 00:21 and 00:35. English audio targeting Lebanese/regional market as an imported UGC creative for WavyTalk."
+ }
+}

@@ -1,0 +1,313 @@
+{
+ "media_key": "v_1816983912879999",
+ "analyzed_at": "2026-11-27T19:16:48+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "1cec21528b9c00ebb24b2443c351b8c02416ab873751b430869ccb0b25d9d04a",
+ "source": {
+  "kind": "video",
+  "id": "1816983912879999",
+  "errors": [
+   "1816983912879999: Gave up after 5 retries: https://graph.facebook.com/v26.0/1816983912879999",
+   "1099805739534477: Gave up after 5 retries: https://graph.facebook.com/v26.0/1099805739534477"
+  ],
+  "ig_media_id": "18015526832976078",
+  "permalink": "https://www.instagram.com/p/DfYDgLOsZCl/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 50.56,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator transforms voluminous curly hair into an early 2000s bouncy blowout using the Wavytalk Blowout Boost thermal brush.",
+  "full_description": "A curly-haired creator introduces 'blowout season' after Halloween with a hand-cover camera transition revealing styled hair. She addresses frequent questions about her silky blowouts, introduces the Wavytalk Blowout Boost thermal brush, and demonstrates how she sections and curls her thick curly hair inward and outward at the crown to achieve a 2000s bombshell blowout for the holiday season.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Halloween's officially over, so you know what that means.",
+    "text_english": "Halloween's officially over, so you know what that means."
+   },
+   {
+    "start_s": 2.7,
+    "end_s": 5.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's blowout season, baby!",
+    "text_english": "It's blowout season, baby!"
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 9.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I always get asked how I achieve my silky blowouts,",
+    "text_english": "I always get asked how I achieve my silky blowouts,"
+   },
+   {
+    "start_s": 9.4,
+    "end_s": 13.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and with the holiday season approaching, I think it's finally time I share my secrets with you guys.",
+    "text_english": "and with the holiday season approaching, I think it's finally time I share my secrets with you guys."
+   },
+   {
+    "start_s": 13.7,
+    "end_s": 17.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I use the Wavytalk Blowout Boost thermal brush.",
+    "text_english": "I use the Wavytalk Blowout Boost thermal brush."
+   },
+   {
+    "start_s": 17.6,
+    "end_s": 25.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "As a curly girl with a lot of hair, using other tools can sometimes be so time consuming and taxing, which is specifically why I love this product so much.",
+    "text_english": "As a curly girl with a lot of hair, using other tools can sometimes be so time consuming and taxing, which is specifically why I love this product so much."
+   },
+   {
+    "start_s": 26.0,
+    "end_s": 32.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's a curling iron and a brush in one, and it uses negative ions to protect your hair and reduce frizz while styling.",
+    "text_english": "It's a curling iron and a brush in one, and it uses negative ions to protect your hair and reduce frizz while styling."
+   },
+   {
+    "start_s": 32.6,
+    "end_s": 39.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "To get my early 2000s-esque blowouts, I always curl my hair towards my face, then when I get to the crown section of my hair, I curl away.",
+    "text_english": "To get my early 2000s-esque blowouts, I always curl my hair towards my face, then when I get to the crown section of my hair, I curl away."
+   },
+   {
+    "start_s": 40.0,
+    "end_s": 44.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is key to getting those voluminous bouncy results, and this brush makes it so easy to achieve them.",
+    "text_english": "This is key to getting those voluminous bouncy results, and this brush makes it so easy to achieve them."
+   },
+   {
+    "start_s": 44.9,
+    "end_s": 49.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And there you have it, the perfect 2000s bombshell blowout for the holidays.",
+    "text_english": "And there you have it, the perfect 2000s bombshell blowout for the holidays."
+   },
+   {
+    "start_s": 49.1,
+    "end_s": 50.56,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "We love blowouts, and we love Wavy-",
+    "text_english": "We love blowouts, and we love Wavy-"
+   }
+  ],
+  "transcript_full_original": "Halloween's officially over, so you know what that means. It's blowout season, baby! I always get asked how I achieve my silky blowouts, and with the holiday season approaching, I think it's finally time I share my secrets with you guys. I use the Wavytalk Blowout Boost thermal brush. As a curly girl with a lot of hair, using other tools can sometimes be so time consuming and taxing, which is specifically why I love this product so much. It's a curling iron and a brush in one, and it uses negative ions to protect your hair and reduce frizz while styling. To get my early 2000s-esque blowouts, I always curl my hair towards my face, then when I get to the crown section of my hair, I curl away. This is key to getting those voluminous bouncy results, and this brush makes it so easy to achieve them. And there you have it, the perfect 2000s bombshell blowout for the holidays. We love blowouts, and we love Wavy-",
+  "transcript_full_english": "Halloween's officially over, so you know what that means. It's blowout season, baby! I always get asked how I achieve my silky blowouts, and with the holiday season approaching, I think it's finally time I share my secrets with you guys. I use the Wavytalk Blowout Boost thermal brush. As a curly girl with a lot of hair, using other tools can sometimes be so time consuming and taxing, which is specifically why I love this product so much. It's a curling iron and a brush in one, and it uses negative ions to protect your hair and reduce frizz while styling. To get my early 2000s-esque blowouts, I always curl my hair towards my face, then when I get to the crown section of my hair, I curl away. This is key to getting those voluminous bouncy results, and this brush makes it so easy to achieve them. And there you have it, the perfect 2000s bombshell blowout for the holidays. We love blowouts, and we love Wavy-",
+  "word_count": 158,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 2.8,
+    "end_s": 6.5,
+    "text": "Blowout season!!! ❄️✨",
+    "role": "hook"
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 17.5,
+    "text": "Wavytalk Blowout Boost Brush",
+    "role": "brand"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator standing in front of camera with wild, natural curly dark hair, wearing a red ribbed top.",
+    "action": "Creator talks excitedly to camera, then covers the camera lens with her hand as a transition.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.5,
+    "end_s": 6.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator reveals bouncy, shiny blown-out hair with text overlay 'Blowout season!!!'.",
+    "action": "Creator smiles, raises hands celebrating blowout season.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.7,
+    "end_s": 13.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator in red top speaking to camera with 3 previous look screenshots popping up on the right.",
+    "action": "Creator motions towards the photos, whispers playfully about sharing her secret routine.",
+    "product_visible": false
+   },
+   {
+    "start_s": 13.6,
+    "end_s": 17.6,
+    "shot_type": "close-up",
+    "visual": "Creator holding the Wavytalk Blowout Boost thermal round brush directly in front of the lens.",
+    "action": "Creator presents the product showing the digital temperature display and barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.6,
+    "end_s": 25.8,
+    "shot_type": "medium shot",
+    "visual": "Creator back to before state with huge, voluminous untreated curly hair.",
+    "action": "Creator fluffs and shakes her curly hair expressing how exhausting styling normally is.",
+    "product_visible": false
+   },
+   {
+    "start_s": 25.8,
+    "end_s": 28.5,
+    "shot_type": "close-up",
+    "visual": "Creator brushing through a section of straightened hair with the thermal round brush.",
+    "action": "Creator demonstrates smoothing a strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 30.6,
+    "shot_type": "macro close-up",
+    "visual": "Close-up of the ION button switch on the Wavytalk thermal brush handle.",
+    "action": "Creator points her finger directly at the negative ion switch.",
+    "product_visible": true
+   },
+   {
+    "start_s": 30.6,
+    "end_s": 44.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator demoing curling her hair with the brush in sections, curling inward on sides and backward at crown.",
+    "action": "Creator demonstrates technique step-by-step for the crown and front sections.",
+    "product_visible": true
+   },
+   {
+    "start_s": 44.5,
+    "end_s": 50.56,
+    "shot_type": "medium close-up",
+    "visual": "Finished full blowout hairstyle, shiny voluminous waves framing creator's face.",
+    "action": "Creator smiles, touches hair, poses flirtatiously and blows a kiss to camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera with large, messy curly hair wearing a red top.",
+   "visual_0_3s": "Creator talking excitedly with big curly hair before hand-transitioning to fully styled blowout.",
+   "spoken_0_3s": "Halloween's officially over, so you know what that means. It's blowout season, baby!",
+   "text_0_3s": "Blowout season!!! ❄️✨",
+   "hook_type": "before_after",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "Rapid hand-cover transition from chaotic curly hair to glossy salon blowout in under 3 seconds."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: seasonal transition into blowout season with instant before-to-after transition",
+    "Secret reveal: answering audience questions and introducing the Wavytalk Blowout Boost",
+    "Relatable problem: thick curly hair takes too long and is exhausting with traditional tools",
+    "Product value prop: 2-in-1 curling iron and brush with negative ionic technology to fight frizz",
+    "Step-by-step tutorial: inward face curls and backward crown curls for 2000s volume",
+    "Final reveal: showcasing the bouncy, voluminous holiday blowout result"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "saves_time",
+    "easy_for_beginners",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Curling iron and brush in one",
+    "Uses negative ions to protect hair and reduce frizz while styling",
+    "Delivers voluminous bouncy early 2000s bombshell blowout results",
+    "Much faster and less taxing for thick curly hair"
+   ],
+   "pain_points": [
+    "Thick curly hair styling is extremely time-consuming and exhausting with other tools",
+    "Frizz and heat damage during blowout styling"
+   ],
+   "objections_handled": [
+    "Works effectively even on very thick and curly hair types",
+    "Frizz protection handled via negative ionic tech"
+   ],
+   "social_proof": [
+    "Mentions audience constantly asking how she achieves her blowouts, displaying photo screenshots of past looks"
+   ],
+   "comparison_to": "other styling tools that are time-consuming and taxing on thick curly hair"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 13.7,
+   "first_used_on_hair_s": 25.8,
+   "final_result_shown_s": 2.7,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Dark brown, long, thick, frizzy voluminous curly hair",
+   "hair_after": "Glossy, voluminous, bouncy early 2000s layered blowout curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Upbeat, energetic, enthusiastic, relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Playful seasonal chime sound effect during the blowout reveal and light upbeat background music under voiceover.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 12,
+   "avg_shot_length_s": 4.2,
+   "pacing": "fast",
+   "effects": [
+    "hand-cover camera transition",
+    "picture-in-picture image popups"
+   ],
+   "ending": "Creator touches hair, blows kiss to camera, sentence cuts off mid-word on 'Wavy-'."
+  },
+  "notes": "Video originates from creator UGC content highlighting the Wavytalk Blowout Boost round thermal brush for holiday styling."
+ }
+}

@@ -1,0 +1,480 @@
+{
+ "media_key": "v_1474104400881586",
+ "analyzed_at": "2026-11-27T23:05:08+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "7842dfce588b1d5944a1a2cd04ab5328e651ea23457b2d545d01f69a7bbcc458",
+ "source": {
+  "kind": "video",
+  "id": "1474104400881586",
+  "video_id": "2123420228231274",
+  "length_s": 77.53,
+  "permalink": "/23849366283980795/videos/2123420228231274/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 77.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A woman demonstrates how the Wavytalk Airflow Styler curler curls and volumizes her short, fine hair in two minutes.",
+  "full_description": "A mature woman in a purple towel wrap stands in her bathroom presenting the Wavytalk hair curler (Whirlwind Curl / Airflow Styler). She explains that her hair is fine and struggles to hold curls, but the tool's built-in cooling fan sets curls immediately. She curls sections of her short blonde pixie haircut step by step on camera, highlighting the ceramic plates and how fast and easy it is to style in just two minutes. She shows off the final voluminous textured result, turns around to show the back, points out the fan vents and ceramic plates, and ends with a call to action.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Y'all, I got a lot of hair, but my hair is very fine, as you can see. It will not hold curls.",
+    "text_english": "Y'all, I got a lot of hair, but my hair is very fine, as you can see. It will not hold curls."
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 12.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "But this Wavytalk hair curler right here, that fan in this hair curler is going to set that curl.",
+    "text_english": "But this Wavytalk hair curler right here, that fan in this hair curler is going to set that curl."
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 17.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Watch this. That straight hair, watch how it curls.",
+    "text_english": "Watch this. That straight hair, watch how it curls."
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 23.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at that. And it is, it's got ceramic plates. It's just gonna glide through.",
+    "text_english": "Look at that. And it is, it's got ceramic plates. It's just gonna glide through."
+   },
+   {
+    "start_s": 23.0,
+    "end_s": 32.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you have fine, thin, straight hair, even if you have curly hair and you wanna curl your hair or straighten it, this is gonna do the trick.",
+    "text_english": "If you have fine, thin, straight hair, even if you have curly hair and you wanna curl your hair or straighten it, this is gonna do the trick."
+   },
+   {
+    "start_s": 33.0,
+    "end_s": 41.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "See, I just go, look at that. That works absolutely amazing, y'all.",
+    "text_english": "See, I just go, look at that. That works absolutely amazing, y'all."
+   },
+   {
+    "start_s": 41.5,
+    "end_s": 46.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I can fix my hair with this in about two minutes.",
+    "text_english": "I can fix my hair with this in about two minutes."
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 55.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And this is what I do. This is how I fix my hair. Y'all, this is so easy to do.",
+    "text_english": "And this is what I do. This is how I fix my hair. Y'all, this is so easy to do."
+   },
+   {
+    "start_s": 55.5,
+    "end_s": 62.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay, y'all, this is my final results. This little thing works very, very well.",
+    "text_english": "Okay, y'all, this is my final results. This little thing works very, very well."
+   },
+   {
+    "start_s": 62.0,
+    "end_s": 68.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "But you can see the volume that it puts in my hair, and these curls are gonna last the entire day.",
+    "text_english": "But you can see the volume that it puts in my hair, and these curls are gonna last the entire day."
+   },
+   {
+    "start_s": 68.5,
+    "end_s": 73.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And it's all because of this little fan and this ceramic plate right here.",
+    "text_english": "And it's all because of this little fan and this ceramic plate right here."
+   },
+   {
+    "start_s": 73.0,
+    "end_s": 75.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "That's what the back looks like.",
+    "text_english": "That's what the back looks like."
+   },
+   {
+    "start_s": 75.5,
+    "end_s": 77.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Anyway, y'all go get yours. Bye!",
+    "text_english": "Anyway, y'all go get yours. Bye!"
+   }
+  ],
+  "transcript_full_original": "Y'all, I got a lot of hair, but my hair is very fine, as you can see. It will not hold curls. But this Wavytalk hair curler right here, that fan in this hair curler is going to set that curl. Watch this. That straight hair, watch how it curls. Look at that. And it is, it's got ceramic plates. It's just gonna glide through. If you have fine, thin, straight hair, even if you have curly hair and you wanna curl your hair or straighten it, this is gonna do the trick. See, I just go, look at that. That works absolutely amazing, y'all. I can fix my hair with this in about two minutes. And this is what I do. This is how I fix my hair. Y'all, this is so easy to do. Okay, y'all, this is my final results. This little thing works very, very well. But you can see the volume that it puts in my hair, and these curls are gonna last the entire day. And it's all because of this little fan and this ceramic plate right here. That's what the back looks like. Anyway, y'all go get yours. Bye!",
+  "transcript_full_english": "Y'all, I got a lot of hair, but my hair is very fine, as you can see. It will not hold curls. But this Wavytalk hair curler right here, that fan in this hair curler is going to set that curl. Watch this. That straight hair, watch how it curls. Look at that. And it is, it's got ceramic plates. It's just gonna glide through. If you have fine, thin, straight hair, even if you have curly hair and you wanna curl your hair or straighten it, this is gonna do the trick. See, I just go, look at that. That works absolutely amazing, y'all. I can fix my hair with this in about two minutes. And this is what I do. This is how I fix my hair. Y'all, this is so easy to do. Okay, y'all, this is my final results. This little thing works very, very well. But you can see the volume that it puts in my hair, and these curls are gonna last the entire day. And it's all because of this little fan and this ceramic plate right here. That's what the back looks like. Anyway, y'all go get yours. Bye!",
+  "word_count": 182,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.0,
+    "text": "I got a lot of hair but my hair is very fine",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 4.0,
+    "text": "as you can see",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.0,
+    "end_s": 6.0,
+    "text": "it will not hold curls",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.0,
+    "end_s": 8.0,
+    "text": "but this Wavytalk hair curler right here",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 10.0,
+    "text": "that fan in this hair curler",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.0,
+    "end_s": 12.0,
+    "text": "is going to set that curl",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 13.0,
+    "text": "watch this",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 17.0,
+    "text": "that straight hair watch how it curls",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.0,
+    "end_s": 18.0,
+    "text": "look at that",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 21.0,
+    "text": "and it is it's got ceramic plates",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 23.0,
+    "text": "it's just gonna glide through",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.0,
+    "end_s": 27.0,
+    "text": "if you have fine thin straight hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 27.0,
+    "end_s": 29.0,
+    "text": "even if you have curly hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 29.0,
+    "end_s": 31.0,
+    "text": "and you wanna curl your hair or straighten it",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 33.0,
+    "text": "this is gonna do the trick",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 34.0,
+    "end_s": 36.0,
+    "text": "see I just go",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 36.0,
+    "end_s": 37.0,
+    "text": "look at that",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 37.0,
+    "end_s": 41.0,
+    "text": "that works absolutely amazing y'all",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 41.0,
+    "end_s": 43.0,
+    "text": "I can fix my hair with this",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 43.0,
+    "end_s": 46.0,
+    "text": "in about two minutes",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 47.0,
+    "end_s": 50.0,
+    "text": "and this is what I do this is how I fix my hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 50.0,
+    "end_s": 55.0,
+    "text": "y'all this is so easy to do",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 55.0,
+    "end_s": 57.0,
+    "text": "okay y'all",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 57.0,
+    "end_s": 59.0,
+    "text": "this is my final results",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 59.0,
+    "end_s": 62.0,
+    "text": "this little thing works very very well",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 62.0,
+    "end_s": 65.0,
+    "text": "but you can see the volume that it puts in my hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 65.0,
+    "end_s": 68.0,
+    "text": "and these curls are gonna last the entire day",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 68.0,
+    "end_s": 71.0,
+    "text": "and it's all because of this little fan",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 71.0,
+    "end_s": 73.0,
+    "text": "and this ceramic plate right here",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 73.0,
+    "end_s": 75.0,
+    "text": "that's what the back looks like",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 75.0,
+    "end_s": 77.0,
+    "text": "y'all go get yours bye",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.8,
+    "shot_type": "medium shot",
+    "visual": "A mature woman in a purple towel wrap facing the camera in her bathroom, showing her fine, uncurled blonde hair.",
+    "action": "She touches and lifts her hair, pointing out that it is fine and won't hold curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 12.3,
+    "shot_type": "medium close-up",
+    "visual": "The creator holds up the pink Wavytalk Airflow curler in front of the camera.",
+    "action": "She points to the digital display (reading 380) and the cooling fan vents on the barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 32.8,
+    "shot_type": "medium shot",
+    "visual": "Creator styling her top hair section with the Wavytalk tool.",
+    "action": "She clamps a piece of hair, glides and twists it through the barrel, releases a bouncy curl, and demonstrates the gliding motion.",
+    "product_visible": true
+   },
+   {
+    "start_s": 32.8,
+    "end_s": 46.5,
+    "shot_type": "medium shot",
+    "visual": "Creator curling the side section near her ear and temples.",
+    "action": "She twists the curler along the side of her head, pulls through, and curls her short hair with visible precision.",
+    "product_visible": true
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 55.5,
+    "shot_type": "medium shot",
+    "visual": "Creator curling front bangs and crown area.",
+    "action": "She curls her front fringe and crown, fluffing them up with her fingers.",
+    "product_visible": true
+   },
+   {
+    "start_s": 55.5,
+    "end_s": 73.0,
+    "shot_type": "medium shot",
+    "visual": "Creator showing off her styled, voluminous hair and holding the tool.",
+    "action": "She fluffs her styled hair to show the lift and volume, then holds the curler to highlight the fan and ceramic plates.",
+    "product_visible": true
+   },
+   {
+    "start_s": 73.0,
+    "end_s": 77.0,
+    "shot_type": "medium shot",
+    "visual": "Creator turns her back to display the rear haircut, then turns back to the camera.",
+    "action": "She turns around to show the back of her head, turns back, raises the tool, and waves goodbye.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator in a bathroom holding her fine blonde pixie hair with a surprised expression.",
+   "visual_0_3s": "Creator runs fingers through fine, messy hair demonstrating its texture.",
+   "spoken_0_3s": "Y'all, I got a lot of hair, but my hair is very fine,",
+   "text_0_3s": "I got a lot of hair but my hair is very fine",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "The relatable frustration of having fine hair that never holds a curl."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Problem callout: fine hair that cannot hold curls.",
+    "Product introduction: Wavytalk airflow curler with setting fan.",
+    "Real-time tutorial: styling top, sides, and front sections.",
+    "Key benefits: ceramic glide, curls or straightens, fast 2-minute styling.",
+    "Final results: showing 360-degree volume and all-day hold.",
+    "Feature recap & CTA: points out the fan vents, tells viewers to go get theirs."
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "saves_time",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Fan sets the curl instantly so it lasts the entire day",
+    "Ceramic plates glide through hair effortlessly",
+    "Fixes and styles hair in about two minutes",
+    "Works on fine, thin, straight, or curly hair"
+   ],
+   "pain_points": [
+    "Fine hair that drops curls quickly",
+    "Takes too long to style short hair",
+    "Stylers that snag or pull hair"
+   ],
+   "objections_handled": [
+    "Will this work on fine hair? Yes, the fan locks curls in.",
+    "Is it hard to use on short hair? Demonstrated easily on a pixie cut."
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Whirlwind Curl Airflow Styler"
+   ],
+   "first_seen_s": 5.8,
+   "first_used_on_hair_s": 12.3,
+   "final_result_shown_s": 55.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Y'all go get yours, bye!",
+   "cta_on_screen": "y'all go get yours bye",
+   "cta_at_s": 75.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "45-54",
+   "hair_before": "Short blonde pixie cut, fine and unstyled",
+   "hair_after": "Voluminous, defined curls and textured short hair",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "Warm, authentic, upbeat Southern creator"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No background music, natural speech audio and subtle tool fan hum.",
+   "captions_burned_in": true,
+   "production_style": "phone_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 15.4,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between styling sections"
+   ],
+   "ending": "Creator faces the camera holding the tool and smiles saying goodbye."
+  },
+  "notes": "Authentic UGC tutorial recorded directly on a smartphone in a bathroom setting, highlighting the unique airflow cooling fan feature that sets curls for fine hair."
+ }
+}

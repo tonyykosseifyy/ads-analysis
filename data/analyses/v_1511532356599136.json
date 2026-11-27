@@ -1,0 +1,259 @@
+{
+ "media_key": "v_1511532356599136",
+ "analyzed_at": "2026-11-27T20:37:14+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "a8603c675eb86d620fbff665147367f75b2c1f2058304f8a72760bc43deb825c",
+ "source": {
+  "kind": "video",
+  "id": "1511532356599136",
+  "errors": [
+   "1511532356599136: Gave up after 5 retries: https://graph.facebook.com/v26.0/1511532356599136",
+   "1169543555253669: Gave up after 5 retries: https://graph.facebook.com/v26.0/1169543555253669"
+  ],
+  "ig_media_id": "17856352995606344",
+  "permalink": "https://www.instagram.com/p/DT84ESNjPTa/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 62.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator transforms her thick curly hair into a sleek, bouncy blowout using the Wavytalk thermal brush in a step-by-step silent UGC demo.",
+  "full_description": "A creator starts by showing her natural thick, dark curly hair and displays the Wavytalk thermal round brush. She sections her hair with clips and demonstrates smoothing and curling each section pass-by-pass. Initial text shows her adjusting technique after a tentative pass, achieving sleek results in a single thorough pass. The video transitions through styling the sides, back, and bangs, followed by applying hair serum and shaking out glossy, voluminous 90s-style blowout layers.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "text": "using the wavytalk on my curly hair",
+    "role": "hook"
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 13.0,
+    "text": "um ok..",
+    "role": "other"
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 15.5,
+    "text": "let's try again",
+    "role": "other"
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 20.0,
+    "text": "okay period, 1 pass 😳",
+    "role": "benefit"
+   },
+   {
+    "start_s": 60.5,
+    "end_s": 62.5,
+    "text": "I loveeeee",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator sitting at a desk facing camera, touching and displaying her natural curly dark hair",
+    "action": "Creator fluffs her curly hair to show starting texture before styling",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 4.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the rose gold/black Wavytalk thermal round brush towards the camera",
+    "action": "Displays the hot brush tool before beginning",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 5.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator pinning the top half of her hair up with a styling clip",
+    "action": "Sections her hair to prepare the lower layer for styling",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 11.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator running the heated brush through a lower hair section",
+    "action": "Performs a quick first pass and evaluates the result with a skeptical expression",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.8,
+    "end_s": 19.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator re-taking the hair strand and rolling it firmly through the thermal barrel",
+    "action": "Glides brush slowly down the strand and twists at the ends, leaving hair straight and curled",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.5,
+    "end_s": 32.5,
+    "shot_type": "medium close-up",
+    "visual": "Montage of creator working through side and upper sections",
+    "action": "Smooths out curls section by section, curling the ends inward",
+    "product_visible": true
+   },
+   {
+    "start_s": 32.5,
+    "end_s": 35.5,
+    "shot_type": "medium shot, rear view",
+    "visual": "Back of creator's head showing styled, glossy, layered hair",
+    "action": "Brushes through the back layers with the thermal brush to curl ends under",
+    "product_visible": true
+   },
+   {
+    "start_s": 35.5,
+    "end_s": 40.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling upper front pieces",
+    "action": "Smooths remaining side hair with the hot brush",
+    "product_visible": true
+   },
+   {
+    "start_s": 40.0,
+    "end_s": 43.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator rolling front fringe/bangs over the thermal brush barrel",
+    "action": "Styles front crown section downwards for volume and curve",
+    "product_visible": true
+   },
+   {
+    "start_s": 43.0,
+    "end_s": 47.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator unpinning and tossing her freshly styled hair",
+    "action": "Runs fingers through hair and shakes it out to show volume and bounce",
+    "product_visible": false
+   },
+   {
+    "start_s": 47.5,
+    "end_s": 53.5,
+    "shot_type": "medium close-up to rear view",
+    "visual": "Creator dispensing hair oil pump and working it through hair from the back",
+    "action": "Applies finishing hair oil to tame flyaways and add shine, flipping hair back",
+    "product_visible": false
+   },
+   {
+    "start_s": 53.5,
+    "end_s": 62.5,
+    "shot_type": "medium close-up",
+    "visual": "Final blowout reveal with creator posing and admiring results in front of camera",
+    "action": "Fluffs bouncy curved ends, smiles brightly, and reaches forward to turn off phone",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator sitting at a desk fluffing her voluminous natural curly hair with text 'using the wavytalk on my curly hair'",
+   "visual_0_3s": "Creator shows off her natural thick curly hair texture before introducing the heated brush tool",
+   "spoken_0_3s": "",
+   "text_0_3s": "using the wavytalk on my curly hair",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Challenging curly hair texture upfront creates immediate anticipation for heat styling efficacy"
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Presenting initial curly hair texture",
+    "Tool introduction and sectioning hair",
+    "Demonstrating one-pass straightening and curling power",
+    "Step-by-step whole head styling",
+    "Back view reveal showing silky uniform finish",
+    "Styling front bangs and applying finishing oil",
+    "Final bouncy blowout reveal"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Straightens curly hair effectively in 1 pass",
+    "Provides bouncy blowout curls and high shine"
+   ],
+   "pain_points": [
+    "Difficult to tame and straighten thick curly hair at home",
+    "Multiple passes and tools usually needed for salon blowout look"
+   ],
+   "objections_handled": [
+    "Works effectively even on curly 3A/3B hair textures",
+    "Does not leave hair frizzy or unmanageable"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Round Brush (Blowout Boost)"
+   ],
+   "first_seen_s": 2.8,
+   "first_used_on_hair_s": 5.5,
+   "final_result_shown_s": 43.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Thick, voluminous natural black/dark brown curly hair",
+   "hair_after": "Smooth, glossy, bouncy layered blowout with flipped-in ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Casual, relatable, satisfying beauty routine"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Female pop vocal song playing throughout video with no speaking",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 18,
+   "avg_shot_length_s": 3.4,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator smiling, shaking her voluminous finished hair, text 'I loveeeee', reaching to stop camera"
+  },
+  "notes": "Silent aesthetic UGC demonstration video focusing on product efficacy on curly hair textures."
+ }
+}

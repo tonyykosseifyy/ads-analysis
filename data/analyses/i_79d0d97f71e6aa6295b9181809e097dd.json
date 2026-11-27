@@ -1,0 +1,155 @@
+{
+ "media_key": "i_79d0d97f71e6aa6295b9181809e097dd",
+ "analyzed_at": "2026-11-27T20:55:43+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "87d5b0cc3d7e2f5646736efabc940772e927a36bceddfde0521357c3e7063587",
+ "source": {
+  "kind": "image",
+  "id": "79d0d97f71e6aa6295b9181809e097dd"
+ },
+ "role": "rotating",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "Black Friday static receipt graphic offering the WavyTalk Volume & Wave Duo (Power Wave + Blowout Boost) for $125 (36% off).",
+  "full_description": "A square graphic promotional post styled as a crumpled white receipt against a dark textured burgundy background. At the top of the receipt, the WavyTalk logo appears above 'Black Friday', followed by '$125.00 | 36% OFF' and a banner stating 'You save: $69.00'. An itemized line specifies 'VOLUME & WAVE DUO: Power Wave + Blowout Boost', showing the two pink styling tools side by side at the bottom. A circular sticker on the right reads 'TODAY ONLY', with barcode accents on the edges.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK\nBlack Friday",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "$125.00 | 36% OFF\nYou save: $69.00",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "ITEM QTY\nVOLUME & WAVE DUO 1\nPower Wave + Blowout Boost",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "TODAY ONLY",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "product shot",
+    "visual": "A graphic design resembling a crumpled paper receipt over a dark textured maroon background, displaying Black Friday promotional pricing, product names, and studio product cutouts of the Power Wave and Blowout Boost tools in pink.",
+    "action": "Static image display.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Crumpled receipt graphic showing 'WAVYTALK Black Friday $125.00 | 36% OFF' with the duo hair tools.",
+   "visual_0_3s": "Static graphic layout of receipt with product cutouts.",
+   "spoken_0_3s": "",
+   "text_0_3s": "WAVYTALK Black Friday $125.00 | 36% OFF You save: $69.00",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "none",
+   "pattern_interrupt": "Receipt paper aesthetic combined with high-contrast Black Friday discount typography."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Brand & holiday callout (Black Friday)",
+    "Discount and savings highlight ($125 / 36% off / Save $69)",
+    "Bundle item breakdown (Volume & Wave Duo)",
+    "Visual display of both tools",
+    "Urgency sticker (Today Only)"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "replaces_multiple_tools"
+   ],
+   "key_claims": [
+    "Save $69.00",
+    "36% off bundle price",
+    "Includes Power Wave + Blowout Boost"
+   ],
+   "pain_points": [],
+   "objections_handled": [
+    "Buying two separate styling tools is too expensive"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Power Wave",
+    "WavyTalk Blowout Boost"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "Volume & Wave Duo (Power Wave + Blowout Boost) bundle for $125.00 (36% off, save $69.00)",
+   "price_mentioned": "$125.00",
+   "discount_code": "",
+   "urgency": "TODAY ONLY / Black Friday",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "studio",
+   "faces_camera": false,
+   "energy_tone": ""
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "Crumpled paper texture",
+    "Drop shadows",
+    "Receipt barcode layout"
+   ],
+   "ending": "Static image."
+  },
+  "notes": "Static Black Friday promotional image designed as a store receipt highlighting a bundle deal on two styling tools."
+ }
+}

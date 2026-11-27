@@ -1,0 +1,390 @@
+{
+ "media_key": "v_2135464207204772",
+ "analyzed_at": "2026-11-27T18:37:33+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "862318770a22aa6e672cce332a4cc3a463c4d56a5fb84e9d9c45fe1c8cb276b9",
+ "source": {
+  "kind": "video",
+  "id": "2135464207204772",
+  "ig_media_id": "18071517953784491",
+  "permalink": "https://www.instagram.com/p/DeZlJTMsCU7/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 40.0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "A creator demonstrates how to achieve glossy, bouncy curls using the Wavytalk Whirlwind Pro airflow styler.",
+  "full_description": "A beauty creator demonstrates curling her dark hair using the light pink Wavytalk Whirlwind Pro airflow straightener and curling tool. The video shows her clamping a strand near the root, rotating half a turn, gliding it down, and revealing tight, shiny curls formed instantly by the cool airflow. She shows the tool up close, demonstrates the technique on several sections, gives styling tips, and displays the full voluminous, glossy result.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "speaker": "creator_voiceover",
+    "language": "en",
+    "text_original": "look at this curl you guys",
+    "text_english": "look at this curl you guys"
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 4.8,
+    "speaker": "creator_voiceover",
+    "language": "en",
+    "text_original": "I did it with the Wavytalk Whirlwind Pro",
+    "text_english": "I did it with the Wavytalk Whirlwind Pro"
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 7.0,
+    "speaker": "creator_voiceover",
+    "language": "en",
+    "text_original": "and now I'm gonna do my entire head",
+    "text_english": "and now I'm gonna do my entire head"
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 9.9,
+    "speaker": "creator_voiceover",
+    "language": "en",
+    "text_original": "so it's basically a straightener with airflow built in",
+    "text_english": "so it's basically a straightener with airflow built in"
+   },
+   {
+    "start_s": 9.9,
+    "end_s": 14.9,
+    "speaker": "creator_voiceover",
+    "language": "en",
+    "text_original": "the plates smooth and the cool air locks in your curl so it lasts longer",
+    "text_english": "the plates smooth and the cool air locks in your curl so it lasts longer"
+   },
+   {
+    "start_s": 14.9,
+    "end_s": 20.9,
+    "speaker": "creator_voiceover",
+    "language": "en",
+    "text_original": "I take small sections clamp at the root give it half a turn and then I glide all the way down",
+    "text_english": "I take small sections clamp at the root give it half a turn and then I glide all the way down"
+   },
+   {
+    "start_s": 20.9,
+    "end_s": 25.8,
+    "speaker": "creator_voiceover",
+    "language": "en",
+    "text_original": "the airflow sets it as I go so the curl is ready the second it leaves the plates",
+    "text_english": "the airflow sets it as I go so the curl is ready the second it leaves the plates"
+   },
+   {
+    "start_s": 25.8,
+    "end_s": 31.5,
+    "speaker": "creator_voiceover",
+    "language": "en",
+    "text_original": "I do the same motion for each curl and just a tip the smaller the section the bouncier the curl",
+    "text_english": "I do the same motion for each curl and just a tip the smaller the section the bouncier the curl"
+   },
+   {
+    "start_s": 31.5,
+    "end_s": 35.1,
+    "speaker": "creator_voiceover",
+    "language": "en",
+    "text_original": "this is the full result I was absolutely shocked you guys like",
+    "text_english": "this is the full result I was absolutely shocked you guys like"
+   },
+   {
+    "start_s": 35.1,
+    "end_s": 40.0,
+    "speaker": "creator_voiceover",
+    "language": "en",
+    "text_original": "look at these curls shiny soft curls with volume literally from this one tool",
+    "text_english": "look at these curls shiny soft curls with volume literally from this one tool"
+   }
+  ],
+  "transcript_full_original": "look at this curl you guys I did it with the Wavytalk Whirlwind Pro and now I'm gonna do my entire head so it's basically a straightener with airflow built in the plates smooth and the cool air locks in your curl so it lasts longer I take small sections clamp at the root give it half a turn and then I glide all the way down the airflow sets it as I go so the curl is ready the second it leaves the plates I do the same motion for each curl and just a tip the smaller the section the bouncier the curl this is the full result I was absolutely shocked you guys like look at these curls shiny soft curls with volume literally from this one tool",
+  "transcript_full_english": "look at this curl you guys I did it with the Wavytalk Whirlwind Pro and now I'm gonna do my entire head so it's basically a straightener with airflow built in the plates smooth and the cool air locks in your curl so it lasts longer I take small sections clamp at the root give it half a turn and then I glide all the way down the airflow sets it as I go so the curl is ready the second it leaves the plates I do the same motion for each curl and just a tip the smaller the section the bouncier the curl this is the full result I was absolutely shocked you guys like look at these curls shiny soft curls with volume literally from this one tool",
+  "word_count": 105,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "text": "look at this curl you guys",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 4.8,
+    "text": "I did it with the Wavytalk Whirlwind Pro",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 6.8,
+    "text": "and now I'm gonna do my entire head",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 9.9,
+    "text": "so it's basically a straightener with air flow built in",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.9,
+    "end_s": 14.9,
+    "text": "the plates smooth and the cool air locks in your curl so it lasts longer",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.9,
+    "end_s": 18.0,
+    "text": "I take small sections clamp at the root",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 21.0,
+    "text": "give it half a turn and then I glide all the way down",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 23.3,
+    "text": "the air flow sets it as I go",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.3,
+    "end_s": 25.8,
+    "text": "so the curl is ready the second it leaves the plates",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.8,
+    "end_s": 27.5,
+    "text": "I do the same motion for each curl",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 27.5,
+    "end_s": 30.7,
+    "text": "and just a tip the smaller the section",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 30.7,
+    "end_s": 32.2,
+    "text": "the bouncier the curl",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 32.2,
+    "end_s": 34.5,
+    "text": "this is the full result I was absolutely shocked you guys like",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 34.5,
+    "end_s": 36.8,
+    "text": "look at these curls shiny",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 36.8,
+    "end_s": 40.0,
+    "text": "soft curls with volume literally from this one tool",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.4,
+    "shot_type": "close-up",
+    "visual": "Creator gliding the pink Wavytalk styler through her strand of hair.",
+    "action": "Creator glides the styler down and releases a defined curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 5.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator showing the formed curl against her ear and pinning hair back.",
+    "action": "Creator sections her hair while looking to the side.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.9,
+    "end_s": 9.9,
+    "shot_type": "medium close-up",
+    "visual": "Product close-up held by creator showing the barrel and airflow vents.",
+    "action": "Creator turns the Wavytalk Whirlwind Pro in hand to display the digital display and ventilation holes.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.9,
+    "end_s": 14.5,
+    "shot_type": "close-up",
+    "visual": "Styling demonstration curling a lower section of hair.",
+    "action": "Creator glides the tool through hair, rotating it and letting a ringlet drop.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 16.5,
+    "shot_type": "close-up",
+    "visual": "Finished curls hanging beside her neck.",
+    "action": "Creator touches and twirls a finished bouncy curl.",
+    "product_visible": false
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 20.5,
+    "shot_type": "close-up",
+    "visual": "Step-by-step demonstration at the root.",
+    "action": "Creator clamps the styler near root, gives a half turn, and slides down.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.5,
+    "end_s": 23.8,
+    "shot_type": "medium close-up",
+    "visual": "Front view of tool gliding down near the face.",
+    "action": "Creator brings the styler down vertically, framing her face.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.8,
+    "end_s": 25.8,
+    "shot_type": "medium close-up",
+    "visual": "Finished curl bouncing as creator checks it.",
+    "action": "Creator touches the curl and inspects it in the mirror.",
+    "product_visible": false
+   },
+   {
+    "start_s": 25.8,
+    "end_s": 31.8,
+    "shot_type": "medium close-up",
+    "visual": "Side view curling another strand with the tool.",
+    "action": "Creator smoothly glides the tool through another section while giving tips.",
+    "product_visible": true
+   },
+   {
+    "start_s": 31.8,
+    "end_s": 34.5,
+    "shot_type": "medium close-up",
+    "visual": "Half-styled hair showing side-by-side curly vs straight texture.",
+    "action": "Creator runs fingers through the newly formed curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 34.5,
+    "end_s": 40.0,
+    "shot_type": "close-up",
+    "visual": "Final result showcasing glossy waves and defined volume from side profile.",
+    "action": "Creator displays the shiny, soft, voluminous waves.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Close-up of pink airflow iron clamped onto hair strand.",
+   "visual_0_3s": "The tool glides down smoothly, unraveling a glossy, perfectly formed spiral curl.",
+   "spoken_0_3s": "look at this curl you guys I did it with the Wavytalk Whirlwind Pro",
+   "text_0_3s": "look at this curl you guys I did it with the Wavytalk Whirlwind Pro",
+   "hook_type": "result_first",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Instant curl reveal right on second 1."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook with an instant perfect curl reveal",
+    "Product presentation and feature explanation (airflow + plates)",
+    "Step-by-step technique breakdown (clamp, half turn, glide)",
+    "Pro styling tip (smaller sections = bouncier curls)",
+    "Showcase final voluminous, glossy results"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "salon_result_at_home",
+    "replaces_multiple_tools"
+   ],
+   "key_claims": [
+    "Straightener with built-in airflow",
+    "Plates smooth while cool air instantly locks in curls to last longer",
+    "Easy clamp-and-glide motion creates bouncy, shiny curls"
+   ],
+   "pain_points": [
+    "Curls dropping quickly",
+    "Difficulty curling hair with traditional flat irons or wands"
+   ],
+   "objections_handled": [
+    "Heat styling longevity: airflow locks in curl the second it leaves the plates"
+   ],
+   "social_proof": [
+    "Creator astonishment: 'I was absolutely shocked you guys'"
+   ],
+   "comparison_to": "Traditional straightener"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Whirlwind Pro"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 34.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Dark brown, straight/wavy natural hair",
+   "hair_after": "Voluminous, glossy defined curls and waves",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Soft, upbeat instrumental background music",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 10,
+   "avg_shot_length_s": 3.6,
+   "pacing": "medium",
+   "effects": [
+    "burn-in text subtitles"
+   ],
+   "ending": "Side view beauty shot showing the glossy wave pattern and volume."
+  },
+  "notes": "English UGC video demonstrating the Wavytalk Whirlwind Pro airflow styler. Features clean demonstration of the clamp, twist, and glide technique."
+ }
+}

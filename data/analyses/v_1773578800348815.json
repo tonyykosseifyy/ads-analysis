@@ -1,0 +1,398 @@
+{
+ "media_key": "v_1773578800348815",
+ "analyzed_at": "2026-11-27T23:37:20+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "9ea1d0417c7ce5fa128c1d16f145def75b1caaff377b46e49764bf78172b6089",
+ "source": {
+  "kind": "video",
+  "id": "1773578800348815",
+  "errors": [
+   "1773578800348815: Gave up after 5 retries: https://graph.facebook.com/v26.0/1773578800348815",
+   "28253501584286412: Gave up after 5 retries: https://graph.facebook.com/v26.0/28253501584286412"
+  ],
+  "ig_media_id": "18152033380512425",
+  "permalink": "https://www.instagram.com/p/DceUiuJsIG2/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 95.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates step-by-step how to crimp her long hair using the Wavytalk Power Wave crimper, highlighting its timer, heat settings, and negative ion technology.",
+  "full_description": "A long-haired female creator sits in a chair and demos the pink Wavytalk Power Wave hair crimper/waver. She explains the adjustable timer settings (4, 6, 8, 10 seconds), 8 heat settings, ventilation holes for even heat distribution, and negative ion technology for shine and frizz reduction. She shows her technique of angling the tool, working from temple level down at each audio beep, parts her hair in the middle to complete the look, and reveals voluminous mermaid waves at the end.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Move it down.",
+    "text_english": "Move it down."
+   },
+   {
+    "start_s": 1.5,
+    "end_s": 2.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's crimp my hair.",
+    "text_english": "Let's crimp my hair."
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 7.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is a new tool from Wavytalk, it is called the Power Wave. I love it so much.",
+    "text_english": "This is a new tool from Wavytalk, it is called the Power Wave. I love it so much."
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 15.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I have it on the six second timer, so that way I can get a really nice wave, but you can do four seconds, eight seconds, or ten seconds.",
+    "text_english": "I have it on the six second timer, so that way I can get a really nice wave, but you can do four seconds, eight seconds, or ten seconds."
+   },
+   {
+    "start_s": 15.7,
+    "end_s": 20.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I start pretty high up around my temples, and then I just work my way down when I hear the beep.",
+    "text_english": "I start pretty high up around my temples, and then I just work my way down when I hear the beep."
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 33.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So, I'm taking a section around this size, and I'm just putting the tool at an angle, and I'm starting around my temples. I listen for the beep, and then I work my way down.",
+    "text_english": "So, I'm taking a section around this size, and I'm just putting the tool at an angle, and I'm starting around my temples. I listen for the beep, and then I work my way down."
+   },
+   {
+    "start_s": 33.3,
+    "end_s": 40.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "There's also eight temperature settings on this tool, and I have mine set at 340 right now. I find that that works best for my hair type.",
+    "text_english": "There's also eight temperature settings on this tool, and I have mine set at 340 right now. I find that that works best for my hair type."
+   },
+   {
+    "start_s": 40.3,
+    "end_s": 47.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Also, these three little holes right here are ventilation holes, and they actually help evenly distribute heat to reduce damage.",
+    "text_english": "Also, these three little holes right here are ventilation holes, and they actually help evenly distribute heat to reduce damage."
+   },
+   {
+    "start_s": 47.5,
+    "end_s": 49.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Move it down.",
+    "text_english": "Move it down."
+   },
+   {
+    "start_s": 49.1,
+    "end_s": 53.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Also, my hair is so shiny thanks to the negative ion technology.",
+    "text_english": "Also, my hair is so shiny thanks to the negative ion technology."
+   },
+   {
+    "start_s": 53.1,
+    "end_s": 58.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This hairstyle never fails to make me feel like a mermaid. I just think it is so pretty.",
+    "text_english": "This hairstyle never fails to make me feel like a mermaid. I just think it is so pretty."
+   },
+   {
+    "start_s": 58.3,
+    "end_s": 63.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You guys know I love my blowouts, but I do want to start wearing different hairstyles more often.",
+    "text_english": "You guys know I love my blowouts, but I do want to start wearing different hairstyles more often."
+   },
+   {
+    "start_s": 63.3,
+    "end_s": 67.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is the perfect tool for me. It is so easy and so quick, and it's gentle on the hair.",
+    "text_english": "This is the perfect tool for me. It is so easy and so quick, and it's gentle on the hair."
+   },
+   {
+    "start_s": 67.9,
+    "end_s": 72.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Tools with negative ion technology are the best because they also help reduce frizz.",
+    "text_english": "Tools with negative ion technology are the best because they also help reduce frizz."
+   },
+   {
+    "start_s": 72.2,
+    "end_s": 76.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm going to save this section for last, and using it at an angle on this side as well.",
+    "text_english": "I'm going to save this section for last, and using it at an angle on this side as well."
+   },
+   {
+    "start_s": 76.6,
+    "end_s": 78.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Unclamp and then clamp again.",
+    "text_english": "Unclamp and then clamp again."
+   },
+   {
+    "start_s": 78.9,
+    "end_s": 82.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I love when Wavytalk comes out with new tools, and the Power Wave is definitely a good one.",
+    "text_english": "I love when Wavytalk comes out with new tools, and the Power Wave is definitely a good one."
+   },
+   {
+    "start_s": 82.9,
+    "end_s": 86.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "With the Power Wave, I like to do a middle part. Something about wavy hair with a middle part just works.",
+    "text_english": "With the Power Wave, I like to do a middle part. Something about wavy hair with a middle part just works."
+   },
+   {
+    "start_s": 86.9,
+    "end_s": 89.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And now for the other side, and finished.",
+    "text_english": "And now for the other side, and finished."
+   },
+   {
+    "start_s": 89.3,
+    "end_s": 95.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay, and this is the final look. And these are my settings if you want to screenshot. I love the Wavytalk Power Wave. What do you guys think?",
+    "text_english": "Okay, and this is the final look. And these are my settings if you want to screenshot. I love the Wavytalk Power Wave. What do you guys think?"
+   }
+  ],
+  "transcript_full_original": "Move it down. Let's crimp my hair. This is a new tool from Wavytalk, it is called the Power Wave. I love it so much. I have it on the six second timer, so that way I can get a really nice wave, but you can do four seconds, eight seconds, or ten seconds. I start pretty high up around my temples, and then I just work my way down when I hear the beep. So, I'm taking a section around this size, and I'm just putting the tool at an angle, and I'm starting around my temples. I listen for the beep, and then I work my way down. There's also eight temperature settings on this tool, and I have mine set at 340 right now. I find that that works best for my hair type. Also, these three little holes right here are ventilation holes, and they actually help evenly distribute heat to reduce damage. Move it down. Also, my hair is so shiny thanks to the negative ion technology. This hairstyle never fails to make me feel like a mermaid. I just think it is so pretty. You guys know I love my blowouts, but I do want to start wearing different hairstyles more often. This is the perfect tool for me. It is so easy and so quick, and it's gentle on the hair. Tools with negative ion technology are the best because they also help reduce frizz. I'm going to save this section for last, and using it at an angle on this side as well. Unclamp and then clamp again. I love when Wavytalk comes out with new tools, and the Power Wave is definitely a good one. With the Power Wave, I like to do a middle part. Something about wavy hair with a middle part just works. And now for the other side, and finished. Okay, and this is the final look. And these are my settings if you want to screenshot. I love the Wavytalk Power Wave. What do you guys think?",
+  "transcript_full_english": "Move it down. Let's crimp my hair. This is a new tool from Wavytalk, it is called the Power Wave. I love it so much. I have it on the six second timer, so that way I can get a really nice wave, but you can do four seconds, eight seconds, or ten seconds. I start pretty high up around my temples, and then I just work my way down when I hear the beep. So, I'm taking a section around this size, and I'm just putting the tool at an angle, and I'm starting around my temples. I listen for the beep, and then I work my way down. There's also eight temperature settings on this tool, and I have mine set at 340 right now. I find that that works best for my hair type. Also, these three little holes right here are ventilation holes, and they actually help evenly distribute heat to reduce damage. Move it down. Also, my hair is so shiny thanks to the negative ion technology. This hairstyle never fails to make me feel like a mermaid. I just think it is so pretty. You guys know I love my blowouts, but I do want to start wearing different hairstyles more often. This is the perfect tool for me. It is so easy and so quick, and it's gentle on the hair. Tools with negative ion technology are the best because they also help reduce frizz. I'm going to save this section for last, and using it at an angle on this side as well. Unclamp and then clamp again. I love when Wavytalk comes out with new tools, and the Power Wave is definitely a good one. With the Power Wave, I like to do a middle part. Something about wavy hair with a middle part just works. And now for the other side, and finished. Okay, and this is the final look. And these are my settings if you want to screenshot. I love the Wavytalk Power Wave. What do you guys think?",
+  "word_count": 353,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 7.8,
+    "end_s": 15.6,
+    "text": "4 timer settings (4-6-8-10s)\ndepending on your hair needs",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the pink Power Wave waver clamped near the bottom of a hair section, looking into camera.",
+    "action": "Quick preview hook snippet of her clamping and sliding the tool down.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.5,
+    "end_s": 2.8,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting down showing her very long, straight-to-wavy brunette hair with hair clips.",
+    "action": "Holds up the Wavytalk Power Wave tool and announces she is going to crimp her hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 15.6,
+    "shot_type": "medium shot",
+    "visual": "Creator with hair partially tied up in a bun, clamping the bottom layer near the temple.",
+    "action": "Demonstrates clamping with the 6-second timer setting, explaining timer options.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.7,
+    "end_s": 24.4,
+    "shot_type": "medium shot",
+    "visual": "Creator clamping down a section of hair from root to tip.",
+    "action": "Listens for the beep, releases, and shifts tool lower down the strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 40.2,
+    "shot_type": "medium shot",
+    "visual": "Creator working on another section of hair from the temple at an angle.",
+    "action": "Explains taking medium-sized sections, angling the tool, and using 340°F setting.",
+    "product_visible": true
+   },
+   {
+    "start_s": 40.3,
+    "end_s": 47.4,
+    "shot_type": "close-up",
+    "visual": "Close-up of the Wavytalk Power Wave body showing three ventilation holes.",
+    "action": "Creator points directly at the ventilation holes explaining their role in heat distribution.",
+    "product_visible": true
+   },
+   {
+    "start_s": 47.5,
+    "end_s": 58.2,
+    "shot_type": "medium shot",
+    "visual": "Creator showing the wavy strands and continuing to crimp sections.",
+    "action": "Comments on the high shine, negative ions, and mermaid wave result.",
+    "product_visible": true
+   },
+   {
+    "start_s": 58.3,
+    "end_s": 72.1,
+    "shot_type": "medium shot",
+    "visual": "Creator continues clamping hair while talking about switching from blowouts to waves.",
+    "action": "Details how fast, gentle, and anti-frizz the tool is.",
+    "product_visible": true
+   },
+   {
+    "start_s": 72.2,
+    "end_s": 82.8,
+    "shot_type": "medium shot",
+    "visual": "Creator unclips top sections and clamps the remaining hair sections.",
+    "action": "Demonstrates unclamp and reclamp rhythm, praising the new tool release.",
+    "product_visible": true
+   },
+   {
+    "start_s": 82.9,
+    "end_s": 89.2,
+    "shot_type": "medium shot",
+    "visual": "Creator parts her hair in the middle and waves the top front pieces.",
+    "action": "Styles the top front pieces on both sides of the middle part.",
+    "product_visible": true
+   },
+   {
+    "start_s": 89.3,
+    "end_s": 95.8,
+    "shot_type": "medium shot",
+    "visual": "Creator shows off her fully crimped, voluminous, glossy mermaid hair while holding the Power Wave tool showing the digital screen.",
+    "action": "Shows off final result, points to screen settings, shakes her hair, and asks viewers what they think.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink Power Wave waver on her hair saying 'Move it down.'",
+   "visual_0_3s": "Fast preview snippet showing tool in action on hair followed by creator introducing the crimping routine.",
+   "spoken_0_3s": "Move it down. Let's crimp my hair.",
+   "text_0_3s": "",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "product_reveal",
+   "pattern_interrupt": "Rapid preview cut snippet of mid-action styling right before starting the intro."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: Let's crimp my hair with the new Wavytalk Power Wave",
+    "Feature explanation: 4 timer settings with audible beep indicator",
+    "Technique demo: clamping at an angle starting at temple level",
+    "Product specs: 8 temperature settings and ventilation holes for heat distribution",
+    "Hair benefits: negative ions for extreme shine and frizz reduction",
+    "Lifestyle fit: quick, easy alternative to her usual blowout routine",
+    "Styling tip: middle part for the ideal mermaid wave look",
+    "Final reveal and interactive CTA asking viewers for feedback"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "less_heat_damage",
+    "salon_result_at_home",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Has 4 timer settings (4s, 6s, 8s, 10s) with audio beep to tell you when to move down",
+    "8 temperature settings up to custom heat levels (used at 340°F)",
+    "Ventilation holes evenly distribute heat to reduce hair damage",
+    "Negative ion technology boosts shine and prevents frizz"
+   ],
+   "pain_points": [
+    "Boredom of doing the same blowout every day",
+    "Worrying about heat damage when crimping long hair",
+    "Difficulty knowing how long to hold heat on each section"
+   ],
+   "objections_handled": [
+    "How do I know when to move the iron? (Built-in timer beeps)",
+    "Will it damage my hair? (Ventilation holes distribute heat evenly + negative ions)",
+    "Will it cause frizz? (Negative ions seal cuticles and prevent frizz)"
+   ],
+   "social_proof": [
+    "Creator's personal endorsement of Wavytalk tools and their new releases"
+   ],
+   "comparison_to": "Traditional blowouts"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Power Wave"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 89.3,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "What do you guys think?",
+   "cta_on_screen": "",
+   "cta_at_s": 94.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Very long, sleek brunette hair, slightly textured/straight",
+   "hair_after": "Voluminous, shiny, uniform deep mermaid crimp waves",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, calm, educational"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "none",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 22,
+   "avg_shot_length_s": 4.4,
+   "pacing": "medium",
+   "effects": [
+    "audio beep sound effect from device",
+    "jump cuts between sections"
+   ],
+   "ending": "Creator presents the final wavy hair result while holding the tool up to the camera and smiling."
+  },
+  "notes": "Influencer UGC tutorial ad for the Wavytalk Power Wave waver/crimper in pink. English speaking creator with very long hair."
+ }
+}

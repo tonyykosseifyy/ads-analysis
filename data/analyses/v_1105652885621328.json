@@ -1,0 +1,253 @@
+{
+ "media_key": "v_1105652885621328",
+ "analyzed_at": "2026-11-27T23:28:51+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "6cef9c1a355c79034e5271e1d19a2bb77fc16506ce4b315b7acca575aaf5ab61",
+ "source": {
+  "kind": "video",
+  "id": "1105652885621328",
+  "errors": [
+   "1105652885621328: Gave up after 5 retries: https://graph.facebook.com/v26.0/1105652885621328",
+   "1189840933370333: Gave up after 5 retries: https://graph.facebook.com/v26.0/1189840933370333"
+  ],
+  "ig_media_id": "18024051689948807",
+  "permalink": "https://www.instagram.com/p/DfZbAJds3JR/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 35.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates how to achieve a bouncy 90s salon blowout using the viral baby pink Wavytalk thermal brush.",
+  "full_description": "The ad opens with a finished blowout result tease as the creator fluffs her hair, framed by the caption 'all i've been seeing on my fyp is this baby pink thermal brush'. She flashes the pink thermal brush to the camera, then cuts to her flat, unstyled hair. She preps with heat protectant and sections her hair with a claw clip. Step-by-step, she curls and rolls sections around the thermal brush, demonstrating the technique on both sides and bangs. She finishes by shaking out bouncy, glossy curls and showing the back of her hair before posing next to the product.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 35.0,
+    "text": "all i've been seeing on my fyp is this baby pink thermal brush",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator admiring and touching her finished bouncy blowout",
+    "action": "Creator runs fingers through voluminous blowout hair to tease the result",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 3.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the pink Wavytalk thermal brush",
+    "action": "Creator presents the brush and pouts at the camera",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 4.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator touching her straight, unstyled hair",
+    "action": "Touches hair strands showing the 'before' state",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.2,
+    "end_s": 4.9,
+    "shot_type": "close-up",
+    "visual": "Creator holding up a large beige claw clip",
+    "action": "Brings hair clip directly to the lens",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 5.8,
+    "shot_type": "medium shot",
+    "visual": "Creator holding a heat protectant spray",
+    "action": "Sprays heat protection mist across her hair",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 6.8,
+    "shot_type": "medium shot",
+    "visual": "Creator detangling hair with paddle brush",
+    "action": "Brushes smooth through hair lengths",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 7.9,
+    "shot_type": "close-up",
+    "visual": "Close-up of Wavytalk thermal brush handle and digital screen",
+    "action": "Powers on the device and adjusts the temperature",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.9,
+    "end_s": 8.9,
+    "shot_type": "medium shot",
+    "visual": "Creator clipping up upper hair layer",
+    "action": "Pins top section with claw clip to work in layers",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.9,
+    "end_s": 12.5,
+    "shot_type": "medium shot",
+    "visual": "Creator wrapping bottom layer around thermal brush",
+    "action": "Glides brush and rolls ends under to form the first curl",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.5,
+    "end_s": 18.5,
+    "shot_type": "medium shot",
+    "visual": "Creator working on middle side sections",
+    "action": "Twists and rolls thermal brush through mid-lengths",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 23.5,
+    "shot_type": "medium shot",
+    "visual": "Creator styling upper front pieces",
+    "action": "Rolls brush outward away from face to create volume",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 27.5,
+    "shot_type": "medium shot",
+    "visual": "Creator styling curtain bangs / crown section",
+    "action": "Pulls brush upward and rolls back over forehead",
+    "product_visible": true
+   },
+   {
+    "start_s": 27.5,
+    "end_s": 33.0,
+    "shot_type": "medium shot",
+    "visual": "Creator tossing and admiring completed blowout",
+    "action": "Shakes out curls, fluffs crown roots, and turns around to show the back volume",
+    "product_visible": false
+   },
+   {
+    "start_s": 33.0,
+    "end_s": 35.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator posing with finished hair while holding the pink brush",
+    "action": "Holds up Wavytalk brush next to face, smiling and posing",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator posing and running hands through her voluminous, bouncy blowout hair",
+   "visual_0_3s": "Creator fluffs finished blowout curls, then quickly holds up the baby pink thermal brush",
+   "spoken_0_3s": "",
+   "text_0_3s": "all i've been seeing on my fyp is this baby pink thermal brush",
+   "hook_type": "result_first",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Instant result flash followed immediately by the viral product reveal"
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Tease final blowout results",
+    "Introduce the viral pink thermal brush",
+    "Show unstyled baseline and prep steps",
+    "Step-by-step sectioning and styling demonstration",
+    "Crown / fringe styling technique",
+    "Full 360-degree blowout reveal",
+    "Final pose holding the tool"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "social_proof_popularity",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Achieve a viral 90s bouncy blowout easily",
+    "The trending baby pink thermal brush from FYP"
+   ],
+   "pain_points": [
+    "Flat, lifeless unstyled hair",
+    "Difficulty managing a traditional round brush and blow dryer simultaneously"
+   ],
+   "objections_handled": [
+    "Demonstrates step-by-step ease of handling without hair tangling"
+   ],
+   "social_proof": [
+    "Viral trend endorsement ('all i've been seeing on my fyp')"
+   ],
+   "comparison_to": "traditional salon blowout / round brush blowout"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush (Blowout Boost)"
+   ],
+   "first_seen_s": 1.8,
+   "first_used_on_hair_s": 9.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Straight, slightly flat brunette hair with lighter ombre ends",
+   "hair_after": "Voluminous, bouncy 90s-style layered blowout with defined inward/outward curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "aesthetic, effortless, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Trending R&B pop audio ('The Boy Is Mine' remix)",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 13,
+   "avg_shot_length_s": 2.5,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts",
+    "speed ramps"
+   ],
+   "ending": "Creator smiles and holds up the thermal brush while admiring her styled hair"
+  },
+  "notes": "Aesthetic, silent GRWM-style demonstration leaning into TikTok FYP virality to showcase the Wavytalk pink thermal brush."
+ }
+}

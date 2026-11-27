@@ -1,0 +1,333 @@
+{
+ "media_key": "v_1618143839515404",
+ "analyzed_at": "2026-11-27T18:42:24+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "a6a2c00da1d5cd06f41b05128eaa4691d75fb869e4c0ffdf6eebf366475855fe",
+ "source": {
+  "kind": "video",
+  "id": "1618143839515404",
+  "video_id": "1873046540550877",
+  "length_s": 49.666,
+  "permalink": "/23849366283980795/videos/1873046540550877/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 49.38,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates step-by-step how to get a bouncy blowout on short layered hair using the Wavytalk thermal heated brush.",
+  "full_description": "A creator shows her styling routine for short layered dark hair. The video opens with a completed bouncy blowout result hook, then cuts to rough drying her hair with a hair dryer, before showing the Wavytalk heated round brush. She demonstrates curling the ends outward in three sections, curling face-framing layers inward, smoothing the top section, and rolling back her curtain bangs for a swoop effect. The video finishes with her admiring the bouncy, voluminous results and blowing a kiss to the camera.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is how I get that bouncy blowout look on my short hair.",
+    "text_english": "This is how I get that bouncy blowout look on my short hair."
+   },
+   {
+    "start_s": 2.5,
+    "end_s": 5.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I recently added layers and I feel like this is the best way for me to style it.",
+    "text_english": "I recently added layers and I feel like this is the best way for me to style it."
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 7.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I use the Wavytalk heated brush. I only really separate my hair into like three sections",
+    "text_english": "I use the Wavytalk heated brush. I only really separate my hair into like three sections"
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 11.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "because I'm lazy, but I basically just flip the ends outwards, adding a lot of tension,",
+    "text_english": "because I'm lazy, but I basically just flip the ends outwards, adding a lot of tension,"
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 16.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and I just find that this method for me is much easier than using a blow dry brush.",
+    "text_english": "and I just find that this method for me is much easier than using a blow dry brush."
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 20.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I also make sure to flip the front pieces of my hair inwards instead of outwards,",
+    "text_english": "I also make sure to flip the front pieces of my hair inwards instead of outwards,"
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 24.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "just so that those pieces can frame my face. And now I go ahead and do the top layer.",
+    "text_english": "just so that those pieces can frame my face. And now I go ahead and do the top layer."
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 29.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This for me is the most important part and the part where I focus the most on and take the most time,",
+    "text_english": "This for me is the most important part and the part where I focus the most on and take the most time,"
+   },
+   {
+    "start_s": 29.5,
+    "end_s": 33.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "just because I want it to be nice and sleek. For the bangs, I roll away from my face",
+    "text_english": "just because I want it to be nice and sleek. For the bangs, I roll away from my face"
+   },
+   {
+    "start_s": 33.5,
+    "end_s": 38.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "while pulling the brush towards my face, if that makes sense.",
+    "text_english": "while pulling the brush towards my face, if that makes sense."
+   },
+   {
+    "start_s": 38.0,
+    "end_s": 42.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And that's just been the easiest way for me to get that swoop of the curtain bang.",
+    "text_english": "And that's just been the easiest way for me to get that swoop of the curtain bang."
+   },
+   {
+    "start_s": 42.0,
+    "end_s": 45.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And then I just do one more touch up of the front pieces, and that's pretty much how I style my hair every single time.",
+    "text_english": "And then I just do one more touch up of the front pieces, and that's pretty much how I style my hair every single time."
+   },
+   {
+    "start_s": 45.0,
+    "end_s": 49.38,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It gives me that nice bouncy blowout look, and I love it.",
+    "text_english": "It gives me that nice bouncy blowout look, and I love it."
+   }
+  ],
+  "transcript_full_original": "This is how I get that bouncy blowout look on my short hair. I recently added layers and I feel like this is the best way for me to style it. I use the Wavytalk heated brush. I only really separate my hair into like three sections because I'm lazy, but I basically just flip the ends outwards, adding a lot of tension, and I just find that this method for me is much easier than using a blow dry brush. I also make sure to flip the front pieces of my hair inwards instead of outwards, just so that those pieces can frame my face. And now I go ahead and do the top layer. This for me is the most important part and the part where I focus the most on and take the most time, just because I want it to be nice and sleek. For the bangs, I roll away from my face while pulling the brush towards my face, if that makes sense. And that's just been the easiest way for me to get that swoop of the curtain bang. And then I just do one more touch up of the front pieces, and that's pretty much how I style my hair every single time. It gives me that nice bouncy blowout look, and I love it.",
+  "transcript_full_english": "This is how I get that bouncy blowout look on my short hair. I recently added layers and I feel like this is the best way for me to style it. I use the Wavytalk heated brush. I only really separate my hair into like three sections because I'm lazy, but I basically just flip the ends outwards, adding a lot of tension, and I just find that this method for me is much easier than using a blow dry brush. I also make sure to flip the front pieces of my hair inwards instead of outwards, just so that those pieces can frame my face. And now I go ahead and do the top layer. This for me is the most important part and the part where I focus the most on and take the most time, just because I want it to be nice and sleek. For the bangs, I roll away from my face while pulling the brush towards my face, if that makes sense. And that's just been the easiest way for me to get that swoop of the curtain bang. And then I just do one more touch up of the front pieces, and that's pretty much how I style my hair every single time. It gives me that nice bouncy blowout look, and I love it.",
+  "word_count": 169,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.0,
+    "text": "HOW I GET THE BOUNCY BLOWOUT LOOK ON MY SHORT HAIR",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator touches and displays her fully styled, voluminous, bouncy dark short hair.",
+    "action": "Creator moves her hands through her hair showing the final blowout look.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 4.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator drying her damp hair with a dark grey blow dryer.",
+    "action": "Creator runs her fingers through hair while blow drying.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.0,
+    "end_s": 6.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding up the pink Wavytalk thermal heated brush towards the camera with top hair pinned up.",
+    "action": "Creator displays the thermal brush next to her face.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.0,
+    "end_s": 12.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the bottom section of her hair with the Wavytalk thermal brush.",
+    "action": "Creator curls ends outwards using tension with both hands on the heated brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 16.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator unpins another hair layer and section.",
+    "action": "Creator releases hair clip and sets up next section of hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 19.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling the side section outwards using the heated brush.",
+    "action": "Creator rolls the brush outwards near the mid-lengths and ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.5,
+    "end_s": 25.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling front face-framing pieces inwards.",
+    "action": "Creator directs the heated brush inwards towards the face.",
+    "product_visible": true
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 33.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator taking down and styling the top crown section.",
+    "action": "Creator smooths and rolls the top hair with the thermal brush for sleekness.",
+    "product_visible": true
+   },
+   {
+    "start_s": 33.0,
+    "end_s": 41.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling her curtain bangs with the round thermal brush.",
+    "action": "Creator wraps bangs around the brush, rolling away while pulling forward to create a swoop.",
+    "product_visible": true
+   },
+   {
+    "start_s": 41.5,
+    "end_s": 44.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator doing a quick final touch up on front sections.",
+    "action": "Creator spins the thermal brush through front pieces.",
+    "product_visible": true
+   },
+   {
+    "start_s": 44.5,
+    "end_s": 49.38,
+    "shot_type": "medium close-up",
+    "visual": "Creator showing the completed voluminous bouncy hair from the front and side angles, then blowing a kiss.",
+    "action": "Creator fluffs her hair, poses, smiles, and blows a kiss to the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator with perfect bouncy blowout touching her styled short layered hair with text 'HOW I GET THE BOUNCY BLOWOUT LOOK ON MY SHORT HAIR'.",
+   "visual_0_3s": "Finished voluminous blowout shown immediately, followed by quick cut to blow-drying damp hair.",
+   "spoken_0_3s": "This is how I get that bouncy blowout look on my short hair.",
+   "text_0_3s": "HOW I GET THE BOUNCY BLOWOUT LOOK ON MY SHORT HAIR",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Showing the glamorous final result instantly in the first 2 seconds before cutting to damp unstyled hair."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Finished look result hook",
+    "Hair prep / blow dry",
+    "Product introduction (Wavytalk heated brush)",
+    "Step-by-step sectioning and outward curling technique",
+    "Face-framing inward technique",
+    "Crown smoothing technique",
+    "Curtain bang styling trick for the signature swoop",
+    "Final result showcase and sign-off"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "easy_for_beginners",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Creates a bouncy blowout look on short layered hair",
+    "Much easier than using a standard blow dry brush",
+    "Gives effortless curtain bang swoop"
+   ],
+   "pain_points": [
+    "Traditional blow dry brushes can be difficult or clumsy to manipulate",
+    "Styling short layered hair can be tricky to achieve volume without frizz"
+   ],
+   "objections_handled": [
+    "Too complicated / high effort: She explains she is 'lazy' and only separates hair into three easy sections"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional blow dry brush (she notes this method is much easier)"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Heated Round Brush (Blowout Boost)",
+    "Standard Hair Dryer"
+   ],
+   "first_seen_s": 2.0,
+   "first_used_on_hair_s": 2.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Damp/straight dark brown shoulder-length hair with layers",
+   "hair_after": "Voluminous, bouncy, sleek dark brown layered blowout with curtain bangs and flipped ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Casual, friendly, helpful, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle, upbeat background acoustic/lo-fi ambient track underneath clear voiceover",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 10,
+   "avg_shot_length_s": 4.5,
+   "pacing": "medium",
+   "effects": [
+    "text overlay hook",
+    "jump cuts between styling steps"
+   ],
+   "ending": "Creator admires her finished hair from front and profile angles, then blows a kiss to the camera."
+  },
+  "notes": "Ad distributed by WavyTalk reseller targeting Middle East (LB/JO audiences), repurposing high-performing US/global creator UGC demonstrating the Blowout Boost thermal round brush."
+ }
+}

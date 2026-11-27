@@ -1,0 +1,369 @@
+{
+ "media_key": "v_1808402043623718",
+ "analyzed_at": "2026-11-27T23:37:37+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "51c6e9478c1c35b43544f723bef36288e78cf0fc66ac13b1ab38b43ae44d3e27",
+ "source": {
+  "kind": "video",
+  "id": "1808402043623718",
+  "errors": [
+   "1808402043623718: Gave up after 5 retries: https://graph.facebook.com/v26.0/1808402043623718",
+   "1639319711141086: Gave up after 5 retries: https://graph.facebook.com/v26.0/1639319711141086"
+  ],
+  "ig_media_id": "17994947129843527",
+  "permalink": "https://www.instagram.com/p/DeU_7SaMNwC/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 34.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates refreshing day-two hair with the WavyTalk Blowout Boost thermal brush, comparing before and after results.",
+  "full_description": "A young female creator holding a wireless lavalier microphone explains how she refreshes day-two hair without re-washing or re-styling. She introduces the WavyTalk Blowout Boost thermal round brush, demonstrates how quickly it heats up (30 seconds), uses it on dry hair to lift roots and curl ends, displays a direct side-by-side comparison of her unstyled vs styled hair with 'Before' and 'After' text overlays, highlights social proof (over 1.5 million sold in the US), and finishes with an offer for 20% off.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 70,
+    "en": 30,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بدك طريقة هينة to refresh your hair at home؟",
+    "text_english": "Do you want an easy way to refresh your hair at home?"
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 3.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "لازم تجربي this thermal brush.",
+    "text_english": "You have to try this thermal brush."
+   },
+   {
+    "start_s": 3.6,
+    "end_s": 5.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "This is my day two hair من بعد ما كنت عاملة شعري",
+    "text_english": "This is my day two hair after having styled my hair,"
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 7.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بس ما عبالي ارجع اغسله وارجع اعيد الـ styling",
+    "text_english": "but I don't feel like washing it again and redoing the styling,"
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 8.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "even though بده شوية volume.",
+    "text_english": "even though it needs a little volume."
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 11.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أوقات بس بدي شي يرجع الـ volume والـ shape اللي بدن بسرعة",
+    "text_english": "Sometimes I just want something that brings back the volume and shape quickly,"
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 12.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "so that my hair can look fresh.",
+    "text_english": "so that my hair can look fresh."
+   },
+   {
+    "start_s": 12.6,
+    "end_s": 14.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And that's why I use the Wavytalk Blowout Boost.",
+    "text_english": "And that's why I use the Wavytalk Blowout Boost."
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 16.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بتحمى بـ 30 seconds",
+    "text_english": "It heats up in 30 seconds"
+   },
+   {
+    "start_s": 16.2,
+    "end_s": 18.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وبستعملها على شعر 100% ناشف.",
+    "text_english": "and I use it on 100% dry hair."
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 19.8,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "برفع كل خصلة من الجذور",
+    "text_english": "I lift each strand from the roots"
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 22.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "ولما أوصل للطرف بلف ع الـ brush كم ثانية.",
+    "text_english": "and when I reach the end, I wrap it around the brush for a few seconds."
+   },
+   {
+    "start_s": 22.1,
+    "end_s": 25.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "هيك بيرجع الـ lift، الـ bounce، والـ shape لشعري بلا ما عيد كل الـ routine.",
+    "text_english": "This way the lift, bounce, and shape return to my hair without repeating the whole routine."
+   },
+   {
+    "start_s": 25.1,
+    "end_s": 27.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Just look at this before and after.",
+    "text_english": "Just look at this before and after."
+   },
+   {
+    "start_s": 27.2,
+    "end_s": 29.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Over 1.5 million وحدة انباعت بالـ US",
+    "text_english": "Over 1.5 million units were sold in the US,"
+   },
+   {
+    "start_s": 29.1,
+    "end_s": 30.6,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "ولما تشوفوا الفرق رح يكون واضح ليه.",
+    "text_english": "and when you see the difference, it will be clear why."
+   },
+   {
+    "start_s": 30.6,
+    "end_s": 34.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "اطلبي الـ Blowout Boost من Wavytalk اليوم وخدي 20% off لوقت محدود.",
+    "text_english": "Order the Blowout Boost from Wavytalk today and get 20% off for a limited time."
+   }
+  ],
+  "transcript_full_original": "بدك طريقة هينة to refresh your hair at home؟ لازم تجربي this thermal brush. This is my day two hair من بعد ما كنت عاملة شعري بس ما عبالي ارجع اغسله وارجع اعيد الـ styling even though بده شوية volume. أوقات بس بدي شي يرجع الـ volume والـ shape اللي بدن بسرعة so that my hair can look fresh. And that's why I use the Wavytalk Blowout Boost. بتحمى بـ 30 seconds وبستعملها على شعر 100% ناشف. برفع كل خصلة من الجذور ولما أوصل للطرف بلف ع الـ brush كم ثانية. هيك بيرجع الـ lift، الـ bounce، والـ shape لشعري بلا ما عيد كل الـ routine. Just look at this before and after. Over 1.5 million وحدة انباعت بالـ US ولما تشوفوا الفرق رح يكون واضح ليه. اطلبي الـ Blowout Boost من Wavytalk اليوم وخدي 20% off لوقت محدود.",
+  "transcript_full_english": "Do you want an easy way to refresh your hair at home? You have to try this thermal brush. This is my day two hair after having styled my hair, but I don't feel like washing it again and redoing the styling even though it needs a little volume. Sometimes I just want something that brings back the volume and shape quickly so that my hair can look fresh. And that's why I use the Wavytalk Blowout Boost. It heats up in 30 seconds and I use it on 100% dry hair. I lift each strand from the roots and when I reach the end, I wrap it around the brush for a few seconds. This way the lift, bounce, and shape return to my hair without repeating the whole routine. Just look at this before and after. Over 1.5 million units were sold in the US, and when you see the difference, it will be clear why. Order the Blowout Boost from Wavytalk today and get 20% off for a limited time.",
+  "word_count": 126,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 25.1,
+    "end_s": 26.5,
+    "text": "Before",
+    "role": "benefit"
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 27.2,
+    "text": "After",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.6,
+    "shot_type": "medium_shot",
+    "visual": "Creator sits on the floor in her room holding a mini DJI mic and raises the pink WavyTalk Blowout Boost box into frame.",
+    "action": "Creator addresses the camera asking how to refresh hair and introduces the thermal brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.6,
+    "end_s": 12.6,
+    "shot_type": "medium_shot",
+    "visual": "Creator gestures towards her second-day hair, running her hands through her roots and curls.",
+    "action": "Creator explains she doesn't want to wash and restyle her day-two hair from scratch.",
+    "product_visible": false
+   },
+   {
+    "start_s": 12.6,
+    "end_s": 14.5,
+    "shot_type": "medium_close_up",
+    "visual": "Creator shows the front of the WavyTalk Blowout Boost retail box.",
+    "action": "Creator names the tool and displays packaging to camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 16.2,
+    "shot_type": "close_up",
+    "visual": "Creator holds the heated brush, tapping the handle controls to demonstrate the quick 30-second heating.",
+    "action": "Creator indicates the device settings and power button.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.2,
+    "end_s": 18.0,
+    "shot_type": "medium_shot",
+    "visual": "Creator clips top hair and runs the thermal brush through a dry section of hair.",
+    "action": "Creator demonstrates gliding the brush through completely dry hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 19.8,
+    "shot_type": "medium_shot",
+    "visual": "Creator points both index fingers to the roots of her hair.",
+    "action": "Creator explains root lifting technique.",
+    "product_visible": false
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 22.1,
+    "shot_type": "medium_close_up",
+    "visual": "Creator rolls the end of a hair strand into the brush barrel and holds for a few seconds.",
+    "action": "Creator curls the ends of her hair with the thermal brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.1,
+    "end_s": 25.1,
+    "shot_type": "medium_shot",
+    "visual": "Creator speaks into the handheld mic, showing the restored bounce and lift in her hair.",
+    "action": "Creator shows off the refreshed hair result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 25.1,
+    "end_s": 27.2,
+    "shot_type": "medium_shot",
+    "visual": "Creator points to her right side (viewer's left, frizzy flat hair) labeled 'Before', then gestures to her left side (viewer's right, bouncy defined curls) labeled 'After'.",
+    "action": "Creator performs side-by-side comparison of unstyled vs styled hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 27.2,
+    "end_s": 34.0,
+    "shot_type": "medium_close_up",
+    "visual": "Creator holds the thermal brush in one hand and the microphone in the other while talking directly to the camera.",
+    "action": "Creator cites the 1.5 million units sold in the US and delivers the final call to action with a 20% discount offer.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator smiling holding a mini mic in a white T-shirt looking directly at the camera.",
+   "visual_0_3s": "Creator looks at the camera talking into a mini microphone and pulls up the WavyTalk product packaging.",
+   "spoken_0_3s": "بدك طريقة هينة to refresh your hair at home؟ لازم تجربي this thermal brush.",
+   "text_0_3s": "",
+   "hook_type": "question",
+   "hook_type_secondary": "product_reveal",
+   "pattern_interrupt": "Instantly flashing the branded retail box in front of the lens right after posing a relatable day-two hair question."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Relatable problem hook: needing a quick way to refresh day-two hair without washing",
+    "Product introduction: WavyTalk Blowout Boost thermal brush",
+    "Key benefits and specs: heats in 30 seconds, used on 100% dry hair",
+    "Application tutorial: root lift and curling ends",
+    "Direct half-and-half before and after comparison",
+    "Global social proof: 1.5 million sold in the US",
+    "Offer & Call to Action: 20% discount for a limited time"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "social_proof_popularity",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Heats up in 30 seconds",
+    "Use on 100% dry hair to refresh without re-washing",
+    "Restores lift, bounce, and shape quickly",
+    "Over 1.5 million units sold in the US"
+   ],
+   "pain_points": [
+    "Day-two hair losing shape and volume",
+    "Hassle of washing and repeating a full styling routine from scratch"
+   ],
+   "objections_handled": [
+    "Takes too long (heats in 30 seconds, restyles in minutes)",
+    "Having to wet or wash hair (used directly on completely dry hair)"
+   ],
+   "social_proof": [
+    "Over 1.5 million units sold in the US"
+   ],
+   "comparison_to": "Full wash-and-style routine"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 1.5,
+   "first_used_on_hair_s": 16.2,
+   "final_result_shown_s": 22.1,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "20% off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "لوقت محدود (for a limited time)",
+   "cta_spoken": "اطلبي الـ Blowout Boost من Wavytalk اليوم وخدي 20% off لوقت محدود.",
+   "cta_on_screen": "",
+   "cta_at_s": 30.6
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Brunette, wavy/frizzy, day-two flattened volume",
+   "hair_after": "Voluminous, smooth, bouncy blowout waves with defined flipped ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, enthusiastic, and friendly"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "none",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 3.4,
+   "pacing": "fast",
+   "effects": [
+    "On-screen text labels for Before and After"
+   ],
+   "ending": "Creator holds the tool beside her face while finishing the call to action, smiling at camera."
+  },
+  "notes": "Spoken Lebanese Arabic heavily interspersed with natural English hair styling terms (thermal brush, day two hair, styling, volume, refresh, lift, bounce, routine, before and after)."
+ }
+}

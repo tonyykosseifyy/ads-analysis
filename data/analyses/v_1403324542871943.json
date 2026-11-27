@@ -1,0 +1,273 @@
+{
+ "media_key": "v_1403324542871943",
+ "analyzed_at": "2026-11-27T18:44:06+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "e81f623db888487b15e81267e23a093c630e2a8975e17bd452f2ceccebb5e7b7",
+ "source": {
+  "kind": "video",
+  "id": "1403324542871943",
+  "ig_media_id": "17907147402356277",
+  "permalink": "https://www.instagram.com/p/DfhqLgssMm5/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 32.86,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates straightening curly hair with the Wavytalk Steamline Pro steam brush, highlighting its hydrating steam feature and time savings.",
+  "full_description": "A UGC-style demonstration video featuring a young woman with naturally curly, frizzy dark hair straightening her hair using the pink Wavytalk Steamline Pro. A voiceover explains that the brush straightens quickly with a glossy finish, showing the steam nozzles and detachable water tank. The creator sections and brushes her curly hair straight in single passes, showing the contrast between the curly top section and the sleek straightened lengths, concluding by admiring the silky, frizz-free result.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "If you want to straighten your hair quickly and get that silky and glossy finish, this is the tool you need.",
+    "text_english": "If you want to straighten your hair quickly and get that silky and glossy finish, this is the tool you need."
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 7.4,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I'm using Wavytalk's Steamline Pro.",
+    "text_english": "I'm using Wavytalk's Steamline Pro."
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 13.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "This brush deeply hydrates your hair as you're straightening it because it has small nozzles on the side of the brush which release steam,",
+    "text_english": "This brush deeply hydrates your hair as you're straightening it because it has small nozzles on the side of the brush which release steam,"
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 18.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "and you can choose whether you want to use that feature or not. There is a button to turn it on and turn it off, so",
+    "text_english": "and you can choose whether you want to use that feature or not. There is a button to turn it on and turn it off, so"
+   },
+   {
+    "start_s": 18.8,
+    "end_s": 23.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "if you want that smooth and frizz-free finish, definitely don't forget to turn on that button.",
+    "text_english": "if you want that smooth and frizz-free finish, definitely don't forget to turn on that button."
+   },
+   {
+    "start_s": 23.3,
+    "end_s": 29.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Really like how this brush cuts the amount of time and the amount of work that I usually spend straightening my hair, and",
+    "text_english": "Really like how this brush cuts the amount of time and the amount of work that I usually spend straightening my hair, and"
+   },
+   {
+    "start_s": 29.0,
+    "end_s": 32.86,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I love the results. My hair is super smooth, and it feels super silky.",
+    "text_english": "I love the results. My hair is super smooth, and it feels super silky."
+   }
+  ],
+  "transcript_full_original": "If you want to straighten your hair quickly and get that silky and glossy finish, this is the tool you need. I'm using Wavytalk's Steamline Pro. This brush deeply hydrates your hair as you're straightening it because it has small nozzles on the side of the brush which release steam, and you can choose whether you want to use that feature or not. There is a button to turn it on and turn it off, so if you want that smooth and frizz-free finish, definitely don't forget to turn on that button. Really like how this brush cuts the amount of time and the amount of work that I usually spend straightening my hair, and I love the results. My hair is super smooth, and it feels super silky.",
+  "transcript_full_english": "If you want to straighten your hair quickly and get that silky and glossy finish, this is the tool you need. I'm using Wavytalk's Steamline Pro. This brush deeply hydrates your hair as you're straightening it because it has small nozzles on the side of the brush which release steam, and you can choose whether you want to use that feature or not. There is a button to turn it on and turn it off, so if you want that smooth and frizz-free finish, definitely don't forget to turn on that button. Really like how this brush cuts the amount of time and the amount of work that I usually spend straightening my hair, and I love the results. My hair is super smooth, and it feels super silky.",
+  "word_count": 119,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "shot_type": "medium selfie",
+    "visual": "Creator holding the pink steam brush upright in front of her straightened hair.",
+    "action": "Creator poses with one side of hair straightened, holding the product to camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 2.2,
+    "shot_type": "close-up",
+    "visual": "Product close-up showing the brush bristle bed and steam outlet holes.",
+    "action": "Creator tilts the brush towards camera to showcase the bristle design.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 4.5,
+    "shot_type": "medium shot",
+    "visual": "Creator detaching and handling the transparent water reservoir tank at the handle base.",
+    "action": "Creator shows how the water tank inserts into the handle of the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 10.9,
+    "shot_type": "medium shot",
+    "visual": "Creator pulling a strand of curly hair taut and gliding the heated brush down.",
+    "action": "Creator glides the steam brush through a section of hair from root to tip, straightening it in one pass.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 15.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the underside of a section from near the roots.",
+    "action": "Creator runs the brush through the underside of the hair section, watching in the mirror/viewfinder.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 19.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushing another mid-section with the brush backside facing front.",
+    "action": "Creator smoothly glides the brush through another curly hair section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 23.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator repeating the stroke on the side section.",
+    "action": "Creator glides the heated steam brush slowly down the strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.2,
+    "end_s": 25.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushing through the remaining curled front section.",
+    "action": "Creator clamps the hair strand with fingers while gliding brush down.",
+    "product_visible": true
+   },
+   {
+    "start_s": 25.1,
+    "end_s": 26.6,
+    "shot_type": "medium shot",
+    "visual": "Creator unclipping the top section of curly hair to style next.",
+    "action": "Creator unclips hair clip to release more curly hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 26.6,
+    "end_s": 30.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushing through the newly released hair section from roots down.",
+    "action": "Creator straightens the front face-framing curl section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 32.86,
+    "shot_type": "medium selfie",
+    "visual": "Creator with sleek, straightened, shiny hair holding the steam brush up and running fingers through hair.",
+    "action": "Creator touches and displays her smooth straightened hair to camera.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator looking at the camera with sleek straight hair on one side, holding the pink Wavytalk brush.",
+   "visual_0_3s": "Fast showcase of the creator holding the tool and then zooming into the brush head and water chamber.",
+   "spoken_0_3s": "If you want to straighten your hair quickly and get that silky and glossy finish,",
+   "text_0_3s": "",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Quick cut straight to the product bristle view and water tank detachment within the first 2 seconds."
+  },
+  "structure": {
+   "format": "voiceover_broll",
+   "narrative_beats": [
+    "Hook promise: fast straightening with silky, glossy finish",
+    "Product introduction: Wavytalk Steamline Pro",
+    "Feature breakdown: steam nozzles for deep hydration with on/off switch",
+    "Live demonstration: gliding through thick curly sections to turn them straight",
+    "Time/effort benefit: cuts styling time and effort drastically",
+    "Final result showcase: silky, frizz-free, smooth hair"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "saves_time",
+    "easy_for_beginners",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Straightens hair quickly",
+    "Provides silky and glossy finish",
+    "Deeply hydrates hair with steam nozzles",
+    "Steam feature has an independent toggle switch",
+    "Cuts down styling time and physical effort"
+   ],
+   "pain_points": [
+    "Frizzy, unruly curly hair",
+    "Dryness caused by typical straighteners",
+    "Too much time and effort spent straightening hair"
+   ],
+   "objections_handled": [
+    "Steam control: you can easily turn steam on or off via a dedicated button"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steamline Pro"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 4.5,
+   "final_result_shown_s": 30.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Naturally curly/coily, thick, dark brunette frizzy hair",
+   "hair_after": "Silky, smooth, pin-straight glossy hair",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "calm, informative, satisfied"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Soft, upbeat electronic background instrumental track.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 3.65,
+   "pacing": "medium",
+   "effects": [],
+   "ending": "Creator proudly showing off her straight silky hair while holding the styling brush."
+  },
+  "notes": "English voiceover over UGC creator styling video. No burned-in subtitles or text stickers present on screen."
+ }
+}

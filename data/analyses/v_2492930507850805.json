@@ -1,0 +1,303 @@
+{
+ "media_key": "v_2492930507850805",
+ "analyzed_at": "2026-11-27T18:36:53+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "9c01afeae1eae6ef6028a77eff1d9c201e982283cc838e6809cd429b1fc1856c",
+ "source": {
+  "kind": "video",
+  "id": "2492930507850805",
+  "video_id": "1031703896292559",
+  "length_s": 36.036,
+  "permalink": "/23849366283980795/videos/1031703896292559/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 35.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates a thermal blowout brush in real time on her long hair, comparing its salon-level results to $600 styling tools.",
+  "full_description": "A creator with exceptionally long, thick brown hair demonstrates a multi-attachment heated blowout brush directly on camera in real time. She begins by questioning why people spend $600 on expensive hair tools when affordable alternatives exist. She sections her crown hair, wraps it smoothly over and under the round brush attachment to demonstrate the styling technique, and releases it to reveal a voluminous, smooth blowout result with massive bounce. She fluffs her hair with her hands and showcases the final look, praising the quiet, salon-quality outcome.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The fact that people are still spending $600 for a hair tool",
+    "text_english": "The fact that people are still spending $600 for a hair tool"
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 6.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "when tools like this one exist that have multiple attachments.",
+    "text_english": "when tools like this one exist that have multiple attachments."
+   },
+   {
+    "start_s": 6.7,
+    "end_s": 9.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Just wait until you see this final look, it's insane.",
+    "text_english": "Just wait until you see this final look, it's insane."
+   },
+   {
+    "start_s": 9.2,
+    "end_s": 12.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "First I go over the hair like this,",
+    "text_english": "First I go over the hair like this,"
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 14.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and then to finish it off,",
+    "text_english": "and then to finish it off,"
+   },
+   {
+    "start_s": 14.7,
+    "end_s": 18.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I go under and back. And I love to always show tools in real time on here",
+    "text_english": "I go under and back. And I love to always show tools in real time on here"
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 22.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "so you can see the real effects.",
+    "text_english": "so you can see the real effects."
+   },
+   {
+    "start_s": 22.3,
+    "end_s": 27.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I don't know if you're ready for this.",
+    "text_english": "I don't know if you're ready for this."
+   },
+   {
+    "start_s": 27.2,
+    "end_s": 33.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Like, salon quality blowout without the noise of a blow dryer.",
+    "text_english": "Like, salon quality blowout without the noise of a blow dryer."
+   },
+   {
+    "start_s": 33.3,
+    "end_s": 35.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Are we kidding right now? This never fails me.",
+    "text_english": "Are we kidding right now? This never fails me."
+   }
+  ],
+  "transcript_full_original": "The fact that people are still spending $600 for a hair tool when tools like this one exist that have multiple attachments. Just wait until you see this final look, it's insane. First I go over the hair like this, and then to finish it off, I go under and back. And I love to always show tools in real time on here so you can see the real effects. I don't know if you're ready for this. Like, salon quality blowout without the noise of a blow dryer. Are we kidding right now? This never fails me.",
+  "transcript_full_english": "The fact that people are still spending $600 for a hair tool when tools like this one exist that have multiple attachments. Just wait until you see this final look, it's insane. First I go over the hair like this, and then to finish it off, I go under and back. And I love to always show tools in real time on here so you can see the real effects. I don't know if you're ready for this. Like, salon quality blowout without the noise of a blow dryer. Are we kidding right now? This never fails me.",
+  "word_count": 91,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.0,
+    "text": "The fact that people are still spending 600$ for a hair tool",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 6.7,
+    "text": "when tools like this one exist that have multiple attachments.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.7,
+    "end_s": 9.2,
+    "text": "Just wait until you see this final look, it's insane.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.2,
+    "end_s": 12.8,
+    "text": "First I go over the hair like this,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 14.7,
+    "text": "and then to finish it off,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.7,
+    "end_s": 18.0,
+    "text": "I go under and back. And I love to always show tools in real time on here",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 22.3,
+    "text": "so you can see the real effects.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.3,
+    "end_s": 27.2,
+    "text": "I don't know if you're ready for this.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 27.2,
+    "end_s": 33.3,
+    "text": "Like, salon quality blowout without the noise of a blow dryer.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 33.3,
+    "end_s": 35.8,
+    "text": "Are we kidding right now? This never fails me.",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.7,
+    "shot_type": "medium shot",
+    "visual": "Creator sits facing camera holding her crown section of hair and rolling the heated round brush through it.",
+    "action": "Creator begins brushing and rolling her top hair section while calling out expensive $600 hair tools.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.7,
+    "end_s": 20.8,
+    "shot_type": "medium close-up",
+    "visual": "Front view of the creator demonstrating the step-by-step technique in real time.",
+    "action": "She brushes upwards, rolls under and backwards to set crown volume, then holds the brush in place momentarily.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 26.5,
+    "shot_type": "medium shot",
+    "visual": "Creator removes the tool and shakes her head as hair falls smoothly back.",
+    "action": "She releases the hair from the brush and shakes it loose, looking excitedly at the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 35.8,
+    "shot_type": "medium shot",
+    "visual": "Creator runs both hands through her luxurious, voluminous blowout and holds the tool up at the end.",
+    "action": "She fluffs her roots and waves, admires the blowout, and shows the tool directly to the camera.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding her hair straight up while wrapping it around the thermal round brush, with text: 'The fact that people are still spending 600$ for a hair tool'",
+   "visual_0_3s": "Creator styling her top hair section with the heated brush facing forward.",
+   "spoken_0_3s": "The fact that people are still spending $600 for a hair tool",
+   "text_0_3s": "The fact that people are still spending 600$ for a hair tool",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Calling out consumers spending $600 on high-end tools (indirectly referencing Dyson Airwrap) right at the opening frame."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Contrarian opening about high price tags on styling tools",
+    "Promise of an insane final reveal",
+    "Real-time technique demo on the top hair section",
+    "The reveal and hair shake",
+    "Praise for salon quality results and quiet operation"
+   ],
+   "main_angle": "price_value_vs_dyson",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "quiet_or_gentle"
+   ],
+   "key_claims": [
+    "Replaces $600 hair tools",
+    "Features multiple attachments",
+    "Delivers salon quality blowout results without the loud noise of a hair dryer",
+    "Works reliably every time"
+   ],
+   "pain_points": [
+    "Spending $600 on overpriced hair tools",
+    "Loud blow dryer noise during styling",
+    "Difficulty achieving salon-level volume at home"
+   ],
+   "objections_handled": [
+    "Demonstrating in uncut real time to prove there are no hidden tricks or false styling effects"
+   ],
+   "social_proof": [],
+   "comparison_to": "Dyson Airwrap / $600 high-end hair styling tools"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk thermal blowout brush / multi-styler"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 22.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "$600 mentioned as competitor price",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Very long, thick brown hair, mostly smooth but crown section being styled",
+   "hair_after": "Voluminous, glossy blowout with flipped ends and lifted crown",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, candid, and amazed"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No background music; direct spoken creator audio and ambient movement sounds",
+   "captions_burned_in": true,
+   "production_style": "phone_ugc",
+   "cut_count": 0,
+   "avg_shot_length_s": 35.8,
+   "pacing": "medium",
+   "effects": [],
+   "ending": "Creator holds the styling brush beside her face while looking at the camera."
+  },
+  "notes": "Single continuous take in real time demonstrating the tool's effectiveness without video cuts."
+ }
+}

@@ -1,0 +1,185 @@
+{
+ "media_key": "v_742686398901047",
+ "analyzed_at": "2026-11-27T19:16:53+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "365db1cb1d436e0b6d592250878ddff26588b0908a9b9bb85762d02dd650fa23",
+ "source": {
+  "kind": "video",
+  "id": "742686398901047",
+  "errors": [
+   "742686398901047: Gave up after 5 retries: https://graph.facebook.com/v26.0/742686398901047",
+   "2190857858413871: Gave up after 5 retries: https://graph.facebook.com/v26.0/2190857858413871"
+  ],
+  "ig_media_id": "18024965891831660",
+  "permalink": "https://www.instagram.com/p/DY0JhM8DKid/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 26.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A girl demonstrates the reality of getting a 25-minute blowout at home using the WavyTalk Blowout Boost heated round brush.",
+  "full_description": "A creator sits at her vanity showing the transformation of her hair in a 25-minute blowout routine. The video begins with her 'Before' hair, cuts through quick styling clips ('Process') curling and rolling sections using the WavyTalk Blowout Boost thermal round brush, and concludes with voluminous, bouncy salon-style curls ('After') set to pop music.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 26.0,
+    "text": "Reality of a 25min blowout:",
+    "role": "hook"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 3.6,
+    "text": "Before",
+    "role": "benefit"
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 16.5,
+    "text": "Process",
+    "role": "other"
+   },
+   {
+    "start_s": 16.6,
+    "end_s": 26.0,
+    "text": "After",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.6,
+    "shot_type": "medium shot",
+    "visual": "Young creator sitting at a makeup desk in front of a mirror, running hands through her natural, slightly wavy dark hair labeled 'Before'.",
+    "action": "Creator fluffs and shakes her hair to show its unstyled starting condition.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 8.8,
+    "shot_type": "medium shot",
+    "visual": "Creator rolling front and side hair sections around the pink thermal round brush.",
+    "action": "She twists and twirls the brush through her hair to shape blowout waves.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.9,
+    "end_s": 16.5,
+    "shot_type": "medium shot",
+    "visual": "Creator with top hair sectioned in a clip, styling bottom and side layers with the heated round brush.",
+    "action": "She glides the brush down sections and rotates to curl the ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.6,
+    "end_s": 26.0,
+    "shot_type": "medium shot",
+    "visual": "Creator showcasing voluminous, smooth, bouncy blowout results labeled 'After'.",
+    "action": "She runs her fingers through her hair, tosses it over her shoulders, and turns around to reveal the full bounce and shine.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator sitting at her vanity running her hands through her hair with the text overlay 'Reality of a 25min blowout: Before'.",
+   "visual_0_3s": "Creator fluffs her natural hair while looking at the camera/mirror.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Reality of a 25min blowout:\nBefore",
+   "hook_type": "before_after",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Promising a fast 25-minute salon blowout result right in the opening text."
+  },
+  "structure": {
+   "format": "before_after",
+   "narrative_beats": [
+    "Hook: Showing before state with 'Reality of a 25min blowout' headline",
+    "Process: Fast-paced demo showing sectioning and wrapping hair around the thermal brush",
+    "Result: Final bouncy, voluminous salon-quality blowout showcase from all angles"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "saves_time"
+   ],
+   "key_claims": [
+    "Achieve full blowout in 25 minutes",
+    "Creates bouncy, salon-level curls and volume"
+   ],
+   "pain_points": [
+    "Salon blowouts take too long and are expensive",
+    "Traditional round brush and hair dryer technique is difficult"
+   ],
+   "objections_handled": [
+    "Is it fast? Shown taking only 25 minutes",
+    "Does it give enough volume? Proven by bouncy after results"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional salon blow dry"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 3.7,
+   "final_result_shown_s": 16.6,
+   "demo_clarity": "partial",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Brunette, medium-to-long, unstyled with slight natural wave",
+   "hair_after": "Voluminous, shiny blowout curls with bounce and flipped ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat remix featuring the vocal line 'Hey, it's me' transitioning into a rhythmic electronic beat.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 5.2,
+   "pacing": "fast",
+   "effects": [
+    "text overlay",
+    "fast-motion montage cuts"
+   ],
+   "ending": "Creator showing the back and sides of her voluminous finished blowout."
+  },
+  "notes": "Classic UGC aesthetic format without voiceover, relying on visual demonstration, text hooks, and trending audio to drive engagement."
+ }
+}

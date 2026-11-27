@@ -1,0 +1,303 @@
+{
+ "media_key": "v_1868584807183487",
+ "analyzed_at": "2026-11-27T18:44:00+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "86471f6209205cc847b1bfacdbe0666991958f73a43a4c0ab0849449d0111cee",
+ "source": {
+  "kind": "video",
+  "id": "1868584807183487",
+  "video_id": "969055315541814",
+  "length_s": 28.513,
+  "permalink": "/23849366283980795/videos/969055315541814/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 27.6,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demos the pink Wavytalk Turblow Pro hair dryer with a round brush blowout, referencing celebrity stylists like Andrew Fitzsimons and Sabrina Carpenter.",
+  "full_description": "A creator demonstrates how she gets a salon-grade blowout at home using the Wavytalk high-speed ionic hair dryer (Turblow Pro) and a round brush. An automated female voiceover explains that Sabrina Carpenter's and Madonna's stylist (Andrew Fitzsimons) uses this hair dryer line, positioning it as an affordable luxury alternative. The video shows her drying and smoothing sections of her long thick hair with the dryer and concentrator nozzle, ending with a voluminous, glossy final blowout result.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.4,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Sabrina Carpenter's stylist uses this high-speed hair dryer for her iconic blowouts.",
+    "text_english": "Sabrina Carpenter's stylist uses this high-speed hair dryer for her iconic blowouts."
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 8.7,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "My bougie on a budget girls need to know we're finally getting access to luxury brand results that are one tenth of the price.",
+    "text_english": "My bougie on a budget girls need to know we're finally getting access to luxury brand results that are one tenth of the price."
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 13.4,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Even celebrity stylists are recommending Wavytalk's new pro line, like Andrew Fitzsimons has styled Madonna's hair with this.",
+    "text_english": "Even celebrity stylists are recommending Wavytalk's new pro line, like Andrew Fitzsimons has styled Madonna's hair with this."
+   },
+   {
+    "start_s": 13.4,
+    "end_s": 19.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I'm absolutely obsessed with how fast this dries my thick curly hair, but also how smooth and shiny it looks from the negative ions.",
+    "text_english": "I'm absolutely obsessed with how fast this dries my thick curly hair, but also how smooth and shiny it looks from the negative ions."
+   },
+   {
+    "start_s": 19.3,
+    "end_s": 25.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Another perk is that it can't overheat your hair because it uses aircraft turbine engine technology by drying your hair with the powerful airflow and not heat.",
+    "text_english": "Another perk is that it can't overheat your hair because it uses aircraft turbine engine technology by drying your hair with the powerful airflow and not heat."
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 27.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "So you'll be left with a beautiful healthy blowout.",
+    "text_english": "So you'll be left with a beautiful healthy blowout."
+   }
+  ],
+  "transcript_full_original": "Sabrina Carpenter's stylist uses this high-speed hair dryer for her iconic blowouts. My bougie on a budget girls need to know we're finally getting access to luxury brand results that are one tenth of the price. Even celebrity stylists are recommending Wavytalk's new pro line, like Andrew Fitzsimons has styled Madonna's hair with this. I'm absolutely obsessed with how fast this dries my thick curly hair, but also how smooth and shiny it looks from the negative ions. Another perk is that it can't overheat your hair because it uses aircraft turbine engine technology by drying your hair with the powerful airflow and not heat. So you'll be left with a beautiful healthy blowout.",
+  "transcript_full_english": "Sabrina Carpenter's stylist uses this high-speed hair dryer for her iconic blowouts. My bougie on a budget girls need to know we're finally getting access to luxury brand results that are one tenth of the price. Even celebrity stylists are recommending Wavytalk's new pro line, like Andrew Fitzsimons has styled Madonna's hair with this. I'm absolutely obsessed with how fast this dries my thick curly hair, but also how smooth and shiny it looks from the negative ions. Another perk is that it can't overheat your hair because it uses aircraft turbine engine technology by drying your hair with the powerful airflow and not heat. So you'll be left with a beautiful healthy blowout.",
+  "word_count": 105,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.0,
+    "text": "WAVYTALK\nSabrina's Hair Stylist Scott King Recreates Her 'Short N' Sweet Tour' Bouncy Hair",
+    "role": "brand"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 27.6,
+    "text": "Sabrina Carpenters stylist uses this high speed hair dryer for her iconic blowouts... [burned-in captions]",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.4,
+    "shot_type": "medium shot",
+    "visual": "Young woman in bathroom holding the pink Wavytalk Turblow Pro hair dryer and magnetic nozzle with an inset graphic showing Sabrina Carpenter and Wavytalk press mention.",
+    "action": "Creator smiles, shows dryer body and nozzle to camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.4,
+    "end_s": 3.4,
+    "shot_type": "medium shot",
+    "visual": "Creator rough-drying her damp hair with the dryer without nozzle attached.",
+    "action": "Creator waves dryer through top section of damp hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 5.0,
+    "shot_type": "medium shot",
+    "visual": "Creator rough drying lengths of hair.",
+    "action": "Creator continues rough drying with one hand while tossing hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 6.8,
+    "shot_type": "medium shot",
+    "visual": "Creator sectioning off her top hair with clips.",
+    "action": "Creator parts hair into sections for blowout.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 8.7,
+    "shot_type": "close-up",
+    "visual": "Creator clicks the magnetic smoothing concentrator nozzle onto the dryer.",
+    "action": "Creator snaps nozzle into place and smiles.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 11.8,
+    "shot_type": "medium shot",
+    "visual": "Creator styling a front hair section using round barrel brush and hairdryer with nozzle.",
+    "action": "Rolling hair around round brush under concentrated hot airflow.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.8,
+    "end_s": 13.3,
+    "shot_type": "medium shot",
+    "visual": "Creator reveals a smooth, bouncy curl strand from round brush.",
+    "action": "Releases hair strand showing sleek curled end.",
+    "product_visible": false
+   },
+   {
+    "start_s": 13.3,
+    "end_s": 15.0,
+    "shot_type": "medium shot",
+    "visual": "Creator unclips another section from top.",
+    "action": "Unclips and parts another section of hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 16.7,
+    "shot_type": "medium shot",
+    "visual": "Creator blow drying the new section over the round brush.",
+    "action": "Directing airflow onto round brush while rolling down.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.7,
+    "end_s": 18.2,
+    "shot_type": "medium shot",
+    "visual": "Creator sectioning bangs/crown.",
+    "action": "Pins back crown section.",
+    "product_visible": false
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 21.8,
+    "shot_type": "medium shot",
+    "visual": "Creator smoothing hair on round brush with nozzle.",
+    "action": "Running nozzle down hair shaft against round brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.8,
+    "end_s": 25.8,
+    "shot_type": "medium shot",
+    "visual": "Creator displays blowout strand and rolls ends.",
+    "action": "Inspects glossy, smooth strand curled on brush.",
+    "product_visible": false
+   },
+   {
+    "start_s": 25.8,
+    "end_s": 27.6,
+    "shot_type": "medium shot",
+    "visual": "Final blowout look: voluminous, smooth hair with soft curtain bangs and waves.",
+    "action": "Creator fluffs and shakes out finished blowout with both hands smiling.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding pink Wavytalk hair dryer and magnetic nozzle with an on-screen press graphic featuring Sabrina Carpenter.",
+   "visual_0_3s": "Creator presents the dryer while an inset shows celebrity press coverage of Sabrina Carpenter's tour hair.",
+   "spoken_0_3s": "Sabrina Carpenter's stylist uses this high-speed hair dryer for her iconic blowouts.",
+   "text_0_3s": "Sabrina Carpenters stylist uses this high speed hair dryer for her iconic blowouts",
+   "hook_type": "social_proof",
+   "hook_type_secondary": "expert_or_hairdresser",
+   "pattern_interrupt": "Celebrity name-drop (Sabrina Carpenter) combined with immediate product visual and press proof graphic."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Celebrity endorsement hook linking the tool to Sabrina Carpenter and Madonna's stylists",
+    "Value proposition: luxury brand salon performance at one tenth of the price",
+    "Step-by-step blowout demo showing rough dry, magnetic nozzle attachment, and round brush styling",
+    "Feature explanation: ionic shine and aircraft turbine airflow technology protecting hair from extreme heat",
+    "Final transformation reveal showing shiny, bouncy blowout"
+   ],
+   "main_angle": "price_value_vs_dyson",
+   "secondary_angles": [
+    "expert_endorsement",
+    "salon_result_at_home",
+    "less_heat_damage",
+    "saves_time"
+   ],
+   "key_claims": [
+    "Celebrity stylists for Sabrina Carpenter and Madonna use and recommend Wavytalk",
+    "Luxury brand results at 1/10th of the price",
+    "Aircraft turbine engine technology dries with powerful airflow rather than extreme heat",
+    "Negative ions deliver smooth and shiny results without overheating"
+   ],
+   "pain_points": [
+    "Expensive luxury high-speed hair dryers",
+    "Heat damage from traditional high-heat dryers",
+    "Thick curly hair taking too long to dry and style"
+   ],
+   "objections_handled": [
+    "Affordable dryers lack power (handled by referencing aircraft turbine airflow and celebrity stylists)",
+    "High heat causes damage (handled by explaining airflow-driven drying and ion technology)"
+   ],
+   "social_proof": [
+    "Sabrina Carpenter stylist Scott King mention",
+    "Celebrity stylist Andrew Fitzsimons (Madonna) endorsement"
+   ],
+   "comparison_to": "Luxury brand high-speed dryers (e.g. Dyson Supersonic at 10x the price)"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Turblow Pro High Speed Hair Dryer (Pink)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 1.4,
+   "final_result_shown_s": 25.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Luxury brand results at 1/10th of the price",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Damp/rough long wavy brunette hair with bangs",
+   "hair_after": "Smooth, voluminous, glossy blowout with soft curled ends",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, informative, relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle upbeat instrumental pop background music underneath the synthetic female voiceover",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 12,
+   "avg_shot_length_s": 2.3,
+   "pacing": "fast",
+   "effects": [
+    "Burned-in word-by-word subtitles",
+    "Picture-in-picture image overlay of press article with Sabrina Carpenter"
+   ],
+   "ending": "Final pose fluffing full, styled blowout hair to camera"
+  },
+  "notes": "TikTok automated female voiceover used over edited user-generated tutorial footage. Emphasizes celebrity social proof to anchor prestige positioning at a fraction of high-end salon tool prices."
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "media_key": "v_4476287255961174",
+ "analyzed_at": "2026-11-27T21:58:27+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "bf20600548e034b0bf421c839d90293c3717f72bee208d960e0e0035bd508b9b",
+ "source": {
+  "kind": "video",
+  "id": "4476287255961174",
+  "errors": [
+   "4476287255961174: Gave up after 5 retries: https://graph.facebook.com/v26.0/4476287255961174"
+  ],
+  "video_id": "1776652676908228",
+  "length_s": 8.2,
+  "permalink": "/23849366283980795/videos/1776652676908228/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 7.1,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator dramatically reacts to missing a sale on her pink Wavytalk hair waver while styling her wavy hair.",
+  "full_description": "A young woman with styled long, dark mermaid waves looks at the camera while clamping a section of hair into a pink Wavytalk Power Wave deep waver tool. An on-screen text overlay uses a relatable TikTok meme format stating that nobody should talk to her because the Wavytalk iron just went on sale after she paid full price four days prior. She gazes wistfully to the side while holding the clamped tool, set to a trending melancholic vocal sound.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 7.1,
+    "text": "no one talks to me...\ni just saw the Wavytalk flat iron went on sale today when i paid full price for it 4 days ago 💔💔",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 7.1,
+    "shot_type": "medium close-up",
+    "visual": "A young woman with long deep wavy hair holds a pink Wavytalk Power Wave crimping tool in her room.",
+    "action": "She inserts a hair strand into the barrels, clamps down, looks solemnly to the camera, and then gazes off to the side in mock sadness.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing the camera holding a pink Wavytalk deep waver to her hair with text announcing an unmissable sale.",
+   "visual_0_3s": "Creator inserting her wavy hair into the pink waver tool while looking directly at the viewer.",
+   "spoken_0_3s": "",
+   "text_0_3s": "no one talks to me... i just saw the Wavytalk flat iron went on sale today when i paid full price for it 4 days ago 💔💔",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Relatable meme-style text framing a discount as personal heartbreak to trigger viewer curiosity and FOMO."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Relatable hook expressing sadness over buying at full price right before a discount",
+    "Silent product showcase highlighting gorgeous wavy results while clamping the tool"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "price_value_vs_dyson"
+   ],
+   "key_claims": [
+    "The Wavytalk styling tool is currently on sale"
+   ],
+   "pain_points": [
+    "Paying full price right before an unexpected discount"
+   ],
+   "objections_handled": [
+    "Price and affordability barrier"
+   ],
+   "social_proof": [
+    "Viral UGC TikTok trend format"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Power Wave"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "Current sale / discount on Wavytalk tool",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "went on sale today",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, dark brown mermaid waves",
+   "hair_after": "Long, dark brown mermaid waves",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "dramatic, relatable, deadpan comedic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Melancholic, slow ethereal female vocal choir humming trending sound",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 0,
+   "avg_shot_length_s": 7.1,
+   "pacing": "slow",
+   "effects": [
+    "burned-in text overlay"
+   ],
+   "ending": "Creator slowly gazes off to the side with a sad expression while clamping the waver."
+  },
+  "notes": "Although the text caption references 'flat iron', the creator is demonstrating the Wavytalk Power Wave (deep wave / hair crimper). This is a widely used viral organic hook adapted as an ad creative to drive impulse sales via FOMO."
+ }
+}

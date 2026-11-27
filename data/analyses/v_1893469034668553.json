@@ -1,0 +1,219 @@
+{
+ "media_key": "v_1893469034668553",
+ "analyzed_at": "2026-11-27T18:36:28+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "e513ec0d2370915eb91a35ce058e0351d6c3dbd48fb49c2dbf9f9ab9a7d5666d",
+ "source": {
+  "kind": "video",
+  "id": "1893469034668553",
+  "video_id": "2078745429343396",
+  "length_s": 16.74,
+  "permalink": "/23849366283980795/videos/2078745429343396/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 16.63,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator announces the restock and a 15% discount on the viral WavyTalk Blowout Boost thermal brush.",
+  "full_description": "A young woman sits in a room facing the camera, holding the pink WavyTalk Blowout Boost thermal round brush. She enthusiastically announces that the product sold out for the second time, but is now restocked with a 15% discount. She highlights how viral the tool went, praising the beautiful blowout and volume it creates, how easy it is to use, and how gentle/healthy it is on hair, concluding with a call to order now from WavyTalk.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 55,
+    "en": 45,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It sold out for the second time",
+    "text_english": "It sold out for the second time"
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 4.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بس هلا عملنالو restock وعليه 15% off",
+    "text_english": "but now we restocked it and it has 15% off"
+   },
+   {
+    "start_s": 4.6,
+    "end_s": 7.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "كلكم صرتوا تعرفوا الـ Blowout Boost من عند Wavytalk, it went viral",
+    "text_english": "You all now know the Blowout Boost from Wavytalk, it went viral"
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 9.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "قديه بيعمل blowout حلوين",
+    "text_english": "how nice of a blowout it makes"
+   },
+   {
+    "start_s": 9.1,
+    "end_s": 10.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "قديه بيعمل volume حلو",
+    "text_english": "how nice volume it creates"
+   },
+   {
+    "start_s": 10.8,
+    "end_s": 13.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "قديه هين وقديه healthy للشعر",
+    "text_english": "how easy it is and how healthy it is for hair"
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 16.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "فـ get yours now من عند Wavytalk مع 15% off.",
+    "text_english": "so get yours now from Wavytalk with 15% off."
+   }
+  ],
+  "transcript_full_original": "It sold out for the second time, بس هلا عملنالو restock وعليه 15% off. كلكم صرتوا تعرفوا الـ Blowout Boost من عند Wavytalk, it went viral. قديه بيعمل blowout حلوين، قديه بيعمل volume حلو، قديه هين وقديه healthy للشعر. فـ get yours now من عند Wavytalk مع 15% off.",
+  "transcript_full_english": "It sold out for the second time, but now we restocked it and it has 15% off. You all now know the Blowout Boost from Wavytalk, it went viral. How nice of a blowout it makes, how nice volume it creates, how easy it is and how healthy it is for hair. So get yours now from Wavytalk with 15% off.",
+  "word_count": 44,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator sitting in a gaming chair holding up the pink WavyTalk Blowout Boost thermal round brush, gesturing with two fingers for 'second time'.",
+    "action": "Creator talks directly to camera announcing the sell-out and restock with 15% discount.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.6,
+    "end_s": 12.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator continuing talking head presentation, turning the tool slightly and gesturing to her hair.",
+    "action": "Creator explains how viral it went, praising the blowout, volume, ease of use, and gentle effect on hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.9,
+    "end_s": 16.63,
+    "shot_type": "medium close-up",
+    "visual": "Creator shaking the brush lightly in hand and gesturing toward the viewer.",
+    "action": "Creator delivers closing call to action to get it now from WavyTalk with 15% off.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Young woman seated holding the pink WavyTalk thermal brush in front of her chest.",
+   "visual_0_3s": "Creator looks at camera, holds the brush, and flashes two fingers to signify sold out twice.",
+   "spoken_0_3s": "It sold out for the second time, بس هلا عملنالو restock",
+   "text_0_3s": "",
+   "hook_type": "social_proof",
+   "hook_type_secondary": "offer_or_price",
+   "pattern_interrupt": "Immediate strong scarcity/popularity hook stating the product sold out for the second time."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Scarcity & popularity hook (sold out twice)",
+    "Urgency & incentive announcement (restocked now with 15% off)",
+    "Social proof reminder (viral on social media)",
+    "Core product benefits recap (salon blowout, volume, easy, healthy/less damage)",
+    "Direct call to action (order yours now with discount)"
+   ],
+   "main_angle": "social_proof_popularity",
+   "secondary_angles": [
+    "offer_discount_urgency",
+    "volume_and_bounce",
+    "easy_for_beginners",
+    "less_heat_damage"
+   ],
+   "key_claims": [
+    "Sold out twice already",
+    "Went viral on social media",
+    "Gives beautiful blowout and great volume",
+    "Very easy to use",
+    "Healthy and gentle on hair",
+    "Currently 15% off"
+   ],
+   "pain_points": [
+    "Missing out when trending products sell out",
+    "Difficult blowout styling at home",
+    "Heat damage from styling tools"
+   ],
+   "objections_handled": [
+    "Availability/stock issues handled by announcing the new restock",
+    "Difficulty handled by emphasizing how easy it is",
+    "Damage handled by stating it is healthy for hair"
+   ],
+   "social_proof": [
+    "Mention that it sold out twice",
+    "Mention that it went viral and everyone knows it"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "15% off restock sale",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Restocked after selling out twice; buy before it sells out again",
+   "cta_spoken": "get yours now من عند Wavytalk مع 15% off",
+   "cta_on_screen": "",
+   "cta_at_s": 13.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, dark brown, straight/styled hair",
+   "hair_after": "Long, dark brown, straight/styled hair",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, authentic, persuasive"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "none",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 2,
+   "avg_shot_length_s": 5.54,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Direct verbal CTA to order with a discount."
+  },
+  "notes": "Announcement / retargeting style UGC video relying on FOMO, viral social proof, and a restock discount promotion without an on-screen hair demonstration."
+ }
+}

@@ -1,0 +1,193 @@
+{
+ "media_key": "v_2011245329430133",
+ "analyzed_at": "2026-11-27T19:17:32+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "63bc074fbc5a0a5a5cb122cef6b4681e041aecbde4c7cd19e2bd15b623d1a5aa",
+ "source": {
+  "kind": "video",
+  "id": "2011245329430133",
+  "errors": [
+   "2011245329430133: Gave up after 5 retries: https://graph.facebook.com/v26.0/2011245329430133",
+   "1494382672062605: Gave up after 5 retries: https://graph.facebook.com/v26.0/1494382672062605"
+  ],
+  "ig_media_id": "18129651322583831",
+  "permalink": "https://www.instagram.com/p/DYSK0eKjO1I/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 26.68,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A young woman demonstrates her wavy hair routine using the WavyTalk thermal heated round brush set to upbeat music.",
+  "full_description": "The creator opens by showing off her voluminous wavy hair while holding the pink WavyTalk thermal round brush across her face. She then demonstrates wrapping and curling sections of her hair around the barrel, styles her front curtain bangs back, displays a close-up of the tool's barrel and LCD heat screen, and completes the video by shaking out her voluminous blowout and turning around to display the back.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 26.68,
+    "text": "wavy hair routine with ✨WAVYTALK✨",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the pink WavyTalk thermal brush horizontally over her eyes and smiling with styled bouncy waves.",
+    "action": "Creator lowers the brush, shakes her hair, and poses playfully.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.5,
+    "end_s": 8.2,
+    "shot_type": "close-up",
+    "visual": "Creator curling a mid-section of her hair.",
+    "action": "Wraps a strand around the heated round brush, holds it briefly, and rolls it down smoothly to release a bouncy curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.2,
+    "end_s": 11.2,
+    "shot_type": "medium shot",
+    "visual": "Creator admiring the freshly formed curl.",
+    "action": "Inspects the wave, fluffs her hair, and smiles at the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 15.6,
+    "shot_type": "close-up",
+    "visual": "Creator curling another section of hair on the opposite side.",
+    "action": "Spins the heated brush through the hair strand to build shape and curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 19.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling her top curtain bangs / front layer.",
+    "action": "Places the brush under the roots and rolls backwards to create lift and volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.4,
+    "end_s": 20.6,
+    "shot_type": "extreme close-up",
+    "visual": "Product close-up of the WavyTalk heated round brush.",
+    "action": "Shows the bristle barrel and the illuminated digital LCD temperature display.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.6,
+    "end_s": 23.5,
+    "shot_type": "medium shot",
+    "visual": "Finished hairstyle showcase.",
+    "action": "Creator shakes out her voluminous waves with both hands and smiles directly at the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 26.68,
+    "shot_type": "medium shot",
+    "visual": "Back view and final pose.",
+    "action": "Creator turns around to show the defined waves from behind, then turns back to front holding the brush up.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink WavyTalk thermal brush across her face, showcasing bouncy brunette curls.",
+   "visual_0_3s": "Creator removes the tool from her face, showcasing voluminous bouncy waves and smiling.",
+   "spoken_0_3s": "",
+   "text_0_3s": "wavy hair routine with ✨WAVYTALK✨",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Instant visual showcase of salon-quality voluminous waves with high-energy music."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Initial hook revealing full bouncy blowout result",
+    "Demonstration of wrapping and curling hair with the thermal brush",
+    "Root lift and bang styling technique",
+    "Close-up of the device and temperature screen",
+    "Final 360-degree reveal of hair volume and shine"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Effortless wavy hair routine with WavyTalk heated round brush"
+   ],
+   "pain_points": [],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Thermal Heated Round Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 3.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, brunette layered wavy hair",
+   "hair_after": "Voluminous, shiny, bouncy salon-style waves",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "playful, confident, trendy"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Energetic pop electronic track with female vocals ('Coming closer, now that I'm in this... tangled up in wires...').",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 3.3,
+   "pacing": "medium",
+   "effects": [
+    "beat-synced cuts"
+   ],
+   "ending": "Creator completes a 360 turn showing the back of her hair and turns back to face the camera holding the tool."
+  },
+  "notes": "Silent aesthetic UGC demo targeting social media users looking for quick bouncy blowout results using a thermal heated round brush."
+ }
+}

@@ -1,0 +1,355 @@
+{
+ "media_key": "v_1683649776457546",
+ "analyzed_at": "2026-11-27T21:43:46+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "48d2f066baac3c714bb9fb7f16bd80cfd743fbf132e5df0b3817ec97d0346512",
+ "source": {
+  "kind": "video",
+  "id": "1683649776457546",
+  "errors": [
+   "1683649776457546: Gave up after 5 retries: https://graph.facebook.com/v26.0/1683649776457546",
+   "1940190117355181: Gave up after 5 retries: https://graph.facebook.com/v26.0/1940190117355181"
+  ],
+  "ig_media_id": "18392777149201535",
+  "permalink": "https://www.instagram.com/p/DfLKPWPMD5a/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 49.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demos the Wavytalk Power Wave Coachella bundle, styling her hair into Hailey Bieber-inspired festival waves in under 10 minutes.",
+  "full_description": "A creator showcases an instant hair transformation using the Wavytalk Power Wave styling tool from the limited Main Stage Waves Coachella Bundle. She demonstrates setting the temperature to 360 degrees, styling sections until the automatic timer beeps, unboxing the bundle accessories including the Smooth Barrier heat protectant and festival merch, and shows a before-and-after split comparison of her straight hair versus voluminous wavy hair.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0.0,
+    "en": 100.0,
+    "fr": 0.0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at that instant transformation.",
+    "text_english": "Look at that instant transformation."
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 9.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm setting my Wavytalk Power Wave for 360° for about 6 seconds to get the high impact, spotlight-ready texture.",
+    "text_english": "I'm setting my Wavytalk Power Wave for 360° for about 6 seconds to get the high impact, spotlight-ready texture."
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 12.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You will hear a beep during styling to let you know that the section is done.",
+    "text_english": "You will hear a beep during styling to let you know that the section is done."
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 15.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's so easy to use and look how shiny it is.",
+    "text_english": "It's so easy to use and look how shiny it is."
+   },
+   {
+    "start_s": 15.1,
+    "end_s": 18.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Wavytalk is the official hair tools partner of Coachella this year.",
+    "text_english": "Wavytalk is the official hair tools partner of Coachella this year."
+   },
+   {
+    "start_s": 18.7,
+    "end_s": 22.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And this limited Coachella bundle has everything that I need for the desert.",
+    "text_english": "And this limited Coachella bundle has everything that I need for the desert."
+   },
+   {
+    "start_s": 22.3,
+    "end_s": 27.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm testing this out before I actually head to the festival because I want to make sure that my hair can take the stage.",
+    "text_english": "I'm testing this out before I actually head to the festival because I want to make sure that my hair can take the stage."
+   },
+   {
+    "start_s": 27.5,
+    "end_s": 32.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm going for a voluminous texture wave today that stays perfect all day.",
+    "text_english": "I'm going for a voluminous texture wave today that stays perfect all day."
+   },
+   {
+    "start_s": 32.0,
+    "end_s": 34.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is my inspiration, the famous Hailey Bieber waves.",
+    "text_english": "This is my inspiration, the famous Hailey Bieber waves."
+   },
+   {
+    "start_s": 34.8,
+    "end_s": 36.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This heat protectant smells so good.",
+    "text_english": "This heat protectant smells so good."
+   },
+   {
+    "start_s": 36.8,
+    "end_s": 41.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Here's my before and after. It was so easy to use and it took me less than 10 minutes.",
+    "text_english": "Here's my before and after. It was so easy to use and it took me less than 10 minutes."
+   },
+   {
+    "start_s": 44.0,
+    "end_s": 48.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "With Wavytalk, I'm so ready for the desert. See you guys at Coachella, bye!",
+    "text_english": "With Wavytalk, I'm so ready for the desert. See you guys at Coachella, bye!"
+   }
+  ],
+  "transcript_full_original": "Look at that instant transformation. I'm setting my Wavytalk Power Wave for 360° for about 6 seconds to get the high impact, spotlight-ready texture. You will hear a beep during styling to let you know that the section is done. It's so easy to use and look how shiny it is. Wavytalk is the official hair tools partner of Coachella this year. And this limited Coachella bundle has everything that I need for the desert. I'm testing this out before I actually head to the festival because I want to make sure that my hair can take the stage. I'm going for a voluminous texture wave today that stays perfect all day. This is my inspiration, the famous Hailey Bieber waves. This heat protectant smells so good. Here's my before and after. It was so easy to use and it took me less than 10 minutes. With Wavytalk, I'm so ready for the desert. See you guys at Coachella, bye!",
+  "transcript_full_english": "Look at that instant transformation. I'm setting my Wavytalk Power Wave for 360° for about 6 seconds to get the high impact, spotlight-ready texture. You will hear a beep during styling to let you know that the section is done. It's so easy to use and look how shiny it is. Wavytalk is the official hair tools partner of Coachella this year. And this limited Coachella bundle has everything that I need for the desert. I'm testing this out before I actually head to the festival because I want to make sure that my hair can take the stage. I'm going for a voluminous texture wave today that stays perfect all day. This is my inspiration, the famous Hailey Bieber waves. This heat protectant smells so good. Here's my before and after. It was so easy to use and it took me less than 10 minutes. With Wavytalk, I'm so ready for the desert. See you guys at Coachella, bye!",
+  "word_count": 149,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 2.5,
+    "end_s": 5.5,
+    "text": "WAVYTALK",
+    "role": "brand"
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 17.5,
+    "text": "WAVYTALK Main Stage Waves Bundle",
+    "role": "brand"
+   },
+   {
+    "start_s": 19.5,
+    "end_s": 21.0,
+    "text": "WAVYTALK Smooth Barrier Heat Protectant Spray",
+    "role": "brand"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator winks at the camera with straight dark hair, cuts instantly to finished wavy hair.",
+    "action": "Creator winks, followed by snap transition revealing bouncy textured waves.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 5.5,
+    "shot_type": "close-up",
+    "visual": "Creator holds up the peach/orange Wavytalk Power Wave iron displaying the digital temperature readout.",
+    "action": "Points at the digital display screen showing 360°.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 12.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator clamping a hair section inside the Power Wave curler.",
+    "action": "Demonstrates inserting a strand into the waver until it beeps and releases a distinct deep wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 14.5,
+    "shot_type": "close-up",
+    "visual": "Extreme close-up of creator's wavy hair texture.",
+    "action": "Touches shiny defined wave beside her cheek while showing an impressed facial expression.",
+    "product_visible": false
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 17.5,
+    "shot_type": "medium shot",
+    "visual": "Creator holds the pink Main Stage Waves Coachella bundle box, then opens it to reveal contents.",
+    "action": "Displays boxed set containing tool, heat protectant, clips, and accessories.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 22.0,
+    "shot_type": "close-up b-roll",
+    "visual": "Showcase of bundled merchandise: miniature waver keychain, Smooth Barrier spray, and festival scarf.",
+    "action": "Creator holds up each merch item in front of camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 32.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the Power Wave tool talking directly to camera.",
+    "action": "Explains testing the tool for Coachella festival durability.",
+    "product_visible": true
+   },
+   {
+    "start_s": 32.0,
+    "end_s": 34.5,
+    "shot_type": "split-screen / green screen overlay",
+    "visual": "Photo of Hailey Bieber with wavy hair in background with creator in foreground picture-in-picture.",
+    "action": "Creator points behind her to Hailey Bieber reference image.",
+    "product_visible": false
+   },
+   {
+    "start_s": 34.5,
+    "end_s": 36.8,
+    "shot_type": "close-up",
+    "visual": "Creator holding and spraying Smooth Barrier heat protectant.",
+    "action": "Sprays heat protectant evenly across a strand of straight hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 36.8,
+    "end_s": 39.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator shows split hairstyle: left side naturally straight, right side waved.",
+    "action": "Smiles and points at the side-by-side contrast.",
+    "product_visible": false
+   },
+   {
+    "start_s": 39.0,
+    "end_s": 43.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator continuing to style remaining sections with the Power Wave.",
+    "action": "Clamps iron down hair lengths from multiple angles.",
+    "product_visible": true
+   },
+   {
+    "start_s": 43.8,
+    "end_s": 49.0,
+    "shot_type": "medium shot",
+    "visual": "Creator turning around to display full back view of hair, then turning back to camera smiling.",
+    "action": "Rakes fingers through waves, turns to show hair volume and shine, waves goodbye and exits frame.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera with straight hair and winking.",
+   "visual_0_3s": "Snap transition from straight hair to fully styled voluminous waves.",
+   "spoken_0_3s": "Look at that instant transformation.",
+   "text_0_3s": "",
+   "hook_type": "before_after",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Rapid jump cut from straight hair wink to fully styled wavy hair in under two seconds."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Instant transformation hook",
+    "Tool demonstration and temperature setting feature",
+    "Unboxing Coachella partner limited edition bundle",
+    "Inspiration source reveal (Hailey Bieber waves)",
+    "Heat protectant application and side-by-side comparison",
+    "Speed claim (under 10 minutes)",
+    "Final voluminous result show-off and sign-off"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "volume_and_bounce",
+    "social_proof_popularity"
+   ],
+   "key_claims": [
+    "Instant transformation",
+    "Timer beep indicates when section is finished",
+    "Full hair styled in less than 10 minutes",
+    "Official hair tools partner of Coachella"
+   ],
+   "pain_points": [
+    "Waving hair takes too long",
+    "Festival hair falling flat in desert heat",
+    "Not knowing how long to hold the heat on each section"
+   ],
+   "objections_handled": [
+    "Built-in beep prevents over-heating or guessing timing",
+    "Smooth barrier heat protectant prevents heat damage"
+   ],
+   "social_proof": [
+    "Official hair tools partner of Coachella",
+    "Hailey Bieber trending celebrity hairstyle inspiration"
+   ],
+   "comparison_to": "Naturally straight, flat hair"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Power Wave",
+    "Wavytalk Smooth Barrier Heat Protectant Spray",
+    "Wavytalk Main Stage Waves Bundle"
+   ],
+   "first_seen_s": 2.5,
+   "first_used_on_hair_s": 5.5,
+   "final_result_shown_s": 1.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Limited edition Main Stage Waves Coachella Bundle with accessories",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Limited Coachella bundle",
+   "cta_spoken": "See you guys at Coachella, bye!",
+   "cta_on_screen": "",
+   "cta_at_s": 47.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Long, dark brown, straight, fine texture",
+   "hair_after": "Voluminous, shiny, defined textured waves (Hailey Bieber style)",
+   "setting": "indoor_neutral",
+   "faces_camera": true,
+   "energy_tone": "vibrant, upbeat, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Upbeat, light energetic pop instrumental background track",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 3.5,
+   "pacing": "fast",
+   "effects": [
+    "jump cut",
+    "green screen photo overlay"
+   ],
+   "ending": "Creator turns back around, smiles, waves at the camera, and walks out of frame."
+  },
+  "notes": "Coachella partnership promotional UGC ad showing the Power Wave bundle and styling demo."
+ }
+}

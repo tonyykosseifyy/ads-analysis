@@ -1,0 +1,18 @@
+{
+ "language": "en",
+ "main_angle": "less_heat_damage",
+ "secondary_angles": [
+  "social_proof_popularity",
+  "salon_result_at_home",
+  "quiet_or_gentle",
+  "offer_discount_urgency"
+ ],
+ "opening_line": "This is Danielle. And this is what happens when you finally stop using the wrong tools on your hair.",
+ "opening_style": "story",
+ "mentions_offer": true,
+ "offer": "30-day return policy — 15% off now, while stock lasts",
+ "social_proof": "Over 80 million people have watched her use it. 1.5M sold worldwide.",
+ "cta": "Try it risk-free with our 30-day return policy — 15% off now, while stock lasts. ❤️",
+ "tone": "enthusiastic, testimonial, persuasive",
+ "variation_count": 7
+}

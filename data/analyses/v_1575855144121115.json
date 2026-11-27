@@ -1,0 +1,162 @@
+{
+ "media_key": "v_1575855144121115",
+ "analyzed_at": "2026-11-27T19:49:08+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "51c2021709982ccc6af42556d80e2f04328b61b293f3cb824925eb9287c697ea",
+ "source": {
+  "kind": "video",
+  "id": "1575855144121115",
+  "video_id": "2606702269780521",
+  "length_s": 14.133,
+  "permalink": "/23849366283980795/videos/2606702269780521/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 13.4,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates styling her face-framing layers with a pink thermal round brush for a quick 10-minute bouncy blowout.",
+  "full_description": "A creator stands in a bathroom filming herself using a pink thermal styling brush on her long, highlighted layered hair. She curls and releases her bangs and side layers, then fluffs and checks her voluminous blowout in the camera, holding up the tool while a trending pop song plays.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 13.4,
+    "text": "If you want a blowout look in just 10 minutes...\nYou NEED a thermal brush",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.2,
+    "shot_type": "medium close-up",
+    "visual": "Young woman in a bathroom facing mirror/camera with long blonde/brown highlighted hair, curling her center bangs over a pink thermal brush.",
+    "action": "Creator rolls the thermal brush through her bangs, releases it forward, and lets the curl fall into place.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 4.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator admiring the front bangs volume.",
+    "action": "Creator fluffs her front layers with her fingers to blend them into the voluminous blowout.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 7.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling the side layers.",
+    "action": "Creator rolls the thermal brush into the right side layers, holds briefly, and spins it out to create a flicked bounce.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 13.4,
+    "shot_type": "medium close-up",
+    "visual": "Finished voluminous hair with dramatic bounce and layers.",
+    "action": "Creator runs fingers through hair, shakes out the voluminous curls, holds the pink thermal brush up next to her face, and smiles.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator rolling her front fringe on a pink thermal brush while looking into the lens.",
+   "visual_0_3s": "Creator unwinding her bangs from the thermal brush to reveal smooth, lifted hair.",
+   "spoken_0_3s": "",
+   "text_0_3s": "If you want a blowout look in just 10 minutes... You NEED a thermal brush",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Immediate visual of perfectly curled hair unwinding from a heated round brush paired with a high-promise time claim."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Hook text claiming a 10-minute blowout solution",
+    "Quick demo of styling bangs and face-framing layers with the brush",
+    "Showing the final bouncy, voluminous result",
+    "Hero pose with the product"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Achieve a salon blowout look in just 10 minutes with a thermal brush"
+   ],
+   "pain_points": [
+    "Blowouts taking too long or requiring complex hair dryer and round brush coordination"
+   ],
+   "objections_handled": [
+    "Fast and achievable in just 10 minutes"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 3.2,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-28",
+   "hair_before": "Caramel blonde highlighted layered hair, already largely blown out and styled",
+   "hair_after": "Voluminous, bouncy 90s blowout with flipped face-framing curtain bangs",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "effortless, aesthetic, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Melancholic modern pop/indie female vocal track ('The man that I love sat me down last night and he told me that it's over...').",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 3,
+   "avg_shot_length_s": 3.35,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator flips hair and holds up the thermal brush while posing towards the camera."
+  },
+  "notes": "Silent aesthetic UGC demonstration set to trending music. Product is the baby pink thermal round brush (WavyTalk Blowout Boost)."
+ }
+}

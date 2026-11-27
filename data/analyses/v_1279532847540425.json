@@ -1,0 +1,178 @@
+{
+ "media_key": "v_1279532847540425",
+ "analyzed_at": "2026-11-27T22:15:14+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "160c9018479885a6562e5f0e1150d2ffff5d2ab72965fedeb3861f6c4c227a2f",
+ "source": {
+  "kind": "video",
+  "id": "1279532847540425",
+  "errors": [
+   "1279532847540425: Gave up after 5 retries: https://graph.facebook.com/v26.0/1279532847540425",
+   "1414856164115360: Gave up after 5 retries: https://graph.facebook.com/v26.0/1414856164115360"
+  ],
+  "ig_media_id": "18138249031612388",
+  "permalink": "https://www.instagram.com/p/Dc4Jqpss3vX/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 36.6,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Silent UGC demo showing a creator styling her blonde hair into a voluminous blowout using the Wavytalk thermal brush.",
+  "full_description": "A blonde creator demonstrates how to achieve a bouncy blowout look using the Wavytalk Blowout Boost thermal round brush. She first presents the heated brush displaying the digital temperature readout, then curls different sections of her layered blonde hair by wrapping and rolling the brush through the strands and ends. The video finishes with her proudly showing off the voluminous, smooth salon blowout results to a trending dance track.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.8,
+    "text": "How to get the \"blowout\" hairstyle",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator sits in front of the camera holding the pink Wavytalk thermal round brush up to display the digital display.",
+    "action": "Showing the tool and on-screen text tutorial prompt.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 4.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator wraps a top face-framing section of her hair around the barrel of the heated round brush.",
+    "action": "Twisting and rolling the hair backwards away from the face.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 15.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator takes a side strand and rolls it around the thermal brush.",
+    "action": "Twirling the brush through the section to create soft curved layers.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 22.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator runs the brush horizontally beneath the hair length to smooth and curl the ends inward.",
+    "action": "Brushing through the hair horizontally and beveling the ends inward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 30.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator rolls the bottom section upwards around the brush barrel.",
+    "action": "Holding the ends rolled in the barrel for several seconds and releasing with bounce.",
+    "product_visible": true
+   },
+   {
+    "start_s": 30.0,
+    "end_s": 36.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator without the tool, showing off the full bouncy blowout hairstyle.",
+    "action": "Shaking hair, running fingers through the layers, posing and smiling at the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Blonde woman holding a pink thermal round brush toward the camera with the text overlay 'How to get the \"blowout\" hairstyle'.",
+   "visual_0_3s": "Creator presents the thermal brush to camera and begins rolling a top section of hair around the barrel.",
+   "spoken_0_3s": "",
+   "text_0_3s": "How to get the \"blowout\" hairstyle",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "product_reveal",
+   "pattern_interrupt": "Close-up reveal of the heated round brush with illuminated digital screen."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Tutorial promise displaying the tool",
+    "Demonstrating technique on crown and side layers",
+    "Beveling and curling hair ends for body",
+    "Showcasing finished bouncy blowout results"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Easily creates a voluminous salon-style blowout hairstyle at home"
+   ],
+   "pain_points": [
+    "Difficulty coordinating a round brush and hairdryer together to achieve blowout volume"
+   ],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 1.8,
+   "final_result_shown_s": 30.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long straight blonde hair with layered face framing",
+   "hair_after": "Voluminous, bouncy blowout with curled-under ends and framed layers",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "trendy, glamorous, effortless"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat electronic dance pop vocal track",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 7.3,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between styling steps"
+   ],
+   "ending": "Creator touching her styled hair, smiling and posing glamorously for the camera."
+  },
+  "notes": "No voiceover or spoken dialogue; relies entirely on visual demonstration and trending audio."
+ }
+}

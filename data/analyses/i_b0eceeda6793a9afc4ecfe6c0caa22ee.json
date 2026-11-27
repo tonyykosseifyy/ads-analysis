@@ -1,0 +1,142 @@
+{
+ "media_key": "i_b0eceeda6793a9afc4ecfe6c0caa22ee",
+ "analyzed_at": "2026-11-27T19:01:32+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "c968cadb7c6679ccbb3503306602dbf8abc4fd8a83c61e56dfe830a0b5ca01c2",
+ "source": {
+  "kind": "image",
+  "id": "b0eceeda6793a9afc4ecfe6c0caa22ee"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "4:5",
+  "one_line_summary": "Valentine's Day static promotional image offering 20% off the pink Steamline Pro hair straightening brush surrounded by roses and gold confetti.",
+  "full_description": "A flat-lay product photograph styled for Valentine's Day. The pink Steamline Pro (Steambrush Pro) hair straightener brush rests vertically in the center on a blush pink background. It is framed by deep red roses, scattered soft pink and red rose petals, metallic gold heart cutouts, and tiny golden foil confetti pieces. Prominent white serif and sans-serif typography at the top announces 'VALENTINE'S SALE IS ON! GET 20% OFF YOUR STEAMLINE PRO. Look your best this V-Day. Limited time offer!'.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "VALENTINE'S SALE IS ON!",
+    "role": "hook"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "GET 20% OFF YOUR STEAMLINE PRO",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Look your best this V-Day. Limited time offer!",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "product shot",
+    "visual": "Top-down flat lay view of the pink Steamline Pro hair tool centered amidst red roses, rose petals, and gold confetti on a pink background with promotional text overhead.",
+    "action": "Static image presentation",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Static graphic with bold headline 'VALENTINE'S SALE IS ON!' above a pink Steamline Pro straightener framed by red roses.",
+   "visual_0_3s": "Static graphic with bold headline 'VALENTINE'S SALE IS ON!' above a pink Steamline Pro straightener framed by red roses.",
+   "spoken_0_3s": "",
+   "text_0_3s": "VALENTINE'S SALE IS ON! GET 20% OFF YOUR STEAMLINE PRO",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "none",
+   "pattern_interrupt": "Seasonal holiday theme with vibrant red roses and contrasting clean product staging."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Valentine's Day holiday announcement",
+    "Special discount offer on Steamline Pro styling tool"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "gift_or_occasion"
+   ],
+   "key_claims": [
+    "20% off Steamline Pro",
+    "Look your best this V-Day",
+    "Limited time offer"
+   ],
+   "pain_points": [],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Steamline Pro"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "20% off Steamline Pro",
+   "price_mentioned": "20% OFF",
+   "discount_code": "",
+   "urgency": "Limited time offer!",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "studio",
+   "faces_camera": false,
+   "energy_tone": ""
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "studio flat lay staging",
+    "graphic typography overlay"
+   ],
+   "ending": "Static image graphic"
+  },
+  "notes": "Valentine's Day seasonal promo image ad featuring the Steamline Pro (Steambrush Pro) straightener for the Lebanese market."
+ }
+}

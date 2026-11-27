@@ -1,0 +1,400 @@
+{
+ "media_key": "v_1493600605827904",
+ "analyzed_at": "2026-11-27T21:50:20+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "cbbf051bed75b1dd5f0dc1979361bb5c886fe0a79cadf180f31f36a50507572d",
+ "source": {
+  "kind": "video",
+  "id": "1493600605827904",
+  "video_id": "1961008021248513",
+  "length_s": 66.533,
+  "permalink": "/122152625727061607/videos/1961008021248513?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 67.1,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator unboxes and demonstrates the WavyTalk Whirlwind Pro cool-air styler on curly hair, explaining why it won an award and offering 20% off.",
+  "full_description": "A curly-haired creator unboxes the WavyTalk Whirlwind Pro airflow styler and brush set, highlighting its 2025 She Finds Beauty Award. She explains how traditional hot tools damage curly hair by keeping cuticles open, whereas this tool blows cool air to instantly lock the curl and seal moisture. She demonstrates wrapping a strand of hair around the heated barrel with active cool-air ventilation, shows the bouncy finished result comparing one styled side to her natural curly hair, and urges viewers to shop the 20% off sale before the end of the month.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 50,
+    "en": 50,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This tool just won the She Finds 2025 Beauty Award.",
+    "text_english": "This tool just won the She Finds 2025 Beauty Award."
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 6.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وإذا شعرك كيرلي you need to know why.",
+    "text_english": "And if you have curly hair you need to know why."
+   },
+   {
+    "start_s": 6.0,
+    "end_s": 8.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أول شي let's talk about why everything else has been failing you.",
+    "text_english": "First, let's talk about why everything else has been failing you."
+   },
+   {
+    "start_s": 8.9,
+    "end_s": 11.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "كل الـ traditional curlers الباقيين بيعملوا ذات الشي.",
+    "text_english": "All the other traditional curlers do the exact same thing."
+   },
+   {
+    "start_s": 11.8,
+    "end_s": 16.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Heat opens your cuticle, it shapes the curl, and then leaves it open.",
+    "text_english": "Heat opens your cuticle, it shapes the curl, and then leaves it open."
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 20.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وكلنا منعرف on curly hair, the more you style with heat, the worse it gets.",
+    "text_english": "And we all know on curly hair, the more you style with heat, the worse it gets."
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 24.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "الـ heat بينشفلك شعرك and will completely ruin your curl pattern.",
+    "text_english": "The heat dries out your hair and will completely ruin your curl pattern."
+   },
+   {
+    "start_s": 24.3,
+    "end_s": 28.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "قبل ما بلش أعمل شعري رح فسرلكم شوية how it works.",
+    "text_english": "Before I start styling my hair, I'll explain a bit how it works."
+   },
+   {
+    "start_s": 28.0,
+    "end_s": 33.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بطلع هواء مسقع من برا so while the heat is shaping your curl, the cool air is already closing the cuticle back down.",
+    "text_english": "It blows cool air from the outside, so while the heat is shaping your curl, the cool air is already closing the cuticle back down."
+   },
+   {
+    "start_s": 33.7,
+    "end_s": 37.6,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "أول درجة وهيدي تاني درجة بعتقد فيكم تسمعوها على الكاميرا.",
+    "text_english": "First setting and this is the second setting, I think you can hear it on camera."
+   },
+   {
+    "start_s": 37.6,
+    "end_s": 40.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Sealing the moisture, locking the shape, and blocking the frizz.",
+    "text_english": "Sealing the moisture, locking the shape, and blocking the frizz."
+   },
+   {
+    "start_s": 40.8,
+    "end_s": 45.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "فهيدا هو دور الهواء المسقع بسكرلك your cuticle وما بخلي your curl drop.",
+    "text_english": "So that's the role of the cool air: it closes your cuticle and doesn't let your curl drop."
+   },
+   {
+    "start_s": 45.0,
+    "end_s": 50.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "إذا بدك tight curls, beach waves, or sleek straight, this tool got you.",
+    "text_english": "Whether you want tight curls, beach waves, or sleek straight, this tool has got you covered."
+   },
+   {
+    "start_s": 50.1,
+    "end_s": 56.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "And that's exactly why it won the award, لأنه لأول مرة someone actually built a styling tool with curly hair in mind.",
+    "text_english": "And that's exactly why it won the award, because for the first time someone actually built a styling tool with curly hair in mind."
+   },
+   {
+    "start_s": 56.6,
+    "end_s": 59.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Guys بس ليكوا الفرق! ليكوا الفرق بالطول...",
+    "text_english": "Guys, just look at the difference! Look at the difference in length..."
+   },
+   {
+    "start_s": 59.9,
+    "end_s": 63.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "It's 20% off لآخر الشهر so grab it while it's still on sale.",
+    "text_english": "It's 20% off until the end of the month, so grab it while it's still on sale."
+   },
+   {
+    "start_s": 63.6,
+    "end_s": 67.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Trust me, your hair will never thank you enough.",
+    "text_english": "Trust me, your hair will never thank you enough."
+   }
+  ],
+  "transcript_full_original": "This tool just won the She Finds 2025 Beauty Award. وإذا شعرك كيرلي you need to know why. أول شي let's talk about why everything else has been failing you. كل الـ traditional curlers الباقيين بيعملوا ذات الشي. Heat opens your cuticle, it shapes the curl, and then leaves it open. وكلنا منعرف on curly hair, the more you style with heat, the worse it gets. الـ heat بينشفلك شعرك and will completely ruin your curl pattern. قبل ما بلش أعمل شعري رح فسرلكم شوية how it works. بطلع هواء مسقع من برا so while the heat is shaping your curl, the cool air is already closing the cuticle back down. أول درجة وهيدي تاني درجة بعتقد فيكم تسمعوها على الكاميرا. Sealing the moisture, locking the shape, and blocking the frizz. فهيدا هو دور الهواء المسقع بسكرلك your cuticle وما بخلي your curl drop. إذا بدك tight curls, beach waves, or sleek straight, this tool got you. And that's exactly why it won the award, لأنه لأول مرة someone actually built a styling tool with curly hair in mind. Guys بس ليكوا الفرق! ليكوا الفرق بالطول... It's 20% off لآخر الشهر so grab it while it's still on sale. Trust me, your hair will never thank you enough.",
+  "transcript_full_english": "This tool just won the She Finds 2025 Beauty Award. And if you have curly hair you need to know why. First, let's talk about why everything else has been failing you. All the other traditional curlers do the exact same thing. Heat opens your cuticle, it shapes the curl, and then leaves it open. And we all know on curly hair, the more you style with heat, the worse it gets. The heat dries out your hair and will completely ruin your curl pattern. Before I start styling my hair, I'll explain a bit how it works. It blows cool air from the outside, so while the heat is shaping your curl, the cool air is already closing the cuticle back down. First setting and this is the second setting, I think you can hear it on camera. Sealing the moisture, locking the shape, and blocking the frizz. So that's the role of the cool air: it closes your cuticle and doesn't let your curl drop. Whether you want tight curls, beach waves, or sleek straight, this tool has got you covered. And that's exactly why it won the award, because for the first time someone actually built a styling tool with curly hair in mind. Guys, just look at the difference! Look at the difference in length... It's 20% off until the end of the month, so grab it while it's still on sale. Trust me, your hair will never thank you enough.",
+  "word_count": 218,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.8,
+    "text": "SHE FINDS 2025 BEAUTY AWARD",
+    "role": "hook"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 67.1,
+    "text": "English auto-captions synchronized with speech",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 59.9,
+    "end_s": 62.5,
+    "text": "20% OFF",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.9,
+    "shot_type": "close-up",
+    "visual": "POV unboxing the pink WavyTalk Whirlwind Pro styler and detangling brush from a sleek white box.",
+    "action": "Creator opens the box revealing the tool and the curling manual.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.9,
+    "end_s": 8.7,
+    "shot_type": "medium shot",
+    "visual": "Creator facing camera showing her thick, long curly dark hair and cutaway to styled blowouts.",
+    "action": "Creator gestures towards her hair and talks about heat damage.",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 15.8,
+    "shot_type": "cutaway b-roll",
+    "visual": "Burnt, discolored curling irons and flat irons, followed by salon clips of flat ironing.",
+    "action": "Demonstrating how traditional high-heat tools damage the hair cuticle.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.8,
+    "end_s": 24.2,
+    "shot_type": "medium shot with photo overlay",
+    "visual": "Creator brushing her natural curly hair with the included pink paddle brush, with inset photos of frizzy, heat-damaged hair.",
+    "action": "Creator brushes sectioned hair and explains curl pattern destruction.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.2,
+    "end_s": 27.9,
+    "shot_type": "medium shot",
+    "visual": "Creator holding the WavyTalk Whirlwind Pro airflow styler up to the camera.",
+    "action": "Creator points out the airflow vents on the outer barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 27.9,
+    "end_s": 33.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator clamping a section of curly hair into the barrel, twisting it 360 degrees and pulling downward.",
+    "action": "Styling demo showing the active cool-air cooling the hair as it glides.",
+    "product_visible": true
+   },
+   {
+    "start_s": 33.6,
+    "end_s": 37.5,
+    "shot_type": "close-up",
+    "visual": "Creator holds the tool close to the camera microphone to show the two fan speed modes.",
+    "action": "Demonstrating the sound and intensity of the airflow feature.",
+    "product_visible": true
+   },
+   {
+    "start_s": 37.5,
+    "end_s": 40.7,
+    "shot_type": "medium shot",
+    "visual": "Creator continuing to curl sections of hair with the Whirlwind Pro.",
+    "action": "Twisting the styler and releasing smooth, glossy waves.",
+    "product_visible": true
+   },
+   {
+    "start_s": 40.7,
+    "end_s": 44.9,
+    "shot_type": "medium shot / back angle",
+    "visual": "Creator showing the back and front of her fully styled, voluminous shiny waves.",
+    "action": "Creator shakes and fluffs her bouncy curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 44.9,
+    "end_s": 56.5,
+    "shot_type": "medium shot",
+    "visual": "Demonstration continuing on multiple sections showing how versatile the styler is.",
+    "action": "Creator curls different strands explaining multiple styling options.",
+    "product_visible": true
+   },
+   {
+    "start_s": 56.5,
+    "end_s": 59.8,
+    "shot_type": "medium shot (split comparison)",
+    "visual": "Creator standing with half of her head styled in a smooth long wave and half in its natural tighter curl.",
+    "action": "Creator points out the side-by-side difference in length, smoothness, and texture.",
+    "product_visible": false
+   },
+   {
+    "start_s": 59.8,
+    "end_s": 63.5,
+    "shot_type": "close-up",
+    "visual": "WavyTalk box and styler displayed with a glowing '20% OFF' graphic overlay.",
+    "action": "Creator touches the box and calls out the month-end sale.",
+    "product_visible": true
+   },
+   {
+    "start_s": 63.5,
+    "end_s": 67.1,
+    "shot_type": "medium shot",
+    "visual": "Creator shaking her shiny, bouncy blowout hair and blowing a kiss to the camera.",
+    "action": "Final beauty shots and sign-off.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Unboxing the pink WavyTalk styler with large bold text 'SHE FINDS 2025 BEAUTY AWARD'",
+   "visual_0_3s": "Hands opening the package to reveal the airflow curler and accessories with bold award headline.",
+   "spoken_0_3s": "This tool just won the She Finds 2025 Beauty Award.",
+   "text_0_3s": "SHE FINDS 2025 BEAUTY AWARD",
+   "hook_type": "social_proof",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Prominent award announcement followed immediately by an unboxing and curly hair problem callout."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Award announcement hook (She Finds 2025 Beauty Award)",
+    "Problem statement: traditional high-heat tools leave cuticles open and damage curly hair patterns",
+    "Mechanism of action: cool air vents instantly close cuticles and seal moisture while styling",
+    "Step-by-step application demo and sound check of fan levels",
+    "Half-and-half side comparison showing length and shine vs. natural curls",
+    "Offer announcement: 20% off until end of month CTA"
+   ],
+   "main_angle": "less_heat_damage",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "social_proof_popularity",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Won the She Finds 2025 Beauty Award",
+    "First styling tool built specifically with curly hair in mind",
+    "Cool airflow seals moisture and prevents curl drop",
+    "Eliminates heat damage and protects curl pattern"
+   ],
+   "pain_points": [
+    "Traditional hot irons fry hair and leave cuticles open",
+    "Heat ruins natural curl patterns and causes extreme frizz",
+    "Difficulty holding curls without extreme heat"
+   ],
+   "objections_handled": [
+    "Does heat destroy curls? Addressed via active 360-degree cool air sealing the hair immediately.",
+    "Is it loud? Creator plays the fan sounds directly into the microphone to show quietness."
+   ],
+   "social_proof": [
+    "She Finds 2025 Beauty Award winner"
+   ],
+   "comparison_to": "Traditional curling irons and flat irons that rely purely on direct heat"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Whirlwind Pro Airflow Styler",
+    "WavyTalk Vent Paddle Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 28.0,
+   "final_result_shown_s": 41.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "20% off until the end of the month",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "until the end of the month",
+   "cta_spoken": "Grab it while it's still on sale",
+   "cta_on_screen": "20% OFF",
+   "cta_at_s": 59.9
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, thick dark brown/black 3A-3B curly hair",
+   "hair_after": "Long, glossy, defined loose blowout waves with high shine",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, knowledgeable, articulate"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat lo-fi pop background music under dialogue",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 18,
+   "avg_shot_length_s": 3.7,
+   "pacing": "medium",
+   "effects": [
+    "Text pop-ups",
+    "Image overlays of heat damage",
+    "B-roll cuts",
+    "Color grading glow on offer text"
+   ],
+   "ending": "Creator blows a kiss to camera with voluminous styled hair and smiles"
+  },
+  "notes": "Geotargeted for Lebanon (WavyTalk Lebanon authorized reseller). The creator mixes clear Lebanese Arabic with English styling terms smoothly."
+ }
+}

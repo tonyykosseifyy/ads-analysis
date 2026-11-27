@@ -1,0 +1,16 @@
+{
+ "language": "en",
+ "main_angle": "offer_discount_urgency",
+ "secondary_angles": [
+  "less_heat_damage",
+  "salon_result_at_home"
+ ],
+ "opening_line": "🚨 LIMITED TIME OFFER 🚨",
+ "opening_style": "offer_or_price",
+ "mentions_offer": true,
+ "offer": "25% off",
+ "social_proof": "Selling fast!",
+ "cta": "Get it now for 25% off 🌟",
+ "tone": "urgent and promotional",
+ "variation_count": 2
+}

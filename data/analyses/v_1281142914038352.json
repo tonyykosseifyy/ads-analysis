@@ -1,0 +1,434 @@
+{
+ "media_key": "v_1281142914038352",
+ "analyzed_at": "2026-11-27T21:11:45+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "f8a1a6524844d51575c37766cb14eead463924c55aec3b61261f422e2bd97932",
+ "source": {
+  "kind": "video",
+  "id": "1281142914038352",
+  "errors": [
+   "1281142914038352: Gave up after 5 retries: https://graph.facebook.com/v26.0/1281142914038352",
+   "1908210456758840: Gave up after 5 retries: https://graph.facebook.com/v26.0/1908210456758840"
+  ],
+  "ig_media_id": "18072585893615030",
+  "permalink": "https://www.instagram.com/p/DTquNG_DDSt/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 25.26,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator in a rush transforms her frizzy hair in 10 minutes using the Wavytalk Blowout Boost thermal brush.",
+  "full_description": "A creator starts sitting on a bed distressed about having only 15 minutes before going out with frizzy, messy hair. She presents the pink Wavytalk thermal brush (Blowout Boost) and demonstrates styling her hair in front of a mirror, explaining that each section takes only 5 seconds and highlighting the 5 temperature settings that prevent heat damage. She finishes by showing off her soft wavy blowout result, joking that her friends think she goes to the salon every two days, and directs viewers to get the ionic brush via the link below.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 65,
+    "en": 35,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "arabizi",
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "معي بس 15 minutes قبل ما إمشي وشعري كارثة! ما في شي رح يحللي ياها...",
+    "text_english": "I only have 15 minutes before I leave and my hair is a disaster! Nothing will solve it for me..."
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 5.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "...غير هالـ Wavytalk thermal brush.",
+    "text_english": "...except this Wavytalk thermal brush."
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 8.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "literally كل خصلة takes 5 seconds.",
+    "text_english": "Literally each strand takes 5 seconds."
+   },
+   {
+    "start_s": 8.1,
+    "end_s": 10.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "اليوم رايحة مع البنات نجرب a new concept diner...",
+    "text_english": "Today I'm going out with the girls to try a new concept diner..."
+   },
+   {
+    "start_s": 10.7,
+    "end_s": 12.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "...وبدي أعمل the soft wavy look.",
+    "text_english": "...and I want to do the soft wavy look."
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 15.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "هالـ brush ما بتحرقلي شعري لأن فيها 5 temperature modes.",
+    "text_english": "This brush doesn't burn my hair because it has 5 temperature modes."
+   },
+   {
+    "start_s": 15.5,
+    "end_s": 17.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وبعد 10 minutes I'm done!",
+    "text_english": "And after 10 minutes, I'm done!"
+   },
+   {
+    "start_s": 17.3,
+    "end_s": 20.3,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "كل رفقاتي بفكروا إنه بروح كل يومين بعمل شعري، تخيلوا!",
+    "text_english": "All my friends think I go get my hair done every two days, imagine!"
+   },
+   {
+    "start_s": 20.3,
+    "end_s": 22.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Anyways هيدا الـ final look، ولتعملوا أنتوا كمان متله...",
+    "text_english": "Anyways, this is the final look, and for you to do it like this too..."
+   },
+   {
+    "start_s": 22.4,
+    "end_s": 25.26,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "...get the ionic brush from the link below!",
+    "text_english": "...get the ionic brush from the link below!"
+   }
+  ],
+  "transcript_full_original": "معي بس 15 minutes قبل ما إمشي وشعري كارثة! ما في شي رح يحللي ياها غير هالـ Wavytalk thermal brush. literally كل خصلة takes 5 seconds. اليوم رايحة مع البنات نجرب a new concept diner وبدي أعمل the soft wavy look. هالـ brush ما بتحرقلي شعري لأن فيها 5 temperature modes. وبعد 10 minutes I'm done! كل رفقاتي بفكروا إنه بروح كل يومين بعمل شعري، تخيلوا! Anyways هيدا الـ final look، ولتعملوا أنتوا كمان متله get the ionic brush from the link below!",
+  "transcript_full_english": "I only have 15 minutes before I leave and my hair is a disaster! Nothing will solve it for me except this Wavytalk thermal brush. Literally each strand takes 5 seconds. Today I'm going out with the girls to try a new concept diner and I want to do the soft wavy look. This brush doesn't burn my hair because it has 5 temperature modes. And after 10 minutes, I'm done! All my friends think I go get my hair done every two days, imagine! Anyways, this is the final look, and for you to do it like this too, get the ionic brush from the link below!",
+  "word_count": 68,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.0,
+    "text": "ma3e bas 15 min",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 2.0,
+    "text": "abl ma emche",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 3.0,
+    "text": "w cha3re kerse",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 4.0,
+    "text": "ma fi chi",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.0,
+    "end_s": 4.5,
+    "text": "r7 y7elele yeha",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 6.0,
+    "text": "Wavytalk thermal brush",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.0,
+    "end_s": 8.0,
+    "text": "literally kel khosle takes 5 seconds",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 9.5,
+    "text": "lyom ray7a m3 lbanet",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 11.0,
+    "text": "new concept diner",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 13.0,
+    "text": "w bade a3mel soft wavy look",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 14.0,
+    "text": "ma bt7re2le cha3re",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.0,
+    "end_s": 16.0,
+    "text": "l2n fiya 5 temperature mode",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 17.5,
+    "text": "w ba3d 10 min I'm done",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 19.0,
+    "text": "kel rf2ate byfakro eno brou7",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.0,
+    "end_s": 20.0,
+    "text": "ba3mol cha3re",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 21.0,
+    "text": "anyways",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 22.0,
+    "text": "hayda l final look",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 23.0,
+    "text": "w la t3mlo ento kamen metlo",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.0,
+    "end_s": 25.26,
+    "text": "get the iconic brush from the link below",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.7,
+    "shot_type": "medium shot",
+    "visual": "Young woman sitting on a hotel/bedroom bed with unstyled frizzy hair, pointing at imaginary watch and clutching her hair dramatically",
+    "action": "Creator gestures anxiously to the camera about being late and shows her frizzy hair",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.7,
+    "end_s": 3.7,
+    "shot_type": "medium shot",
+    "visual": "Creator standing in front of mirror looking annoyed with crossed arms",
+    "action": "Shakes head and turns towards the mirror looking at her messy hair",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 5.4,
+    "shot_type": "medium shot",
+    "visual": "Sitting back on bed holding up a hot pink Wavytalk gift bag and the pink thermal brush",
+    "action": "Excitedly reveals the brush and the branded bag to the camera",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 8.2,
+    "shot_type": "medium selfie shot",
+    "visual": "Standing in bathroom/vanity area styling a front strand with the brush",
+    "action": "Releases curled strand, touches it to show the smooth bounce",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.2,
+    "end_s": 10.7,
+    "shot_type": "over-the-shoulder mirror shot",
+    "visual": "Vanity mirror showing the creator brushing the top/back section of hair; Wavytalk box, packaging bag, clips and brush on the table",
+    "action": "Brushes and wraps back hair section around the thermal brush",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.7,
+    "end_s": 12.8,
+    "shot_type": "mirror reflection shot",
+    "visual": "Mirror shot of creator holding the thermal brush horizontally and smiling excitedly",
+    "action": "Shows off the tool and explains the desired soft wavy look",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 15.5,
+    "shot_type": "close-up",
+    "visual": "Close-up of the pink thermal brush handle showing digital temperature screen lit up at 360°F and control buttons",
+    "action": "Creator points at the display highlighting heat settings",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.5,
+    "end_s": 17.3,
+    "shot_type": "medium shot",
+    "visual": "Creator back on bed tossing and fluffing fully styled, voluminous, glossy hair with both hands, smiling brightly",
+    "action": "Tosses hair and laughs proudly at her finished hairstyle",
+    "product_visible": false
+   },
+   {
+    "start_s": 17.3,
+    "end_s": 20.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator standing in front of mirror rolling a front strand through the brush",
+    "action": "Glides brush smoothly through strand while talking",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 22.4,
+    "shot_type": "mirror reflection shot",
+    "visual": "Creator admiring her hair in the vanity mirror, turning head to show the smooth bouncy waves",
+    "action": "Checks side profile in mirror and turns to camera smiling",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.4,
+    "end_s": 23.5,
+    "shot_type": "close-up",
+    "visual": "Creator holding the thermal brush close to the camera, pointing at it enthusiastically",
+    "action": "Smiles and presents brush directly towards the lens",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 25.26,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting on bed holding the retail product box (Wavytalk Blowout Boost Ionic Thermal Brush)",
+    "action": "Taps the box and gives a final call to action to order from the link below",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator sitting on bed tapping wrist urgently, complaining she only has 15 minutes",
+   "visual_0_3s": "Creator looks stressed, tapping wrist and running hands wildly through frizzy messy hair",
+   "spoken_0_3s": "معي بس 15 minutes قبل ما إمشي وشعري كارثة! ما في شي...",
+   "text_0_3s": "ma3e bas 15 min / abl ma emche / w cha3re kerse",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Rapid panic acting and frantic hair pulling conveying acute time pressure"
+  },
+  "structure": {
+   "format": "grwm_lifestyle",
+   "narrative_beats": [
+    "Relatable urgent problem: only 15 minutes before going out with disaster hair",
+    "Product introduction as the instant savior",
+    "Step-by-step styling demo while getting ready for diner night with friends",
+    "Feature highlight: 5 heat settings preventing damage and burning",
+    "Finished look reveal and social proof bragging (friends think it's a salon blowout)",
+    "Clear call to action to get the brush via link below"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "less_heat_damage",
+    "frizz_or_curly_solution"
+   ],
+   "key_claims": [
+    "Takes only 5 seconds per strand",
+    "Complete styling in just 10 minutes",
+    "Doesn't burn hair thanks to 5 temperature settings",
+    "Gives professional salon-level blowout look at home"
+   ],
+   "pain_points": [
+    "Lack of time to get ready before going out",
+    "Frizzy, unmanageable messy hair",
+    "Fear of burning or damaging hair with heat tools"
+   ],
+   "objections_handled": [
+    "Will heat damage hair? Addressed with 5 temperature modes to protect hair",
+    "Is it complicated/slow? Addressed with 5-second passes per section and 10-minute full head style"
+   ],
+   "social_proof": [
+    "Friends think she visits the salon every two days"
+   ],
+   "comparison_to": "Professional hair salon blowouts"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Ionic Thermal Brush"
+   ],
+   "first_seen_s": 3.7,
+   "first_used_on_hair_s": 5.4,
+   "final_result_shown_s": 15.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "get the ionic brush from the link below!",
+   "cta_on_screen": "get the ionic brush from the link below",
+   "cta_at_s": 22.4
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long brunette, frizzy, dull, unstyled and messy",
+   "hair_after": "Voluminous, shiny, soft salon-quality bouncy blowout waves",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, vibrant, energetic and confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Upbeat, lighthearted acoustic background pop rhythm",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 11,
+   "avg_shot_length_s": 2.3,
+   "pacing": "fast",
+   "effects": [
+    "fast cuts",
+    "text overlays matching Arabizi spoken words",
+    "screen zoom-ins"
+   ],
+   "ending": "Creator sitting on bed holding the product packaging box pointing to the link below"
+  },
+  "notes": "Ad effectively blends Arabizi on-screen text with authentic spoken Lebanese-English code-switching tailored to young Lebanese female audiences."
+ }
+}

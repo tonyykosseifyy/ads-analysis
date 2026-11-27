@@ -1,0 +1,415 @@
+{
+ "media_key": "v_1440089361053020",
+ "analyzed_at": "2026-11-27T18:40:14+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "adb75d1949fd456c0d7584ee20dc8dbf45038f5f0a9ead551c6eba2739096a17",
+ "source": {
+  "kind": "video",
+  "id": "1440089361053020",
+  "video_id": "1479046000856307",
+  "length_s": 39.039,
+  "permalink": "/23849366283980795/videos/1479046000856307/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 38.6,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator with thick curly hair demonstrates the Wavytalk steam straightener brush, showing how quickly it straightens large sections with less damage.",
+  "full_description": "A creator with voluminous curly hair introduces the Wavytalk steam straightener brush as the best solution for thick curly hair. She shows the heat settings, then demonstrates passing the steaming brush through thick sections of curly hair in a single pass, explaining how steam hydrates and smooths while preventing scalding at the roots. She showcases the glossy, silky straight results from the front and back, recommending it as an ideal gift.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I have a lot of hair,",
+    "text_english": "I have a lot of hair,"
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 4.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "but I can straighten it in minutes with the Wavytalk steam straightener.",
+    "text_english": "but I can straighten it in minutes with the Wavytalk steam straightener."
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 6.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It has four heat settings,",
+    "text_english": "It has four heat settings,"
+   },
+   {
+    "start_s": 6.0,
+    "end_s": 8.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "but for my curls I use 380 or 410.",
+    "text_english": "but for my curls I use 380 or 410."
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 9.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And yes, this is a steam straightener.",
+    "text_english": "And yes, this is a steam straightener."
+   },
+   {
+    "start_s": 9.3,
+    "end_s": 12.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The steam actually helps to smooth and hydrate the hair,",
+    "text_english": "The steam actually helps to smooth and hydrate the hair,"
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 15.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and the brush design allows me to do bigger sections so straightening is super fast.",
+    "text_english": "and the brush design allows me to do bigger sections so straightening is super fast."
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 18.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And because it straightens in one pass, it's much less damaging.",
+    "text_english": "And because it straightens in one pass, it's much less damaging."
+   },
+   {
+    "start_s": 18.4,
+    "end_s": 22.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And it gets all the way to the roots without scalding too, so I don't even have to switch tools.",
+    "text_english": "And it gets all the way to the roots without scalding too, so I don't even have to switch tools."
+   },
+   {
+    "start_s": 22.1,
+    "end_s": 25.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I love how it leaves my hair soft and smooth and silky.",
+    "text_english": "I love how it leaves my hair soft and smooth and silky."
+   },
+   {
+    "start_s": 25.4,
+    "end_s": 28.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I always recommend this to anyone who wants salon quality,",
+    "text_english": "I always recommend this to anyone who wants salon quality,"
+   },
+   {
+    "start_s": 28.3,
+    "end_s": 31.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "but especially to my curly friends who want to style their hair faster.",
+    "text_english": "but especially to my curly friends who want to style their hair faster."
+   },
+   {
+    "start_s": 31.4,
+    "end_s": 34.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And I would be crazy if I didn't mention this, but it is gift-giving season,",
+    "text_english": "And I would be crazy if I didn't mention this, but it is gift-giving season,"
+   },
+   {
+    "start_s": 34.9,
+    "end_s": 38.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "so if you want to, grab one now for yourself and for a friend or loved one.",
+    "text_english": "so if you want to, grab one now for yourself and for a friend or loved one."
+   }
+  ],
+  "transcript_full_original": "I have a lot of hair, but I can straighten it in minutes with the Wavytalk steam straightener. It has four heat settings, but for my curls I use 380 or 410. And yes, this is a steam straightener. The steam actually helps to smooth and hydrate the hair, and the brush design allows me to do bigger sections so straightening is super fast. And because it straightens in one pass, it's much less damaging. And it gets all the way to the roots without scalding too, so I don't even have to switch tools. I love how it leaves my hair soft and smooth and silky. I always recommend this to anyone who wants salon quality, but especially to my curly friends who want to style their hair faster. And I would be crazy if I didn't mention this, but it is gift-giving season, so if you want to, grab one now for yourself and for a friend or loved one.",
+  "transcript_full_english": "I have a lot of hair, but I can straighten it in minutes with the Wavytalk steam straightener. It has four heat settings, but for my curls I use 380 or 410. And yes, this is a steam straightener. The steam actually helps to smooth and hydrate the hair, and the brush design allows me to do bigger sections so straightening is super fast. And because it straightens in one pass, it's much less damaging. And it gets all the way to the roots without scalding too, so I don't even have to switch tools. I love how it leaves my hair soft and smooth and silky. I always recommend this to anyone who wants salon quality, but especially to my curly friends who want to style their hair faster. And I would be crazy if I didn't mention this, but it is gift-giving season, so if you want to, grab one now for yourself and for a friend or loved one.",
+  "word_count": 154,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.1,
+    "text": "The BEST straightener for big curly hair",
+    "role": "hook"
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 6.0,
+    "text": "It has four heat settings,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.0,
+    "end_s": 8.0,
+    "text": "but for my curls I use 3 80 or 4 10.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 9.3,
+    "text": "And yes, this is a steam straightener.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.3,
+    "end_s": 12.3,
+    "text": "The steam actually helps to smooth and hydrate the hair,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 15.6,
+    "text": "and the brush design allows me to do bigger sections so straightening is super fast.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 18.4,
+    "text": "And because it straightens in one pass, it's much less damaging.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.4,
+    "end_s": 22.1,
+    "text": "And it gets all the way to the roots without scalding too, so I don't even have to switch tools.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.1,
+    "end_s": 25.4,
+    "text": "I love how it leaves my hair soft and smooth and silky.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.4,
+    "end_s": 28.3,
+    "text": "I always recommend this to anyone who wants salon quality,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 28.3,
+    "end_s": 31.4,
+    "text": "but especially to my curly friends who want to style their hair faster.",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.1,
+    "shot_type": "medium shot",
+    "visual": "Young woman with huge voluminous curly textured hair facing camera.",
+    "action": "She touches and shakes her massive curly hair, displaying its volume before styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 6.0,
+    "shot_type": "close-up",
+    "visual": "Close-up of the pale pink Wavytalk steam straightener brush handle in front of the creator.",
+    "action": "Creator presses power/heat button, showing temperature indicator lights.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.0,
+    "end_s": 8.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding a thick section of crimped/curly hair outward.",
+    "action": "She sections out a large piece of her thick curly hair to prepare for straightening.",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 18.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushing the pink steam straightener slowly through the curly strand, wearing a protective black glove.",
+    "action": "Steam vents visibly as the heated brush passes through the curly strand once, transforming it instantly into sleek, straight hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.4,
+    "end_s": 22.2,
+    "shot_type": "close-up",
+    "visual": "Close-up near the roots and ear.",
+    "action": "Creator combs the brush right up to the scalp and roots without burning, smoothing the hair near the hairline.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.2,
+    "end_s": 25.4,
+    "shot_type": "close-up",
+    "visual": "Extreme close-up of side of face and smooth straightened hair.",
+    "action": "Creator runs fingers through the freshly straightened side, demonstrating softness and shine.",
+    "product_visible": false
+   },
+   {
+    "start_s": 25.4,
+    "end_s": 28.3,
+    "shot_type": "medium close-up",
+    "visual": "Profile view of creator admiring her straightened hair.",
+    "action": "She runs her hand through the silky straight strands while the crown remains pinned.",
+    "product_visible": false
+   },
+   {
+    "start_s": 28.3,
+    "end_s": 31.4,
+    "shot_type": "medium shot",
+    "visual": "Frontal shot of creator with full hair styled sleek and straight.",
+    "action": "Creator poses and plays with her long straight dark hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 31.4,
+    "end_s": 33.6,
+    "shot_type": "medium shot",
+    "visual": "Rear view of creator showing full back length of hair.",
+    "action": "Creator runs her hands through the back of her sleek, straight, shiny hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 33.6,
+    "end_s": 36.1,
+    "shot_type": "medium shot",
+    "visual": "Front view of creator holding the pink Wavytalk brush next to her straight hair.",
+    "action": "She presents the brush next to her face and gestures toward the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 36.1,
+    "end_s": 37.3,
+    "shot_type": "medium shot",
+    "visual": "Quick cut back to the curly 'before' look.",
+    "action": "Flashback frame showing her massive natural curly hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 37.3,
+    "end_s": 38.6,
+    "shot_type": "medium shot",
+    "visual": "Front view of creator with sleek straight hair.",
+    "action": "She blows a kiss toward the camera and smiles.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator with massive, voluminous curly hair looking into camera.",
+   "visual_0_3s": "Creator shaking her huge natural curly hair with both hands.",
+   "spoken_0_3s": "I have a lot of hair, but I can straighten it in minutes with the Wavytalk steam straightener.",
+   "text_0_3s": "The BEST straightener for big curly hair",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Extremely voluminous thick curly hair framed front and center with bold text calling out the best straightener."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: callout for massive thick curly hair.",
+    "Product intro: 4 temperature settings and steam function.",
+    "Live demonstration: 1-pass straightening on a large thick section.",
+    "Benefit demonstration: root access without scalding and hydration from steam.",
+    "Final transformation reveal: front and back glossy straight results.",
+    "Call to action: seasonal gifting reminder."
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "saves_time",
+    "less_heat_damage",
+    "gift_or_occasion"
+   ],
+   "key_claims": [
+    "Straightens in minutes",
+    "Hydrates and smooths with steam",
+    "Straightens in one pass",
+    "Less heat damage",
+    "Gets right to the roots without scalding"
+   ],
+   "pain_points": [
+    "Taking too long to straighten thick hair",
+    "Scald burns near the roots",
+    "Heat damage from multiple passes",
+    "Dry, frizzy straightened hair"
+   ],
+   "objections_handled": [
+    "Does it work on coarse/tight curls? (Yes, shown in single pass)",
+    "Does it burn the scalp? (Brush bristles prevent scalding)"
+   ],
+   "social_proof": [
+    "Recommends to all curly-haired friends wanting salon quality at home"
+   ],
+   "comparison_to": "Traditional flat irons that require multiple passes and root comb tools"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steambrush Pro (Steam Straightener)"
+   ],
+   "first_seen_s": 4.1,
+   "first_used_on_hair_s": 8.0,
+   "final_result_shown_s": 28.3,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Gift-giving season",
+   "cta_spoken": "Grab one now for yourself and for a friend or loved one",
+   "cta_on_screen": "",
+   "cta_at_s": 34.9
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Very thick, dark brown / black voluminous curly afro-textured hair",
+   "hair_after": "Pin-straight, sleek, silky, glossy dark hair",
+   "setting": "studio",
+   "faces_camera": true,
+   "energy_tone": "Confident, enthusiastic, polished"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Soft rhythmic background beat underneath clear AI/TTS voiceover",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 11,
+   "avg_shot_length_s": 3.5,
+   "pacing": "fast",
+   "effects": [
+    "Text overlays",
+    "Split single-pass demo clip",
+    "Quick flashback cut at the end"
+   ],
+   "ending": "Creator blows a kiss with straight hair after a quick before/after flashback cut."
+  },
+  "notes": "English UGC video produced for Wavytalk steam straightening brush, repurposed as an ad for the Lebanese market."
+ }
+}

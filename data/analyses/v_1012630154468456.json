@@ -1,0 +1,177 @@
+{
+ "media_key": "v_1012630154468456",
+ "analyzed_at": "2026-11-27T18:36:52+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "8783c9649076078fc3b54a4c7c46996090b40ac71bb44c7397fdd47d525cb4c7",
+ "source": {
+  "kind": "video",
+  "id": "1012630154468456",
+  "video_id": "1810851420289579",
+  "length_s": 16.6,
+  "permalink": "/23849366283980795/videos/1810851420289579/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 16.59,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates how to achieve a soft voluminous blowout using the pink WavyTalk Blowout Boost thermal round brush.",
+  "full_description": "The video starts with the creator showcasing her finished bouncy, voluminous soft blowout. It then cuts into a step-by-step tutorial where she sections her long dark hair and styles bottom and front crown sections using the pink WavyTalk Blowout Boost thermal round brush. The video finishes with her presenting the final polished salon-like blowout results while holding the tool next to her cheek.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "text": "soft blowout tutorial 🤍",
+    "role": "hook"
+   },
+   {
+    "start_s": 14.2,
+    "end_s": 16.59,
+    "text": "wavy talk thermal brush blowout boost 🤍",
+    "role": "brand"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "shot_type": "medium close-up",
+    "visual": "A young woman wearing a black satin robe shakes out and flips her voluminous, glossy blowout in front of a mirror.",
+    "action": "Showing the final bouncy blowout result to the camera with text overlay.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 7.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator has top sections clipped away and takes a strand of lower hair.",
+    "action": "She glides the pink WavyTalk thermal brush down the hair strand, rotating and holding at the ends to shape a curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 10.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator takes a section from the other side of her head.",
+    "action": "Brushing and twirling the hair through the thermal brush bristles to create smooth inward bounce.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.4,
+    "end_s": 14.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator takes the top front bangs/crown section of hair.",
+    "action": "Pulls hair straight upward with the thermal brush from roots to tips, wrapping and releasing to maximize root volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.1,
+    "end_s": 16.59,
+    "shot_type": "medium close-up",
+    "visual": "Creator displays the fully styled blowout with soft curtain layers and volume.",
+    "action": "Poses holding the pink WavyTalk Blowout Boost brush beside her face.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator touching and showing off full, bouncy dark hair wearing a black robe.",
+   "visual_0_3s": "Voluminous hair flip showcasing the blowout result, followed immediately by sectioning hair for styling.",
+   "spoken_0_3s": "",
+   "text_0_3s": "soft blowout tutorial 🤍",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Immediate result showcase of shiny, full blowout paired with clean aesthetic visuals."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Result reveal teaser hook",
+    "Section-by-section styling demonstration with thermal brush",
+    "Root lift technique demonstration on crown",
+    "Final look showcase with product hero shot"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Achieve a soft, voluminous blowout easily at home",
+    "Adds bounce and root volume using a thermal brush"
+   ],
+   "pain_points": [
+    "Difficulty getting salon blowout volume with round brush and regular blow dryer"
+   ],
+   "objections_handled": [
+    "Complexity of doing a blowout (shows simple gliding and curling motion)"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 2.8,
+   "first_used_on_hair_s": 3.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, dark brown/black, straight to slight wave",
+   "hair_after": "Voluminous, shiny, soft blowout curls with layered bounce",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "calm, aesthetic, effortless"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Rhythmic, upbeat modern pop instrumental track with light percussive beat",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 3.32,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts timed to music",
+    "minimalist text overlay"
+   ],
+   "ending": "Talent holds up the pink WavyTalk Blowout Boost brush next to her face while showing off finished hair."
+  },
+  "notes": "Non-verbal aesthetic UGC video focused on visual transformation and ease of use of the thermal blowout brush."
+ }
+}

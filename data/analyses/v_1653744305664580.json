@@ -1,0 +1,162 @@
+{
+ "media_key": "v_1653744305664580",
+ "analyzed_at": "2026-11-27T20:06:01+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "8db86ecc59e03649cb887bff4616ff392f2c8ed9d5eb99dce70b8e640b9b0586",
+ "source": {
+  "kind": "video",
+  "id": "1653744305664580",
+  "errors": [
+   "1653744305664580: Gave up after 5 retries: https://graph.facebook.com/v26.0/1653744305664580",
+   "4342756342643110: Gave up after 5 retries: https://graph.facebook.com/v26.0/4342756342643110"
+  ],
+  "ig_media_id": "18123377050624735",
+  "permalink": "https://www.instagram.com/p/DXFbm5rDDof/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 15.0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "A creator demonstrates styling a short bob into soft, textured waves using the pale pink Whirlwind Curl tool.",
+  "full_description": "A woman with a short dark bob uses a pale pink hair tool (Whirlwind Curl) to quickly curl sections of her hair. Through fast jump cuts, she styles different sections by clamping, rotating, and pulling the iron through. In the second half of the clip, she tousles and shakes her hair with her fingers, showing off the bouncy, voluminous wavy bob result while posing confidently to trending music.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "close-up selfie",
+    "visual": "Creator curling a front section of her short bob with a pale pink styler.",
+    "action": "She glides the tool through a front strand and releases a loose wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 3.8,
+    "shot_type": "close-up selfie",
+    "visual": "Creator clamping a top/side hair section.",
+    "action": "She rotates the styling tool around her hair and pulls it downward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 5.5,
+    "shot_type": "close-up selfie",
+    "visual": "Creator styling the opposite side bangs/front section.",
+    "action": "She twirls the styler away from her face to create a face-framing curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 7.5,
+    "shot_type": "close-up selfie",
+    "visual": "Creator curling a lower layer section.",
+    "action": "She slides the styler through the strand and releases it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 15.0,
+    "shot_type": "medium close-up selfie",
+    "visual": "Creator admiring and shaking out her completed hairstyle.",
+    "action": "She runs her fingers through her hair, fluffs the textured waves, smiles, and poses toward the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "A woman holding a pale pink styling iron clamped onto a section of her dark bob, looking straight into the lens.",
+   "visual_0_3s": "Fast-paced styling action showing the tool clamping, gliding, and forming a loose curl on short hair.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "Immediate close-up action of curling hair with direct eye contact to an upbeat trending track."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Quick multi-angle demonstration of curling short hair with the styler",
+    "Shaking out and styling curls with fingers",
+    "Revealing final bouncy, voluminous wavy bob look"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Easily creates voluminous waves on short bob hairstyles"
+   ],
+   "pain_points": [
+    "Short hair can be difficult to curl or style without awkward kinks"
+   ],
+   "objections_handled": [
+    "Can it work on short hair? Yes, easily curls chin-length bobs"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Whirlwind Curl"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 7.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Short straight dark brunette bob",
+   "hair_after": "Voluminous, textured wavy bob",
+   "setting": "Indoors with modern white interior and wardrobe/mirrors in background",
+   "faces_camera": true,
+   "energy_tone": "Confident, glamorous, chic"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Remix of Madonna's 'La Isla Bonita' playing in the background.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 3.0,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator playfully lip-syncs and poses, showing off the finished voluminous wavy hair."
+  },
+  "notes": "Short, aesthetic UGC routine demo clip featuring Whirlwind Curl with no spoken audio or on-screen captions, relying entirely on visual aesthetic appeal and background music."
+ }
+}

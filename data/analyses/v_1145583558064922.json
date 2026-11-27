@@ -1,0 +1,222 @@
+{
+ "media_key": "v_1145583558064922",
+ "analyzed_at": "2026-11-27T18:43:51+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "bd3cfb2396df631c357382550a777b7202b823b542658b0b28168404083a82c7",
+ "source": {
+  "kind": "video",
+  "id": "1145583558064922",
+  "video_id": "909669338515920",
+  "length_s": 28.533,
+  "permalink": "/23849366283980795/videos/909669338515920/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 29.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates a quick 13-minute blowout using the Wavytalk Blowout Boost thermal round brush, finishing with voluminous, bouncy curls.",
+  "full_description": "A young woman shows her hair half-done with big bouncy waves and explains she will demonstrate how she did it with the Wavytalk Blowout Boost. She shows the time on her phone (1:59 PM) to start a timed demonstration. The video cuts through step-by-step clips of her rolling sections of hair around the thermal brush from roots to ends. At 2:12 PM, she shows her phone screen to prove the entire half took just 13 minutes, then turns to display the lush, glossy, full-bodied blowout from behind.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I just did a blowout on half of my hair and I figured I would show you guys how I did it.",
+    "text_english": "I just did a blowout on half of my hair and I figured I would show you guys how I did it."
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 6.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's 1:59, so let's get started.",
+    "text_english": "It's 1:59, so let's get started."
+   },
+   {
+    "start_s": 18.8,
+    "end_s": 21.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "2:12, and we are all done.",
+    "text_english": "2:12, and we are all done."
+   }
+  ],
+  "transcript_full_original": "I just did a blowout on half of my hair and I figured I would show you guys how I did it. It's 1:59, so let's get started. 2:12, and we are all done.",
+  "transcript_full_english": "I just did a blowout on half of my hair and I figured I would show you guys how I did it. It's 1:59, so let's get started. 2:12, and we are all done.",
+  "word_count": 31,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "text": "Wavytalklb",
+    "role": "brand"
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 4.0,
+    "text": "Wavytalk Blowout Boost",
+    "role": "brand"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing camera showing one side of styled hair, holding up the Wavytalk Blowout Boost brush and showing phone screen displaying 1:59.",
+    "action": "Talking to camera, introducing the tutorial, and revealing the starting time on her phone.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 9.8,
+    "shot_type": "medium shot side angle",
+    "visual": "Creator sectioning her hair with a claw clip and curling the bottom strand with the thermal brush.",
+    "action": "Rolling hair upwards around the barrel and unwrapping smooth curled ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 13.5,
+    "shot_type": "medium close-up",
+    "visual": "Styling the mid-layer section of hair from behind/side angle.",
+    "action": "Wrapping strand around the barrel, rolling down, releasing glossy wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 16.0,
+    "shot_type": "medium shot",
+    "visual": "Creator running fingers through hair section and assessing the curl in front of the mirror.",
+    "action": "Checking texture and curl bounce.",
+    "product_visible": false
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 18.8,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the top and front pieces framing the face.",
+    "action": "Curling front hair strands backwards away from face.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.8,
+    "end_s": 22.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding up phone showing 2:12 PM, displaying completed hair.",
+    "action": "Presenting the time proof to camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 22.3,
+    "end_s": 29.0,
+    "shot_type": "medium shot back view",
+    "visual": "Creator seated with back to camera, flipping and shaking voluminous, layered glossy curls.",
+    "action": "Raking hands through hair to showcase full bounce and texture from behind.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing big blowout volume on half of her hair wearing a polka-dot top.",
+   "visual_0_3s": "Creator talking to camera holding up the baby-blue thermal blowout brush beside her styled hair.",
+   "spoken_0_3s": "I just did a blowout on half of my hair and I figured I would show you guys how I did it.",
+   "text_0_3s": "Wavytalklb / Wavytalk Blowout Boost",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Split comparison showing one side already perfectly blown out, holding the exact tool up."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook with half-done result and tool reveal",
+    "Time challenge setup with phone clock showing 1:59",
+    "Step-by-step section styling montage",
+    "Time reveal at 2:12 showing only 13 minutes elapsed",
+    "Hair flip and final 360 result showcase"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Full blowout achieved in approximately 13 minutes",
+    "Effortless salon-level volume and curl bounce at home"
+   ],
+   "pain_points": [
+    "Blowouts take too long with traditional round brush and blow dryer",
+    "Difficulty managing hair styling tools"
+   ],
+   "objections_handled": [
+    "Time-consuming styling routine (proven in 13 minutes via lockscreen clock)"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 1.1,
+   "first_used_on_hair_s": 6.8,
+   "final_result_shown_s": 22.3,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Brunette, medium-long, smooth/natural texture",
+   "hair_after": "Voluminous, bouncy layered blowout curls with high shine",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, upbeat, casual"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "R&B / lo-fi pop vocal track playing underneath speech and during the tutorial montage",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 4.8,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between styling steps"
+   ],
+   "ending": "Back-of-head showcase shaking voluminous blowout waves."
+  },
+  "notes": "Ad reposted by Wavytalk Lebanon (Wavytalklb watermark on screen). Demonstrates the thermal blowout brush with a strong time-based demonstration (1:59 to 2:12)."
+ }
+}

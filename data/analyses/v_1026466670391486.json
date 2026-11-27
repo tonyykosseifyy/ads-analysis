@@ -1,0 +1,161 @@
+{
+ "media_key": "v_1026466670391486",
+ "analyzed_at": "2026-11-27T21:44:18+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "217c92075fe170ccebb35d07631de55d11a4fd25427d7108e42fbf550e4190db",
+ "source": {
+  "kind": "video",
+  "id": "1026466670391486",
+  "errors": [
+   "1026466670391486: Gave up after 5 retries: https://graph.facebook.com/v26.0/1026466670391486",
+   "1335490425240013: Gave up after 5 retries: https://graph.facebook.com/v26.0/1335490425240013"
+  ],
+  "ig_media_id": "18362670313214247",
+  "permalink": "https://www.instagram.com/p/DcO-k-sM833/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 15.4,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator showcases her voluminous blowout results and demonstrates touch-ups on her bangs using the pink Wavytalk thermal brush.",
+  "full_description": "A creator shows off her finished, bouncy blowout results from the front while holding the pink Wavytalk thermal round brush. She briefly turns around to display the layered curls from the back, then demonstrates curling and lifting her curtain bangs with the heated brush before posing and showcasing the full hairstyle.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 15.4,
+    "text": "If your blowouts don't look like this, you need this Wavytalk brush",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator standing in bedroom showing off voluminous blowout hair while holding the pink Wavytalk thermal brush.",
+    "action": "Creator poses facing the camera, holding the brush horizontally.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.3,
+    "end_s": 2.2,
+    "shot_type": "medium shot (back view)",
+    "visual": "Creator turned around to display the back view of layered bouncy curls.",
+    "action": "Creator turns her back to camera and runs hands through hair to showcase volume.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 10.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing the camera, wrapping front bangs around the heated thermal brush barrel.",
+    "action": "Creator rolls the round brush through her front bangs upward and rolls down to curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.7,
+    "end_s": 15.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the brush next to her face, touching up her side curls and posing.",
+    "action": "Creator admires results in the viewfinder, adjusts her curls, and smiles.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing front with full bouncy curls holding the pink Wavytalk brush with text 'If your blowouts don't look like this, you need this Wavytalk brush'.",
+   "visual_0_3s": "Creator shows front then immediately turns to reveal stunning back curl layers.",
+   "spoken_0_3s": "",
+   "text_0_3s": "If your blowouts don't look like this, you need this Wavytalk brush",
+   "hook_type": "result_first",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Instant reveal of salon-quality voluminous curls and back reveal within first two seconds."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Result reveal (front and back)",
+    "Demo / proof of technique on front bangs",
+    "Final hairstyle showcase"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Produces bouncy, defined blowout curls"
+   ],
+   "pain_points": [
+    "Blowouts not looking voluminous or defined enough"
+   ],
+   "objections_handled": [
+    "Hard to achieve salon-style curtain bangs at home"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Round Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 2.2,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Pre-styled long brown voluminous curls with bangs",
+   "hair_after": "Voluminous blowout with defined flipped curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident and aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Melodic background pop / hip-hop track with male vocals.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 3,
+   "avg_shot_length_s": 3.85,
+   "pacing": "medium",
+   "effects": [],
+   "ending": "Creator holding the brush and posing with a soft smile."
+  },
+  "notes": "Ad relies entirely on aesthetic visual social proof and viral sound rather than spoken narrative."
+ }
+}

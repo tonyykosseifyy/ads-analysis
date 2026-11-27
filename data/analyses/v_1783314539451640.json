@@ -1,0 +1,361 @@
+{
+ "media_key": "v_1783314539451640",
+ "analyzed_at": "2026-11-27T23:12:46+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "bd8d05fdce0b0341f75ae93b44409906ff11f081987fc6c341562860bfc797ba",
+ "source": {
+  "kind": "video",
+  "id": "1783314539451640",
+  "video_id": "1175190161527070",
+  "length_s": 42.236,
+  "permalink": "/23849366283980795/videos/1175190161527070/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 41.79,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator showcases her finished salon-quality blowout at home, then demonstrates how she achieved it using the WavyTalk Blowout Boost thermal brush.",
+  "full_description": "A creator starts with a completed bouncy blowout in front of a wardrobe closet, posing with the WavyTalk Blowout Boost thermal round brush. A flash transition cuts to her in a silk robe styling her hair in sections from roots to ends, explaining how she no longer needs salon bookings to get lifted volume and smooth ends. She returns to her blue-shirt finished look to highlight the convenience, showing styling cut-ins, and concludes with a call-to-action mentioning a 20% discount and a 30-day money-back guarantee.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 80,
+    "en": 20,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "إذا بقدر أعمل هيدا الـ blowout بالبيت، ليه تـ روح إحجز بالصالون؟",
+    "text_english": "If I can do this blowout at home, why would I go book at a salon?"
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 7.3,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "كنت إحسب الوقت اللي بدي ياه لحضر حالي، ويطلع نصه رايح عالشعر.",
+    "text_english": "I used to calculate how much time I needed to get ready, and half of it ended up going into hair."
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 13.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "إحجز blowout بالصالون، صح الـ result يطلع حلو، بس كان لازم أنطر كل مرة بدي شعري يبين مرتب.",
+    "text_english": "Book a blowout at the salon, sure the result turns out nice, but I had to wait every single time I wanted my hair looking neat."
+   },
+   {
+    "start_s": 13.1,
+    "end_s": 17.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "صرت أعمل هيدا الـ salon look لحالي بالبيت مع WavyTalk Blowout Boost.",
+    "text_english": "I started doing this salon look on my own at home with WavyTalk Blowout Boost."
+   },
+   {
+    "start_s": 17.1,
+    "end_s": 22.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "هيدي thermal brush بستعملها ع شعر fully dry، وبقدر نقي الحرارة اللي بتناسب شعري.",
+    "text_english": "This is a thermal brush, I use it on fully dry hair, and I can choose the temperature that suits my hair."
+   },
+   {
+    "start_s": 22.1,
+    "end_s": 24.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بقسمه sections، وبلش من roots to ends.",
+    "text_english": "I divide it into sections, and start from roots to ends."
+   },
+   {
+    "start_s": 24.4,
+    "end_s": 28.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "شوفوا الفرق قديه lifted من الـ roots، smooth finish، و ends كتير حلوين.",
+    "text_english": "Look at the difference, how lifted it is from the roots, smooth finish, and really nice ends."
+   },
+   {
+    "start_s": 28.6,
+    "end_s": 31.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "والأحلى إني عملته بالبيت، وبالوقت اللي بيريحني.",
+    "text_english": "And the best thing is that I did it at home, and whenever it suits my schedule."
+   },
+   {
+    "start_s": 31.1,
+    "end_s": 35.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "صراحة، انغرمت بالـ look. إذا إنتي كمان ما بدك تحجزي بـ salon كل مرة بدك blowout،",
+    "text_english": "Honestly, I fell in love with the look. If you also don't want to book at a salon every time you want a blowout,"
+   },
+   {
+    "start_s": 35.6,
+    "end_s": 41.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "get WavyTalk Blowout Boost هلق وخدي 20% off، وإذا ما عجبك في 30 days guaranteed.",
+    "text_english": "get WavyTalk Blowout Boost now and get 20% off, and if you don't like it there's a 30 days guarantee."
+   }
+  ],
+  "transcript_full_original": "إذا بقدر أعمل هيدا الـ blowout بالبيت، ليه تـ روح إحجز بالصالون؟ كنت إحسب الوقت اللي بدي ياه لحضر حالي، ويطلع نصه رايح عالشعر. إحجز blowout بالصالون، صح الـ result يطلع حلو، بس كان لازم أنطر كل مرة بدي شعري يبين مرتب. صرت أعمل هيدا الـ salon look لحالي بالبيت مع WavyTalk Blowout Boost. هيدي thermal brush بستعملها ع شعر fully dry، وبقدر نقي الحرارة اللي بتناسب شعري. بقسمه sections، وبلش من roots to ends. شوفوا الفرق قديه lifted من الـ roots، smooth finish، و ends كتير حلوين. والأحلى إني عملته بالبيت، وبالوقت اللي بيريحني. صراحة، انغرمت بالـ look. إذا إنتي كمان ما بدك تحجزي بـ salon كل مرة بدك blowout، get WavyTalk Blowout Boost هلق وخدي 20% off، وإذا ما عجبك في 30 days guaranteed.",
+  "transcript_full_english": "If I can do this blowout at home, why would I go book at a salon? I used to calculate how much time I needed to get ready, and half of it ended up going into hair. Book a blowout at the salon, sure the result turns out nice, but I had to wait every single time I wanted my hair looking neat. I started doing this salon look on my own at home with WavyTalk Blowout Boost. This is a thermal brush, I use it on fully dry hair, and I can choose the temperature that suits my hair. I divide it into sections, and start from roots to ends. Look at the difference, how lifted it is from the roots, smooth finish, and really nice ends. And the best thing is that I did it at home, and whenever it suits my schedule. Honestly, I fell in love with the look. If you also don't want to book at a salon every time you want a blowout, get WavyTalk Blowout Boost now and get 20% off, and if you don't like it there's a 30 days guarantee.",
+  "word_count": 109,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.1,
+    "text": "Want this blowout?",
+    "role": "hook"
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 17.5,
+    "text": "Wavytalk\nBlowout Boost",
+    "role": "brand"
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 20.6,
+    "text": "THERMAL BRUSH",
+    "role": "benefit"
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 22.0,
+    "text": "Adjustable Temperature",
+    "role": "benefit"
+   },
+   {
+    "start_s": 26.6,
+    "end_s": 28.5,
+    "text": "Smooth finish",
+    "role": "benefit"
+   },
+   {
+    "start_s": 28.6,
+    "end_s": 31.0,
+    "text": "Done At Home",
+    "role": "benefit"
+   },
+   {
+    "start_s": 37.8,
+    "end_s": 39.5,
+    "text": "20% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 39.6,
+    "end_s": 41.79,
+    "text": "20% OFF\n30 DAYS GUARANTEED",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.2,
+    "shot_type": "medium shot",
+    "visual": "Creator in blue button-down shirt with styled hair, holding the pink WavyTalk Blowout Boost.",
+    "action": "Creator poses with product and speaks to the camera, asking why bother booking at a salon.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 5.4,
+    "shot_type": "medium shot",
+    "visual": "Flash transition into creator wearing a lavender satin robe in front of closets.",
+    "action": "Creator puts top hair in a bun to section it off, talking about styling time.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 7.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator in robe displays a curled section of hair around her finger.",
+    "action": "Creator demonstrates the bouncy curl achieved.",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 12.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator running the thermal brush through a lower hair section, rolling it upward.",
+    "action": "Creator demonstrates using the tool to curl and smooth hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 17.5,
+    "shot_type": "medium shot",
+    "visual": "Creator holding styled section, then holding the brush next to her face and pointing up.",
+    "action": "Creator introduces WavyTalk Blowout Boost by pointing up at the text.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 22.0,
+    "shot_type": "medium shot",
+    "visual": "Creator holding styled curl, then holding the thermal brush while explaining features.",
+    "action": "Creator discusses thermal brush usage on dry hair and adjustable heat settings.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 24.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator rolling front fringe/bangs onto the thermal brush at root level.",
+    "action": "Creator rolls brush upwards through front bangs to create root lift.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.3,
+    "end_s": 28.5,
+    "shot_type": "medium shot",
+    "visual": "Creator with loose styled hair, running hands through roots and ends.",
+    "action": "Creator shows root volume and smooth glossy finish.",
+    "product_visible": false
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 31.0,
+    "shot_type": "medium shot",
+    "visual": "Cut back to creator in blue shirt, adjusting styled bangs in front of closet.",
+    "action": "Creator touches hair to show finished look at home.",
+    "product_visible": false
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 32.5,
+    "shot_type": "medium close-up",
+    "visual": "Quick cut to creator in robe rolling bangs on the brush.",
+    "action": "Quick styling insert of bang blowout.",
+    "product_visible": true
+   },
+   {
+    "start_s": 32.5,
+    "end_s": 36.3,
+    "shot_type": "medium shot",
+    "visual": "Creator in blue shirt showing full hair volume and holding up the Blowout Boost.",
+    "action": "Creator runs fingers through waves and presents the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 36.3,
+    "end_s": 41.79,
+    "shot_type": "close-up",
+    "visual": "Creator in blue shirt talking to camera, text overlay '20% OFF' and '30 DAYS GUARANTEED'.",
+    "action": "Creator delivers call-to-action with hand gestures.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator in light blue shirt holding styled blowout, with text 'Want this blowout?'",
+   "visual_0_3s": "Creator holding the WavyTalk Blowout Boost brush, smiling with finished voluminous hair.",
+   "spoken_0_3s": "إذا بقدر أعمل هيدا الـ blowout بالبيت، ليه تـ روح إحجز بالصالون؟ (If I can do this blowout at home, why would I go book at a salon?)",
+   "text_0_3s": "Want this blowout?",
+   "hook_type": "result_first",
+   "hook_type_secondary": "question",
+   "pattern_interrupt": "Bright flash cut at 0:03 transitioning between finished outfit and prep robe."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Result reveal and rhetorical question hook",
+    "Frustration with salon scheduling and lost prep time",
+    "Product reveal and demo (thermal brush on dry hair, temperature control)",
+    "Sectioning technique from roots to ends for lift and smoothness",
+    "Final result showcase and convenience of styling at home",
+    "Special discount offer (20% off) and satisfaction guarantee CTA"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "volume_and_bounce",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Salon-quality blowout at home",
+    "Used on fully dry hair with adjustable temperature",
+    "Creates lifted roots and smooth ends",
+    "30 days guarantee and 20% discount"
+   ],
+   "pain_points": [
+    "Wasting time traveling to and waiting at salons",
+    "Having salon visits take up half of prep time",
+    "Inconvenience of salon appointment bookings"
+   ],
+   "objections_handled": [
+    "Can I get salon-level lift at home? (Demonstrates root lift technique directly)",
+    "Risk of buying hair tools online (Handled by 30-day money-back guarantee)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Professional hair salon blowout appointments"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost"
+   ],
+   "first_seen_s": 0.8,
+   "first_used_on_hair_s": 7.3,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "20% off + 30-day guarantee",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "get WavyTalk Blowout Boost هلق وخدي 20% off، وإذا ما عجبك في 30 days guaranteed.",
+   "cta_on_screen": "20% OFF\n30 DAYS GUARANTEED",
+   "cta_at_s": 35.6
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20s",
+   "hair_before": "Sectioned dark brunette long hair",
+   "hair_after": "Voluminous, shiny blowout waves with flipped ends and lifted bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, stylish, relatable, persuasive"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Soft rhythmic pop/lifestyle background instrumental track underneath creator's voice",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 10,
+   "avg_shot_length_s": 3.8,
+   "pacing": "medium",
+   "effects": [
+    "white flash transition",
+    "on-screen typography animation"
+   ],
+   "ending": "Creator speaking directly to camera while gesturing, text overlay of 20% off and 30 days guaranteed."
+  },
+  "notes": "Features creator switching between blue button-down shirt (styled finished state) and purple robe (styling in-progress state) in a modern bedroom with built-in wooden closets."
+ }
+}

@@ -1,0 +1,358 @@
+{
+ "media_key": "v_2163600351090732",
+ "analyzed_at": "2026-11-27T18:38:24+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "a279c8f03e18918989913fea437bbc99875d79fa8cf9c34e57af60efc133a34b",
+ "source": {
+  "kind": "video",
+  "id": "2163600351090732",
+  "ig_media_id": "18072208847648250",
+  "permalink": "https://www.instagram.com/p/DW_390qjP6z/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 67.4,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demos the Wavytalk Pro Line Hair Dryer (Turblow Pro) with diffuser on thick curly hair, timing a 12-minute dry test.",
+  "full_description": "A curly-haired creator talks directly to the camera about how drying hair shouldn't take an hour. She introduces the Wavytalk Pro Line Hair Dryer, demonstrating its magnetic nozzle and diffuser attachments, heat/speed buttons, and large diffuser bowl. She then conducts a timed demonstration starting at 12:45 on wet curly hair, showing 50% dry progress at 12:51, and full dry results at 12:57 (12 minutes total), expressing amazement at how fast and defined her curls turned out.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Drying your hair should not take you an hour.",
+    "text_english": "Drying your hair should not take you an hour."
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 4.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let me introduce you to Wavytalk's Pro Line hair dryer.",
+    "text_english": "Let me introduce you to Wavytalk's Pro Line hair dryer."
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 8.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It is designed to dry your hair even faster than a normal hair dryer would.",
+    "text_english": "It is designed to dry your hair even faster than a normal hair dryer would."
+   },
+   {
+    "start_s": 8.9,
+    "end_s": 12.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This hair dryer's fan speed is also just super powerful, so...",
+    "text_english": "This hair dryer's fan speed is also just super powerful, so..."
+   },
+   {
+    "start_s": 12.9,
+    "end_s": 18.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "because you can rely more so on the fan speed, you don't have to bring up the heat level so much, so it's also not going to cause a lot of heat damage.",
+    "text_english": "because you can rely more so on the fan speed, you don't have to bring up the heat level so much, so it's also not going to cause a lot of heat damage."
+   },
+   {
+    "start_s": 18.4,
+    "end_s": 23.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The dryer also comes with magnetic attachments, which is so cool, so you can easily just pop it on and take it off.",
+    "text_english": "The dryer also comes with magnetic attachments, which is so cool, so you can easily just pop it on and take it off."
+   },
+   {
+    "start_s": 24.0,
+    "end_s": 26.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So it comes with a diffuser attachment...",
+    "text_english": "So it comes with a diffuser attachment..."
+   },
+   {
+    "start_s": 26.2,
+    "end_s": 30.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and it also just comes with a regular blow dryer attachment so you can have more direct airflow.",
+    "text_english": "and it also just comes with a regular blow dryer attachment so you can have more direct airflow."
+   },
+   {
+    "start_s": 30.7,
+    "end_s": 33.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "These attachments aren't going to easily pop off.",
+    "text_english": "These attachments aren't going to easily pop off."
+   },
+   {
+    "start_s": 33.3,
+    "end_s": 38.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The diffuser attachment also has like a really large bowl, so you can fit a lot of hair in here.",
+    "text_english": "The diffuser attachment also has like a really large bowl, so you can fit a lot of hair in here."
+   },
+   {
+    "start_s": 38.6,
+    "end_s": 43.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The dryer has three different fan settings and three different heat settings: there's cold, warm, and hot.",
+    "text_english": "The dryer has three different fan settings and three different heat settings: there's cold, warm, and hot."
+   },
+   {
+    "start_s": 44.0,
+    "end_s": 47.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's currently 12:45, so we're going to see how fast I can do my hair.",
+    "text_english": "It's currently 12:45, so we're going to see how fast I can do my hair."
+   },
+   {
+    "start_s": 58.0,
+    "end_s": 61.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Time check: it's 12:57 and we are all done!",
+    "text_english": "Time check: it's 12:57 and we are all done!"
+   },
+   {
+    "start_s": 62.0,
+    "end_s": 67.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I am super impressed with these results. Literally took 12 minutes to dry all...",
+    "text_english": "I am super impressed with these results. Literally took 12 minutes to dry all..."
+   }
+  ],
+  "transcript_full_original": "Drying your hair should not take you an hour. Let me introduce you to Wavytalk's Pro Line hair dryer. It is designed to dry your hair even faster than a normal hair dryer would. This hair dryer's fan speed is also just super powerful, so because you can rely more so on the fan speed, you don't have to bring up the heat level so much, so it's also not going to cause a lot of heat damage. The dryer also comes with magnetic attachments, which is so cool, so you can easily just pop it on and take it off. So it comes with a diffuser attachment and it also just comes with a regular blow dryer attachment so you can have more direct airflow. These attachments aren't going to easily pop off. The diffuser attachment also has like a really large bowl, so you can fit a lot of hair in here. The dryer has three different fan settings and three different heat settings: there's cold, warm, and hot. It's currently 12:45, so we're going to see how fast I can do my hair. Time check: it's 12:57 and we are all done! I am super impressed with these results. Literally took 12 minutes to dry all...",
+  "transcript_full_english": "Drying your hair should not take you an hour. Let me introduce you to Wavytalk's Pro Line hair dryer. It is designed to dry your hair even faster than a normal hair dryer would. This hair dryer's fan speed is also just super powerful, so because you can rely more so on the fan speed, you don't have to bring up the heat level so much, so it's also not going to cause a lot of heat damage. The dryer also comes with magnetic attachments, which is so cool, so you can easily just pop it on and take it off. So it comes with a diffuser attachment and it also just comes with a regular blow dryer attachment so you can have more direct airflow. These attachments aren't going to easily pop off. The diffuser attachment also has like a really large bowl, so you can fit a lot of hair in here. The dryer has three different fan settings and three different heat settings: there's cold, warm, and hot. It's currently 12:45, so we're going to see how fast I can do my hair. Time check: it's 12:57 and we are all done! I am super impressed with these results. Literally took 12 minutes to dry all...",
+  "word_count": 184,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "text": "DRYING YOUR HAIR SHOULD NOT TAKE YOU AN HOUR",
+    "role": "hook"
+   },
+   {
+    "start_s": 2.5,
+    "end_s": 4.5,
+    "text": "Wavytalk's Pro Line Hair Dryer",
+    "role": "brand"
+   },
+   {
+    "start_s": 44.1,
+    "end_s": 46.8,
+    "text": "starting time is 12:45!",
+    "role": "benefit"
+   },
+   {
+    "start_s": 51.5,
+    "end_s": 53.7,
+    "text": "50% dry at 12:51",
+    "role": "benefit"
+   },
+   {
+    "start_s": 58.1,
+    "end_s": 61.2,
+    "text": "dry after ONLY 12 MINUTES!",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting indoors facing camera with long wet ringlet curls, wearing a black tube top.",
+    "action": "Speaks to the camera addressing drying time frustration.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 18.2,
+    "shot_type": "medium shot",
+    "visual": "Creator holding the dark grey Wavytalk Pro Line Hair Dryer in her hands.",
+    "action": "Introduces the hair dryer and explains its powerful airflow reducing the need for damaging heat.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 38.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator showing the magnetic diffuser and concentrator nozzle attachments.",
+    "action": "Snaps the magnetic attachments on and off, pats the diffuser to show secure hold, and spreads hand over the deep bowl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 38.3,
+    "end_s": 43.8,
+    "shot_type": "close-up",
+    "visual": "Close-up of the back handle of the hair dryer showing fan speed slider and LED-lit heat button.",
+    "action": "Finger toggles the fan switch and clicks the heat button through blue (cold), orange (warm), and red (hot).",
+    "product_visible": true
+   },
+   {
+    "start_s": 43.8,
+    "end_s": 46.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding up a MacBook screen showing the time '12:45'.",
+    "action": "Shows starting timestamp to start the drying test.",
+    "product_visible": false
+   },
+   {
+    "start_s": 46.9,
+    "end_s": 51.6,
+    "shot_type": "medium shot",
+    "visual": "Fast-paced montage/timelapse of creator diffusing her long wet curls.",
+    "action": "Scoops curls into the diffuser bowl and diffuses roots and lengths with music playing.",
+    "product_visible": true
+   },
+   {
+    "start_s": 51.6,
+    "end_s": 53.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator shows laptop screen displaying time '12:51'.",
+    "action": "Shows halfway time checkpoint.",
+    "product_visible": false
+   },
+   {
+    "start_s": 53.8,
+    "end_s": 57.9,
+    "shot_type": "medium shot",
+    "visual": "Montage continuing drying process with diffuser from roots to back of head.",
+    "action": "Continues diffusing hair until fully dry.",
+    "product_visible": true
+   },
+   {
+    "start_s": 57.9,
+    "end_s": 61.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator showing laptop screen displaying '12:57'.",
+    "action": "Confirms drying is complete after only 12 minutes.",
+    "product_visible": false
+   },
+   {
+    "start_s": 61.3,
+    "end_s": 67.4,
+    "shot_type": "medium shot",
+    "visual": "Creator shaking out her completely dry, bouncy, defined curls.",
+    "action": "Fluffs her curls, touches hair, and expresses high satisfaction with the result.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera with wet curly hair and large animated text 'DRYING YOUR HAIR SHOULD NOT TAKE YOU AN HOUR'.",
+   "visual_0_3s": "Creator talking passionately to camera, then raising the sleek hair dryer into frame.",
+   "spoken_0_3s": "Drying your hair should not take you an hour. Let me introduce you to Wavytalk's Pro Line...",
+   "text_0_3s": "DRYING YOUR HAIR SHOULD NOT TAKE YOU AN HOUR / Wavytalk's Pro Line Hair Dryer",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Rapidly calling out an hour-long hair drying struggle followed immediately by presenting a high-tech tool solution."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Relatable problem hook: drying hair takes too long",
+    "Product presentation and technology explanation (high airflow vs excessive heat)",
+    "Feature showcase (magnetic attachments, large bowl diffuser, LED heat/speed settings)",
+    "Live time-trial experiment (start time 12:45)",
+    "Midway check (12:51 at 50% dry)",
+    "Final reveal and time result (12:57, 12 minutes total with bouncy definition)"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "less_heat_damage"
+   ],
+   "key_claims": [
+    "Drying long curly hair takes only 12 minutes",
+    "Super powerful airflow allows using lower heat to avoid heat damage",
+    "Magnetic attachments click securely without falling off",
+    "Large bowl diffuser fits significant volume of curls"
+   ],
+   "pain_points": [
+    "Curly hair takes upwards of an hour to dry",
+    "High heat causes damage and frizz",
+    "Diffuser attachments regularly pop off during use"
+   ],
+   "objections_handled": [
+    "Will it cause heat damage? (No, relies on fan speed rather than high heat)",
+    "Will the diffuser fall off? (Demonstrated secure magnetic snap)",
+    "Will it fit long/thick hair? (Large deep bowl fits lots of hair)"
+   ],
+   "social_proof": [],
+   "comparison_to": "a normal hair dryer"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Pro Line Hair Dryer (Turblow Pro)"
+   ],
+   "first_seen_s": 2.2,
+   "first_used_on_hair_s": 47.0,
+   "final_result_shown_s": 58.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Wet, long, dark brunette spiral curls",
+   "hair_after": "Dry, voluminous, ultra-defined bouncy ringlet curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, energetic, enthusiastic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Upbeat, energetic pop/electronic instrumental during the drying demo section.",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 10,
+   "avg_shot_length_s": 6.74,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts",
+    "timelapse / fast motion",
+    "on-screen time graphics"
+   ],
+   "ending": "Cuts off as creator expresses excitement about 12-minute dry results."
+  },
+  "notes": "Ad links to Turblow Pro (sold as Wavytalk Pro Line Hair Dryer in UGC footage). Highly effective curly hair demo focused on time savings (12-minute dry challenge)."
+ }
+}

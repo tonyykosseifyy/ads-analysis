@@ -1,0 +1,487 @@
+{
+ "media_key": "v_2657007264674438",
+ "analyzed_at": "2026-11-27T19:46:44+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "403b9961d908f91fd0af347b9925f304cf7a1228c51125f9530af1f113b0ef07",
+ "source": {
+  "kind": "video",
+  "id": "2657007264674438",
+  "errors": [
+   "2657007264674438: Gave up after 5 retries: https://graph.facebook.com/v26.0/2657007264674438"
+  ],
+  "video_id": "1234832938491148",
+  "length_s": 26.517,
+  "permalink": "/23849366283980795/videos/1234832938491148/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 26.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator showcases how the WavyTalk Blowout Boost creates versatile hairstyles for different moods in just 10-12 minutes.",
+  "full_description": "A young female creator sits on a hotel bed holding the pink WavyTalk Blowout Boost thermal brush, introducing the concept of 'one brush, ten personalities'. She cuts between relatable personas: a messy-hair 'Monday mood' transforming into a sleek blowout 'CEO ready in 12 minutes', followed by romantic dinner waves. She zooms in on the digital temperature screen of the brush, explaining its ceramic and ionic technology that keeps styles frizz-free all day. She then shows the product box and encourages viewers to order via the link below.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 45,
+    "en": 55,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en",
+    "arabizi"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "One brush, 10 personalities.",
+    "text_english": "One brush, 10 personalities."
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 4.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "يلا حفرجيكن today's mood using WavyTalk's Blowout Boost.",
+    "text_english": "Come on, I'll show you today's mood using WavyTalk's Blowout Boost."
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 7.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Monday mood من شعر محمّم وخربان،",
+    "text_english": "Monday mood, from washed and messy hair,"
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 9.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "لـ CEO ready in 12 minutes بس.",
+    "text_english": "to CEO-ready in just 12 minutes."
+   },
+   {
+    "start_s": 9.2,
+    "end_s": 12.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "For romantic dinners, soft Hollywood waves using the medium heat setting,",
+    "text_english": "For romantic dinners, soft Hollywood waves using the medium heat setting,"
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 14.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "مع ceramic و ionic technology،",
+    "text_english": "with ceramic and ionic technology,"
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 17.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "يعني كل hairstyle بضاين all day بلا frizz.",
+    "text_english": "meaning every hairstyle lasts all day without frizz."
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 19.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now I match my hair to my outfit,",
+    "text_english": "Now I match my hair to my outfit,"
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 22.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "لأن بدو 10 minutes و it's very safe for daily use.",
+    "text_english": "because it takes 10 minutes and it's very safe for daily use."
+   },
+   {
+    "start_s": 22.4,
+    "end_s": 24.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Express any version of you.",
+    "text_english": "Express any version of you."
+   },
+   {
+    "start_s": 24.0,
+    "end_s": 26.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Order this ionic brush from the link below!",
+    "text_english": "Order this ionic brush from the link below!"
+   }
+  ],
+  "transcript_full_original": "One brush, 10 personalities. يلا حفرجيكن today's mood using WavyTalk's Blowout Boost. Monday mood من شعر محمّم وخربان، لـ CEO ready in 12 minutes بس. For romantic dinners, soft Hollywood waves using the medium heat setting, مع ceramic و ionic technology، يعني كل hairstyle بضاين all day بلا frizz. Now I match my hair to my outfit, لأن بدو 10 minutes و it's very safe for daily use. Express any version of you. Order this ionic brush from the link below!",
+  "transcript_full_english": "One brush, 10 personalities. Come on, I'll show you today's mood using WavyTalk's Blowout Boost. Monday mood, from washed and messy hair, to CEO-ready in just 12 minutes. For romantic dinners, soft Hollywood waves using the medium heat setting, with ceramic and ionic technology, meaning every hairstyle lasts all day without frizz. Now I match my hair to my outfit, because it takes 10 minutes and it's very safe for daily use. Express any version of you. Order this ionic brush from the link below!",
+  "word_count": 78,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.0,
+    "text": "one brush",
+    "role": "hook"
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 2.0,
+    "text": "10 personalities",
+    "role": "hook"
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 3.0,
+    "text": "yala ha farjikon",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 4.0,
+    "text": "today's mood using",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.0,
+    "end_s": 4.8,
+    "text": "wavy talk's blowout boost",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 5.8,
+    "text": "monday mood",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 6.4,
+    "text": "men shaare mhamam",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.4,
+    "end_s": 7.0,
+    "text": "w kharben",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 7.8,
+    "text": "la ceo",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 8.3,
+    "text": "ready",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.3,
+    "end_s": 9.2,
+    "text": "in 12 minutes bas",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.2,
+    "end_s": 10.4,
+    "text": "for romantic dinners",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.4,
+    "end_s": 11.5,
+    "text": "soft Hollywood waves",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 12.8,
+    "text": "using the medium heat setting",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 13.8,
+    "text": "maa ceramic",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.8,
+    "end_s": 14.8,
+    "text": "w ionic technology",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 15.8,
+    "text": "yeene kel hairstyle",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.8,
+    "end_s": 16.8,
+    "text": "bdayin all day",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.8,
+    "end_s": 17.5,
+    "text": "bala frizz",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 18.5,
+    "text": "now i match",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 19.2,
+    "text": "my hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.2,
+    "end_s": 19.8,
+    "text": "to my outfit",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 20.8,
+    "text": "laa2an bado 10 minutes",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 21.6,
+    "text": "so it's very",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.6,
+    "end_s": 22.4,
+    "text": "safe for daily use",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.4,
+    "end_s": 24.0,
+    "text": "express any version of you",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 24.0,
+    "end_s": 25.4,
+    "text": "order this ionic brush",
+    "role": "cta"
+   },
+   {
+    "start_s": 25.4,
+    "end_s": 26.5,
+    "text": "from the link below",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.8,
+    "shot_type": "medium shot",
+    "visual": "Female creator sitting on a hotel bed, holding the WavyTalk Blowout Boost in front of her.",
+    "action": "Creator gestures with the brush and talks enthusiastically to the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 7.0,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting in a pink top on the bed with frizzy, messy hair.",
+    "action": "She grabs and pulls at her messy hair with an exaggerated stressed face ('Monday mood').",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 9.2,
+    "shot_type": "medium shot",
+    "visual": "Creator in an office chair wearing chic white top and styled voluminous hair.",
+    "action": "She swivels into view smiling confidently, crossing and opening arms ('CEO ready in 12 min').",
+    "product_visible": false
+   },
+   {
+    "start_s": 9.2,
+    "end_s": 10.4,
+    "shot_type": "b-roll",
+    "visual": "Scenic B-roll of an outdoor romantic dinner table with warm hanging lamps overlooking the sea.",
+    "action": "Establishing mood for romantic styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 10.4,
+    "end_s": 12.8,
+    "shot_type": "medium shot",
+    "visual": "Creator standing in bedroom, holding the brush and showcasing her soft Hollywood waves.",
+    "action": "She points to the brush handle while explaining heat settings.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 14.8,
+    "shot_type": "close-up",
+    "visual": "Close-up of the brush handle showing the digital display screen showing temperature.",
+    "action": "Creator's hand holds the handle and highlights the digital screen and ionic controls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 17.5,
+    "shot_type": "medium shot",
+    "visual": "Creator standing in bedroom, holding the brush with animated angry/sparkle sticker above head.",
+    "action": "She talks energetically about frizz-free lasting hold.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 19.8,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting playfully on the edge of the bed flipping her styled hair.",
+    "action": "She runs hands through her hair and shows off how it matches her outfit.",
+    "product_visible": false
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 22.4,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting in room with an animated cartoon clock overlay behind her head.",
+    "action": "She points to the brush indicating it takes only 10 minutes and is safe daily.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.4,
+    "end_s": 24.0,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting on couch in living room holding up the Blowout Boost retail product box.",
+    "action": "She smiles excitedly and displays the product packaging.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.0,
+    "end_s": 26.5,
+    "shot_type": "medium shot",
+    "visual": "Creator back on the bed holding the brush, pointing downward towards the CTA link.",
+    "action": "She points down toward the link and gives a warm smile.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator sitting on a hotel bed holding the pink WavyTalk thermal brush with bold title 'one brush'.",
+   "visual_0_3s": "Creator talking directly to camera holding the brush in hand with dynamic text popping up.",
+   "spoken_0_3s": "One brush, 10 personalities. يلا حفرجيكن today's mood...",
+   "text_0_3s": "one brush / 10 personalities / yala ha farjikon",
+   "hook_type": "curiosity_gap",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Quick cut from conversational bedroom hook to a comical messy-hair 'Monday mood' pose."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Hook: One tool creates 10 different personalities/moods",
+    "Persona 1: Monday morning messy hair quickly transformed into sleek CEO hair in 12 mins",
+    "Persona 2: Romantic evening soft waves using medium heat",
+    "Product tech: Ceramic and ionic tech eliminates frizz and lasts all day",
+    "Speed & safety: Takes only 10 minutes and safe for daily use",
+    "Unboxing tease & CTA: Shows packaging and directs to link below"
+   ],
+   "main_angle": "replaces_multiple_tools",
+   "secondary_angles": [
+    "saves_time",
+    "salon_result_at_home",
+    "frizz_or_curly_solution"
+   ],
+   "key_claims": [
+    "One brush allows 10 different hairstyles/personalities",
+    "Go from messy morning hair to CEO-ready in 12 minutes",
+    "Ceramic and ionic technology keeps hair frizz-free all day",
+    "Safe for daily use and takes only 10 minutes"
+   ],
+   "pain_points": [
+    "Messy, unruly bedhead/washed hair on busy mornings",
+    "Frizz that ruins styling throughout the day",
+    "Taking too long to get ready for different occasions"
+   ],
+   "objections_handled": [
+    "Heat damage: Creator mentions it is safe for daily use and has multiple heat settings",
+    "Time commitment: Done in just 10-12 minutes"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": -1.0,
+   "final_result_shown_s": 7.0,
+   "demo_clarity": "result_only",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Order this ionic brush from the link below!",
+   "cta_on_screen": "order this ionic brush from the link below",
+   "cta_at_s": 24.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Brown, messy, frizzy, medium-long",
+   "hair_after": "Voluminous, blowout curls/soft Hollywood waves, glossy brown",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "energetic, bubbly, relatable, and confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Upbeat, rhythmic background pop track supporting speech",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 2.65,
+   "pacing": "fast",
+   "effects": [
+    "Animated text overlays in Arabizi and English",
+    "Graphic cartoon clock sticker overlay",
+    "Angry/sparkle emotion sticker effect",
+    "Dynamic quick jump cuts"
+   ],
+   "ending": "Creator sits smiling on bed pointing downwards to the call-to-action link"
+  },
+  "notes": "Although styling actions are implied and before/after states are showcased (messy hair vs styled blowout), active brushing through hair is not explicitly captured on camera."
+ }
+}

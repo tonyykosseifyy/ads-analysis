@@ -1,0 +1,213 @@
+{
+ "media_key": "v_1424303485912801",
+ "analyzed_at": "2026-11-27T23:21:22+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "03147e5d6692f21f7596bb642fe7e53b74444294fb7373f3079ce1b46b4be13c",
+ "source": {
+  "kind": "video",
+  "id": "1424303485912801",
+  "errors": [
+   "1424303485912801: Gave up after 5 retries: https://graph.facebook.com/v26.0/1424303485912801",
+   "1920463155504723: Gave up after 5 retries: https://graph.facebook.com/v26.0/1920463155504723"
+  ],
+  "ig_media_id": "17872292550529818",
+  "permalink": "https://www.instagram.com/p/DT8V7eZDLsL/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 33.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A blonde creator uses the pink Wavytalk thermal round brush and velcro rollers to create a voluminous Victoria's Secret bombshell blowout tutorial set to music.",
+  "full_description": "A creator demonstrates how to achieve a voluminous 'Victoria's Secret bombshell blowout' using a pink Wavytalk thermal heated round brush. She styles her long blonde hair in sections, wraps heated strands onto velcro rollers to set, shows a close-up of the Wavytalk tool display, and reveals the finished bouncy blowout results while posing for the camera to background music.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 33.0,
+    "text": "Victorias Secret\nBombshell blowout 🪞🎀",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "shot_type": "medium shot",
+    "visual": "Blonde creator in black shirt in a bedroom, with reference pictures of Victoria's Secret models on the upper right side.",
+    "action": "Creator holds the pink thermal brush in her hair, then shows her smooth blowout hair and smiles at the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 5.0,
+    "shot_type": "medium shot",
+    "visual": "Creator curling front bangs/fringe under with the pink heated round brush, then rolling bangs into a yellow velcro roller.",
+    "action": "Curling bangs with the brush and securing with a velcro roller.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 8.0,
+    "shot_type": "medium shot",
+    "visual": "Creator working on top sections of hair.",
+    "action": "Wrapping hair around the thermal brush from roots to ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 12.0,
+    "shot_type": "medium shot",
+    "visual": "Creator sectioning hair and holding hair clips and rollers.",
+    "action": "Pinning top sections and setting them with hair clips.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 15.0,
+    "shot_type": "medium shot",
+    "visual": "Creator styling side hair section.",
+    "action": "Rolling hair through the thermal brush and clipping the rolled hair in place.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 18.0,
+    "shot_type": "close-up",
+    "visual": "Close-up of hair strands sliding smoothly through the heated bristles of the brush.",
+    "action": "Gliding the thermal brush through hair to smooth and curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 22.0,
+    "shot_type": "medium shot",
+    "visual": "Creator with several rollers in place, styling the remaining bottom lengths.",
+    "action": "Curling the ends inward and outward using the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 26.0,
+    "shot_type": "medium shot",
+    "visual": "Creator unpinning and removing the velcro rollers from her crown.",
+    "action": "Unrolling hair to reveal bouncy, voluminous curled sections.",
+    "product_visible": false
+   },
+   {
+    "start_s": 26.0,
+    "end_s": 28.0,
+    "shot_type": "close-up product shot",
+    "visual": "Close-up of the pink Wavytalk thermal brush handle showing the digital temperature display, power button, and ionic indicator light.",
+    "action": "Holding up the tool directly to the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.0,
+    "end_s": 33.0,
+    "shot_type": "medium shot",
+    "visual": "Creator shaking out and fluffing her styled hair, showing 360 volume and layers.",
+    "action": "Flipping hair, running fingers through it, and posing to show the bombshell blowout result.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Blonde creator twirling the pink thermal brush in her hair alongside reference photos of Victoria's Secret models.",
+   "visual_0_3s": "Creator demonstrating the styling tool with inspiration collage overlay.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Victorias Secret Bombshell blowout 🪞🎀",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Visual collage of celebrity / VS model blowouts paired with immediate tool demo."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Inspiration hook showing desired Victoria's Secret blowout result",
+    "Step-by-step styling with thermal brush and setting with rollers",
+    "Product showcase showing digital heat settings and ionic technology",
+    "Final hair reveal showing bouncy volume and shine"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Creates a voluminous Victoria's Secret bombshell blowout at home"
+   ],
+   "pain_points": [
+    "Flat, lifeless hair lacking volume and shape"
+   ],
+   "objections_handled": [
+    "Difficulty of coordinating a traditional round brush and blowdryer"
+   ],
+   "social_proof": [],
+   "comparison_to": "Victoria's Secret runway model hairstyles"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 28.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, fine blonde hair",
+   "hair_after": "Voluminous, bouncy layered bombshell blowout with soft curved ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "aesthetic, trendy, effortless"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Indie acoustic/lo-fi vocal track singing 'I think I like when it rains...'",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 10,
+   "avg_shot_length_s": 3.3,
+   "pacing": "medium",
+   "effects": [
+    "on-screen image collage overlay",
+    "digital speed cut transitions"
+   ],
+   "ending": "Creator smiling at camera and running hands through finished voluminous blowout."
+  },
+  "notes": "Non-verbal TikTok/Reels style organic UGC demonstrating the Wavytalk thermal round brush for creating popular 90s/Victoria's Secret aesthetic blowout curls."
+ }
+}

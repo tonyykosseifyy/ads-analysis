@@ -1,0 +1,392 @@
+{
+ "media_key": "v_1184404967208730",
+ "analyzed_at": "2026-11-27T18:43:34+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "7940ef5bc88c0b2e33e05a0620db95750172291fc25142cb84f8a8d8220be51b",
+ "source": {
+  "kind": "video",
+  "id": "1184404967208730",
+  "video_id": "1791826258854894",
+  "length_s": 63.6,
+  "permalink": "/122152625727061607/videos/1791826258854894?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 64.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator demonstrates the Wavytalk Turblow Pro high-speed hair dryer with diffuser attachment, showing how it dries her curly hair quickly without frizz or heat damage.",
+  "full_description": "The video features a young woman speaking directly via voiceover in mixed English and Lebanese Arabic while demonstrating the Wavytalk Turblow Pro hair dryer. It begins with a split-screen before/after comparison and shots of her frizzy hair from her previous hair dryer. She introduces the pink Turblow Pro with magnetic attachments (concentrator and diffuser nozzle), highlights its lightweight body under 0.5 kg, high-speed airflow technology, temperature modes with indicator lights, and ionic anti-frizz benefits. She diffuses her damp curly hair to full bounce, showcases the smooth shiny result, flashes back to dry frizzy hair before, highlights the 2-year warranty and 4-week return policy, and delivers a call to action to buy before it sells out.",
+  "language": {
+   "spoken_languages": [
+    "en",
+    "ar"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 20.0,
+    "en": 80.0,
+    "fr": 0.0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's actually insane more women don't know about this.",
+    "text_english": "It's actually insane more women don't know about this."
+   },
+   {
+    "start_s": 2.6,
+    "end_s": 8.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "My old hair dryer left my hair super frizzy, damaged and so hot that I would break a sweat every time.",
+    "text_english": "My old hair dryer left my hair super frizzy, damaged and so hot that I would break a sweat every time."
+   },
+   {
+    "start_s": 8.8,
+    "end_s": 14.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Then, my friend showed me this tool. It's the new hair dryer she saw on her feed and now we're all obsessed.",
+    "text_english": "Then, my friend showed me this tool. It's the new hair dryer she saw on her feed and now we're all obsessed."
+   },
+   {
+    "start_s": 14.9,
+    "end_s": 17.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is the Wavytalk Turblow Pro.",
+    "text_english": "This is the Wavytalk Turblow Pro."
+   },
+   {
+    "start_s": 17.6,
+    "end_s": 22.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Guys it's super powerful, yet تقله أقل من 1 to 0.5 kg.",
+    "text_english": "Guys it's super powerful, yet its weight is less than 1 to 0.5 kg."
+   },
+   {
+    "start_s": 22.3,
+    "end_s": 26.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Not only has it cut down my drying time, guys it's so easy on my wrists.",
+    "text_english": "Not only has it cut down my drying time, guys it's so easy on my wrists."
+   },
+   {
+    "start_s": 26.2,
+    "end_s": 29.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Like فيّ نشف شعري be just one hand.",
+    "text_english": "Like I can dry my hair with just one hand."
+   },
+   {
+    "start_s": 29.2,
+    "end_s": 34.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The Turblow Pro uses powerful high-speed airflow instead of relying on extreme heat.",
+    "text_english": "The Turblow Pro uses powerful high-speed airflow instead of relying on extreme heat."
+   },
+   {
+    "start_s": 34.1,
+    "end_s": 37.4,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "So بنشف شعري كتير بسرعة بلا ما يعمل الهوا كتير سخن.",
+    "text_english": "So it dries my hair very quickly without making the air too hot."
+   },
+   {
+    "start_s": 37.5,
+    "end_s": 40.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now I can dry my hair without breaking a sweat.",
+    "text_english": "Now I can dry my hair without breaking a sweat."
+   },
+   {
+    "start_s": 40.5,
+    "end_s": 47.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Its ionic technology releases millions of negative ions to fight frizz and leaving my hair looking smoother and shinier.",
+    "text_english": "Its ionic technology releases millions of negative ions to fight frizz and leaving my hair looking smoother and shinier."
+   },
+   {
+    "start_s": 47.2,
+    "end_s": 50.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Plus the cool shot helps set my style so it actually lasts.",
+    "text_english": "Plus the cool shot helps set my style so it actually lasts."
+   },
+   {
+    "start_s": 50.5,
+    "end_s": 53.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "ليكوا قدّي dry my hair looked before using this tool.",
+    "text_english": "Look at how dry my hair looked before using this tool."
+   },
+   {
+    "start_s": 53.5,
+    "end_s": 56.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The best part, it comes with a 2-year warranty.",
+    "text_english": "The best part, it comes with a 2-year warranty."
+   },
+   {
+    "start_s": 56.5,
+    "end_s": 59.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Plus في عندكن 4 weeks to return it if you do not love it.",
+    "text_english": "Plus you have 4 weeks to return it if you do not love it."
+   },
+   {
+    "start_s": 60.0,
+    "end_s": 64.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So girls, run to Wavytalk and get yours before it sells out.",
+    "text_english": "So girls, run to Wavytalk and get yours before it sells out."
+   }
+  ],
+  "transcript_full_original": "It's actually insane more women don't know about this. My old hair dryer left my hair super frizzy, damaged and so hot that I would break a sweat every time. Then, my friend showed me this tool. It's the new hair dryer she saw on her feed and now we're all obsessed. This is the Wavytalk Turblow Pro. Guys it's super powerful, yet تقله أقل من 1 to 0.5 kg. Not only has it cut down my drying time, guys it's so easy on my wrists. Like فيّ نشف شعري be just one hand. The Turblow Pro uses powerful high-speed airflow instead of relying on extreme heat. So بنشف شعري كتير بسرعة بلا ما يعمل الهوا كتير سخن. Now I can dry my hair without breaking a sweat. Its ionic technology releases millions of negative ions to fight frizz and leaving my hair looking smoother and shinier. Plus the cool shot helps set my style so it actually lasts. ليكوا قدّي dry my hair looked before using this tool. The best part, it comes with a 2-year warranty. Plus في عندكن 4 weeks to return it if you do not love it. So girls, run to Wavytalk and get yours before it sells out.",
+  "transcript_full_english": "It's actually insane more women don't know about this. My old hair dryer left my hair super frizzy, damaged and so hot that I would break a sweat every time. Then, my friend showed me this tool. It's the new hair dryer she saw on her feed and now we're all obsessed. This is the Wavytalk Turblow Pro. Guys it's super powerful, yet its weight is less than 1 to 0.5 kg. Not only has it cut down my drying time, guys it's so easy on my wrists. Like I can dry my hair with just one hand. The Turblow Pro uses powerful high-speed airflow instead of relying on extreme heat. So it dries my hair very quickly without making the air too hot. Now I can dry my hair without breaking a sweat. Its ionic technology releases millions of negative ions to fight frizz and leaving my hair looking smoother and shinier. Plus the cool shot helps set my style so it actually lasts. Look at how dry my hair looked before using this tool. The best part, it comes with a 2-year warranty. Plus you have 4 weeks to return it if you do not love it. So girls, run to Wavytalk and get yours before it sells out.",
+  "word_count": 218,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "text": "It's insane more women don't know about this",
+    "role": "hook"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "text": "Before",
+    "role": "other"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "text": "After",
+    "role": "other"
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 6.8,
+    "text": "FRIZZY",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "shot_type": "split-screen",
+    "visual": "Split screen comparing dry, flat straight-frizzy hair on the left labelled 'Before' with defined voluminous wavy curls on the right labelled 'After'.",
+    "action": "Creator fluffs her styled hair on the right while running hands through flat frizzy hair on the left.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.5,
+    "end_s": 8.7,
+    "shot_type": "close-up",
+    "visual": "Back of creator's head showing dull, frizzy, tangled hair with red X and text 'FRIZZY'.",
+    "action": "Hands comb through frizzy hair highlighting damage from old dryers.",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 14.8,
+    "shot_type": "product shot",
+    "visual": "Top-down view on white surface showing the pink Wavytalk Turblow Pro with diffuser and concentrator attachments.",
+    "action": "Camera shows the device glowing LED light turning on and attachment switching.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 22.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator standing with damp hair holding the pink Turblow Pro dryer.",
+    "action": "Snaps on the magnetic concentrator nozzle, then snaps on the magnetic diffuser attachment.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.2,
+    "end_s": 26.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the diffuser attached dryer and shaking out her damp curls.",
+    "action": "Demonstrates how lightweight and easy the tool is to hold.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.1,
+    "end_s": 31.5,
+    "shot_type": "close-up",
+    "visual": "Close-up on the dryer handle and ring light showing mode buttons.",
+    "action": "Creator presses the buttons, cycling through heat setting LED rings (blue, orange, red).",
+    "product_visible": true
+   },
+   {
+    "start_s": 31.5,
+    "end_s": 41.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator diffusing her wet dark curls using the diffuser attachment.",
+    "action": "Cups her curls into the diffuser head lifting up towards the scalp from different angles.",
+    "product_visible": true
+   },
+   {
+    "start_s": 41.5,
+    "end_s": 47.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator smiling showing her fully dried, defined, frizz-free, shiny curly hair.",
+    "action": "Turns head, tossing and admiring her defined curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 47.1,
+    "end_s": 50.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the pink Turblow Pro with diffuser near her face.",
+    "action": "Poses playfully and winks while holding the dryer.",
+    "product_visible": true
+   },
+   {
+    "start_s": 50.4,
+    "end_s": 53.4,
+    "shot_type": "close-up",
+    "visual": "Monochrome/desaturated flashback clip of frizzy, dull, unmanageable hair.",
+    "action": "Creator runs fingers through tangled frizzy strands.",
+    "product_visible": false
+   },
+   {
+    "start_s": 53.4,
+    "end_s": 56.4,
+    "shot_type": "product shot",
+    "visual": "Top-down b-roll of the pink Turblow Pro body and nozzle attachments on table, hand picking it up.",
+    "action": "Hand lifts the dryer showing the rear metallic grill and sleek design.",
+    "product_visible": true
+   },
+   {
+    "start_s": 56.4,
+    "end_s": 64.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator with perfect shiny curly hair holding the pink Turblow Pro in front of her eye playfully.",
+    "action": "Smiles and encourages viewers to run and buy before it sells out.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Split screen showing 'Before' frizzy hair on left and 'After' bouncy styled curls on right with text 'It's insane more women don't know about this'.",
+   "visual_0_3s": "Direct comparison of flat frizzy hair versus voluminous wavy curls with creator touching both sides.",
+   "spoken_0_3s": "It's actually insane more women don't know about this.",
+   "text_0_3s": "It's insane more women don't know about this / Before / After",
+   "hook_type": "before_after",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Split screen showing instant contrast between bad hair and stunning curls with a bold curiosity hook."
+  },
+  "structure": {
+   "format": "voiceover_broll",
+   "narrative_beats": [
+    "Hook with before/after contrast and problem callout about hot, damaging old hair dryers",
+    "Product introduction discovered through a friend",
+    "Key product specs: lightweight (<0.5kg), magnetic nozzles, multiple temperature modes",
+    "Demonstration of drying curly hair with diffuser bowl attachment without extreme heat",
+    "Results: shiny, frizz-free defined curls",
+    "Risk-reversal: 2-year warranty and 4-week return policy",
+    "Urgency CTA: order before it sells out"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "less_heat_damage",
+    "saves_time",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Super powerful yet weighs less than 0.5 kg",
+    "Cuts down drying time significantly",
+    "High-speed airflow instead of extreme heat",
+    "Ionic technology releases millions of negative ions to eliminate frizz and boost shine",
+    "Comes with a 2-year warranty and 4-week trial return guarantee"
+   ],
+   "pain_points": [
+    "Heavy old blow dryers that hurt wrists",
+    "Extreme heat that leaves hair frizzy and heat-damaged",
+    "Breaking a sweat while blow-drying hair"
+   ],
+   "objections_handled": [
+    "Is it too heavy? (Weighs under 0.5kg, easily operated with one hand)",
+    "Does it burn hair? (Dries with high-velocity airflow, not extreme heat)",
+    "What if I don't like it? (4-week money-back guarantee and 2-year warranty)"
+   ],
+   "social_proof": [
+    "Friend recommended it after seeing it on social feed",
+    "Everyone in her friend group is now obsessed"
+   ],
+   "comparison_to": "Traditional bulky hair dryers that rely on extreme heat and cause frizz"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Turblow Pro"
+   ],
+   "first_seen_s": 8.7,
+   "first_used_on_hair_s": 31.5,
+   "final_result_shown_s": 41.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "2-year warranty + 4-week return policy",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "before it sells out",
+   "cta_spoken": "So girls, run to Wavytalk and get yours before it sells out.",
+   "cta_on_screen": "",
+   "cta_at_s": 60.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-28",
+   "hair_before": "Damp, dark brown/black, naturally wavy/curly, frizzy when blow-dried traditionally",
+   "hair_after": "Voluminous, deeply defined, shiny dark brunette curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, relatable, friendly"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Soft upbeat modern instrumental background track",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 4.5,
+   "pacing": "medium",
+   "effects": [
+    "split-screen",
+    "color desaturation (flashback)",
+    "animated sticker (red cross)"
+   ],
+   "ending": "Creator playfully covers one eye with the diffuser nozzle and smiles at the camera."
+  },
+  "notes": "Targeted at Lebanese curly/wavy-haired women with code-switched Lebanese Arabic and English speech. Shows clear attachments (magnetic concentrator and deep diffuser bowl)."
+ }
+}

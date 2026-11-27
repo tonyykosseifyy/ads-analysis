@@ -1,0 +1,316 @@
+{
+ "media_key": "v_1674634540156052",
+ "analyzed_at": "2026-11-27T18:41:31+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "7fddac7d68117b066230840ae6f024d4a6cd66ce4f2c3c5590225850c1402d8a",
+ "source": {
+  "kind": "video",
+  "id": "1674634540156052",
+  "video_id": "1512972440070103",
+  "length_s": 24.193,
+  "permalink": "/23849366283980795/videos/1512972440070103/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 23.63,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates styling her hair with the Wavytalk Turblow Pro high-speed hair dryer, highlighting celebrity stylist endorsement and winter sale discount.",
+  "full_description": "A creator showcases the Wavytalk high-speed hair dryer (Turblow Pro) with a magnetic nozzle attachment while an AI/TTS voiceover explains that Sabrina Carpenter's stylist uses it for her blowouts. The video displays a magazine clipping of Sabrina Carpenter and Wavytalk branding, before demonstrating section-by-section blowout styling with a round brush. The creator shows smooth, bouncy results dried with powerful airflow rather than extreme heat, accompanied by persistent on-screen promotional graphics for a 25% off winter sale.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Sabrina Carpenter's stylist uses this high speed hair dryer for her iconic blowouts.",
+    "text_english": "Sabrina Carpenter's stylist uses this high speed hair dryer for her iconic blowouts."
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 8.7,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "My bougie on a budget girls need to know we're finally getting access to luxury brand results that are one-tenth of the price.",
+    "text_english": "My bougie on a budget girls need to know we're finally getting access to luxury brand results that are one-tenth of the price."
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 11.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Even celebrities' stylists are recommending Wavytalk's new Pro line.",
+    "text_english": "Even celebrities' stylists are recommending Wavytalk's new Pro line."
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 16.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I'm absolutely obsessed with how fast this dries my thick curly hair, but also how smooth and shiny it looks from the negative ions.",
+    "text_english": "I'm absolutely obsessed with how fast this dries my thick curly hair, but also how smooth and shiny it looks from the negative ions."
+   },
+   {
+    "start_s": 16.6,
+    "end_s": 21.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "And because it uses aircraft turbine engine technology by drying your hair with the powerful airflow and not heat,",
+    "text_english": "And because it uses aircraft turbine engine technology by drying your hair with the powerful airflow and not heat,"
+   },
+   {
+    "start_s": 21.6,
+    "end_s": 23.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "so you'll be left with a beautiful healthy blowout.",
+    "text_english": "so you'll be left with a beautiful healthy blowout."
+   }
+  ],
+  "transcript_full_original": "Sabrina Carpenter's stylist uses this high speed hair dryer for her iconic blowouts. My bougie on a budget girls need to know we're finally getting access to luxury brand results that are one-tenth of the price. Even celebrities' stylists are recommending Wavytalk's new Pro line. I'm absolutely obsessed with how fast this dries my thick curly hair, but also how smooth and shiny it looks from the negative ions. And because it uses aircraft turbine engine technology by drying your hair with the powerful airflow and not heat, so you'll be left with a beautiful healthy blowout.",
+  "transcript_full_english": "Sabrina Carpenter's stylist uses this high speed hair dryer for her iconic blowouts. My bougie on a budget girls need to know we're finally getting access to luxury brand results that are one-tenth of the price. Even celebrities' stylists are recommending Wavytalk's new Pro line. I'm absolutely obsessed with how fast this dries my thick curly hair, but also how smooth and shiny it looks from the negative ions. And because it uses aircraft turbine engine technology by drying your hair with the powerful airflow and not heat, so you'll be left with a beautiful healthy blowout.",
+  "word_count": 91,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 23.63,
+    "text": "OMG!",
+    "role": "hook"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 23.63,
+    "text": "Winter Sale\n25% OFF Sitewide",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "text": "Sabrina Carpenters stylist uses this high speed hair dryer for her iconic blowouts",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 4.1,
+    "text": "WAVYTALK\nSabrina's Hair Stylist shared her hair essentials using Wavytalk Hair Tools",
+    "role": "other"
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 8.7,
+    "text": "my bougie on a budget girls need to know we're finally getting access to luxury brand results that are one-tenth of the price",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 11.5,
+    "text": "even celebrities stylists are recommending Wavytalk's new pro line",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 16.6,
+    "text": "I'm absolutely obsessed with how fast this dries my thick curly hair but also how smooth and shiny it looks from the negative ions",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.6,
+    "end_s": 21.6,
+    "text": "because it uses aircraft turbine engine technology by drying your hair with the powerful airflow and not heat",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.6,
+    "end_s": 23.63,
+    "text": "so you'll be left with a beautiful healthy blowout",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.7,
+    "shot_type": "medium shot",
+    "visual": "Creator standing in bathroom holding pink Wavytalk hair dryer body in one hand and magnetic concentrator nozzle in the other. A graphic featuring Sabrina Carpenter and Wavytalk appears in the center.",
+    "action": "Creator snaps the magnetic nozzle onto the dryer and inspects it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 3.8,
+    "shot_type": "medium shot",
+    "visual": "Creator sectioning damp hair and blow drying the roots from behind.",
+    "action": "Creator lifts top section of hair and directs air from the pink dryer to the crown.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 6.8,
+    "shot_type": "medium shot",
+    "visual": "Creator rough drying long hair with the Wavytalk dryer.",
+    "action": "Creator runs fingers through hair while drying lengths, showing texture.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 8.7,
+    "shot_type": "close-up",
+    "visual": "Creator holds the pink hair dryer up close, demonstrating attaching and detaching the magnetic styling nozzle.",
+    "action": "Attaches nozzle to the front barrel with a snap.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 11.5,
+    "shot_type": "medium shot",
+    "visual": "Creator rolling hair on a round styling brush while pointing the concentrator nozzle down the hair shaft.",
+    "action": "Smooths a section using the round brush and hair dryer in tandem.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 16.6,
+    "shot_type": "medium shot",
+    "visual": "Creator continuing blowout on front and side sections, clipping top hair out of the way.",
+    "action": "Blow dries downward along the round brush to create a smooth, sleek finish.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.6,
+    "end_s": 18.7,
+    "shot_type": "medium shot",
+    "visual": "Creator displays one completed, sleek side of her hair compared to the rest.",
+    "action": "Shakes and touches her smooth, shiny hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 18.7,
+    "end_s": 21.6,
+    "shot_type": "close-up",
+    "visual": "Creator wrapping the end of a section tightly around the round brush with the dryer focused on it, then unrolling a shiny curled strand.",
+    "action": "Unrolls a perfectly smooth curl from the brush and holds it up to the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.6,
+    "end_s": 23.63,
+    "shot_type": "medium shot",
+    "visual": "Finished blowout with full volume and styled curtain bangs.",
+    "action": "Creator runs hands through her hair and smiles, displaying the bouncy healthy blowout.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator smiling in bathroom holding the pink Wavytalk hair dryer and magnetic nozzle with an overlay picture of Sabrina Carpenter.",
+   "visual_0_3s": "Creator attaching nozzle to dryer, then rough drying roots, with Sabrina Carpenter graphic and 'OMG!' sticker.",
+   "spoken_0_3s": "Sabrina Carpenter's stylist uses this high speed hair dryer for her iconic blowouts.",
+   "text_0_3s": "OMG! / Winter Sale 25% OFF Sitewide / Sabrina Carpenters stylist uses this high speed hair dryer for her iconic blowouts",
+   "hook_type": "expert_or_hairdresser",
+   "hook_type_secondary": "social_proof",
+   "pattern_interrupt": "Name-dropping celebrity pop star Sabrina Carpenter paired with an image cutout of her performance and Wavytalk tools."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Celebrity association hook linking Sabrina Carpenter's look to the hair dryer",
+    "Value proposition addressing 'bougie on a budget' audiences seeking luxury results at 1/10th the price",
+    "Step-by-step blowout demo showing magnetic attachment and brush drying",
+    "Technical benefits explaining negative ions and aircraft turbine airflow drying without heat damage",
+    "Final bouncy blowout showcase"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "price_value_vs_dyson",
+    "less_heat_damage",
+    "social_proof_popularity"
+   ],
+   "key_claims": [
+    "Used by Sabrina Carpenter's celebrity stylist",
+    "Luxury brand results for 1/10th of the price",
+    "Dries thick curly hair extremely fast",
+    "Negative ions produce smooth and shiny finish",
+    "Aircraft turbine engine technology dries with airflow, not damaging heat"
+   ],
+   "pain_points": [
+    "Expensive luxury hair tools",
+    "Long drying times for thick curly hair",
+    "Heat damage from traditional blow dryers",
+    "Frizzy, dull finish after drying"
+   ],
+   "objections_handled": [
+    "Is it too cheap to be effective? Stylists use it and results rival high-end brands.",
+    "Will heat fry my hair? Powerful airflow dries it without extreme heat."
+   ],
+   "social_proof": [
+    "Sabrina Carpenter's stylist endorsement",
+    "Celebrity stylist recommendations"
+   ],
+   "comparison_to": "High-end luxury brand hair dryers (e.g. Dyson / luxury tools at 10x the price)"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Turblow Pro High Speed Hair Dryer"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 1.7,
+   "final_result_shown_s": 21.6,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Winter Sale: 25% OFF Sitewide",
+   "price_mentioned": "1/10th of the price",
+   "discount_code": "",
+   "urgency": "Winter Sale limited time",
+   "cta_spoken": "",
+   "cta_on_screen": "Winter Sale 25% OFF Sitewide (with yellow arrow pointing down to link)",
+   "cta_at_s": 0.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Damp, wavy/frizzy long brown hair with straight bangs",
+   "hair_after": "Silky, smooth, voluminous blowout with bouncy curled ends and styled bangs",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic and upbeat"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle upbeat social media background instrumental under voiceover track",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 2.95,
+   "pacing": "fast",
+   "effects": [
+    "image overlay cutout",
+    "pop-up animated stickers",
+    "karaoke burned-in subtitles",
+    "animated click arrow sticker"
+   ],
+   "ending": "Talent smiles and flaunts her completed glossy blowout while touching her bangs."
+  },
+  "notes": "Original English TikTok UGC video repurposed by the reseller for Meta performance ads with a static 'Winter Sale 25% OFF Sitewide' sticker and arrow pointing to the ad action button."
+ }
+}

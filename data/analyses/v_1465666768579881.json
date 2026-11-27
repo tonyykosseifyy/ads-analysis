@@ -1,0 +1,252 @@
+{
+ "media_key": "v_1465666768579881",
+ "analyzed_at": "2026-11-27T18:43:04+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "40c66740f476fa9029b1b5f78f7880fc92a647d041c73c7259dcccb8b68de294",
+ "source": {
+  "kind": "video",
+  "id": "1465666768579881",
+  "video_id": "964498979811033",
+  "length_s": 48.772,
+  "permalink": "/23849366283980795/videos/964498979811033/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 49.3,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator shares an enthusiastic review and demo of the Wavytalk Airflow styler (Whirlwind Curl), highlighting how fast and natural the waves look.",
+  "full_description": "A young Lebanese creator films a selfie UGC-style review at home. She starts by releasing a curl from the pink speckled Wavytalk Airflow tool (Whirlwind Curl), showing off bouncy, natural waves. She talks to the camera praising Wavytalk tools (also holding up the Blowout Boost round brush), explaining how quick it is (10 minutes) for busy mornings, university, work, and post-gym styling. A demo clip shows her curling a strand using the 360-degree cool air vent tool, followed by her standing up to display the full, natural curls and noting that you can achieve both soft waves and tighter curls.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 80,
+    "en": 20,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 3.4,
+    "end_s": 8.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Guys عنجد كل مرة I'm obsessed كيف بيطلع شعري من بعد ما استعمل Wavytalk products.",
+    "text_english": "Guys, seriously every time I'm obsessed with how my hair turns out after using Wavytalk products."
+   },
+   {
+    "start_s": 8.6,
+    "end_s": 12.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "هلق عم بستعمل الـ Airflow بس حتى وقت عم بستعمل الـ Wavytalk Blowout Boost,",
+    "text_english": "Right now I'm using the Airflow, but even when I'm using the Wavytalk Blowout Boost,"
+   },
+   {
+    "start_s": 12.4,
+    "end_s": 17.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "guys عنجد كل مرة شعري بيطلع أحلى من مرة and it takes me 10 minutes لأعمله.",
+    "text_english": "guys seriously every time my hair turns out nicer than the last, and it takes me 10 minutes to do it."
+   },
+   {
+    "start_s": 17.1,
+    "end_s": 20.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "It's the best tool إذا دايماً عندكم جامعة عالصبح وبدكم تظبطوا حالكم،",
+    "text_english": "It's the best tool if you always have university in the morning and need to fix your hair,"
+   },
+   {
+    "start_s": 20.1,
+    "end_s": 25.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أو إذا دايماً مشغولين شغل أو ضهرات أو هيك وبدكم مستعجلين، this is the best tool ever.",
+    "text_english": "or if you're always busy with work or outings or whatever and you're in a rush, this is the best tool ever."
+   },
+   {
+    "start_s": 25.6,
+    "end_s": 33.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "والحلو كمان إنه إيام باخده معي بعد السبور، إنه قادرة فيي آخده معي وين ما كان، وبظبط شعري قبل ما إرجع أضهر بعد الحمام.",
+    "text_english": "And the nice thing too is sometimes I take it with me after sports; I can take it anywhere with me and style my hair before going out again after a shower."
+   },
+   {
+    "start_s": 33.2,
+    "end_s": 38.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Fa guys عنجد ليكوا، I'm literally obsessed مع الـ curls لأنه كتير natural.",
+    "text_english": "So guys really look, I'm literally obsessed with the curls because they are so natural."
+   },
+   {
+    "start_s": 38.4,
+    "end_s": 42.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أنا ما بحب الـ curls القوية، بس الحلو بهيدا الـ tool فيكم تعملوا both.",
+    "text_english": "I don't like tight curls, but the nice thing about this tool is you can do both."
+   },
+   {
+    "start_s": 42.2,
+    "end_s": 49.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "يعني فيكم تعملوا curls natural وفيكم تعملوا كمان curls كتير قوية، فيكم تشوفوهن عنا على الـ profile، عاملين كذا style...",
+    "text_english": "Meaning you can do natural curls and you can also do very tight curls. You can see them on our profile, we did several styles..."
+   }
+  ],
+  "transcript_full_original": "Guys عنجد كل مرة I'm obsessed كيف بيطلع شعري من بعد ما استعمل Wavytalk products. هلق عم بستعمل الـ Airflow بس حتى وقت عم بستعمل الـ Wavytalk Blowout Boost, guys عنجد كل مرة شعري بيطلع أحلى من مرة and it takes me 10 minutes لأعمله. It's the best tool إذا دايماً عندكم جامعة عالصبح وبدكم تظبطوا حالكم، أو إذا دايماً مشغولين شغل أو ضهرات أو هيك وبدكم مستعجلين، this is the best tool ever. والحلو كمان إنه إيام باخده معي بعد السبور، إنه قادرة فيي آخده معي وين ما كان، وبظبط شعري قبل ما إرجع أضهر بعد الحمام. Fa guys عنجد ليكوا، I'm literally obsessed مع الـ curls لأنه كتير natural. أنا ما بحب الـ curls القوية، بس الحلو بهيدا الـ tool فيكم تعملوا both. يعني فيكم تعملوا curls natural وفيكم تعملوا كمان curls كتير قوية، فيكم تشوفوهن عنا على الـ profile، عاملين كذا style...",
+  "transcript_full_english": "Guys, seriously every time I'm obsessed with how my hair turns out after using Wavytalk products. Right now I'm using the Airflow, but even when I'm using the Wavytalk Blowout Boost, guys seriously every time my hair turns out nicer than the last, and it takes me 10 minutes to do it. It's the best tool if you always have university in the morning and need to fix your hair, or if you're always busy with work or outings or whatever and you're in a rush, this is the best tool ever. And the nice thing too is sometimes I take it with me after sports; I can take it anywhere with me and style my hair before going out again after a shower. So guys really look, I'm literally obsessed with the curls because they are so natural. I don't like tight curls, but the nice thing about this tool is you can do both. Meaning you can do natural curls and you can also do very tight curls. You can see them on our profile, we did several styles...",
+  "word_count": 146,
+  "speech_starts_at_s": 3.4,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.3,
+    "shot_type": "medium shot",
+    "visual": "Creator sits in an office chair, unwrapping a strand of hair from the pink speckled Wavytalk Airflow styler, showing off a styled wavy strand.",
+    "action": "Creator glides and releases the iron from her hair, tosses her hair, and smiles.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.3,
+    "end_s": 9.5,
+    "shot_type": "medium shot",
+    "visual": "Creator faces the camera holding the Wavytalk Airflow styler while talking excitedly.",
+    "action": "Creator gestures with her hand, talks about being obsessed with the brand's products, and displays the device.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 12.5,
+    "shot_type": "medium shot",
+    "visual": "Creator holds up the Wavytalk Blowout Boost thermal round brush in her left hand alongside the Airflow styler.",
+    "action": "Creator references using both styling tools.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.5,
+    "end_s": 25.8,
+    "shot_type": "medium shot",
+    "visual": "Creator continues speaking to camera holding the pink speckled Airflow tool.",
+    "action": "Creator touches her hair, emphasizes speed (10 minutes), and mentions university and work routines.",
+    "product_visible": true
+   },
+   {
+    "start_s": 25.8,
+    "end_s": 33.2,
+    "shot_type": "medium shot",
+    "visual": "B-roll demo cut: Creator uses the Airflow styler on a front section of hair, pulling it through and letting the wave form.",
+    "action": "Creator curls hair with the device, pulls down slowly, and checks the curled strand in the camera viewfinder.",
+    "product_visible": true
+   },
+   {
+    "start_s": 33.2,
+    "end_s": 49.3,
+    "shot_type": "medium shot",
+    "visual": "Creator stands up closer to the camera showcasing the full result of loose, voluminous curls.",
+    "action": "Creator runs hands through hair, flips it gently, smiles, and describes the versatility of the tool.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink Airflow tool to her head, twisting a strand around it.",
+   "visual_0_3s": "Creator unwinds the tool from a section of her hair and shakes out her freshly curled wavy hair.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Immediate product action: releasing a curl from the tool in the opening second without preamble."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Quick visual curl release hook",
+    "Passionate testimonial praising Wavytalk products",
+    "Speed and convenience claim (10 minutes, university/busy schedule)",
+    "Portability mention (post-gym styling)",
+    "Close-up demo of tool in action",
+    "Final result showcase with versatility benefit (natural vs tight curls)"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "travel_or_on_the_go"
+   ],
+   "key_claims": [
+    "Takes only 10 minutes to do entire hair",
+    "Can achieve both loose natural curls and tighter curls",
+    "Portable and easy to use on the go after the gym"
+   ],
+   "pain_points": [
+    "Rushing in the morning for university or work",
+    "Styling hair takes too long",
+    "Unnatural, overly tight curls"
+   ],
+   "objections_handled": [
+    "I don't like stiff curls: creator shows soft, natural waves while confirming tight curls are also possible."
+   ],
+   "social_proof": [
+    "Creator mentions styles posted on the official profile"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Airflow Styler / Whirlwind Curl",
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 2.5,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "فيكم تشوفوهن عنا على الـ profile",
+   "cta_on_screen": "",
+   "cta_at_s": 46.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, dark brunette wavy styled hair",
+   "hair_after": "Voluminous, shiny, soft natural curls/waves",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, casual, friendly, relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "None",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 9.86,
+   "pacing": "medium",
+   "effects": [],
+   "ending": "Creator continues running her fingers through her hair while speaking to check out the profile styles before the video cuts off."
+  },
+  "notes": "The video focuses on the Wavytalk Airflow styler (Whirlwind Curl), with a brief cameo of the Blowout Boost thermal brush."
+ }
+}

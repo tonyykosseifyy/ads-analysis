@@ -1,0 +1,213 @@
+{
+ "media_key": "v_1495483858513435",
+ "analyzed_at": "2026-11-27T18:40:06+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "69330214d014e719e874dd9fa7761465ce8dfa7d3b4dbf856129fc3008e590d4",
+ "source": {
+  "kind": "video",
+  "id": "1495483858513435",
+  "video_id": "1006588052302111",
+  "length_s": 38.266,
+  "permalink": "/23849366283980795/videos/1006588052302111/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 37.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A redheaded creator demonstrates transforming her frizzy, brushed-out hair into a sleek, bouncy blowout using the Wavytalk Thermal Brush.",
+  "full_description": "A vertical UGC video ad featuring a young redheaded woman styling her hair with the Wavytalk Thermal Brush. The video opens with a quick before-and-after contrast: first showing her extremely frizzy, puffy red hair, immediately cutting to a silky, bouncy blowout. She then presents the Wavytalk Thermal Brush to the camera and demonstrates how she uses it to glide through and roll sections of hair. She reveals a half-done comparison showing one side smooth and sleek while the other remains puffy and frizzy. Finally, she finishes styling, shows off the shiny, voluminous final blowout, and holds the brush up to the lens with a satisfied smile. Background indie-pop music plays throughout without spoken dialogue.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "text": "Watch me go from this...",
+    "role": "hook"
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 3.5,
+    "text": "To this with my Wavytalk Thermal Brush",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "medium close-up",
+    "visual": "Young woman with long, frizzy, brushed-out red hair shaking her hair facing the camera.",
+    "action": "Creator shakes her hands through her huge, frizzy hair to emphasize texture and volume.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 2.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator flips her transformed smooth, curled blowout towards the camera.",
+    "action": "Creator shakes and tosses her shiny, smooth hair, demonstrating the 'after' result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.5,
+    "end_s": 3.8,
+    "shot_type": "close-up",
+    "visual": "Creator holds the pink/rose-gold Wavytalk Thermal Brush directly in front of the lens.",
+    "action": "Creator presents the thermal brush to the viewer.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 16.5,
+    "shot_type": "medium shot",
+    "visual": "Creator in a bathroom with top hair clipped up, holding a bottom section of frizzy hair.",
+    "action": "Creator slowly brushes and rolls the thermal brush through a thick hair strand, turning frizzy hair into a smooth curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 23.5,
+    "shot_type": "medium shot",
+    "visual": "Side-by-side comparison on her own head: one side completely styled and smooth, the other frizzy.",
+    "action": "Creator points out the completed smooth side vs the untamed side, then prepares another section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 28.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling a front face-framing layer with the brush.",
+    "action": "Creator rolls the brush away from her face to create a sweeping blowout curl, releasing a glossy strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.0,
+    "end_s": 32.0,
+    "shot_type": "medium close-up",
+    "visual": "Finished hair styled completely, creator shaking and running fingers through it.",
+    "action": "Creator smiles, shakes out her shiny, voluminous, bouncy hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 32.0,
+    "end_s": 34.8,
+    "shot_type": "medium shot",
+    "visual": "Creator admiring her hair and posing in front of the camera.",
+    "action": "Creator touches up her fringe and displays the full blowout shape.",
+    "product_visible": false
+   },
+   {
+    "start_s": 34.8,
+    "end_s": 37.8,
+    "shot_type": "close-up",
+    "visual": "Creator playfully thrusts the Wavytalk Thermal Brush towards the lens.",
+    "action": "Creator brings the brush into close-up showing the brand logo, smiling happily behind it.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator shaking her wild, frizzy, brushed-out red hair with text 'Watch me go from this...'",
+   "visual_0_3s": "Shaking frizzy hair, immediately transitioning into a glossy hair flip and revealing the tool.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Watch me go from this... To this with my Wavytalk Thermal Brush",
+   "hook_type": "before_after",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Instant 1.8-second jump cut from extreme frizz to salon-grade silky blowout."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Hook with extreme frizz before-and-after flash",
+    "Product reveal",
+    "Step-by-step curling demo on bottom layer",
+    "Half-and-half comparison (styled vs unstyled)",
+    "Styling front layers",
+    "Final voluminous result reveal and brush showcase"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Tames extreme frizz effortlessly",
+    "Creates smooth, bouncy blowout curls quickly"
+   ],
+   "pain_points": [
+    "Frizzy, brushed-out curly hair that looks poofy and untamed",
+    "Difficulty achieving smooth blowout results at home"
+   ],
+   "objections_handled": [
+    "Can it handle coarse, poofy, or very frizzy hair? (Shown clearly smoothing thick frizzy hair in one pass)"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush"
+   ],
+   "first_seen_s": 2.5,
+   "first_used_on_hair_s": 4.5,
+   "final_result_shown_s": 1.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Voluminous, frizzy, brushed-out ginger/red hair",
+   "hair_after": "Shiny, smooth, bouncy blowout with defined curled ends",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "playful, confident, satisfying"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Soft indie pop female vocal track with acoustic guitar and light beat.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 4.2,
+   "pacing": "fast",
+   "effects": [
+    "speed ramp",
+    "jump cuts"
+   ],
+   "ending": "Creator thrusts the Wavytalk Thermal Brush toward the camera and beams at the viewer."
+  },
+  "notes": "Ad relies entirely on visual demonstration and dramatic before/after contrast for frizzy hair, optimized for sound-off social media consumption."
+ }
+}

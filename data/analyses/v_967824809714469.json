@@ -1,0 +1,238 @@
+{
+ "media_key": "v_967824809714469",
+ "analyzed_at": "2026-11-27T19:50:00+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "2f9c849a30fd1f7f10b6c1a2c19729971dff2815cb2efb8f19871fe9d9c13849",
+ "source": {
+  "kind": "video",
+  "id": "967824809714469",
+  "video_id": "1408018001401135",
+  "length_s": 32.135,
+  "permalink": "/23849366283980795/videos/1408018001401135/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 31.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A redhead creator demos the 2-in-1 WavyTalk Whirlwind Curl styler, showing bouncy curls on one side and sleek straight hair on the other.",
+  "full_description": "A stylish redheaded beauty creator demonstrates the WavyTalk Whirlwind Curl Airflow Styler and Straightener. She introduces the tool, highlights its cool air curling technology, curls one side of her hair into bouncy defined spirals, and then straightens the other half to prove its versatility. She presents a side-by-side comparison asking viewers which style they prefer, before revealing her fully styled curled look.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 2.0,
+    "end_s": 3.2,
+    "text": "Let's style my hair with WĀVYTĀLK ❤️",
+    "role": "hook"
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 4.5,
+    "text": "Whirlwind Curl Airflow Styler and Straightener",
+    "role": "brand"
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 6.2,
+    "text": "Cool Air curling technology",
+    "role": "benefit"
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 21.8,
+    "text": "You can straighten with it as well!",
+    "role": "benefit"
+   },
+   {
+    "start_s": 25.8,
+    "end_s": 28.0,
+    "text": "Which side do you prefer? Straight Curly",
+    "role": "other"
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 31.8,
+    "text": "And here is the full look ❤️",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "shot_type": "medium shot",
+    "visual": "Redhead creator seated facing camera in front of a neutral grey studio backdrop.",
+    "action": "Creator gestures to her long red hair, shakes it out playfully.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 5.8,
+    "shot_type": "close-up",
+    "visual": "Creator holds the pink WavyTalk Whirlwind Curl directly in front of the lens.",
+    "action": "She presents the device, pointing out the cooling air vents and temperature controls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 10.0,
+    "shot_type": "close-up",
+    "visual": "Close-up of hair strand wrapping and pulling through the barrel.",
+    "action": "She releases a tight, glossy spiral curl and smiles in satisfaction.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.0,
+    "end_s": 16.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling upper sections with her hair pinned up.",
+    "action": "She glides the tool through another section, showing how easily curls are formed.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 19.5,
+    "shot_type": "medium shot",
+    "visual": "Creator showing one fully curled side with voluminous waves.",
+    "action": "She taps her chin and points to the unstyled side to transition to straightening.",
+    "product_visible": false
+   },
+   {
+    "start_s": 19.5,
+    "end_s": 25.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator clamping the plates flat over hair sections.",
+    "action": "She glides the styler downward, demonstrating smooth flat-iron straightening.",
+    "product_visible": true
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 28.0,
+    "shot_type": "medium shot",
+    "visual": "Split comparison framing: sleek straight hair on left, bouncy curls on right.",
+    "action": "She points to both sides with on-screen text comparing straight vs curly.",
+    "product_visible": false
+   },
+   {
+    "start_s": 28.0,
+    "end_s": 29.8,
+    "shot_type": "medium shot",
+    "visual": "Rear hair flip view.",
+    "action": "Creator turns her back to display the full, shiny texture and bounce of the curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 29.8,
+    "end_s": 31.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator resting the styler against her cheek in a glam beauty pose.",
+    "action": "She smiles into the camera with her completed full-curled hairstyle.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator with long copper red hair pointing at her hair and smiling.",
+   "visual_0_3s": "High-energy hair shake displaying vibrant copper hair followed by quick cut to product showcase.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Let's style my hair with WĀVYTĀLK ❤️",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Vibrant copper hair shake synced to an upbeat house pop music drop."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Styling prep hook",
+    "Product & cool air feature reveal",
+    "Curling demo & instant curl release",
+    "Straightening demo demonstrating dual capability",
+    "Straight vs curly side-by-side comparison",
+    "Full final styled reveal"
+   ],
+   "main_angle": "replaces_multiple_tools",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Cool Air curling technology locks in shape",
+    "Styles curls and straightens with one tool"
+   ],
+   "pain_points": [
+    "Needing multiple bulky tools to curl and straighten",
+    "Curls losing hold quickly"
+   ],
+   "objections_handled": [
+    "Can it both straighten and curl effectively?",
+    "Does it work on long, thick hair?"
+   ],
+   "social_proof": [],
+   "comparison_to": "Straight side vs curly side on the creator's own hair"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Whirlwind Curl Airflow Styler and Straightener"
+   ],
+   "first_seen_s": 2.8,
+   "first_used_on_hair_s": 5.8,
+   "final_result_shown_s": 25.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long auburn/red hair with natural soft wave",
+   "hair_after": "Half pin-straight and half bouncy spiral curls, then full voluminous curls",
+   "setting": "studio",
+   "faces_camera": true,
+   "energy_tone": "playful, confident, trendy"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Upbeat electronic pop song with melodic female vocals ('Hotter than the Berlin sun... touching the summer rain')",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 3.5,
+   "pacing": "fast",
+   "effects": [
+    "speed ramping",
+    "clean title cards"
+   ],
+   "ending": "Creator rests the tool against her cheek and smiles directly into the camera."
+  },
+  "notes": "Fast-paced aesthetic UGC style creative highlighting the versatility of the Whirlwind Curl tool by showing curling on one side and straightening on the other."
+ }
+}

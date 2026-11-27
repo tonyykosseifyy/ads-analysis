@@ -1,0 +1,525 @@
+{
+ "media_key": "v_1494344248942412",
+ "analyzed_at": "2026-11-27T19:49:39+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "1867514cdc84d3ed201a5debc1362478bc37ad7dc2d21f74eee25f44facd9106",
+ "source": {
+  "kind": "video",
+  "id": "1494344248942412",
+  "video_id": "1485564966436591",
+  "length_s": 67.102,
+  "permalink": "/23849366283980795/videos/1485564966436591/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 66.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator with long thick wavy hair demos how she quickly rough-dries and preps her hair using the Wavytalk Pro Fast Drying Hair Dryer.",
+  "full_description": "A female creator with very long, thick, damp curly hair explains that while she usually shows heat styling, she needs a fast hair dryer to prep her massive amount of hair without burning it. She introduces the pink Wavytalk Pro Fast Drying Hair Dryer, explaining its high airflow and speed claims (drying in as little as 3 minutes, 5x faster). She then does a step-by-step drying tutorial with voiceover, showing rough drying, sectioning with a claw clip, directing airflow downwards to eliminate frizz, and smoothing with fingers to reduce flat-iron work later. She shows her fully dried, voluminous hair ready for styling and delivers a closing CTA.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I always show you guys how I heat style my hair, but I never show you how I dry it beforehand.",
+    "text_english": "I always show you guys how I heat style my hair, but I never show you how I dry it beforehand."
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 8.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I got a lot of hair, so I want to spend as little time as possible on the styling process.",
+    "text_english": "I got a lot of hair, so I want to spend as little time as possible on the styling process."
+   },
+   {
+    "start_s": 8.1,
+    "end_s": 10.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So a fast drying hair dryer is an absolute must for me.",
+    "text_english": "So a fast drying hair dryer is an absolute must for me."
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 14.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This bad boy is the new Wavytalk Pro Fast Drying Hair Dryer.",
+    "text_english": "This bad boy is the new Wavytalk Pro Fast Drying Hair Dryer."
+   },
+   {
+    "start_s": 14.4,
+    "end_s": 20.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "When I first used this, I was in absolute shock on how fast it dried my hair without making it feel crunchy.",
+    "text_english": "When I first used this, I was in absolute shock on how fast it dried my hair without making it feel crunchy."
+   },
+   {
+    "start_s": 20.4,
+    "end_s": 22.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "That's because it uses high airflow, not high heat.",
+    "text_english": "That's because it uses high airflow, not high heat."
+   },
+   {
+    "start_s": 23.0,
+    "end_s": 25.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It can dry hair in as little as three minutes,",
+    "text_english": "It can dry hair in as little as three minutes,"
+   },
+   {
+    "start_s": 25.2,
+    "end_s": 27.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "five times faster than a traditional hair dryer.",
+    "text_english": "five times faster than a traditional hair dryer."
+   },
+   {
+    "start_s": 27.6,
+    "end_s": 29.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's speed this up and dry my hair.",
+    "text_english": "Let's speed this up and dry my hair."
+   },
+   {
+    "start_s": 29.4,
+    "end_s": 35.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So I use the highest warm setting, and then I go in with a quick rough dry while combing downwards with my fingers.",
+    "text_english": "So I use the highest warm setting, and then I go in with a quick rough dry while combing downwards with my fingers."
+   },
+   {
+    "start_s": 35.2,
+    "end_s": 40.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "After doing that, I split my hair up into two sections because I have too much hair to do it all in one go. This helps speed up the process so much.",
+    "text_english": "After doing that, I split my hair up into two sections because I have too much hair to do it all in one go. This helps speed up the process so much."
+   },
+   {
+    "start_s": 40.1,
+    "end_s": 46.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Also holding the dryer down like this so the air is blowing downwards onto your hair will really help with frizz.",
+    "text_english": "Also holding the dryer down like this so the air is blowing downwards onto your hair will really help with frizz."
+   },
+   {
+    "start_s": 46.6,
+    "end_s": 49.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And consistently combing with your fingers will help smooth out your hair.",
+    "text_english": "And consistently combing with your fingers will help smooth out your hair."
+   },
+   {
+    "start_s": 49.1,
+    "end_s": 54.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Over a decade of heat styling my hair every single week has taught me to work smarter, not harder.",
+    "text_english": "Over a decade of heat styling my hair every single week has taught me to work smarter, not harder."
+   },
+   {
+    "start_s": 54.1,
+    "end_s": 59.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So I like to smooth out the hair as much as possible with my blow dryer so that I have to do less work later with my heat tool.",
+    "text_english": "So I like to smooth out the hair as much as possible with my blow dryer so that I have to do less work later with my heat tool."
+   },
+   {
+    "start_s": 59.1,
+    "end_s": 61.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Finishing up, making sure I got every section okay.",
+    "text_english": "Finishing up, making sure I got every section okay."
+   },
+   {
+    "start_s": 61.2,
+    "end_s": 63.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay, my hair is dried and ready to style.",
+    "text_english": "Okay, my hair is dried and ready to style."
+   },
+   {
+    "start_s": 63.4,
+    "end_s": 66.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you want to cut down your drying time, check out the Pro Fast Drying Hair Dryer.",
+    "text_english": "If you want to cut down your drying time, check out the Pro Fast Drying Hair Dryer."
+   }
+  ],
+  "transcript_full_original": "I always show you guys how I heat style my hair, but I never show you how I dry it beforehand. I got a lot of hair, so I want to spend as little time as possible on the styling process. So a fast drying hair dryer is an absolute must for me. This bad boy is the new Wavytalk Pro Fast Drying Hair Dryer. When I first used this, I was in absolute shock on how fast it dried my hair without making it feel crunchy. That's because it uses high airflow, not high heat. It can dry hair in as little as three minutes, five times faster than a traditional hair dryer. Let's speed this up and dry my hair. So I use the highest warm setting, and then I go in with a quick rough dry while combing downwards with my fingers. After doing that, I split my hair up into two sections because I have too much hair to do it all in one go. This helps speed up the process so much. Also holding the dryer down like this so the air is blowing downwards onto your hair will really help with frizz. And consistently combing with your fingers will help smooth out your hair. Over a decade of heat styling my hair every single week has taught me to work smarter, not harder. So I like to smooth out the hair as much as possible with my blow dryer so that I have to do less work later with my heat tool. Finishing up, making sure I got every section okay. Okay, my hair is dried and ready to style. If you want to cut down your drying time, check out the Pro Fast Drying Hair Dryer.",
+  "transcript_full_english": "I always show you guys how I heat style my hair, but I never show you how I dry it beforehand. I got a lot of hair, so I want to spend as little time as possible on the styling process. So a fast drying hair dryer is an absolute must for me. This bad boy is the new Wavytalk Pro Fast Drying Hair Dryer. When I first used this, I was in absolute shock on how fast it dried my hair without making it feel crunchy. That's because it uses high airflow, not high heat. It can dry hair in as little as three minutes, five times faster than a traditional hair dryer. Let's speed this up and dry my hair. So I use the highest warm setting, and then I go in with a quick rough dry while combing downwards with my fingers. After doing that, I split my hair up into two sections because I have too much hair to do it all in one go. This helps speed up the process so much. Also holding the dryer down like this so the air is blowing downwards onto your hair will really help with frizz. And consistently combing with your fingers will help smooth out your hair. Over a decade of heat styling my hair every single week has taught me to work smarter, not harder. So I like to smooth out the hair as much as possible with my blow dryer so that I have to do less work later with my heat tool. Finishing up, making sure I got every section okay. Okay, my hair is dried and ready to style. If you want to cut down your drying time, check out the Pro Fast Drying Hair Dryer.",
+  "word_count": 274,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.6,
+    "text": "I always show you guys how I heat style my hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 3.6,
+    "text": "but I never show you how I dry it beforehand",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 5.0,
+    "text": "I got a lot of hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.1,
+    "end_s": 8.0,
+    "text": "so I wanna spend as little time as possible on the styling process",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.1,
+    "end_s": 10.9,
+    "text": "so fast drying hair dryer is an absolute must for me",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 14.3,
+    "text": "this bad boy is the new Wavytalk Pro Fast Drying Hair Dryer",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.4,
+    "end_s": 16.5,
+    "text": "when I first used this",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.6,
+    "end_s": 20.3,
+    "text": "I was in absolute shock on how fast it dried my hair without making it feel crispy",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.4,
+    "end_s": 22.9,
+    "text": "that's because it uses high airflow not high heat",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.0,
+    "end_s": 25.1,
+    "text": "it can dry hair in as little as three minutes",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.2,
+    "end_s": 27.5,
+    "text": "five times faster than a traditional hair dryer",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 27.6,
+    "end_s": 29.3,
+    "text": "let's speed this up and dry my hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 29.4,
+    "end_s": 31.0,
+    "text": "so I use the highest warm setting",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 31.1,
+    "end_s": 33.0,
+    "text": "and then I go in with a quick",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 33.1,
+    "end_s": 35.1,
+    "text": "rough dry while combing downwards with my fingers",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 35.2,
+    "end_s": 36.6,
+    "text": "after doing that I split my hair up into two sections",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 36.7,
+    "end_s": 38.9,
+    "text": "because I have too much hair to do it all in one go",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 39.0,
+    "end_s": 40.0,
+    "text": "this helps speed up the process so much",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 40.1,
+    "end_s": 42.0,
+    "text": "also holding the dryer down like this",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 42.1,
+    "end_s": 44.5,
+    "text": "so the air blowing downwards onto your hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 44.6,
+    "end_s": 46.5,
+    "text": "will really help with frizz",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 46.6,
+    "end_s": 49.0,
+    "text": "consistently combing with your fingers will help smooth out your hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 49.1,
+    "end_s": 51.5,
+    "text": "over a decade of heat styling my hair every single week",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 51.6,
+    "end_s": 54.0,
+    "text": "has taught me to work smarter not harder",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 54.1,
+    "end_s": 56.5,
+    "text": "so I like to smooth out the hair as much as possible with my blow dryer",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 56.6,
+    "end_s": 59.0,
+    "text": "so that I have to do less work later with my heat tool",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 59.1,
+    "end_s": 61.1,
+    "text": "finishing up making sure I got every section okay",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 61.2,
+    "end_s": 63.3,
+    "text": "my hair is dried and ready to style",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 63.4,
+    "end_s": 65.0,
+    "text": "if you wanna cut down your drying time",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 65.1,
+    "end_s": 66.8,
+    "text": "check out the Pro Fast Drying Hair Dryer",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "shot_type": "medium_shot",
+    "visual": "Female creator sitting in front of a neutral bedroom background with long, wet wavy hair framing her shoulders.",
+    "action": "Creator talks directly to camera while gesturing with her hands towards her hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 14.4,
+    "shot_type": "medium_shot",
+    "visual": "Creator holds up a soft pink compact hair dryer (Wavytalk Pro / Turblow Pro).",
+    "action": "She presents the dryer to the camera, gestures at its nozzle, and introduces the product name.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.4,
+    "end_s": 29.4,
+    "shot_type": "medium_shot",
+    "visual": "Creator holding the dryer, demonstrating the back intake ring and compact size.",
+    "action": "Explains why it dries without heat damage (airflow over heat) and prepares to begin drying.",
+    "product_visible": true
+   },
+   {
+    "start_s": 29.4,
+    "end_s": 35.1,
+    "shot_type": "medium_shot",
+    "visual": "Speed-up drying demo: creator holds the pink hair dryer over her roots and mid-lengths.",
+    "action": "Blow drying hair while finger-combing downwards.",
+    "product_visible": true
+   },
+   {
+    "start_s": 35.1,
+    "end_s": 39.5,
+    "shot_type": "medium_shot",
+    "visual": "Creator ties up the top half of her hair with a claw clip.",
+    "action": "Parting her thick hair into two layers to speed up the blow-drying process.",
+    "product_visible": false
+   },
+   {
+    "start_s": 39.5,
+    "end_s": 49.0,
+    "shot_type": "medium_shot",
+    "visual": "Creator blow drying the bottom section of hair with the airflow directed downward.",
+    "action": "Guiding dryer downwards from roots to ends while combing through with her fingers to smooth frizz.",
+    "product_visible": true
+   },
+   {
+    "start_s": 49.0,
+    "end_s": 60.5,
+    "shot_type": "medium_shot",
+    "visual": "Creator unclips top layer and blow dries all hair, showing progressive smoothing and drying.",
+    "action": "Drying remaining sections, fluffing and finger combing until completely dry.",
+    "product_visible": true
+   },
+   {
+    "start_s": 60.5,
+    "end_s": 66.8,
+    "shot_type": "medium_shot",
+    "visual": "Creator showcases her completely dry, voluminous, frizz-free wavy hair holding the pink dryer.",
+    "action": "Fluffs her dry hair to show the final texture and points to the dryer with a CTA.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera with wet curly hair, burned-in caption 'I always show you guys how I heat style my hair'.",
+   "visual_0_3s": "Creator talking directly to camera, shaking out her wet curly hair.",
+   "spoken_0_3s": "I always show you guys how I heat style my hair, but I never show you how I dry it beforehand.",
+   "text_0_3s": "I always show you guys how I heat style my hair but I never show you how I dry it beforehand",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Revealing the hidden 'prep' step usually omitted from hair tutorial videos."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Relatable problem callout: drying huge amounts of wet hair takes forever",
+    "Product introduction: Wavytalk Pro Fast Drying Hair Dryer",
+    "Mechanism of action: high airflow instead of high heat, dries in 3 minutes without crispy hair",
+    "Step-by-step tutorial: highest warm setting, finger combing downwards, sectioning with claw clip",
+    "Pro tip: angle airflow downwards to fight frizz and reduce subsequent heat styling time",
+    "Result reveal & CTA: dry, full, frizz-free hair ready for heat styling"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "less_heat_damage",
+    "frizz_or_curly_solution",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Dries hair in as little as 3 minutes",
+    "5 times faster than a traditional hair dryer",
+    "Uses high airflow instead of high heat",
+    "Does not leave hair feeling crunchy or crispy"
+   ],
+   "pain_points": [
+    "Spending too much time drying thick, wet hair",
+    "Heat damage and crunchy texture from high heat dryers",
+    "Frizz caused by blowing air upwards or improper drying techniques"
+   ],
+   "objections_handled": [
+    "Won't fry or damage hair because it relies on airflow speed rather than extreme heat",
+    "Can handle extremely thick, long hair effectively"
+   ],
+   "social_proof": [
+    "Creator's personal endorsement: over a decade of weekly heat styling experience"
+   ],
+   "comparison_to": "Traditional high-heat hair dryers"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Pro Fast Drying Hair Dryer (Turblow Pro)"
+   ],
+   "first_seen_s": 3.7,
+   "first_used_on_hair_s": 30.5,
+   "final_result_shown_s": 61.2,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "If you wanna cut down your drying time, check out the Pro Fast Drying Hair Dryer.",
+   "cta_on_screen": "check out the Pro Fast Drying Hair Dryer",
+   "cta_at_s": 63.4
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Very long, dense, wet/damp curly-wavy brown hair with blonde highlights",
+   "hair_after": "Fully dry, voluminous, brushed-out textured wavy hair",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "friendly, informative, relaxed, enthusiastic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat lo-fi background rhythm underneath dialogue and voiceover",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 8.35,
+   "pacing": "medium",
+   "effects": [
+    "speed ramp / time-lapse on blow drying segment"
+   ],
+   "ending": "Creator presents her dried hair, holds up the tool, smiles, and delivers call to action."
+  },
+  "notes": "Ad is an English UGC organic-style review / tutorial ad repurposed for paid social targeting the Wavytalk Turblow Pro hair dryer line."
+ }
+}

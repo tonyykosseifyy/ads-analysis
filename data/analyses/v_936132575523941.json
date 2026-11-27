@@ -1,0 +1,370 @@
+{
+ "media_key": "v_936132575523941",
+ "analyzed_at": "2026-11-27T18:39:13+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "54d74bafe06b5c009084dad9fa61b443125fa36077cbf85f514b79f45b4cb644",
+ "source": {
+  "kind": "video",
+  "id": "936132575523941",
+  "video_id": "934254789726561",
+  "length_s": 59.966,
+  "permalink": "/23849366283980795/videos/934254789726561/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 59.87,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator demos the Wavytalk Blowout Boost thermal brush, highlighting salon-level volume at home and a 30-day return policy.",
+  "full_description": "A female creator compares one styled side of her hair with an unstyled side, then demonstrates how she styles her long hair section by section using the pink Wavytalk Blowout Boost thermal round brush. She explains that volume elevates any outfit and that the brush is easy to use with adjustable heat settings. She shows the final bouncy blowout result and highlights the brand's ongoing sale and 30-day return guarantee.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 70,
+    "en": 30,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "arabizi",
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "ليكو الفرق بين هالميلة وهالميلة.",
+    "text_english": "Look at the difference between this side and this side."
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 6.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Okay so recently صرت عم حب أعمل hairstyles فيون volume أكتر وأكتر",
+    "text_english": "Okay so recently I started loving doing hairstyles that have more and more volume"
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 12.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "لأنه كل ما يكون في volume أكتر كل ما ببين شكل وجي أحلى وكل ما يبين شعري عبي",
+    "text_english": "because the more volume there is, the prettier my face shape looks and the thicker my hair appears"
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 16.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وهيدا الشي كتير بيأثر كمان عالـ outfits اللي بلبسا",
+    "text_english": "and this also really impacts the outfits I wear."
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 20.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بس نقي outfit معين، الـ hairstyle اللي عملتو adds so much للـ overall look",
+    "text_english": "When I pick a certain outfit, the hairstyle I did adds so much to the overall look."
+   },
+   {
+    "start_s": 20.4,
+    "end_s": 27.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أوقات مثلاً بس إلبس basic outfit وبدي اعملها upgrade، دغري بعمل blowout، بيتغير كل vibe الـ outfit",
+    "text_english": "Sometimes for example, when I wear a basic outfit and want to upgrade it, I immediately do a blowout, and the whole vibe of the outfit changes."
+   },
+   {
+    "start_s": 27.2,
+    "end_s": 32.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "و recently اكتشفت إنه بقدر أعمل هيك blowouts from home بلا ما حتى روح عالـ salon",
+    "text_english": "And recently I discovered that I can do blowouts like this from home without even going to the salon"
+   },
+   {
+    "start_s": 32.2,
+    "end_s": 35.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "using this brush من Wavytalk.",
+    "text_english": "using this brush from Wavytalk."
+   },
+   {
+    "start_s": 35.2,
+    "end_s": 40.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "الحلو فيها إنه the technique to use it is super easy والـ results عنجد متل الـ salon",
+    "text_english": "The nice thing about it is that the technique to use it is super easy and the results are really like the salon,"
+   },
+   {
+    "start_s": 40.5,
+    "end_s": 46.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وفيها كذا heat setting غير الـ tools الباقوة المجربتا، so لأنه شعري عبي بنقي heat setting عالي شوي.",
+    "text_english": "and it has multiple heat settings unlike other tools I've tried, so because my hair is thick I pick a slightly high heat setting."
+   },
+   {
+    "start_s": 46.4,
+    "end_s": 50.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "هلق رح فرجيكن الـ final results، هيك كان الـ look before the blowout",
+    "text_english": "Now I'll show you the final results; this was the look before the blowout,"
+   },
+   {
+    "start_s": 50.1,
+    "end_s": 52.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "وهيك صار!",
+    "text_english": "and this is how it turned out!"
+   },
+   {
+    "start_s": 52.0,
+    "end_s": 59.87,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Wavytalk مش بس عاملين sale، عاملين كمان 30 day returns ع الـ products، so إذا جربتوا الـ brush وما حبيتوا الـ result you can directly return it!",
+    "text_english": "Wavytalk doesn't just have a sale going on, they also have 30-day returns on their products, so if you try the brush and don't like the result, you can directly return it!"
+   }
+  ],
+  "transcript_full_original": "ليكو الفرق بين هالميلة وهالميلة. Okay so recently صرت عم حب أعمل hairstyles فيون volume أكتر وأكتر لأنه كل ما يكون في volume أكتر كل ما ببين شكل وجي أحلى وكل ما يبين شعري عبي. وهيدا الشي كتير بيأثر كمان عالـ outfits اللي بلبسا. بس نقي outfit معين، الـ hairstyle اللي عملتو adds so much للـ overall look. أوقات مثلاً بس إلبس basic outfit وبدي اعملها upgrade، دغري بعمل blowout، بيتغير كل vibe الـ outfit. و recently اكتشفت إنه بقدر أعمل هيك blowouts from home بلا ما حتى روح عالـ salon using this brush من Wavytalk. الحلو فيها إنه the technique to use it is super easy والـ results عنجد متل الـ salon، وفيها كذا heat setting غير الـ tools الباقوة المجربتا، so لأنه شعري عبي بنقي heat setting عالي شوي. هلق رح فرجيكن الـ final results، هيك كان الـ look before the blowout وهيك صار! Wavytalk مش بس عاملين sale، عاملين كمان 30 day returns ع الـ products، so إذا جربتوا الـ brush وما حبيتوا الـ result you can directly return it!",
+  "transcript_full_english": "Look at the difference between this side and this side. Okay so recently I started loving doing hairstyles that have more and more volume because the more volume there is, the prettier my face shape looks and the thicker my hair appears. And this also really impacts the outfits I wear. When I pick a certain outfit, the hairstyle I did adds so much to the overall look. Sometimes for example, when I wear a basic outfit and want to upgrade it, I immediately do a blowout, and the whole vibe of the outfit changes. And recently I discovered that I can do blowouts like this from home without even going to the salon using this brush from Wavytalk. The nice thing about it is that the technique to use it is super easy and the results are really like the salon, and it has multiple heat settings unlike other tools I've tried, so because my hair is thick I pick a slightly high heat setting. Now I'll show you the final results; this was the look before the blowout, and this is how it turned out! Wavytalk doesn't just have a sale going on, they also have 30-day returns on their products, so if you try the brush and don't like the result, you can directly return it!",
+  "word_count": 142,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "text": "Layko l fare2 ben hal mayle w hal mayle.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 6.8,
+    "text": "Okay, so recently, seret aam heb aaml hairstyles fiyon volume",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 9.8,
+    "text": "aktar w aktar l2n kill ma ykun Fi volume aktar",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 13.5,
+    "text": "kill ma bibayin shakel wejje ahla w kill ma ybayin shaare aabe",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 16.2,
+    "text": "w hayda l shi ktr bi2asir 3al outfits",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.2,
+    "end_s": 19.8,
+    "text": "li belbesa, bas na2e outfit m3ayan l hairstyle li 3amleto",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 23.5,
+    "text": "adds so much lal overall look, aw2at masalan bas elbos basic",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 27.5,
+    "text": "outfit w I want to upgrade it, dghre baaml blowout, byiT8ayar kill vibe l outfit",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 27.5,
+    "end_s": 32.5,
+    "text": "w recently discovered that I can do hek blowouts from home without even going to the salon",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 32.5,
+    "end_s": 36.8,
+    "text": "using this brush mn Wavytalk. L helo fiya ino the technique to use it is",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 36.8,
+    "end_s": 41.5,
+    "text": "super easy wl results metel l salon, w fiya kaza heat setting",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 41.5,
+    "end_s": 45.2,
+    "text": "8er l tools l ba2we l mjarbeta so because my hair is thick, bna2e heat setting 3ale shwe.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 46.4,
+    "end_s": 50.1,
+    "text": "Hala2 I'll show you the final results, hek ken l look before,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 50.1,
+    "end_s": 52.8,
+    "text": "w hek sar! Wavytalk Mch has eemlin sale,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 52.8,
+    "end_s": 56.5,
+    "text": "eemlin kmn 30 day returns 3a their products, so if",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 56.5,
+    "end_s": 59.87,
+    "text": "you tried the brush, w ma habayto l result, you can directly return it!",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator pointing out the difference between her styled side and unstyled side.",
+    "action": "Creator shakes and points to her styled side showing volume, then shakes the unstyled flat side.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 46.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator at her vanity demonstrating the Wavytalk thermal brush on sections of her hair.",
+    "action": "She wraps hair around the barrel, brushes through from root to tip, rolls and unrolls curls, and talks directly to camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 46.4,
+    "end_s": 49.5,
+    "shot_type": "medium close-up",
+    "visual": "Cut back to creator's unstyled hair before state.",
+    "action": "Creator runs hands through her hair showing the flat unstyled state.",
+    "product_visible": false
+   },
+   {
+    "start_s": 49.5,
+    "end_s": 59.87,
+    "shot_type": "medium close-up",
+    "visual": "Creator reveals the finished voluminous blowout result.",
+    "action": "Creator shakes her bouncy hair, turns around to show back layers, flips hair and smiles.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera pointing at her voluminous styled hair side versus unstyled side.",
+   "visual_0_3s": "Creator displaying side-by-side contrast of styled blowout versus unstyled hair on her own head.",
+   "spoken_0_3s": "Layko l fare2 ben hal mayle w hal mayle.",
+   "text_0_3s": "Layko l fare2 ben hal mayle w hal mayle.",
+   "hook_type": "before_after",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Instant half-and-half hair visual with immediate callout comparing both sides."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Side-by-side hook showing one styled side vs flat side",
+    "Lifestyle rationale: why voluminous hair elevates face shape and outfit style",
+    "Product introduction: discovering Wavytalk thermal brush for at-home blowouts",
+    "Step-by-step styling technique and features (multiple heat settings for thick hair)",
+    "Before vs after reveal",
+    "Offer & guarantee announcement: ongoing sale and 30-day money-back return policy"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Salon-quality blowout at home without going to the salon",
+    "Super easy technique to use",
+    "Multiple heat settings suitable for thick hair",
+    "30-day return policy if unsatisfied"
+   ],
+   "pain_points": [
+    "Flat hair that makes outfits look plain",
+    "Expensive or inconvenient salon visits for regular blowouts",
+    "Hard-to-use styling tools"
+   ],
+   "objections_handled": [
+    "What if it doesn't work for thick hair? (Adjustable high heat settings handle thick hair)",
+    "What if I don't like it? (30-day risk-free return policy)"
+   ],
+   "social_proof": [],
+   "comparison_to": "other styling tools and salon blowouts"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 2.8,
+   "first_used_on_hair_s": 2.8,
+   "final_result_shown_s": 49.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Sale + 30-day return guarantee",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "if you tried the brush and didn't like the result, you can directly return it",
+   "cta_on_screen": "",
+   "cta_at_s": 56.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, thick, straight-wavy blonde/brown ombre hair, unstyled",
+   "hair_after": "Voluminous, bouncy salon blowout with curled ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "friendly, relatable, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Soft upbeat pop background music track",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 7.5,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between hair sections",
+    "burned-in Arabizi subtitles"
+   ],
+   "ending": "Creator tosses her voluminous hair back and smiles at camera."
+  },
+  "notes": "Ad utilizes burned-in Arabizi (Latin script Arabic) subtitles, standard for Lebanese Gen Z / young millennial creators."
+ }
+}

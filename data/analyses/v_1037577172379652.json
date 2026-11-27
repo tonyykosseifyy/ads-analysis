@@ -1,0 +1,193 @@
+{
+ "media_key": "v_1037577172379652",
+ "analyzed_at": "2026-11-27T18:44:20+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "2273453cc958837cfaf1ac7e72f6487da0ccfd4c26699380ed10540173297e77",
+ "source": {
+  "kind": "video",
+  "id": "1037577172379652",
+  "video_id": "1794033021599365",
+  "length_s": 57.652,
+  "permalink": "/23849366283980795/videos/1794033021599365/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 57.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates how she gets a voluminous blowout in 10 minutes using a pink thermal heated round brush, set to an upbeat music track.",
+  "full_description": "The video opens with a young woman running her hands through a finished, voluminous blowout hairstyle. The video then cuts to her hair in its natural wavy/frizzy state as she rough dries it with a blow dryer. She sections her hair with clips and shows a pink thermal round brush (WavyTalk Blowout Boost style). Throughout the fast-cut tutorial demo, she glides and curls various sections of her hair around the barrel, including her curtain bangs and crown layers. The video concludes with her running her fingers through the finished look, showing off the bounce, shine, and volume.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 56.5,
+    "text": "your sign to get a thermal brush this took 10 mins",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.9,
+    "shot_type": "medium shot",
+    "visual": "Creator running her hands through her freshly styled, voluminous, bouncy blowout hairstyle facing the camera.",
+    "action": "Showing off the final result first.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.9,
+    "end_s": 4.5,
+    "shot_type": "medium shot",
+    "visual": "Creator touching her wavy, untreated hair, then rough-drying it with a black hair dryer.",
+    "action": "Showing the before state and prep.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 6.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator clips up sections of hair and presents the pink thermal round brush to the camera.",
+    "action": "Product reveal and sectioning.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 14.5,
+    "shot_type": "medium shot",
+    "visual": "Creator wraps lower side sections around the heated barrel, twirling and pulling through slowly to form curls.",
+    "action": "Styling lower layers.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 35.5,
+    "shot_type": "medium shot",
+    "visual": "Creator sections out the mid-layers and curls each side inward and outward using the thermal brush.",
+    "action": "Step-by-step curling and brushing through middle hair sections.",
+    "product_visible": true
+   },
+   {
+    "start_s": 35.5,
+    "end_s": 48.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styles her curtain bangs and top crown section by wrapping them backward over the brush for volume.",
+    "action": "Styling bangs and top volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 48.5,
+    "end_s": 57.8,
+    "shot_type": "medium shot",
+    "visual": "Creator drops the brush, runs her hands through her hair, shakes out the curls into soft bouncy waves, and poses.",
+    "action": "Displaying the final blowout result from multiple angles.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera running her hands through voluminous curtain bangs and bouncy blowout curls with text overlay 'your sign to get a thermal brush this took 10 mins'.",
+   "visual_0_3s": "Result shown first, followed immediately by cut to natural wavy/frizzy hair before styling.",
+   "spoken_0_3s": "",
+   "text_0_3s": "your sign to get a thermal brush this took 10 mins",
+   "hook_type": "result_first",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "Instant result showcase paired with a 'your sign to...' trend hook text and immediate cut to messy unstyled hair."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Result reveal hook",
+    "Before condition & quick prep",
+    "Tool introduction",
+    "Step-by-step section styling demo",
+    "Front bangs styling technique",
+    "Final comb-through and reveal"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Full blowout took only 10 minutes",
+    "Creates salon-level bouncy volume with a thermal brush"
+   ],
+   "pain_points": [
+    "Taking too long to style hair",
+    "Struggling to achieve salon blowouts at home"
+   ],
+   "objections_handled": [
+    "Is it complicated? (shows very simple rolling motion)"
+   ],
+   "social_proof": [
+    "Organic viral UGC aesthetic ('your sign to get a thermal brush')"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Thermal Blowout Brush (WavyTalk Blowout Boost)"
+   ],
+   "first_seen_s": 5.4,
+   "first_used_on_hair_s": 6.8,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Medium-length, naturally wavy/textured, honey blonde/light brown",
+   "hair_after": "Smooth, voluminous 90s blowout with bouncy ends and swept curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "chic, relaxed, aesthetic UGC"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Dance-pop electronic remix of The Cardigans - 'Lovefool' (Love me, love me, say that you love me).",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 18,
+   "avg_shot_length_s": 3.2,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts",
+    "text overlay"
+   ],
+   "ending": "Creator turning side to side admiring her hair volume before walking or moving out of frame."
+  },
+  "notes": "Standard viral TikTok/Reels UGC creative repurposed for paid Meta ad campaigns. No voiceover or direct brand logo overlay, relies on visual satisfaction and time-saving value proposition."
+ }
+}

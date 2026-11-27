@@ -1,0 +1,278 @@
+{
+ "media_key": "i_4bd8f587ff860ffe08bfdc3eb4e7433c",
+ "analyzed_at": "2026-11-27T22:32:21+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "da3b0f45182814944353a4c7f664921677d399a7e876d08b7ac0f1f1c57ced87",
+ "source": {
+  "kind": "image",
+  "id": "4bd8f587ff860ffe08bfdc3eb4e7433c"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 42.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator tests the WavyTalk Steambrush Pro on her extremely thick, curly hair, showcasing the steam chamber filling, one-pass straightening, and a dramatic half-and-half comparison.",
+  "full_description": "A creator with thick, voluminous curly dark hair introduces the WavyTalk Steambrush Pro from WavyTalk Lebanon. She explains her curiosity to see if it can tame her thick and curly texture. She displays the packaging and the pink steam brush, then demonstrates filling the detachable water tank with the provided dropper and turning on the steam function to show vapor release. She proceeds to glide the brush down a section of her hair, instantly transforming it from curly to sleek and glossy. After finishing one side, she presents a side-by-side comparison between her straightened half and her untouched voluminous curly half. She then finishes straightening the other side and shows off the silky, bone-straight, shiny final blowout result while recommending the tool.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Finally got my hands on the Steambrush Pro from WavyTalk Lebanon. So let's see if it's gonna tame this hair.",
+    "text_english": "Finally got my hands on the Steambrush Pro from WavyTalk Lebanon. So let's see if it's gonna tame this hair."
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 7.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "My hair is super thick, curly, and frizzy, so I am so excited to test this out.",
+    "text_english": "My hair is super thick, curly, and frizzy, so I am so excited to test this out."
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 12.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "First, you fill the water tank with water using this dropper, clip it back into the brush, and turn on the steam button.",
+    "text_english": "First, you fill the water tank with water using this dropper, clip it back into the brush, and turn on the steam button."
+   },
+   {
+    "start_s": 12.1,
+    "end_s": 15.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at the steam coming out! This hydrates the hair while straightening so you get zero heat damage.",
+    "text_english": "Look at the steam coming out! This hydrates the hair while straightening so you get zero heat damage."
+   },
+   {
+    "start_s": 15.3,
+    "end_s": 21.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now let's take a section. Look at that! In literally one pass, it went from frizzy and curly to completely straight and shiny.",
+    "text_english": "Now let's take a section. Look at that! In literally one pass, it went from frizzy and curly to completely straight and shiny."
+   },
+   {
+    "start_s": 21.1,
+    "end_s": 25.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It glides so smoothly without tugging or pulling at all.",
+    "text_english": "It glides so smoothly without tugging or pulling at all."
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 30.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at this difference: this side is completely sleek, straight, and glossy, and this side is pure frizz and curls.",
+    "text_english": "Look at this difference: this side is completely sleek, straight, and glossy, and this side is pure frizz and curls."
+   },
+   {
+    "start_s": 30.3,
+    "end_s": 35.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Doing the other side took me just a few minutes. It is so much faster and gentler than a regular flat iron.",
+    "text_english": "Doing the other side took me just a few minutes. It is so much faster and gentler than a regular flat iron."
+   },
+   {
+    "start_s": 35.9,
+    "end_s": 42.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at the final result! Silky, soft, and salon-quality at home. You can order yours from WavyTalk Lebanon!",
+    "text_english": "Look at the final result! Silky, soft, and salon-quality at home. You can order yours from WavyTalk Lebanon!"
+   }
+  ],
+  "transcript_full_original": "Finally got my hands on the Steambrush Pro from WavyTalk Lebanon. So let's see if it's gonna tame this hair. My hair is super thick, curly, and frizzy, so I am so excited to test this out. First, you fill the water tank with water using this dropper, clip it back into the brush, and turn on the steam button. Look at the steam coming out! This hydrates the hair while straightening so you get zero heat damage. Now let's take a section. Look at that! In literally one pass, it went from frizzy and curly to completely straight and shiny. It glides so smoothly without tugging or pulling at all. Look at this difference: this side is completely sleek, straight, and glossy, and this side is pure frizz and curls. Doing the other side took me just a few minutes. It is so much faster and gentler than a regular flat iron. Look at the final result! Silky, soft, and salon-quality at home. You can order yours from WavyTalk Lebanon!",
+  "transcript_full_english": "Finally got my hands on the Steambrush Pro from WavyTalk Lebanon. So let's see if it's gonna tame this hair. My hair is super thick, curly, and frizzy, so I am so excited to test this out. First, you fill the water tank with water using this dropper, clip it back into the brush, and turn on the steam button. Look at the steam coming out! This hydrates the hair while straightening so you get zero heat damage. Now let's take a section. Look at that! In literally one pass, it went from frizzy and curly to completely straight and shiny. It glides so smoothly without tugging or pulling at all. Look at this difference: this side is completely sleek, straight, and glossy, and this side is pure frizz and curls. Doing the other side took me just a few minutes. It is so much faster and gentler than a regular flat iron. Look at the final result! Silky, soft, and salon-quality at home. You can order yours from WavyTalk Lebanon!",
+  "word_count": 169,
+  "speech_starts_at_s": 0.1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing camera showing her natural hair which is very thick, voluminous, and curly/frizzy.",
+    "action": "Creator talks directly to the camera introducing the challenge and shows the WavyTalk box.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 7.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the pink WavyTalk Steambrush Pro tool up to the camera while smiling.",
+    "action": "Displays the brush tool and points to her voluminous hair texture.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 12.0,
+    "shot_type": "close-up",
+    "visual": "Hands filling the clear water tank attached to the back of the brush using a dropper bottle.",
+    "action": "Demonstrates how to add water to activate steam functionality.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 15.2,
+    "shot_type": "close-up",
+    "visual": "Side profile of the brush head releasing visible vapor/steam puffs from the vent holes.",
+    "action": "Turns on the steam function to prove steam output.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.2,
+    "end_s": 21.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator taking a thick section of curly hair and slowly combing the Steambrush Pro through from root to tip.",
+    "action": "Single pass demo: curls instantly flatten into straight, shiny hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 25.4,
+    "shot_type": "close-up",
+    "visual": "Close-up of hair passing between the heated bristles, showing glossy shine and no snagging.",
+    "action": "Creator glides the brush down remaining sections on one side.",
+    "product_visible": true
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 30.2,
+    "shot_type": "medium shot",
+    "visual": "Split visual comparison of creator's head: left side bone-straight and shiny, right side big curly frizz.",
+    "action": "Creator points back and forth with shock and a satisfied smile.",
+    "product_visible": false
+   },
+   {
+    "start_s": 30.3,
+    "end_s": 35.8,
+    "shot_type": "medium close-up",
+    "visual": "Quick montage of creator straightening the other side of her hair.",
+    "action": "Straightens the remaining curls quickly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 35.9,
+    "end_s": 42.0,
+    "shot_type": "medium shot",
+    "visual": "Creator with full head of sleek, straight, glossy hair running her fingers through it and posing with the tool.",
+    "action": "Tosses hair, smiles, and holds the pink Steambrush Pro next to her face.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera with enormous, voluminous curly and frizzy dark hair looking directly at the viewer.",
+   "visual_0_3s": "Creator displaying her natural high-volume textured hair and introducing the test.",
+   "spoken_0_3s": "Finally got my hands on the Steambrush Pro from WavyTalk Lebanon. So let's see if it's gonna tame this hair.",
+   "text_0_3s": "",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Extreme volume and frizz contrast right on frame 1 creating immediate intrigue about whether the tool can handle it."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook with extreme hair texture challenge",
+    "Unboxing and tool overview",
+    "Preparation: filling the steam chamber and turning on steam",
+    "Single-pass live proof demonstration",
+    "Half-and-half side-by-side contrast",
+    "Final transformation reveal and purchase callout"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "less_heat_damage",
+    "saves_time"
+   ],
+   "key_claims": [
+    "Tames thick, frizzy, and curly hair in a single pass",
+    "Steam technology hydrates hair and prevents heat damage",
+    "Glides smoothly without pulling or snagging",
+    "Full head done in minutes"
+   ],
+   "pain_points": [
+    "Extremely thick and unruly curly hair that takes forever to straighten",
+    "Heat damage and burnt texture from traditional flat irons",
+    "Hair snagging and pulling during styling"
+   ],
+   "objections_handled": [
+    "Will it work on really thick curly hair?",
+    "Does steam actually come out?",
+    "Will it burn or fry the hair?"
+   ],
+   "social_proof": [
+    "Visual proof on genuine thick curly hair",
+    "Side-by-side comparison"
+   ],
+   "comparison_to": "traditional flat iron / hair straightener"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Steambrush Pro"
+   ],
+   "first_seen_s": 2.2,
+   "first_used_on_hair_s": 15.3,
+   "final_result_shown_s": 35.9,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "You can order yours from WavyTalk Lebanon!",
+   "cta_on_screen": "",
+   "cta_at_s": 40.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-28",
+   "hair_before": "Very thick, voluminous, dark brown/black curly and frizzy hair",
+   "hair_after": "Silky, bone-straight, shiny, frizz-free dark hair",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, energetic, and genuinely impressed"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat background instrumental pop track beneath creator's clear voiceover dialogue",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 4.67,
+   "pacing": "medium",
+   "effects": [
+    "Jump cuts between setup steps",
+    "Close-up insert on steam release"
+   ],
+   "ending": "Creator smiling and posing with the final sleek hair and holding the product next to her face"
+  },
+  "notes": "Classic UGC demonstration tailored for curly/frizzy hair demographics in Lebanon. The half-straight, half-curly comparison shot at 25.5s is the primary retention driver and visual conversion anchor."
+ }
+}

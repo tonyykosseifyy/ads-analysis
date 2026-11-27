@@ -1,0 +1,285 @@
+{
+ "media_key": "v_1731340794570013",
+ "analyzed_at": "2026-11-27T22:56:04+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "0a1d8662fe42a17e18e4c0364fe19e637df218b0595e2c0bba8c2021dbb6f8a6",
+ "source": {
+  "kind": "video",
+  "id": "1731340794570013",
+  "video_id": "1701260447736540",
+  "length_s": 40.1,
+  "permalink": "/23849366283980795/videos/1701260447736540/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 39.9,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Step-by-step thermal brush tutorial demonstrating how to curl, twist, and set long hair for a salon blowout look at home.",
+  "full_description": "A creator sits at a table and presents a step-by-step styling tutorial using the WavyTalk Blowout Boost thermal brush. The video starts with a preview of her voluminous styled hair before breaking down the exact technique: sectioning, curling away from the face, gliding slowly, holding for 5-10 seconds, and twisting out while holding the base to prevent tangling. It shows front fringe styling towards the face, setting with clips, cooling, and shaking out into massive bouncy curls. An 'UP TO 25 % OFF' banner overlay appears across the mid-section of the video.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "text": "Step by step\nthermal brush tutorial",
+    "role": "hook"
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 3.1,
+    "text": "Brush out hair\nmake sure there's no tangles",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.1,
+    "end_s": 4.0,
+    "text": "Take 1-2 inches of hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.0,
+    "end_s": 5.4,
+    "text": "Curl away from the face",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 7.4,
+    "text": "Glide down slowly\nAnd then roll up half way",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 8.7,
+    "text": "Hold for 5-10 seconds",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 11.4,
+    "text": "Then start twisting away\nslowly releasing the hair\n\nHolding the hair at the\nbase will help with pulling",
+    "role": "benefit"
+   },
+   {
+    "start_s": 11.4,
+    "end_s": 14.7,
+    "text": "Repeat on all sections",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 31.8,
+    "text": "UP TO 25 % OFF 🤍",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 14.7,
+    "end_s": 17.4,
+    "text": "Make sure there's not too\nmuch hair wrapped in the\ncurler before twisting",
+    "role": "benefit"
+   },
+   {
+    "start_s": 17.4,
+    "end_s": 22.7,
+    "text": "When twisting, hair should be\nwrapped just at the top of\nthe curler to avoid tangling",
+    "role": "benefit"
+   },
+   {
+    "start_s": 22.7,
+    "end_s": 26.4,
+    "text": "The twisting helps the curl\ncool and hold in place",
+    "role": "benefit"
+   },
+   {
+    "start_s": 26.4,
+    "end_s": 31.0,
+    "text": "I like to curl the front\npieces towards the face\nto add volume",
+    "role": "benefit"
+   },
+   {
+    "start_s": 32.2,
+    "end_s": 33.7,
+    "text": "Let cool for 10 minutes",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 33.7,
+    "end_s": 36.4,
+    "text": "Brush out with fingers",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 36.4,
+    "end_s": 39.9,
+    "text": "All done 🤍",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting at a table running hands through her fully styled, voluminous blowout hair.",
+    "action": "Tossing and showcasing bouncy finished blowout hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 3.1,
+    "shot_type": "medium shot",
+    "visual": "Creator with straight hair brushing out strands with her hands.",
+    "action": "Smoothing out hair before heat styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.1,
+    "end_s": 11.4,
+    "shot_type": "medium shot",
+    "visual": "Creator using the pink and gold thermal round brush on a section of hair.",
+    "action": "Wraps hair, glides brush down slowly, rolls up, holds, and twists out slowly while holding base of hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.4,
+    "end_s": 26.4,
+    "shot_type": "medium shot",
+    "visual": "Creator demonstrating curling and twisting on another section with on-screen directional arrow graphic.",
+    "action": "Demonstrates keeping hair at the top of the barrel to avoid tangles and twisting out spiral curls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.4,
+    "end_s": 31.0,
+    "shot_type": "medium shot",
+    "visual": "Creator styling her front bangs/fringe with the thermal brush.",
+    "action": "Curls front pieces inward towards the face for volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 33.7,
+    "shot_type": "close-up transition to medium shot",
+    "visual": "Brush covers lens; cuts to creator with hair in setting clips holding the brush.",
+    "action": "Presents setting clips holding curls while cooling.",
+    "product_visible": true
+   },
+   {
+    "start_s": 33.7,
+    "end_s": 39.9,
+    "shot_type": "medium shot",
+    "visual": "Creator removes clips and brushes through her curls with her fingers.",
+    "action": "Shakes out curls revealing huge, voluminous, shiny blowout results.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator tossing her finished bouncy blowout hair with the text 'Step by step thermal brush tutorial'.",
+   "visual_0_3s": "Result-first hair toss transitioning to preparation for the tutorial.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Step by step thermal brush tutorial",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Immediate result-first hair flip teasing the final look before cutting directly to the tutorial."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Result reveal teaser",
+    "Preparation and sectioning",
+    "Step-by-step curling technique (glide, hold, twist)",
+    "Troubleshooting tips (avoiding tangles, holding base)",
+    "Front styling and fringe technique",
+    "Cooling and setting phase",
+    "Finger shake out and final voluminous reveal"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Step by step tutorial makes using a thermal brush simple",
+    "Twisting helps the curl cool and hold in place",
+    "Wrapping just at top avoids hair tangling"
+   ],
+   "pain_points": [
+    "Hair getting tangled in round thermal brushes",
+    "Difficulty getting curls to hold without salon blowouts",
+    "Pulling or snagging on hair while styling"
+   ],
+   "objections_handled": [
+    "Tangles: explains keeping hair at the top of the barrel and holding base of hair"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost"
+   ],
+   "first_seen_s": 3.1,
+   "first_used_on_hair_s": 3.4,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "UP TO 25 % OFF",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Long, thick brunette hair with subtle highlights, straight to wavy",
+   "hair_after": "Voluminous, bouncy, defined 90s-style blowout curls",
+   "setting": "living_room",
+   "faces_camera": true,
+   "energy_tone": "Calm, educational, and aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Slow R&B pop trending audio track ('I want to show you off...') with soft female vocal outro.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 4.9,
+   "pacing": "medium",
+   "effects": [
+    "on-screen text cards",
+    "white directional arrow graphic overlay",
+    "camera lens cover transition"
+   ],
+   "ending": "Creator showing off her finished bouncy hair and smiling at the camera."
+  },
+  "notes": "Silent demonstration with educational text overlays tailored to address user friction around thermal brushes tangling hair."
+ }
+}

@@ -1,0 +1,401 @@
+{
+ "media_key": "v_2280427002699133",
+ "analyzed_at": "2026-11-27T23:05:08+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "9dd3da908d3d2601cc7426b14655083a0e63b6a26bb0a73608a0074342da564c",
+ "source": {
+  "kind": "video",
+  "id": "2280427002699133",
+  "errors": [
+   "2280427002699133: Gave up after 5 retries: https://graph.facebook.com/v26.0/2280427002699133",
+   "1463988951411351: Gave up after 5 retries: https://graph.facebook.com/v26.0/1463988951411351"
+  ],
+  "ig_media_id": "18094830616925985",
+  "permalink": "https://www.instagram.com/p/DYCsvK5jDCI/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 55.45,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator showcases three distinct hairstyles created on curly hair using a single tool: the WavyTalk Whirlwind Curl.",
+  "full_description": "A female creator presents three different hairstyles—defined curls blowout, sleek straight glass hair, and careless beach waves—that every curly-haired girl should try. After showcasing each completed look, she reveals that all three styles were made using just one tool: the WavyTalk Whirlwind Curl. She demonstrates styling a curl using the 360-degree airflow tool, explains its heat-free protection and beginner friendliness, and closes by announcing a 20% off discount.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 25,
+    "en": 75,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "هيدول الـ three hair looks that every curly girl should definitely try this season so she doesn't miss out.",
+    "text_english": "These are three hair looks that every curly girl should definitely try this season so she doesn't miss out."
+   },
+   {
+    "start_s": 6.0,
+    "end_s": 15.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look number one would be the defined curls blowout. Zero frizz, full definition, and a lot of volume. We walk into the room like we own it.",
+    "text_english": "Look number one would be the defined curls blowout. Zero frizz, full definition, and a lot of volume. We walk into the room like we own it."
+   },
+   {
+    "start_s": 15.8,
+    "end_s": 26.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The second look is definitely the glass sleek hair. Silky, shiny, pin straight, and a glass finish. Hair like this unlocks a new version of yourself.",
+    "text_english": "The second look is definitely the glass sleek hair. Silky, shiny, pin straight, and a glass finish. Hair like this unlocks a new version of yourself."
+   },
+   {
+    "start_s": 26.8,
+    "end_s": 34.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "And here is to look number three: beach waves, careless blowout effect. I woke up like this, بس this is too refined for me to wake up in.",
+    "text_english": "And here is to look number three: beach waves, careless blowout effect. I woke up like this, but this is too refined for me to wake up in."
+   },
+   {
+    "start_s": 34.8,
+    "end_s": 39.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "هون الخبرية، إنه الثلاثة hairstyles عملتهم بـ one product!",
+    "text_english": "Here's the news: the three hairstyles I did them with one product!"
+   },
+   {
+    "start_s": 39.2,
+    "end_s": 47.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Whirlwind Curl من WavyTalk بيستعمل 360 airflow technique من كل الميلات, so you get perfect salon results at home.",
+    "text_english": "Whirlwind Curl from WavyTalk uses 360 airflow technique from all sides, so you get perfect salon results at home."
+   },
+   {
+    "start_s": 47.3,
+    "end_s": 51.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It gives you no heat damage, and there is no specific skill required to do your hair.",
+    "text_english": "It gives you no heat damage, and there is no specific skill required to do your hair."
+   },
+   {
+    "start_s": 52.0,
+    "end_s": 55.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And right now it's 20% off, so grab yours today before the sale ends.",
+    "text_english": "And right now it's 20% off, so grab yours today before the sale ends."
+   }
+  ],
+  "transcript_full_original": "هيدول الـ three hair looks that every curly girl should definitely try this season so she doesn't miss out. Look number one would be the defined curls blowout. Zero frizz, full definition, and a lot of volume. We walk into the room like we own it. The second look is definitely the glass sleek hair. Silky, shiny, pin straight, and a glass finish. Hair like this unlocks a new version of yourself. And here is to look number three: beach waves, careless blowout effect. I woke up like this, بس this is too refined for me to wake up in. هون الخبرية، إنه الثلاثة hairstyles عملتهم بـ one product! Whirlwind Curl من WavyTalk بيستعمل 360 airflow technique من كل الميلات, so you get perfect salon results at home. It gives you no heat damage, and there is no specific skill required to do your hair. And right now it's 20% off, so grab yours today before the sale ends.",
+  "transcript_full_english": "These are three hair looks that every curly girl should definitely try this season so she doesn't miss out. Look number one would be the defined curls blowout. Zero frizz, full definition, and a lot of volume. We walk into the room like we own it. The second look is definitely the glass sleek hair. Silky, shiny, pin straight, and a glass finish. Hair like this unlocks a new version of yourself. And here is to look number three: beach waves, careless blowout effect. I woke up like this, but this is too refined for me to wake up in. Here's the news: the three hairstyles I did them with one product! Whirlwind Curl from WavyTalk uses 360 airflow technique from all sides, so you get perfect salon results at home. It gives you no heat damage, and there is no specific skill required to do your hair. And right now it's 20% off, so grab yours today before the sale ends.",
+  "word_count": 141,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.8,
+    "text": "These Are 3 Hair Looks That Every Curly Girl Should Definitely Try This Season So She Doesn't Miss Out",
+    "role": "hook"
+   },
+   {
+    "start_s": 6.0,
+    "end_s": 8.5,
+    "text": "Look No. 1 Would Be The Defined Curls Blowout",
+    "role": "benefit"
+   },
+   {
+    "start_s": 8.6,
+    "end_s": 13.5,
+    "text": "Zero Frizz Full Definition And A Lot Of Volume",
+    "role": "benefit"
+   },
+   {
+    "start_s": 13.6,
+    "end_s": 15.6,
+    "text": "We Walk Into The Room Like We Own It",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.8,
+    "end_s": 18.5,
+    "text": "The Second Look Is Definitely The Glass",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.6,
+    "end_s": 23.5,
+    "text": "Sleek Hair Silky Shiny Pin Straight And A Glass Finish",
+    "role": "benefit"
+   },
+   {
+    "start_s": 23.6,
+    "end_s": 26.6,
+    "text": "Hair Like This Unlocks A New Version Of Yourself",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 26.8,
+    "end_s": 28.5,
+    "text": "And Here Is To Look No. 3",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 28.6,
+    "end_s": 31.0,
+    "text": "Beach Waves Careless Blowout",
+    "role": "benefit"
+   },
+   {
+    "start_s": 31.1,
+    "end_s": 34.6,
+    "text": "I Woke Up Like This But This Is Too Refined For Me To Wake Up In",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 34.8,
+    "end_s": 38.8,
+    "text": "But Here Is The Thing The 3 Hairstyles I Made Them Be One Product",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 39.0,
+    "end_s": 41.5,
+    "text": "Whirlwind Curl From Wavy We're Using 3 60",
+    "role": "brand"
+   },
+   {
+    "start_s": 41.6,
+    "end_s": 44.5,
+    "text": "Airflow Technique From All Sides",
+    "role": "benefit"
+   },
+   {
+    "start_s": 44.6,
+    "end_s": 47.1,
+    "text": "So You Get Perfect Salon Results At Home",
+    "role": "benefit"
+   },
+   {
+    "start_s": 47.2,
+    "end_s": 49.0,
+    "text": "It Gives You No Heat Damage",
+    "role": "benefit"
+   },
+   {
+    "start_s": 49.1,
+    "end_s": 51.8,
+    "text": "And There Is No Specific Skill Required To Do Your Hair",
+    "role": "benefit"
+   },
+   {
+    "start_s": 51.9,
+    "end_s": 53.5,
+    "text": "And Right Now It's 20% Off",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 53.6,
+    "end_s": 55.4,
+    "text": "So Grab Yours Today Before The Sale Ends",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.8,
+    "shot_type": "split-screen",
+    "visual": "A 3-way horizontal split-screen showing the creator flipping and flaunting her hair in three different styles: wavy blowout in green top, curly blowout in brown cardigan, and pin-straight glass hair in black top.",
+    "action": "Creator shakes, touches, and showcases her hair in 3 different styles simultaneously.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 15.6,
+    "shot_type": "medium shot",
+    "visual": "Creator standing in bedroom wearing brown buttoned cardigan, holding a mic transmitter, rocking bouncy curly blowout with lots of volume.",
+    "action": "She talks into the microphone, smiles, gestures with hands, and fluffs her bouncy curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 26.6,
+    "shot_type": "medium shot",
+    "visual": "Creator in black cropped long-sleeve and jeans, showing off pin-straight silky glass hair.",
+    "action": "She runs her fingers through her hair, poses, and shakes her straight hair excitedly.",
+    "product_visible": false
+   },
+   {
+    "start_s": 26.6,
+    "end_s": 34.6,
+    "shot_type": "medium shot",
+    "visual": "Creator in green sweater and jeans, showing soft beach waves blowout look while holding lapel mic.",
+    "action": "She gestures, tosses her soft wavy hair, and talks enthusiastically to camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 34.6,
+    "end_s": 36.8,
+    "shot_type": "close-up",
+    "visual": "Close-up of creator's defined curls as she touches a curl with pink styling tool visible in hand.",
+    "action": "Creator inspects and pinches a defined spiral curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 36.8,
+    "end_s": 39.0,
+    "shot_type": "close-up",
+    "visual": "Close-up of hair being smoothed with the pink and white Whirlwind Curl tool.",
+    "action": "Tool passes through a section of hair straightening/smoothing it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 39.0,
+    "end_s": 44.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator in green sweater demonstrating how to wrap and curl front section using the pink Whirlwind Curl tool.",
+    "action": "She wraps hair around the barrel, pulls through to create curl, and shakes the result.",
+    "product_visible": true
+   },
+   {
+    "start_s": 44.0,
+    "end_s": 47.1,
+    "shot_type": "medium shot",
+    "visual": "Creator curling side section while facing camera in her bedroom.",
+    "action": "She curls another piece near her crown with the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 47.1,
+    "end_s": 51.8,
+    "shot_type": "medium shot",
+    "visual": "Creator holding mic in hand, holding styling tool in other hand, explaining no heat damage and ease of use.",
+    "action": "She talks and gestures expressively.",
+    "product_visible": true
+   },
+   {
+    "start_s": 51.8,
+    "end_s": 55.4,
+    "shot_type": "medium shot",
+    "visual": "Creator smiling, holding the pink WavyTalk Whirlwind Curl open in one hand and mic in the other, delivering CTA.",
+    "action": "She clicks the styler handle playfully and smiles brightly at camera.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Triple horizontal split-screen showing three distinct styled looks on the same creator with bold serif caption text overlay.",
+   "visual_0_3s": "Three video layers playing simultaneously showing the creator shaking and posing with three different hairstyles.",
+   "spoken_0_3s": "هيدول الـ three hair looks that every curly girl should definitely try this season",
+   "text_0_3s": "These Are 3 Hair Looks That Every Curly Girl Should Definitely Try This Season So She Doesn't Miss Out",
+   "hook_type": "curiosity_gap",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Dynamic 3-tier split screen showing three different hairstyles simultaneously."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Hook: 3 hair looks every curly girl must try this season",
+    "Look 1 showcase: Defined curls blowout (zero frizz, volume)",
+    "Look 2 showcase: Pin-straight glass hair finish",
+    "Look 3 showcase: Beach waves careless blowout effect",
+    "The reveal: All 3 hairstyles achieved with one single tool",
+    "Product demo & mechanism: Whirlwind Curl 360 airflow technology",
+    "Key benefits: Zero heat damage, zero styling skills required",
+    "Offer & Call to Action: 20% discount offer before sale ends"
+   ],
+   "main_angle": "replaces_multiple_tools",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "salon_result_at_home",
+    "less_heat_damage",
+    "easy_for_beginners",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Achieve three distinct hairstyles (curls, straight, waves) with one tool",
+    "Zero frizz and full definition with bouncy volume",
+    "Glass finish pin-straight silky hair",
+    "360-degree airflow technique gives salon results at home",
+    "No heat damage",
+    "No styling skills required"
+   ],
+   "pain_points": [
+    "Curly hair frizz and lack of curl definition",
+    "Needing multiple styling tools to achieve different hairstyles",
+    "Heat damage from conventional straighteners and curlers",
+    "Difficulty in styling hair without salon expertise"
+   ],
+   "objections_handled": [
+    "Too complicated to use (handled: no specific skill required)",
+    "Causes heat damage (handled: gives you no heat damage thanks to 360 airflow)",
+    "Can it really do curly, straight, and wavy? (handled: direct proof of all three styles)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional single-purpose hair tools"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Whirlwind Curl"
+   ],
+   "first_seen_s": 35.5,
+   "first_used_on_hair_s": 36.8,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "20% off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Before the sale ends / grab yours today",
+   "cta_spoken": "Grab yours today before the sale ends",
+   "cta_on_screen": "So Grab Yours Today Before The Sale Ends",
+   "cta_at_s": 52.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Naturally curly brunette bob/shoulder length hair",
+   "hair_after": "Three styles: defined voluminous curls, sleek straight glass hair, loose beach waves",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Upbeat, confident, relatable, and cheerful"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat lo-fi pop instrumental track in the background.",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 10,
+   "avg_shot_length_s": 5.5,
+   "pacing": "medium",
+   "effects": [
+    "3-tier split screen montage",
+    "Serif subtitle captions synchronized with speech",
+    "Smooth jump cuts between different outfits and hair looks"
+   ],
+   "ending": "Creator playfully snaps the styler open, smiles at camera with 20% off CTA."
+  },
+  "notes": "Targeted at curly-haired women in Lebanon. The ad cleverly positions the Whirlwind Curl not just as a curler, but as an all-in-one styling solution capable of bouncy curls, pin-straight glass blowout, and beach waves."
+ }
+}

@@ -1,0 +1,364 @@
+{
+ "media_key": "v_1658428148612763",
+ "analyzed_at": "2026-11-27T18:35:40+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "29dfdf168ffdaf3a24bf3a7b60344662784e6ce15ff17f4f9729f159c57364fd",
+ "source": {
+  "kind": "video",
+  "id": "1658428148612763",
+  "ig_media_id": "18098439767436917",
+  "permalink": "https://www.instagram.com/p/DeZkO1IsFar/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 85.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates how to style a butterfly layered haircut using the Wavytalk Blowout Boost thermal round brush.",
+  "full_description": "A female creator with very long, thick frizzy hair addresses viewers who are afraid of getting layers or a butterfly cut due to styling difficulties. She sections her hair and demonstrates using the pink Wavytalk Blowout Boost thermal brush to smooth the lengths and curl the ends (both outward and inward). She highlights the dramatic contrast between her natural frizzy texture and the smooth, bouncy styled hair, demonstrates how to create volume on the front bangs section, and reveals the finished voluminous layered blowout at the end while showing the product.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I feel like everyone's scared to get a butterfly haircut or layers because they don't know how to style it.",
+    "text_english": "I feel like everyone's scared to get a butterfly haircut or layers because they don't know how to style it."
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 8.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And if that's you, you are definitely missing out, but don't worry because you have me and I'm going to show you how.",
+    "text_english": "And if that's you, you are definitely missing out, but don't worry because you have me and I'm going to show you how."
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 10.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And don't worry, we only do simple and easy hairstyling over here.",
+    "text_english": "And don't worry, we only do simple and easy hairstyling over here."
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 16.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This thermal brush will become your best friend when it comes to styling a layered or butterfly haircut.",
+    "text_english": "This thermal brush will become your best friend when it comes to styling a layered or butterfly haircut."
+   },
+   {
+    "start_s": 16.3,
+    "end_s": 18.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Do you see this curl and bounce?",
+    "text_english": "Do you see this curl and bounce?"
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 28.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I find that it's key with my own layered hair that I always have some sort of bounce or curl at the ends, and this brush makes it so easy to achieve, it's actually amazing.",
+    "text_english": "I find that it's key with my own layered hair that I always have some sort of bounce or curl at the ends, and this brush makes it so easy to achieve, it's actually amazing."
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 32.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It makes my hair and my ends look so healthy.",
+    "text_english": "It makes my hair and my ends look so healthy."
+   },
+   {
+    "start_s": 32.5,
+    "end_s": 36.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at this, ready? Perfect.",
+    "text_english": "Look at this, ready? Perfect."
+   },
+   {
+    "start_s": 36.4,
+    "end_s": 45.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's do this section right here, and I will show you how I do that beautiful curl at the ends, like so.",
+    "text_english": "Let's do this section right here, and I will show you how I do that beautiful curl at the ends, like so."
+   },
+   {
+    "start_s": 45.4,
+    "end_s": 51.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Or you can go under the hair and do a curl towards your face instead if you rather that look.",
+    "text_english": "Or you can go under the hair and do a curl towards your face instead if you rather that look."
+   },
+   {
+    "start_s": 51.5,
+    "end_s": 58.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Everyone is too afraid of getting layers or a butterfly cut because they think it's too hard to style, but I'm sorry, look at this difference. It does not have to be hard.",
+    "text_english": "Everyone is too afraid of getting layers or a butterfly cut because they think it's too hard to style, but I'm sorry, look at this difference. It does not have to be hard."
+   },
+   {
+    "start_s": 58.6,
+    "end_s": 61.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I swear this brush does the work for you.",
+    "text_english": "I swear this brush does the work for you."
+   },
+   {
+    "start_s": 61.2,
+    "end_s": 67.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "With a butterfly cut or layered cut, the front section is arguably the most important, so first we're going to go over the hair.",
+    "text_english": "With a butterfly cut or layered cut, the front section is arguably the most important, so first we're going to go over the hair."
+   },
+   {
+    "start_s": 67.8,
+    "end_s": 75.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now we are going to go under, and this is going to create a ton of volume, which, you know, we need with this kind of haircut.",
+    "text_english": "Now we are going to go under, and this is going to create a ton of volume, which, you know, we need with this kind of haircut."
+   },
+   {
+    "start_s": 75.3,
+    "end_s": 80.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Shake it out, and this is the final look! My layers are grown out and it looks this good.",
+    "text_english": "Shake it out, and this is the final look! My layers are grown out and it looks this good."
+   },
+   {
+    "start_s": 80.5,
+    "end_s": 85.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The Wavytalk Blowout Boost never fails a butterfly or layered haircut.",
+    "text_english": "The Wavytalk Blowout Boost never fails a butterfly or layered haircut."
+   }
+  ],
+  "transcript_full_original": "I feel like everyone's scared to get a butterfly haircut or layers because they don't know how to style it. And if that's you, you are definitely missing out, but don't worry because you have me and I'm going to show you how. And don't worry, we only do simple and easy hairstyling over here. This thermal brush will become your best friend when it comes to styling a layered or butterfly haircut. Do you see this curl and bounce? I find that it's key with my own layered hair that I always have some sort of bounce or curl at the ends, and this brush makes it so easy to achieve, it's actually amazing. It makes my hair and my ends look so healthy. Look at this, ready? Perfect. Let's do this section right here, and I will show you how I do that beautiful curl at the ends, like so. Or you can go under the hair and do a curl towards your face instead if you rather that look. Everyone is too afraid of getting layers or a butterfly cut because they think it's too hard to style, but I'm sorry, look at this difference. It does not have to be hard. I swear this brush does the work for you. With a butterfly cut or layered cut, the front section is arguably the most important, so first we're going to go over the hair. Now we are going to go under, and this is going to create a ton of volume, which, you know, we need with this kind of haircut. Shake it out, and this is the final look! My layers are grown out and it looks this good. The Wavytalk Blowout Boost never fails a butterfly or layered haircut.",
+  "transcript_full_english": "I feel like everyone's scared to get a butterfly haircut or layers because they don't know how to style it. And if that's you, you are definitely missing out, but don't worry because you have me and I'm going to show you how. And don't worry, we only do simple and easy hairstyling over here. This thermal brush will become your best friend when it comes to styling a layered or butterfly haircut. Do you see this curl and bounce? I find that it's key with my own layered hair that I always have some sort of bounce or curl at the ends, and this brush makes it so easy to achieve, it's actually amazing. It makes my hair and my ends look so healthy. Look at this, ready? Perfect. Let's do this section right here, and I will show you how I do that beautiful curl at the ends, like so. Or you can go under the hair and do a curl towards your face instead if you rather that look. Everyone is too afraid of getting layers or a butterfly cut because they think it's too hard to style, but I'm sorry, look at this difference. It does not have to be hard. I swear this brush does the work for you. With a butterfly cut or layered cut, the front section is arguably the most important, so first we're going to go over the hair. Now we are going to go under, and this is going to create a ton of volume, which, you know, we need with this kind of haircut. Shake it out, and this is the final look! My layers are grown out and it looks this good. The Wavytalk Blowout Boost never fails a butterfly or layered haircut.",
+  "word_count": 286,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "shot_type": "medium_shot",
+    "visual": "Creator facing camera showing her extremely voluminous, frizzy, textured hair.",
+    "action": "Creator gestures towards her hair and talks about being scared to get a butterfly cut.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 10.9,
+    "shot_type": "medium_shot",
+    "visual": "Creator clips up the top half of her hair into a bun, then brushes through the bottom section with a blue detangling brush.",
+    "action": "Preparing hair sections for styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 16.3,
+    "shot_type": "medium_shot",
+    "visual": "Creator glides the pink Wavytalk Blowout Boost thermal round brush down a section of hair.",
+    "action": "Demonstrating how the thermal brush straightens and curls the end in one pass.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.3,
+    "end_s": 18.7,
+    "shot_type": "medium_shot",
+    "visual": "Creator holds up the finished glossy hair strand displaying the curled end.",
+    "action": "Showing the bounce and curl of the styled section.",
+    "product_visible": false
+   },
+   {
+    "start_s": 18.7,
+    "end_s": 20.8,
+    "shot_type": "medium_shot",
+    "visual": "Creator holds the pink thermal brush in front of the camera.",
+    "action": "Talking directly to camera holding the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 36.4,
+    "shot_type": "medium_shot",
+    "visual": "Creator wraps hair around the thermal brush barrel near the root and slowly rolls down to the ends.",
+    "action": "Styling the side section, rolling and releasing a polished curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 36.4,
+    "end_s": 45.7,
+    "shot_type": "close_up",
+    "visual": "Close-up of hair wrapping around the pink thermal barrel.",
+    "action": "Slow gliding through hair section to create an outward curled flick.",
+    "product_visible": true
+   },
+   {
+    "start_s": 45.7,
+    "end_s": 51.5,
+    "shot_type": "medium_shot",
+    "visual": "Creator demonstrates placing the brush underneath the strand to curl inward towards the face.",
+    "action": "Curling the section in the opposite direction.",
+    "product_visible": true
+   },
+   {
+    "start_s": 51.5,
+    "end_s": 58.7,
+    "shot_type": "medium_shot",
+    "visual": "Half-and-half side comparison: right side smooth and blowout styled, left side completely frizzy and unstyled.",
+    "action": "Creator gestures to both sides highlighting the contrast.",
+    "product_visible": true
+   },
+   {
+    "start_s": 58.7,
+    "end_s": 61.2,
+    "shot_type": "medium_shot",
+    "visual": "Creator rolling another section and showing the bouncy curled ringlet.",
+    "action": "Showing the effortless curl produced by the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 61.2,
+    "end_s": 75.3,
+    "shot_type": "medium_shot",
+    "visual": "Creator styles her front face-framing fringe/bangs upwards and outwards, then rolls backward under.",
+    "action": "Creating volume in the front bang section using the thermal brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 75.3,
+    "end_s": 80.5,
+    "shot_type": "medium_shot",
+    "visual": "Creator shakes out all her styled hair and reveals the full blowout.",
+    "action": "Fluffing her voluminous, glossy butterfly haircut result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 80.5,
+    "end_s": 85.0,
+    "shot_type": "medium_shot",
+    "visual": "Creator holding the pink Wavytalk Blowout Boost tool up to the camera with digital temperature screen visible.",
+    "action": "Points at the product while delivering the closing endorsement.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing off her huge, frizzy, unstyled curly-wavy hair.",
+   "visual_0_3s": "Creator talking to camera displaying huge frizzy natural hair.",
+   "spoken_0_3s": "I feel like everyone's scared to get a butterfly haircut or layers because they don't know how to style it.",
+   "text_0_3s": "",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Shockingly large, frizzy, voluminous unstyled hair displayed by an attractive creator."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Relatable problem callout: fear of butterfly haircuts and layers because styling is intimidating",
+    "Reassurance that styling can be simple with the right tool",
+    "Introduction and live demonstration of the thermal brush",
+    "Showcasing technique: outward flick vs inward curl",
+    "Dramatic half-done side-by-side comparison",
+    "Front curtain bangs styling technique for root lift and volume",
+    "Final big bouncy blowout reveal and brand endorsement"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "frizz_or_curly_solution"
+   ],
+   "key_claims": [
+    "Thermal brush makes styling butterfly and layered cuts effortless",
+    "Smooths frizzy hair and creates healthy-looking ends",
+    "Adds salon-quality bounce and curl in minutes",
+    "Creates maximum volume in front fringe sections"
+   ],
+   "pain_points": [
+    "Butterfly cuts and layered hair are hard to style at home",
+    "Fear of haircut looking messy or flat without professional styling",
+    "Frizz and unmanageable ends"
+   ],
+   "objections_handled": [
+    "Styling takes too much skill: brush does all the work for you",
+    "Grown out layers looking messy: tool makes even overgrown layers look fresh"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 10.9,
+   "first_used_on_hair_s": 11.2,
+   "final_result_shown_s": 76.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-28",
+   "hair_before": "Very long, dense, frizzy, natural wavy-curly brown hair",
+   "hair_after": "Ultra-sleek, bouncy, voluminous blowout with flipped ends and curved layers",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "friendly, confident, tutorial-oriented"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 6.07,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between steps"
+   ],
+   "ending": "Creator proudly poses holding the pink Wavytalk thermal brush next to her bouncy voluminous styled hair."
+  },
+  "notes": "English speaking UGC creator ad demonstrating the Wavytalk Blowout Boost thermal heated round brush on thick frizzy hair with a layered/butterfly cut."
+ }
+}

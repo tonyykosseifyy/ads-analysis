@@ -1,0 +1,526 @@
+{
+ "media_key": "v_1716955966307218",
+ "analyzed_at": "2026-11-27T23:04:42+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "2fbacb2c8b6451932d04dbefccd973edff5f938b96d37acdfc11f89939fea992",
+ "source": {
+  "kind": "video",
+  "id": "1716955966307218",
+  "errors": [
+   "1716955966307218: Gave up after 5 retries: https://graph.facebook.com/v26.0/1716955966307218"
+  ],
+  "video_id": "1541601460846081",
+  "length_s": 90.743,
+  "permalink": "/23849366283980795/videos/1541601460846081/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 90.6,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator transforms thick, frizzy hair into a sleek Victoria's Secret-inspired blowout using the Wavytalk Blowout Boost thermal round brush.",
+  "full_description": "A creator with very long, voluminous, frizzy hair films a talking-head hair routine showing how she styles her hair using the pink Wavytalk Blowout Boost thermal round brush. She expresses disbelief at how much easier it is than using a round brush and traditional blow dryer, styling section by section while talking about the Victoria's Secret fashion show and comparing sleek blowouts to voluminous bouncy styles. She shows the smooth, shiny final result, tries side and middle parts, and prompts viewers to check out the tool.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's blowout my hair!",
+    "text_english": "Let's blowout my hair!"
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 8.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You will never catch me doing a round brush and blow dryer blowout ever again after discovering the Wavytalk Blowout Boost.",
+    "text_english": "You will never catch me doing a round brush and blow dryer blowout ever again after discovering the Wavytalk Blowout Boost."
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 17.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You have to see how this just gives you the best blowout look without all the extra effort that is so unnecessary and so much harder.",
+    "text_english": "You have to see how this just gives you the best blowout look without all the extra effort that is so unnecessary and so much harder."
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 23.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "All you have to do is take your hair, wrap it around the brush one time, and then make your way down like this.",
+    "text_english": "All you have to do is take your hair, wrap it around the brush one time, and then make your way down like this."
+   },
+   {
+    "start_s": 23.8,
+    "end_s": 29.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It is so much easier. This would take me like 15 tries with a round brush and a blow dryer.",
+    "text_english": "It is so much easier. This would take me like 15 tries with a round brush and a blow dryer."
+   },
+   {
+    "start_s": 29.5,
+    "end_s": 35.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Not to mention the shine that the negative ion technology from this brush gives my hair. Look at that.",
+    "text_english": "Not to mention the shine that the negative ion technology from this brush gives my hair. Look at that."
+   },
+   {
+    "start_s": 35.0,
+    "end_s": 43.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I watched the Victoria's Secret Fashion Show the other night and I want to emulate those looks, so I'm going to do more of a straight blowout today.",
+    "text_english": "I watched the Victoria's Secret Fashion Show the other night and I want to emulate those looks, so I'm going to do more of a straight blowout today."
+   },
+   {
+    "start_s": 43.5,
+    "end_s": 50.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Usually I really do go for that flip at the ends that's really extreme, but today I'm going to kind of emulate specifically Candice's look.",
+    "text_english": "Usually I really do go for that flip at the ends that's really extreme, but today I'm going to kind of emulate specifically Candice's look."
+   },
+   {
+    "start_s": 50.0,
+    "end_s": 56.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I absolutely love her, she's my favorite, so we're going to do a little less of a flip today.",
+    "text_english": "I absolutely love her, she's my favorite, so we're going to do a little less of a flip today."
+   },
+   {
+    "start_s": 56.5,
+    "end_s": 60.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This brush just makes my hair look so healthy and shiny.",
+    "text_english": "This brush just makes my hair look so healthy and shiny."
+   },
+   {
+    "start_s": 60.0,
+    "end_s": 67.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "What do you guys prefer, the big voluminous blowouts that they used to do, or the more sleek and straight blowouts that they did this year?",
+    "text_english": "What do you guys prefer, the big voluminous blowouts that they used to do, or the more sleek and straight blowouts that they did this year?"
+   },
+   {
+    "start_s": 67.0,
+    "end_s": 71.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I especially love that they always do side parts.",
+    "text_english": "I especially love that they always do side parts."
+   },
+   {
+    "start_s": 71.0,
+    "end_s": 74.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you watch my videos you know that I am a side part girl through and through.",
+    "text_english": "If you watch my videos you know that I am a side part girl through and through."
+   },
+   {
+    "start_s": 74.5,
+    "end_s": 77.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay, this is a sleek blowout.",
+    "text_english": "Okay, this is a sleek blowout."
+   },
+   {
+    "start_s": 77.0,
+    "end_s": 81.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Do you like the sleek look or do you prefer the big voluminous bombshell curls?",
+    "text_english": "Do you like the sleek look or do you prefer the big voluminous bombshell curls?"
+   },
+   {
+    "start_s": 81.0,
+    "end_s": 87.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I kind of love how like neat this looks. And do you prefer the middle part or the more Victoria's Secret-esque side part?",
+    "text_english": "I kind of love how like neat this looks. And do you prefer the middle part or the more Victoria's Secret-esque side part?"
+   },
+   {
+    "start_s": 87.0,
+    "end_s": 90.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let me know what you think and check out the Wavytalk Blowout Boost.",
+    "text_english": "Let me know what you think and check out the Wavytalk Blowout Boost."
+   }
+  ],
+  "transcript_full_original": "Let's blowout my hair! You will never catch me doing a round brush and blow dryer blowout ever again after discovering the Wavytalk Blowout Boost. You have to see how this just gives you the best blowout look without all the extra effort that is so unnecessary and so much harder. All you have to do is take your hair, wrap it around the brush one time, and then make your way down like this. It is so much easier. This would take me like 15 tries with a round brush and a blow dryer. Not to mention the shine that the negative ion technology from this brush gives my hair. Look at that. I watched the Victoria's Secret Fashion Show the other night and I want to emulate those looks, so I'm going to do more of a straight blowout today. Usually I really do go for that flip at the ends that's really extreme, but today I'm going to kind of emulate specifically Candice's look. I absolutely love her, she's my favorite, so we're going to do a little less of a flip today. This brush just makes my hair look so healthy and shiny. What do you guys prefer, the big voluminous blowouts that they used to do, or the more sleek and straight blowouts that they did this year? I especially love that they always do side parts. If you watch my videos you know that I am a side part girl through and through. Okay, this is a sleek blowout. Do you like the sleek look or do you prefer the big voluminous bombshell curls? I kind of love how like neat this looks. And do you prefer the middle part or the more Victoria's Secret-esque side part? Let me know what you think and check out the Wavytalk Blowout Boost.",
+  "transcript_full_english": "Let's blowout my hair! You will never catch me doing a round brush and blow dryer blowout ever again after discovering the Wavytalk Blowout Boost. You have to see how this just gives you the best blowout look without all the extra effort that is so unnecessary and so much harder. All you have to do is take your hair, wrap it around the brush one time, and then make your way down like this. It is so much easier. This would take me like 15 tries with a round brush and a blow dryer. Not to mention the shine that the negative ion technology from this brush gives my hair. Look at that. I watched the Victoria's Secret Fashion Show the other night and I want to emulate those looks, so I'm going to do more of a straight blowout today. Usually I really do go for that flip at the ends that's really extreme, but today I'm going to kind of emulate specifically Candice's look. I absolutely love her, she's my favorite, so we're going to do a little less of a flip today. This brush just makes my hair look so healthy and shiny. What do you guys prefer, the big voluminous blowouts that they used to do, or the more sleek and straight blowouts that they did this year? I especially love that they always do side parts. If you watch my videos you know that I am a side part girl through and through. Okay, this is a sleek blowout. Do you like the sleek look or do you prefer the big voluminous bombshell curls? I kind of love how like neat this looks. And do you prefer the middle part or the more Victoria's Secret-esque side part? Let me know what you think and check out the Wavytalk Blowout Boost.",
+  "word_count": 273,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "text": "Let's blowout my hair!",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 5.5,
+    "text": "you will never catch me doing a round brush and blow dryer blowout ever again",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 8.0,
+    "text": "after discovering the Wavytalk Blowout Boost",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 12.5,
+    "text": "you have to see how this just gives you the best blowout look",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.5,
+    "end_s": 15.0,
+    "text": "without all the extra effort",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 17.5,
+    "text": "that is so unnecessary and so much harder",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 20.0,
+    "text": "all you have to do is take your hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 22.0,
+    "text": "wrap it around the brush one time",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 24.0,
+    "text": "and then make your way down like this",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 24.0,
+    "end_s": 26.5,
+    "text": "it is so much easier this would take me",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 29.5,
+    "text": "like 15 tries with a round brush and a blow dryer",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 29.5,
+    "end_s": 31.0,
+    "text": "not to mention",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 34.0,
+    "text": "the shine that the negative ion technology from this brush gives my hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 34.0,
+    "end_s": 36.5,
+    "text": "look at that I watched the Victoria's Secret Fashion Show the other night",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 36.5,
+    "end_s": 40.0,
+    "text": "and I want to emulate those looks",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 40.0,
+    "end_s": 43.5,
+    "text": "so I'm gonna do more of a straight blowout today",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 43.5,
+    "end_s": 47.0,
+    "text": "usually I really do go for that flip at the ends that's really extreme",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 47.0,
+    "end_s": 52.0,
+    "text": "but today I'm gonna kind of emulate specifically Candice's look",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 52.0,
+    "end_s": 56.0,
+    "text": "I absolutely love her she's my favourite",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 56.0,
+    "end_s": 58.5,
+    "text": "so we're gonna do a little less of a flip today",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 58.5,
+    "end_s": 61.0,
+    "text": "this brush just makes my hair look so healthy and shiny",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 61.0,
+    "end_s": 63.5,
+    "text": "what do you guys prefer the big",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 63.5,
+    "end_s": 66.0,
+    "text": "voluminous blowouts that they used to do",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 66.0,
+    "end_s": 68.5,
+    "text": "or the more sleek and straight blowouts that they did this year",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 68.5,
+    "end_s": 71.0,
+    "text": "I especially love that they always do side parts",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 71.0,
+    "end_s": 74.0,
+    "text": "if you watch my videos you know that I am a side part girl through and through",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 74.0,
+    "end_s": 77.0,
+    "text": "okay this is a sleek blowout",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 77.0,
+    "end_s": 81.0,
+    "text": "do you like the sleek look or do you prefer the big voluminous bombshell curls",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 81.0,
+    "end_s": 83.5,
+    "text": "I kinda love how like neat this looks",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 83.5,
+    "end_s": 87.5,
+    "text": "and do you prefer the middle part or the more Victoria's secret esque side part",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 87.5,
+    "end_s": 90.6,
+    "text": "let me know what you think and check out the Wavytalk Blowout Boost",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "shot_type": "medium shot",
+    "visual": "Creator sits facing camera showcasing huge, thick, wavy/frizzy hair before styling.",
+    "action": "Creator gestures excitedly toward her voluminous natural hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 17.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the pink Wavytalk Blowout Boost thermal round brush and starts smoothing an underside section.",
+    "action": "Creator displays the tool, pins top hair up, and glides the brush through an initial strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 35.0,
+    "shot_type": "medium close-up",
+    "visual": "Close look at styling process: wrapping hair around the barrel and slowly pulling down.",
+    "action": "Creator wraps hair around barrel once and slides it down smoothly, demonstrating how effortless it is compared to blow dryer and round brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 35.0,
+    "end_s": 58.5,
+    "shot_type": "medium close-up",
+    "visual": "Styling the next section on the left side with clear contrast between finished silky side and untouched frizzy side.",
+    "action": "Creator sections another strand, wraps and glides the thermal brush down, talking about Victoria's Secret model Candice Swanepoel's look.",
+    "product_visible": true
+   },
+   {
+    "start_s": 58.5,
+    "end_s": 71.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushes and curls the remaining sections including right side and front bangs.",
+    "action": "Creator smoothly glides through hair strands, curling the tips slightly and smoothing out frizz.",
+    "product_visible": true
+   },
+   {
+    "start_s": 71.0,
+    "end_s": 74.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styles top crown section straight upward with the brush for lift.",
+    "action": "Lifting front hair straight up and rolling the thermal brush through.",
+    "product_visible": true
+   },
+   {
+    "start_s": 74.5,
+    "end_s": 87.0,
+    "shot_type": "medium shot",
+    "visual": "Finished blowout result: incredibly sleek, shiny, frizz-free long brunette hair with soft movement at the ends.",
+    "action": "Creator runs hands through hair, flips it around, tests middle part versus side part, admiring the smooth shine.",
+    "product_visible": false
+   },
+   {
+    "start_s": 87.0,
+    "end_s": 90.6,
+    "shot_type": "medium shot",
+    "visual": "Creator holds up the pink Wavytalk Blowout Boost brush next to her styled hair.",
+    "action": "Creator delivers closing call to action holding the heated brush upright.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing very long, voluminous, frizzy hair with caption 'Let's blowout my hair!'",
+   "visual_0_3s": "Creator shows off her wild curly/frizzy hair before cutting immediately to holding the styling brush.",
+   "spoken_0_3s": "Let's blowout my hair! You will never catch me doing a round brush and blow dryer...",
+   "text_0_3s": "Let's blowout my hair! / you will never catch me doing a round brush and blow dryer blowout ever again",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Shockingly voluminous/frizzy untreated hair in frame 1 followed by an immediate bold declaration dismissing traditional round brush blowouts."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: Display extreme volume/frizzy hair and reject traditional round brush + blow dryer method",
+    "Tool intro: Show Wavytalk Blowout Boost and demonstrate the simple 1-wrap glide technique",
+    "Contrast & ease: Highlight that it eliminates 15 clumsy tries and provides negative ion shine",
+    "Pop-culture connection: Explains recreating Victoria's Secret fashion show sleek blowout",
+    "Step-by-step continuation: Demonstrates side-by-side sleek vs frizzy sections and crown lift",
+    "Reveal & styling: Showcases silky finished hair, tests side vs middle part",
+    "CTA: Holds product and encourages viewers to check it out"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "saves_time",
+    "frizz_or_curly_solution"
+   ],
+   "key_claims": [
+    "Gives the best blowout look without extra effort",
+    "Takes only one wrap around the brush and glide down",
+    "Negative ion technology gives intense shine and healthy look",
+    "Replaces the hard work of round brush plus blow dryer"
+   ],
+   "pain_points": [
+    "Round brush and blow dryer blowouts are exhausting, difficult, and take 15 tries per strand",
+    "Frizzy, unmanageable voluminous hair"
+   ],
+   "objections_handled": [
+    "Is it hard to use?: No, all you have to do is wrap it once and glide down",
+    "Does it work on very thick frizzy hair?: Clearly demonstrated on extremely thick hair in one pass"
+   ],
+   "social_proof": [
+    "Pop-culture reference to Victoria's Secret fashion show models (Candice)"
+   ],
+   "comparison_to": "Traditional round brush and blow dryer combo"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 1.2,
+   "first_used_on_hair_s": 2.5,
+   "final_result_shown_s": 74.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Let me know what you think and check out the Wavytalk Blowout Boost.",
+   "cta_on_screen": "let me know what you think and check out the Wavytalk Blowout Boost",
+   "cta_at_s": 87.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Waist-length, very thick, puffy, frizzy, textured light brown / auburn wavy hair",
+   "hair_after": "Ultra-sleek, smooth, glossy blowout with soft flipped ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, casual, friendly, relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "Faint ambient background music underneath clear spoken voice",
+   "captions_burned_in": true,
+   "production_style": "phone_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 10.0,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between hair sections"
+   ],
+   "ending": "Creator holds up the tool in front of the camera smiling while rocking her finished blowout."
+  },
+  "notes": "Natural organic UGC format effectively repurposed as ad creative. The visual contrast between her thick, puffy natural hair and the glass-like silky strands styled by the thermal brush is extremely persuasive."
+ }
+}

@@ -1,0 +1,343 @@
+{
+ "media_key": "v_1386851899602927",
+ "analyzed_at": "2026-11-27T20:38:27+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "f463ec967dcbcc5a14aa84cad57f92f6b03b269972dc2de56e6537c6fcfcb8da",
+ "source": {
+  "kind": "video",
+  "id": "1386851899602927",
+  "video_id": "1235061028532709",
+  "length_s": 18.766,
+  "permalink": "/23849366283980795/videos/1235061028532709/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 18.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator compares conventional damaging hair tools with the WavyTalk Steamline Pro, demonstrating how steam technology straightens, detangles, and hydrates hair.",
+  "full_description": "The ad opens with a young woman sitting on an orange sofa with animated cutouts of traditional blow-dryer round brushes floating around her, stating that typical hair tools ruin and dry out hair. The scene transitions to a close-up demonstration of the pink WavyTalk Steamline Pro straightener brush being held and turned on, followed by the creator in a black blazer holding it up. She is then seen using the steam brush on her partitioned hair on the couch, before enthusiastically showing off the sleek, shiny, detangled result. She concludes by urging viewers to stop using tools that burn their hair and to order the Steamline Pro from the link below, displaying the website address wavytalk-lb.com on screen.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 65,
+    "en": 35,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "arabizi",
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "كل الـ hair tools بينزعوا الشعر وما بضاين،",
+    "text_english": "All hair tools ruin hair and don't last,"
+   },
+   {
+    "start_s": 2.5,
+    "end_s": 4.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "لأن هالـ tools بينشفوا من جوا بدل ما يضل ع طبيعته.",
+    "text_english": "because these tools dry it out from the inside instead of letting it stay natural."
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 7.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "This is why WavyTalk جابتلكم Steamline Pro.",
+    "text_english": "This is why WavyTalk brought you the Steamline Pro."
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 10.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "It straightens your hair using steam technology وما بينشفوا.",
+    "text_english": "It straightens your hair using steam technology and doesn't dry it out."
+   },
+   {
+    "start_s": 10.8,
+    "end_s": 13.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "It even detangles all your hair وبيطلع shiny و hydrated.",
+    "text_english": "It even detangles all your hair and it comes out shiny and hydrated."
+   },
+   {
+    "start_s": 13.8,
+    "end_s": 16.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Stop using tools بيحرقولكم شعركم،",
+    "text_english": "Stop using tools that burn your hair,"
+   },
+   {
+    "start_s": 16.3,
+    "end_s": 18.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "واطلبوا الـ Steamline Pro from the link below.",
+    "text_english": "and order the Steamline Pro from the link below."
+   }
+  ],
+  "transcript_full_original": "كل الـ hair tools بينزعوا الشعر وما بضاين، لأن هالـ tools بينشفوا من جوا بدل ما يضل ع طبيعته. This is why WavyTalk جابتلكم Steamline Pro. It straightens your hair using steam technology وما بينشفوا. It even detangles all your hair وبيطلع shiny و hydrated. Stop using tools بيحرقولكم شعركم، واطلبوا الـ Steamline Pro from the link below.",
+  "transcript_full_english": "All hair tools ruin hair and don't last, because these tools dry it out from the inside instead of letting it stay natural. This is why WavyTalk brought you the Steamline Pro. It straightens your hair using steam technology and doesn't dry it out. It even detangles all your hair and it comes out shiny and hydrated. Stop using tools that burn your hair, and order the Steamline Pro from the link below.",
+  "word_count": 44,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "text": "Kl l hair tools",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 2.2,
+    "text": "byenza3o l cha3er",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 3.2,
+    "text": "la2an hal tools",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 4.6,
+    "text": "b nashfou mn jouwa",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 5.4,
+    "text": "This is",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 6.6,
+    "text": "wavytalk jebetelkon",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.6,
+    "end_s": 7.8,
+    "text": "Steamline pro",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 8.8,
+    "text": "It straightens your hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.8,
+    "end_s": 9.8,
+    "text": "using steam technology",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 10.8,
+    "text": "w ma binashefo",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.8,
+    "end_s": 11.8,
+    "text": "It even detangles all your hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.8,
+    "end_s": 13.8,
+    "text": "byotlaa shiny w hydrated",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.8,
+    "end_s": 15.0,
+    "text": "Stop using tools",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 16.2,
+    "text": "byeher2oulkon shaarkon",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.3,
+    "end_s": 18.5,
+    "text": "w tlobo l steamline pro",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.3,
+    "end_s": 18.5,
+    "text": "wavytalk-lb.com",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.8,
+    "shot_type": "medium shot",
+    "visual": "Young woman sitting on an orange couch in front of large windows with floating animated hair round brushes around her.",
+    "action": "She gestures with her hands while explaining how traditional hair tools damage and dry out hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 6.6,
+    "shot_type": "close-up",
+    "visual": "Gloved hands holding the pale pink WavyTalk Steamline Pro brush on a bathroom vanity with temperature LED lights illuminated.",
+    "action": "Demonstrating the product buttons, bristles, and power indicator.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.6,
+    "end_s": 7.8,
+    "shot_type": "medium shot",
+    "visual": "Woman wearing a black blazer and black gloves holding the Steamline Pro horizontally in a modern bathroom.",
+    "action": "Presents the Steamline Pro straightener brush toward the camera with a confident smile.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 10.8,
+    "shot_type": "medium shot",
+    "visual": "Creator back on the orange couch, hair sectioned with styling clips, wearing a heat-resistant black glove.",
+    "action": "Slowly gliding the Steamline Pro through a section of hair from root to tip, demonstrating steam styling.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.8,
+    "end_s": 13.8,
+    "shot_type": "medium shot",
+    "visual": "Creator standing in front of large glass balcony doors shaking and flipping her styled hair.",
+    "action": "Flips and touches her smooth, glossy straightened hair, smiling cheerfully at the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 13.8,
+    "end_s": 16.2,
+    "shot_type": "medium shot",
+    "visual": "Creator standing indoors in living room gesturing stop with her hands.",
+    "action": "Emphasizes stopping the use of burning hair tools with negative hand motions.",
+    "product_visible": false
+   },
+   {
+    "start_s": 16.2,
+    "end_s": 18.5,
+    "shot_type": "medium shot",
+    "visual": "Creator holding up the pink Steamline Pro in front of her chest with website overlay below.",
+    "action": "Presents the tool to the camera and gestures toward the CTA button and website URL.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator sitting on orange couch surrounded by floating cutout images of round hair styling brushes.",
+   "visual_0_3s": "Creator gesticulating while surrounded by floating traditional round brushes in high-rise apartment.",
+   "spoken_0_3s": "كل الـ hair tools بينزعوا الشعر وما بضاين",
+   "text_0_3s": "Kl l hair tools byenza3o l cha3er",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Surreal visual effect of cutout round brushes floating and rotating around the speaker."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Problem: Traditional hair tools damage and dry out hair",
+    "Introduction: WavyTalk Steamline Pro with steam technology",
+    "Feature/Demo: Straightens and detangles without drying or burning",
+    "Result: Shiny, hydrated, healthy hair outcome",
+    "Call to action: Stop burning hair, order via link"
+   ],
+   "main_angle": "less_heat_damage",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Traditional tools dry out hair from the inside",
+    "Steam technology straightens without drying out hair",
+    "Detangles all hair types effortlessly",
+    "Leaves hair shiny and hydrated"
+   ],
+   "pain_points": [
+    "Hair getting damaged and burnt by hot tools",
+    "Hair drying out and losing natural texture",
+    "Results not lasting"
+   ],
+   "objections_handled": [
+    "Heat damage and dryness prevented by steam technology"
+   ],
+   "social_proof": [],
+   "comparison_to": "Conventional round brushes and hot tools"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Steamline Pro"
+   ],
+   "first_seen_s": 4.8,
+   "first_used_on_hair_s": 7.8,
+   "final_result_shown_s": 10.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "واطلبوا الـ Steamline Pro from the link below",
+   "cta_on_screen": "wavytalk-lb.com",
+   "cta_at_s": 16.3
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Dark brown, natural wavy texture",
+   "hair_after": "Smooth, sleek, straight, shiny brunette hair",
+   "setting": "Modern bright apartment with city view and modern tiled bathroom",
+   "faces_camera": true,
+   "energy_tone": "Engaging, expressive, confident, and enthusiastic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat instrumental pop background track",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 2.6,
+   "pacing": "fast",
+   "effects": [
+    "floating cutout brush graphics",
+    "text overlays with animated pointer finger emoji"
+   ],
+   "ending": "Creator holds the Steamline Pro tool facing camera with website URL displayed"
+  },
+  "notes": "The video advertises the WavyTalk Steamline Pro steam brush straightener, highlighting steam hydration and heat damage prevention, spoken in Lebanese Arabic mixed with English."
+ }
+}

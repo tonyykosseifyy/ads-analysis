@@ -1,0 +1,232 @@
+{
+ "media_key": "v_2493565491068656",
+ "analyzed_at": "2026-11-27T20:05:50+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "6d18830a8180d802b259c720e5d357cd628844c2823ba11221dd7edc9e0b0837",
+ "source": {
+  "kind": "video",
+  "id": "2493565491068656",
+  "errors": [
+   "2493565491068656: Gave up after 5 retries: https://graph.facebook.com/v26.0/2493565491068656",
+   "1032744859400729: Gave up after 5 retries: https://graph.facebook.com/v26.0/1032744859400729"
+  ],
+  "ig_media_id": "18122746621691445",
+  "permalink": "https://www.instagram.com/p/DbOONWUMPnh/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 25.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates how to achieve a bouncy, damage-free salon blowout at home using the WavyTalk Blowout Boost thermal brush.",
+  "full_description": "A silent tutorial-style UGC video set to a trending hip-hop track. The video opens with a quick flash of the creator's voluminous blowout result before cutting to her sectioning her long brunette hair. She shows one finished side with dynamic bounce and winks at the camera, then demonstrates smoothing and curling a mid-section using the WavyTalk Blowout Boost thermal round brush. On-screen text highlights its ionic frizz-reducing technology. She releases the pinned top crown section and fluffs her hair, displaying a full, bouncy 'main character' blowout, ending with her holding the tool and smiling.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.5,
+    "text": "How to get a Blowout at home without damaging your hair",
+    "role": "hook"
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 3.8,
+    "text": "SECTION YOUR HAIR",
+    "role": "benefit"
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 6.8,
+    "text": "LOOK AT THAT BOUNCE!",
+    "role": "benefit"
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 8.8,
+    "text": "SEE THE DIFFERENCE",
+    "role": "benefit"
+   },
+   {
+    "start_s": 9.0,
+    "end_s": 15.5,
+    "text": "USES IONIC TECHNOLOGY TO KILL FRIZZ",
+    "role": "benefit"
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 23.5,
+    "text": "MAIN CHARACTER HAIR UNLOCKED",
+    "role": "benefit"
+   },
+   {
+    "start_s": 23.8,
+    "end_s": 25.8,
+    "text": "I'M IN LOVEE",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator running hand through already styled, voluminous wavy blowout hair.",
+    "action": "Creator showcases finished bouncy hair as an initial teaser.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 3.8,
+    "shot_type": "medium shot",
+    "visual": "Creator in a white t-shirt sectioning her hair, separating front bangs and clipping up top sections.",
+    "action": "Creator parts hair down the middle and clips upper layers away.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 6.8,
+    "shot_type": "medium shot",
+    "visual": "Creator holds the pink WavyTalk thermal brush, winks, and points to the curled side of her hair bouncing.",
+    "action": "Creator shows off the curl bounce and gives a playful wink to camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 8.9,
+    "shot_type": "medium shot",
+    "visual": "Creator comparing the styled side (curled, bouncy) with the unstyled side (straight/frizzy).",
+    "action": "Creator touches both sides to emphasize the visual contrast.",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.9,
+    "end_s": 15.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator wrapping hair section around the WavyTalk thermal brush cylinder and gliding it down to curl.",
+    "action": "Creator demonstrates rolling and curling hair strands using the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.8,
+    "end_s": 20.8,
+    "shot_type": "medium shot",
+    "visual": "Creator releases hair clip from top crown, shaking and fluffing her full blowout.",
+    "action": "Creator fluffs and styles voluminous curtain bangs and layers with both hands.",
+    "product_visible": false
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 25.8,
+    "shot_type": "medium shot",
+    "visual": "Creator poses, twirls, shows hair bounce from all angles, and holds the WavyTalk brush next to her hair.",
+    "action": "Creator flips hair, dances slightly to the beat, and smiles happily.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator touching her styled, bouncy blowout hair with hook overlay 'How to get a Blowout at home without damaging your hair'.",
+   "visual_0_3s": "Quick flash of perfect blowout followed immediately by creator sectioning her unstyled hair.",
+   "spoken_0_3s": "",
+   "text_0_3s": "How to get a Blowout at home without damaging your hair",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Rapid 1-second glimpse of gorgeous salon hair cutting directly into the raw tutorial step."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Result preview hook & value promise (damage-free home blowout)",
+    "Preparation: sectioning hair",
+    "Half-done comparison showcasing bounce and contrast",
+    "Demonstration of thermal brush curling technique and ionic frizz reduction",
+    "Final reveal: unpinning, shaking out, and flaunting voluminous 90s-style blowout"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "less_heat_damage",
+    "frizz_or_curly_solution"
+   ],
+   "key_claims": [
+    "Get a blowout at home without damaging your hair",
+    "Uses ionic technology to kill frizz",
+    "Main character hair unlocked"
+   ],
+   "pain_points": [
+    "Heat damage from traditional hot tools",
+    "Frizzy, limp, or flat hair",
+    "Difficulty achieving salon-level volume at home"
+   ],
+   "objections_handled": [
+    "Fear of hair damage (addressed directly in opening title)",
+    "Frizz issues (addressed via ionic technology callout)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Unstyled/flat side vs styled bouncy side"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost"
+   ],
+   "first_seen_s": 3.8,
+   "first_used_on_hair_s": 8.9,
+   "final_result_shown_s": 16.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, brunette with caramel balayage highlights, naturally straight to slightly wavy with some frizz",
+   "hair_after": "Voluminous, shiny, 90s bouncy layered blowout with curled ends and face-framing layers",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Playful, confident, trendy, and upbeat"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Trending R&B/hip-hop track with male vocals and a steady beat ('You been through a lot, let me show you how to move...').",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 3.7,
+   "pacing": "fast",
+   "effects": [
+    "Jump cuts synced to rhythm",
+    "Text animation / styling overlays"
+   ],
+   "ending": "Creator smiles, holding up the tool while admiring her voluminous finished hair."
+  },
+  "notes": "Targeted at young Lebanese women on Meta platforms. Leverages aesthetic visual transformation, trending audio, and clear step-by-step guidance without requiring spoken dialogue."
+ }
+}

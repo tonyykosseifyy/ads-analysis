@@ -1,0 +1,524 @@
+{
+ "media_key": "v_1420420773126696",
+ "analyzed_at": "2026-11-27T18:38:06+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "bfd4492435b722c33ee7e7d042d4762f18917cecf07bfe0e1f4757e888d044c7",
+ "source": {
+  "kind": "video",
+  "id": "1420420773126696",
+  "video_id": "1170162204740064",
+  "length_s": 30.487,
+  "permalink": "/23849366283980795/videos/1170162204740064/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 30.1,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese presenter introduces the viral Wavytalk thermal brush now available in Lebanon with a 15% discount.",
+  "full_description": "A presenter seated on a red sofa presents the viral Wavytalk Blowout Boost thermal brush, announcing its arrival in Lebanon after trending in the US. She highlights celebrity stylist Andrew Fitzsimons using it, mentions its global user base of over 5 million, and lists features including 5 temperature settings, anti-frizz ionic technology, and the ability to do multiple hairstyles in under 12 minutes. The video cuts between studio talking-head segments, celebrity hair styling footage, unboxing/b-roll clips, and a mirror demonstration, concluding with a 15% discount CTA.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 55,
+    "en": 45,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "arabizi",
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The thermal brush",
+    "text_english": "The thermal brush"
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 2.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "اللي كسّرت الدني بـ US",
+    "text_english": "that broke the internet in the US"
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 3.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "finally صارت بلبنان",
+    "text_english": "is finally in Lebanon."
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 5.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Meet Wavytalk's ionic brush",
+    "text_english": "Meet Wavytalk's ionic brush"
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 7.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بتعطي your hair the perfect blowout",
+    "text_english": "it gives your hair the perfect blowout."
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 9.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "لهيك بيستعملها Andrew Fitzsimons",
+    "text_english": "That's why Andrew Fitzsimons uses it,"
+   },
+   {
+    "start_s": 9.2,
+    "end_s": 11.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "الـ hairdresser تبع the Kardashians و Megan Fox.",
+    "text_english": "the hairdresser of the Kardashians and Megan Fox."
+   },
+   {
+    "start_s": 11.7,
+    "end_s": 14.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أكتر من five million people عم يستعملوها worldwide",
+    "text_english": "More than five million people are using it worldwide"
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 16.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "for simple reasons:",
+    "text_english": "for simple reasons:"
+   },
+   {
+    "start_s": 16.3,
+    "end_s": 18.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "فيها five temperature modes لـ ما تحرقلكم شعركم",
+    "text_english": "It has five temperature modes so it won't burn your hair,"
+   },
+   {
+    "start_s": 18.7,
+    "end_s": 20.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "it uses anti-frizz technology",
+    "text_english": "it uses anti-frizz technology"
+   },
+   {
+    "start_s": 20.6,
+    "end_s": 23.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وفيكم تعملوا أكتر من ten hairstyles بأقل من twelve minutes.",
+    "text_english": "and you can do more than ten hairstyles in less than twelve minutes."
+   },
+   {
+    "start_s": 23.9,
+    "end_s": 26.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وهلّأ Wavytalk صارت بلبنان",
+    "text_english": "And now Wavytalk is in Lebanon,"
+   },
+   {
+    "start_s": 26.0,
+    "end_s": 28.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "عاملين 15% off ع الـ thermal brush.",
+    "text_english": "they're doing 15% off on the thermal brush."
+   },
+   {
+    "start_s": 28.2,
+    "end_s": 30.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Get yours now from the link below.",
+    "text_english": "Get yours now from the link below."
+   }
+  ],
+  "transcript_full_original": "The thermal brush اللي كسّرت الدني بـ US finally صارت بلبنان. Meet Wavytalk's ionic brush، بتعطي your hair the perfect blowout. لهيك بيستعملها Andrew Fitzsimons، الـ hairdresser تبع the Kardashians و Megan Fox. أكتر من five million people عم يستعملوها worldwide for simple reasons: فيها five temperature modes لـ ما تحرقلكم شعركم، it uses anti-frizz technology، وفيكم تعملوا أكتر من ten hairstyles بأقل من twelve minutes. وهلّأ Wavytalk صارت بلبنان، عاملين 15% off ع الـ thermal brush. Get yours now from the link below.",
+  "transcript_full_english": "The thermal brush that broke the internet in the US is finally in Lebanon. Meet Wavytalk's ionic brush, it gives your hair the perfect blowout. That's why Andrew Fitzsimons uses it, the hairdresser of the Kardashians and Megan Fox. More than five million people are using it worldwide for simple reasons: It has five temperature modes so it won't burn your hair, it uses anti-frizz technology, and you can do more than ten hairstyles in less than twelve minutes. And now Wavytalk is in Lebanon, they're doing 15% off on the thermal brush. Get yours now from the link below.",
+  "word_count": 87,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "text": "the thermal brush",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 2.2,
+    "text": "li kassaret l dene",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 3.0,
+    "text": "finally",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 3.7,
+    "text": "saret b lebnen",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 4.9,
+    "text": "meets wavytalk",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 5.8,
+    "text": "ionic brush",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 6.8,
+    "text": "bta3te your hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 7.6,
+    "text": "blowout",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.6,
+    "end_s": 8.7,
+    "text": "la hek bysta3mela",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 9.9,
+    "text": "Andrew Fitzsimons",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.9,
+    "end_s": 11.0,
+    "text": "l hairdresser",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 12.0,
+    "text": "tb3 the kardashians",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 13.8,
+    "text": "people",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.8,
+    "end_s": 15.0,
+    "text": "aam yestaamluwa",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 16.2,
+    "text": "for simple reasons",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.2,
+    "end_s": 17.0,
+    "text": "Fiya 5 temperature",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.0,
+    "end_s": 17.9,
+    "text": "Modes",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.9,
+    "end_s": 18.9,
+    "text": "shaarkon",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.9,
+    "end_s": 20.0,
+    "text": "it uses anti",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 21.0,
+    "text": "frizz technology",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 22.8,
+    "text": "w fikon taamlo",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 24.1,
+    "text": "b a2al mn 12 minutes",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 24.1,
+    "end_s": 25.1,
+    "text": "W hl2 wavytalk",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.1,
+    "end_s": 26.2,
+    "text": "saret b lebnen",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 26.2,
+    "end_s": 27.2,
+    "text": "aamlin 15% off",
+    "role": "benefit"
+   },
+   {
+    "start_s": 27.2,
+    "end_s": 28.3,
+    "text": "aal Thermal brush",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 28.3,
+    "end_s": 29.3,
+    "text": "Get yours now from",
+    "role": "cta"
+   },
+   {
+    "start_s": 29.3,
+    "end_s": 30.1,
+    "text": "the link below",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "shot_type": "medium shot",
+    "visual": "A young brunette woman sitting on a red couch in a bright studio setup with shelves behind her, gesturing with her hands. Graphic flags of the USA and Lebanon appear in front of her.",
+    "action": "Creator talks enthusiastically to camera introducing the thermal brush that is now in Lebanon.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 5.7,
+    "shot_type": "medium close-up",
+    "visual": "The creator holds up the pink Wavytalk Blowout Boost thermal brush in front of the camera.",
+    "action": "Creator shows the product and points to it while speaking.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.7,
+    "end_s": 7.4,
+    "shot_type": "medium shot",
+    "visual": "The creator standing in front of a mirror, sectioning her styled hair with a clip.",
+    "action": "Creator sections her hair preparing for styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 8.7,
+    "shot_type": "medium shot",
+    "visual": "Creator on red couch holding the pink thermal brush in both hands.",
+    "action": "Creator talks about celebrity hairdresser Andrew Fitzsimons.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 11.7,
+    "shot_type": "b-roll",
+    "visual": "Celebrity hairstylist Andrew Fitzsimons styling a redhead model's hair with the pink Wavytalk thermal brush.",
+    "action": "Hairstylist pulls the heated brush smoothly through the model's hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.7,
+    "end_s": 14.8,
+    "shot_type": "product shot",
+    "visual": "Overhead stop-motion style clip of miniature red shopping baskets and Wavytalk product boxes, with brushes landing in the basket.",
+    "action": "Multiple Wavytalk brushes drop into a red mini shopping basket.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 16.3,
+    "shot_type": "medium shot",
+    "visual": "Creator on the red couch holding the brush, speaking directly to camera.",
+    "action": "Creator explains why people love the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.3,
+    "end_s": 18.7,
+    "shot_type": "medium close-up mirror",
+    "visual": "Creator in front of a mirror using the thermal brush on a strand of hair, smiling.",
+    "action": "Creator twirls the brush down a strand of hair, releasing a bouncy curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.7,
+    "end_s": 20.7,
+    "shot_type": "close-up",
+    "visual": "Creator holds the retail packaging box of the Wavytalk Blowout Boost Ionic Thermal Brush.",
+    "action": "Creator presents the retail box showing 'Blowout Boost' and '2 Year Warranty'.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.7,
+    "end_s": 23.9,
+    "shot_type": "medium mirror reflection",
+    "visual": "Creator looks in the mirror admiring her voluminous blowout result, smiling happily.",
+    "action": "Creator touches and fluffs her bouncy styled curls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.9,
+    "end_s": 30.1,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting on red sofa holding the thermal brush, talking about the 15% discount and gesturing downwards.",
+    "action": "Creator explains the launch offer and points downwards directing viewers to the link below.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator sitting on red sofa talking directly to camera with caption 'the thermal brush'.",
+   "visual_0_3s": "Creator talking with expressive hand gestures, accompanied by US and Lebanon flag graphic pop-ups.",
+   "spoken_0_3s": "The thermal brush li kassaret l dene bil US, finally saret b lebnen",
+   "text_0_3s": "the thermal brush / li kassaret l dene / finally",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "Rapid graphics pop up showing US and Lebanese flags over a punchy statement about the tool breaking the internet."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Viral hook: US viral brush is finally available in Lebanon",
+    "Product introduction: Wavytalk Blowout Boost ionic brush",
+    "Social proof / celebrity endorsement: Andrew Fitzsimons styling Kardashian/Megan Fox client with it",
+    "Volume metric: 5+ million users worldwide",
+    "Key features: 5 temperature settings to protect hair, anti-frizz ionic tech, 10+ hairstyles in under 12 minutes",
+    "Offer & Call to Action: Now in Lebanon with 15% off, click link below"
+   ],
+   "main_angle": "social_proof_popularity",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "saves_time",
+    "less_heat_damage",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Broke the internet in the US",
+    "Gives hair the perfect blowout",
+    "Used by celebrity stylist Andrew Fitzsimons",
+    "Over 5 million people use it worldwide",
+    "5 temperature modes prevent burning hair",
+    "Anti-frizz technology",
+    "Over 10 hairstyles in less than 12 minutes",
+    "15% off currently available in Lebanon"
+   ],
+   "pain_points": [
+    "Hair heat damage / burning hair",
+    "Frizz",
+    "Taking too long to style hair"
+   ],
+   "objections_handled": [
+    "Risk of hair damage addressed by 5 heat control modes",
+    "Legitimacy proven through celebrity stylist use and 5M+ customers"
+   ],
+   "social_proof": [
+    "Celebrity hairdresser Andrew Fitzsimons (stylist to the Kardashians and Megan Fox)",
+    "Over 5 million users worldwide"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Ionic Thermal Brush (Pink)"
+   ],
+   "first_seen_s": 3.7,
+   "first_used_on_hair_s": 8.7,
+   "final_result_shown_s": 20.7,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "15% off on the thermal brush",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Get yours now from the link below.",
+   "cta_on_screen": "Get yours now from the link below",
+   "cta_at_s": 28.2
+  },
+  "talent": {
+   "people_count": 3,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "Andrew Fitzsimons",
+   "age_range": "20s",
+   "hair_before": "Pre-styled long brunette wavy hair",
+   "hair_after": "Voluminous, shiny brunette blowout curls",
+   "setting": "studio",
+   "faces_camera": true,
+   "energy_tone": "upbeat, confident, and energetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat electronic background instrumental track",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 3.0,
+   "pacing": "fast",
+   "effects": [
+    "Animated flag stickers (US and Lebanon)",
+    "Red pointer arrow sticker on CTA",
+    "B-roll cutaways",
+    "Stop-motion product animation clip"
+   ],
+   "ending": "Creator smiling pointing down towards the link below while sitting on sofa"
+  },
+  "notes": "Targeted at the Lebanese market (mentions arrival in Lebanon and displays the Lebanese flag). Captions are written in Arabizi (Latin script representation of Lebanese Arabic) alongside English terms."
+ }
+}

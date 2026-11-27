@@ -1,0 +1,226 @@
+{
+ "media_key": "v_1101187019237469",
+ "analyzed_at": "2026-11-27T18:42:14+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "5e15b421a8df6edfbdb809c047d46d050dd20cd4a7d785d63f6eb9080774521f",
+ "source": {
+  "kind": "video",
+  "id": "1101187019237469",
+  "video_id": "1085241103970108",
+  "length_s": 23.65,
+  "permalink": "/23849366283980795/videos/1085241103970108/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 23.33,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates her 15-minute hair blowout routine on very long hair using the Wavytalk thermal round brush.",
+  "full_description": "A creator with waist-length dark brown hair showcases her quick 15-minute styling routine using the pink Wavytalk thermal round brush. She sections her hair, curls each strand with smooth gliding and wrapping motions, and demonstrates front layer styling. The video finishes with close-up B-roll of shiny, silky hair and a full reveal of her bouncy salon-style blowout.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 23.33,
+    "text": "My 15 min hair routine 💓",
+    "role": "hook"
+   },
+   {
+    "start_s": 15.4,
+    "end_s": 18.3,
+    "text": "Long hair approved✨",
+    "role": "benefit"
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 21.0,
+    "text": "So shiny ✨",
+    "role": "benefit"
+   },
+   {
+    "start_s": 21.2,
+    "end_s": 23.33,
+    "text": "I love this brush 💗",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.9,
+    "shot_type": "medium shot",
+    "visual": "Young woman in white loungewear showing the pink Wavytalk thermal round brush to the camera, with long wavy hair before styling.",
+    "action": "Creator holds the brush in front of her chest and smiles at the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.9,
+    "end_s": 4.8,
+    "shot_type": "medium shot",
+    "visual": "Creator has top hair pinned back with a pink claw clip, working on lower length.",
+    "action": "She brushes through a bottom strand of hair and twists the thermal brush inward at the ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 7.5,
+    "shot_type": "medium shot",
+    "visual": "Creator checks the newly styled smooth curled strand.",
+    "action": "She lets go of the styled curl, turning slightly to inspect the result in the mirror.",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 11.2,
+    "shot_type": "medium close-up",
+    "visual": "Styling mid-section hair on the right side.",
+    "action": "She rolls the heated brush around hair lengths to create a smooth inward curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 13.5,
+    "shot_type": "medium close-up",
+    "visual": "Close-up on the heated brush barrel wrapping the hair strand.",
+    "action": "She rolls hair tightly around the barrel, holding for a few seconds to set the heat.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 15.3,
+    "shot_type": "medium shot",
+    "visual": "Side view of hair dropping with natural wave and bounce.",
+    "action": "She unwinds the brush and fluffs the wave with her hand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.3,
+    "end_s": 18.5,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the top front face-framing layer.",
+    "action": "She lifts and curls the front section over the thermal brush backward. Text overlay 'Long hair approved✨' appears.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 21.0,
+    "shot_type": "extreme close-up",
+    "visual": "Close detail shot of finished hair lengths catching light.",
+    "action": "Hair sways across the frame showing shine and silkiness with overlay 'So shiny ✨'.",
+    "product_visible": false
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 23.33,
+    "shot_type": "medium shot",
+    "visual": "Creator standing in bedroom posing with full completed blowout hairstyle holding the brush.",
+    "action": "She smiles contentedly at the camera holding the tool with text 'I love this brush 💗'.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the thermal brush with long natural hair, overlay text 'My 15 min hair routine 💓'.",
+   "visual_0_3s": "Creator presents the pink styling brush tool right in front of the lens while showing her extra-long hair.",
+   "spoken_0_3s": "",
+   "text_0_3s": "My 15 min hair routine 💓",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Promising a complete hair blowout routine in just 15 minutes for waist-length hair."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Hook: Quick 15-minute hair routine promise with product showcase",
+    "Step-by-step styling: lower layers, mid-lengths, and face-framing bangs",
+    "Benefit showcase: Long hair friendly and high shine reveal",
+    "Final transformation reveal and creator satisfaction"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Full routine in 15 minutes",
+    "Approved for extra long hair",
+    "Creates high shine and smoothness"
+   ],
+   "pain_points": [
+    "Long hair takes too long to style with conventional tools",
+    "Frizz and lack of shine",
+    "Difficulty getting salon blowout volume at home"
+   ],
+   "objections_handled": [
+    "Tool works effortlessly on very long hair without tangling"
+   ],
+   "social_proof": [
+    "Creator endorsement ('Long hair approved', 'I love this brush')"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Round Brush (Blowout Boost)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 2.2,
+   "final_result_shown_s": 18.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Extra long, dark brown, natural slight wave with slight frizz",
+   "hair_after": "Ultra smooth, shiny, bouncy blowout with curled ends and curtain wave framing",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relaxed, aesthetic, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Spanish/Latin urban pop vocal song playing continuously in the background.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 2.9,
+   "pacing": "fast",
+   "effects": [
+    "Text overlays with emojis"
+   ],
+   "ending": "Final pose holding the product smiling at camera with styled hair."
+  },
+  "notes": "Silent aesthetic UGC demonstration with music track and minimalist text stickers. Extremely effective for showing efficiency on waist-length hair."
+ }
+}

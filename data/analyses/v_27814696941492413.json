@@ -1,0 +1,566 @@
+{
+ "media_key": "v_27814696941492413",
+ "analyzed_at": "2026-11-27T19:49:50+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "02f019aa48c4c1b046ccd519767b4255800d3f8c2ee3ff712aa2dd43b2312d13",
+ "source": {
+  "kind": "video",
+  "id": "27814696941492413",
+  "video_id": "1399014288335970",
+  "length_s": 75.58,
+  "permalink": "/23849366283980795/videos/1399014288335970/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 75.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates the Wavytalk Steamline Pro steam brush on very long, thick frizzy hair, showing rapid one-pass smoothing, shine, and end flips.",
+  "full_description": "A creator starts with a quick hook showing fully styled, glossy blown-out long hair, then cuts to her voluminous, frizzy natural hair. Holding the lavender-blue Wavytalk Steamline Pro, she conducts multiple 'one-pass tests' on large sections of hair to show how quickly and smoothly it straightens. She explains how steam locks in moisture, reduces frizz, and prevents breakage, demonstrates flipping the ends for a blowout finish, adds lift to the front crown, and shows off the final voluminous, silky salon result. The ad concludes with sale and delivery promo stickers.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Do you see this hair? Do not sleep on this.",
+    "text_english": "Do you see this hair? Do not sleep on this."
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 2.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's straighten my hair with steam!",
+    "text_english": "Let's straighten my hair with steam!"
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 7.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's do a one pass test on this section right here. This is a pretty big section of hair,",
+    "text_english": "Let's do a one pass test on this section right here. This is a pretty big section of hair,"
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 11.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and this is gonna prove to you why steam straightening is so amazing.",
+    "text_english": "and this is gonna prove to you why steam straightening is so amazing."
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 17.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Not only does it help speed up the straightening process, but it also helps lock in the moisture into your hair.",
+    "text_english": "Not only does it help speed up the straightening process, but it also helps lock in the moisture into your hair."
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 19.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at that result.",
+    "text_english": "Look at that result."
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 23.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at this difference, look how much shine that steam added to my hair.",
+    "text_english": "Look at this difference, look how much shine that steam added to my hair."
+   },
+   {
+    "start_s": 23.0,
+    "end_s": 26.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is the Wavytalk Steamline Pro in the new blue color!",
+    "text_english": "This is the Wavytalk Steamline Pro in the new blue color!"
+   },
+   {
+    "start_s": 26.6,
+    "end_s": 33.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And you guys know that I absolutely love a one pass test, so let's do another one on this huge section of hair right here.",
+    "text_english": "And you guys know that I absolutely love a one pass test, so let's do another one on this huge section of hair right here."
+   },
+   {
+    "start_s": 33.6,
+    "end_s": 39.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It just glides so smoothly and it just straightens so quickly, it's insane.",
+    "text_english": "It just glides so smoothly and it just straightens so quickly, it's insane."
+   },
+   {
+    "start_s": 40.5,
+    "end_s": 44.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Something else I love about this tool is flipping at the ends for a little blowout look.",
+    "text_english": "Something else I love about this tool is flipping at the ends for a little blowout look."
+   },
+   {
+    "start_s": 44.8,
+    "end_s": 46.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This difference is insane.",
+    "text_english": "This difference is insane."
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 51.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Put it on your hair and just brush your hair like this,",
+    "text_english": "Put it on your hair and just brush your hair like this,"
+   },
+   {
+    "start_s": 51.5,
+    "end_s": 57.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and it actually locks in moisture in your hair so you don't have to worry about frizz, and it prevents breakage.",
+    "text_english": "and it actually locks in moisture in your hair so you don't have to worry about frizz, and it prevents breakage."
+   },
+   {
+    "start_s": 58.5,
+    "end_s": 61.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "All in one tool that is life changing.",
+    "text_english": "All in one tool that is life changing."
+   },
+   {
+    "start_s": 61.2,
+    "end_s": 66.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Front section is the best section. I like to go like this up and back and this creates a lot of volume.",
+    "text_english": "Front section is the best section. I like to go like this up and back and this creates a lot of volume."
+   },
+   {
+    "start_s": 66.5,
+    "end_s": 67.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Like so.",
+    "text_english": "Like so."
+   },
+   {
+    "start_s": 68.0,
+    "end_s": 71.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Literally the fastest and easiest straightening process.",
+    "text_english": "Literally the fastest and easiest straightening process."
+   },
+   {
+    "start_s": 71.5,
+    "end_s": 73.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Do you see this hair? Do not sleep on this,",
+    "text_english": "Do you see this hair? Do not sleep on this,"
+   },
+   {
+    "start_s": 73.0,
+    "end_s": 75.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "your hair will thank you. I don't know why my voice cut out here.",
+    "text_english": "your hair will thank you. I don't know why my voice cut out here."
+   }
+  ],
+  "transcript_full_original": "Do you see this hair? Do not sleep on this. Let's straighten my hair with steam! Let's do a one pass test on this section right here. This is a pretty big section of hair, and this is gonna prove to you why steam straightening is so amazing. Not only does it help speed up the straightening process, but it also helps lock in the moisture into your hair. Look at that result. Look at this difference, look how much shine that steam added to my hair. This is the Wavytalk Steamline Pro in the new blue color! And you guys know that I absolutely love a one pass test, so let's do another one on this huge section of hair right here. It just glides so smoothly and it just straightens so quickly, it's insane. Something else I love about this tool is flipping at the ends for a little blowout look. This difference is insane. Put it on your hair and just brush your hair like this, and it actually locks in moisture in your hair so you don't have to worry about frizz, and it prevents breakage. All in one tool that is life changing. Front section is the best section. I like to go like this up and back and this creates a lot of volume. Like so. Literally the fastest and easiest straightening process. Do you see this hair? Do not sleep on this, your hair will thank you. I don't know why my voice cut out here.",
+  "transcript_full_english": "Do you see this hair? Do not sleep on this. Let's straighten my hair with steam! Let's do a one pass test on this section right here. This is a pretty big section of hair, and this is gonna prove to you why steam straightening is so amazing. Not only does it help speed up the straightening process, but it also helps lock in the moisture into your hair. Look at that result. Look at this difference, look how much shine that steam added to my hair. This is the Wavytalk Steamline Pro in the new blue color! And you guys know that I absolutely love a one pass test, so let's do another one on this huge section of hair right here. It just glides so smoothly and it just straightens so quickly, it's insane. Something else I love about this tool is flipping at the ends for a little blowout look. This difference is insane. Put it on your hair and just brush your hair like this, and it actually locks in moisture in your hair so you don't have to worry about frizz, and it prevents breakage. All in one tool that is life changing. Front section is the best section. I like to go like this up and back and this creates a lot of volume. Like so. Literally the fastest and easiest straightening process. Do you see this hair? Do not sleep on this, your hair will thank you. I don't know why my voice cut out here.",
+  "word_count": 257,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.0,
+    "text": "10-minute salon hair",
+    "role": "hook"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "text": "do you see this hair? do not sleep on this",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 2.8,
+    "text": "Let's straighten my hair with steam!",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 5.2,
+    "text": "let's do a one pass test on this section right here",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.2,
+    "end_s": 7.0,
+    "text": "this is a pretty big section of hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 11.2,
+    "text": "and this is gonna prove to you why steam straightening is so amazing",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 13.8,
+    "text": "not only does it help speed up the straightening process",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.8,
+    "end_s": 17.5,
+    "text": "but it also helps lock in the moisture into your hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 19.8,
+    "text": "look at that result",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 23.0,
+    "text": "look at this difference look how much shine that steam added to my hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.0,
+    "end_s": 26.6,
+    "text": "this is the Wavytalk Steamline Pro in the new blue color!",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 26.6,
+    "end_s": 30.0,
+    "text": "I love it so much and you guys know that I absolutely love a one pass test",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 30.0,
+    "end_s": 33.6,
+    "text": "so let's do another one on this huge section of hair right here",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 33.6,
+    "end_s": 35.8,
+    "text": "it just glides so smoothly",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 35.8,
+    "end_s": 39.5,
+    "text": "and it just straightens so quickly it's insane",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 40.5,
+    "end_s": 44.8,
+    "text": "something else I love about this tool is flipping at the ends for a little blowout look",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 44.8,
+    "end_s": 46.5,
+    "text": "this difference is insane",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 51.0,
+    "text": "put it on your hair and just brush your hair like this",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 51.0,
+    "end_s": 53.5,
+    "text": "and it actually locks in moisture in your hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 53.5,
+    "end_s": 55.5,
+    "text": "so you don't have to worry about frizz",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 55.5,
+    "end_s": 58.0,
+    "text": "and it prevents breakage",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 58.5,
+    "end_s": 61.2,
+    "text": "all in one tool that is life changing",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 61.2,
+    "end_s": 63.2,
+    "text": "front section is the best section",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 63.2,
+    "end_s": 65.5,
+    "text": "I like to go like this up and back",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 65.5,
+    "end_s": 67.5,
+    "text": "and this creates a lot of volume",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 67.5,
+    "end_s": 68.2,
+    "text": "like so",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 68.2,
+    "end_s": 71.3,
+    "text": "literally the fastest and easiest straightening process",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 71.3,
+    "end_s": 73.0,
+    "text": "do you see this hair? do not sleep on this",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 73.0,
+    "end_s": 75.8,
+    "text": "your hair will thank you I don't know why my voice cut out here",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 71.3,
+    "end_s": 75.8,
+    "text": "UP TO 30% OFF Limted Time Sale",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 71.3,
+    "end_s": 75.8,
+    "text": "FREE DELIVERY",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting down showing off shiny, thick blown-out styled hair with the text '10-minute salon hair'.",
+    "action": "Touches and frames her glossy hair, then snaps to natural hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 2.8,
+    "shot_type": "medium shot",
+    "visual": "Creator showing her untreated massive, thick, frizzy natural hair while holding up the blue steam brush.",
+    "action": "Speaks to camera introducing steam straightening.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 19.8,
+    "shot_type": "medium shot",
+    "visual": "Hair tied up on top with a scrunchie, demonstrating a single pass on a thick lower strand.",
+    "action": "Slowly glides the Wavytalk Steamline Pro through the hair strand in one pass and points at the silky straight strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 23.0,
+    "shot_type": "medium shot",
+    "visual": "Direct side-by-side comparison on her own head: frizzy curly side versus straightened side.",
+    "action": "Creator gestures to both sides, highlighting the difference in gloss and smoothness.",
+    "product_visible": false
+   },
+   {
+    "start_s": 23.0,
+    "end_s": 40.0,
+    "shot_type": "medium shot",
+    "visual": "Creator holds up the tool, names it, sections another large piece of hair, and glides through it.",
+    "action": "Performs another one-pass test on camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 40.0,
+    "end_s": 46.5,
+    "shot_type": "medium shot",
+    "visual": "Demonstrates flipping the ends inward/outward as she glides through.",
+    "action": "Rotates brush at the tip to create a blowout curve, then marvels at the contrast.",
+    "product_visible": true
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 58.0,
+    "shot_type": "medium shot",
+    "visual": "Demonstrating on an upper section of hair, pulling it upward and through.",
+    "action": "Brushes slowly while explaining moisture retention and breakage prevention.",
+    "product_visible": true
+   },
+   {
+    "start_s": 58.0,
+    "end_s": 61.2,
+    "shot_type": "medium shot",
+    "visual": "Creator holds the brush to the camera, talking passionately.",
+    "action": "Gestures enthusiastically with the tool in hand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 61.2,
+    "end_s": 67.8,
+    "shot_type": "medium shot",
+    "visual": "Brushing the front bangs/crown section straight up and backward.",
+    "action": "Pulls up and rolls back to create root lift and volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 67.8,
+    "end_s": 75.8,
+    "shot_type": "medium shot",
+    "visual": "Full finished look: voluminous, smooth, bouncy brunette hair.",
+    "action": "Creator shows off the result, holds the tool, and promotional badges appear.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator sits facing camera showcasing bouncy, sleek salon-styled blowout hair with bold headline overlay.",
+   "visual_0_3s": "Fast cut from finished gorgeous hair to wild, thick, frizzy untreated hair and tool reveal.",
+   "spoken_0_3s": "Do you see this hair? Do not sleep on this. Let's straighten my hair with steam!",
+   "text_0_3s": "10-minute salon hair",
+   "hook_type": "result_first",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Immediate sharp cut at 1.1s from silky perfection to huge unbrushed, frizzy hair."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook with end result and immediate transition to natural frizzy state",
+    "Tool intro and first one-pass test on large hair section",
+    "Side-by-side half-head comparison highlighting shine and smoothness",
+    "Product name drop and color mention",
+    "Second one-pass test demonstrating glide and speed",
+    "Technique showcase: flipping ends for blowout shape and brushing crown for volume",
+    "Final look showcase with urgency and discount overlay"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "saves_time",
+    "less_heat_damage",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Steam straightens thick hair in a single pass",
+    "Locks in moisture instead of drying out hair",
+    "Adds intense shine",
+    "Prevents breakage and eliminates frizz",
+    "Fastest and easiest straightening process"
+   ],
+   "pain_points": [
+    "Extremely frizzy, untamable curly hair",
+    "Straightening taking too many passes and too much time",
+    "Heat damage and dry, broken ends"
+   ],
+   "objections_handled": [
+    "Does it work on very thick or large sections? (Tested on huge sections in one pass)",
+    "Does straightening make hair flat? (Demonstrates crown lift and end flips for blowout volume)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional dry flat irons"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steamline Pro (light blue/periwinkle)"
+   ],
+   "first_seen_s": 1.5,
+   "first_used_on_hair_s": 5.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Up to 30% Off Limited Time Sale + Free Delivery",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Limited Time Sale",
+   "cta_spoken": "Do not sleep on this, your hair will thank you.",
+   "cta_on_screen": "",
+   "cta_at_s": 71.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Very long, dense, frizzy, untreated wavy/curly brunette hair",
+   "hair_after": "Ultra-glossy, smooth, bouncy blowout with curved ends and root volume",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, candid, persuasive"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No noticeable background music; crisp creator talking voice and live brushing audio.",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 11,
+   "avg_shot_length_s": 6.89,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between steps",
+    "burned-in captions",
+    "graphic sale stickers"
+   ],
+   "ending": "Final pose admiring voluminous finished hair with discount sticker and delivery badge."
+  },
+  "notes": "Original English UGC creator video repurposed for the Levant/Lebanon market with added promotional stickers ('UP TO 30% OFF Limted Time Sale' and 'FREE DELIVERY'). At the very end the creator quips about her voice cutting out."
+ }
+}

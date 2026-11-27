@@ -1,0 +1,166 @@
+{
+ "media_key": "v_28020652944198535",
+ "analyzed_at": "2026-11-27T22:56:08+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "99588464d8b75a67c542234fa34a13ceab2f459da99fcb19bc040ff8fb247f1d",
+ "source": {
+  "kind": "video",
+  "id": "28020652944198535",
+  "errors": [
+   "28020652944198535: Gave up after 5 retries: https://graph.facebook.com/v26.0/28020652944198535",
+   "1529715088647833: Gave up after 5 retries: https://graph.facebook.com/v26.0/1529715088647833"
+  ],
+  "ig_media_id": "18119089036823598",
+  "permalink": "https://www.instagram.com/p/DadnRaqsR_G/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 40.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Silent UGC demo set to music showing a creator transforming straight hair into bouncy blowout waves using the pink WavyTalk thermal brush.",
+  "full_description": "A creator stands in her bedroom holding the pink WavyTalk thermal round brush, showcasing voluminous salon-style blowout curls. Overlaid text reads 'salon blowout at home'. She then demonstrates how she curls sections of her straight hair by wrapping, rolling, and smoothly pulling the brush through, creating defined, bouncy curls. The video concludes with her holding up the brush alongside her completed voluminous hair look as animated hearts draw above the tool.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "text": "salon blowout at home",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "medium shot",
+    "visual": "Creator standing facing camera with bouncy blowout waves, holding up the pink WavyTalk thermal brush.",
+    "action": "Gestures toward her hair and displays the tool to the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 18.5,
+    "shot_type": "medium shot",
+    "visual": "Creator working on a section of straight hair on her right side.",
+    "action": "She wraps a hair strand around the heated round brush, pulls it through slowly, rotates it, and releases a loose spiral curl, with a red animated arrow pointing to the curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 37.5,
+    "shot_type": "medium shot",
+    "visual": "Creator sectioning and styling the front and left side of her hair.",
+    "action": "She brushes through the bottom ends, winds the strand around the barrel upwards toward the root, holds it, and unravels a smooth blowout curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 37.5,
+    "end_s": 40.5,
+    "shot_type": "medium shot",
+    "visual": "Creator displaying full styled voluminous blowout look while holding the tool.",
+    "action": "Poses proudly showing off hair results as red doodle hearts animate above the brush.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing finished blowout curls on one side, holding the pink thermal brush with the text overlay 'salon blowout at home'.",
+   "visual_0_3s": "Creator presents her styled hair and holds up the hot brush before smoothly transitioning into the styling demo.",
+   "spoken_0_3s": "",
+   "text_0_3s": "salon blowout at home",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Immediate showcase of perfect bouncy salon curls alongside the styling tool."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Result reveal hook showing completed voluminous hair and tool",
+    "Step-by-step rolling and curling demonstration on straight sections",
+    "Styling front face-framing pieces",
+    "Final result showcase with cute animated sticker effect"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Achieve a salon blowout look at home"
+   ],
+   "pain_points": [
+    "Difficulty getting salon blowout volume and bounce at home"
+   ],
+   "objections_handled": [
+    "Hair getting tangled in thermal round brush (demonstrates smooth glide and release)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Professional salon blowout"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 1.9,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, straight reddish-brown hair",
+   "hair_after": "Voluminous, bouncy blowout waves with defined curled ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Casual, aesthetic, tutorial-focused"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Melodic, moody indie pop song ('How to Disappear' cover / acoustic style track with female vocals)",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 6.8,
+   "pacing": "medium",
+   "effects": [
+    "On-screen red animated pointer arrow",
+    "Animated red hearts doodle",
+    "Cursive text overlay"
+   ],
+   "ending": "Creator holding the thermal brush with cute animated hearts popping up over the tool."
+  },
+  "notes": "Ad is completely non-verbal; relies entirely on visual demonstration, aesthetic presentation, and background music."
+ }
+}

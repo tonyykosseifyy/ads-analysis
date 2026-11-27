@@ -1,0 +1,18 @@
+{
+ "language": "en",
+ "main_angle": "expert_endorsement",
+ "secondary_angles": [
+  "price_value_vs_dyson",
+  "less_heat_damage",
+  "salon_result_at_home",
+  "offer_discount_urgency"
+ ],
+ "opening_line": "Sabrina Carpenter's stylist uses this dryer for her iconic blowouts. And now we finally have access to it.",
+ "opening_style": "expert_or_hairdresser",
+ "mentions_offer": true,
+ "offer": "30-day return policy — 25% off now, while stock lasts.",
+ "social_proof": "Sabrina Carpenter's stylist uses this dryer for her iconic blowouts. Celebrity stylists are recommending it.",
+ "cta": "Try it risk-free",
+ "tone": "aspirational and persuasive",
+ "variation_count": 2
+}

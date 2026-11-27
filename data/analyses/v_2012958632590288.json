@@ -1,0 +1,217 @@
+{
+ "media_key": "v_2012958632590288",
+ "analyzed_at": "2026-11-27T19:47:12+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "d1a6ee877c6118082a6e8f03bd5d1d16d9e57579ad08824aad51d8f745006adb",
+ "source": {
+  "kind": "video",
+  "id": "2012958632590288",
+  "video_id": "1376999758832199",
+  "length_s": 27.002,
+  "permalink": "/23849366283980795/videos/1376999758832199/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 26.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates styling her long blonde hair into a voluminous blowout using the WavyTalk thermal brush set to background music.",
+  "full_description": "A blonde creator records herself in a rustic cabin-style bathroom demonstrating how she uses the pink WavyTalk Blowout Boost thermal round brush. She presents the brush to the camera, curls various sections of her hair, shapes her curtain bangs upward, finishes the style with hair serum and texture spray, and shows off the final bouncy blowout results from multiple angles. A single text overlay hook persists throughout the entire clip, set to the pop track 'Team' by Lorde without any spoken dialogue.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 26.8,
+    "text": "Getting the most perfect blowout look every single time with this brush >>>",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "shot_type": "medium close-up",
+    "visual": "Blonde creator standing in a wooden cabin interior holding up the pink WavyTalk thermal round brush toward the camera.",
+    "action": "Creator holds the brush next to her face, smiling subtly into the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 3.7,
+    "shot_type": "medium shot",
+    "visual": "Creator wrapping a strand of lower hair around the heated barrel.",
+    "action": "She twists the hair around the brush and gently pulls it through to form a curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 6.6,
+    "shot_type": "medium shot",
+    "visual": "Creator releasing the curl and preparing the next section.",
+    "action": "She inspects the curled strand and clips up the top section of hair with her hands.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.6,
+    "end_s": 9.1,
+    "shot_type": "medium shot",
+    "visual": "Creator curling an upper side section with the brush.",
+    "action": "She winds the hair strand up toward the root and holds it momentarily.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.1,
+    "end_s": 11.2,
+    "shot_type": "medium shot",
+    "visual": "Creator releasing the curl and twisting it around her finger.",
+    "action": "She unwinds the brush, defines the curl with her index finger, and unclips another hair section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 13.0,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the opposite lower side.",
+    "action": "She curls another section with the thermal brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 16.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling her front curtain bangs.",
+    "action": "She rolls her front bangs backwards over the brush barrel to create lift and volume away from the face.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 18.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator adjusting and fluffing her freshly curled bangs.",
+    "action": "She runs her fingers through the front fringe to shape the curtain style.",
+    "product_visible": false
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 21.0,
+    "shot_type": "medium shot",
+    "visual": "Creator applying hair product.",
+    "action": "She pumps hair serum into her hand and runs it through the ends of her hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 23.3,
+    "shot_type": "medium shot",
+    "visual": "Creator applying spray to roots.",
+    "action": "She sprays texture spray into her hair roots while lifting the crown.",
+    "product_visible": false
+   },
+   {
+    "start_s": 23.3,
+    "end_s": 26.8,
+    "shot_type": "medium shot",
+    "visual": "Final blowout reveal.",
+    "action": "Creator shakes out her hair with both hands, turns sideways and backwards to display the voluminous, layered curls, and smiles.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink thermal brush in front of her with the text overlay claiming the perfect blowout look.",
+   "visual_0_3s": "Creator shows the tool in front of the camera and immediately transitions into wrapping a strand around the barrel.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Getting the most perfect blowout look every single time with this brush >>>",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "product_reveal",
+   "pattern_interrupt": "Prominent on-screen tool presentation directly paired with a high-conviction promise overlay."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Tool intro and promise hook",
+    "Curling bottom and side hair sections",
+    "Volumizing curtain bangs backwards",
+    "Post-styling serum and spray finishing steps",
+    "Fluffed final blowout result showcase"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Delivers the most perfect blowout look every single time"
+   ],
+   "pain_points": [
+    "Difficulty creating a bouncy salon blowout at home with traditional tools"
+   ],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 1.2,
+   "final_result_shown_s": 23.3,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long straight-to-slightly-styled blonde hair with curtain bangs",
+   "hair_after": "Voluminous, bouncy 90s blowout with textured, curved ends",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "chic, relaxed, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Lorde - Team (mid-tempo pop track with vocal lyrics and steady electronic beat)",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 3.0,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts",
+    "text overlay"
+   ],
+   "ending": "Creator runs fingers through her voluminous blonde blowout while turning to show the side and back body of the hair."
+  },
+  "notes": "Aesthetic organic-style UGC silent tutorial relying on the visual transformation and a trending audio track rather than voiceover narration."
+ }
+}

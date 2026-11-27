@@ -1,0 +1,215 @@
+{
+ "media_key": "v_1677425887199917",
+ "analyzed_at": "2026-11-27T18:40:52+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "5788925b60588a2fbae752b613d1fdfcc0a40d3780477b29e595812c59cf032a",
+ "source": {
+  "kind": "video",
+  "id": "1677425887199917",
+  "video_id": "1808278557162305",
+  "length_s": 60.21,
+  "permalink": "/23849366283980795/videos/1808278557162305/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 60.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Silent step-by-step demonstration of the Wavytalk Pro Steam Hair Straightener Brush transforming extremely long, crimped/textured hair into ultra-sleek, glossy straight hair.",
+  "full_description": "A woman with waist-length, crimped and frizzy brown hair demonstrates the Wavytalk Pro Steam Hair Straightener Brush (Steambrush Pro). She shows the product box, fills the water reservoir for the steam function, powers on the pink thermal straightening brush, and puts on a heat-protective glove. She clips her hair into sections and glides the steaming brush through each section in slow, single passes, instantly straightening and smoothing the hair into a silky, reflective sheet. Halfway through, she compares the straightened half to the unstraightened crimped side, before completing both sides and showing off the shiny, flowing final result from the back.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0.0,
+    "en": 0.0,
+    "fr": 0.0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 1.0,
+    "end_s": 2.2,
+    "text": "WAVYTALK Pro Steam Hair Straightener Brush",
+    "role": "brand"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "medium back view",
+    "visual": "Back view of a woman with very long, thick, crimped frizzy hair; she holds up the Wavytalk product box next to her hair.",
+    "action": "Shaking hair slightly, then lifting the product box to show the tool packaging.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 5.5,
+    "shot_type": "close-up",
+    "visual": "Close-up of the transparent pink water reservoir being filled with a dropper bottle and inserted into the brush handle, followed by the LED temperature lights illuminating.",
+    "action": "Water is squeezed into the tank, snapped into place, and the temperature lights turn on.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 8.5,
+    "shot_type": "medium back view",
+    "visual": "Woman ties up the top section of her long hair with a pink scrunchie and puts on a black heat-protection glove with pink grip dots.",
+    "action": "Sectioning her hair and preparing to straighten.",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 14.5,
+    "shot_type": "close-up / medium side view",
+    "visual": "Close-up of the brush teeth gliding through a section of crimped hair, instantly leaving it poker-straight and smooth.",
+    "action": "Slow, steady downward pass of the steam brush through the section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 26.5,
+    "shot_type": "medium back view",
+    "visual": "Woman continues brushing the lower and middle sections of her hair from behind.",
+    "action": "Brushing multiple passes down long strands; hair drops silky and straight against her back.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 32.5,
+    "shot_type": "medium back view",
+    "visual": "Woman ties the straightened lower layer into a low ponytail and unclips the next crimped top layer.",
+    "action": "Separating and sectioning her hair to work on the next layer.",
+    "product_visible": false
+   },
+   {
+    "start_s": 32.5,
+    "end_s": 42.5,
+    "shot_type": "medium side/back view",
+    "visual": "Demonstrating straightening on the side section from top to bottom.",
+    "action": "Gliding the pink steam brush down the long strand with steam gently releasing.",
+    "product_visible": true
+   },
+   {
+    "start_s": 42.5,
+    "end_s": 48.5,
+    "shot_type": "medium back view",
+    "visual": "Side-by-side split comparison: left half of her hair remains wild and crimped, while the right half is completely straight and glossy.",
+    "action": "Woman flips and runs her hands through both sides to emphasize the contrast.",
+    "product_visible": false
+   },
+   {
+    "start_s": 48.5,
+    "end_s": 56.0,
+    "shot_type": "medium back view",
+    "visual": "Straightening the remaining crimped section with the steam brush.",
+    "action": "Sectioning the remaining hair and doing final gliding passes through the lengths.",
+    "product_visible": true
+   },
+   {
+    "start_s": 56.0,
+    "end_s": 60.0,
+    "shot_type": "medium back view",
+    "visual": "Finished result: ultra-shiny, liquid-smooth, waist-length straight hair.",
+    "action": "Running hands through the back of her hair and spreading it out to show off the mirror-like shine and movement.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Back view of extremely thick, voluminous, crimped brown hair taking up the entire screen.",
+   "visual_0_3s": "Woman turns slightly and holds up the Wavytalk Pro Steam box next to her crimped mane.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "product_reveal",
+   "pattern_interrupt": "Massive wall of textured, crimped hair that creates intense visual curiosity about whether a single brush can straighten it."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Show difficult/textured hair and product box",
+    "Quick setup: fill water tank and power on",
+    "Sectioning and first pass instant transformation",
+    "Progressive section-by-section straightening demo",
+    "Half-and-half before/after comparison",
+    "Finishing second half and showing final glossy result"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners",
+    "saves_time"
+   ],
+   "key_claims": [
+    "Straightens coarse and heavily crimped/textured hair in one smooth pass",
+    "Infuses steam for a glossy, salon-quality finish without frizz"
+   ],
+   "pain_points": [
+    "Extremely long or textured hair taking hours to straighten with regular flat irons",
+    "Frizz and uneven texture"
+   ],
+   "objections_handled": [
+    "Handles very thick and long hair effectively without snagging",
+    "Leaves hair glossy rather than dry and burnt-looking"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional flat iron / unstraightened crimped hair"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Pro Steam Hair Straightener Brush (Steambrush Pro)"
+   ],
+   "first_seen_s": 1.0,
+   "first_used_on_hair_s": 8.5,
+   "final_result_shown_s": 43.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "model",
+   "name_if_shown": "",
+   "age_range": "20-30",
+   "hair_before": "Waist-length, dark brown/brunette, crimped and highly textured with volume",
+   "hair_after": "Ultra-sleek, pin-straight, glossy liquid-sheen dark brown hair",
+   "setting": "Modern grey tiled bathroom",
+   "faces_camera": false,
+   "energy_tone": "Calm, satisfying, aesthetic and hypnotic demonstration"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Relaxing, rhythmic modern background pop/chill instrumental beat.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 18,
+   "avg_shot_length_s": 3.3,
+   "pacing": "medium",
+   "effects": [
+    "Slight speed ramps on passes"
+   ],
+   "ending": "Model fans out her finished, glossy straight hair with both hands towards the camera."
+  },
+  "notes": "Classic viral satisfying transformation format designed for TikTok/Instagram Reels. Relying entirely on visual proof without spoken dialogue or on-screen captions, making it easily adaptable across MENA markets (Lebanon/Jordan)."
+ }
+}

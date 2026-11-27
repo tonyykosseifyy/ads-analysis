@@ -1,0 +1,17 @@
+{
+ "language": "en",
+ "main_angle": "expert_endorsement",
+ "secondary_angles": [
+  "replaces_multiple_tools",
+  "saves_time",
+  "offer_discount_urgency"
+ ],
+ "opening_line": "The hair tool that just won a major beauty award is finally available in Lebanon.",
+ "opening_style": "social_proof",
+ "mentions_offer": true,
+ "offer": "20% off right now — ends end of month",
+ "social_proof": "won a major beauty award; SHE FINDS tests hundreds of tools and picked Whirlwind Curl in 2025",
+ "cta": "👇",
+ "tone": "authoritative, excited, promotional",
+ "variation_count": 2
+}

@@ -1,0 +1,224 @@
+{
+ "media_key": "v_1787618369091203",
+ "analyzed_at": "2026-11-27T22:47:54+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "4429eb9b25c466542ef08a6e7c8f35b237c0326f5ca6cee78f012bebbd967644",
+ "source": {
+  "kind": "video",
+  "id": "1787618369091203",
+  "errors": [
+   "1787618369091203: 400 (#10) Application does not have permission for this action"
+  ],
+  "video_id": "1507881377157545",
+  "length_s": 29.7,
+  "permalink": "/122152625727061607/videos/1507881377157545?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 30.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator recreates Sabrina Carpenter's Coachella blowout using the Wavytalk Blowout Boost thermal round brush set to music.",
+  "full_description": "A silent UGC tutorial set to a remix of 'La Isla Bonita'. The video opens with a photo reference to Sabrina Carpenter's iconic Coachella blowout hairstyle. The creator unveils the Wavytalk Blowout Boost box and heated brush, then demonstrates section by section how to curl, lift roots, and shape face-framing curtain bangs. The video finishes with her shaking out full, bouncy, voluminous blowout hair with a 25% discount sticker.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.0,
+    "text": "Iconic Coachella Hair: Sabrina Carpenter's Blowout",
+    "role": "hook"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 3.0,
+    "text": "25% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 3.0,
+    "text": "ORDER NOW",
+    "role": "cta"
+   },
+   {
+    "start_s": 26.0,
+    "end_s": 30.0,
+    "text": "25% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 26.0,
+    "end_s": 30.0,
+    "text": "ORDER NOW",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator in front of curtain backdrop pointing to a picture-in-picture of Sabrina Carpenter",
+    "action": "Creator points up towards Sabrina Carpenter photo inset while headline overlay appears",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 2.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the packaged Wavytalk Blowout Boost retail box",
+    "action": "Creator holds up and displays the product packaging to the camera",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 3.0,
+    "shot_type": "close-up",
+    "visual": "Pink Wavytalk thermal round brush held in front of camera",
+    "action": "Creator presents the heated round brush barrel to the viewer",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 6.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling a strand from top crown section",
+    "action": "Creator winds hair strand around the heated brush and slides it through to create a wave",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.5,
+    "end_s": 14.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling a middle side hair section",
+    "action": "Creator winds section around barrel, holds, then rolls it downward and releases a soft, bouncy curl",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 20.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling her front curtain bangs forward",
+    "action": "Creator curls bangs under towards face, drops hair forward, then flips it back to reveal voluminous swooped bangs",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 25.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling another front framing piece",
+    "action": "Creator rolls the brush through lower ends and releases another defined curl",
+    "product_visible": true
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 30.0,
+    "shot_type": "medium close-up",
+    "visual": "Final styled blowout result with promo stickers overlay",
+    "action": "Creator runs fingers through her voluminous styled hair, fluffing it and smiling at the camera",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator pointing up to an inset photo of Sabrina Carpenter's blonde blowout with text overlay 'Iconic Coachella Hair: Sabrina Carpenter's Blowout' and '25% OFF'.",
+   "visual_0_3s": "Creator references Sabrina Carpenter's photo, displays the Wavytalk box, and flashes the pink thermal styling brush.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Iconic Coachella Hair: Sabrina Carpenter's Blowout / 25% OFF / ORDER NOW",
+   "hook_type": "trend_or_sound",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Celebrity reference photo paired with rapid product reveal before transitioning into step-by-step styling."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Inspiration hook referencing celebrity hairstyle trend",
+    "Product presentation in box and tool close-up",
+    "Demonstration of styling crown and mid-lengths",
+    "Demonstration of styling curtain bangs",
+    "Final look reveal with discount and purchase CTA"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Achieve Sabrina Carpenter's iconic bouncy festival blowout at home"
+   ],
+   "pain_points": [
+    "Difficulty achieving bouncy salon blowout volume at home"
+   ],
+   "objections_handled": [
+    "Easy to use on bangs and long layers without tangling"
+   ],
+   "social_proof": [
+    "Celebrity trend association (Sabrina Carpenter Coachella hair)"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 1.0,
+   "first_used_on_hair_s": 3.0,
+   "final_result_shown_s": 25.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "25% OFF",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "ORDER NOW",
+   "cta_at_s": 0.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, naturally straight-wavy brown hair partially sectioned in a top bun",
+   "hair_after": "Voluminous, bouncy blowout with smooth curtain bangs and soft flipped ends",
+   "setting": "Indoor room with neutral curtains",
+   "faces_camera": true,
+   "energy_tone": "Trendy, calm, aesthetic, and confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Modern upbeat tropical house remix of 'La Isla Bonita'",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 3.75,
+   "pacing": "medium",
+   "effects": [
+    "Picture-in-picture image overlay",
+    "Sticker overlays"
+   ],
+   "ending": "Creator smiling and fluffing her finished blowout with '25% OFF' and 'ORDER NOW' stickers on screen"
+  },
+  "notes": "Targeted at Lebanese consumers seeking trending celebrity-inspired blowout results; uses no spoken audio, relying solely on visual demonstration and upbeat trending music."
+ }
+}

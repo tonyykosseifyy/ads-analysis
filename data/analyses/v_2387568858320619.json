@@ -1,0 +1,176 @@
+{
+ "media_key": "v_2387568858320619",
+ "analyzed_at": "2026-11-27T21:58:51+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "cb808b68b6d8dc13a26684d98d629562d5c87867735572067c00461d89f79908",
+ "source": {
+  "kind": "video",
+  "id": "2387568858320619",
+  "video_id": "1763863274967724",
+  "length_s": 14.14,
+  "permalink": "/23849366283980795/videos/1763863274967724/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 13.88,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator showcases two hairstyles from day to night using her bouncy blown-out curls styled with a thermal brush.",
+  "full_description": "A creator sits in her bedroom showcasing her voluminous, curled hairstyle. An on-screen hook announces 'Day to Night'. At '10:00 a.m. coffee + reading', she briefly shows her pink thermal brush in her styled hair before cutting to her relaxing and reading in bed with her curls down. At '6:00 p.m. dinner date', she changes into an evening floral top, pins her hair up into an elegant chic updo while leaving front framing layers loose, and poses for the camera.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.9,
+    "text": "Day ☀️ to Night 🌙",
+    "role": "hook"
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 6.5,
+    "text": "10:00 a.m.\ncoffee + reading ☕️ 📖",
+    "role": "other"
+   },
+   {
+    "start_s": 6.6,
+    "end_s": 13.88,
+    "text": "6:00 p.m.\ndinner date 🍷",
+    "role": "other"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator sitting in bed wearing a blue off-the-shoulder dress with voluminous layered brown curled hair, looking at the camera.",
+    "action": "Creator poses and plays with her curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 4.5,
+    "shot_type": "medium close-up",
+    "visual": "Same setting, creator holding a pink thermal round brush near her crown/bangs.",
+    "action": "Creator pulls the thermal round brush through a curl and fluffs her hair with her fingers.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.6,
+    "end_s": 6.5,
+    "shot_type": "wide shot",
+    "visual": "Creator tucked into bed under a floral quilt with an ornate lamp on the nightstand.",
+    "action": "Creator relaxes in bed reading a book.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.6,
+    "end_s": 13.88,
+    "shot_type": "medium close-up",
+    "visual": "Creator sitting on the bed wearing a floral draped off-shoulder corset top.",
+    "action": "Creator pins her hair up into an elegant evening updo leaving face-framing fringe, adjusts her necklace, and looks over her shoulder.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera with large voluminous 90s blowout curls, text reading 'Day ☀️ to Night 🌙'.",
+   "visual_0_3s": "Creator fluffs her big bouncy blowout curls and briefly taps a pink thermal round brush to her hair.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Day ☀️ to Night 🌙",
+   "hook_type": "result_first",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Rapid transition from finished daytime look to styling moment and transition into evening wear."
+  },
+  "structure": {
+   "format": "grwm_lifestyle",
+   "narrative_beats": [
+    "Showcasing the daytime voluminous blowout result",
+    "Briefly showing the heated styling tool used to create the volume",
+    "Daytime lifestyle shot (coffee and reading in bed)",
+    "Transforming the blowout curls into an evening date night updo"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "travel_or_on_the_go"
+   ],
+   "key_claims": [
+    "Thermal blowout holds curls all day from morning reading to evening dinner date",
+    "Versatile styling transition from down to updo"
+   ],
+   "pain_points": [
+    "Hairstyles falling flat throughout the day",
+    "Needing to completely re-style hair between day and night"
+   ],
+   "objections_handled": [
+    "Blowouts don't last all day"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 2.0,
+   "first_used_on_hair_s": 2.1,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Already styled: thick, long, dark brunette hair with layered bangs and large voluminous blowout curls",
+   "hair_after": "Day look: bouncy loose blowout curls; Night look: romantic pinned-up updo with face-framing fringe",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "aesthetic, glamorous, cozy, romantic"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Vintage upbeat jazz/pop rhythm with percussion and retro horns/strings.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 3,
+   "avg_shot_length_s": 3.47,
+   "pacing": "medium",
+   "effects": [
+    "text overlay",
+    "jump cuts"
+   ],
+   "ending": "Creator turns her head and looks over her shoulder posing in her date night outfit and updo."
+  },
+  "notes": "Aesthetic lifestyle GRWM / hairstyle transition reel focusing on hairstyle longevity and versatility from day to evening using the Blowout Boost thermal brush."
+ }
+}

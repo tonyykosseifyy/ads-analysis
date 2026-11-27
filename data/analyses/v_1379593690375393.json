@@ -1,0 +1,305 @@
+{
+ "media_key": "v_1379593690375393",
+ "analyzed_at": "2026-11-27T19:01:39+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "531a37b89b2376f1d5a212538ccfe2fce41e8df8fa64899c2f5ba2f052806557",
+ "source": {
+  "kind": "video",
+  "id": "1379593690375393",
+  "errors": [
+   "1379593690375393: Gave up after 5 retries: https://graph.facebook.com/v26.0/1379593690375393",
+   "1726629195220374: Gave up after 5 retries: https://graph.facebook.com/v26.0/1726629195220374"
+  ],
+  "ig_media_id": "17953198245240633",
+  "permalink": "https://www.instagram.com/p/DceWDDnsuDc/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 57.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator transforms straight hair into voluminous beach waves using the Wavytalk Power Wave before completing a western-cowgirl outfit.",
+  "full_description": "A creator demonstrates how she transforms her long straight brown hair into voluminous, defined waves using the pink Wavytalk Power Wave styling tool. She explains the tool's features including the 4-10 second timer and 8 temperature settings. After styling, she puts on accessories including turquoise jewelry, a cowboy hat, and light blue cowboy boots to present a full western-glam GRWM look.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Wavytalk really took my hair from this to this, all using their Power Wave.",
+    "text_english": "Wavytalk really took my hair from this to this, all using their Power Wave."
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 9.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I have been styling my hair like this all year long, so I thought why not show you how easy it is to achieve this look.",
+    "text_english": "I have been styling my hair like this all year long, so I thought why not show you how easy it is to achieve this look."
+   },
+   {
+    "start_s": 10.0,
+    "end_s": 13.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I start by sectioning off my hair, and then I let the Wavytalk Power Wave work its magic.",
+    "text_english": "I start by sectioning off my hair, and then I let the Wavytalk Power Wave work its magic."
+   },
+   {
+    "start_s": 13.9,
+    "end_s": 22.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's so easy to use because it has a 4 to 10 second timer and 8 different temperature settings, so every wave is tailored to your hair type for smoother styling and less heat damage.",
+    "text_english": "It's so easy to use because it has a 4 to 10 second timer and 8 different temperature settings, so every wave is tailored to your hair type for smoother styling and less heat damage."
+   },
+   {
+    "start_s": 22.4,
+    "end_s": 27.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I mean hello, the bounce, the shine, the volume. It's so effortless, yet it looks salon quality.",
+    "text_english": "I mean hello, the bounce, the shine, the volume. It's so effortless, yet it looks salon quality."
+   },
+   {
+    "start_s": 27.8,
+    "end_s": 32.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And this hairstyle is actually going to last me a few days. I can sleep on this, and the waves, they hold.",
+    "text_english": "And this hairstyle is actually going to last me a few days. I can sleep on this, and the waves, they hold."
+   },
+   {
+    "start_s": 32.2,
+    "end_s": 43.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Finishing styling this look and I'm of course adding all the accessories. You guys know I love a good cowboy hat and all the turquoise jewelry, and of course a good pair of cowboy boots to finish it all off.",
+    "text_english": "Finishing styling this look and I'm of course adding all the accessories. You guys know I love a good cowboy hat and all the turquoise jewelry, and of course a good pair of cowboy boots to finish it all off."
+   },
+   {
+    "start_s": 44.0,
+    "end_s": 57.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Here is the final look. I am absolutely in love with how this turned out. And the hair, it could not be better, and I cannot believe how effortless, easy, and quick it was to achieve this look, all thanks to the Wavytalk Power Wave.",
+    "text_english": "Here is the final look. I am absolutely in love with how this turned out. And the hair, it could not be better, and I cannot believe how effortless, easy, and quick it was to achieve this look, all thanks to the Wavytalk Power Wave."
+   }
+  ],
+  "transcript_full_original": "Wavytalk really took my hair from this to this, all using their Power Wave. I have been styling my hair like this all year long, so I thought why not show you how easy it is to achieve this look. I start by sectioning off my hair, and then I let the Wavytalk Power Wave work its magic. It's so easy to use because it has a 4 to 10 second timer and 8 different temperature settings, so every wave is tailored to your hair type for smoother styling and less heat damage. I mean hello, the bounce, the shine, the volume. It's so effortless, yet it looks salon quality. And this hairstyle is actually going to last me a few days. I can sleep on this, and the waves, they hold. Finishing styling this look and I'm of course adding all the accessories. You guys know I love a good cowboy hat and all the turquoise jewelry, and of course a good pair of cowboy boots to finish it all off. Here is the final look. I am absolutely in love with how this turned out. And the hair, it could not be better, and I cannot believe how effortless, easy, and quick it was to achieve this look, all thanks to the Wavytalk Power Wave.",
+  "transcript_full_english": "Wavytalk really took my hair from this to this, all using their Power Wave. I have been styling my hair like this all year long, so I thought why not show you how easy it is to achieve this look. I start by sectioning off my hair, and then I let the Wavytalk Power Wave work its magic. It's so easy to use because it has a 4 to 10 second timer and 8 different temperature settings, so every wave is tailored to your hair type for smoother styling and less heat damage. I mean hello, the bounce, the shine, the volume. It's so effortless, yet it looks salon quality. And this hairstyle is actually going to last me a few days. I can sleep on this, and the waves, they hold. Finishing styling this look and I'm of course adding all the accessories. You guys know I love a good cowboy hat and all the turquoise jewelry, and of course a good pair of cowboy boots to finish it all off. Here is the final look. I am absolutely in love with how this turned out. And the hair, it could not be better, and I cannot believe how effortless, easy, and quick it was to achieve this look, all thanks to the Wavytalk Power Wave.",
+  "word_count": 218,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.7,
+    "shot_type": "medium shot",
+    "visual": "Creator standing in bathroom showing her straight, unstyled hair",
+    "action": "Creator runs hands through straight hair and spins around",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 3.7,
+    "shot_type": "medium shot",
+    "visual": "Creator wearing a brown cowboy hat with styled, wavy hair",
+    "action": "Creator flips and touches her wavy hair to show the 'after' result",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 5.8,
+    "shot_type": "close-up",
+    "visual": "Creator holds the pink Wavytalk Power Wave tool to the camera",
+    "action": "Creator displays the digital screen and branding of the tool",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 7.4,
+    "shot_type": "medium shot",
+    "visual": "Creator in bathroom preparing her hair",
+    "action": "Creator sections hair and ties the top half in a bun",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 11.1,
+    "shot_type": "medium shot",
+    "visual": "Creator applying the pink Power Wave to a hair strand",
+    "action": "Clamping down on hair section by section creating deep waves",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.1,
+    "end_s": 13.0,
+    "shot_type": "close-up",
+    "visual": "Close-up of the hair strand inside the waver clamp",
+    "action": "Holding clamp on hair strand and releasing defined waves",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 14.5,
+    "shot_type": "medium shot",
+    "visual": "Creator taking down top section of hair",
+    "action": "Brushing through the remaining unstyled hair section",
+    "product_visible": false
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 20.3,
+    "shot_type": "medium shot",
+    "visual": "Creator clamping upper layers of hair with the Power Wave",
+    "action": "Pressing the waver along the hair lengths to complete the waves",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.3,
+    "end_s": 23.5,
+    "shot_type": "medium shot",
+    "visual": "Creator admiring wavy hair result",
+    "action": "Shaking out voluminous waves with hands and turning to show the back",
+    "product_visible": false
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 26.9,
+    "shot_type": "medium shot",
+    "visual": "Creator putting on her brown cowboy hat",
+    "action": "Adjusting cowboy hat and posing",
+    "product_visible": false
+   },
+   {
+    "start_s": 26.9,
+    "end_s": 38.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator putting on accessories",
+    "action": "Fastening horse-bit chain belt, earrings, choker, and turquoise rings and bracelets",
+    "product_visible": false
+   },
+   {
+    "start_s": 38.5,
+    "end_s": 43.1,
+    "shot_type": "full body",
+    "visual": "Creator showing and stepping into light blue embroidered cowboy boots",
+    "action": "Holding boots up and pulling one onto her foot in bathroom",
+    "product_visible": false
+   },
+   {
+    "start_s": 43.1,
+    "end_s": 57.0,
+    "shot_type": "full body / medium shot",
+    "visual": "Creator posing in living hallway in full cowgirl outfit",
+    "action": "Spinning, flipping hair, and showing off the completed outfit and wavy hair",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera in bathroom with straight, unstyled long hair touching her head.",
+   "visual_0_3s": "Fast jump cut from straight hair to voluminous wavy hair with a cowboy hat.",
+   "spoken_0_3s": "Wavytalk really took my hair from this to this, all using their Power Wave.",
+   "text_0_3s": "",
+   "hook_type": "before_after",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Instant snap cut transition from plain straight hair to fully styled western glam waves."
+  },
+  "structure": {
+   "format": "grwm_lifestyle",
+   "narrative_beats": [
+    "Quick before-after hook showing dramatic transformation",
+    "Product display and demo showing step-by-step hair waving",
+    "Explanation of product features (timer, temperature settings, less heat damage)",
+    "Hair result reveal (bounce, volume, longevity)",
+    "GRWM styling with western accessories and boots",
+    "Final full-body outfit and hair reveal"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "less_heat_damage",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "4 to 10 second timer",
+    "8 temperature settings tailored to hair type",
+    "Smoother styling and less heat damage",
+    "Long-lasting hold for multiple days"
+   ],
+   "pain_points": [
+    "Heat damage from regular styling tools",
+    "Waves falling flat quickly"
+   ],
+   "objections_handled": [
+    "Difficulty of styling (shows how easy it is section by section)",
+    "Waves not holding (creator confirms she can sleep on them and they hold for days)"
+   ],
+   "social_proof": [
+    "Creator personal daily use testimonial"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Power Wave"
+   ],
+   "first_seen_s": 3.7,
+   "first_used_on_hair_s": 7.4,
+   "final_result_shown_s": 1.7,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Long, dark brown, straight hair",
+   "hair_after": "Voluminous, shiny deep S-waves",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "Upbeat, confident, glamorous, enthusiastic"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle upbeat background instrumental pop track beneath voiceover",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 4.1,
+   "pacing": "medium",
+   "effects": [
+    "jump cut transition",
+    "speed ramp / quick cut"
+   ],
+   "ending": "Creator smiling and posing in hallway showcasing full outfit and wavy hair"
+  },
+  "notes": "English-language UGC asset repurposed for paid ads. No burned-in subtitles or text overlays. Strong lifestyle and GRWM integration combining hair styling with western fashion."
+ }
+}

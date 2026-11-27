@@ -1,0 +1,359 @@
+{
+ "media_key": "v_1069982872782845",
+ "analyzed_at": "2026-11-27T21:59:18+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "b3c44ab847954190bb7677f88687cfcfe83f25ce2260e641b98e72f18f09fa3b",
+ "source": {
+  "kind": "video",
+  "id": "1069982872782845",
+  "video_id": "2225742424998317",
+  "length_s": 71.231,
+  "permalink": "/23849366283980795/videos/2225742424998317/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 71.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A curly-haired creator demos WavyTalk Turblow Pro with diffuser attachment, showing how to achieve root volume and defined curls fast.",
+  "full_description": "A young curly-haired woman demonstrates the WavyTalk Turblow Pro blow dryer using its magnetic diffuser attachment. She starts with a fast before-and-after flash hook asking viewers if they want root volume while diffusing curls. She explains her struggle with flat roots and long drying times, unboxes the pink Turblow Pro with diffuser and concentrator nozzles, demonstrates lifting curls from bottom to root, highlights high-speed airflow (5x faster) and advanced ionic anti-frizz technology, reveals dramatic voluminous, defined dry curls, and closes with a November 33% off discount offer and 30-day money-back guarantee.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 80,
+    "en": 20,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "ar",
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بدك volume من الـ roots إنتِ وعم بتنشفي your curls؟ هيدا الـ video لإلك.",
+    "text_english": "Do you want root volume while drying your curls? This video is for you."
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 8.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "كل ما غسل شعري ونشفه، بياخد معي كتير وقت ودايماً بلاحظ قديش بيضل عندي flat roots.",
+    "text_english": "Every time I wash and dry my hair, it takes so much time and I always notice how I end up with flat roots."
+   },
+   {
+    "start_s": 8.9,
+    "end_s": 12.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "لهيك هالمرة عم جرب Turblow Pro من WavyTalk اللي الكل عم يحكي عنه.",
+    "text_english": "That's why this time I'm trying Turblow Pro from WavyTalk that everyone is talking about."
+   },
+   {
+    "start_s": 12.6,
+    "end_s": 16.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بيجي بالـ package تو accessories، الـ diffuser والـ concentrator.",
+    "text_english": "The package comes with two accessories: the diffuser and the concentrator."
+   },
+   {
+    "start_s": 16.1,
+    "end_s": 20.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "By the way it's magnetic, super safe. وأنا عم بستعمل الـ diffuser لحتى كون عم زيد الـ volume.",
+    "text_english": "By the way it's magnetic, super safe. And I'm using the diffuser to add volume."
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 27.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "ببلش من تحت وبرفع الـ curls بالـ diffuser لفوق، هيك بيساعد الـ roots إنه ينشفوا وآخد volume بنفس الوقت.",
+    "text_english": "I start from the bottom and lift the curls up with the diffuser, this helps the roots dry and gives me volume at the same time."
+   },
+   {
+    "start_s": 27.3,
+    "end_s": 33.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "ومش عم يعتمد على high heat بس لحتى ينشف الشعر، الـ high speed airflow بينشف up to 5 times faster من الـ dryer العادي.",
+    "text_english": "And it doesn't just rely on high heat to dry hair; the high speed airflow dries up to 5 times faster than a regular dryer."
+   },
+   {
+    "start_s": 34.0,
+    "end_s": 39.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وهيدا الشي أكيد بيساعدني إنه خفف من الحرارة وبنفس الوقت إنه ينشف شعري بطريقة أسرع.",
+    "text_english": "And that definitely helps me reduce heat exposure while drying my hair faster at the same time."
+   },
+   {
+    "start_s": 39.1,
+    "end_s": 47.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وفي كمان new advanced ionic technology اللي بتساعد إنه تقلل من الـ frizz تاع الشعر، فعم تاخدوا volume من الـ roots وكمان الـ curls عم بيكونوا super defined.",
+    "text_english": "There's also a new advanced ionic technology that helps reduce hair frizz, so you get volume from the roots and curls that are super defined."
+   },
+   {
+    "start_s": 48.0,
+    "end_s": 51.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وهلأ ركزوا لي على الـ before كتير منيح، وليكوا الـ after!",
+    "text_english": "Now look closely at the before, and look at the after!"
+   },
+   {
+    "start_s": 52.0,
+    "end_s": 57.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "شوفوا الـ final result وشوفوا من فوق قديش صار شعري مرفوع والـ curls مبينين كتير defined وحلوين.",
+    "text_english": "Look at the final result and look from the top how lifted my hair became, and the curls look super defined and pretty."
+   },
+   {
+    "start_s": 57.6,
+    "end_s": 64.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وإذا إنتِ متلي عم بتفتشي على tool تساعدك إنه تزيد الـ hair volume، ضروري إنك تكوني عم تطلبي الـ Turblow Pro هلأ.",
+    "text_english": "And if you're like me looking for a tool to help increase hair volume, you definitely need to order the Turblow Pro now."
+   },
+   {
+    "start_s": 64.1,
+    "end_s": 67.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وتستفيدي من November discount 33% off.",
+    "text_english": "And take advantage of the November discount, 33% off."
+   },
+   {
+    "start_s": 68.0,
+    "end_s": 71.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وإذا ما عجبك، أكيد بتقدري إنه ترجعيه بـ 30 days.",
+    "text_english": "And if you don't like it, you can definitely return it within 30 days."
+   }
+  ],
+  "transcript_full_original": "بدك volume من الـ roots إنتِ وعم بتنشفي your curls؟ هيدا الـ video لإلك. كل ما غسل شعري ونشفه، بياخد معي كتير وقت ودايماً بلاحظ قديش بيضل عندي flat roots. لهيك هالمرة عم جرب Turblow Pro من WavyTalk اللي الكل عم يحكي عنه. بيجي بالـ package تو accessories، الـ diffuser والـ concentrator. By the way it's magnetic, super safe. وأنا عم بستعمل الـ diffuser لحتى كون عم زيد الـ volume. ببلش من تحت وبرفع الـ curls بالـ diffuser لفوق، هيك بيساعد الـ roots إنه ينشفوا وآخد volume بنفس الوقت. ومش عم يعتمد على high heat بس لحتى ينشف الشعر، الـ high speed airflow بينشف up to 5 times faster من الـ dryer العادي. وهيدا الشي أكيد بيساعدني إنه خفف من الحرارة وبنفس الوقت إنه ينشف شعري بطريقة أسرع. وفي كمان new advanced ionic technology اللي بتساعد إنه تقلل من الـ frizz تاع الشعر، فعم تاخدوا volume من الـ roots وكمان الـ curls عم بيكونوا super defined. وهلأ ركزوا لي على الـ before كتير منيح، وليكوا الـ after! شوفوا الـ final result وشوفوا من فوق قديش صار شعري مرفوع والـ curls مبينين كتير defined وحلوين. وإذا إنتِ متلي عم بتفتشي على tool تساعدك إنه تزيد الـ hair volume، ضروري إنك تكوني عم تطلبي الـ Turblow Pro هلأ. وتستفيدي من November discount 33% off. وإذا ما عجبك، أكيد بتقدري إنه ترجعيه بـ 30 days.",
+  "transcript_full_english": "Do you want root volume while drying your curls? This video is for you. Every time I wash and dry my hair, it takes so much time and I always notice how I end up with flat roots. That's why this time I'm trying Turblow Pro from WavyTalk that everyone is talking about. The package comes with two accessories: the diffuser and the concentrator. By the way it's magnetic, super safe. And I'm using the diffuser to add volume. I start from the bottom and lift the curls up with the diffuser, this helps the roots dry and gives me volume at the same time. And it doesn't just rely on high heat to dry hair; the high speed airflow dries up to 5 times faster than a regular dryer. And that definitely helps me reduce heat exposure while drying my hair faster at the same time. There's also a new advanced ionic technology that helps reduce hair frizz, so you get volume from the roots and curls that are super defined. Now look closely at the before, and look at the after! Look at the final result and look from the top how lifted my hair became, and the curls look super defined and pretty. And if you're like me looking for a tool to help increase hair volume, you definitely need to order the Turblow Pro now. And take advantage of the November discount, 33% off. And if you don't like it, you can definitely return it within 30 days.",
+  "word_count": 188,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 71.0,
+    "text": "بدك VOLUME من الـ ROOTS... / CURLS? / هيدا الـ VIDEO لإلك...",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 12.0,
+    "text": "WAVYTALK Turblow Pro",
+    "role": "brand"
+   },
+   {
+    "start_s": 105.0,
+    "end_s": 107.0,
+    "text": "NOVEMBER DISCOUNT 33% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 109.0,
+    "end_s": 111.0,
+    "text": "30 DAYS",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "shot_type": "medium shot",
+    "visual": "Creator with wet, flat curly hair smiling at camera, waving hand across screen.",
+    "action": "Creator introduces the root volume question, then transitions via a hand swipe to the finished voluminous hairstyle.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 3.7,
+    "shot_type": "medium shot",
+    "visual": "Creator with dry, voluminous bouncy curls holding the product packaging box.",
+    "action": "Creator smiles and presents the ad premise holding the WavyTalk Turblow Pro box.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 8.8,
+    "shot_type": "medium shot / close-up",
+    "visual": "Creator drying hair with towel, applying styling cream and mousse to wet hair, pointing at flat roots.",
+    "action": "Creator shows prep routine and highlights her frustration with flat roots.",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.8,
+    "end_s": 12.5,
+    "shot_type": "product shot / close-up",
+    "visual": "Top view of the Turblow Pro box, followed by creator holding the pink Turblow Pro dryer.",
+    "action": "Creator reveals the pink high-speed hair dryer.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.5,
+    "end_s": 16.0,
+    "shot_type": "close-up",
+    "visual": "Hand holding the diffuser attachment and concentrator nozzle in front of neutral wall.",
+    "action": "Demonstrating the two attachments included in the package.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 20.5,
+    "shot_type": "medium shot",
+    "visual": "Creator snapping the magnetic diffuser onto the Turblow Pro dryer.",
+    "action": "Creator tests and demonstrates the magnetic attachment feature.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.5,
+    "end_s": 47.9,
+    "shot_type": "medium shot",
+    "visual": "Creator diffusing her wet curls from bottom upward toward the scalp, rotating angles.",
+    "action": "Step-by-step diffusion tutorial demonstrating root lift, fast drying, and frizz reduction.",
+    "product_visible": true
+   },
+   {
+    "start_s": 47.9,
+    "end_s": 57.5,
+    "shot_type": "medium shot",
+    "visual": "Creator shows finished bouncy dry curls, shaking them, smiling and touching roots.",
+    "action": "Creator displays full voluminous curly results with high root lift.",
+    "product_visible": false
+   },
+   {
+    "start_s": 57.5,
+    "end_s": 64.0,
+    "shot_type": "medium shot / product shot",
+    "visual": "Creator fluffing hair, then cut to product box on wooden table.",
+    "action": "Creator delivers call to action urging viewers to order Turblow Pro.",
+    "product_visible": true
+   },
+   {
+    "start_s": 64.0,
+    "end_s": 71.0,
+    "shot_type": "medium shot",
+    "visual": "Creator holding the Turblow Pro box, pointing at it and smiling.",
+    "action": "Creator pitches the November 33% discount and 30-day return policy.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera in white sweater with wet curly hair, burned-in Arabic/English subtitle at the bottom.",
+   "visual_0_3s": "Fast hand swipe transition from wet flat hair to fully dried voluminous curly hair holding the box.",
+   "spoken_0_3s": "بدك volume من الـ roots إنتِ وعم بتنشفي your curls؟",
+   "text_0_3s": "بدك VOLUME من الـ ROOTS إنتِ وعم بتنشفي YOUR CURLS؟",
+   "hook_type": "before_after",
+   "hook_type_secondary": "question",
+   "pattern_interrupt": "Quick hand-swipe transformation from wet flat curls to fully styled bouncy curls within the first 1.5 seconds."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: Asking curly hair problem question (flat roots) with immediate before/after flash preview",
+    "Problem validation: Wash day takes forever and roots stay flat",
+    "Product intro & unboxing: WavyTalk Turblow Pro with magnetic diffuser and concentrator",
+    "Demonstration & benefits: Diffusing technique from bottom up, 5x faster drying, high-speed airflow over high heat, ionic anti-frizz",
+    "Result reveal: Defined, bouncy curls with massive root lift",
+    "Call to action: November 33% off discount and 30-day money-back guarantee"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "saves_time",
+    "less_heat_damage",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "High speed airflow dries hair up to 5 times faster than standard dryers",
+    "Advanced ionic technology reduces frizz",
+    "Magnetic attachments are super safe and easy to snap on",
+    "Diffuser attachment lifts roots and creates defined curls without excessive heat damage"
+   ],
+   "pain_points": [
+    "Flat roots when diffusing curly hair",
+    "Long drying times on curly hair wash days",
+    "Frizz and heat damage from conventional dryers"
+   ],
+   "objections_handled": [
+    "Will it cause heat damage? Addressed by emphasizing high-speed airflow instead of extreme heat",
+    "Is it complicated to assemble? Addressed by showing magnetic click-on diffuser",
+    "What if I don't like it? Addressed with 30-day money-back return policy"
+   ],
+   "social_proof": [
+    "Mentioning 'everyone is talking about it' (اللي الكل عم يحكي عنه)"
+   ],
+   "comparison_to": "Regular hair dryers (الـ dryer العادي)"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Turblow Pro"
+   ],
+   "first_seen_s": 1.2,
+   "first_used_on_hair_s": 20.5,
+   "final_result_shown_s": 1.2,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "November discount 33% off with 30-day return policy",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "November discount offer, order now",
+   "cta_spoken": "ضروري إنك تكوني عم تطلبي الـ Turblow Pro هلأ وتستفيدي من November discount 33% off",
+   "cta_on_screen": "",
+   "cta_at_s": 61.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long dark wet curly hair, flat at the crown",
+   "hair_after": "Voluminous, bouncy, highly defined dark curls with lifted roots",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "friendly, enthusiastic, relatable UGC creator"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat lo-fi pop instrumental track underneath clear spoken audio",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 5.07,
+   "pacing": "medium",
+   "effects": [
+    "hand swipe transition",
+    "word-by-word highlighted burned-in subtitles",
+    "cutaways to product and accessories"
+   ],
+   "ending": "Creator smiling holding the Turblow Pro product box and nodding reassuringly."
+  },
+  "notes": "Video targets curly-haired Lebanese consumers struggling with flat roots and long diffusion times. Combines problem-solution framing with an unboxing and demonstration of the Turblow Pro diffuser attachment."
+ }
+}

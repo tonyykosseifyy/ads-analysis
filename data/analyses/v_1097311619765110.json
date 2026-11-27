@@ -1,0 +1,261 @@
+{
+ "media_key": "v_1097311619765110",
+ "analyzed_at": "2026-11-27T23:36:40+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "b60346f0c5ac2d74dadc999fdd25fa7714eb9fc1308e0762791bd9420921d7e7",
+ "source": {
+  "kind": "video",
+  "id": "1097311619765110",
+  "errors": [
+   "1097311619765110: Gave up after 5 retries: https://graph.facebook.com/v26.0/1097311619765110",
+   "1677395717102398: Gave up after 5 retries: https://graph.facebook.com/v26.0/1677395717102398"
+  ],
+  "ig_media_id": "18134083352498041",
+  "permalink": "https://www.instagram.com/p/DfZa_WnMxpM/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 40.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator with extremely long, curly, frizzy hair fills and uses the pink Wavytalk Steambrush Pro to achieve sleek, shiny, pin-straight hair.",
+  "full_description": "A silent UGC tutorial set to trending upbeat music. The creator starts with her back to the camera showing her very long, voluminous curly hair before turning around to present her frizzy mane. She presents the pink Wavytalk Steambrush Pro, fills its removable water tank using a dropper, demonstrates the steam release, and brushes through her dense curls section by section. In just a few passes, the curls are transformed into sleek, smooth, and glossy straight strands. She shows side-by-side comparisons of styled versus unstyled sections and ends with a delighted reaction running her fingers through her sleek hair.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.9,
+    "text": "Straighten my hair with me",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.9,
+    "shot_type": "medium shot",
+    "visual": "Creator viewed from behind fluffing out extremely long, voluminous curly brown hair in a bedroom setting.",
+    "action": "Shakes and displays curly hair, with on-screen text inviting viewers to straighten hair with her.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.9,
+    "end_s": 3.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator sits facing the camera showing her dense, frizzy, brushed-out curls.",
+    "action": "Touches and shakes her voluminous frizzy hair with an expressive look.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 3.9,
+    "shot_type": "close-up",
+    "visual": "Creator holds the pink Wavytalk Steambrush Pro facing the camera.",
+    "action": "Presents the straightening brush bristles and body directly to the lens.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.9,
+    "end_s": 4.9,
+    "shot_type": "extreme close-up",
+    "visual": "Hands filling the clear water cartridge with water using a squeeze dropper bottle.",
+    "action": "Fills water reservoir on the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 5.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator snaps the filled water reservoir back onto the pink brush handle.",
+    "action": "Clicks tank into place and prepares the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 7.0,
+    "shot_type": "close-up",
+    "visual": "Steam venting out of the brush head as the creator watches in astonishment.",
+    "action": "Demonstrates the active steam output of the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 10.6,
+    "shot_type": "medium shot",
+    "visual": "Creator pins top hair up and glides the steam brush down a long front section.",
+    "action": "Brushes through the curly hair strand from root to tip.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.6,
+    "end_s": 13.5,
+    "shot_type": "close-up",
+    "visual": "Detailed shot of the brush teeth smoothing down long hair strands.",
+    "action": "Slow, steady pass showing instantaneous straightening and defrizzing.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 16.5,
+    "shot_type": "medium shot",
+    "visual": "Creator admires the straightened section and runs her fingers through it.",
+    "action": "Checks the smooth, pin-straight texture with her hand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 23.3,
+    "shot_type": "close-up",
+    "visual": "Slow-motion close-up of hair strands passing through the comb bristles and emerging shiny and straight.",
+    "action": "Brushes hair slowly, showing steam-infused detangling and straightening.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.3,
+    "end_s": 25.0,
+    "shot_type": "close-up",
+    "visual": "Side-by-side comparison of a pin-straight silky strand next to a puffy curly strand.",
+    "action": "Holds both strands side by side to highlight the contrast.",
+    "product_visible": false
+   },
+   {
+    "start_s": 25.0,
+    "end_s": 26.6,
+    "shot_type": "close-up",
+    "visual": "Straightening brush passing over another section.",
+    "action": "Smooths out another section of hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.6,
+    "end_s": 28.5,
+    "shot_type": "medium shot",
+    "visual": "Creator reacts to the camera showing two straightened front sections contrasting with back curls.",
+    "action": "Displays progress and sections out more hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 34.2,
+    "shot_type": "medium shot",
+    "visual": "Creator continues straightening the remaining sections of her hair.",
+    "action": "Glides the brush through the top and back sections.",
+    "product_visible": true
+   },
+   {
+    "start_s": 34.2,
+    "end_s": 40.0,
+    "shot_type": "medium shot",
+    "visual": "Creator admiring her fully straightened, long, glossy dark brown hair.",
+    "action": "Puts hands on head in amazement, holds up the brush, and flips hair over her shoulder.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator shown from the back wearing dark sweatpants, lifting and shaking huge curly hair down to her waist.",
+   "visual_0_3s": "Voluminous, thick, waist-length curly hair is displayed from behind before cutting to creator facing camera showing its frizzy volume.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Straighten my hair with me",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Shocking reveal of extremely long, textured hair volume followed by quick product prep and steam release."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Hair prep and visual challenge: massive curly long hair",
+    "Tool introduction and water refilling demo",
+    "Steam release demonstration",
+    "Section-by-section straightening demo with close-ups",
+    "Halfway and side-by-side contrast between curly and straight",
+    "Final silky result and satisfied reaction"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Effortlessly straightens extremely long, thick, curly hair",
+    "Steam infusion leaves hair sleek, smooth, and shiny without frizz",
+    "Easy comb-through styling in single passes"
+   ],
+   "pain_points": [
+    "Managing extremely thick, long, and unruly curly hair",
+    "Frizz and puffiness when trying to straighten curls",
+    "Time-consuming straightening routines"
+   ],
+   "objections_handled": [
+    "Works effectively even on ultra-long, dense, coarse curly hair",
+    "Doesn't snag or pull hair while brushing"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional flat irons (implied via heated steam brush convenience)"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steambrush Pro"
+   ],
+   "first_seen_s": 3.0,
+   "first_used_on_hair_s": 7.5,
+   "final_result_shown_s": 34.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Waist-length, dark brown, thick, dense curly and frizzy hair",
+   "hair_after": "Ultra-sleek, pin-straight, shiny, long dark brown hair",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, amazed, aesthetic, upbeat"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat reggaeton/Latin dance beat remix with vocal hooks ('Báilalo, gózalo...').",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 15,
+   "avg_shot_length_s": 2.67,
+   "pacing": "fast",
+   "effects": [
+    "close-up macro shots",
+    "lighting transitions",
+    "speed change"
+   ],
+   "ending": "Creator proudly poses, tossing her smooth straight hair over her shoulder and smiling."
+  },
+  "notes": "Ad relies entirely on visual demonstration, UGC aesthetics, and viral music track with no spoken dialogue or promotional voiceover."
+ }
+}

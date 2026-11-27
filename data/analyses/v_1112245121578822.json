@@ -1,0 +1,251 @@
+{
+ "media_key": "v_1112245121578822",
+ "analyzed_at": "2026-11-27T19:49:43+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "fca333265de97cec7016a86aa09b8afd580ad90dd72ec147dc9bf87f4a7e129f",
+ "source": {
+  "kind": "video",
+  "id": "1112245121578822",
+  "video_id": "1628472748686509",
+  "length_s": 72.793,
+  "permalink": "/23849366283980795/videos/1628472748686509/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 73.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A young woman demonstrates how to achieve a bouncy salon blowout at home step-by-step using the Wavytalk Blowout Boost thermal brush.",
+  "full_description": "The video opens with a young woman showcasing her finished voluminous, bouncy blowout. It quickly cuts to her 'before' state with flat, unstyled hair, then introduces the pink Wavytalk Blowout Boost thermal round brush. She sections her hair, demonstrates lifting the roots, rolling out, and releasing strands to create curls and volume. A side-by-side comparison shows the styled side against the unstyled side before she finishes styling the rest of her hair section by section. The video concludes with a full reveal of the final voluminous blowout and an end screen offering 20% off until the end of the month.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "text": "This is how I get a bouncy blowout at home step by step 🤩",
+    "role": "hook"
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 6.5,
+    "text": "Before",
+    "role": "other"
+   },
+   {
+    "start_s": 6.5,
+    "end_s": 9.0,
+    "text": "Wavytalk Blowout Boost 🤩",
+    "role": "brand"
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 31.0,
+    "text": "Lift the Roots Roll Out & Release",
+    "role": "other"
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 37.0,
+    "text": "See the Difference Before | After",
+    "role": "benefit"
+   },
+   {
+    "start_s": 37.0,
+    "end_s": 103.0,
+    "text": "Repeat section by section",
+    "role": "other"
+   },
+   {
+    "start_s": 103.0,
+    "end_s": 109.0,
+    "text": "The final Blowout 🤩",
+    "role": "benefit"
+   },
+   {
+    "start_s": 109.0,
+    "end_s": 73.0,
+    "text": "Shop now & Get 20% OFF Until the End of the Month 🩷",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "shot_type": "medium shot",
+    "visual": "Young woman in a white cropped tee sitting in a bedroom showing off her finished bouncy blowout.",
+    "action": "Creator shakes and fluffs her bouncy, voluminous hair toward the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 6.5,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting in bedroom with flat, straight 'before' hair.",
+    "action": "Creator gestures towards her hair and points to the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.5,
+    "end_s": 9.0,
+    "shot_type": "close-up",
+    "visual": "Creator holds the pink Wavytalk Blowout Boost thermal brush up to the lens.",
+    "action": "Creator showcases the heated brush barrel and digital temperature display.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.0,
+    "end_s": 10.5,
+    "shot_type": "medium shot",
+    "visual": "Creator sectioning her hair with a hair clip.",
+    "action": "Creator pins the top half of her hair up.",
+    "product_visible": false
+   },
+   {
+    "start_s": 10.5,
+    "end_s": 31.0,
+    "shot_type": "medium shot",
+    "visual": "Creator using the heated round brush on bottom hair sections.",
+    "action": "Creator rolls the brush through a section of hair from root to tip and releases a bouncy curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 37.0,
+    "shot_type": "medium shot",
+    "visual": "Half-styled hair comparison.",
+    "action": "Creator gestures between the curled bouncy styled side and the flat unstyled side.",
+    "product_visible": true
+   },
+   {
+    "start_s": 37.0,
+    "end_s": 103.0,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the upper and crown sections of her hair.",
+    "action": "Creator rolls the brush upwards at the crown for root volume and curls the face-framing layers.",
+    "product_visible": true
+   },
+   {
+    "start_s": 103.0,
+    "end_s": 109.5,
+    "shot_type": "medium shot",
+    "visual": "Creator admiring the complete blowout in front of a mirror and the camera.",
+    "action": "Creator smiles, flips, and runs fingers through her bouncy, styled hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 109.5,
+    "end_s": 73.0,
+    "shot_type": "close-up",
+    "visual": "Creator holding the Wavytalk Blowout Boost brush next to her face.",
+    "action": "Creator smiles at the camera holding the tool with promotional text overlay.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator shaking her styled, bouncy, voluminous hair with the text overlay 'This is how I get a bouncy blowout at home step by step 🤩'.",
+   "visual_0_3s": "Voluminous hair toss and camera interaction showcasing bouncy salon curls.",
+   "spoken_0_3s": "",
+   "text_0_3s": "This is how I get a bouncy blowout at home step by step 🤩",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Immediate result-first visual followed rapidly by an unstyled 'Before' contrast cut at 4.5 seconds."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Result reveal teaser",
+    "Before hair state",
+    "Product introduction",
+    "Step-by-step curling technique tutorial",
+    "Side-by-side half-head comparison",
+    "Top layer root lift demonstration",
+    "Final look reveal",
+    "Limited-time discount offer CTA"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Achieve a salon-quality bouncy blowout at home",
+    "Easy step-by-step method with root lift and curl release"
+   ],
+   "pain_points": [
+    "Flat, lifeless hair",
+    "Difficulty achieving salon-grade volume at home"
+   ],
+   "objections_handled": [
+    "Hard to use / beginner unfriendliness (addressed by showing simple roll-and-release technique)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Before state (flat, straight unstyled hair)"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 6.5,
+   "first_used_on_hair_s": 10.5,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "20% OFF",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Until the End of the Month",
+   "cta_spoken": "",
+   "cta_on_screen": "Shop now & Get 20% OFF Until the End of the Month 🩷",
+   "cta_at_s": 109.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, fine, straight brown hair, relatively flat without volume",
+   "hair_after": "Bouncy, voluminous 90s-style blowout with lifted roots and defined curled ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Warm, confident, aesthetic, and tutorial-oriented"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Upbeat, melodic indie-pop vocal song with smooth female vocals ('feels right... like paradise...').",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 10,
+   "avg_shot_length_s": 7.3,
+   "pacing": "medium",
+   "effects": [
+    "text overlays",
+    "jump cuts between hair styling sections"
+   ],
+   "ending": "Creator smiles and displays the tool next to her bouncy styled hair with promotional discount text."
+  },
+  "notes": "Targeted at the Lebanese market with English text overlays. Fully silent demonstration set to commercial trending indie-pop music without spoken dialogue."
+ }
+}

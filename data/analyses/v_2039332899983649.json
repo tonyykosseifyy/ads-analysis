@@ -1,0 +1,342 @@
+{
+ "media_key": "v_2039332899983649",
+ "analyzed_at": "2026-11-27T18:42:31+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "07e5d314e8e7d90bbfe0e20cd8fce2ff1bd570d921694ce6da1160e534ed6b50",
+ "source": {
+  "kind": "video",
+  "id": "2039332899983649",
+  "ig_media_id": "18128125960831669",
+  "permalink": "https://www.instagram.com/p/DeZlJxfMbKx/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 39.5,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "A professional hair stylist demonstrates the WavyTalk Whirlwind Pro Airflow Styler on a brunette client in a salon, explaining its simultaneous heat curling and 360 cold air setting technology.",
+  "full_description": "The ad features a male hair stylist in a salon setting styling a brunette female client's long hair with the WavyTalk Whirlwind Pro Airflow Styler. Over upbeat background music and a male voiceover, the stylist demonstrates clamping, twisting, and gliding the 2-in-1 tool through hair sections, creating defined curls. The voiceover explains how the tool replaces both flat irons and curling irons while utilizing 360-degree cold airflow to lock in shape and hold in a single pass without needing pins. The ad concludes showing the full, bouncy, voluminous styled result as the client smiles and blows a kiss.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 1.5,
+    "end_s": 3.0,
+    "speaker": "second person",
+    "language": "en",
+    "text_original": "It's beautiful.",
+    "text_english": "It's beautiful."
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 3.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Right?",
+    "text_english": "Right?"
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 10.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "This is the WavyTalk Whirlwind Pro Airflow Styler and I'm obsessed because you can curl and set your hair all in one pass.",
+    "text_english": "This is the WavyTalk Whirlwind Pro Airflow Styler and I'm obsessed because you can curl and set your hair all in one pass."
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 16.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "It's like getting a new flat iron, but better because you're getting a curling iron and a flat iron in one.",
+    "text_english": "It's like getting a new flat iron, but better because you're getting a curling iron and a flat iron in one."
+   },
+   {
+    "start_s": 16.2,
+    "end_s": 24.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "But the biggest difference is as you curl or straighten your hair, this tool blows 360 cold airflow out of the sides, setting each section into place.",
+    "text_english": "But the biggest difference is as you curl or straighten your hair, this tool blows 360 cold airflow out of the sides, setting each section into place."
+   },
+   {
+    "start_s": 25.0,
+    "end_s": 31.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "For curly styles like this, you would normally need to curl your hair with a curling iron or a flat iron and pin them up to set and cool.",
+    "text_english": "For curly styles like this, you would normally need to curl your hair with a curling iron or a flat iron and pin them up to set and cool."
+   },
+   {
+    "start_s": 31.8,
+    "end_s": 36.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "But now you can get the shape, shine, definition, and hold all in one step.",
+    "text_english": "But now you can get the shape, shine, definition, and hold all in one step."
+   },
+   {
+    "start_s": 36.4,
+    "end_s": 39.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Get the tool that will make your flat iron curls so easy in my bio.",
+    "text_english": "Get the tool that will make your flat iron curls so easy in my bio."
+   }
+  ],
+  "transcript_full_original": "It's beautiful. Right? This is the WavyTalk Whirlwind Pro Airflow Styler and I'm obsessed because you can curl and set your hair all in one pass. It's like getting a new flat iron, but better because you're getting a curling iron and a flat iron in one. But the biggest difference is as you curl or straighten your hair, this tool blows 360 cold airflow out of the sides, setting each section into place. For curly styles like this, you would normally need to curl your hair with a curling iron or a flat iron and pin them up to set and cool. But now you can get the shape, shine, definition, and hold all in one step. Get the tool that will make your flat iron curls so easy in my bio.",
+  "transcript_full_english": "It's beautiful. Right? This is the WavyTalk Whirlwind Pro Airflow Styler and I'm obsessed because you can curl and set your hair all in one pass. It's like getting a new flat iron, but better because you're getting a curling iron and a flat iron in one. But the biggest difference is as you curl or straighten your hair, this tool blows 360 cold airflow out of the sides, setting each section into place. For curly styles like this, you would normally need to curl your hair with a curling iron or a flat iron and pin them up to set and cool. But now you can get the shape, shine, definition, and hold all in one step. Get the tool that will make your flat iron curls so easy in my bio.",
+  "word_count": 127,
+  "speech_starts_at_s": 1.5,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.8,
+    "text": "WAYTALK Whirlwind Pro Pro Airflow Styler",
+    "role": "brand"
+   },
+   {
+    "start_s": 4.0,
+    "end_s": 8.0,
+    "text": "This is the Wavytalk Whirlwind Pro Airflow styler and I'm obsessed because",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.1,
+    "end_s": 10.8,
+    "text": "you can curl and set your hair all in one pass.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 13.5,
+    "text": "It's like getting a new flat iron but better because you're getting a",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.6,
+    "end_s": 16.0,
+    "text": "curling iron and a flat iron in one",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.2,
+    "end_s": 19.5,
+    "text": "But the biggest difference is as you curl or straighten your hair this tool",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.6,
+    "end_s": 24.8,
+    "text": "blows 360 cold airflow out of the sides setting each section into place",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.0,
+    "end_s": 28.0,
+    "text": "For curly styles like this you would normally need to curl your hair with a",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 28.1,
+    "end_s": 31.5,
+    "text": "curling iron or a flat iron and pin them up to set and cool",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 31.8,
+    "end_s": 36.2,
+    "text": "But now you can get the shape, shine, definition, and hold all in one step.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 36.4,
+    "end_s": 39.5,
+    "text": "Get the tool that will make your flat iron curls so easy in my bio",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.5,
+    "shot_type": "medium shot",
+    "visual": "A brunette woman sits in a salon chair smiling, while a male stylist holds up the pink styling tool and then gently lifts one of her freshly styled curls.",
+    "action": "The model smiles and admires the curl saying it is beautiful, while the stylist agrees.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.5,
+    "end_s": 6.5,
+    "shot_type": "medium close-up",
+    "visual": "The hairstylist presents the pink WavyTalk Whirlwind Pro styler directly to the camera, pressing the clamp open and closed.",
+    "action": "The stylist demonstrates the product design and airflow plate mechanism.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.5,
+    "end_s": 10.8,
+    "shot_type": "medium shot",
+    "visual": "The stylist clamps a section of hair near the top, twists the iron, and glides down to produce a bouncy ribbon curl.",
+    "action": "The stylist curls a section in one fluid pass, releasing an instant shiny curl as the client beams.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.8,
+    "end_s": 16.0,
+    "shot_type": "medium close-up",
+    "visual": "Close perspective on the stylist twisting the styler through a strand of hair on the client's right side.",
+    "action": "The tool glides down the strand, illustrating how it curls and straightens simultaneously.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 22.0,
+    "shot_type": "medium shot",
+    "visual": "Stylist styles a front section while the client smiles broadly at the mirror/camera.",
+    "action": "The tool emits cool air as it passes through the hair, locking the curl in immediately upon release.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 25.5,
+    "shot_type": "medium shot",
+    "visual": "Stylist working on face-framing pieces at the crown.",
+    "action": "Clamping and twisting the hair through the barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 31.5,
+    "shot_type": "medium shot",
+    "visual": "Stylist demonstrating another curl rotation on the left side of the client's hair.",
+    "action": "The curl falls freely with high definition and bounce.",
+    "product_visible": true
+   },
+   {
+    "start_s": 31.5,
+    "end_s": 36.2,
+    "shot_type": "medium shot",
+    "visual": "Stylist running hands through the client's hair from behind, lifting and separating the curls into full, voluminous waves.",
+    "action": "The stylist fluffs the voluminous hair result, showcasing shine and movement.",
+    "product_visible": false
+   },
+   {
+    "start_s": 36.2,
+    "end_s": 39.5,
+    "shot_type": "medium shot",
+    "visual": "Final reveal of the client's full blowout-style waves; she smiles warmly and blows a kiss at the camera.",
+    "action": "Stylist shakes out the finished voluminous hair and the client poses happily.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Stylist standing behind seated brunette client holding the pink WavyTalk Whirlwind Pro styler with text overlay 'WAYTALK Whirlwind Pro Pro Airflow Styler'.",
+   "visual_0_3s": "Stylist shows the styling tool next to the client's face, then lifts a bouncy curl while she reacts happily.",
+   "spoken_0_3s": "It's beautiful. Right?",
+   "text_0_3s": "WAYTALK Whirlwind Pro Pro Airflow Styler",
+   "hook_type": "result_first",
+   "hook_type_secondary": "expert_or_hairdresser",
+   "pattern_interrupt": "Instant positive client reaction showing high-gloss, bouncy salon-grade curls right next to the styling tool."
+  },
+  "structure": {
+   "format": "hairdresser_or_expert",
+   "narrative_beats": [
+    "Immediate proof of result and client approval in salon setting",
+    "Product presentation and core functionality introduction (curl and set in one pass)",
+    "2-in-1 value proposition (curling iron and flat iron combined)",
+    "Technical mechanism demonstration (360 cold airflow locking in shape)",
+    "Comparison with traditional tedious methods (curling then pinning to cool)",
+    "Final transformation reveal and call to action to buy"
+   ],
+   "main_angle": "replaces_multiple_tools",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "saves_time",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Curl and set your hair all in one pass",
+    "Curling iron and flat iron in one tool",
+    "Blows 360-degree cold airflow to set each section instantly",
+    "Eliminates the need to pin up curls to cool down",
+    "Provides shape, shine, definition, and hold in one step"
+   ],
+   "pain_points": [
+    "Traditional flat iron curls are hard to master",
+    "Having to pin up curls to cool and set takes extra time and effort",
+    "Needing separate tools for straightening and curling"
+   ],
+   "objections_handled": [
+    "Will the curls hold? (Handled: 360 cool airflow sets the curl instantly)",
+    "Is it complicated? (Handled: demonstrated in single, effortless downward gliding passes)"
+   ],
+   "social_proof": [
+    "Professional salon stylist demonstration",
+    "Client's genuine joyful reaction ('It's beautiful')"
+   ],
+   "comparison_to": "Traditional curling irons, flat irons, and roller/pin-curl setting methods"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Whirlwind Pro Airflow Styler"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 6.5,
+   "final_result_shown_s": 31.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Get the tool that will make your flat iron curls so easy in my bio.",
+   "cta_on_screen": "Get the tool that will make your flat iron curls so easy in my bio",
+   "cta_at_s": 36.4
+  },
+  "talent": {
+   "people_count": 2,
+   "talent_type": "hairdresser_expert",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Long, dark brown hair with natural wave/straight texture partially pre-styled",
+   "hair_after": "Voluminous, glossy, well-defined spiral waves/curls with ample body",
+   "setting": "salon",
+   "faces_camera": true,
+   "energy_tone": "Professional, enthusiastic, confident, and satisfied"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Upbeat, energetic modern instrumental pop backing track",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 4.9,
+   "pacing": "medium",
+   "effects": [
+    "Text overlays",
+    "Burned-in subtitles",
+    "Jump cuts between hair sections"
+   ],
+   "ending": "Client beams, shakes her voluminous hair, and blows a kiss to camera while the stylist fluffs her hair."
+  },
+  "notes": "Ad distributed for Lebanese market featuring an English-language influencer/stylist tutorial originally recorded in a high-end salon. The product promoted is the Whirlwind Pro Airflow Styler."
+ }
+}

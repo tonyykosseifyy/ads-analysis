@@ -1,0 +1,166 @@
+{
+ "media_key": "i_542f30e8a997c73e1d3504d884d51055",
+ "analyzed_at": "2026-11-27T20:55:31+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "ef67638426e013596bdede18c77479c7d67dace366ca812a231a3d53ea0109a7",
+ "source": {
+  "kind": "image",
+  "id": "542f30e8a997c73e1d3504d884d51055"
+ },
+ "role": "rotating",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "Static Black Friday receipt graphic advertising the WavyTalk Salon Pro Duo bundle for $157.00 with a 31% discount.",
+  "full_description": "A static promotional graphic designed to look like a crumpled store receipt against a dark textured burgundy background. At the top of the receipt, the WavyTalk logo appears above 'Black Friday', followed by large bold text '$157.00 | 31% OFF' and a pill badge reading 'You save: $71.99'. Below a dashed dividing line, an itemized table lists 'SALON PRO DUO' (QTY 1) consisting of 'Turblow Pro + Steambrush Pro 2.0'. Below this, studio product renders of both devices in light pastel pink are displayed side-by-side: the Turblow Pro compact hair dryer and the Steambrush Pro 2.0 steam straightening brush emitting visible vapor. A deep purple circular sticker on the right reads 'TODAY ONLY', and barcode receipt cutouts frame the corners.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK Black Friday",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "$157.00 | 31% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "You save: $71.99",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "ITEM QTY",
+    "role": "other"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "SALON PRO DUO 1\nTurblow Pro + Steambrush Pro 2.0",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "TODAY ONLY",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "product shot",
+    "visual": "A promotional receipt graphic showing WavyTalk's Black Friday deal on the Salon Pro Duo bundle, featuring the pink Turblow Pro hair dryer and pink Steambrush Pro 2.0 side-by-side.",
+    "action": "Static image display with price breakdown and product presentation.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Crumpled receipt graphic announcing WavyTalk Black Friday sale with '$157.00 | 31% OFF' and 'TODAY ONLY' badge.",
+   "visual_0_3s": "Crumpled receipt graphic announcing WavyTalk Black Friday sale with '$157.00 | 31% OFF' and 'TODAY ONLY' badge.",
+   "spoken_0_3s": "",
+   "text_0_3s": "WAVYTALK Black Friday $157.00 | 31% OFF You save: $71.99 TODAY ONLY",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "none",
+   "pattern_interrupt": "Receipt voucher design framing high-ticket hair tools as an instant itemized discount."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Present major Black Friday bundle offer ($157.00, 31% off, save $71.99)",
+    "Specify bundle contents: Turblow Pro plus Steambrush Pro 2.0",
+    "Inject urgency with 'TODAY ONLY' badge"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "31% discount saving $71.99 on the Salon Pro Duo bundle",
+    "Bundle includes both Turblow Pro and Steambrush Pro 2.0"
+   ],
+   "pain_points": [
+    "High price of professional styling tools when bought separately"
+   ],
+   "objections_handled": [
+    "Affordability/value handled through direct calculation showing $71.99 total savings"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Turblow Pro",
+    "Steambrush Pro 2.0"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "Black Friday Sale: Salon Pro Duo (Turblow Pro + Steambrush Pro 2.0) for $157.00 (31% off, save $71.99)",
+   "price_mentioned": "$157.00 (was ~$228.99, save $71.99)",
+   "discount_code": "",
+   "urgency": "TODAY ONLY",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "studio",
+   "faces_camera": false,
+   "energy_tone": ""
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "receipt paper texture overlay",
+    "drop shadows",
+    "barcode graphic cuts"
+   ],
+   "ending": ""
+  },
+  "notes": "Static ad creative for WavyTalk Lebanon Black Friday campaign showcasing the Salon Pro Duo bundle."
+ }
+}

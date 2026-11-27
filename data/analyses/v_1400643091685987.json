@@ -1,0 +1,396 @@
+{
+ "media_key": "v_1400643091685987",
+ "analyzed_at": "2026-11-27T19:01:12+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "ee66c086d474f0fc27a56ae7d16808d8ad19d13792762b2cd6e50982515b01d6",
+ "source": {
+  "kind": "video",
+  "id": "1400643091685987",
+  "errors": [
+   "1400643091685987: Gave up after 5 retries: https://graph.facebook.com/v26.0/1400643091685987",
+   "853685137005485: Gave up after 5 retries: https://graph.facebook.com/v26.0/853685137005485"
+  ],
+  "ig_media_id": "18091553761753100",
+  "permalink": "https://www.instagram.com/p/DSbE8qDjGM_/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 40.85,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator transforms thick, textured blow-dried hair into sleek, glossy straight hair using the Wavytalk Steam Straightener Brush.",
+  "full_description": "A creator demonstrates the Wavytalk Steam Straightener Brush step-by-step on her thick blow-dried hair. She begins with a before/after hook comparing voluminous textured hair to pin-straight glossy hair. She fills the water reservoir, sets the temperature, and shows passes through partitioned sections, highlighting the steam release, root reach, and final mirror-like shine.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Let's take my hair from this to this",
+    "text_english": "Let's take my hair from this to this"
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 3.9,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "using the Wavytalk Steam Straightening Brush.",
+    "text_english": "using the Wavytalk Steam Straightening Brush."
+   },
+   {
+    "start_s": 4.0,
+    "end_s": 5.4,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Straightened my hair in half the time.",
+    "text_english": "Straightened my hair in half the time."
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 7.1,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "This tool delivered so much shine.",
+    "text_english": "This tool delivered so much shine."
+   },
+   {
+    "start_s": 7.2,
+    "end_s": 8.7,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Just look at the difference.",
+    "text_english": "Just look at the difference."
+   },
+   {
+    "start_s": 8.8,
+    "end_s": 10.4,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I started off on blow-dried hair,",
+    "text_english": "I started off on blow-dried hair,"
+   },
+   {
+    "start_s": 10.5,
+    "end_s": 12.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "and the first step is to add water to the straightening brush.",
+    "text_english": "and the first step is to add water to the straightening brush."
+   },
+   {
+    "start_s": 12.9,
+    "end_s": 15.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "And you can put the temperature to wherever you see fit.",
+    "text_english": "And you can put the temperature to wherever you see fit."
+   },
+   {
+    "start_s": 15.7,
+    "end_s": 17.7,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I left mine at the highest and I put the steam on.",
+    "text_english": "I left mine at the highest and I put the steam on."
+   },
+   {
+    "start_s": 17.8,
+    "end_s": 19.9,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "And wow, I was blown away.",
+    "text_english": "And wow, I was blown away."
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 22.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Steam helps to protect from heat damage,",
+    "text_english": "Steam helps to protect from heat damage,"
+   },
+   {
+    "start_s": 22.4,
+    "end_s": 23.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "reduces frizz,",
+    "text_english": "reduces frizz,"
+   },
+   {
+    "start_s": 23.7,
+    "end_s": 25.1,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "and really nourishes the hair",
+    "text_english": "and really nourishes the hair"
+   },
+   {
+    "start_s": 25.2,
+    "end_s": 27.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "to deliver that ultimate healthy shine.",
+    "text_english": "to deliver that ultimate healthy shine."
+   },
+   {
+    "start_s": 27.3,
+    "end_s": 29.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Also the design of this straightening tool really helped to cut down straightening time",
+    "text_english": "Also the design of this straightening tool really helped to cut down straightening time"
+   },
+   {
+    "start_s": 29.9,
+    "end_s": 33.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "and allow you to get really close to the roots without touching your scalp.",
+    "text_english": "and allow you to get really close to the roots without touching your scalp."
+   },
+   {
+    "start_s": 33.4,
+    "end_s": 36.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I only needed one to two passes on each section of my hair,",
+    "text_english": "I only needed one to two passes on each section of my hair,"
+   },
+   {
+    "start_s": 36.3,
+    "end_s": 40.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "and I can honestly say the Wavytalk Steam Brush will be my go-to straightener.",
+    "text_english": "and I can honestly say the Wavytalk Steam Brush will be my go-to straightener."
+   }
+  ],
+  "transcript_full_original": "Let's take my hair from this to this using the Wavytalk Steam Straightening Brush. Straightened my hair in half the time. This tool delivered so much shine. Just look at the difference. I started off on blow-dried hair, and the first step is to add water to the straightening brush. And you can put the temperature to wherever you see fit. I left mine at the highest and I put the steam on. And wow, I was blown away. Steam helps to protect from heat damage, reduces frizz, and really nourishes the hair to deliver that ultimate healthy shine. Also the design of this straightening tool really helped to cut down straightening time and allow you to get really close to the roots without touching your scalp. I only needed one to two passes on each section of my hair, and I can honestly say the Wavytalk Steam Brush will be my go-to straightener.",
+  "transcript_full_english": "Let's take my hair from this to this using the Wavytalk Steam Straightening Brush. Straightened my hair in half the time. This tool delivered so much shine. Just look at the difference. I started off on blow-dried hair, and the first step is to add water to the straightening brush. And you can put the temperature to wherever you see fit. I left mine at the highest and I put the steam on. And wow, I was blown away. Steam helps to protect from heat damage, reduces frizz, and really nourishes the hair to deliver that ultimate healthy shine. Also the design of this straightening tool really helped to cut down straightening time and allow you to get really close to the roots without touching your scalp. I only needed one to two passes on each section of my hair, and I can honestly say the Wavytalk Steam Brush will be my go-to straightener.",
+  "word_count": 139,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.0,
+    "text": "Wavy talk Steam Straightener Brush",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.0,
+    "shot_type": "medium shot",
+    "visual": "Creator standing in front of a white wall touching her voluminous blow-dried frizzy textured hair.",
+    "action": "Touches hair showing initial textured state.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 2.0,
+    "shot_type": "medium shot",
+    "visual": "Creator runs her fingers through ultra-glossy, pin-straight sleek hair.",
+    "action": "Shows completed straightened hair result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 3.0,
+    "shot_type": "close-up",
+    "visual": "Pink Wavytalk steam brush running through a strand of dark hair, leaving it glossy and straight.",
+    "action": "Brushing down a strand of hair with the hot tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 4.0,
+    "shot_type": "close-up",
+    "visual": "Creator holding the bristles and steam comb surface of the pink brush up to camera.",
+    "action": "Shows brush teeth and steam chamber to camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.0,
+    "end_s": 5.7,
+    "shot_type": "medium shot",
+    "visual": "Creator brushing through the straightened side of her hair.",
+    "action": "Demonstrates smooth glide through hair length.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.7,
+    "end_s": 8.7,
+    "shot_type": "medium shot",
+    "visual": "Half-and-half side comparison: one side voluminous and textured, one side flat, silky straight.",
+    "action": "Creator turns head side to side to emphasize dramatic difference.",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 12.8,
+    "shot_type": "medium shot / product demo",
+    "visual": "Creator detaches water reservoir and injects water into the brush chamber using a dropper bottle.",
+    "action": "Refills steam water tank and snaps it back in.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 13.9,
+    "shot_type": "close-up",
+    "visual": "Creator displays the comb side of the device facing the camera.",
+    "action": "Points out bristle comb structure.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.9,
+    "end_s": 20.0,
+    "shot_type": "close-up / medium shot",
+    "visual": "Creator sections hair on top of head into a bun, slowly pulling the steam brush from root to tip.",
+    "action": "Straightens a lower section in one pass, showing steam rising and smooth result.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 24.5,
+    "shot_type": "medium shot / close-up",
+    "visual": "Creator continues running the brush over longer mid-sections with visible shine reflection.",
+    "action": "Glides brush along hair shaft.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 27.1,
+    "shot_type": "medium shot",
+    "visual": "Side-by-side comparison again showing unstraightened side vs straightened side.",
+    "action": "Pauses to highlight stark contrast in texture and volume.",
+    "product_visible": false
+   },
+   {
+    "start_s": 27.1,
+    "end_s": 33.3,
+    "shot_type": "medium shot",
+    "visual": "Straightening the front hairline and root sections close to the scalp.",
+    "action": "Gently brushes right at the scalp roots without burning skin.",
+    "product_visible": true
+   },
+   {
+    "start_s": 33.3,
+    "end_s": 40.85,
+    "shot_type": "medium shot",
+    "visual": "Final reveal: fully straightened, silky, shiny hair flowing over creator's shoulders as she holds up the brush with a smile.",
+    "action": "Creator poses, turns head showing glossy hair flow, and holds up the brush.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing thick, frizzy, blown-out dark hair with text 'Wavy talk Steam Straightener Brush'.",
+   "visual_0_3s": "Fast cuts switching immediately from frizzy textured hair to super silky straightened hair, followed by a close-up demo pass.",
+   "spoken_0_3s": "Let's take my hair from this to this using the Wavytalk Steam Straightening Brush.",
+   "text_0_3s": "Wavy talk Steam Straightener Brush",
+   "hook_type": "before_after",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Rapid jump cut from puffed, frizzy blow-dry to ultra sleek, glassy straight hair within 1 second."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Before/after hook comparing raw texture to sleek finish",
+    "Initial half-head difference check",
+    "Preparation: filling water reservoir and setting heat/steam mode",
+    "Step-by-step straightening demonstration on sectioned hair",
+    "Key benefits explained: steam heat protection, anti-frizz, root closeness",
+    "Final look showcase with high-gloss finish"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "saves_time",
+    "less_heat_damage",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Straightens hair in half the time",
+    "Steam protects from heat damage and reduces frizz",
+    "Delivers ultimate healthy shine",
+    "Gets close to roots without scalding scalp",
+    "Only requires 1-2 passes per section"
+   ],
+   "pain_points": [
+    "Frizzy blow-dried textured hair",
+    "Lengthy straightening sessions",
+    "Heat damage from conventional flat irons",
+    "Burning scalp when trying to straighten roots"
+   ],
+   "objections_handled": [
+    "Will it work on thick/coarse hair? (Handled by showing clear one-pass transformation)",
+    "Does it burn the scalp? (Addressed by demonstrating safe root application)",
+    "Will it fry hair? (Addressed by steam hydration mechanism)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional flat irons / conventional straighteners"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steam Straightener Brush"
+   ],
+   "first_seen_s": 2.0,
+   "first_used_on_hair_s": 2.0,
+   "final_result_shown_s": 1.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20s",
+   "hair_before": "Thick, long, dark brown/black blown-out frizzy textured hair",
+   "hair_after": "Ultra sleek, high-shine, silky pin-straight dark hair",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "calm, instructional, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle upbeat lo-fi instrumental backing track under clear spoken voiceover",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 13,
+   "avg_shot_length_s": 3.14,
+   "pacing": "medium",
+   "effects": [
+    "Jump cuts",
+    "Split-section contrast"
+   ],
+   "ending": "Creator presents shiny straightened hair flowing over shoulders while holding the pink steam brush."
+  },
+  "notes": "Targeted UGC format demonstrating high efficacy of the Wavytalk Steam Straightening Brush on thick textured hair."
+ }
+}

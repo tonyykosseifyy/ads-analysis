@@ -1,0 +1,277 @@
+{
+ "media_key": "v_1982539605749352",
+ "analyzed_at": "2026-11-27T20:37:01+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "295e516af6e552937ff8a0534c6e1e214c41d9c2e8b28ae37535f109b3209b06",
+ "source": {
+  "kind": "video",
+  "id": "1982539605749352",
+  "errors": [
+   "1982539605749352: 400 (#10) Application does not have permission for this action"
+  ],
+  "video_id": "1670417677397387",
+  "length_s": 25.133,
+  "permalink": "/122152625727061607/videos/1670417677397387?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 25.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator demos how to achieve a blowout look on short hair using the WavyTalk Airflow Curler (Whirlwind Curl).",
+  "full_description": "A young woman with shoulder-length reddish-plum hair demonstrates using the WavyTalk Airflow Curler (Whirlwind Curl) to create a blowout look instead of tight curls. She explains its versatility for straightening, shaping waves, and setting style with cool air, finishing with a discount code callout and CTA to order from wavytalk.lb.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 75,
+    "en": 25,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.9,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "يلا نعمل شعري مرة تانية",
+    "text_english": "Let's do my hair one more time."
+   },
+   {
+    "start_s": 1.9,
+    "end_s": 5.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "كمان عم بستعمل WavyTalk Airflow Curler بس هالمرة مش لنعمل curls",
+    "text_english": "I'm also using the WavyTalk Airflow Curler, but this time not to make curls."
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 8.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "عم جرب أعمل mimic للـ blowout look خصوصي إنه شعري قصير",
+    "text_english": "I'm trying to mimic the blowout look, especially since my hair is short."
+   },
+   {
+    "start_s": 8.9,
+    "end_s": 12.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "هلا الحلو بالـ Airflow Curler من WavyTalk إنه فينا نستعمله لنعمل كذا style",
+    "text_english": "Now the nice thing about the Airflow Curler from WavyTalk is that we can use it to create multiple styles."
+   },
+   {
+    "start_s": 12.6,
+    "end_s": 14.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "First, straight.",
+    "text_english": "First, straight."
+   },
+   {
+    "start_s": 14.1,
+    "end_s": 19.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Second فينا نلعب بالـ waves متل ما بدنا whether we want them on a certain part of our hair أو على كل شعرنا",
+    "text_english": "Second, we can play with the waves however we want, whether we want them on a certain part of our hair or all over our hair."
+   },
+   {
+    "start_s": 19.3,
+    "end_s": 21.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "والـ curl بتثبت لأنه بيطلّع هواء بارد",
+    "text_english": "And the curl sets because it blows out cool air."
+   },
+   {
+    "start_s": 21.8,
+    "end_s": 25.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "فـ ليكو the final hair, and order yours today من WavyTalk",
+    "text_english": "So look at the final hair, and order yours today from WavyTalk."
+   }
+  ],
+  "transcript_full_original": "يلا نعمل شعري مرة تانية كمان عم بستعمل WavyTalk Airflow Curler بس هالمرة مش لنعمل curls عم جرب أعمل mimic للـ blowout look خصوصي إنه شعري قصير هلا الحلو بالـ Airflow Curler من WavyTalk إنه فينا نستعمله لنعمل كذا style First, straight. Second فينا نلعب بالـ waves متل ما بدنا whether we want them on a certain part of our hair أو على كل شعرنا والـ curl بتثبت لأنه بيطلّع هواء بارد فـ ليكو the final hair, and order yours today من WavyTalk",
+  "transcript_full_english": "Let's do my hair one more time. I'm also using the WavyTalk Airflow Curler, but this time not to make curls. I'm trying to mimic the blowout look, especially since my hair is short. Now the nice thing about the Airflow Curler from WavyTalk is that we can use it to create multiple styles. First, straight. Second, we can play with the waves however we want, whether we want them on a certain part of our hair or all over our hair. And the curl sets because it blows out cool air. So look at the final hair, and order yours today from WavyTalk.",
+  "word_count": 68,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 25.0,
+    "text": "ANGELZ10\nat wavytalk.lb",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.9,
+    "shot_type": "medium shot",
+    "visual": "Creator standing facing camera holding a pink hair tool in her hand, smiling.",
+    "action": "Talking directly to camera while holding styling tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.9,
+    "end_s": 3.8,
+    "shot_type": "close-up",
+    "visual": "Close-up of creator holding up the pink WavyTalk Airflow Curler showing the temperature digital display screen.",
+    "action": "Showing the airflow styling tool and temperature screen to the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 8.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator with top half of hair pinned up, clamping the lower strand with the tool and curling it inward.",
+    "action": "Styling lower section of hair inward for a blowout bevel effect.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 11.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator glides the styler down a front strand, curving at the ends.",
+    "action": "Demonstrating how to smooth down and bevel the hair ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 12.8,
+    "shot_type": "medium shot",
+    "visual": "Creator holds the tool in one hand and gestures through her styled hair with the other.",
+    "action": "Explaining the multi-styling versatility of the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 16.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator glides the tool through another hair strand, twisting slightly to show wave shape.",
+    "action": "Curling and waving hair sections.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.7,
+    "end_s": 19.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the other side around face, twisting tool to shape the front layers.",
+    "action": "Shaping front fringe layers with the styler.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.5,
+    "end_s": 21.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator running fingers through styled hair, showing the bounce and smooth texture.",
+    "action": "Ruffling and showcasing the styled side of her hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.8,
+    "end_s": 25.0,
+    "shot_type": "medium shot",
+    "visual": "Creator holding the styler like a microphone/prop, winking and showing the completed bouncy blowout look.",
+    "action": "Posing, smiling, and gesturing with the product towards camera.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera wearing olive tank top with pink styler in hand and discount overlay.",
+   "visual_0_3s": "Creator addresses camera and immediately cuts to a close-up of the styler's body and display.",
+   "spoken_0_3s": "يلا نعمل شعري مرة تانية كمان عم بستعمل WavyTalk Airflow Curler",
+   "text_0_3s": "ANGELZ10 at wavytalk.lb",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "product_reveal",
+   "pattern_interrupt": "Quick cut from intro speech to tight product close-up at 1.9s."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Casual greeting and session announcement",
+    "Product display and alternative styling premise (blowout look instead of tight curls)",
+    "Step-by-step demonstration of smoothing and curling ends",
+    "Feature highlight: cool airflow technology locks styling in place",
+    "Final look showcase with discount code call to action"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "replaces_multiple_tools",
+    "volume_and_bounce",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Can mimic a blowout look even on short hair",
+    "Multi-functional tool: does straight hair and versatile waves",
+    "Cool airflow sets the curls effectively"
+   ],
+   "pain_points": [
+    "Blowout styling on short hair can be difficult with regular curling irons"
+   ],
+   "objections_handled": [
+    "Short hair styling versatility",
+    "Curls dropping (cool air lock fixes style)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional curling wand / single-purpose curlers"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Whirlwind Curl / Airflow Curler"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 3.8,
+   "final_result_shown_s": 21.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Discount with code ANGELZ10",
+   "price_mentioned": "",
+   "discount_code": "ANGELZ10",
+   "urgency": "today",
+   "cta_spoken": "and order yours today من WavyTalk",
+   "cta_on_screen": "at wavytalk.lb",
+   "cta_at_s": 22.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "ANGEL",
+   "age_range": "20-25",
+   "hair_before": "Short shoulder-length reddish-plum bob, slightly unruly",
+   "hair_after": "Smooth, beveled inward blowout look with flipped face-framing layers",
+   "setting": "Indoor living room/apartment with bright natural light",
+   "faces_camera": true,
+   "energy_tone": "Casual, upbeat, friendly, peer-to-peer"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat background instrumental track playing under dialogue",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 2.8,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator smiling, winking, and holding up the tool in final pose"
+  },
+  "notes": "Features constant on-screen promo code ANGELZ10 directing traffic to wavytalk.lb."
+ }
+}

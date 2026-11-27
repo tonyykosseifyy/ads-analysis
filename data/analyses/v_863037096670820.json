@@ -1,0 +1,198 @@
+{
+ "media_key": "v_863037096670820",
+ "analyzed_at": "2026-11-27T20:46:14+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "0469b5e5857e6262dcc16907f9e732ed69cb0e80139b14ba0a3ded8544c917e8",
+ "source": {
+  "kind": "video",
+  "id": "863037096670820",
+  "errors": [
+   "863037096670820: Gave up after 5 retries: https://graph.facebook.com/v26.0/863037096670820"
+  ],
+  "video_id": "1513985047084430",
+  "length_s": 20.502,
+  "permalink": "/23849366283980795/videos/1513985047084430/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 20.94,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A mother styles her short bob haircut quickly using the Wavytalk Blowout Boost heated round brush set to background music.",
+  "full_description": "A woman stands in front of a mirror/camera in a casual sweater demonstrating how she styles her short brown bob quickly. A text hook introduces the video as a 'Busy mom blowout... but make it fast ft. Wavytalk Blowout Boost'. She shows the thermal round brush, sections her hair, and curls sections under to create volume, bounce, and flipped ends. She finishes by running her fingers through her hair and smiling, showing the polished, voluminous final bob result.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.3,
+    "text": "Busy mom blowout... but make it fast ft. Wavytalk Blowout Boost",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.7,
+    "shot_type": "medium shot",
+    "visual": "A woman with short, straight brown hair faces the camera holding up the Wavytalk Blowout Boost thermal round brush.",
+    "action": "Creator holds up the styling tool towards the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 3.0,
+    "shot_type": "medium shot",
+    "visual": "The woman sections the top half of her hair and clips it back.",
+    "action": "Creator prepares her hair into sections for styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 5.7,
+    "shot_type": "medium close-up",
+    "visual": "The woman styles the lower section of her bob with the heated round brush.",
+    "action": "She brushes and curls the bottom layer under towards her neck.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.7,
+    "end_s": 9.4,
+    "shot_type": "medium close-up",
+    "visual": "She releases a middle section of hair and curls it with the brush.",
+    "action": "Brushing through the side strands and lifting at the root for volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.4,
+    "end_s": 11.2,
+    "shot_type": "medium close-up",
+    "visual": "Styling the side and back layers with the brush curling inward.",
+    "action": "Curling the side strands under, releasing bouncy rounded ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 13.9,
+    "shot_type": "medium shot",
+    "visual": "Styling the top crown section and fringe area backwards.",
+    "action": "Rolling the top section backward over the heated brush for root lift.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.9,
+    "end_s": 15.6,
+    "shot_type": "medium shot",
+    "visual": "Styling the final side framing pieces around her face.",
+    "action": "Curling hair inward towards the cheekbone.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 20.94,
+    "shot_type": "medium shot",
+    "visual": "The final styled short bob look with smooth bounce and rounded ends.",
+    "action": "Creator shakes out her hair, fluffs it with both hands, checks her reflection, and smiles proudly at the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Woman in a beige sweatshirt with text overlay 'Busy mom blowout... but make it fast ft. Wavytalk Blowout Boost'.",
+   "visual_0_3s": "Woman shows the Wavytalk Blowout Boost heated round brush directly to the camera and clips her hair.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Busy mom blowout... but make it fast ft. Wavytalk Blowout Boost",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Quick cut from showing the tool to rapid step-by-step styling."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Relatable hook targeting busy moms needing a quick blowout",
+    "Quick product showcase",
+    "Step-by-step sectioning and styling demonstration",
+    "Final bouncy blowout result reveal and satisfaction reaction"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Fast blowout routine suitable for busy moms"
+   ],
+   "pain_points": [
+    "Lack of time for full salon blowouts",
+    "Flat, unstyled short hair"
+   ],
+   "objections_handled": [
+    "Can short bob haircuts be styled easily with a thermal brush?"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 0.5,
+   "first_used_on_hair_s": 3.0,
+   "final_result_shown_s": 15.6,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Short brown blunt bob, straight and slightly flat",
+   "hair_after": "Voluminous, styled rounded bob with turned-under bouncy ends",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "casual, upbeat, relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat pop song playing with female vocals ('I'm walking on sunshine... holding your hand, and you're putting stars in my eyes...')",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 2.99,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator touches up her hair, smiles widely into the camera, and poses."
+  },
+  "notes": "Fast-paced TikTok/Reels style routine demo targeting women with short bob hairstyles looking for quick morning styling solutions."
+ }
+}

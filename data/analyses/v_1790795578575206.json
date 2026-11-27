@@ -1,0 +1,250 @@
+{
+ "media_key": "v_1790795578575206",
+ "analyzed_at": "2026-11-27T19:32:45+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "1c3f562036ee381051a5ae586e349964e44ab7171ac9591005da22be026fb338",
+ "source": {
+  "kind": "video",
+  "id": "1790795578575206",
+  "errors": [
+   "1790795578575206: Gave up after 5 retries: https://graph.facebook.com/v26.0/1790795578575206",
+   "1544273923754977: Gave up after 5 retries: https://graph.facebook.com/v26.0/1544273923754977"
+  ],
+  "ig_media_id": "18134641705584314",
+  "permalink": "https://www.instagram.com/p/DZhnwsMjKSN/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 36.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates a quick blowout tutorial using the Wavytalk thermal round brush, showcasing before/after volume and a 20% discount offer.",
+  "full_description": "A silent UGC tutorial ad featuring a young woman demonstrating how to achieve a bouncy blowout at home using the Wavytalk thermal round brush. She starts by presenting her finished hair with a hook overlay promising a '10 minute hair blowout routine'. She then presents the pink Wavytalk heated brush and provides a step-by-step demonstration: wrapping hair around the barrel, gently pulling down, and twisting to release. She displays a half-and-half comparison highlighting the voluminous styled side versus the flat side ('look at the difference!'), finishes the other side while a 20% discount callout appears, and concludes with a flirty showcase of the final voluminous look captioned 'I'm Obsessed'.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.0,
+    "text": "10 minute hair blowout routine",
+    "role": "hook"
+   },
+   {
+    "start_s": 4.2,
+    "end_s": 5.9,
+    "text": "wrap hair around the brush",
+    "role": "other"
+   },
+   {
+    "start_s": 6.0,
+    "end_s": 8.8,
+    "text": "gently pull brush down",
+    "role": "other"
+   },
+   {
+    "start_s": 8.9,
+    "end_s": 12.0,
+    "text": "twist and release",
+    "role": "other"
+   },
+   {
+    "start_s": 12.1,
+    "end_s": 18.0,
+    "text": "& repeat <3",
+    "role": "other"
+   },
+   {
+    "start_s": 18.1,
+    "end_s": 21.8,
+    "text": "look at the difference!",
+    "role": "benefit"
+   },
+   {
+    "start_s": 21.9,
+    "end_s": 33.5,
+    "text": "it's up to 20% off",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 33.6,
+    "end_s": 36.0,
+    "text": "I'm Obsessed",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.0,
+    "shot_type": "medium shot",
+    "visual": "Young woman in a blue t-shirt with her back to camera showing her styled hair, then turning around and smiling.",
+    "action": "Creator turns from back to front, running her hands through her blowout hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 4.2,
+    "shot_type": "close-up",
+    "visual": "Creator holds the pink Wavytalk thermal round brush in front of her face.",
+    "action": "Product reveal showing the brush barrel and digital screen directly to camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.2,
+    "end_s": 8.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling a front hair section with the heated round brush.",
+    "action": "She wraps the hair section around the brush barrel and glides it down smoothly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.8,
+    "end_s": 12.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator twisting the tool out of the hair lock.",
+    "action": "She rotates the brush and releases a styled, curled strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 18.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling another layer of hair on the same side.",
+    "action": "She styles the piece and lifts the curled lock with her fingers, smiling.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 21.8,
+    "shot_type": "medium shot",
+    "visual": "Creator standing facing the camera displaying styled vs unstyled half.",
+    "action": "She gestures at the voluminous side versus the flat unstyled side, smiling with satisfaction.",
+    "product_visible": false
+   },
+   {
+    "start_s": 21.8,
+    "end_s": 32.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the opposite side of her hair with the brush.",
+    "action": "She wraps strands, pulls through, and releases curls repeatedly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 32.0,
+    "end_s": 36.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the brush next to her face, touching her full, voluminous blowout.",
+    "action": "She tilts her head, smiles into camera, and winks playfully.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Back view of a brunette woman with layered hair turning toward the camera with the text '10 minute hair blowout routine'.",
+   "visual_0_3s": "Woman turns around to face the camera, smiling and presenting her bouncy, shiny hair.",
+   "spoken_0_3s": "",
+   "text_0_3s": "10 minute hair blowout routine",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Quick motion turn-around revealing the finished bouncy blowout followed immediately by a product pop."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Result hook showing 10-minute blowout outcome",
+    "Product presentation of the thermal brush",
+    "Step-by-step tutorial instructions (wrap, pull, twist & release)",
+    "Half-and-half side-by-side comparison showing instant transformation",
+    "Styling remaining hair with discount promotion overlay",
+    "Final satisfied result and endorsement"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "easy_for_beginners",
+    "volume_and_bounce",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Full blowout routine achievable in 10 minutes",
+    "Easy 3-step technique: wrap, pull down, twist and release",
+    "Up to 20% off discount available"
+   ],
+   "pain_points": [
+    "Blowouts take too long with traditional round brush and blow dryer",
+    "Flat, lifeless hair lacking volume and shape",
+    "Difficulty coordinating a separate dryer and round brush"
+   ],
+   "objections_handled": [
+    "Hard to use: demonstrated simply in 3 clear steps on camera",
+    "Time consuming: specifically claimed to take only 10 minutes"
+   ],
+   "social_proof": [
+    "Personal creator endorsement ('I'm Obsessed')"
+   ],
+   "comparison_to": "Unstyled flat side of hair (half-and-half comparison)"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 3.0,
+   "first_used_on_hair_s": 4.2,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Up to 20% off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Medium-long, straight/wavy brunette hair with lighter brown balayage tips, flat and unstyled on one side",
+   "hair_after": "Voluminous, bouncy blowout with smooth texture and flipped/curled ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Warm, confident, playful, and instructive"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat R&B/hip-hop background track with female vocal loops and a steady rhythm.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 4.5,
+   "pacing": "medium",
+   "effects": [
+    "Text overlays",
+    "Jump cuts between styling steps"
+   ],
+   "ending": "Creator holding the thermal brush smiling, tilting her head and winking with 'I'm Obsessed' text."
+  },
+  "notes": "Silent tutorial video optimized for sound-off viewing using clear step-by-step instruction text overlays and visual before/after contrast. Linked product is the Wavytalk Blowout Boost thermal round brush for the Lebanon market."
+ }
+}

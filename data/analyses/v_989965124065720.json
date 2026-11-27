@@ -1,0 +1,159 @@
+{
+ "media_key": "v_989965124065720",
+ "analyzed_at": "2026-11-27T18:43:43+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "8ec1224a7f24c7b43f38252352ca491b4ec60185116f72398faa9dd6ca170921",
+ "source": {
+  "kind": "video",
+  "id": "989965124065720",
+  "video_id": "1378681590907339",
+  "length_s": 15.1,
+  "permalink": "/23849366283980795/videos/1378681590907339/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 14.73,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates achieving voluminous blowout curls using an orange Wavytalk thermal brush instead of a blow dryer and round brush.",
+  "full_description": "A vertical UGC tutorial video featuring a young woman demonstrating how to use a thermal blowout brush to style bouncy curls. Overlaid text suggests ditching the traditional blow dryer and round brush routine in favor of a thermal brush. She curls different sections of her long brown hair, twisting and releasing shiny, bouncy blowout curls in front of her vanity mirror to background music.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 14.73,
+    "text": "part of your 2026 rebrand: ditch the blow dryer + round brush. get a thermal brush",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "shot_type": "medium close-up",
+    "visual": "Young woman in a blue tank top curling a front section of hair with an orange thermal brush.",
+    "action": "She unwinds the thermal brush downwards, revealing a defined spiral blowout wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 6.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushing through another section around mid-length while touching the curled locks.",
+    "action": "She brushes through and twirls another hair section, admiring the bounce and volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.2,
+    "end_s": 12.0,
+    "shot_type": "medium shot",
+    "visual": "Side angle showing her hair parted into sections with hair clips while she styles lower layers.",
+    "action": "She places the thermal brush near the ends of a parted lower strand, rolls upward, holds, and slides down.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 14.73,
+    "shot_type": "medium shot",
+    "visual": "Side view curling another section, showing layered, bouncy curls cascading over her shoulder.",
+    "action": "She twists the heated round brush through a curl and lets it drop, revealing smooth, shiny waves.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Close-up of creator pulling an orange thermal brush down through a section of dark hair, with a text overlay at the top.",
+   "visual_0_3s": "The creator rolls and releases an orange thermal brush, instantly demonstrating a defined blowout curl.",
+   "spoken_0_3s": "",
+   "text_0_3s": "part of your 2026 rebrand: ditch the blow dryer + round brush. get a thermal brush",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Immediate quick curl drop showing immediate salon blowout result within the first 2 seconds."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Hook calling to replace blow dryer and round brush with a thermal brush",
+    "Demonstration of fast, bouncy curling technique on sectioned hair",
+    "Showcasing bouncy, voluminous blowout finish"
+   ],
+   "main_angle": "replaces_multiple_tools",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Replaces the need for a separate blow dryer and round brush"
+   ],
+   "pain_points": [
+    "Difficulty managing both a blow dryer and round brush simultaneously"
+   ],
+   "objections_handled": [
+    "Can a single heated brush achieve the same bounce as a salon blowout?"
+   ],
+   "social_proof": [],
+   "comparison_to": "blow dryer + round brush"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush (Blowout Boost)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 1.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, smooth dark brown hair parted and sectioned for styling",
+   "hair_after": "Voluminous, bouncy salon-style blowout curls with high shine",
+   "setting": "bedroom",
+   "faces_camera": false,
+   "energy_tone": "aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Trending melodic pop/R&B track with female vocals singing 'I'm right where he wants me...'",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 3,
+   "avg_shot_length_s": 3.68,
+   "pacing": "medium",
+   "effects": [],
+   "ending": "Cut off mid-styling action as she curls another section."
+  },
+  "notes": "Ad utilizes a trending aesthetic format pairing a relatable lifestyle/rebrand text prompt with seamless demonstration of the tool's effectiveness."
+ }
+}

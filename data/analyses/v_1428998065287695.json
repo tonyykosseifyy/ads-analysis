@@ -1,0 +1,630 @@
+{
+ "media_key": "v_1428998065287695",
+ "analyzed_at": "2026-11-27T19:50:05+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "099f20f26fd8faf9e382413f77412eaeffe2a9ad9b1425d8b38b4ea64f3a8696",
+ "source": {
+  "kind": "video",
+  "id": "1428998065287695",
+  "video_id": "919240671277806",
+  "length_s": 59.65,
+  "permalink": "/23849366283980795/videos/919240671277806/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 59.9,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator demonstrates styling her naturally curly hair into a bouncy salon blowout using the Wavytalk thermal brush in just 12 minutes.",
+  "full_description": "The ad features a young woman in her modern bathroom holding the pink Wavytalk thermal brush (Blowout Boost). She starts by stating she will create a styled blowout look using the tool. Beginning with her curtain bangs, she demonstrates sectioning her hair, brushing upward, and tilting the brush to create volume and curls. She showcases how full and shiny her hair looks before styling the rest in sections, emphasizing that the heated round brush is gentle on curly hair and does not snag or break it. Finally, she reveals her completed voluminous blowout, mentions it took only 12 minutes, recommends it to all girls, and provides a call to action with on-screen pointing arrows to purchase via the link below.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 50,
+    "en": 50,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en",
+    "arabizi"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "رح أعمل this look using Wavytalk's thermal brush.",
+    "text_english": "I'm going to do this look using Wavytalk's thermal brush."
+   },
+   {
+    "start_s": 3.3,
+    "end_s": 5.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أول شي ح بلش ب my bangs.",
+    "text_english": "First thing, I will start with my bangs."
+   },
+   {
+    "start_s": 5.2,
+    "end_s": 6.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "رح أقسمهن in two.",
+    "text_english": "I will divide them in two."
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 9.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "ولازم always to brush your hair up.",
+    "text_english": "And you always have to brush your hair up."
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 13.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "لتعطيكن the results you want.",
+    "text_english": "To give you the results you want."
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 17.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "I will tilt it شوي to get the curl I want.",
+    "text_english": "I will tilt it a bit to get the curl I want."
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 20.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "شوفوا شعري شو صار عبي و glowy.",
+    "text_english": "Look at my hair, how full and glowy it became."
+   },
+   {
+    "start_s": 22.3,
+    "end_s": 24.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وهلا ح كفي على the rest.",
+    "text_english": "And now I'll continue on the rest."
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 27.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وعملوا the same thing متل الـ bangs.",
+    "text_english": "And do the same thing like the bangs."
+   },
+   {
+    "start_s": 27.2,
+    "end_s": 29.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's so gentle on my curly hair.",
+    "text_english": "It's so gentle on my curly hair."
+   },
+   {
+    "start_s": 29.5,
+    "end_s": 32.2,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "ما بحسها عم تقطشلي شعري.",
+    "text_english": "I don't feel like it breaks my hair."
+   },
+   {
+    "start_s": 32.2,
+    "end_s": 35.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وكل ما تصغروا الـ section كل ما تعطيكن a better finishing.",
+    "text_english": "And the smaller you make the section, the better finishing it gives you."
+   },
+   {
+    "start_s": 35.8,
+    "end_s": 38.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بس it can always handle big sections.",
+    "text_english": "But it can always handle big sections."
+   },
+   {
+    "start_s": 38.0,
+    "end_s": 41.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And this here is the final look.",
+    "text_english": "And this here is the final look."
+   },
+   {
+    "start_s": 42.4,
+    "end_s": 45.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I can't get enough of how beautiful it looks.",
+    "text_english": "I can't get enough of how beautiful it looks."
+   },
+   {
+    "start_s": 45.4,
+    "end_s": 47.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وأخدتني 12 minutes only.",
+    "text_english": "And it took me 12 minutes only."
+   },
+   {
+    "start_s": 47.5,
+    "end_s": 51.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I definitely recommend this brush to all my girls out there.",
+    "text_english": "I definitely recommend this brush to all my girls out there."
+   },
+   {
+    "start_s": 51.0,
+    "end_s": 53.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Buy it now from the link below.",
+    "text_english": "Buy it now from the link below."
+   }
+  ],
+  "transcript_full_original": "رح أعمل this look using Wavytalk's thermal brush. أول شي ح بلش ب my bangs. رح أقسمهن in two. ولازم always to brush your hair up. لتعطيكن the results you want. I will tilt it شوي to get the curl I want. شوفوا شعري شو صار عبي و glowy. وهلا ح كفي على the rest. وعملوا the same thing متل الـ bangs. It's so gentle on my curly hair. ما بحسها عم تقطشلي شعري. وكل ما تصغروا الـ section كل ما تعطيكن a better finishing. بس it can always handle big sections. And this here is the final look. I can't get enough of how beautiful it looks. وأخدتني 12 minutes only. I definitely recommend this brush to all my girls out there. Buy it now from the link below.",
+  "transcript_full_english": "I'm going to do this look using Wavytalk's thermal brush. First thing, I will start with my bangs. I will divide them in two. And you always have to brush your hair up. To give you the results you want. I will tilt it a bit to get the curl I want. Look at my hair, how full and glowy it became. And now I'll continue on the rest. And do the same thing like the bangs. It's so gentle on my curly hair. I don't feel like it breaks my hair. And the smaller you make the section, the better finishing it gives you. But it can always handle big sections. And this here is the final look. I can't get enough of how beautiful it looks. And it took me 12 minutes only. I definitely recommend this brush to all my girls out there. Buy it now from the link below.",
+  "word_count": 131,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "text": "rah aaml",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 2.1,
+    "text": "this look",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 3.0,
+    "text": "wavytalk's",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 3.9,
+    "text": "thermal brush",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.9,
+    "end_s": 5.4,
+    "text": "hatballesh b my bangs",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 6.8,
+    "text": "r72somowon in 2",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 8.0,
+    "text": "w lezim always",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 9.1,
+    "text": "to brush",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.1,
+    "end_s": 10.3,
+    "text": "your hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.3,
+    "end_s": 11.2,
+    "text": "up",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 12.3,
+    "text": "la taatikon",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 13.5,
+    "text": "the results",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 14.1,
+    "text": "you want",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.1,
+    "end_s": 15.1,
+    "text": "I will tilt it",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.1,
+    "end_s": 15.8,
+    "text": "shway",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.8,
+    "end_s": 16.5,
+    "text": "to get the curl",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 17.5,
+    "text": "I want",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 18.6,
+    "text": "choufo cha3re",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.6,
+    "end_s": 19.5,
+    "text": "chou sar 3abe",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.5,
+    "end_s": 21.0,
+    "text": "w glowy",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.3,
+    "end_s": 23.5,
+    "text": "W now ha kaffe",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 24.8,
+    "text": "aala the rest",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 24.8,
+    "end_s": 26.0,
+    "text": "w3melo the same thing",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 26.0,
+    "end_s": 27.2,
+    "text": "mtl l bangs",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 27.2,
+    "end_s": 28.5,
+    "text": "Its so gentle",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 30.1,
+    "text": "on my curly hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 30.1,
+    "end_s": 30.9,
+    "text": "Ma bhessa",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 30.9,
+    "end_s": 31.9,
+    "text": "aam teatleshle",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 31.9,
+    "end_s": 32.7,
+    "text": "shaare",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 32.7,
+    "end_s": 33.7,
+    "text": "I section",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 33.7,
+    "end_s": 34.6,
+    "text": "kel ma taatikon",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 34.6,
+    "end_s": 35.8,
+    "text": "a better finishing",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 35.8,
+    "end_s": 36.6,
+    "text": "Bas it can always",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 36.6,
+    "end_s": 37.8,
+    "text": "handle big sections",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 37.8,
+    "end_s": 39.1,
+    "text": "and this here",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 39.1,
+    "end_s": 42.0,
+    "text": "is the final look",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 42.4,
+    "end_s": 44.0,
+    "text": "I cant get enough",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 44.0,
+    "end_s": 45.4,
+    "text": "of how beautiful",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 45.4,
+    "end_s": 46.0,
+    "text": "it looks",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 46.0,
+    "end_s": 46.8,
+    "text": "w it took me",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 46.8,
+    "end_s": 48.0,
+    "text": "12 mins only",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 48.0,
+    "end_s": 49.3,
+    "text": "I definitely recommend",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 49.3,
+    "end_s": 50.1,
+    "text": "this brush",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 50.1,
+    "end_s": 51.2,
+    "text": "to all my girls",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 51.2,
+    "end_s": 52.0,
+    "text": "out there",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 52.0,
+    "end_s": 52.8,
+    "text": "buy it now",
+    "role": "cta"
+   },
+   {
+    "start_s": 52.8,
+    "end_s": 54.0,
+    "text": "from the link below",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.3,
+    "shot_type": "medium shot",
+    "visual": "Creator standing in front of a bathroom mirror holding the pink thermal brush, introducing the styling video.",
+    "action": "Talking to the camera while holding the brush and gesturing toward her hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.3,
+    "end_s": 6.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator preparing her bangs in the bathroom mirror.",
+    "action": "Sectioning her curtain bangs into two parts with her fingers.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 17.5,
+    "shot_type": "medium close-up",
+    "visual": "Mirror shot of creator styling her front fringe with the thermal round brush.",
+    "action": "Brushing her hair upwards, rolling the brush through the bangs, tilting it, and releasing a curled voluminous fringe.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 22.3,
+    "shot_type": "close-up",
+    "visual": "Creator admiring the front result in the mirror.",
+    "action": "Touching her styled bangs and giving an OK hand gesture showing satisfaction with the volume and shine.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.3,
+    "end_s": 38.0,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the side lengths of her curly hair using the thermal brush.",
+    "action": "Wrapping sections around the barrel, rolling down gently, and pulling through without snagging.",
+    "product_visible": true
+   },
+   {
+    "start_s": 38.0,
+    "end_s": 42.4,
+    "shot_type": "medium shot",
+    "visual": "Creator revealing her fully finished hair.",
+    "action": "Fluffing her hair with her hands and running fingers through the smooth bouncy blowout.",
+    "product_visible": true
+   },
+   {
+    "start_s": 42.4,
+    "end_s": 53.0,
+    "shot_type": "medium shot",
+    "visual": "Creator holding the thermal brush and delivering her recommendation and call to action.",
+    "action": "Talking directly to camera, pointing downwards with animated red arrow stickers indicating the shop link.",
+    "product_visible": true
+   },
+   {
+    "start_s": 53.0,
+    "end_s": 59.9,
+    "shot_type": "close-up b-roll",
+    "visual": "Beauty b-roll montage of creator showcasing her voluminous, shiny blowout from various angles.",
+    "action": "Flipping and running hands through her styled hair, smiling and posing.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator in a white sweater holding the pink Wavytalk thermal brush in front of her bathroom mirror.",
+   "visual_0_3s": "Creator talking to camera holding the product and gesturing to her hair in the mirror.",
+   "spoken_0_3s": "رح أعمل this look using Wavytalk's thermal brush.",
+   "text_0_3s": "rah aaml this look wavytalk's thermal brush",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "product_reveal",
+   "pattern_interrupt": "Direct and fast tutorial opening displaying the tool immediately in front of the mirror."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Introduction of the product and styling goal",
+    "Step-by-step bangs styling with technique tip (brushing upwards)",
+    "Reaction to initial volume and glow",
+    "Full hair styling demonstration highlighting gentleness on curly hair",
+    "Final blowout reveal and time claim (12 minutes)",
+    "Recommendation and clear call to action to buy from link"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "frizz_or_curly_solution",
+    "volume_and_bounce",
+    "quiet_or_gentle"
+   ],
+   "key_claims": [
+    "Styles complete hair in just 12 minutes",
+    "Leaves hair full (3abe) and glowy",
+    "Gentle on curly hair without pulling or breaking strands",
+    "Can easily handle both small and big sections"
+   ],
+   "pain_points": [
+    "Hair getting caught or broken by styling tools",
+    "Long blowout styling sessions",
+    "Difficulty styling curly bangs and lengths at home"
+   ],
+   "objections_handled": [
+    "Snagging or pulling hair (emphasizes it does not break hair)",
+    "Takes too long (only took 12 minutes)",
+    "Works on thick/curly hair (demonstrated directly on natural curls)"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost / Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 6.8,
+   "final_result_shown_s": 38.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Buy it now from the link below",
+   "cta_on_screen": "buy it now from the link below",
+   "cta_at_s": 51.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Dark brown, naturally wavy/curly, medium length with curtain bangs",
+   "hair_after": "Smooth, voluminous, bouncy blowout with curled ends",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "Warm, confident, conversational, and instructional"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat electronic/pop background instrumental with a beat drop during the outro.",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 6.65,
+   "pacing": "medium",
+   "effects": [
+    "word-by-word burned-in Arabizi/English captions",
+    "animated red pointer arrows for CTA"
+   ],
+   "ending": "Beauty reel showing the creator tossing and fluffing her finished blowout hair with music."
+  },
+  "notes": "Ad specifically tailored for the Lebanese market using authentic Lebanese Arabizi speech and English code-switching. Demonstrates the Blowout Boost thermal round brush."
+ }
+}

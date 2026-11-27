@@ -1,0 +1,259 @@
+{
+ "media_key": "v_1283167773543447",
+ "analyzed_at": "2026-11-27T18:42:28+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "e6752b1a8dab253f3291712cab45b9aa7bb3c6f4663cb6582d7c8226a75e1087",
+ "source": {
+  "kind": "video",
+  "id": "1283167773543447",
+  "video_id": "928249336916497",
+  "length_s": 21.548,
+  "permalink": "/23849366283980795/videos/928249336916497/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 22.1,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A relatable GRWM-style TikTok skit showing a girl styling her frizzy hair into a sleek salon blowout in 5 minutes using the Wavytalk thermal round brush.",
+  "full_description": "The video starts with a young woman in a rush after a friend calls saying she will arrive in 5 minutes. Facing frizzy, unstyled hair, she grabs her pink Wavytalk thermal blowout brush to style her hair quickly. Short demonstration cuts show the heated round brush smoothing hair cuticles, cutting frizz, and boosting shine with effortless glides. By the end, she showcases smooth, glossy, voluminous blowout hair, fully ready in minutes, ending with a call to action directing viewers to the link in bio.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 2.2,
+    "end_s": 4.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Wait, I need a minute.",
+    "text_english": "Wait, I need a minute."
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 6.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay, here comes.",
+    "text_english": "Okay, here comes."
+   }
+  ],
+  "transcript_full_original": "Wait, I need a minute. Okay, here comes.",
+  "transcript_full_english": "Wait, I need a minute. Okay, here comes.",
+  "word_count": 8,
+  "speech_starts_at_s": 2.2,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "text": "I only have 5 minutes before going out",
+    "role": "hook"
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 4.5,
+    "text": "“Girl, I’ll be there in 5! Hurry up!”",
+    "role": "hook"
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 7.5,
+    "text": "I’ve got time... right?",
+    "role": "hook"
+   },
+   {
+    "start_s": 7.6,
+    "end_s": 9.4,
+    "text": "Smooths the cuticle",
+    "role": "benefit"
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 11.0,
+    "text": "Cuts down frizz",
+    "role": "benefit"
+   },
+   {
+    "start_s": 11.1,
+    "end_s": 13.4,
+    "text": "Keeps my hair shiny",
+    "role": "benefit"
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 15.6,
+    "text": "Salon-quality hair at home in just minutes!",
+    "role": "benefit"
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 19.5,
+    "text": "I’m ready!",
+    "role": "benefit"
+   },
+   {
+    "start_s": 19.6,
+    "end_s": 22.1,
+    "text": "Try the same brush! link in bio",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.6,
+    "shot_type": "medium shot",
+    "visual": "A young woman with long reddish-brown, frizzy hair checking her phone in a modern dimly lit room with warm lighting.",
+    "action": "She looks stressed, picks up a phone call from a friend rushing her, and lipsyncs asking for a minute.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.6,
+    "end_s": 7.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator smiles playfully, holding up the pink and white Wavytalk thermal blowout brush to the camera.",
+    "action": "She shakes her hair, shows off the heated round brush, and prepares to style.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 9.5,
+    "shot_type": "close-up",
+    "visual": "Close-up of hair strands rolling smoothly around the heated thermal brush barrel.",
+    "action": "She glides the brush through a section of hair, instantly turning frizzy strands sleek and curled at the end.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 11.4,
+    "shot_type": "medium shot",
+    "visual": "Creator styling upper crown sections while smiling directly into the camera.",
+    "action": "She brushes and twists the crown layer with the brush to create volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.4,
+    "end_s": 13.5,
+    "shot_type": "medium shot",
+    "visual": "Creator running the thermal brush through front framing layers.",
+    "action": "She smooths front layers down to lock in shine and curve the ends inward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 15.6,
+    "shot_type": "close-up",
+    "visual": "Close-up showing smooth, shiny finished hair texture.",
+    "action": "She shows off the glossy finish and flashes a thumbs-up to the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 22.1,
+    "shot_type": "medium shot",
+    "visual": "Finished hairstyle showcase in warm ambient interior lighting.",
+    "action": "Creator turns around, flips her voluminous, silky blowout hair, smiles confidently, and prompts viewers to check the link.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Young woman with messy, frizzy hair looking panicked with on-screen text 'I only have 5 minutes before going out'.",
+   "visual_0_3s": "She checks her phone anxiously and answers an urgent call from a friend telling her to hurry up.",
+   "spoken_0_3s": "Wait, I need a minute.",
+   "text_0_3s": "I only have 5 minutes before going out / “Girl, I’ll be there in 5! Hurry up!”",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "problem_callout",
+   "pattern_interrupt": "Rapid skit format mimicking a frantic last-minute rush before going out."
+  },
+  "structure": {
+   "format": "skit_or_story",
+   "narrative_beats": [
+    "Relatable problem: Only 5 minutes left before leaving with unruly, frizzy hair",
+    "Tool introduction: Holds up the Wavytalk thermal brush as the quick fix solution",
+    "Demo / benefit walkthrough: Quick passes smoothing cuticles, taming frizz, and boosting shine",
+    "Result reveal: Perfect salon-level blowout achieved in minutes",
+    "Call to action: Directing users to buy via link in bio"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "frizz_or_curly_solution",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Smooths the cuticle",
+    "Cuts down frizz",
+    "Keeps hair shiny",
+    "Salon-quality hair at home in just minutes"
+   ],
+   "pain_points": [
+    "Running late with unstyled, frizzy hair",
+    "Not having enough time for a traditional multi-step blowout routine"
+   ],
+   "objections_handled": [
+    "Takes too long to get salon-quality hair when in a rush"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Blowout Brush"
+   ],
+   "first_seen_s": 5.5,
+   "first_used_on_hair_s": 7.5,
+   "final_result_shown_s": 13.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "Try the same brush! link in bio",
+   "cta_at_s": 19.6
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, reddish-brown, slightly frizzy, straight-to-wavy unstyled hair",
+   "hair_after": "Voluminous, sleek, glossy blowout with curved ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, fun, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Trending pop/R&B audio track mixed with a comedic sped-up phone audio clip and a heavenly angelic choir chime during the brush stroke.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 3.1,
+   "pacing": "fast",
+   "effects": [
+    "sound effects synced to action",
+    "smooth jump cuts"
+   ],
+   "ending": "Creator showing back and front hair flips, smiling at the camera with overlay CTA text."
+  },
+  "notes": "Fast-paced TikTok/Reels style skit targeting users needing quick hair solutions before going out. Uses popular audio format and clear benefit callouts."
+ }
+}

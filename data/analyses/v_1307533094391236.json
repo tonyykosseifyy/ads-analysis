@@ -1,0 +1,243 @@
+{
+ "media_key": "v_1307533094391236",
+ "analyzed_at": "2026-11-27T22:16:41+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "ee60d5d0d1d5a37a9cfec53eab9f06c1ac2d8311d1f4b5906ef9acea4f3ff155",
+ "source": {
+  "kind": "video",
+  "id": "1307533094391236",
+  "errors": [
+   "1307533094391236: Gave up after 5 retries: https://graph.facebook.com/v26.0/1307533094391236",
+   "1202945985269151: Gave up after 5 retries: https://graph.facebook.com/v26.0/1202945985269151"
+  ],
+  "ig_media_id": "18372820543086435",
+  "permalink": "https://www.instagram.com/p/DSbE7gzjIB4/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 52.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates the Wavytalk hair straightening brush achieving sleek, shiny hair in one pass, followed by the finished blowout look.",
+  "full_description": "A UGC creator with wavy brunette hair demonstrates the Wavytalk straightening heated brush in a bathroom. She takes a wavy strand of hair and runs the pink thermal brush through it slowly, instantly transforming it into straight, sleek, shiny strands. She shows the side-by-side contrast between the straightened piece and her wavy texture. The clip transitions to her completed hair, showing full, smooth, glossy, voluminous hair while an automated voiceover praises the softness, frizz removal, and shine, ending with a call to purchase via the link while it is on sale.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "with just one pass",
+    "text_english": "with just one pass"
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 22.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Look how shiny it left my hair. And this is the before, and this is the after.",
+    "text_english": "Look how shiny it left my hair. And this is the before, and this is the after."
+   },
+   {
+    "start_s": 23.3,
+    "end_s": 25.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "It is just way too good.",
+    "text_english": "It is just way too good."
+   },
+   {
+    "start_s": 31.2,
+    "end_s": 35.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Amazing. And this is the finished look. I am obsessed, guys.",
+    "text_english": "Amazing. And this is the finished look. I am obsessed, guys."
+   },
+   {
+    "start_s": 35.1,
+    "end_s": 40.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "It just leaves your hair looking and feeling so crazy smooth, super duper soft. It gets rid of all the frizz.",
+    "text_english": "It just leaves your hair looking and feeling so crazy smooth, super duper soft. It gets rid of all the frizz."
+   },
+   {
+    "start_s": 40.8,
+    "end_s": 45.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Look at how smooth my hair is, and it's so shiny. I love it.",
+    "text_english": "Look at how smooth my hair is, and it's so shiny. I love it."
+   },
+   {
+    "start_s": 45.4,
+    "end_s": 48.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Especially if you have curly hair, you're gonna absolutely love this.",
+    "text_english": "Especially if you have curly hair, you're gonna absolutely love this."
+   },
+   {
+    "start_s": 48.5,
+    "end_s": 52.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "It's on sale right now, so make sure you guys are grabbing it up. I'm gonna link it down below. Bye!",
+    "text_english": "It's on sale right now, so make sure you guys are grabbing it up. I'm gonna link it down below. Bye!"
+   }
+  ],
+  "transcript_full_original": "with just one pass. Look how shiny it left my hair. And this is the before, and this is the after. It is just way too good. Amazing. And this is the finished look. I am obsessed, guys. It just leaves your hair looking and feeling so crazy smooth, super duper soft. It gets rid of all the frizz. Look at how smooth my hair is, and it's so shiny. I love it. Especially if you have curly hair, you're gonna absolutely love this. It's on sale right now, so make sure you guys are grabbing it up. I'm gonna link it down below. Bye!",
+  "transcript_full_english": "with just one pass. Look how shiny it left my hair. And this is the before, and this is the after. It is just way too good. Amazing. And this is the finished look. I am obsessed, guys. It just leaves your hair looking and feeling so crazy smooth, super duper soft. It gets rid of all the frizz. Look at how smooth my hair is, and it's so shiny. I love it. Especially if you have curly hair, you're gonna absolutely love this. It's on sale right now, so make sure you guys are grabbing it up. I'm gonna link it down below. Bye!",
+  "word_count": 96,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 8.8,
+    "shot_type": "medium close-up",
+    "visual": "Young woman in a blue and white striped shirt holding a section of wavy hair with the pink Wavytalk straightening brush positioned at the root, pulling it slowly down.",
+    "action": "She glides the heated brush slowly down the strand of hair, straightening it in real time.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.8,
+    "end_s": 16.9,
+    "shot_type": "medium close-up",
+    "visual": "Same framing, woman passes the brush through the section again from the underside/outer side for an extra smooth finish.",
+    "action": "She brushes through the same section smoothly and displays the straightened result.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.9,
+    "end_s": 22.9,
+    "shot_type": "medium close-up",
+    "visual": "Woman holds the straightened strand adjacent to an untreated wavy strand to showcase the direct before and after contrast.",
+    "action": "She turns her head side-to-side, showing the contrast between the shiny straight strand and the natural wavy strand.",
+    "product_visible": false
+   },
+   {
+    "start_s": 22.9,
+    "end_s": 31.5,
+    "shot_type": "medium close-up",
+    "visual": "Woman takes another section of wavy hair and glides the pink Wavytalk brush through it.",
+    "action": "She smooths down another section with the heated brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 31.5,
+    "end_s": 52.8,
+    "shot_type": "medium close-up",
+    "visual": "Cut to full completed hairstyle. The creator's entire head of hair is straightened, smooth, and voluminous. She holds the Wavytalk brush in one hand.",
+    "action": "She runs her fingers through her hair, tosses it side to side to show shine, movement, and softness, smiling and gesturing towards the camera while holding the tool.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding a strand of wavy hair and the pink Wavytalk brush at her roots.",
+   "visual_0_3s": "Creator glides the heated brush through wavy hair, showing instant smoothing.",
+   "spoken_0_3s": "with just one pass",
+   "text_0_3s": "",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Immediate, slow real-time transformation of a wavy frizzy section into sleek straight hair in the very first second."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Instant 'one pass' straightening hook",
+    "Real-time pass demo on wavy strand",
+    "Side-by-side comparison of straightened piece vs wavy piece",
+    "Second pass demonstration",
+    "Final look reveal and hair-flipping satisfaction",
+    "Key benefits recap (soft, smooth, anti-frizz, shiny)",
+    "Target audience callout (curly hair)",
+    "Call to action and sale reminder"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "frizz_or_curly_solution",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Straightens in just one pass",
+    "Leaves hair crazy smooth and super soft",
+    "Eliminates frizz completely",
+    "Adds high shine",
+    "Great for curly hair"
+   ],
+   "pain_points": [
+    "Frizzy hair",
+    "Curly/wavy hair taking multiple passes or difficult to straighten",
+    "Lack of shine and softness"
+   ],
+   "objections_handled": [
+    "Does it really work on wavy/curly hair? (Shown in real-time on screen)",
+    "Does it take forever? ('With just one pass')",
+    "Will it leave hair stiff or dry? ('Crazy smooth, super duper soft')"
+   ],
+   "social_proof": [],
+   "comparison_to": "Natural wavy hair texture (side-by-side on same head)"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Straightening Brush (Pink)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 31.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "On sale",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "It's on sale right now",
+   "cta_spoken": "Make sure you guys are grabbing it up. I'm gonna link it down below.",
+   "cta_on_screen": "",
+   "cta_at_s": 48.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, thick, wavy brunette hair with natural highlights and mild frizz",
+   "hair_after": "Ultra-sleek, silky, shiny, straight blowout look",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "Upbeat, cheerful, enthusiastic, and satisfied"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle upbeat background lo-fi / pop instrumental beat",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 10.5,
+   "pacing": "medium",
+   "effects": [
+    "Jump cuts between styling passes and final reveal"
+   ],
+   "ending": "Creator waves her hand smiling, saying 'Bye!'"
+  },
+  "notes": "Classic organic TikTok-style UGC creative repurposed for paid performance ads. The voiceover is an automated TikTok TTS voice commonly utilized for viral organic product clips."
+ }
+}

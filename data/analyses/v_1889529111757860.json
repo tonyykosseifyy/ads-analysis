@@ -1,0 +1,403 @@
+{
+ "media_key": "v_1889529111757860",
+ "analyzed_at": "2026-11-27T18:41:52+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "ee843aa81d94ee49a1ade260af12d1b5d9794aa6867e527c3b89bd9e44a28131",
+ "source": {
+  "kind": "video",
+  "id": "1889529111757860",
+  "ig_media_id": "18112597432706623",
+  "permalink": "https://www.instagram.com/p/DWmpNTijAG1/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 80.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Lebanese creator demonstrates styling straight hair into bouncy, shiny curls using the Wavytalk Whirlwind Curl air styler.",
+  "full_description": "A young Lebanese female creator addresses viewers with straight hair who lack styling time or skill. She introduces the Wavytalk Whirlwind Curl (a 2-in-1 straightener and curler with cool air flow), demonstrates how to section, clamp, twist, and glide the tool down the hair, shows the instant bouncy curls, finishes her whole head, marvels at the voluminous shiny results, and closes with a 20% discount offer reminder.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 70,
+    "en": 30,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 8.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "إذا في عندكن straight hair ولا مرة قدرتوا تعملوا شي فيهن، متلي، لأنه ما عندكن ولا وقت ولا حتى بتعرفوا كيف، هيدا الـ tool لإلكن.",
+    "text_english": "If you have straight hair and you've never been able to do anything with it, like me, because you don't have the time or even know how, this tool is for you."
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 15.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "شوفوا هيدول الـ curls guys عملتون بهيدا الـ tool من عند Wavytalk اسمه the Whirlwind Curl وهلّق I'm gonna do my entire hair.",
+    "text_english": "Look at these curls guys, I did them with this tool from Wavytalk called the Whirlwind Curl. And now I'm gonna do my entire hair."
+   },
+   {
+    "start_s": 15.5,
+    "end_s": 25.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Guys, it's basically a straightener and a curler بـ one tool. الـ plates كتير smooth وكمانا الـ cool airflow sets in your curls كرمال يضاينوا أكتر.",
+    "text_english": "Guys, it's basically a straightener and a curler in one tool. The plates are very smooth and also the cool airflow sets in your curls so they last longer."
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 48.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أول شي بعمله باخد section من شعري، برجع بضوّي الـ airflow، بعدين بحطه جوا، I twist once، برجع بحط إيدي هون و بعمل هيك، I glide it down all the way. والـ airflow هو حيخلّي الـ curl to set in و lock in، كرمال بس نفكها، يكونوا كتير قوايا.",
+    "text_english": "First thing I do is take a section of my hair, then I turn on the airflow, then I put it inside, I twist once, then I put my hand here and do this, I glide it down all the way. And the airflow will make the curl set in and lock in, so when we release it, they're super defined."
+   },
+   {
+    "start_s": 48.0,
+    "end_s": 55.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بعمل نفس الشي لكل شعري، و it's just a tip إنه كل ما نصغّر الـ section كل ما الـ curl bouncy أكتر.",
+    "text_english": "I do the same thing for all my hair, and it's just a tip that the smaller the section, the bouncier the curl."
+   },
+   {
+    "start_s": 55.5,
+    "end_s": 65.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أول ما جرّبته للـ product عنجد I was so shocked، ما عم بمزح، كتير استغربت إنه الـ curls هالقد بيطلعوا حلوين بثانية.",
+    "text_english": "When I first tried this product, honestly I was so shocked, I'm not kidding. I was amazed that curls turn out this pretty in a second."
+   },
+   {
+    "start_s": 65.0,
+    "end_s": 72.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "ليكو my curls! كتير shiny، كتير soft، وليكو الـ volume! كله من ورا one tool.",
+    "text_english": "Look at my curls! So shiny, so soft, and look at the volume! All thanks to one tool."
+   },
+   {
+    "start_s": 72.0,
+    "end_s": 80.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "By the way guys، في 20% off على هيدا الـ product till the end of this month. So grab yours هلّق قبل ما they sell out أو ما يخلص الـ sale.",
+    "text_english": "By the way guys, there is 20% off on this product till the end of this month. So grab yours now before they sell out or the sale ends."
+   }
+  ],
+  "transcript_full_original": "إذا في عندكن straight hair ولا مرة قدرتوا تعملوا شي فيهن، متلي، لأنه ما عندكن ولا وقت ولا حتى بتعرفوا كيف، هيدا الـ tool لإلكن. شوفوا هيدول الـ curls guys عملتون بهيدا الـ tool من عند Wavytalk اسمه the Whirlwind Curl وهلّق I'm gonna do my entire hair. Guys, it's basically a straightener and a curler بـ one tool. الـ plates كتير smooth وكمانا الـ cool airflow sets in your curls كرمال يضاينوا أكتر. أول شي بعمله باخد section من شعري، برجع بضوّي الـ airflow، بعدين بحطه جوا، I twist once، برجع بحط إيدي هون و بعمل هيك، I glide it down all the way. والـ airflow هو حيخلّي الـ curl to set in و lock in، كرمال بس نفكها، يكونوا كتير قوايا. بعمل نفس الشي لكل شعري، و it's just a tip إنه كل ما نصغّر الـ section كل ما الـ curl bouncy أكتر. أول ما جرّبته للـ product عنجد I was so shocked، ما عم بمزح، كتير استغربت إنه الـ curls هالقد بيطلعوا حلوين بثانية. ليكو my curls! كتير shiny، كتير soft، وليكو الـ volume! كله من ورا one tool. By the way guys، في 20% off على هيدا الـ product till the end of this month. So grab yours هلّق قبل ما they sell out أو ما يخلص الـ sale.",
+  "transcript_full_english": "If you have straight hair and you've never been able to do anything with it, like me, because you don't have the time or even know how, this tool is for you. Look at these curls guys, I did them with this tool from Wavytalk called the Whirlwind Curl. And now I'm gonna do my entire hair. Guys, it's basically a straightener and a curler in one tool. The plates are very smooth and also the cool airflow sets in your curls so they last longer. First thing I do is take a section of my hair, then I turn on the airflow, then I put it inside, I twist once, then I put my hand here and do this, I glide it down all the way. And the airflow will make the curl set in and lock in, so when we release it, they're super defined. I do the same thing for all my hair, and it's just a tip that the smaller the section, the bouncier the curl. When I first tried this product, honestly I was so shocked, I'm not kidding. I was amazed that curls turn out this pretty in a second. Look at my curls! So shiny, so soft, and look at the volume! All thanks to one tool. By the way guys, there is 20% off on this product till the end of this month. So grab yours now before they sell out or the sale ends.",
+  "word_count": 182,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "text": "If you have straight hair and",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 4.0,
+    "text": "you've never been able to do anything with it because you",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.0,
+    "end_s": 6.5,
+    "text": "don't have the time or the skills",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.5,
+    "end_s": 8.5,
+    "text": "this is for you.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 10.5,
+    "text": "Look at this curl guys.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.5,
+    "end_s": 15.5,
+    "text": "I did it with the Wavytalk Whirlwind Curl. And now I'm gonna do my entire head.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.5,
+    "end_s": 18.0,
+    "text": "So it's basically a straightener and a curler",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 20.5,
+    "text": "in 1 tool the plates are",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.5,
+    "end_s": 23.5,
+    "text": "smooth and the cool air locks in your",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 25.5,
+    "text": "curl so it lasts longer.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 32.5,
+    "text": "I take small sections, clamp at the root,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 32.5,
+    "end_s": 40.5,
+    "text": "give it half a turn and then glide all the way down.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 40.5,
+    "end_s": 47.5,
+    "text": "The airflow sets it as I go, so the curl is ready the second it leaves the tool.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 48.0,
+    "end_s": 51.5,
+    "text": "I do the same motion for each curl and just a tip,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 51.5,
+    "end_s": 55.5,
+    "text": "the smaller the section, the bouncier the curl.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 56.5,
+    "end_s": 64.5,
+    "text": "I was absolutely shocked guys look at these curls.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 66.5,
+    "end_s": 70.0,
+    "text": "Shiny, soft, with volume.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 70.0,
+    "end_s": 72.0,
+    "text": "Literally from this one tool.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 72.0,
+    "end_s": 76.5,
+    "text": "And btw, it's on 20% off this month,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 76.5,
+    "end_s": 80.0,
+    "text": "so grab yours before the sale ends.",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.8,
+    "shot_type": "medium shot",
+    "visual": "Creator sits facing camera in a room, talking to camera with hands gesturing.",
+    "action": "Hook talking directly to camera, calling out people with straight hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 15.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator brings up the pink Wavytalk Whirlwind Curl tool and shows one curled section of her hair.",
+    "action": "Presents the device, points to a previously curled strand, and explains she will do her entire head.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.5,
+    "end_s": 19.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator starts clamping and curling a section while explaining the 2-in-1 tool features.",
+    "action": "Curling a hair strand with the tool in hand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.5,
+    "end_s": 25.5,
+    "shot_type": "close-up",
+    "visual": "Creator opens the plates to show the smooth internal plates and external air vents.",
+    "action": "Presses and shows the clamp opening and explains the cool airflow mechanism.",
+    "product_visible": true
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 30.5,
+    "shot_type": "medium shot",
+    "visual": "Creator separates a section of hair and powers on the airflow feature of the tool.",
+    "action": "Turning on the device airflow and preparing hair section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 47.8,
+    "shot_type": "medium shot",
+    "visual": "Detailed step-by-step tutorial demo of clamping near root, rotating tool 180 degrees, and slowly gliding downward.",
+    "action": "Gliding the tool down her hair strand and revealing a perfectly formed bouncy curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 47.8,
+    "end_s": 55.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator curls another front strand and plays with the resulting spiral ringlet.",
+    "action": "Showing the curled bounce on camera and sharing styling tip.",
+    "product_visible": true
+   },
+   {
+    "start_s": 55.5,
+    "end_s": 64.8,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the other side of her hair.",
+    "action": "Curling upper hair sections while expressing how amazed she was with the speed and result.",
+    "product_visible": true
+   },
+   {
+    "start_s": 64.8,
+    "end_s": 71.5,
+    "shot_type": "medium shot",
+    "visual": "Final styled hair reveal: creator shaking and touching her full head of voluminous, shiny curls.",
+    "action": "Fluffing her hair, smiling, showing off full volume and shine.",
+    "product_visible": false
+   },
+   {
+    "start_s": 71.5,
+    "end_s": 80.0,
+    "shot_type": "medium shot",
+    "visual": "Creator holds the pink Whirlwind Curl next to her finished hair, pointing to it as she delivers CTA.",
+    "action": "Delivering call to action about the 20% discount before sale ends.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera talking with hands up, wearing grey sweater with dark hair half pinned back.",
+   "visual_0_3s": "Creator looks straight into camera speaking earnestly about having straight unstyled hair.",
+   "spoken_0_3s": "إذا في عندكن straight hair ولا مرة قدرتوا تعملوا شي فيهن",
+   "text_0_3s": "If you have straight hair and you've never been able to do anything with it",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Direct callout to women with straight unstyled hair who lack skill or time."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Relatable problem callout: straight hair and lack of time/styling skill",
+    "Product reveal and initial curl proof shown",
+    "Feature explanation: 2-in-1 curler and straightener with cool air technology",
+    "Step-by-step tutorial on sectioning, twisting, and gliding",
+    "Pro-tip on section size for bounciness",
+    "Full finished transformation reveal with volume and shine check",
+    "Offer announcement (20% off) and urgency CTA before sellout"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "saves_time",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Straightener and curler in 1 single tool",
+    "Cool airflow locks in curls instantly as you glide",
+    "Curls turn out shiny, soft, and bouncy in seconds",
+    "Long-lasting hold without complicated styling skills"
+   ],
+   "pain_points": [
+    "Having straight hair that won't hold curls or looks flat",
+    "Lack of time to curl hair",
+    "Lack of hair styling skill/know-how"
+   ],
+   "objections_handled": [
+    "Curls falling flat quickly (cool airflow locks them in immediately)",
+    "Too complicated to use (demonstrated single twist and glide motion)"
+   ],
+   "social_proof": [
+    "Creator's personal shock and genuine reaction to instant results"
+   ],
+   "comparison_to": "Traditional hair styling tools requiring separate flat iron and curling iron."
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Whirlwind Curl"
+   ],
+   "first_seen_s": 6.8,
+   "first_used_on_hair_s": 15.5,
+   "final_result_shown_s": 64.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "20% off this month",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Valid till end of the month / before it sells out",
+   "cta_spoken": "So grab yours هلّق قبل ما they sell out أو ما يخلص الـ sale.",
+   "cta_on_screen": "so grab yours before the sale ends.",
+   "cta_at_s": 76.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, dark brown straight hair",
+   "hair_after": "Voluminous, bouncy, shiny defined curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, energetic, clear, encouraging"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat ambient background music under the creator's clear voice and real tool airflow sound.",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 10.0,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between styling steps"
+   ],
+   "ending": "Creator holds up tool while smiling next to her fully curled hair and pointing to the device."
+  },
+  "notes": "Targeted at Lebanese market; creator speaks fluent Lebanese Arabic with frequent English code-switching. Burned-in subtitles provide a faithful English translation of her speech."
+ }
+}

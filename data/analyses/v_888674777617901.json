@@ -1,0 +1,184 @@
+{
+ "media_key": "v_888674777617901",
+ "analyzed_at": "2026-11-27T22:24:09+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "2a63c55d8b9d44ff3afc5805f8fe9c4e0480b956db921b64420092db412aa837",
+ "source": {
+  "kind": "video",
+  "id": "888674777617901",
+  "errors": [
+   "888674777617901: Gave up after 5 retries: https://graph.facebook.com/v26.0/888674777617901",
+   "2254767945265428: Gave up after 5 retries: https://graph.facebook.com/v26.0/2254767945265428"
+  ],
+  "ig_media_id": "18089075699429740",
+  "permalink": "https://www.instagram.com/p/DbLKgXvMsug/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 13.79,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator quickly demonstrates styling her curtain bangs with the WavyTalk Thermal Brush to show the instant volume difference.",
+  "full_description": "A creator speaks directly to the camera explaining that she will demonstrate the difference on just her bangs. She lifts a section of her front fringe, rolls it inwards using the pink WavyTalk thermal brush, and glides it through while explaining 'we go under'. After releasing the brush, her bangs fall into a voluminous, styled curtain shape. She fluffs her hair, shows the brush to the camera, and remarks on how big of a difference it makes just doing the bangs. A static overlay displays a 10% discount code throughout the clip.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 75,
+    "en": 25,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Guys ليكوا الفرق هلا بس أعمل بس غرتي",
+    "text_english": "Guys, look at the difference now when I only do my bangs"
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 6.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "We go under",
+    "text_english": "We go under"
+   },
+   {
+    "start_s": 10.0,
+    "end_s": 13.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "ليكوا قدي فرق وعملت بس الغرة",
+    "text_english": "Look how much difference it made and I only did the bangs"
+   }
+  ],
+  "transcript_full_original": "Guys ليكوا الفرق هلا بس أعمل بس غرتي We go under ليكوا قدي فرق وعملت بس الغرة",
+  "transcript_full_english": "Guys, look at the difference now when I only do my bangs. We go under. Look how much difference it made and I only did the bangs.",
+  "word_count": 16,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 13.79,
+    "text": "WAVYTALK Thermal Brush\nUse code AmenaA10 for 10% OFF ;)",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "shot_type": "medium close-up selfie",
+    "visual": "Creator looking into the camera pointing towards her hair and bangs.",
+    "action": "Creator gestures towards her hair and introduces the quick demo.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 8.8,
+    "shot_type": "medium close-up selfie",
+    "visual": "Creator holding the pink WavyTalk thermal brush and rolling her bangs under.",
+    "action": "Creator sections the bang, curls it inward with the heated round brush, holds for a few seconds, and gently unrolls it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.8,
+    "end_s": 13.79,
+    "shot_type": "medium close-up selfie",
+    "visual": "Creator fluffing and displaying her styled bangs while holding up the WavyTalk brush.",
+    "action": "Creator shakes her hair, adjusts the styled fringe, holds the brush facing the camera, and expresses amazement at the result.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera pointing at her unstyled front bangs.",
+   "visual_0_3s": "Creator talking to camera pointing to both sides of her face, then bringing the thermal brush up to her bangs.",
+   "spoken_0_3s": "Guys ليكوا الفرق هلا بس أعمل بس غرتي",
+   "text_0_3s": "WAVYTALK Thermal Brush Use code AmenaA10 for 10% OFF ;)",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Immediate promise to demonstrate a visible difference in seconds by doing just the bangs."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook promising an instant visible difference on just bangs",
+    "Quick step-by-step curling technique ('we go under')",
+    "Instant voluminous result reveal and creator reaction"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "saves_time",
+    "volume_and_bounce",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Transforms bangs quickly with minimal effort",
+    "Creates instant volume and blowout shape"
+   ],
+   "pain_points": [
+    "Flat, lifeless bangs",
+    "Time-consuming blowout routines"
+   ],
+   "objections_handled": [
+    "Demonstrates that styling bangs takes just a few seconds with immediate visible impact"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Thermal Brush"
+   ],
+   "first_seen_s": 2.1,
+   "first_used_on_hair_s": 2.8,
+   "final_result_shown_s": 8.9,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "10% off with promo code",
+   "price_mentioned": "",
+   "discount_code": "AmenaA10",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "Use code AmenaA10 for 10% OFF ;)",
+   "cta_at_s": 0.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "Amena",
+   "age_range": "18-24",
+   "hair_before": "Long dark brown hair with flat, parted front curtain bangs",
+   "hair_after": "Voluminous, lifted, bouncy curved curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "casual and authentic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Soft low-volume pop/r&b background music track",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 0,
+   "avg_shot_length_s": 13.79,
+   "pacing": "fast",
+   "effects": [],
+   "ending": "Creator smiles, holding the thermal brush while showing her finished bangs."
+  },
+  "notes": "Single continuous take phone UGC video with an overlaid text promoting discount code AmenaA10."
+ }
+}

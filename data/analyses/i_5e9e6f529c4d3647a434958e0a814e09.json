@@ -1,0 +1,164 @@
+{
+ "media_key": "i_5e9e6f529c4d3647a434958e0a814e09",
+ "analyzed_at": "2026-11-27T20:55:18+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "84c34af76ff12918656135c851eee067c6b8e0afbe293fb901c0c4a477a7c3c7",
+ "source": {
+  "kind": "image",
+  "id": "5e9e6f529c4d3647a434958e0a814e09"
+ },
+ "role": "rotating",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "Static Black Friday receipt-style promotion for WavyTalk Dry & Curl Duo featuring Turblow Pro and Whirlwind Curl at $149.",
+  "full_description": "A static promotional banner formatted to resemble a paper shopping receipt on a crumpled paper background with dark textured purple borders and barcode stickers. The receipt advertises a Black Friday offer from WavyTalk: 'Dry & Curl Duo' containing the Turblow Pro high-speed hair dryer and Whirlwind Curl styling brush in matching pastel pink, priced at $149.00 (35% OFF, saving $79.99), with a purple circular 'TODAY ONLY' urgency sticker.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK Black Friday",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "$149.00 | 35% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "You save: $79.99",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "ITEM QTY",
+    "role": "other"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "DRY & CURL DUO Turblow Pro + Whirlwind Curl 1",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "TODAY ONLY",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "product shot",
+    "visual": "A stylized paper receipt layout featuring images of the pink Turblow Pro hair dryer and pink Whirlwind Curl styling tool against a crumpled paper white texture and dark purple background.",
+    "action": "Static image display of the Black Friday product bundle and discount details.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Crumpled white receipt banner reading 'WAVYTALK Black Friday $149.00 | 35% OFF' with pink Turblow Pro and Whirlwind Curl tools.",
+   "visual_0_3s": "Crumpled white receipt banner reading 'WAVYTALK Black Friday $149.00 | 35% OFF' with pink Turblow Pro and Whirlwind Curl tools.",
+   "spoken_0_3s": "",
+   "text_0_3s": "WAVYTALK Black Friday $149.00 | 35% OFF You save: $79.99 DRY & CURL DUO Turblow Pro + Whirlwind Curl TODAY ONLY",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "none",
+   "pattern_interrupt": "Receipt visual design theme complete with printed barcodes and paper tears."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Feature Black Friday receipt format",
+    "Highlight 35% discount down to $149.00",
+    "Showcase bundled items Turblow Pro and Whirlwind Curl",
+    "Urgency sticker 'TODAY ONLY'"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "replaces_multiple_tools"
+   ],
+   "key_claims": [
+    "Dry & Curl Duo includes Turblow Pro + Whirlwind Curl",
+    "$149.00 price point",
+    "35% off original price",
+    "Savings of $79.99"
+   ],
+   "pain_points": [],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Turblow Pro",
+    "Whirlwind Curl"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "35% OFF Dry & Curl Duo (Turblow Pro + Whirlwind Curl), save $79.99",
+   "price_mentioned": "$149.00",
+   "discount_code": "",
+   "urgency": "TODAY ONLY",
+   "cta_spoken": "",
+   "cta_on_screen": "TODAY ONLY",
+   "cta_at_s": 0
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "studio",
+   "faces_camera": false,
+   "energy_tone": ""
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "receipt graphic layout",
+    "paper texture overlay"
+   ],
+   "ending": "Static image graphic."
+  },
+  "notes": "Static image creative for a Black Friday Meta ad campaign promoting a bundled set."
+ }
+}

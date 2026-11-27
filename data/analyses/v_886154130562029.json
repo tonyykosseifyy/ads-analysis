@@ -1,0 +1,180 @@
+{
+ "media_key": "v_886154130562029",
+ "analyzed_at": "2026-11-27T18:35:45+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "ec610b31d1a7e7a8acfca0a6f2037ca8da196cb0caa1d74f95700d06c53ab034",
+ "source": {
+  "kind": "video",
+  "id": "886154130562029",
+  "video_id": "1571575097760016",
+  "length_s": 18.566,
+  "permalink": "/23849366283980795/videos/1571575097760016/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 18.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates replacing a round brush and blow dryer with the Wavytalk thermal brush to get a voluminous, bouncy blowout.",
+  "full_description": "A young brunette woman films a vertical selfie-style demo in her bedroom using a baby blue Wavytalk thermal heated round brush. Persistent on-screen text reads: 'This is your sign to ditch the round brush + blow dryer and switch to Wavytalk's thermal brush'. She shows herself rolling sections of hair from the bottom layers to the top crown/bangs, effortlessly unwinding defined, bouncy curls. The second half of the video showcases the final voluminous blowout results, with her fluffing the curls in front and turning her back to the camera to toss and shake her glossy, bouncy blowout curls.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 18.0,
+    "text": "This is your sign to ditch the round brush + blow dryer and switch to Wavytalk's thermal brush",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing camera with top hair clipped, rolling bottom section of hair around the blue Wavytalk thermal brush.",
+    "action": "She glides and twists the heated round brush through a hair section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 5.0,
+    "shot_type": "medium shot side angle",
+    "visual": "Creator rolling out mid-layers of hair using the thermal brush.",
+    "action": "She brushes down and rolls up a section, then slowly releases a polished wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 7.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator looking at camera, preparing the top front section with the brush.",
+    "action": "She releases completed curls and positions brush on the next section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 9.2,
+    "shot_type": "close-up",
+    "visual": "Creator curling her top front bangs away from her face with the thermal brush.",
+    "action": "She rotates the brush through her bangs and pulls it out, revealing a bouncy curtain sweep.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.2,
+    "end_s": 12.8,
+    "shot_type": "medium shot",
+    "visual": "Creator facing camera admiring the full finished blowout.",
+    "action": "She shakes and fluffs her hair, smiling and posing to show the volume and curl definition.",
+    "product_visible": false
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 18.0,
+    "shot_type": "medium back view",
+    "visual": "Creator filmed from behind displaying the voluminous layers and glossy curls cascading down her back.",
+    "action": "She turns her back to camera and shakes her head side to side to demonstrate curl bounce and body.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator rolling hair in a blue thermal brush with bold hook text: 'This is your sign to ditch the round brush + blow dryer and switch to Wavytalk's thermal brush'.",
+   "visual_0_3s": "Creator unwinding smooth, shiny curl sections using the thermal styling brush.",
+   "spoken_0_3s": "",
+   "text_0_3s": "This is your sign to ditch the round brush + blow dryer and switch to Wavytalk's thermal brush",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Direct callout hook statement encouraging viewers to ditch traditional salon tools."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Relatable hook prompting viewers to ditch round brush and blow dryer",
+    "Quick demo of styling different sections using the Wavytalk thermal brush",
+    "Smooth release of bouncy front curls",
+    "Stunning front and back results display showing volume and shine"
+   ],
+   "main_angle": "replaces_multiple_tools",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Replaces both round brush and blow dryer in one tool",
+    "Creates smooth, bouncy blowout curls at home easily"
+   ],
+   "pain_points": [
+    "Difficulty managing a separate round brush and heavy hair dryer",
+    "Arm fatigue and clumsy blowout styling"
+   ],
+   "objections_handled": [
+    "Whether a thermal brush can achieve real salon blowout volume and curl"
+   ],
+   "social_proof": [],
+   "comparison_to": "round brush + blow dryer"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 9.2,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long brunette layered hair, partially pinned up with claw clip",
+   "hair_after": "Voluminous, shiny, bouncy salon-style blowout curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, aesthetic, effortless"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Smooth R&B vocal music playing throughout the video.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 3.6,
+   "pacing": "medium",
+   "effects": [
+    "static text overlay"
+   ],
+   "ending": "Creator turns around shaking and tossing her bouncy, thick hair curls."
+  },
+  "notes": "Text overlay remains fixed on screen throughout the entire 18 seconds."
+ }
+}

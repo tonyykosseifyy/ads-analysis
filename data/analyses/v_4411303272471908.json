@@ -1,0 +1,288 @@
+{
+ "media_key": "v_4411303272471908",
+ "analyzed_at": "2026-11-27T18:37:27+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "38b636ef8aaa8e16c4954653ddcfb09c929cb9acb078549d053ae86e52de56af",
+ "source": {
+  "kind": "video",
+  "id": "4411303272471908",
+  "video_id": "1577418927196155",
+  "length_s": 77.65,
+  "permalink": "/23849366283980795/videos/1577418927196155/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 77.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A curly-haired creator addresses hair-damage myths while demonstrating how she styles her curls with the Wavytalk Blowout Boost.",
+  "full_description": "A creator with half-curly, half-styled hair demonstrates the Wavytalk Blowout Boost thermal round brush. She speaks directly to the camera, debunking the belief that heat styling naturally curly hair inevitably causes heat damage, provided proper techniques (heat protection, small detangled sections) and negative ionic technology are used. She styles sections of her hair in real-time, shares her thoughts against social media fearmongering, shows the smooth voluminous finished blowout, and directs viewers to the purchase link.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So many people get so mad whenever I say that you actually can heat style naturally curly hair without damaging it.",
+    "text_english": "So many people get so mad whenever I say that you actually can heat style naturally curly hair without damaging it."
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 12.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I've been heat styling my hair two if not three times a week for the past two years, and I have not noticed any damage. But I do it the right way.",
+    "text_english": "I've been heat styling my hair two if not three times a week for the past two years, and I have not noticed any damage. But I do it the right way."
+   },
+   {
+    "start_s": 12.1,
+    "end_s": 14.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "First, I never skip heat protection no matter what.",
+    "text_english": "First, I never skip heat protection no matter what."
+   },
+   {
+    "start_s": 14.9,
+    "end_s": 21.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And I always use small sections and detangle those sections before going in with any hot tool so there's less room for damage like pulling on my hair.",
+    "text_english": "And I always use small sections and detangle those sections before going in with any hot tool so there's less room for damage like pulling on my hair."
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 30.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Next, all the hot tools I use have negative ionic technology that helps protect against heat damage, like this brush from Wavytalk. It's their Blowout Boost. It also has negative ionic technology.",
+    "text_english": "Next, all the hot tools I use have negative ionic technology that helps protect against heat damage, like this brush from Wavytalk. It's their Blowout Boost. It also has negative ionic technology."
+   },
+   {
+    "start_s": 30.0,
+    "end_s": 39.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm honestly sick of the fearmongering on social media that if you straighten or blowout your hair once, you're going to have horrible damage and your curl pattern is never going to be the same. And that is simply not true.",
+    "text_english": "I'm honestly sick of the fearmongering on social media that if you straighten or blowout your hair once, you're going to have horrible damage and your curl pattern is never going to be the same. And that is simply not true."
+   },
+   {
+    "start_s": 39.8,
+    "end_s": 49.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "At the end of the day, if you're diffusing your hair, that's using heat. Or if you're using like a styling brush, that's using tension. So it really does not matter. Just use everything in moderation.",
+    "text_english": "At the end of the day, if you're diffusing your hair, that's using heat. Or if you're using like a styling brush, that's using tension. So it really does not matter. Just use everything in moderation."
+   },
+   {
+    "start_s": 49.3,
+    "end_s": 53.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So don't let anybody make you feel bad for heat styling your curls every now and then.",
+    "text_english": "So don't let anybody make you feel bad for heat styling your curls every now and then."
+   },
+   {
+    "start_s": 53.0,
+    "end_s": 61.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I honestly prefer a blowout over just straightened hair, so that's why I love to use this brush because it gives me a gorgeous blowout without having to use a hair dryer and a round brush.",
+    "text_english": "I honestly prefer a blowout over just straightened hair, so that's why I love to use this brush because it gives me a gorgeous blowout without having to use a hair dryer and a round brush."
+   },
+   {
+    "start_s": 61.9,
+    "end_s": 67.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And there you have it, here's the finished hair. You can in fact heat style your natural curls without being worried about them being damaged.",
+    "text_english": "And there you have it, here's the finished hair. You can in fact heat style your natural curls without being worried about them being damaged."
+   },
+   {
+    "start_s": 67.5,
+    "end_s": 72.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "But I do highly recommend making the switch to a tool that uses negative ionic technology, whether you get this one or a different one.",
+    "text_english": "But I do highly recommend making the switch to a tool that uses negative ionic technology, whether you get this one or a different one."
+   },
+   {
+    "start_s": 72.8,
+    "end_s": 77.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "But if you want to try out my tried and true, it's linked down below in the orange shopping cart with all the different cute color options.",
+    "text_english": "But if you want to try out my tried and true, it's linked down below in the orange shopping cart with all the different cute color options."
+   }
+  ],
+  "transcript_full_original": "So many people get so mad whenever I say that you actually can heat style naturally curly hair without damaging it. I've been heat styling my hair two if not three times a week for the past two years, and I have not noticed any damage. But I do it the right way. First, I never skip heat protection no matter what. And I always use small sections and detangle those sections before going in with any hot tool so there's less room for damage like pulling on my hair. Next, all the hot tools I use have negative ionic technology that helps protect against heat damage, like this brush from Wavytalk. It's their Blowout Boost. It also has negative ionic technology. I'm honestly sick of the fearmongering on social media that if you straighten or blowout your hair once, you're going to have horrible damage and your curl pattern is never going to be the same. And that is simply not true. At the end of the day, if you're diffusing your hair, that's using heat. Or if you're using like a styling brush, that's using tension. So it really does not matter. Just use everything in moderation. So don't let anybody make you feel bad for heat styling your curls every now and then. I honestly prefer a blowout over just straightened hair, so that's why I love to use this brush because it gives me a gorgeous blowout without having to use a hair dryer and a round brush. And there you have it, here's the finished hair. You can in fact heat style your natural curls without being worried about them being damaged. But I do highly recommend making the switch to a tool that uses negative ionic technology, whether you get this one or a different one. But if you want to try out my tried and true, it's linked down below in the orange shopping cart with all the different cute color options.",
+  "transcript_full_english": "So many people get so mad whenever I say that you actually can heat style naturally curly hair without damaging it. I've been heat styling my hair two if not three times a week for the past two years, and I have not noticed any damage. But I do it the right way. First, I never skip heat protection no matter what. And I always use small sections and detangle those sections before going in with any hot tool so there's less room for damage like pulling on my hair. Next, all the hot tools I use have negative ionic technology that helps protect against heat damage, like this brush from Wavytalk. It's their Blowout Boost. It also has negative ionic technology. I'm honestly sick of the fearmongering on social media that if you straighten or blowout your hair once, you're going to have horrible damage and your curl pattern is never going to be the same. And that is simply not true. At the end of the day, if you're diffusing your hair, that's using heat. Or if you're using like a styling brush, that's using tension. So it really does not matter. Just use everything in moderation. So don't let anybody make you feel bad for heat styling your curls every now and then. I honestly prefer a blowout over just straightened hair, so that's why I love to use this brush because it gives me a gorgeous blowout without having to use a hair dryer and a round brush. And there you have it, here's the finished hair. You can in fact heat style your natural curls without being worried about them being damaged. But I do highly recommend making the switch to a tool that uses negative ionic technology, whether you get this one or a different one. But if you want to try out my tried and true, it's linked down below in the orange shopping cart with all the different cute color options.",
+  "word_count": 277,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator sits facing camera with half of her voluminous curly dark hair natural and half blown out straight, holding the blue Wavytalk Blowout Boost tool on a hair strand.",
+    "action": "She looks directly into the lens and introduces her controversial stance about heat styling curly hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.2,
+    "end_s": 20.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushes and curls the ends of a section of hair using the blue thermal brush while talking.",
+    "action": "She rolls the brush through a strand, explaining her routine and rules: always using heat protectant and detangling small sections.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 29.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator glides the brush down a strand from roots to ends, then shows the tool directly to the camera.",
+    "action": "She demonstrates gliding the tool, introduces the Wavytalk Blowout Boost, and mentions its negative ionic technology.",
+    "product_visible": true
+   },
+   {
+    "start_s": 29.8,
+    "end_s": 49.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator sections the top of her hair and rolls it around the thermal brush to curl and add volume.",
+    "action": "She rolls her crown hair around the brush barrel while passionately calling out online hair fearmongering.",
+    "product_visible": true
+   },
+   {
+    "start_s": 49.2,
+    "end_s": 61.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator styles her front bangs / face-framing layer using the Wavytalk Blowout Boost, rolling it back.",
+    "action": "She rolls her front section upwards and releases it with bounce, explaining why she prefers this tool over a traditional round brush and blow dryer.",
+    "product_visible": true
+   },
+   {
+    "start_s": 61.8,
+    "end_s": 67.4,
+    "shot_type": "medium shot",
+    "visual": "Creator presents her fully styled, smooth, bouncy blowout hair on both sides.",
+    "action": "She smiles and shakes her hair to show off the soft, healthy-looking curls and volume.",
+    "product_visible": false
+   },
+   {
+    "start_s": 67.4,
+    "end_s": 77.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the baby blue Wavytalk brush in her hand near her chest and points to the product and down at the shopping cart.",
+    "action": "She gives her final endorsement, points out the tool features, and tells viewers where to buy it.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera with split hair: one half huge voluminous natural curls, other half sleekly styled with the blue hot brush inserted.",
+   "visual_0_3s": "Side-by-side split visual on creator's own head (untouched curls vs. styled hair) while holding the hot brush in place.",
+   "spoken_0_3s": "So many people get so mad whenever I say that you actually can heat style naturally curly hair",
+   "text_0_3s": "",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Immediate contrast on a single head with dramatic split texture (untamed curls vs. blowout) paired with a controversial claim addressing online controversy."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Controversial hook: curly hair can be heat styled without damage",
+    "Personal credibility: styles 2-3x/week for 2 years with no damage",
+    "Step 1 & 2: Heat protectant and detangling small sections",
+    "Step 3 / Product intro: Wavytalk Blowout Boost with negative ionic technology",
+    "Rant against social media fearmongering and perspective on heat/tension",
+    "Why this tool beats blow dryer + round brush combo",
+    "Final result reveal of full bouncy blowout",
+    "Call to action pointing to shopping cart"
+   ],
+   "main_angle": "less_heat_damage",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "salon_result_at_home",
+    "replaces_multiple_tools"
+   ],
+   "key_claims": [
+    "Naturally curly hair can be heat styled regularly without damage if done right",
+    "Negative ionic technology helps protect against heat damage",
+    "Delivers a gorgeous salon blowout without juggling a separate dryer and round brush"
+   ],
+   "pain_points": [
+    "Fear of damaging natural curl pattern",
+    "Confusion from fearmongering on social media",
+    "Difficulty managing round brush and blow dryer simultaneously"
+   ],
+   "objections_handled": [
+    "Heat ruins curly hair and curl patterns permanently",
+    "Blowouts take too much effort or separate equipment",
+    "Heat styling always leads to breakage and split ends"
+   ],
+   "social_proof": [
+    "Creator's personal multi-year routine with no visible damage"
+   ],
+   "comparison_to": "Traditional hair dryer plus round brush combo; standard flat iron straightening"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 61.9,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "it's linked down below in the orange shopping cart with all the different cute color options",
+   "cta_on_screen": "",
+   "cta_at_s": 72.8
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20s",
+   "hair_before": "Voluminous, frizzy dark brown 3A/3B natural curls",
+   "hair_after": "Smooth, glossy, voluminous blowout with flipped ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Direct, conversational, relatable, and educational"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "None, natural room voice recording only",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 11.0,
+   "pacing": "medium",
+   "effects": [
+    "Jump cuts between styling different sections"
+   ],
+   "ending": "Creator smiles, holding the brush and looking into the camera while concluding the call to action."
+  },
+  "notes": "Native TikTok Shop style UGC video repurposed for Meta ads. English language only, no text overlays or burned-in subtitles."
+ }
+}

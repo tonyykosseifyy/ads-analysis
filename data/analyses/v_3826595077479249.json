@@ -1,0 +1,416 @@
+{
+ "media_key": "v_3826595077479249",
+ "analyzed_at": "2026-11-27T18:37:29+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "cb76a68bbaff8d353802e9082b0c88185a66294bf6ff121af22f1a986fc6de0d",
+ "source": {
+  "kind": "video",
+  "id": "3826595077479249",
+  "video_id": "1426417215797564",
+  "length_s": 56.309,
+  "permalink": "/23849366283980795/videos/1426417215797564/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 56.1,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator with voluminous curly hair tests the Wavytalk Steamline straightener brush, demonstrating a sleek one-pass result without blow-drying.",
+  "full_description": "A curly-haired creator tests out the Wavytalk Steamline straightener brush from unboxing to full styling. She wonders whether steam damages or protects hair, then sections off her thick curly hair and runs the brush through a section in a single pass, reacting with shock at how straight and smooth it turns out. She explains that it saves time by eliminating blow-drying and is 10 times easier and faster than a conventional flat iron. After showing a half-done comparison and completing the final strands, she shows off shiny, straightened hair and directs viewers to her link in bio for a 25% discount.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm going to use literal steam to straighten my hair.",
+    "text_english": "I'm going to use literal steam to straighten my hair."
+   },
+   {
+    "start_s": 2.3,
+    "end_s": 4.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is the Wavytalk Pro Steam Hair Straightener Brush,",
+    "text_english": "This is the Wavytalk Pro Steam Hair Straightener Brush,"
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 7.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and apparently straightening your hair with steam is better for your hair,",
+    "text_english": "and apparently straightening your hair with steam is better for your hair,"
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 9.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "so I wondered, does steam damage or protect your hair?",
+    "text_english": "so I wondered, does steam damage or protect your hair?"
+   },
+   {
+    "start_s": 9.7,
+    "end_s": 10.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's find out.",
+    "text_english": "Let's find out."
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 12.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay, let's see how straight my hair is going to get.",
+    "text_english": "Okay, let's see how straight my hair is going to get."
+   },
+   {
+    "start_s": 12.9,
+    "end_s": 15.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm just going to do one full pass without even stopping,",
+    "text_english": "I'm just going to do one full pass without even stopping,"
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 18.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and hopefully my hair looks good.",
+    "text_english": "and hopefully my hair looks good."
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 19.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So far, so good.",
+    "text_english": "So far, so good."
+   },
+   {
+    "start_s": 19.9,
+    "end_s": 21.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "What?!",
+    "text_english": "What?!"
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 23.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "They really meant it when they said you only need one pass.",
+    "text_english": "They really meant it when they said you only need one pass."
+   },
+   {
+    "start_s": 23.3,
+    "end_s": 26.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm sorry, and the fact that I didn't even have to blow dry my hair first?",
+    "text_english": "I'm sorry, and the fact that I didn't even have to blow dry my hair first?"
+   },
+   {
+    "start_s": 26.6,
+    "end_s": 28.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Like this is insane. Just look at the before and after.",
+    "text_english": "Like this is insane. Just look at the before and after."
+   },
+   {
+    "start_s": 28.6,
+    "end_s": 30.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You can't tell me that's not insane.",
+    "text_english": "You can't tell me that's not insane."
+   },
+   {
+    "start_s": 30.9,
+    "end_s": 33.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is actually 10 times easier than when I use a regular flat iron.",
+    "text_english": "This is actually 10 times easier than when I use a regular flat iron."
+   },
+   {
+    "start_s": 33.7,
+    "end_s": 36.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Not to mention, this is way faster than using a regular flat iron,",
+    "text_english": "Not to mention, this is way faster than using a regular flat iron,"
+   },
+   {
+    "start_s": 36.9,
+    "end_s": 38.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "because I can literally skip the blow dry,",
+    "text_english": "because I can literally skip the blow dry,"
+   },
+   {
+    "start_s": 38.8,
+    "end_s": 41.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and also this straightens my ends so well.",
+    "text_english": "and also this straightens my ends so well."
+   },
+   {
+    "start_s": 41.0,
+    "end_s": 43.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's been 30 minutes on the dot and I'm almost done.",
+    "text_english": "It's been 30 minutes on the dot and I'm almost done."
+   },
+   {
+    "start_s": 43.8,
+    "end_s": 46.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I actually do not know how it could get better than this.",
+    "text_english": "I actually do not know how it could get better than this."
+   },
+   {
+    "start_s": 48.9,
+    "end_s": 51.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Last strand! Look how shiny my hair looks.",
+    "text_english": "Last strand! Look how shiny my hair looks."
+   },
+   {
+    "start_s": 51.0,
+    "end_s": 53.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Wavytalk has officially made one of the best straighteners ever.",
+    "text_english": "Wavytalk has officially made one of the best straighteners ever."
+   },
+   {
+    "start_s": 53.6,
+    "end_s": 56.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Like come on, it just doesn't get better than this.",
+    "text_english": "Like come on, it just doesn't get better than this."
+   }
+  ],
+  "transcript_full_original": "I'm going to use literal steam to straighten my hair. This is the Wavytalk Pro Steam Hair Straightener Brush, and apparently straightening your hair with steam is better for your hair, so I wondered, does steam damage or protect your hair? Let's find out. Okay, let's see how straight my hair is going to get. I'm just going to do one full pass without even stopping, and hopefully my hair looks good. So far, so good. What?! They really meant it when they said you only need one pass. I'm sorry, and the fact that I didn't even have to blow dry my hair first? Like this is insane. Just look at the before and after. You can't tell me that's not insane. This is actually 10 times easier than when I use a regular flat iron. Not to mention, this is way faster than using a regular flat iron, because I can literally skip the blow dry, and also this straightens my ends so well. It's been 30 minutes on the dot and I'm almost done. I actually do not know how it could get better than this. Last strand! Look how shiny my hair looks. Wavytalk has officially made one of the best straighteners ever. Like come on, it just doesn't get better than this.",
+  "transcript_full_english": "I'm going to use literal steam to straighten my hair. This is the Wavytalk Pro Steam Hair Straightener Brush, and apparently straightening your hair with steam is better for your hair, so I wondered, does steam damage or protect your hair? Let's find out. Okay, let's see how straight my hair is going to get. I'm just going to do one full pass without even stopping, and hopefully my hair looks good. So far, so good. What?! They really meant it when they said you only need one pass. I'm sorry, and the fact that I didn't even have to blow dry my hair first? Like this is insane. Just look at the before and after. You can't tell me that's not insane. This is actually 10 times easier than when I use a regular flat iron. Not to mention, this is way faster than using a regular flat iron, because I can literally skip the blow dry, and also this straightens my ends so well. It's been 30 minutes on the dot and I'm almost done. I actually do not know how it could get better than this. Last strand! Look how shiny my hair looks. Wavytalk has officially made one of the best straighteners ever. Like come on, it just doesn't get better than this.",
+  "word_count": 221,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 8.9,
+    "text": "Trying the Wavytalk Steamline hair straightener",
+    "role": "hook"
+   },
+   {
+    "start_s": 46.2,
+    "end_s": 50.1,
+    "text": "This is how: it's 25% OFF RIGHT NOW",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 51.0,
+    "end_s": 56.1,
+    "text": "its in my link in bio!!",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 9.8,
+    "shot_type": "medium_shot",
+    "visual": "Creator in a magenta top with large curly hair holding the pink Wavytalk Steamline tool and its box in a bedroom.",
+    "action": "Creator talks directly to camera while presenting the brush and box, then points to her hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 20.3,
+    "shot_type": "medium_close_up",
+    "visual": "Hair tied up, creator wearing a heat protection glove passes the steam straightener down a section of hair.",
+    "action": "Creator glides the tool slowly through a thick strand from root to tip in one single pass.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.3,
+    "end_s": 22.8,
+    "shot_type": "medium_shot",
+    "visual": "Creator drops her jaw in disbelief looking at the camera, holding the sleek straightened strand.",
+    "action": "Creator gasps and expresses utter shock at the one-pass result.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 26.6,
+    "shot_type": "medium_shot",
+    "visual": "Creator brushing another small strand quickly and talking animatedly.",
+    "action": "Creator gestures with the straightener in hand and talks about not needing to blow dry.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.6,
+    "end_s": 30.9,
+    "shot_type": "close_up",
+    "visual": "Split visual comparison of curly hair next to the newly straightened, glossy strand.",
+    "action": "Creator holds the straight piece against her curly side, showing the stark before-and-after contrast.",
+    "product_visible": false
+   },
+   {
+    "start_s": 30.9,
+    "end_s": 40.9,
+    "shot_type": "medium_shot",
+    "visual": "Creator working through side sections of hair with the steam brush.",
+    "action": "Creator brushes from roots downwards, explaining why it is faster and easier than a flat iron.",
+    "product_visible": true
+   },
+   {
+    "start_s": 40.9,
+    "end_s": 45.8,
+    "shot_type": "medium_shot",
+    "visual": "Half of creator's head fully straightened and silky, the other half still in curly ringlets.",
+    "action": "Creator shakes out both sides to compare progress and states it has only been 30 minutes.",
+    "product_visible": false
+   },
+   {
+    "start_s": 45.8,
+    "end_s": 48.9,
+    "shot_type": "close_up",
+    "visual": "Close-up of the steam straightener gliding through the final crown section with visible steam/heat.",
+    "action": "Creator brushes smoothly through the top strand, on-screen text shows 25% off discount.",
+    "product_visible": true
+   },
+   {
+    "start_s": 48.9,
+    "end_s": 56.1,
+    "shot_type": "medium_shot",
+    "visual": "Finished straight hair, shiny and smooth; creator holds the tool beside her face.",
+    "action": "Creator proudly displays the silky finished hair, smiles at the camera, and promotes the product link in bio.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing the camera holding the pink Wavytalk steam straightener brush with large curly hair and text overlay.",
+   "visual_0_3s": "Creator talking excitedly holding the tool and showing the product retail packaging.",
+   "spoken_0_3s": "I'm going to use literal steam to straighten my hair. This is the Wavytalk...",
+   "text_0_3s": "Trying the Wavytalk Steamline hair straightener",
+   "hook_type": "curiosity_gap",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "The surprising premise of using 'literal steam' to straighten thick curls, followed by an immediate extreme one-pass transformation."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Curiosity hook: testing steam straightening on curly hair",
+    "Live one-pass test and instant shocked reaction",
+    "Side-by-side curly vs straight strand comparison",
+    "Explanation of speed and skipping blow-drying",
+    "Half-head progress check at 30 minutes",
+    "Final strand styling and reveal of sleek, shiny finish with discount CTA"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "saves_time",
+    "easy_for_beginners",
+    "less_heat_damage",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Straightens curly hair in one full pass",
+    "Uses steam which is gentler and better for hair",
+    "No need to blow dry beforehand",
+    "10 times easier and faster than a regular flat iron",
+    "Straightens the entire head in 30 minutes",
+    "Leaves hair glossy and shiny"
+   ],
+   "pain_points": [
+    "Traditional flat irons take multiple passes and damage hair",
+    "Blow-drying thick curly hair before flat ironing takes too much time and effort",
+    "Ends often remain frizzy or unstraightened with normal irons"
+   ],
+   "objections_handled": [
+    "Does steam damage or protect hair? (Claims it protects and hydrates)",
+    "Will it actually straighten coarse/tight curls? (Proven on camera in one pass)",
+    "Does it take forever? (Demonstrated in just 30 minutes for full thick hair)"
+   ],
+   "social_proof": [
+    "Unsponsored/raw authentic UGC reaction"
+   ],
+   "comparison_to": "regular flat iron / traditional hair straightener"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steamline Pro Steam Hair Straightener Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 9.8,
+   "final_result_shown_s": 49.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "25% OFF RIGHT NOW",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "RIGHT NOW",
+   "cta_spoken": "",
+   "cta_on_screen": "its in my link in bio!!",
+   "cta_at_s": 46.2
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20s",
+   "hair_before": "Very thick, voluminous, auburn/copper curly hair (type 3B/3C)",
+   "hair_after": "Ultra-sleek, smooth, shiny straight auburn hair",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, candid, genuinely amazed"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "None; original raw spoken audio with styling sound effects and natural voice.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 10,
+   "avg_shot_length_s": 5.6,
+   "pacing": "fast",
+   "effects": [
+    "text overlays",
+    "subtle speed ramping during pass"
+   ],
+   "ending": "Creator presents shiny, finished sleek hair holding the brush, praising Wavytalk with on-screen text pointing to link in bio."
+  },
+  "notes": "Original English UGC demo repurposed for paid social performance ad in Middle Eastern markets. Highlights the high heat/steam performance on curly hair textures."
+ }
+}

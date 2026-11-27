@@ -1,0 +1,377 @@
+{
+ "media_key": "v_1605409697814955",
+ "analyzed_at": "2026-11-27T18:35:36+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "2ed24afa1291422c50a1dd1630c830023b6143a05185d1839b7791191006e839",
+ "source": {
+  "kind": "video",
+  "id": "1605409697814955",
+  "ig_media_id": "18105073937181389",
+  "permalink": "https://www.instagram.com/p/Dc8mxApMk2g/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 67.0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "A professional hairstylist teaches a client how to properly curl her hair using the Wavytalk Airflow Styler.",
+  "full_description": "A square-format video featuring a male hairstylist and a female client in a studio/salon setup. The video begins with the woman attempting to use the Wavytalk Airflow Styler incorrectly. The stylist steps in to demonstrate the proper technique, explaining how the 2-in-1 tool straightens out frizz before curling, and highlights the built-in cool air airflow that protects both the hair and hands from burning, cutting heat damage by 50%. After curling her hair, he fluffs and shapes the curls to reveal shiny, bouncy, healthy waves, leaving the client thrilled with the result.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.5,
+    "speaker": "male stylist",
+    "language": "en",
+    "text_original": "Okay, show me how you do it.",
+    "text_english": "Okay, show me how you do it."
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 7.5,
+    "speaker": "male stylist",
+    "language": "en",
+    "text_original": "I'm going to show you how to do this correctly with the Wavytalk Airflow Styler.",
+    "text_english": "I'm going to show you how to do this correctly with the Wavytalk Airflow Styler."
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 12.0,
+    "speaker": "male stylist",
+    "language": "en",
+    "text_original": "What I like about this is that it is a straightener and a curling iron in one.",
+    "text_english": "What I like about this is that it is a straightener and a curling iron in one."
+   },
+   {
+    "start_s": 12.1,
+    "end_s": 16.0,
+    "speaker": "male stylist",
+    "language": "en",
+    "text_original": "So, if you have any little frizzies, you can take care of those first.",
+    "text_english": "So, if you have any little frizzies, you can take care of those first."
+   },
+   {
+    "start_s": 16.1,
+    "end_s": 20.0,
+    "speaker": "male stylist",
+    "language": "en",
+    "text_original": "And then all you have to do is a little twist...",
+    "text_english": "And then all you have to do is a little twist..."
+   },
+   {
+    "start_s": 21.8,
+    "end_s": 23.0,
+    "speaker": "male stylist",
+    "language": "en",
+    "text_original": "...real-time.",
+    "text_english": "...real-time."
+   },
+   {
+    "start_s": 23.1,
+    "end_s": 24.2,
+    "speaker": "female client",
+    "language": "en",
+    "text_original": "Wow.",
+    "text_english": "Wow."
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 25.7,
+    "speaker": "male stylist",
+    "language": "en",
+    "text_original": "You hear that?",
+    "text_english": "You hear that?"
+   },
+   {
+    "start_s": 25.8,
+    "end_s": 26.6,
+    "speaker": "female client",
+    "language": "en",
+    "text_original": "What is that?",
+    "text_english": "What is that?"
+   },
+   {
+    "start_s": 26.7,
+    "end_s": 28.3,
+    "speaker": "male stylist",
+    "language": "en",
+    "text_original": "That's the cool air coming out of it.",
+    "text_english": "That's the cool air coming out of it."
+   },
+   {
+    "start_s": 28.4,
+    "end_s": 29.2,
+    "speaker": "female client",
+    "language": "en",
+    "text_original": "Wow.",
+    "text_english": "Wow."
+   },
+   {
+    "start_s": 29.3,
+    "end_s": 33.3,
+    "speaker": "male stylist",
+    "language": "en",
+    "text_original": "So again, that that's what reduces the chances of your hair getting burned...",
+    "text_english": "So again, that that's what reduces the chances of your hair getting burned..."
+   },
+   {
+    "start_s": 33.4,
+    "end_s": 37.3,
+    "speaker": "male stylist",
+    "language": "en",
+    "text_original": "...and your hand. Like you can hold it and you're not going to burn yourself.",
+    "text_english": "...and your hand. Like you can hold it and you're not going to burn yourself."
+   },
+   {
+    "start_s": 37.4,
+    "end_s": 40.5,
+    "speaker": "male stylist",
+    "language": "en",
+    "text_original": "And you know that with these irons, that's not always the case.",
+    "text_english": "And you know that with these irons, that's not always the case."
+   },
+   {
+    "start_s": 40.6,
+    "end_s": 47.0,
+    "speaker": "male stylist",
+    "language": "en",
+    "text_original": "What I love about it is that right after you curl, you can feel that the hair is warm, it's not really hot like a traditional curling iron.",
+    "text_english": "What I love about it is that right after you curl, you can feel that the hair is warm, it's not really hot like a traditional curling iron."
+   },
+   {
+    "start_s": 47.1,
+    "end_s": 50.8,
+    "speaker": "male stylist",
+    "language": "en",
+    "text_original": "And again, this will reduce 50% of heat damage.",
+    "text_english": "And again, this will reduce 50% of heat damage."
+   },
+   {
+    "start_s": 51.5,
+    "end_s": 53.0,
+    "speaker": "male stylist",
+    "language": "en",
+    "text_original": "Open up.",
+    "text_english": "Open up."
+   },
+   {
+    "start_s": 53.1,
+    "end_s": 54.8,
+    "speaker": "female client",
+    "language": "en",
+    "text_original": "Wow, I I love it!",
+    "text_english": "Wow, I I love it!"
+   },
+   {
+    "start_s": 54.9,
+    "end_s": 56.5,
+    "speaker": "male stylist",
+    "language": "en",
+    "text_original": "Wow, she's slayin'.",
+    "text_english": "Wow, she's slayin'."
+   },
+   {
+    "start_s": 56.6,
+    "end_s": 57.2,
+    "speaker": "female client",
+    "language": "en",
+    "text_original": "It's giving.",
+    "text_english": "It's giving."
+   },
+   {
+    "start_s": 57.3,
+    "end_s": 58.0,
+    "speaker": "male stylist",
+    "language": "en",
+    "text_original": "She's slayin'.",
+    "text_english": "She's slayin'."
+   },
+   {
+    "start_s": 58.1,
+    "end_s": 62.4,
+    "speaker": "male stylist",
+    "language": "en",
+    "text_original": "And your hair still feels healthy, it feels nice and bouncy. The curls, everything.",
+    "text_english": "And your hair still feels healthy, it feels nice and bouncy. The curls, everything."
+   },
+   {
+    "start_s": 62.5,
+    "end_s": 63.5,
+    "speaker": "female client",
+    "language": "en",
+    "text_original": "It looks shiny.",
+    "text_english": "It looks shiny."
+   },
+   {
+    "start_s": 63.6,
+    "end_s": 65.5,
+    "speaker": "male stylist",
+    "language": "en",
+    "text_original": "You know I'm picky for the waves.",
+    "text_english": "You know I'm picky for the waves."
+   },
+   {
+    "start_s": 65.6,
+    "end_s": 66.8,
+    "speaker": "female client",
+    "language": "en",
+    "text_original": "There you go.",
+    "text_english": "There you go."
+   }
+  ],
+  "transcript_full_original": "Okay, show me how you do it. I'm going to show you how to do this correctly with the Wavytalk Airflow Styler. What I like about this is that it is a straightener and a curling iron in one. So, if you have any little frizzies, you can take care of those first. And then all you have to do is a little twist... real-time. Wow. You hear that? What is that? That's the cool air coming out of it. Wow. So again, that that's what reduces the chances of your hair getting burned and your hand. Like you can hold it and you're not going to burn yourself. And you know that with these irons, that's not always the case. What I love about it is that right after you curl, you can feel that the hair is warm, it's not really hot like a traditional curling iron. And again, this will reduce 50% of heat damage. Open up. Wow, I I love it! Wow, she's slayin'. It's giving. She's slayin'. And your hair still feels healthy, it feels nice and bouncy. The curls, everything. It looks shiny. You know I'm picky for the waves. There you go.",
+  "transcript_full_english": "Okay, show me how you do it. I'm going to show you how to do this correctly with the Wavytalk Airflow Styler. What I like about this is that it is a straightener and a curling iron in one. So, if you have any little frizzies, you can take care of those first. And then all you have to do is a little twist... real-time. Wow. You hear that? What is that? That's the cool air coming out of it. Wow. So again, that that's what reduces the chances of your hair getting burned and your hand. Like you can hold it and you're not going to burn yourself. And you know that with these irons, that's not always the case. What I love about it is that right after you curl, you can feel that the hair is warm, it's not really hot like a traditional curling iron. And again, this will reduce 50% of heat damage. Open up. Wow, I I love it! Wow, she's slayin'. It's giving. She's slayin'. And your hair still feels healthy, it feels nice and bouncy. The curls, everything. It looks shiny. You know I'm picky for the waves. There you go.",
+  "word_count": 218,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "shot_type": "medium shot",
+    "visual": "A female client seated in front of a plain background with a tattooed male hairdresser standing behind her. She awkwardly tries to curl her hair and fails.",
+    "action": "Hairdresser tells her to show him how she does it; she struggles and they both laugh.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 24.3,
+    "shot_type": "medium close-up",
+    "visual": "Hairdresser takes the pink Wavytalk Airflow Styler, explains it, straightens her section first, and then twists it into a curl in real time.",
+    "action": "Demonstrating how to smooth frizz and glide/twist the styler down the hair section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.3,
+    "end_s": 39.5,
+    "shot_type": "medium close-up",
+    "visual": "Hairdresser holds up the tool to show the cool airflow vents, touches the barrel with his bare hand to prove it stays cool.",
+    "action": "Explaining cool air feature and showing how you cannot burn your fingers.",
+    "product_visible": true
+   },
+   {
+    "start_s": 39.5,
+    "end_s": 50.8,
+    "shot_type": "medium close-up",
+    "visual": "Hairdresser continues styling another section of hair with smooth gliding motion.",
+    "action": "Explaining that the hair remains only warm, not piping hot, reducing heat damage by 50%.",
+    "product_visible": true
+   },
+   {
+    "start_s": 50.8,
+    "end_s": 67.0,
+    "shot_type": "medium shot",
+    "visual": "Hairdresser spreads out and fluffs the completed curls with his hands; both smile happily admiring the full, bouncy hairstyle.",
+    "action": "Stylist styles and tousles the hair, both praise how bouncy, shiny, and healthy it looks.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Male hairstylist standing behind a smiling female client asking her to show him how she curls her hair.",
+   "visual_0_3s": "Female client tries to use the styler on her front hair and awkwardly tangles it, laughing.",
+   "spoken_0_3s": "Okay, show me how you do it.",
+   "text_0_3s": "",
+   "hook_type": "expert_or_hairdresser",
+   "hook_type_secondary": "problem_callout",
+   "pattern_interrupt": "The relatable, awkward failure of the client trying to curl her own hair before the expert intervenes."
+  },
+  "structure": {
+   "format": "hairdresser_or_expert",
+   "narrative_beats": [
+    "Relatable struggle: client tries and fails to curl her hair",
+    "Expert intervention: stylist introduces the Wavytalk Airflow Styler",
+    "Step-by-step tutorial: smoothing frizz first, then twisting down",
+    "Feature callout: cool air airflow prevents burns and cuts heat damage by 50%",
+    "Final reveal and admiration: client and stylist celebrate bouncy, shiny, healthy curls"
+   ],
+   "main_angle": "expert_endorsement",
+   "secondary_angles": [
+    "less_heat_damage",
+    "easy_for_beginners",
+    "salon_result_at_home",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "2-in-1 straightener and curling iron",
+    "Tames frizz before curling",
+    "Built-in cool air vents reduce burning hair and hands",
+    "Can hold the barrel with bare hands safely",
+    "Reduces heat damage by 50%",
+    "Leaves hair healthy, bouncy, and shiny"
+   ],
+   "pain_points": [
+    "Not knowing how to curl hair properly",
+    "Frizzy hair strands",
+    "Burning fingers/hands on hot tools",
+    "Extreme heat damage from traditional curling irons"
+   ],
+   "objections_handled": [
+    "Too complicated to curl hair yourself",
+    "Will burn fingers",
+    "Will scorch/damage fragile hair"
+   ],
+   "social_proof": [
+    "Professional hairstylist actively using and recommending the tool on his client"
+   ],
+   "comparison_to": "Traditional scorching-hot curling irons"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Airflow Styler"
+   ],
+   "first_seen_s": 1.0,
+   "first_used_on_hair_s": 1.5,
+   "final_result_shown_s": 51.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 2,
+   "talent_type": "hairdresser_expert",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Shoulder-length blonde/brown balayage, straight with slight natural texture",
+   "hair_after": "Voluminous, bouncy, shiny salon waves/curls",
+   "setting": "studio",
+   "faces_camera": true,
+   "energy_tone": "Warm, educational, encouraging, and friendly"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Soft upbeat modern background music playing quietly under the conversational dialogue.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 16.75,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Stylist and client smile at the camera after admiring the finished bouncy waves."
+  },
+  "notes": "English dialogue between an expert male stylist and female client, demonstrating the cool airflow curling iron."
+ }
+}

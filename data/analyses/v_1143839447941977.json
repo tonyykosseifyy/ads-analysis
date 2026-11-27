@@ -1,0 +1,169 @@
+{
+ "media_key": "v_1143839447941977",
+ "analyzed_at": "2026-11-27T21:51:26+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "5c59a30c2da8c88b7a24a607d136b265fe6d49913dfca93f4e279953bf2927e1",
+ "source": {
+  "kind": "video",
+  "id": "1143839447941977",
+  "errors": [
+   "1143839447941977: Gave up after 5 retries: https://graph.facebook.com/v26.0/1143839447941977",
+   "1325189095610305: Gave up after 5 retries: https://graph.facebook.com/v26.0/1325189095610305"
+  ],
+  "ig_media_id": "17863620969630885",
+  "permalink": "https://www.instagram.com/p/DY6sT_gjHJ6/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 15.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A young woman styles and curls her long dark hair in fast motion using a pink hair styling tool to French upbeat background music.",
+  "full_description": "A vertical social media video where a young woman in a black t-shirt curls sections of her long dark hair using a pink Wavytalk curling/straightening tool. The footage is sped up in a GRWM style with the on-screen caption 'curl my hair with me in 2x speed ✨💕💆‍♀️'. Upbeat French pop/rap music plays in the background with no spoken dialogue. She demonstrates curling both sides of her hair and finishes by posing and smiling to display her voluminous, bouncy waves.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 15.0,
+    "text": "curl my hair with me in 2x speed ✨💕💆‍♀️",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "shot_type": "medium shot",
+    "visual": "A young woman seated in an office chair in a room, holding a pink styling tool and wrapping a strand of hair around it.",
+    "action": "She clamps and begins twisting the pink styler through a strand on her left side.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 3.4,
+    "shot_type": "close-up",
+    "visual": "Close-up of her hands rotating and gliding the pink hair styler down the section of hair.",
+    "action": "She glides the tool through her hair to form a curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 7.3,
+    "shot_type": "medium shot",
+    "visual": "Medium shot of the creator curling another upper section of hair on her left side.",
+    "action": "She releases a defined bouncy wave and shakes it out gently.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 11.8,
+    "shot_type": "medium shot",
+    "visual": "Medium shot showing her curling the hair on the right side of her head.",
+    "action": "She clamps the hair section, twists the styler, and pulls it downward in fast forward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.8,
+    "end_s": 15.0,
+    "shot_type": "medium shot",
+    "visual": "Creator puts down the styler and runs her fingers through her hair, showing off the full wavy hairstyle.",
+    "action": "She frames her face with both hands, flips her curls, and smiles playfully at the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink styling tool ready to glide it through her hair, with caption 'curl my hair with me in 2x speed ✨💕💆‍♀️'.",
+   "visual_0_3s": "Fast-paced curling action showing the pink styler gliding through a strand of dark hair.",
+   "spoken_0_3s": "",
+   "text_0_3s": "curl my hair with me in 2x speed ✨💕💆‍♀️",
+   "hook_type": "trend_or_sound",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Immediate fast-motion (2x speed) styling demonstration with punchy French music."
+  },
+  "structure": {
+   "format": "grwm_lifestyle",
+   "narrative_beats": [
+    "Hook: Invites viewer to curl hair together in 2x speed",
+    "Demo: Fast-paced curling of left and right hair sections",
+    "Result reveal: Fluffing out bouncy curls and smiling at camera"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "saves_time"
+   ],
+   "key_claims": [
+    "Creates smooth bouncy curls quickly"
+   ],
+   "pain_points": [
+    "Curling hair takes too long"
+   ],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Pink Hair Styler / Curler"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 12.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, dark brown/black straight-to-wavy hair",
+   "hair_after": "Voluminous, defined loose curls and waves",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "casual, upbeat, playful"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat French pop/hip-hop song with lyrics 'Elle a les cheveux blonds... Mon bébé c'est la plus belle... C'est mon bijou c'est mon bonbon'",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 3.75,
+   "pacing": "fast",
+   "effects": [
+    "speed ramp / 2x fast-forward"
+   ],
+   "ending": "Creator smiles, shakes out her finished wavy hair and poses towards the camera."
+  },
+  "notes": "Sped-up GRWM / tutorial reel format with no spoken audio, relying on trending sound and quick visual demonstration of hair styling."
+ }
+}

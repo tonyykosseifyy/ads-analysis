@@ -1,0 +1,178 @@
+{
+ "media_key": "v_1134780479045696",
+ "analyzed_at": "2026-11-27T18:39:13+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "e3852b8db35701c51a46dc2e51f14649293f326cb31dfa418f4183ecca602ece",
+ "source": {
+  "kind": "video",
+  "id": "1134780479045696",
+  "video_id": "29086769424290069",
+  "length_s": 16.733,
+  "permalink": "/23849366283980795/videos/29086769424290069/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 16.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator finishes styling her front hair section with the WavyTalk thermal brush and shows off voluminous, bouncy blowout results.",
+  "full_description": "A creator stands in a bathroom setting styling the front section of her long blonde/light brunette hair with the purple WavyTalk thermal brush (Blowout Boost). She holds the brush at the roots and rolls down to reveal polished bouncy waves. Overlays encourage viewers to grab the brush while it is on sale and position it as an affordable blowout solution. Background music plays throughout with no spoken voiceover.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 7.0,
+    "text": "This is your sign to run and grab the WavyTalk thermal brush while its on sale 🤩",
+    "role": "hook"
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 13.5,
+    "text": "This is how I get the “blowout” look on a budget",
+    "role": "benefit"
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 16.5,
+    "text": "Tagged below 🫶🏻",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.5,
+    "shot_type": "medium shot",
+    "visual": "Young woman in a bathroom holding the purple WavyTalk thermal brush wrapped around her front hair layers, turning the barrel.",
+    "action": "Creator finishes curling the front section of her hair with the thermal brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 7.5,
+    "shot_type": "medium shot",
+    "visual": "Creator pulls the brush out from her hair strand and lowers the tool.",
+    "action": "Creator unwinds and releases the hair section from the heated barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 13.5,
+    "shot_type": "medium shot",
+    "visual": "Creator running fingers through her voluminous blonde layered curls to fluff them out.",
+    "action": "Creator separates and fluffs her curls while looking into the mirror/camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 16.5,
+    "shot_type": "medium shot",
+    "visual": "Creator posing and admiring her final blowout hairstyle.",
+    "action": "Creator smiles, plays with the ends of her hair, and shows off the voluminous result.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator rolling the purple WavyTalk brush through the front layers of her already voluminous, styled hair.",
+   "visual_0_3s": "Creator curling her hair on camera with an aesthetic, smooth motion showing glowing blowout curls.",
+   "spoken_0_3s": "",
+   "text_0_3s": "This is your sign to run and grab the WavyTalk thermal brush while its on sale 🤩",
+   "hook_type": "result_first",
+   "hook_type_secondary": "offer_or_price",
+   "pattern_interrupt": "Immediate visual payoff of full, bouncy salon-style curls in mid-styling."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Demonstrate quick styling move on front layer with thermal brush",
+    "Reveal release and spring of the curl",
+    "Fluff and separate layers to display voluminous blowout",
+    "Call-to-action to buy tagged product on sale"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "price_value_vs_dyson",
+    "offer_discount_urgency",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Delivers a salon blowout look on a budget",
+    "Currently on sale"
+   ],
+   "pain_points": [
+    "Expensive salon blowouts",
+    "Difficulty achieving bouncy blowout curls at home"
+   ],
+   "objections_handled": [
+    "Price/affordability ('look on a budget')"
+   ],
+   "social_proof": [
+    "'This is your sign' viral TikTok format"
+   ],
+   "comparison_to": "Expensive salon blowouts or high-end multi-stylers"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Thermal Brush (Blowout Boost)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 7.0,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "On sale",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "while its on sale",
+   "cta_spoken": "",
+   "cta_on_screen": "Tagged below 🫶🏻",
+   "cta_at_s": 13.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Already mostly styled, long warm blonde/light brown layered hair",
+   "hair_after": "Voluminous, bouncy blowout with smooth curtain bangs and curled ends",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "relaxed, aesthetic, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Billie Eilish - 'Birds of a Feather' playing in background",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 0,
+   "avg_shot_length_s": 16.5,
+   "pacing": "medium",
+   "effects": [
+    "text overlay animation"
+   ],
+   "ending": "Creator posing and checking her hair in the camera with 'Tagged below' text."
+  },
+  "notes": "Single continuous take UGC video showing final styling touch and finished hair result set to trending commercial music."
+ }
+}

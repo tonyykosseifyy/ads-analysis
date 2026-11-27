@@ -1,0 +1,352 @@
+{
+ "media_key": "v_2011594469562119",
+ "analyzed_at": "2026-11-27T18:44:17+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "476375686a3df95d31d71b585dc22babb3d61ffc07fe5a1b74f21c57d7ad44b8",
+ "source": {
+  "kind": "video",
+  "id": "2011594469562119",
+  "video_id": "3453825171462829",
+  "length_s": 44.333,
+  "permalink": "/23849366283980795/videos/3453825171462829/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 44.24,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator explains why conventional hair dryers ruin curly hair and demonstrates drying her curls in 10 minutes using the WavyTalk Turblow Pro with diffuser.",
+  "full_description": "A female creator with wet curly hair speaks to the camera in mixed Lebanese Arabic and English, warning curly-haired viewers that traditional hair dryers damage curls with excessive heat. She presents the pink WavyTalk Turblow Pro hair dryer with a large diffuser bowl attachment, highlighting its high-speed airflow technology. A high-speed timelapse sequence shows her diffusing her hair section by section while a digital progress bar runs from 7% to 98%. She shows the final voluminous, defined curl result achieved in just 10 minutes, then announces a 25% discount and a 30-day return policy before waving goodbye.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 30,
+    "en": 70,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "إذا شعرك كيرلي، السشوار تبعك عم ينزعلك ياه.",
+    "text_english": "If you have curly hair, your blow dryer is ruining it for you."
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 5.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The problem was never my hair, it was my old dryer.",
+    "text_english": "The problem was never my hair, it was my old dryer."
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 8.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "عم يحرقلك شعرك كل مرة أكتر من التانية.",
+    "text_english": "It basically burns your hair more and more each time."
+   },
+   {
+    "start_s": 8.1,
+    "end_s": 9.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is high-speed air, not heat.",
+    "text_english": "This is high-speed air, not heat."
+   },
+   {
+    "start_s": 10.0,
+    "end_s": 13.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So it basically dries my hair with airflow instead of frying it like a normal diffuser.",
+    "text_english": "So it basically dries my hair with airflow instead of frying it like a normal diffuser."
+   },
+   {
+    "start_s": 27.5,
+    "end_s": 31.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And this is basically 5x faster than my old dryer.",
+    "text_english": "And this is basically 5 times faster than my old dryer."
+   },
+   {
+    "start_s": 31.1,
+    "end_s": 34.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is how my hair is looking after only 10 minutes.",
+    "text_english": "This is how my hair is looking after only 10 minutes."
+   },
+   {
+    "start_s": 34.1,
+    "end_s": 37.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "A moment of silence for the volume and the curls.",
+    "text_english": "A moment of silence for the volume and the curls."
+   },
+   {
+    "start_s": 37.5,
+    "end_s": 39.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is 25% off right now.",
+    "text_english": "This is 25% off right now."
+   },
+   {
+    "start_s": 39.6,
+    "end_s": 43.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وعندكم 30 days to send it back إذا ما حبيتوه، فما عندكم شي تخسروه.",
+    "text_english": "And you have 30 days to send it back if you don't like it, so you have nothing to lose."
+   },
+   {
+    "start_s": 43.2,
+    "end_s": 44.24,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Bye guys!",
+    "text_english": "Bye guys!"
+   }
+  ],
+  "transcript_full_original": "إذا شعرك كيرلي، السشوار تبعك عم ينزعلك ياه. The problem was never my hair, it was my old dryer. عم يحرقلك شعرك كل مرة أكتر من التانية. This is high-speed air, not heat, so it basically dries my hair with airflow instead of frying it like a normal diffuser. And this is basically 5x faster than my old dryer. This is how my hair is looking after only 10 minutes. A moment of silence for the volume and the curls. This is 25% off right now وعندكم 30 days to send it back إذا ما حبيتوه، فما عندكم شي تخسروه. Bye guys!",
+  "transcript_full_english": "If you have curly hair, your blow dryer is ruining it for you. The problem was never my hair, it was my old dryer. It basically burns your hair more and more each time. This is high-speed air, not heat, so it basically dries my hair with airflow instead of frying it like a normal diffuser. And this is basically 5 times faster than my old dryer. This is how my hair is looking after only 10 minutes. A moment of silence for the volume and the curls. This is 25% off right now and you have 30 days to send it back if you don't like it, so you have nothing to lose. Bye guys!",
+  "word_count": 92,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "text": "If you have curly hair, your dryer is killing it",
+    "role": "hook"
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 5.4,
+    "text": "The problem was NEVER my hair, it was my old dryer",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 8.0,
+    "text": "Basically cooking my hair every time",
+    "role": "benefit"
+   },
+   {
+    "start_s": 8.1,
+    "end_s": 9.9,
+    "text": "This is high-speed air NOT heat",
+    "role": "benefit"
+   },
+   {
+    "start_s": 10.0,
+    "end_s": 13.9,
+    "text": "so it dries my hair with airflow instead of frying it like a normal diffuser",
+    "role": "benefit"
+   },
+   {
+    "start_s": 14.0,
+    "end_s": 27.5,
+    "text": "7% ... 98%",
+    "role": "other"
+   },
+   {
+    "start_s": 27.6,
+    "end_s": 31.0,
+    "text": "It is 5x faster than my old dryer",
+    "role": "benefit"
+   },
+   {
+    "start_s": 31.1,
+    "end_s": 34.0,
+    "text": "This is how my hair is looking after only 10 minutes",
+    "role": "benefit"
+   },
+   {
+    "start_s": 34.1,
+    "end_s": 37.4,
+    "text": "a moment of silence for the volume & the curls",
+    "role": "benefit"
+   },
+   {
+    "start_s": 37.5,
+    "end_s": 39.5,
+    "text": "This is 25% off RIGHT NOW",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 39.6,
+    "end_s": 41.5,
+    "text": "so you have 30 days to send it back if you don't like it",
+    "role": "benefit"
+   },
+   {
+    "start_s": 41.6,
+    "end_s": 43.1,
+    "text": "so you have nothing to lose",
+    "role": "benefit"
+   },
+   {
+    "start_s": 43.2,
+    "end_s": 44.24,
+    "text": "BYE GUYS",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "shot_type": "medium close-up",
+    "visual": "Young creator with damp dark curly hair facing the camera in a room.",
+    "action": "Creator gestures with her hands warning that standard hair dryers damage curly hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 13.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the pink WavyTalk Turblow Pro with white diffuser nozzle attached.",
+    "action": "She presents the dryer to the camera and explains that it relies on high-speed airflow instead of scorching heat.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.9,
+    "end_s": 27.5,
+    "shot_type": "medium shot timelapse",
+    "visual": "Sped-up demo of the creator diffusing her curly hair with a progress bar overlay.",
+    "action": "She scoops sections of damp curls with the diffuser from root to tip around her head while the progress counter advances from 7% to 98%.",
+    "product_visible": true
+   },
+   {
+    "start_s": 27.5,
+    "end_s": 31.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the dryer while touching her curls, which are now partially dry.",
+    "action": "She explains that the dryer works 5 times faster than traditional dryers.",
+    "product_visible": true
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 37.4,
+    "shot_type": "medium shot",
+    "visual": "Creator showcases her fully dried, defined, and bouncy voluminous curls.",
+    "action": "She fluffs her hair, shows off the bounce and volume with hand gestures, and smiles brightly.",
+    "product_visible": false
+   },
+   {
+    "start_s": 37.4,
+    "end_s": 44.24,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the WavyTalk Turblow Pro dryer with diffuser nozzle in front of her chest.",
+    "action": "She points to the dryer, outlines the 25% discount and 30-day return guarantee, then waves goodbye.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Close-up of a creator with wet curly hair gesturing with her finger towards the camera.",
+   "visual_0_3s": "Creator talking intensely to the camera with wet curly hair.",
+   "spoken_0_3s": "إذا شعرك كيرلي، السشوار تبعك عم ينزعلك ياه.",
+   "text_0_3s": "If you have curly hair, your dryer is killing it",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Direct finger point and bold statement blaming the hair dryer rather than the hair."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Problem callout: ordinary blow dryers fry and ruin curly hair",
+    "Product introduction: WavyTalk Turblow Pro dries with high-speed air, not extreme heat",
+    "Fast-motion application demo with animated progress bar",
+    "Result reveal: full bouncy defined curls in just 10 minutes",
+    "Special offer and risk-reversal guarantee: 25% off and 30-day money-back guarantee"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "less_heat_damage",
+    "saves_time",
+    "volume_and_bounce",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "High-speed air instead of heat",
+    "Dries hair 5x faster than conventional dryers",
+    "Full styling completed in only 10 minutes",
+    "Maintains curl definition and maximum volume without frying"
+   ],
+   "pain_points": [
+    "Standard hair dryers fry and burn curly hair",
+    "Heat damage leading to curl pattern destruction",
+    "Diffusing curls takes too long with regular dryers"
+   ],
+   "objections_handled": [
+    "Takes too long: dried in 10 minutes (5x faster)",
+    "Heat damages curls: uses high-speed airflow instead of high heat",
+    "Risk of buying online: 30 days return window if not satisfied"
+   ],
+   "social_proof": [],
+   "comparison_to": "Old conventional hair dryers / normal diffusers"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Turblow Pro (Pink) with Diffuser Nozzle"
+   ],
+   "first_seen_s": 4.5,
+   "first_used_on_hair_s": 13.9,
+   "final_result_shown_s": 31.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "25% off right now + 30-day return guarantee",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "RIGHT NOW",
+   "cta_spoken": "Bye guys!",
+   "cta_on_screen": "BYE GUYS",
+   "cta_at_s": 43.2
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Wet, limp, dark curly hair",
+   "hair_after": "Dry, highly voluminous, shiny, well-defined dark bouncy curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, passionate, confident, and energetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Low-volume upbeat background electronic beat underneath creator's voice and fast blow dryer whooshing in timelapse.",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 8.85,
+   "pacing": "fast",
+   "effects": [
+    "Speed ramp / timelapse during drying phase",
+    "Digital loading progress bar animation from 7% to 98%"
+   ],
+   "ending": "Creator holding the dryer, smiling, waving goodbye to the camera."
+  },
+  "notes": "Targeted at Lebanese curly-haired women experiencing heat damage from conventional blow dryers. Features the WavyTalk Turblow Pro high-speed dryer with diffuser attachment."
+ }
+}

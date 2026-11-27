@@ -1,0 +1,193 @@
+{
+ "media_key": "v_4081417405323780",
+ "analyzed_at": "2026-11-27T21:50:18+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "3cb06401e8045178b559dab04cd48e04c77c0b7b256c694c4fe04cd77e72ae88",
+ "source": {
+  "kind": "video",
+  "id": "4081417405323780",
+  "video_id": "1016702757977101",
+  "length_s": 41.421,
+  "permalink": "/23849366283980795/videos/1016702757977101/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 40.6,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates how she achieves a bouncy salon-quality blowout at home using a purple thermal round brush.",
+  "full_description": "The video shows a young woman demonstrating how to use a lavender/purple thermal round brush (Wavytalk Blowout Boost) to create a voluminous blowout. She starts by showcasing her finished bouncy hair in a quick result-first hook, then cuts through multiple steps of wrapping and brushing through sections of her long hair, finishing with her bangs. She ends by shaking out her voluminous hair with her hands while an on-screen call-to-action prompts viewers to purchase.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 36.5,
+    "text": "Get salon worthy blowouts at home without the pricey bill ❤️",
+    "role": "hook"
+   },
+   {
+    "start_s": 36.5,
+    "end_s": 40.6,
+    "text": "Get yours below",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator flips her layered, voluminous blowout over her face and adjusts it towards the camera.",
+    "action": "Hair flip showing voluminous blowout result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 9.7,
+    "shot_type": "medium shot",
+    "visual": "Creator uses a lavender thermal round brush on a lower side section of her long hair.",
+    "action": "Wrapping the hair strand around the heated round barrel and gliding down.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.7,
+    "end_s": 18.9,
+    "shot_type": "medium shot",
+    "visual": "Creator working on an upper mid-section on the opposite side.",
+    "action": "Rolling hair upwards towards the root and smoothing it out with the thermal brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.9,
+    "end_s": 27.5,
+    "shot_type": "medium shot",
+    "visual": "Creator curling a top side section away from her face.",
+    "action": "Rolling the brush down to create a soft flip at the end of the layer.",
+    "product_visible": true
+   },
+   {
+    "start_s": 27.5,
+    "end_s": 33.2,
+    "shot_type": "medium shot",
+    "visual": "Creator curling a high crown piece backwards.",
+    "action": "Twisting and rolling the thermal brush slowly through the hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 33.2,
+    "end_s": 35.8,
+    "shot_type": "medium shot",
+    "visual": "Creator styling front curtain bangs inward.",
+    "action": "Rolling the brush under the bangs and holding momentarily.",
+    "product_visible": true
+   },
+   {
+    "start_s": 35.8,
+    "end_s": 40.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator puts down the brush and runs her hands through her roots and ends, revealing full, bouncy hair.",
+    "action": "Tousling hair and looking at the camera.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera tossing thick, bouncy blowout hair over her shoulders.",
+   "visual_0_3s": "Creator flipping and fluffing her freshly styled voluminous hair in front of the mirror.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Get salon worthy blowouts at home without the pricey bill ❤️",
+   "hook_type": "result_first",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Instant dramatic hair flip showing perfect bouncy layers within the first second."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Result reveal hook via hair flip",
+    "Thermal brush application on side layers",
+    "Crown and root volume styling",
+    "Bangs shaping demo",
+    "Final tousle and call to action"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Get salon worthy blowouts at home without the pricey bill"
+   ],
+   "pain_points": [
+    "Expensive salon blowout appointments",
+    "Difficulty recreating salon bounce at home"
+   ],
+   "objections_handled": [
+    "Requires professional salon technique"
+   ],
+   "social_proof": [],
+   "comparison_to": "Salon blowouts"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 1.8,
+   "first_used_on_hair_s": 2.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "Get yours below",
+   "cta_at_s": 36.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long light brown / warm blonde hair with long layers",
+   "hair_after": "Voluminous, bouncy layered blowout with curled ends",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "calm, aesthetic, effortless"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Trending mellow indie pop song with female vocals ('Tip Toe to the Moon')",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 5.8,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator admiring hair in camera with 'Get yours below' overlay text"
+  },
+  "notes": "Silent demonstration format designed for organic-style Instagram/TikTok feed placement using trending background music and clean aesthetic visuals."
+ }
+}

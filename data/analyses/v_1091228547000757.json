@@ -1,0 +1,608 @@
+{
+ "media_key": "v_1091228547000757",
+ "analyzed_at": "2026-11-27T19:49:11+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "2d9f7fb7b2750a9ea4b03f1985d2675849d29bee71ae9210eb8051d946090fa6",
+ "source": {
+  "kind": "video",
+  "id": "1091228547000757",
+  "video_id": "2984275421909519",
+  "length_s": 93.646,
+  "permalink": "/23849366283980795/videos/2984275421909519/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 94.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates and reviews the Wavytalk Power Waver on her extra-long hair, transforming it into shiny mermaid waves.",
+  "full_description": "A female creator with very long, thick brown hair tests the Wavytalk Power Waver hair crimper for the first time. Sitting in a minimalist room, she explains that her hair is looking messy and unwashed, so she wants to try mermaid-style waves. She demonstrates sectioning her hair, clamping the waver down strand by strand, noting the automatic timer beep, temperature display (340°F), and ease of use. As each section is released, deep shiny waves appear. She completes her entire head and showcases the voluminous, glossy, crimped finished look before recommending the tool.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's try a new hairstyle!",
+    "text_english": "Let's try a new hairstyle!"
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 6.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "My hair is looking a little crazy today and I don't have time to wash it, so instead we're gonna use a crimper.",
+    "text_english": "My hair is looking a little crazy today and I don't have time to wash it, so instead we're gonna use a crimper."
+   },
+   {
+    "start_s": 6.7,
+    "end_s": 13.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm such a creature of habit, I never try new hairstyles, and I really wanna get better at that, and this is the perfect time.",
+    "text_english": "I'm such a creature of habit, I never try new hairstyles, and I really wanna get better at that, and this is the perfect time."
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 18.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Ooh, this kind of is cool, it beeps when you're done with the wave.",
+    "text_english": "Ooh, this kind of is cool, it beeps when you're done with the wave."
+   },
+   {
+    "start_s": 18.3,
+    "end_s": 20.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I feel like this is gonna look so cool.",
+    "text_english": "I feel like this is gonna look so cool."
+   },
+   {
+    "start_s": 20.3,
+    "end_s": 23.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And this is Wavytalk's new Power Waver.",
+    "text_english": "And this is Wavytalk's new Power Waver."
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 28.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay. Wow, that worked so well.",
+    "text_english": "Okay. Wow, that worked so well."
+   },
+   {
+    "start_s": 28.7,
+    "end_s": 36.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You guys always ask me to do a middle part, and we are going to do that today. I think it'll look beautiful with these mermaid type waves.",
+    "text_english": "You guys always ask me to do a middle part, and we are going to do that today. I think it'll look beautiful with these mermaid type waves."
+   },
+   {
+    "start_s": 37.0,
+    "end_s": 41.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay, that was so easy, and look how much I was able to just refresh my hairstyle.",
+    "text_english": "Okay, that was so easy, and look how much I was able to just refresh my hairstyle."
+   },
+   {
+    "start_s": 41.6,
+    "end_s": 45.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is great if you're not great with hair tools, because it's literally so easy.",
+    "text_english": "This is great if you're not great with hair tools, because it's literally so easy."
+   },
+   {
+    "start_s": 45.5,
+    "end_s": 49.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It tells you when to move it down, and you're literally just clamping your hair.",
+    "text_english": "It tells you when to move it down, and you're literally just clamping your hair."
+   },
+   {
+    "start_s": 49.8,
+    "end_s": 53.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I love that it still looks good if I leave my ends out because I can minimise heat exposure.",
+    "text_english": "I love that it still looks good if I leave my ends out because I can minimise heat exposure."
+   },
+   {
+    "start_s": 54.0,
+    "end_s": 57.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Oh, yeah. This is so good. Also, if you're curious, the heat setting I'm using is 340.",
+    "text_english": "Oh, yeah. This is so good. Also, if you're curious, the heat setting I'm using is 340."
+   },
+   {
+    "start_s": 57.8,
+    "end_s": 63.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I wish I had this on my honeymoon for that, like, beach vibe. Look how shiny it makes my hair.",
+    "text_english": "I wish I had this on my honeymoon for that, like, beach vibe. Look how shiny it makes my hair."
+   },
+   {
+    "start_s": 64.0,
+    "end_s": 66.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "First and second sections done. This is amazing.",
+    "text_english": "First and second sections done. This is amazing."
+   },
+   {
+    "start_s": 66.9,
+    "end_s": 71.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I love using a product for the first time on camera so you can get my real time review.",
+    "text_english": "I love using a product for the first time on camera so you can get my real time review."
+   },
+   {
+    "start_s": 71.1,
+    "end_s": 75.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's a great heat tool if you have hair damage because it's so gentle on your hair.",
+    "text_english": "It's a great heat tool if you have hair damage because it's so gentle on your hair."
+   },
+   {
+    "start_s": 75.5,
+    "end_s": 78.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Last section done. Are you ready for the results?",
+    "text_english": "Last section done. Are you ready for the results?"
+   },
+   {
+    "start_s": 79.0,
+    "end_s": 83.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is so, so good. I'm so happy I tried this.",
+    "text_english": "This is so, so good. I'm so happy I tried this."
+   },
+   {
+    "start_s": 83.6,
+    "end_s": 86.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It is amazing. I'm so impressed with how much shine it added to my hair.",
+    "text_english": "It is amazing. I'm so impressed with how much shine it added to my hair."
+   },
+   {
+    "start_s": 87.0,
+    "end_s": 90.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let me know what you think and if I should do this more often! And definitely check this out.",
+    "text_english": "Let me know what you think and if I should do this more often! And definitely check this out."
+   },
+   {
+    "start_s": 90.6,
+    "end_s": 93.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is the Wavytalk Power Waver. I mean, I'm absolutely loving this!",
+    "text_english": "This is the Wavytalk Power Waver. I mean, I'm absolutely loving this!"
+   }
+  ],
+  "transcript_full_original": "Let's try a new hairstyle! My hair is looking a little crazy today and I don't have time to wash it, so instead we're gonna use a crimper. I'm such a creature of habit, I never try new hairstyles, and I really wanna get better at that, and this is the perfect time. Ooh, this kind of is cool, it beeps when you're done with the wave. I feel like this is gonna look so cool. And this is Wavytalk's new Power Waver. Okay. Wow, that worked so well. You guys always ask me to do a middle part, and we are going to do that today. I think it'll look beautiful with these mermaid type waves. Okay, that was so easy, and look how much I was able to just refresh my hairstyle. This is great if you're not great with hair tools, because it's literally so easy. It tells you when to move it down, and you're literally just clamping your hair. I love that it still looks good if I leave my ends out because I can minimise heat exposure. Oh, yeah. This is so good. Also, if you're curious, the heat setting I'm using is 340. I wish I had this on my honeymoon for that, like, beach vibe. Look how shiny it makes my hair. First and second sections done. This is amazing. I love using a product for the first time on camera so you can get my real time review. It's a great heat tool if you have hair damage because it's so gentle on your hair. Last section done. Are you ready for the results? This is so, so good. I'm so happy I tried this. It is amazing. I'm so impressed with how much shine it added to my hair. Let me know what you think and if I should do this more often! And definitely check this out. This is the Wavytalk Power Waver. I mean, I'm absolutely loving this!",
+  "transcript_full_english": "Let's try a new hairstyle! My hair is looking a little crazy today and I don't have time to wash it, so instead we're gonna use a crimper. I'm such a creature of habit, I never try new hairstyles, and I really wanna get better at that, and this is the perfect time. Ooh, this kind of is cool, it beeps when you're done with the wave. I feel like this is gonna look so cool. And this is Wavytalk's new Power Waver. Okay. Wow, that worked so well. You guys always ask me to do a middle part, and we are going to do that today. I think it'll look beautiful with these mermaid type waves. Okay, that was so easy, and look how much I was able to just refresh my hairstyle. This is great if you're not great with hair tools, because it's literally so easy. It tells you when to move it down, and you're literally just clamping your hair. I love that it still looks good if I leave my ends out because I can minimise heat exposure. Oh, yeah. This is so good. Also, if you're curious, the heat setting I'm using is 340. I wish I had this on my honeymoon for that, like, beach vibe. Look how shiny it makes my hair. First and second sections done. This is amazing. I love using a product for the first time on camera so you can get my real time review. It's a great heat tool if you have hair damage because it's so gentle on your hair. Last section done. Are you ready for the results? This is so, so good. I'm so happy I tried this. It is amazing. I'm so impressed with how much shine it added to my hair. Let me know what you think and if I should do this more often! And definitely check this out. This is the Wavytalk Power Waver. I mean, I'm absolutely loving this!",
+  "word_count": 273,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.7,
+    "text": "Let's try a new hairstyle!",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 4.5,
+    "text": "My hair is looking a little crazy today and I don't have time to wash it,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 6.7,
+    "text": "so instead we're gonna use a crimper.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.7,
+    "end_s": 9.2,
+    "text": "I'm such a creature of habit, I never try new hairstyles,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.2,
+    "end_s": 11.7,
+    "text": "and I really wanna get better at that,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.7,
+    "end_s": 14.0,
+    "text": "and this is the perfect time.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 16.1,
+    "text": "Ooh, this kind of is cool,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.1,
+    "end_s": 18.2,
+    "text": "it beeps when you're done with the wave.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.3,
+    "end_s": 20.2,
+    "text": "I feel like this is gonna look so cool.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.3,
+    "end_s": 23.5,
+    "text": "And this is Wavytalk's new Power Waver.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 26.5,
+    "text": "Okay.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 26.6,
+    "end_s": 28.5,
+    "text": "Wow, that worked so well.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 28.7,
+    "end_s": 32.5,
+    "text": "You guys always ask me to do a middle part, and we are going to do that today.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 32.6,
+    "end_s": 36.3,
+    "text": "I think it'll look beautiful with these mermaid type waves.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 37.0,
+    "end_s": 41.5,
+    "text": "Okay, that was so easy, and look how much I was able to just refresh my hairstyle.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 41.6,
+    "end_s": 45.4,
+    "text": "This is great if you're not great with hair tools, because it's literally so easy.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 45.5,
+    "end_s": 49.7,
+    "text": "It tells you when to move it down and you're literally just clamping your hair.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 49.8,
+    "end_s": 53.9,
+    "text": "I love that it still looks good if I leave my ends out because I can minimise heat exposure.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 54.0,
+    "end_s": 55.4,
+    "text": "Oh, yeah. This is so good. Also,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 55.5,
+    "end_s": 57.5,
+    "text": "if you're curious, the heat setting I'm using is 340.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 57.8,
+    "end_s": 61.3,
+    "text": "I wish I had this on my honeymoon for that, like, beach vibe.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 61.4,
+    "end_s": 63.8,
+    "text": "Look how shiny it makes my hair.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 64.0,
+    "end_s": 66.8,
+    "text": "First and second sections done. This is amazing.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 66.9,
+    "end_s": 71.0,
+    "text": "I love using a product for the first time on camera so you can get my real time review.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 71.1,
+    "end_s": 75.3,
+    "text": "It's a great heat tool if you have hair damage because it's so gentle on your hair.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 75.5,
+    "end_s": 78.5,
+    "text": "Last section done. Are you ready for the results?",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 79.0,
+    "end_s": 83.5,
+    "text": "This is so, so good. I'm so happy I tried this.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 83.6,
+    "end_s": 86.8,
+    "text": "It is amazing. I'm so impressed with how much shine it added to my hair.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 87.0,
+    "end_s": 90.5,
+    "text": "Let me know what you think and if I should do this more often!",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 90.6,
+    "end_s": 92.5,
+    "text": "And definitely check this out. This is the Wavytalk Power Waver.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 92.6,
+    "end_s": 93.8,
+    "text": "I mean, I'm absolutely loving this!",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.6,
+    "shot_type": "medium shot",
+    "visual": "Creator sits facing camera in a black long-sleeve top with long brunette hair falling past her waist, holding the pink Wavytalk Power Waver in her hand.",
+    "action": "Creator talks directly to camera, showing her unstyled hair and introducing the crimper.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.6,
+    "end_s": 24.0,
+    "shot_type": "medium close-up",
+    "visual": "Top portion of hair pinned up with a pink scrunchie. Creator holds the Power Waver clamped onto a section of lower hair.",
+    "action": "Creator clamps the tool down her hair length, waiting for the timer beep, sliding it down step by step.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.0,
+    "end_s": 28.5,
+    "shot_type": "medium shot",
+    "visual": "Creator looks down at the newly formed deep wave pattern in her hair strand.",
+    "action": "Creator reacts happily to how well the first strand waved.",
+    "product_visible": false
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 36.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the Power Waver clamped onto another long section of hair on the other side.",
+    "action": "Creator continues clamping and discusses doing a middle part.",
+    "product_visible": true
+   },
+   {
+    "start_s": 36.5,
+    "end_s": 41.5,
+    "shot_type": "medium shot",
+    "visual": "Creator gestures towards both styled bottom sections framing her chest.",
+    "action": "Creator points at the crimped hair, praising how easily it refreshed her unwashed hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 41.5,
+    "end_s": 50.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator styles another layer of hair with the Power Waver.",
+    "action": "Creator moves the tool down the hair strand, demonstrating the clamping motion.",
+    "product_visible": true
+   },
+   {
+    "start_s": 50.0,
+    "end_s": 54.0,
+    "shot_type": "medium shot",
+    "visual": "Creator shows her hair with straight tips left out to avoid heat damage.",
+    "action": "Creator gestures to her hair ends and touches the waves.",
+    "product_visible": false
+   },
+   {
+    "start_s": 54.0,
+    "end_s": 57.5,
+    "shot_type": "close-up",
+    "visual": "Creator holds the pink Power Waver up to the camera showing the digital screen displaying 340°F.",
+    "action": "Creator points to the temperature setting on the waver handle.",
+    "product_visible": true
+   },
+   {
+    "start_s": 57.5,
+    "end_s": 63.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator clamping a strand horizontally near ear level.",
+    "action": "Creator continues styling and admires the shine created on her hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 63.8,
+    "end_s": 66.8,
+    "shot_type": "medium shot",
+    "visual": "Two large sections of voluminous crimped waves hanging down both shoulders.",
+    "action": "Creator fluffs the waves and smiles at the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 66.8,
+    "end_s": 75.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the final top crown layer close to the roots.",
+    "action": "Creator carefully clamps the top section near her forehead and moves down.",
+    "product_visible": true
+   },
+   {
+    "start_s": 75.3,
+    "end_s": 86.8,
+    "shot_type": "medium shot",
+    "visual": "Creator with all hair let down, completely styled in uniform glossy mermaid waves.",
+    "action": "Creator shakes out her hair, fluffs the crown and sides, admiring the shine and volume.",
+    "product_visible": false
+   },
+   {
+    "start_s": 86.8,
+    "end_s": 94.0,
+    "shot_type": "medium shot",
+    "visual": "Creator holds the pink Wavytalk Power Waver next to her face, smiling broadly with styled hair.",
+    "action": "Creator recommends the tool, points at the device, and smiles happily.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator sits facing camera with extra-long brunette hair holding the pink hair tool, with caption 'Let's try a new hairstyle!'.",
+   "visual_0_3s": "Creator holds the pink waver up and touches her long unstyled hair.",
+   "spoken_0_3s": "Let's try a new hairstyle! My hair is looking a little crazy today...",
+   "text_0_3s": "Let's try a new hairstyle!",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "problem_callout",
+   "pattern_interrupt": "Promising a fast hair fix for messy, unwashed extra-long hair using a new crimper tool."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Problem introduction: messy unwashed hair needs a quick refresh",
+    "Tool introduction: Wavytalk Power Waver crimper",
+    "Step-by-step styling: explains timer beep and automatic guidance",
+    "Feature highlight: heat settings (340°F) and hair health / heat protection by leaving ends out",
+    "Mid-process check-in and beach vibe comparison",
+    "Final big reveal of glossy, voluminous mermaid waves",
+    "Call to action and endorsement"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "less_heat_damage",
+    "saves_time"
+   ],
+   "key_claims": [
+    "Beeps when the wave is done so you know when to move down",
+    "Incredibly easy even if you're not good with hair tools",
+    "Leaves hair very shiny and healthy looking",
+    "Gentle heat tool suitable even for damaged hair"
+   ],
+   "pain_points": [
+    "Not having time to wash hair when it looks crazy",
+    "Stuck in a hairstyle rut / afraid to try new styles",
+    "Difficulty using complicated hair styling tools",
+    "Fear of excessive heat damage"
+   ],
+   "objections_handled": [
+    "Too complicated to use: tool beeps when finished and requires just clamping",
+    "Heat damage concern: you can leave ends out and use low temperature like 340°F",
+    "Takes too long on long hair: sections clamp quickly and refresh style efficiently"
+   ],
+   "social_proof": [
+    "Creator mentions followers always asking her to try a middle part",
+    "Real-time first impression review on camera"
+   ],
+   "comparison_to": "Traditional hair styling tools that require manual timing and technique"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Power Waver"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 6.7,
+   "final_result_shown_s": 78.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Let me know what you think and if I should do this more often! And definitely check this out.",
+   "cta_on_screen": "",
+   "cta_at_s": 87.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Extra-long (past waist), straight/slightly wavy, unwashed brunette hair",
+   "hair_after": "Voluminous, ultra-glossy, defined deep mermaid crimped waves",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Warm, relatable, authentic, enthusiastic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat lo-fi background instrumental music supporting clear spoken dialogue.",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 11.7,
+   "pacing": "medium",
+   "effects": [
+    "Jump cuts between hair sections",
+    "burned-in subtitles"
+   ],
+   "ending": "Creator smiling directly at camera holding the waver next to her face and sharing final recommendation."
+  },
+  "notes": "Original English UGC creator review repurposed for the WavyTalk ad account. The creator demonstrates genuine first-time reactions and highlights specific practical features like the beep notification and digital heat gauge."
+ }
+}

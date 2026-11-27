@@ -1,0 +1,154 @@
+{
+ "media_key": "i_0338e977bcc83dafd1c2934e62954541",
+ "analyzed_at": "2026-11-27T18:38:14+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "0a5a7675b4f1abfb4004b2e65baac96b5d28ff3b74f2626c83a38d04a6a67b20",
+ "source": {
+  "kind": "image",
+  "id": "0338e977bcc83dafd1c2934e62954541"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "Static Black Friday Early Access promotional ad offering up to 30% off sitewide featuring the Wavytalk Steamline Pro steam straightener brush.",
+  "full_description": "A square promotional static graphic for Wavytalk's Black Friday Early Access sale. The top displays the headline 'IT'S GIVING UP TO 30% OFF SITEWIDE'. Below, two framed rounded boxes showcase the product: on the left, three color variants (white, sky blue, baby pink) of the Steamline Pro Steam Straightener Brush; on the right, a blonde model wearing a burgundy cardigan holding the pink brush against a beige studio background. Diagonal pink ribbon graphics with the repeated phrase 'BLACK FRIDAY EARLY ACCESS' frame the top left and right/bottom corners, with the bold black 'WAVYTALK' logo centered at the bottom.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "BLACK FRIDAY EARLY ACCESS",
+    "role": "hook"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "IT'S GIVING",
+    "role": "hook"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "UP TO 30% OFF SITEWIDE",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Steamline Pro Steam Straightener Brush",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK",
+    "role": "brand"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "split-screen graphic",
+    "visual": "Static graphic layout with promotional text at top, product color lineup on the left, studio shot of blonde model holding pink Steamline Pro on the right, and Wavytalk logo at the bottom.",
+    "action": "None (static graphic ad).",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "White background promotional graphic reading 'IT'S GIVING UP TO 30% OFF SITEWIDE' flanked by pink 'BLACK FRIDAY EARLY ACCESS' diagonal ribbons.",
+   "visual_0_3s": "Promotional graphic display showing sale banner, model holding Steamline Pro brush, and 3 color variants.",
+   "spoken_0_3s": "",
+   "text_0_3s": "IT'S GIVING UP TO 30% OFF SITEWIDE",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "product_reveal",
+   "pattern_interrupt": "Bold contrasting headline typography with diagonal pink Black Friday hazard-style tape/ribbon."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Headline sale announcement (Up to 30% off sitewide for Black Friday Early Access)",
+    "Product showcase (Steamline Pro Steam Straightener Brush in three colors)",
+    "Lifestyle model visual demonstrating product scale and sleek hair result"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Up to 30% off sitewide",
+    "Black Friday early access"
+   ],
+   "pain_points": [],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Steamline Pro Steam Straightener Brush"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": 0,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "Up to 30% off sitewide (Black Friday Early Access)",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Black Friday Early Access",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "model",
+   "name_if_shown": "",
+   "age_range": "20s",
+   "hair_before": "",
+   "hair_after": "Straight, smooth blonde hair pinned with clips",
+   "setting": "studio",
+   "faces_camera": true,
+   "energy_tone": "calm, glamorous commercial look"
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "Graphic frame overlay",
+    "Ribbon tape graphic design"
+   ],
+   "ending": "Static image layout"
+  },
+  "notes": "Static image asset for Meta ad placements highlighting Black Friday Early Access sitewide discount for the Lebanese market."
+ }
+}

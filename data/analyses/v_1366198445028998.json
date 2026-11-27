@@ -1,0 +1,538 @@
+{
+ "media_key": "v_1366198445028998",
+ "analyzed_at": "2026-11-27T21:28:07+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "ca0860e44d4e7578a40c6a31400fbcbd01833768802cbd4143406506fde7c7a1",
+ "source": {
+  "kind": "video",
+  "id": "1366198445028998",
+  "errors": [
+   "1366198445028998: Gave up after 5 retries: https://graph.facebook.com/v26.0/1366198445028998",
+   "1372642567682501: Gave up after 5 retries: https://graph.facebook.com/v26.0/1372642567682501"
+  ],
+  "ig_media_id": "18086051882672235",
+  "permalink": "https://www.instagram.com/p/Db_QYt1M98z/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 94.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator with 30-inch curly hair styles her hair using a thermal blowout brush, discussing heat damage, technique, and de-influencing viewers from buying a $600 tool.",
+  "full_description": "A creator wearing a white bathrobe shows off her very long, voluminous curly hair before sectioning and styling it using the WavyTalk thermal round brush. She speaks directly to the camera about heat styling curly hair weekly without ruining it, sharing that switching from flat irons to heated round brushes with fewer passes transformed her hair health and length. Towards the end, she explicitly de-influences viewers from buying $600 hair styling tools, asserting that affordable tools like the thermal brush deliver incredible salon blowout results.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Welcome to my salon.",
+    "text_english": "Welcome to my salon."
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 6.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "We heat style our curly hair multiple times a week every single week and we don't care what anyone has to say about it.",
+    "text_english": "We heat style our curly hair multiple times a week every single week and we don't care what anyone has to say about it."
+   },
+   {
+    "start_s": 6.2,
+    "end_s": 10.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I feel like at this point I should be the spokesperson for heat styling your curly hair without ruining it.",
+    "text_english": "I feel like at this point I should be the spokesperson for heat styling your curly hair without ruining it."
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 15.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And I'm not saying that I have perfect hair by any means, but I do have 30 inches of hair,",
+    "text_english": "And I'm not saying that I have perfect hair by any means, but I do have 30 inches of hair,"
+   },
+   {
+    "start_s": 15.7,
+    "end_s": 19.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and I've been doing this for over a decade,",
+    "text_english": "and I've been doing this for over a decade,"
+   },
+   {
+    "start_s": 19.4,
+    "end_s": 22.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "so I feel like that should count for something.",
+    "text_english": "so I feel like that should count for something."
+   },
+   {
+    "start_s": 22.1,
+    "end_s": 26.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Something a lot of people fail to realize is that a lot of hair care is trial and error.",
+    "text_english": "Something a lot of people fail to realize is that a lot of hair care is trial and error."
+   },
+   {
+    "start_s": 26.1,
+    "end_s": 28.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You know your hair is too long when it's barely fitting in the frame.",
+    "text_english": "You know your hair is too long when it's barely fitting in the frame."
+   },
+   {
+    "start_s": 28.2,
+    "end_s": 32.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Speaking of trial and error, I just tried a new product and my hair feels incredible.",
+    "text_english": "Speaking of trial and error, I just tried a new product and my hair feels incredible."
+   },
+   {
+    "start_s": 32.2,
+    "end_s": 35.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Can't say what it is yet, but I can soon, so stay tuned!",
+    "text_english": "Can't say what it is yet, but I can soon, so stay tuned!"
+   },
+   {
+    "start_s": 35.1,
+    "end_s": 40.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Feel like when I say trial and error, people immediately think that I mean to buy a ton of products, and I don't mean that at all actually.",
+    "text_english": "Feel like when I say trial and error, people immediately think that I mean to buy a ton of products, and I don't mean that at all actually."
+   },
+   {
+    "start_s": 40.9,
+    "end_s": 44.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Yes, products play a part, more so mean your techniques.",
+    "text_english": "Yes, products play a part, more so mean your techniques."
+   },
+   {
+    "start_s": 44.6,
+    "end_s": 49.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "For example, when I stopped using regular straightening irons, my hair completely changed.",
+    "text_english": "For example, when I stopped using regular straightening irons, my hair completely changed."
+   },
+   {
+    "start_s": 49.4,
+    "end_s": 52.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Like the difference is insane. My hair would not grow past this length",
+    "text_english": "Like the difference is insane. My hair would not grow past this length"
+   },
+   {
+    "start_s": 52.9,
+    "end_s": 57.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "because I was using a regular straightening iron. So sometimes it just comes down to your tools.",
+    "text_english": "because I was using a regular straightening iron. So sometimes it just comes down to your tools."
+   },
+   {
+    "start_s": 57.6,
+    "end_s": 64.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "My hair improved so much when I started using higher heat, less passes, and tools that didn't require so much mechanical damage.",
+    "text_english": "My hair improved so much when I started using higher heat, less passes, and tools that didn't require so much mechanical damage."
+   },
+   {
+    "start_s": 64.7,
+    "end_s": 71.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Found that that's why I'm able to use heat so much more often now, especially using heat protectant that actually works.",
+    "text_english": "Found that that's why I'm able to use heat so much more often now, especially using heat protectant that actually works."
+   },
+   {
+    "start_s": 71.1,
+    "end_s": 76.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And I'm not saying it'll work for everyone, but that is my experience and I'm actually shook with how good my hair feels.",
+    "text_english": "And I'm not saying it'll work for everyone, but that is my experience and I'm actually shook with how good my hair feels."
+   },
+   {
+    "start_s": 76.2,
+    "end_s": 81.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Oh, and if you need someone to de-influence you from getting a 600 dollar hair tool, let me be that girl for you.",
+    "text_english": "Oh, and if you need someone to de-influence you from getting a 600 dollar hair tool, let me be that girl for you."
+   },
+   {
+    "start_s": 81.3,
+    "end_s": 87.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Because I love this tool, I use it all the time, and frankly I just don't think a 600 dollar hair tool is worth it.",
+    "text_english": "Because I love this tool, I use it all the time, and frankly I just don't think a 600 dollar hair tool is worth it."
+   },
+   {
+    "start_s": 87.1,
+    "end_s": 89.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Take it from me and this hair.",
+    "text_english": "Take it from me and this hair."
+   },
+   {
+    "start_s": 89.3,
+    "end_s": 92.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I make so many videos with this tool, so if you want more, then let me know,",
+    "text_english": "I make so many videos with this tool, so if you want more, then let me know,"
+   },
+   {
+    "start_s": 92.5,
+    "end_s": 94.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and let me know what you think of this final look.",
+    "text_english": "and let me know what you think of this final look."
+   }
+  ],
+  "transcript_full_original": "Welcome to my salon. We heat style our curly hair multiple times a week every single week and we don't care what anyone has to say about it. I feel like at this point I should be the spokesperson for heat styling your curly hair without ruining it. And I'm not saying that I have perfect hair by any means, but I do have 30 inches of hair, and I've been doing this for over a decade, so I feel like that should count for something. Something a lot of people fail to realize is that a lot of hair care is trial and error. You know your hair is too long when it's barely fitting in the frame. Speaking of trial and error, I just tried a new product and my hair feels incredible. Can't say what it is yet, but I can soon, so stay tuned! Feel like when I say trial and error, people immediately think that I mean to buy a ton of products, and I don't mean that at all actually. Yes, products play a part, more so mean your techniques. For example, when I stopped using regular straightening irons, my hair completely changed. Like the difference is insane. My hair would not grow past this length because I was using a regular straightening iron. So sometimes it just comes down to your tools. My hair improved so much when I started using higher heat, less passes, and tools that didn't require so much mechanical damage. Found that that's why I'm able to use heat so much more often now, especially using heat protectant that actually works. And I'm not saying it'll work for everyone, but that is my experience and I'm actually shook with how good my hair feels. Oh, and if you need someone to de-influence you from getting a 600 dollar hair tool, let me be that girl for you. Because I love this tool, I use it all the time, and frankly I just don't think a 600 dollar hair tool is worth it. Take it from me and this hair. I make so many videos with this tool, so if you want more, then let me know and let me know what you think of this final look.",
+  "transcript_full_english": "Welcome to my salon. We heat style our curly hair multiple times a week every single week and we don't care what anyone has to say about it. I feel like at this point I should be the spokesperson for heat styling your curly hair without ruining it. And I'm not saying that I have perfect hair by any means, but I do have 30 inches of hair, and I've been doing this for over a decade, so I feel like that should count for something. Something a lot of people fail to realize is that a lot of hair care is trial and error. You know your hair is too long when it's barely fitting in the frame. Speaking of trial and error, I just tried a new product and my hair feels incredible. Can't say what it is yet, but I can soon, so stay tuned! Feel like when I say trial and error, people immediately think that I mean to buy a ton of products, and I don't mean that at all actually. Yes, products play a part, more so mean your techniques. For example, when I stopped using regular straightening irons, my hair completely changed. Like the difference is insane. My hair would not grow past this length because I was using a regular straightening iron. So sometimes it just comes down to your tools. My hair improved so much when I started using higher heat, less passes, and tools that didn't require so much mechanical damage. Found that that's why I'm able to use heat so much more often now, especially using heat protectant that actually works. And I'm not saying it'll work for everyone, but that is my experience and I'm actually shook with how good my hair feels. Oh, and if you need someone to de-influence you from getting a 600 dollar hair tool, let me be that girl for you. Because I love this tool, I use it all the time, and frankly I just don't think a 600 dollar hair tool is worth it. Take it from me and this hair. I make so many videos with this tool, so if you want more, then let me know and let me know what you think of this final look.",
+  "word_count": 313,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "text": "Welcome to my salon!",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 4.5,
+    "text": "We heat style our curly hair multiple times a week,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 6.1,
+    "text": "and we don't care what anyone has to say about it.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.2,
+    "end_s": 9.5,
+    "text": "I should be the spokesperson for heat styling your curly hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 14.0,
+    "text": "without ruining it. I'm not saying that I have perfect hair by any means,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.0,
+    "end_s": 18.0,
+    "text": "but I do have 30 inches of hair and I've been doing this for over a decade,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 22.0,
+    "text": "so I feel like that should count for something.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.1,
+    "end_s": 26.0,
+    "text": "Something a lot of people fail to realize is that a lot of hair care is trial and error.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 26.1,
+    "end_s": 28.1,
+    "text": "You know your hair is too long when it's barely fitting in the frame.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 28.2,
+    "end_s": 32.1,
+    "text": "Speaking of trial and error, I just tried a new product and my hair feels incredible.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 32.2,
+    "end_s": 35.0,
+    "text": "Can't say what it is yet, but I can soon, so stay tuned!",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 35.1,
+    "end_s": 40.8,
+    "text": "Feel like when I say trial and error, people immediately think that I mean to buy a ton of products, and I don't mean that at all.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 40.9,
+    "end_s": 44.5,
+    "text": "Actually yes, products play a part, more so mean your techniques.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 44.6,
+    "end_s": 49.3,
+    "text": "For example, when I stopped using regular straightening irons, my hair completely changed.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 49.4,
+    "end_s": 52.8,
+    "text": "Like the difference is insane. My hair would not grow past this length",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 52.9,
+    "end_s": 57.5,
+    "text": "because I was using a regular straightening iron. So sometimes it just comes down to your tools.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 57.6,
+    "end_s": 64.6,
+    "text": "My hair improved so much when I started using higher heat, less passes, and tools that didn't require so much mechanical damage.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 64.7,
+    "end_s": 71.0,
+    "text": "Found that that's why I'm able to use heat so much more often now. Especially using heat protectant that actually works.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 71.1,
+    "end_s": 76.1,
+    "text": "And I'm not saying it'll work for everyone, but that is my experience and I'm actually shook with how good my hair feels.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 76.2,
+    "end_s": 81.2,
+    "text": "and if you need someone to de influence you from getting a 600 dollar hair tool, let me be that girl for you.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 81.3,
+    "end_s": 87.0,
+    "text": "Because I love this tool, I use it all the time. And frankly I just don't think a 600 dollar hair tool is worth it.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 87.1,
+    "end_s": 89.2,
+    "text": "Take it from me and this hair.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 89.3,
+    "end_s": 92.4,
+    "text": "I make so many videos with this tool, so if you want more, then let me know",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 92.5,
+    "end_s": 94.0,
+    "text": "and let me know what you think of this final look.",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.5,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting in a bathrobe showing her extremely long, voluminous curly hair.",
+    "action": "Creator shakes out her massive curly hair, introducing her routine and sectioning hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.5,
+    "end_s": 6.0,
+    "shot_type": "medium shot",
+    "visual": "Creator holds the WavyTalk thermal round brush in her left hand while talking.",
+    "action": "Creator reveals the thermal brush to camera and clips top hair sections up.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.0,
+    "end_s": 22.0,
+    "shot_type": "medium shot",
+    "visual": "Creator styling long lower section of hair with the thermal round brush.",
+    "action": "Creator glides and rolls the thermal brush through a long hair strand to smooth and bevel it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 35.0,
+    "shot_type": "medium shot",
+    "visual": "Cut to creator showing the brushed-out blowout texture, discussing hair growth and trial and error.",
+    "action": "Creator shakes and combs through her hair, pointing to the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 35.0,
+    "end_s": 57.5,
+    "shot_type": "medium shot",
+    "visual": "Creator continues styling middle and side sections with the thermal round brush.",
+    "action": "Creator rolls the round brush through strands, demonstrating slow single passes.",
+    "product_visible": true
+   },
+   {
+    "start_s": 57.5,
+    "end_s": 76.0,
+    "shot_type": "medium shot",
+    "visual": "Creator wrapping front pieces and side locks into the thermal brush.",
+    "action": "Creator twirls the thermal brush at the ends to create bouncy blowout waves.",
+    "product_visible": true
+   },
+   {
+    "start_s": 76.0,
+    "end_s": 83.0,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the top crown / front bangs section upward and back with the brush.",
+    "action": "Creator curls crown section backwards to create root volume while talking about de-influencing $600 tools.",
+    "product_visible": true
+   },
+   {
+    "start_s": 83.0,
+    "end_s": 89.0,
+    "shot_type": "medium shot",
+    "visual": "Creator releasing and shaking out her completed voluminous blowout.",
+    "action": "Creator fluffs her hair with her fingers, showing off shiny, smooth, long hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 89.0,
+    "end_s": 94.0,
+    "shot_type": "medium shot",
+    "visual": "Creator holding up the WavyTalk thermal brush next to her finished blowout hairstyle.",
+    "action": "Creator displays the tool, pats hair, and asks viewers for their thoughts in the comments.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing very long, big curly hair in a white robe.",
+   "visual_0_3s": "Creator shakes out 30-inch curly hair and starts brushing it while talking directly to camera.",
+   "spoken_0_3s": "Welcome to my salon. We heat style our curly hair multiple times a week,",
+   "text_0_3s": "Welcome to my salon! / We heat style our curly hair multiple times a week,",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Shockingly long natural curly hair shown in raw untreated state immediately capturing visual attention."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Controversial hook: heat styling curly hair weekly without damaging it",
+    "Authority proof: having 30 inches of long hair maintained over a decade",
+    "Problem/Solution breakdown: traditional flat irons cause mechanical damage; thermal brushes allow fewer passes and retain length",
+    "Direct comparison / de-influencing: advising against overpriced $600 tools when affordable thermal brushes achieve the same blowout",
+    "Final reveal: showing off the finished voluminous, glossy blowout"
+   ],
+   "main_angle": "price_value_vs_dyson",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "volume_and_bounce",
+    "less_heat_damage"
+   ],
+   "key_claims": [
+    "Allows heat styling multiple times a week without ruining curly hair",
+    "Requires fewer passes and causes less mechanical damage than a flat iron",
+    "Delivers salon-quality blowout results without spending $600 on luxury tools"
+   ],
+   "pain_points": [
+    "Heat damage from traditional flat irons preventing hair growth",
+    "Difficulty managing and smoothing thick, long, curly hair",
+    "Expensive $600 multi-stylers that are overpriced"
+   ],
+   "objections_handled": [
+    "Frequent heat styling will destroy curls/length: refuted by her 30 inches of healthy hair",
+    "High heat is always bad: explained that higher heat with fewer passes causes less mechanical damage than repeated passes"
+   ],
+   "social_proof": [
+    "10+ years personal experience styling 30-inch curly hair"
+   ],
+   "comparison_to": "Traditional flat straightening irons and $600 luxury styling tools (Dyson Airwrap)"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 3.5,
+   "first_used_on_hair_s": 6.0,
+   "final_result_shown_s": 83.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "$600 (referenced for competitor tool)",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Let me know and let me know what you think of this final look.",
+   "cta_on_screen": "",
+   "cta_at_s": 92.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Thick, very long (30 inches), voluminous brunette curly/crimped textured hair",
+   "hair_after": "Ultra smooth, sleek, shiny, voluminous blowout with bouncy curled ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Confident, authentic, conversational, educational"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No background music, crisp natural speaking audio and light hair brush movement sounds.",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 11.7,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between styling steps"
+   ],
+   "ending": "Creator fluffs her styled hair, holds the thermal tool up, smiles and asks viewers for their opinion."
+  },
+  "notes": "Original organic TikTok/Reels style UGC video reused as performance creative for WavyTalk in the Levant region. Strong 'de-influencing' hook contrasting against the $600 Dyson Airwrap."
+ }
+}

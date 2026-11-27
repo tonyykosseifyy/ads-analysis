@@ -1,0 +1,541 @@
+{
+ "media_key": "v_1713454017019534",
+ "analyzed_at": "2026-11-27T21:42:27+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "9d1540f6267bda0b4145efca4d6e80951e67d82f1bd724c86890afafe914d1a2",
+ "source": {
+  "kind": "video",
+  "id": "1713454017019534",
+  "errors": [
+   "1713454017019534: Gave up after 5 retries: https://graph.facebook.com/v26.0/1713454017019534"
+  ],
+  "video_id": "2209534746602309",
+  "length_s": 58.468,
+  "permalink": "/23849366283980795/videos/2209534746602309/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 57.7,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates straightening her thick curly hair in 10 minutes using the WavyTalk Steam straightener brush with a one-pass test.",
+  "full_description": "A woman with thick, voluminous curly dark hair demonstrates how she straightens her hair in 10 minutes using the WavyTalk Pro Steam straightener (Steambrush Pro). She displays the device, explains the heat and steam settings, performs an uncut 'one pass test' on a dense section of hair, shows how easily it reaches the roots without burning, addresses how long the straightening results last (up to a week with humidity spray), and reveals the smooth, glossy final result while recommending it as a gift or upgrade.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "All of these curls straightened in 10 minutes? Let me show you.",
+    "text_english": "All of these curls straightened in 10 minutes? Let me show you."
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 6.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is the WavyTalk Pro Steam straightener. It has four heat settings and a steam setting.",
+    "text_english": "This is the WavyTalk Pro Steam straightener. It has four heat settings and a steam setting."
+   },
+   {
+    "start_s": 6.4,
+    "end_s": 9.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "For my curls, I use 380 or 410.",
+    "text_english": "For my curls, I use 380 or 410."
+   },
+   {
+    "start_s": 9.1,
+    "end_s": 13.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And I always have to do the one pass test. Watch me do this whole section, no cuts, no skipping ahead.",
+    "text_english": "And I always have to do the one pass test. Watch me do this whole section, no cuts, no skipping ahead."
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 19.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The brush design lets me work with bigger sections, and the steam helps speed everything up while helping my hair retain moisture.",
+    "text_english": "The brush design lets me work with bigger sections, and the steam helps speed everything up while helping my hair retain moisture."
+   },
+   {
+    "start_s": 19.3,
+    "end_s": 22.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So I'm getting that smooth, shiny finish without my hair feeling dried out or crunchy.",
+    "text_english": "So I'm getting that smooth, shiny finish without my hair feeling dried out or crunchy."
+   },
+   {
+    "start_s": 22.3,
+    "end_s": 27.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And one of my favorite parts is that I can get right into my roots and those stubborn spots without burning my scalp.",
+    "text_english": "And one of my favorite parts is that I can get right into my roots and those stubborn spots without burning my scalp."
+   },
+   {
+    "start_s": 27.2,
+    "end_s": 31.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It just glides through so smoothly, and I love how shiny and sleek my hair is afterwards.",
+    "text_english": "It just glides through so smoothly, and I love how shiny and sleek my hair is afterwards."
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 36.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And yes, I get this question all the time: How long does it last, honestly? Honestly, it depends on the humidity of where you live and your activity level.",
+    "text_english": "And yes, I get this question all the time: How long does it last, honestly? Honestly, it depends on the humidity of where you live and your activity level."
+   },
+   {
+    "start_s": 36.9,
+    "end_s": 42.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "For me, with heat protectant and anti-humidity spray, it can last me up to a week or sometimes longer.",
+    "text_english": "For me, with heat protectant and anti-humidity spray, it can last me up to a week or sometimes longer."
+   },
+   {
+    "start_s": 42.6,
+    "end_s": 45.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Using steam doesn't mean that my curls immediately come back 10 minutes later.",
+    "text_english": "Using steam doesn't mean that my curls immediately come back 10 minutes later."
+   },
+   {
+    "start_s": 45.4,
+    "end_s": 48.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "10 minutes later, this is the final hair, look at the shine!",
+    "text_english": "10 minutes later, this is the final hair, look at the shine!"
+   },
+   {
+    "start_s": 48.0,
+    "end_s": 52.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you're thinking about replacing your old heat tools or wanting to give a gift, I definitely recommend WavyTalk.",
+    "text_english": "If you're thinking about replacing your old heat tools or wanting to give a gift, I definitely recommend WavyTalk."
+   },
+   {
+    "start_s": 52.8,
+    "end_s": 57.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's on sale right now and the colors are so cute. If you've seen my curls, you know this thing had its work cut out for it.",
+    "text_english": "It's on sale right now and the colors are so cute. If you've seen my curls, you know this thing had its work cut out for it."
+   }
+  ],
+  "transcript_full_original": "All of these curls straightened in 10 minutes? Let me show you. This is the WavyTalk Pro Steam straightener. It has four heat settings and a steam setting. For my curls, I use 380 or 410. And I always have to do the one pass test. Watch me do this whole section, no cuts, no skipping ahead. The brush design lets me work with bigger sections, and the steam helps speed everything up while helping my hair retain moisture. So I'm getting that smooth, shiny finish without my hair feeling dried out or crunchy. And one of my favorite parts is that I can get right into my roots and those stubborn spots without burning my scalp. It just glides through so smoothly, and I love how shiny and sleek my hair is afterwards. And yes, I get this question all the time: How long does it last, honestly? Honestly, it depends on the humidity of where you live and your activity level. For me, with heat protectant and anti-humidity spray, it can last me up to a week or sometimes longer. Using steam doesn't mean that my curls immediately come back 10 minutes later. 10 minutes later, this is the final hair, look at the shine! If you're thinking about replacing your old heat tools or wanting to give a gift, I definitely recommend WavyTalk. It's on sale right now and the colors are so cute. If you've seen my curls, you know this thing had its work cut out for it.",
+  "transcript_full_english": "All of these curls straightened in 10 minutes? Let me show you. This is the WavyTalk Pro Steam straightener. It has four heat settings and a steam setting. For my curls, I use 380 or 410. And I always have to do the one pass test. Watch me do this whole section, no cuts, no skipping ahead. The brush design lets me work with bigger sections, and the steam helps speed everything up while helping my hair retain moisture. So I'm getting that smooth, shiny finish without my hair feeling dried out or crunchy. And one of my favorite parts is that I can get right into my roots and those stubborn spots without burning my scalp. It just glides through so smoothly, and I love how shiny and sleek my hair is afterwards. And yes, I get this question all the time: How long does it last, honestly? Honestly, it depends on the humidity of where you live and your activity level. For me, with heat protectant and anti-humidity spray, it can last me up to a week or sometimes longer. Using steam doesn't mean that my curls immediately come back 10 minutes later. 10 minutes later, this is the final hair, look at the shine! If you're thinking about replacing your old heat tools or wanting to give a gift, I definitely recommend WavyTalk. It's on sale right now and the colors are so cute. If you've seen my curls, you know this thing had its work cut out for it.",
+  "word_count": 216,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.0,
+    "text": "all of these curls straightened in 10 minutes",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 4.5,
+    "text": "this is the wavy Talk Pro Steam straightener",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 6.4,
+    "text": "it has four heat settings and a steam setting",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.4,
+    "end_s": 8.5,
+    "text": "for my curls I use 380 or 410",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 11.2,
+    "text": "I always have to do the one pass test",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 12.5,
+    "text": "watch me do this whole section",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.5,
+    "end_s": 14.1,
+    "text": "no cuts no skipping ahead",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.1,
+    "end_s": 16.2,
+    "text": "the brush design lets me work with bigger sections",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.2,
+    "end_s": 18.2,
+    "text": "the steam helps speed everything up",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 19.5,
+    "text": "while helping my hair retain moisture",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.5,
+    "end_s": 20.8,
+    "text": "I'm getting that smooth",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 21.6,
+    "text": "shiny finish",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.6,
+    "end_s": 23.0,
+    "text": "without my hair feeling dried out or crunchy",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.0,
+    "end_s": 24.3,
+    "text": "one of my favorite parts",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 24.3,
+    "end_s": 25.5,
+    "text": "is that I can get right into my roots",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 26.8,
+    "text": "and those stubborn spots",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 26.8,
+    "end_s": 27.8,
+    "text": "without burning my scalp",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 27.8,
+    "end_s": 29.2,
+    "text": "it just glides through so smoothly",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 29.2,
+    "end_s": 31.0,
+    "text": "I love how shiny and sleek my hair is afterwards",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 32.2,
+    "text": "and yes",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 32.2,
+    "end_s": 33.5,
+    "text": "I get this question all the time",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 33.5,
+    "end_s": 34.8,
+    "text": "how long does it last honestly",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 34.8,
+    "end_s": 36.6,
+    "text": "it depends on the humidity of where you live",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 36.6,
+    "end_s": 38.0,
+    "text": "and your activity level for me",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 38.0,
+    "end_s": 39.5,
+    "text": "with heat protectant and anti humidity spray",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 39.5,
+    "end_s": 41.5,
+    "text": "it can last me up to a week or sometimes longer",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 41.5,
+    "end_s": 43.5,
+    "text": "using steam doesn't mean that",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 43.5,
+    "end_s": 45.4,
+    "text": "my curls immediately come back 10 minutes later",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 45.4,
+    "end_s": 47.0,
+    "text": "this is the final hair look at the shine",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 47.0,
+    "end_s": 49.5,
+    "text": "if you're thinking about replacing your old heat tools",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 49.5,
+    "end_s": 51.5,
+    "text": "or wanting to give a gift",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 51.5,
+    "end_s": 53.0,
+    "text": "I definitely recommend Wavy Talk",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 53.0,
+    "end_s": 55.2,
+    "text": "it's on sale right now and the colors are so cute",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 55.2,
+    "end_s": 57.7,
+    "text": "if you seen my curls you know this thing had is work cut out for it",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.2,
+    "shot_type": "medium close-up",
+    "visual": "Young woman with large, voluminous curly/frizzy dark hair running her hands through her hair to show its volume and texture.",
+    "action": "Creator fluffs and holds out her large curly hair to show the baseline texture.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 5.0,
+    "shot_type": "close-up",
+    "visual": "Creator holding up the pink WavyTalk Pro Steam straightener to show the control buttons and heat indicator lights.",
+    "action": "Creator points out the four temperature lights and steam mode button.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 6.8,
+    "shot_type": "medium shot",
+    "visual": "Creator sectioning her curly hair with clips, preparing a strand for straightening.",
+    "action": "Creator isolates a section of curly hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 22.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator wearing a heat-protective glove, slowly running the pink steam straightener brush through a thick section of curly hair in a single pass.",
+    "action": "Performs an uncut single pass test from root to tip, transforming frizzy curls into poker-straight shiny hair in real time.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 28.5,
+    "shot_type": "extreme close-up",
+    "visual": "Close-up on her scalp near the ear/hairline as she applies the heated brush directly near the roots.",
+    "action": "Creator glides the brush right against the root section without burning her skin, smoothing hairline baby hairs.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 34.5,
+    "shot_type": "close-up",
+    "visual": "Creator running her fingers through straightened, silky strand of hair, showing reflection and gloss.",
+    "action": "Creator separates and fans out the straightened section to demonstrate shine and sleekness.",
+    "product_visible": false
+   },
+   {
+    "start_s": 34.5,
+    "end_s": 45.4,
+    "shot_type": "close-up",
+    "visual": "Creator inspecting her straight roots with fingers, lifting strands near her temple to show straightness at the root.",
+    "action": "Creator checks and demonstrates roots to address humidity resistance and longevity.",
+    "product_visible": false
+   },
+   {
+    "start_s": 45.4,
+    "end_s": 52.8,
+    "shot_type": "medium shot",
+    "visual": "Creator showing the complete sleek straight blowout look, turning her head and showing the back of her hair.",
+    "action": "Creator turns around to show silky straight hair flowing down her back.",
+    "product_visible": false
+   },
+   {
+    "start_s": 52.8,
+    "end_s": 55.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the pink steam brush next to her face while showcasing her sleek straight hairstyle.",
+    "action": "Creator poses with the product in hand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 55.4,
+    "end_s": 57.7,
+    "shot_type": "medium shot",
+    "visual": "Before-and-after contrast shot showing half/prior full voluminous curl state.",
+    "action": "Creator looks at the camera reminding the viewer of how intense her initial curls were.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding up massive voluminous curly hair, looking confidently into the camera.",
+   "visual_0_3s": "Creator fluffs and displays her huge curly hair to establish extreme volume and frizz difficulty.",
+   "spoken_0_3s": "All of these curls straightened in 10 minutes? Let me show you.",
+   "text_0_3s": "all of these curls straightened in 10 minutes",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Showing extremely large curly hair and promising a 10-minute transformation, followed by an immediate real-time uncut one-pass test."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: Challenge to straighten voluminous curly hair in 10 minutes",
+    "Product intro: WavyTalk Pro Steam straightener features and heat settings",
+    "Proof demonstration: Uncut one-pass test on thick curl section",
+    "Benefit explanation: Steam locks in moisture without crunchy dry feel",
+    "Root reach: Safely touches near scalp without burning",
+    "Objection handling: Discussing longevity and weather resistance (lasts up to a week)",
+    "Final reveal: 10 minutes later silky hair result and gift/sale CTA"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "saves_time",
+    "salon_result_at_home",
+    "gift_or_occasion"
+   ],
+   "key_claims": [
+    "Straightens dense curly hair in 10 minutes",
+    "One pass turns coarse curls completely straight",
+    "Steam helps hair retain moisture without burning or drying out",
+    "Can get right into roots without burning scalp",
+    "Lasts up to a week with humidity spray"
+   ],
+   "pain_points": [
+    "Taking too long to straighten curly hair",
+    "Heat tools leaving hair crunchy and dry",
+    "Burning scalp when trying to straighten roots",
+    "Curls reverting immediately after straightening"
+   ],
+   "objections_handled": [
+    "Does steam make curls revert? Creator explains steam helps moisture retention and doesn't revert curls",
+    "Does it burn the scalp? Demonstrated at the roots safely",
+    "Does it last? Can last up to a week"
+   ],
+   "social_proof": [
+    "Frequently asked question about longevity cited ('I get this question all the time')"
+   ],
+   "comparison_to": "Traditional flat irons / old heat tools"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Pro Steam Straightener / Steambrush Pro"
+   ],
+   "first_seen_s": 3.2,
+   "first_used_on_hair_s": 6.8,
+   "final_result_shown_s": 45.4,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "On sale right now",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "on sale right now",
+   "cta_spoken": "If you're thinking about replacing your old heat tools or wanting to give a gift, I definitely recommend WavyTalk.",
+   "cta_on_screen": "it's on sale right now and the colors are so cute",
+   "cta_at_s": 48.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-28",
+   "hair_before": "Dark brown, thick, voluminous, highly textured curls/frizzy natural curl pattern",
+   "hair_after": "Ultra sleek, glossy, bone-straight dark brown hair",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, informative, persuasive"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Soft upbeat modern instrumental background track",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 5.8,
+   "pacing": "medium",
+   "effects": [
+    "uncut real-time demo segment",
+    "zoom-in on scalp"
+   ],
+   "ending": "Creator faces camera showing full hair finish with a before flash comparison"
+  },
+  "notes": "Ad is an English UGC asset licensed or repurposed for the WavyTalk ad account targeting international/regional markets including Lebanon."
+ }
+}

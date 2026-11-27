@@ -1,0 +1,17 @@
+{
+ "language": "en",
+ "main_angle": "expert_endorsement",
+ "secondary_angles": [
+  "less_heat_damage",
+  "volume_and_bounce",
+  "offer_discount_urgency"
+ ],
+ "opening_line": "\"She's slaying. The curls are everything. Her hair still feels healthy.\" That's not us talking — that's a hairdresser, mid-styling, genuinely impressed.",
+ "opening_style": "expert_or_hairdresser",
+ "mentions_offer": true,
+ "offer": "25% OFF right now",
+ "social_proof": "That's not us talking — that's a hairdresser, mid-styling, genuinely impressed.",
+ "cta": "",
+ "tone": "enthusiastic, trendy, confident",
+ "variation_count": 2
+}

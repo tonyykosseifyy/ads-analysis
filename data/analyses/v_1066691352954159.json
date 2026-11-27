@@ -1,0 +1,455 @@
+{
+ "media_key": "v_1066691352954159",
+ "analyzed_at": "2026-11-27T20:38:06+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "4384107c60daeac2ffb7a553c862f97d02ac9f146478a9b402219a213252d315",
+ "source": {
+  "kind": "video",
+  "id": "1066691352954159",
+  "errors": [
+   "1066691352954159: Gave up after 5 retries: https://graph.facebook.com/v26.0/1066691352954159",
+   "941084731756807: Gave up after 5 retries: https://graph.facebook.com/v26.0/941084731756807"
+  ],
+  "ig_media_id": "18085109348263935",
+  "permalink": "https://www.instagram.com/p/DcwYCAGMBaI/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 52.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A female creator demonstrates the Wavytalk Steamline Pro steam straightener brush on her frizzy hair, showing smooth one-pass results and explaining its hair health benefits.",
+  "full_description": "A creator wearing a white bathrobe demonstrates the Wavytalk Steamline Pro steam straightener on her long, thick, frizzy hair. She begins by running the tool through a section of hair in a single pass, revealing an instant transformation to shiny, pin-straight hair. She displays an overlay of an older TikTok video of herself using the tool previously to establish long-term authenticity. Throughout the video, she explains how steam prevents over-drying, breakage, and heat damage compared to traditional flat irons. The ad concludes with her showing off her completely straightened, sleek hair alongside an on-screen sticker promoting 'UP TO 30% OFF'.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you complain about frizz all the time with your hair and you haven't tried steam straightening, this is your sign to do so.",
+    "text_english": "If you complain about frizz all the time with your hair and you haven't tried steam straightening, this is your sign to do so."
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 9.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Watch this first pass on my frizzy hair.",
+    "text_english": "Watch this first pass on my frizzy hair."
+   },
+   {
+    "start_s": 9.0,
+    "end_s": 11.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's absolutely amazing.",
+    "text_english": "It's absolutely amazing."
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 14.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And I got a lot of hair.",
+    "text_english": "And I got a lot of hair."
+   },
+   {
+    "start_s": 14.2,
+    "end_s": 16.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You saw that with one pass.",
+    "text_english": "You saw that with one pass."
+   },
+   {
+    "start_s": 16.2,
+    "end_s": 22.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is the Wavytalk Steamline Pro. It uses steam aim to help straighten the hair, which adds moisture back into your hair strands, which prevents over-drying.",
+    "text_english": "This is the Wavytalk Steamline Pro. It uses steam aim to help straighten the hair, which adds moisture back into your hair strands, which prevents over-drying."
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 28.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I have been using this tool for years. Literally, that's me in 2024 using it, and it has done wonders for my hair.",
+    "text_english": "I have been using this tool for years. Literally, that's me in 2024 using it, and it has done wonders for my hair."
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 36.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Regular straightening irons really damaged my hair. They really dried them out, and I had so much breakage at the ends, and this just helps so much with that.",
+    "text_english": "Regular straightening irons really damaged my hair. They really dried them out, and I had so much breakage at the ends, and this just helps so much with that."
+   },
+   {
+    "start_s": 36.5,
+    "end_s": 40.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Wait till you see this pass. It just never gets old.",
+    "text_english": "Wait till you see this pass. It just never gets old."
+   },
+   {
+    "start_s": 40.0,
+    "end_s": 42.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Yeah, look at that shine.",
+    "text_english": "Yeah, look at that shine."
+   },
+   {
+    "start_s": 42.5,
+    "end_s": 46.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Fact that I don't have to do a million passes to get my hair smooth helps with the overall longevity of my hair.",
+    "text_english": "Fact that I don't have to do a million passes to get my hair smooth helps with the overall longevity of my hair."
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 50.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay, here is the final look. Literally no frizz in sight. So sleek and smooth.",
+    "text_english": "Okay, here is the final look. Literally no frizz in sight. So sleek and smooth."
+   },
+   {
+    "start_s": 50.0,
+    "end_s": 52.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Definitely check out the Wavytalk Steamline Pro.",
+    "text_english": "Definitely check out the Wavytalk Steamline Pro."
+   }
+  ],
+  "transcript_full_original": "If you complain about frizz all the time with your hair and you haven't tried steam straightening, this is your sign to do so. Watch this first pass on my frizzy hair. It's absolutely amazing. And I got a lot of hair. You saw that with one pass. This is the Wavytalk Steamline Pro. It uses steam aim to help straighten the hair, which adds moisture back into your hair strands, which prevents over-drying. I have been using this tool for years. Literally, that's me in 2024 using it, and it has done wonders for my hair. Regular straightening irons really damaged my hair. They really dried them out, and I had so much breakage at the ends, and this just helps so much with that. Wait till you see this pass. It just never gets old. Yeah, look at that shine. Fact that I don't have to do a million passes to get my hair smooth helps with the overall longevity of my hair. Okay, here is the final look. Literally no frizz in sight. So sleek and smooth. Definitely check out the Wavytalk Steamline Pro.",
+  "transcript_full_english": "If you complain about frizz all the time with your hair and you haven't tried steam straightening, this is your sign to do so. Watch this first pass on my frizzy hair. It's absolutely amazing. And I got a lot of hair. You saw that with one pass. This is the Wavytalk Steamline Pro. It uses steam aim to help straighten the hair, which adds moisture back into your hair strands, which prevents over-drying. I have been using this tool for years. Literally, that's me in 2024 using it, and it has done wonders for my hair. Regular straightening irons really damaged my hair. They really dried them out, and I had so much breakage at the ends, and this just helps so much with that. Wait till you see this pass. It just never gets old. Yeah, look at that shine. Fact that I don't have to do a million passes to get my hair smooth helps with the overall longevity of my hair. Okay, here is the final look. Literally no frizz in sight. So sleek and smooth. Definitely check out the Wavytalk Steamline Pro.",
+  "word_count": 182,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "text": "If you complain about frizz all the time with your hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 4.1,
+    "text": "and you haven't tried steam straightening,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 5.8,
+    "text": "this is your sign to do so.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 8.7,
+    "text": "Watch this first pass on my frizzy hair.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 10.9,
+    "text": "It's absolutely amazing.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 13.8,
+    "text": "And I got a lot of hair.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.4,
+    "end_s": 16.0,
+    "text": "You saw that with one pass.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 17.8,
+    "text": "This is the Wavytalk Steamline Pro.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.8,
+    "end_s": 20.1,
+    "text": "It uses steam aim to help straighten the hair,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.1,
+    "end_s": 21.8,
+    "text": "which adds moisture back into your hair strands,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.8,
+    "end_s": 23.0,
+    "text": "which prevents over-drying.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.0,
+    "end_s": 25.0,
+    "text": "I have been using this tool for years.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.0,
+    "end_s": 26.8,
+    "text": "Literally, that's me in 2024 using it",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 26.8,
+    "end_s": 28.5,
+    "text": "and it has done wonders for my hair.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 28.8,
+    "end_s": 31.8,
+    "text": "Regular straightening irons really damaged my hair.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 31.8,
+    "end_s": 33.1,
+    "text": "They really dried them out",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 33.1,
+    "end_s": 34.6,
+    "text": "and I had so much breakage at the ends,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 34.6,
+    "end_s": 36.8,
+    "text": "and this just helps so much with that.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 36.8,
+    "end_s": 38.6,
+    "text": "Wait till you see this pass. I just never gets old.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 40.5,
+    "end_s": 42.0,
+    "text": "Yeah, look at that shine.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 42.5,
+    "end_s": 44.8,
+    "text": "Fact that I don't have to do a million passes to get my hair smooth",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 44.8,
+    "end_s": 46.5,
+    "text": "helps with the overall longevity of my hair.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 46.8,
+    "end_s": 48.0,
+    "text": "Okay, here is the final look.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 48.0,
+    "end_s": 49.2,
+    "text": "Literally no frizz in sight.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 49.2,
+    "end_s": 50.2,
+    "text": "So sleek and smooth.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 50.2,
+    "end_s": 52.0,
+    "text": "Definitely check out the Wavytalk Steamline Pro.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 52.0,
+    "text": "UP TO 30% OFF",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 14.2,
+    "shot_type": "medium close-up",
+    "visual": "Young woman in white robe with frizzy hair clipped up, holding the white Wavytalk Steamline Pro and gliding it slowly down a large section of hair.",
+    "action": "Creator executes a slow first pass on frizzy hair, leaving behind an exceptionally straight, shiny strip of hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.2,
+    "end_s": 22.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator pointing at the straight strand, sectioning another part of her hair, and gliding the steam straightener through it.",
+    "action": "Creator talks to camera about steam adding moisture and preventing over-drying while passing the tool through hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 28.5,
+    "shot_type": "split-screen / picture-in-picture overlay",
+    "visual": "Creator continues running the tool down her hair while a TikTok screenshot overlay appears on the right showing her using the same tool in 2024.",
+    "action": "Creator provides social proof and long-term user testimonial by displaying an archival video clip.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 40.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushing through another section with the steam brush, showing steam and continuous straight glide down her long locks.",
+    "action": "Creator explains past heat damage from regular flat irons and how steam resolved breakage.",
+    "product_visible": true
+   },
+   {
+    "start_s": 40.0,
+    "end_s": 46.5,
+    "shot_type": "close-up",
+    "visual": "Creator holding the straightened section up to the camera to demonstrate mirror-like shine and smooth texture.",
+    "action": "Creator inspects and touches her glossy hair strand, unclips remaining hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 52.0,
+    "shot_type": "medium shot",
+    "visual": "Creator shaking her fully styled, smooth, straight hair forward and holding up the Wavytalk Steamline Pro tool next to her face, with 'UP TO 30% OFF' graphic below.",
+    "action": "Creator shows off the final frizz-free look and delivers closing call to action.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the white steam straightener clamped at the top of a thick, frizzy strand of hair.",
+   "visual_0_3s": "Slow first pass of the steam straightener down frizzy hair, visibly transforming it into pin-straight hair.",
+   "spoken_0_3s": "If you complain about frizz all the time with your hair and you haven't tried steam straightening,",
+   "text_0_3s": "If you complain about frizz all the time with your hair",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Instant visual contrast between unruly coarse frizz and glossy straight hair in a single glide."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Problem hook addressing chronic hair frizz",
+    "One-pass live demonstration proving dramatic smoothing",
+    "Mechanism explanation: steam adds moisture rather than stripping it",
+    "Social proof and creator credibility using archival 2024 footage",
+    "Contrast with traditional flat irons that cause breakage and dry hair out",
+    "Final look reveal with discount promotion"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "less_heat_damage",
+    "saves_time",
+    "social_proof_popularity"
+   ],
+   "key_claims": [
+    "Straightens frizzy hair in just one pass",
+    "Steam adds moisture back into hair strands to prevent over-drying",
+    "Prevents breakage and heat damage caused by regular straightening irons",
+    "Leaves hair with noticeable shine and zero frizz"
+   ],
+   "pain_points": [
+    "Persistent frizzy hair",
+    "Dry hair and breakage from regular straighteners",
+    "Having to do multiple passes that damage hair"
+   ],
+   "objections_handled": [
+    "Takes too long on thick hair (proven fast with single pass demo)",
+    "Heat damages hair (rebutted: steam infuses hydration and prevents over-drying)"
+   ],
+   "social_proof": [
+    "Creator shows historical proof using a 2024 TikTok clip of herself using the tool for years"
+   ],
+   "comparison_to": "Regular straightening irons / traditional flat irons"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steamline Pro"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 46.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "UP TO 30% OFF",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Definitely check out the Wavytalk Steamline Pro.",
+   "cta_on_screen": "UP TO 30% OFF",
+   "cta_at_s": 46.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20s",
+   "hair_before": "Long, thick, frizzy dark brown hair",
+   "hair_after": "Ultra-sleek, smooth, shiny straight brunette hair",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, candid, informative"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "None, natural spoken audio only with faint ambient room noise and steam tool clicks",
+   "captions_burned_in": true,
+   "production_style": "phone_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 10.4,
+   "pacing": "medium",
+   "effects": [
+    "picture-in-picture video overlay of previous TikTok post",
+    "animated on-screen discount badge overlay"
+   ],
+   "ending": "Creator presents full frizz-free hair and holds product up smiling while delivery CTA."
+  },
+  "notes": "Ad uses authentic English UGC footage repurposed for Meta paid ads in the Lebanon / Middle East market, equipped with an 'UP TO 30% OFF' graphic badge overlay at the end."
+ }
+}

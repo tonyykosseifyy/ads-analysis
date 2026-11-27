@@ -1,0 +1,369 @@
+{
+ "media_key": "v_1137336539281556",
+ "analyzed_at": "2026-11-27T18:45:09+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "1bd6c7d5733c57cce8dce896ca8cdd1fe4d0de2de97b268d196ba6cd78da497e",
+ "source": {
+  "kind": "video",
+  "id": "1137336539281556",
+  "video_id": "1419941496795519",
+  "length_s": 60.833,
+  "permalink": "/23849366283980795/videos/1419941496795519/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 60.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator tests the Wavytalk steam straightening brush on frizzy hair, showing fast section-by-section smoothing in under 5 minutes.",
+  "full_description": "A creator starts by showing her tangled, messy, frizzy blonde hair and tests whether the Wavytalk steam straightening brush can straighten it quickly. She turns on the steam feature to rehydrate and smooth her hair, demonstrating immediate before-and-after passes on front and side sections. She highlights how it cuts straightening time down to under five minutes and tames flyaways, finishing by showing the sleek back result and encouraging viewers to get one for themselves and their moms.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's see the damage on this hair. Wow.",
+    "text_english": "Let's see the damage on this hair. Wow."
+   },
+   {
+    "start_s": 2.6,
+    "end_s": 5.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's see if my Wavytalk tool can work some magic.",
+    "text_english": "Let's see if my Wavytalk tool can work some magic."
+   },
+   {
+    "start_s": 5.1,
+    "end_s": 8.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm going to put the steam setting on so that it can bring back some moisture to my hair.",
+    "text_english": "I'm going to put the steam setting on so that it can bring back some moisture to my hair."
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 12.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is the before.",
+    "text_english": "This is the before."
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 16.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is the after.",
+    "text_english": "This is the after."
+   },
+   {
+    "start_s": 16.8,
+    "end_s": 18.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is the before.",
+    "text_english": "This is the before."
+   },
+   {
+    "start_s": 20.2,
+    "end_s": 24.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is the after. I'm surprised it can even comb through the hair.",
+    "text_english": "This is the after. I'm surprised it can even comb through the hair."
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 30.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Whenever I'm running super late, I just use this as a regular hairbrush.",
+    "text_english": "Whenever I'm running super late, I just use this as a regular hairbrush."
+   },
+   {
+    "start_s": 30.7,
+    "end_s": 33.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "That was literally the fastest thing ever, that took me less than 3 minutes.",
+    "text_english": "That was literally the fastest thing ever, that took me less than 3 minutes."
+   },
+   {
+    "start_s": 33.8,
+    "end_s": 34.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Watch, babes.",
+    "text_english": "Watch, babes."
+   },
+   {
+    "start_s": 35.8,
+    "end_s": 39.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Ooh, she's crunchy. Mhm mhm.",
+    "text_english": "Ooh, she's crunchy. Mhm mhm."
+   },
+   {
+    "start_s": 40.0,
+    "end_s": 45.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you have super frizzy hair like me, you can just pass it through. The steam from this tool will help keep your flyaways down.",
+    "text_english": "If you have super frizzy hair like me, you can just pass it through. The steam from this tool will help keep your flyaways down."
+   },
+   {
+    "start_s": 45.8,
+    "end_s": 47.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is what it looks like from the back.",
+    "text_english": "This is what it looks like from the back."
+   },
+   {
+    "start_s": 47.7,
+    "end_s": 53.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I just did my whole entire head in under 5 minutes. I do have super thin hair, so if you have thicker hair it'll probably take you a little bit longer.",
+    "text_english": "I just did my whole entire head in under 5 minutes. I do have super thin hair, so if you have thicker hair it'll probably take you a little bit longer."
+   },
+   {
+    "start_s": 53.1,
+    "end_s": 56.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "But this will definitely cut your straightening time in half.",
+    "text_english": "But this will definitely cut your straightening time in half."
+   },
+   {
+    "start_s": 56.2,
+    "end_s": 60.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And if you're planning on buying one for yourself, make sure you get your mama one too, because she steals mine all the time.",
+    "text_english": "And if you're planning on buying one for yourself, make sure you get your mama one too, because she steals mine all the time."
+   }
+  ],
+  "transcript_full_original": "Let's see the damage on this hair. Wow. Let's see if my Wavytalk tool can work some magic. I'm going to put the steam setting on so that it can bring back some moisture to my hair. This is the before. This is the after. This is the before. This is the after. I'm surprised it can even comb through the hair. Whenever I'm running super late, I just use this as a regular hairbrush. That was literally the fastest thing ever, that took me less than 3 minutes. Watch, babes. Ooh, she's crunchy. Mhm mhm. If you have super frizzy hair like me, you can just pass it through. The steam from this tool will help keep your flyaways down. This is what it looks like from the back. I just did my whole entire head in under 5 minutes. I do have super thin hair, so if you have thicker hair it'll probably take you a little bit longer, but this will definitely cut your straightening time in half. And if you're planning on buying one for yourself, make sure you get your mama one too, because she steals mine all the time.",
+  "transcript_full_english": "Let's see the damage on this hair. Wow. Let's see if my Wavytalk tool can work some magic. I'm going to put the steam setting on so that it can bring back some moisture to my hair. This is the before. This is the after. This is the before. This is the after. I'm surprised it can even comb through the hair. Whenever I'm running super late, I just use this as a regular hairbrush. That was literally the fastest thing ever, that took me less than 3 minutes. Watch, babes. Ooh, she's crunchy. Mhm mhm. If you have super frizzy hair like me, you can just pass it through. The steam from this tool will help keep your flyaways down. This is what it looks like from the back. I just did my whole entire head in under 5 minutes. I do have super thin hair, so if you have thicker hair it'll probably take you a little bit longer, but this will definitely cut your straightening time in half. And if you're planning on buying one for yourself, make sure you get your mama one too, because she steals mine all the time.",
+  "word_count": 178,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "text": "this STEAMING tool cut my straightening time in HALF 😩🤌🏼",
+    "role": "hook"
+   },
+   {
+    "start_s": 56.0,
+    "end_s": 60.5,
+    "text": "click the orange cart\nIt's on sale today! 😩",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "shot_type": "medium close-up",
+    "visual": "Young woman facing camera shaking her messy, voluminous blonde hair wildly.",
+    "action": "Creator shakes and messes up her hair to show how damaged and frizzy it looks.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.5,
+    "end_s": 8.5,
+    "shot_type": "medium shot",
+    "visual": "Creator holds up the pink Wavytalk steam straightening brush to the camera and activates the steam function.",
+    "action": "Creator presents the tool and explains she is turning on the steam mode.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 10.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator glides the steam brush down a front section of hair with steam emitting.",
+    "action": "Straightens a front strand of hair slowly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.8,
+    "end_s": 16.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator shows a frizzy piece of hair as 'before', then combs through it with the brush and displays the sleek 'after'.",
+    "action": "Compares before and after on a section of crown hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.6,
+    "end_s": 21.5,
+    "shot_type": "medium shot",
+    "visual": "Creator brushes through another side section of her hair from root to tip.",
+    "action": "Shows the brush gliding through thicker side section and reveals silky results.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.5,
+    "end_s": 26.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator inspects the straightened side vs frizzy unstyled side and brushes another section.",
+    "action": "Speaks to camera and demonstrates ease of combing through tangled hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 33.5,
+    "shot_type": "medium shot",
+    "visual": "Creator brushes through the rest of the hair quickly like a standard hairbrush.",
+    "action": "Rapidly brushes sections to demonstrate speed.",
+    "product_visible": true
+   },
+   {
+    "start_s": 33.5,
+    "end_s": 39.5,
+    "shot_type": "close-up",
+    "visual": "Creator isolates the front fringe/bangs section and glides the steaming brush through it.",
+    "action": "Smoothes out crunchy front strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 39.5,
+    "end_s": 45.5,
+    "shot_type": "close-up",
+    "visual": "Side profile close-up of brush gliding down hair, visibly pressing down flyaways and frizz.",
+    "action": "Slow pass down hair showing steam smoothing flyaways.",
+    "product_visible": true
+   },
+   {
+    "start_s": 45.5,
+    "end_s": 47.5,
+    "shot_type": "medium shot from behind",
+    "visual": "Creator turns around to reveal the completely straight, glossy hair down her back.",
+    "action": "Flips and displays the finished back result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 47.5,
+    "end_s": 60.5,
+    "shot_type": "medium shot",
+    "visual": "Creator turns back to face the camera, holding the Wavytalk brush in hand, sharing final advice.",
+    "action": "Recaps time saved and delivers call to action while holding tool.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera with text overlay 'this STEAMING tool cut my straightening time in HALF 😩🤌🏼'.",
+   "visual_0_3s": "Creator ruffles and shakes her messy frizzy hair vigorously to display hair damage.",
+   "spoken_0_3s": "Let's see the damage on this hair. Wow. Let's see if my Wavytalk tool...",
+   "text_0_3s": "this STEAMING tool cut my straightening time in HALF 😩🤌🏼",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "problem_callout",
+   "pattern_interrupt": "Vigorously shaking tangled, frizzy hair directly at the camera with expressive facial reactions."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Problem presentation: showing frizzy, messy hair",
+    "Product introduction: introducing Wavytalk tool and its steam feature for moisture",
+    "Direct demo & comparison: side-by-side before and after passes",
+    "Speed benefit: explaining it works fast like a regular brush when running late",
+    "Texture & flyaways handling: showing steam flattening frizz and flyaways",
+    "Final reveal: showing back of head completely straightened in under 5 minutes",
+    "Call to action: recommending purchase for viewer and mom"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "less_heat_damage",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Cuts straightening time in half",
+    "Straightened entire head in under 5 minutes",
+    "Steam restores moisture and tames flyaways",
+    "Combs through tangles easily like a regular hairbrush"
+   ],
+   "pain_points": [
+    "Taking too long to straighten hair",
+    "Frizzy hair and flyaways",
+    "Dry, damaged crunchy hair",
+    "Running late and needing quick styling"
+   ],
+   "objections_handled": [
+    "Can it detangle thick/frizzy hair without snagging? Yes, it glides through like a brush",
+    "Will it take too long? Finished full head in under 5 minutes"
+   ],
+   "social_proof": [
+    "Creator personal testimonial",
+    "Mention that her mom constantly steals her tool"
+   ],
+   "comparison_to": "Traditional flat iron and standard hairbrush"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steambrush Pro"
+   ],
+   "first_seen_s": 3.0,
+   "first_used_on_hair_s": 8.5,
+   "final_result_shown_s": 46.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "On sale today",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "On sale today",
+   "cta_spoken": "Make sure you get your mama one too",
+   "cta_on_screen": "click the orange cart it's on sale today! 😩",
+   "cta_at_s": 56.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Blonde, highlighted, frizzy, messy, voluminous medium-long hair",
+   "hair_after": "Smooth, silky, pin-straight sleek blonde hair",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Enthusiastic, casual, relatable, authentic UGC style"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Soft upbeat lo-fi instrumental background track underneath creator's voice",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 13,
+   "avg_shot_length_s": 4.65,
+   "pacing": "medium",
+   "effects": [
+    "Text overlays",
+    "Jump cuts between passes"
+   ],
+   "ending": "Creator holding the brush smiling and talking to camera with CTA overlay."
+  },
+  "notes": "Original English TikTok UGC video demonstrating the Wavytalk steam hair straightening brush, repurposed for social ads."
+ }
+}

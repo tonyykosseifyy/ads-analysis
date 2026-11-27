@@ -1,0 +1,198 @@
+{
+ "media_key": "v_1102530955674774",
+ "analyzed_at": "2026-11-27T18:42:36+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "64fd744f886edd773ececeecb86da44f9b726be34c7c456b6f711abf0e880e90",
+ "source": {
+  "kind": "video",
+  "id": "1102530955674774",
+  "video_id": "1068952019359146",
+  "length_s": 14.977,
+  "permalink": "/23849366283980795/videos/1068952019359146/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 14.96,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Fast-paced UGC compilation showing various women straightening curly, textured, and wavy hair effortlessly with the Steambrush Pro.",
+  "full_description": "A silent compilation ad set to a trending remix of 'Can't Take My Eyes Off You'. Multiple creators demonstrate the WavyTalk Steambrush Pro straightening brush on different hair types, including curly textured short hair, thick hair in front of a Christmas tree, and very long blonde hair. Each clip shows the tool smoothly gliding down a section with visible steam, followed by glossy, smooth results from the front and back.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.5,
+    "text": "pov: you found the perfect hair tool🧚🏼",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "medium close-up",
+    "visual": "A young woman with a short textured bob running the white steam straightening brush through a section of hair, emitting visible steam vapor.",
+    "action": "Creator glides the straightening brush through sectioned hair, instantly smoothing it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 3.5,
+    "shot_type": "close-up",
+    "visual": "Side profile of the creator running her fingers through her sleek, bouncy dark bob.",
+    "action": "Creator shows off the silky, straightened results.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.5,
+    "end_s": 5.5,
+    "shot_type": "medium shot",
+    "visual": "Blonde creator with long straight hair touching and admiring her smooth ends.",
+    "action": "Creator poses and plays with her straight blonde locks.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 7.5,
+    "shot_type": "medium shot",
+    "visual": "Creator in pink sweater sitting in front of a Christmas tree with curly textured hair, brushing a section with a pink straightening brush.",
+    "action": "Creator glides the heated brush through a thick curly section, leaving it straight and sleek.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 8.8,
+    "shot_type": "medium close-up",
+    "visual": "Same creator smiling and touching her fully straightened, glossy dark hair.",
+    "action": "Creator shows off the final straight result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.8,
+    "end_s": 12.5,
+    "shot_type": "medium shot",
+    "visual": "Blonde creator sitting in bedroom using the white straightening brush on long hair.",
+    "action": "Creator combs the brush down her hair from roots to ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.5,
+    "end_s": 13.5,
+    "shot_type": "medium shot",
+    "visual": "Blonde creator gesturing towards her long, straightened hair facing the camera.",
+    "action": "Creator flaunts the finished hairstyle.",
+    "product_visible": false
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 14.96,
+    "shot_type": "medium shot from behind",
+    "visual": "Blonde creator seen from the back, lifting her arms to show sleek, shiny, waist-length straight hair.",
+    "action": "Creator displays the smooth back of her hair.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Woman holding the white steam brush gliding through hair with visible steam and text overlay: 'pov: you found the perfect hair tool🧚🏼'.",
+   "visual_0_3s": "Steam releasing from the brush as it glides down a section of textured hair, followed by running fingers through silky smooth bob.",
+   "spoken_0_3s": "",
+   "text_0_3s": "pov: you found the perfect hair tool🧚🏼",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "product_reveal",
+   "pattern_interrupt": "Visible thick vapor/steam puffing out of the brush teeth while gliding through hair."
+  },
+  "structure": {
+   "format": "product_showcase",
+   "narrative_beats": [
+    "Hook with satisfying steam pass and POV headline",
+    "Showcase of sleek short hair result",
+    "Demonstration on curly/textured hair in a single pass",
+    "Demonstration on extra-long hair with front and back reveal"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "saves_time",
+    "frizz_or_curly_solution"
+   ],
+   "key_claims": [
+    "Effortlessly straightens textured and curly hair",
+    "Provides smooth, sleek results with a single brush pass"
+   ],
+   "pain_points": [
+    "Difficult or time-consuming straightening process",
+    "Frizzy or unruly curls"
+   ],
+   "objections_handled": [
+    "Works across diverse hair lengths and textures (short bob, long hair, curly textured hair)"
+   ],
+   "social_proof": [
+    "Multiple user demonstrations and results"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Steambrush Pro"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 1.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 3,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-30",
+   "hair_before": "Textured/curly/wavy hair across various lengths and colors",
+   "hair_after": "Pin-straight, sleek, glossy hair with soft movement",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Satisfying, aesthetic, trendy"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Lofi/remix cover of 'Can't Take My Eyes Off You' with female vocals ('I love you baby and if it's quite all right...')",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 1.87,
+   "pacing": "fast",
+   "effects": [
+    "Jump cuts synced to musical rhythm"
+   ],
+   "ending": "Cut to creator showing back of sleek long blonde hair."
+  },
+  "notes": "Compiles multiple influencer UGC demo clips showing the Steambrush Pro in white and pink colorways."
+ }
+}

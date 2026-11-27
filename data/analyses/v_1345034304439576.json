@@ -1,0 +1,170 @@
+{
+ "media_key": "v_1345034304439576",
+ "analyzed_at": "2026-11-27T20:46:36+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "b1291c4f72adc96811722aec9451b3fa31367568d3f07ec6ada6934b8d74dbbe",
+ "source": {
+  "kind": "video",
+  "id": "1345034304439576",
+  "video_id": "1786232032173269",
+  "length_s": 12.721,
+  "permalink": "/23849366283980795/videos/1786232032173269/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 12.2,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator showcases her 10-minute blowout results and demonstrates how she styles her hair using the WavyTalk Blowout Boost thermal brush.",
+  "full_description": "A creator starts by displaying voluminous, styled bouncy dark hair with the hook overlay 'POV: your new 10 minute blowout routine'. The video cuts to her demonstrating how she wraps and glides the pink WavyTalk thermal round brush through strands of hair to create bouncy curls and lifts the crown section for root volume. The video finishes with her brushing through and admiring her voluminous blowout.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0.0,
+    "en": 0.0,
+    "fr": 0.0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 12.2,
+    "text": "POV: your new 10 minute blowout routine",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.9,
+    "shot_type": "medium selfie shot",
+    "visual": "A young woman with bouncy, dark blowout hair running her hands through her hair and fluffing it in front of a white wall and dark wood door.",
+    "action": "Flaunting bouncy, voluminous styled hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.9,
+    "end_s": 5.2,
+    "shot_type": "medium shot",
+    "visual": "Woman curling a front hair strand around the pink WavyTalk thermal round brush.",
+    "action": "Wrapping the hair strand around the heated round brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.2,
+    "end_s": 8.7,
+    "shot_type": "medium shot",
+    "visual": "Woman releasing and unwinding the strand from the thermal brush to show a curl.",
+    "action": "Twisting and pulling the brush downwards to release the styled curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 10.6,
+    "shot_type": "medium shot",
+    "visual": "Woman pulling the crown/bangs section backwards with the thermal brush for volume.",
+    "action": "Rolling the top section back at the roots.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.6,
+    "end_s": 12.2,
+    "shot_type": "medium shot",
+    "visual": "Woman lightly brushing through the side of her styled blowout with the brush and posing.",
+    "action": "Gliding the brush through the side waves and admiring the result.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Close-up/medium shot of a glamorous young woman touching her voluminous blowout with headline text 'POV: your new 10 minute blowout routine'.",
+   "visual_0_3s": "Woman shows finished hair, then immediately cuts to her styling a strand with the pink heated brush.",
+   "spoken_0_3s": "",
+   "text_0_3s": "POV: your new 10 minute blowout routine",
+   "hook_type": "result_first",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Immediate result reveal showing bouncy salon-quality volume right in the first frame."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Finished blowout result hook",
+    "Demo: wrapping hair around thermal brush",
+    "Demo: releasing glossy curl",
+    "Demo: styling crown for root lift",
+    "Final pose and hair brush-through"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "10 minute blowout routine"
+   ],
+   "pain_points": [
+    "Traditional blowouts take too long or require salon visits"
+   ],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 1.9,
+   "first_used_on_hair_s": 1.9,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Dark brown/black styled blowout hair",
+   "hair_after": "Voluminous, bouncy dark hair with soft curtain bangs and blowout curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "effortless, confident, stylish"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat pop/indie female vocal track playing throughout the entire video.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 2.4,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts",
+    "persistent text overlay"
+   ],
+   "ending": "Creator brushes through her finished blowout and poses looking at the camera."
+  },
+  "notes": "Short-form TikTok/Reels aesthetic video without voiceover, relying on quick cuts, visual aspiration, and a clear time-saving claim (10 minute blowout routine)."
+ }
+}

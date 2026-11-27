@@ -1,0 +1,381 @@
+{
+ "media_key": "v_1397011832015105",
+ "analyzed_at": "2026-11-27T18:40:11+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "ee8b55678b29159513e43dce9623fc683312a1dc6b7c80ae4131ad7a89ffb631",
+ "source": {
+  "kind": "video",
+  "id": "1397011832015105",
+  "video_id": "1582382046411177",
+  "length_s": 23.633,
+  "permalink": "/23849366283980795/videos/1582382046411177/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 23.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator explains how the Wavytalk Blowout Boost thermal round brush eliminates bad hair days and creates 90s bouncy salon blowouts in 10 minutes.",
+  "full_description": "A creator sits on a red couch speaking directly to the camera about how she eliminated bad hair days after discovering the Wavytalk Blowout Boost. An on-screen photo shows her previous frizzy hair, followed by a demo clip of her using the thermal brush on her styled, glossy hair. She explains its negative ion technology repairs damaged hair without needing extra styling products. Pop-up images illustrate different hairstyles achievable with the brush: 90s supermodel blowout (Cindy Crawford), bouncy blowout, and frizz-free wavy hair in just 10 minutes. A comedic B-roll clip of her screaming with messy hair appears before returning to her holding the thermal brush with a discount call to action.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 55,
+    "en": 45,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "arabizi",
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "No more bad hair days من بعد ما اكتشفت Wavytalk Blowout Boost",
+    "text_english": "No more bad hair days since I discovered Wavytalk Blowout Boost"
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 5.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "لأن هيك hair is my bad hair day",
+    "text_english": "Because hair like this is my bad hair day"
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 8.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "The negative ion technology بيرجّع شعرك كله لو قد ما كان خربان",
+    "text_english": "The negative ion technology restores all your hair, no matter how damaged it was"
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 12.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بلا ما حط عليه ولا product صار فيّي أعمل salon blowout at home",
+    "text_english": "Without applying any product on it, I can now do a salon blowout at home"
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 18.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "90s supermodel blowout, bouncy blowout, أو simply wavy بلا frizz بـ 10 دقايق بس",
+    "text_english": "90s supermodel blowout, bouncy blowout, or simply wavy without frizz in just 10 minutes"
+   },
+   {
+    "start_s": 18.6,
+    "end_s": 20.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "No more bad hair days مع Wavytalk",
+    "text_english": "No more bad hair days with Wavytalk"
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 23.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Order yours now for 15% off",
+    "text_english": "Order yours now for 15% off"
+   }
+  ],
+  "transcript_full_original": "No more bad hair days من بعد ما اكتشفت Wavytalk Blowout Boost لأن هيك hair is my bad hair day The negative ion technology بيرجّع شعرك كله لو قد ما كان خربان بلا ما حط عليه ولا product صار فيّي أعمل salon blowout at home 90s supermodel blowout, bouncy blowout, أو simply wavy بلا frizz بـ 10 دقايق بس No more bad hair days مع Wavytalk Order yours now for 15% off",
+  "transcript_full_english": "No more bad hair days since I discovered Wavytalk Blowout Boost, because hair like this is my bad hair day. The negative ion technology restores all your hair, no matter how damaged it was. Without applying any product on it, I can now do a salon blowout at home: 90s supermodel blowout, bouncy blowout, or simply wavy without frizz in just 10 minutes. No more bad hair days with Wavytalk. Order yours now for 15% off.",
+  "word_count": 68,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "text": "no more bad hair days",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 2.2,
+    "text": "mn baed ma ktashafet",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 3.4,
+    "text": "wavytalk blowout boost",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 4.5,
+    "text": "la2an hek hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 5.4,
+    "text": "is my bad hair day",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 6.8,
+    "text": "the negative ion technology",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 7.7,
+    "text": "b rajje3 shaarik",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.7,
+    "end_s": 8.7,
+    "text": "ma ken kherben",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 9.8,
+    "text": "Bala ma hot 3le",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 10.9,
+    "text": "wala product",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 11.8,
+    "text": "sar fiyye",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.8,
+    "end_s": 13.0,
+    "text": "salon blowout",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 14.8,
+    "text": "90s supermodel blowout",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 16.0,
+    "text": "Bouncy Blowout",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 17.0,
+    "text": "aw simply",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.0,
+    "end_s": 18.0,
+    "text": "wavy bala frizz",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 19.1,
+    "text": "bi 10 d2ayi2 bas",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.1,
+    "end_s": 20.0,
+    "text": "no more",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 21.0,
+    "text": "bad hair days",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 22.0,
+    "text": "order yours now",
+    "role": "cta"
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 23.5,
+    "text": "for 15% off",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.3,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting on red couch in living room studio setup with wireless lav mic on her top, smiling and gesturing.",
+    "action": "Creator delivers hook about having no more bad hair days, shimmering particle graphic effect overlays her hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.3,
+    "end_s": 5.4,
+    "shot_type": "medium shot with picture overlay",
+    "visual": "Creator pointing down toward an on-screen square inset photo of herself with frizzy, messy, tangled hair.",
+    "action": "Creator refers to her bad hair days using the picture example.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 8.7,
+    "shot_type": "mirror selfie medium shot",
+    "visual": "Bathroom or bedroom mirror reflection of creator gliding the pink Wavytalk Blowout Boost thermal round brush through her long hair.",
+    "action": "Creator brushes and curls her hair through the thermal brush smoothly while smiling.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 12.8,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting on the red couch flipping and touching her styled shiny hair.",
+    "action": "Creator explains that no additional styling product was needed to get a salon blowout at home.",
+    "product_visible": false
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 18.6,
+    "shot_type": "medium shot with photo popups",
+    "visual": "Creator points down as 3 reference image cards pop up sequentially: Cindy Crawford (90s supermodel blowout), blonde bouncy blowout, and wavy brunette hair.",
+    "action": "Creator gestures while listing the blowout styling variations achievable in 10 minutes.",
+    "product_visible": false
+   },
+   {
+    "start_s": 18.6,
+    "end_s": 20.8,
+    "shot_type": "close-up UGC cut",
+    "visual": "Creator in bedroom holding hands to cheeks screaming in distress with extremely frizzy, tangled hair.",
+    "action": "Humorous depiction of frustration during a bad hair day.",
+    "product_visible": false
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 23.5,
+    "shot_type": "medium shot",
+    "visual": "Creator back on red couch holding the pink Wavytalk thermal brush horizontally in both hands with a red arrow graphic pointing down.",
+    "action": "Creator showcases the tool and delivers the call to action with a 15% discount offer.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator sitting on a red couch speaking enthusiastically with the caption 'no more bad hair days'.",
+   "visual_0_3s": "Creator talking excitedly with hands moving, accompanied by sparkling green particle visual effects over her hair.",
+   "spoken_0_3s": "No more bad hair days mn baed ma ktashafet Wavytalk Blowout Boost",
+   "text_0_3s": "no more bad hair days",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "problem_callout",
+   "pattern_interrupt": "Glittering light burst effect across her hair at 00:02 followed by an immediate inset pop-up photo of frizzy bad hair."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Hook: Proclaiming the end of bad hair days with Wavytalk Blowout Boost.",
+    "Problem validation: Showing what her natural bad hair day looks like via photo cutout.",
+    "Mechanism/Feature demo: Demonstrating the thermal brush in action and explaining negative ion technology.",
+    "Benefit & versatility: Outlining styles (90s supermodel, bouncy blowout, wavy) in 10 minutes without hair products.",
+    "Problem reminder & CTA: Funny flash of messy hair frustration and final CTA with 15% off."
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "frizz_or_curly_solution",
+    "volume_and_bounce",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Negative ion technology restores damaged hair",
+    "No hair styling products required",
+    "Achieve 90s supermodel blowout or bouncy waves at home",
+    "Takes only 10 minutes"
+   ],
+   "pain_points": [
+    "Frizzy, tangled, unmanageable hair",
+    "Bad hair days taking too much effort",
+    "Expensive or inconvenient salon visits"
+   ],
+   "objections_handled": [
+    "Requires complicated styling products: False, works with zero products",
+    "Takes too long: Done in only 10 minutes",
+    "Damaged hair won't look smooth: Negative ions smooth damaged hair"
+   ],
+   "social_proof": [
+    "Visual display of Cindy Crawford 90s blowout and trending blowout aesthetics"
+   ],
+   "comparison_to": "Professional salon blowouts"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 5.4,
+   "first_used_on_hair_s": 5.4,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "partial",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "15% off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Order yours now for 15% off",
+   "cta_on_screen": "order yours now for 15% off",
+   "cta_at_s": 20.8
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Brown, long, frizzy, tangled and unstyled (shown in overlay and comedic clip)",
+   "hair_after": "Long, brunet, sleek, voluminous bouncy blowout with gentle waves",
+   "setting": "studio",
+   "faces_camera": true,
+   "energy_tone": "Enthusiastic, lively, relatable, and upbeat"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat lo-fi pop background music under clear creator speech",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 3.9,
+   "pacing": "fast",
+   "effects": [
+    "Sparkle particle overlay animation",
+    "Pop-up image cutout overlay",
+    "Graphic callout arrow",
+    "Wipe/transition effect"
+   ],
+   "ending": "Creator presents the thermal brush to camera with a red arrow pointing to the link below."
+  },
+  "notes": "Targeted at Lebanese consumers, featuring code-switching between Lebanese Arabic and English, captioned using Arabizi and English text."
+ }
+}

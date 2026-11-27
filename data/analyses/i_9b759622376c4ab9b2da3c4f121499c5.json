@@ -1,0 +1,143 @@
+{
+ "media_key": "i_9b759622376c4ab9b2da3c4f121499c5",
+ "analyzed_at": "2026-11-27T18:38:41+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "a71d0cce212d05bd94f56e111da217764c83dbaac07cd31ca44e9a7b1ab01a5b",
+ "source": {
+  "kind": "image",
+  "id": "9b759622376c4ab9b2da3c4f121499c5"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A festive flat-lay image featuring a pink WavyTalk Steambrush Pro surrounded by Christmas decorations, promoting an 'End of Christmas Offer' with 20% off for pre-orders.",
+  "full_description": "Static promotional graphic set against a white marble background framed with frosted pine branches, white and silver Christmas baubles, pinecones, and warm string lights. In the center lies the pale pink WavyTalk Steambrush Pro hair straightener brush. At the top, a curved red ribbon with gold trim reads 'End of Christmas Offer'. Below the ribbon, large dark serif text announces '20% OFF' followed by 'PRE ORDER NOW - LIMITED TIME'.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "End of Christmas Offer",
+    "role": "hook"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "20% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "PRE ORDER NOW - LIMITED TIME",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "flat lay / top-down product shot",
+    "visual": "A pink WavyTalk Steambrush Pro positioned vertically in the center on white marble, framed by frosted Christmas evergreen foliage, silver and matte white ornaments, pine cones, fairy lights, and a festive red banner at the top displaying the 20% discount offer.",
+    "action": "Static image",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Festive flat-lay graphic featuring a pink straightener brush, Christmas ribbon header, and a bold '20% OFF' callout.",
+   "visual_0_3s": "Festive holiday border with fairy lights and ornaments framing a centered pink Steambrush Pro and 20% OFF promo text.",
+   "spoken_0_3s": "",
+   "text_0_3s": "End of Christmas Offer 20% OFF PRE ORDER NOW - LIMITED TIME",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "none",
+   "pattern_interrupt": "Festive red banner and high-contrast holiday flat-lay design announcing a 20% discount."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Holiday promotion announcement",
+    "Discount callout (20% OFF)",
+    "Product display (Steambrush Pro)",
+    "Call to action with scarcity (Pre Order Now - Limited Time)"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "gift_or_occasion"
+   ],
+   "key_claims": [
+    "20% discount on pre-orders for a limited time"
+   ],
+   "pain_points": [],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Steambrush Pro"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "End of Christmas Offer - 20% OFF",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Limited time pre-order offer",
+   "cta_spoken": "",
+   "cta_on_screen": "PRE ORDER NOW - LIMITED TIME",
+   "cta_at_s": 0
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "studio",
+   "faces_camera": false,
+   "energy_tone": ""
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "Graphic overlay",
+    "Digital typography",
+    "Decorative festive ribbon element"
+   ],
+   "ending": ""
+  },
+  "notes": "Static image ad creative designed for holiday/post-holiday promotional campaigns targeting pre-orders with a 20% discount."
+ }
+}

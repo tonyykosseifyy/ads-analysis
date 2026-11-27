@@ -1,0 +1,133 @@
+{
+ "media_key": "v_1218198667129981",
+ "analyzed_at": "2026-11-27T18:43:52+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "ba064169d92a1f575e56e03bd81b20a3f0f55b2eeaf5dfb42baa5d1ac65a02ac",
+ "source": {
+  "kind": "video",
+  "id": "1218198667129981",
+  "video_id": "985757824134539",
+  "length_s": 35.061,
+  "permalink": "/23849366283980795/videos/985757824134539/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 34.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator styles her curtain bangs using a pink thermal blowout brush and shows off her voluminous, bouncy blowout to soulful music.",
+  "full_description": "In a bedroom setting, a young woman with copper-brown hair uses a pink WavyTalk thermal round brush to style her front bangs. She wraps the hair around the heated barrel, smooths it down, and rolls it slowly to lock in shape. At around 16.5 seconds, she releases the brush to reveal a bouncy wave, then spends the rest of the clip running her fingers through her thick, glossy blowout waves and posing confidently toward the camera. There is no speech or on-screen text; the video is set to a cover of the song 'At Last'.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 16.5,
+    "shot_type": "medium close-up selfie",
+    "visual": "Creator facing the camera holding a pink thermal round brush wrapped around her front fringe section.",
+    "action": "Creator glides and rolls the thermal round brush through her front bangs repeatedly to smooth and curl them inward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 34.8,
+    "shot_type": "medium close-up selfie",
+    "visual": "Creator showcasing her fully styled, voluminous, curled blowout hairstyle.",
+    "action": "She sets the tool aside, shakes out her bangs, runs her hands through her voluminous curls, fluffs her hair, and poses for the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator looking directly into the camera while holding the pink heated round brush wrapped in her bangs.",
+   "visual_0_3s": "Creator slowly rolling and twisting the heated round brush through her bangs to set the curl.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "Immediate hands-on styling motion with a hot round brush directly in front of the face."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Thermal brush application on bangs",
+    "Brush release and curl reveal",
+    "Fluffing and admiring voluminous blowout results"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Creates smooth, bouncy curtain bangs easily",
+    "Gives salon-quality blowout volume at home"
+   ],
+   "pain_points": [
+    "Difficulty getting volume in front bangs",
+    "Flat or unmanageable hair"
+   ],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Thermal Round Brush (Blowout Boost)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 16.5,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Chestnut/copper brown long hair, rest already curled in blowout style, front bangs straight/damp being curled",
+   "hair_after": "Voluminous, shiny, bouncy blowout with face-framing curved bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, glam, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Female soulful vocal track cover of 'At Last'",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 0,
+   "avg_shot_length_s": 34.8,
+   "pacing": "slow",
+   "effects": [],
+   "ending": "Creator running fingers through hair, flipping her head gently, and looking at the camera as the track continues."
+  },
+  "notes": "Single continuous take phone UGC video focusing on the satisfying aesthetic styling of bangs with the thermal brush."
+ }
+}

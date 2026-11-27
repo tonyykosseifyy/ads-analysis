@@ -1,0 +1,584 @@
+{
+ "media_key": "v_1127424886635232",
+ "analyzed_at": "2026-11-27T22:48:47+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "18531ba9c691b24b935d11531df9de485b78fe013f8eecd67a8eedf62faa4f6e",
+ "source": {
+  "kind": "video",
+  "id": "1127424886635232",
+  "errors": [
+   "1127424886635232: Gave up after 5 retries: https://graph.facebook.com/v26.0/1127424886635232",
+   "1948966669632889: Gave up after 5 retries: https://graph.facebook.com/v26.0/1948966669632889"
+  ],
+  "ig_media_id": "18092952293676684",
+  "permalink": "https://www.instagram.com/p/De1C6AWMqX_/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 74.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator with thick curly frizzy hair rushes to style a full blowout in 7 minutes using the WavyTalk thermal brush before leaving her house.",
+  "full_description": "The creator starts by showing her voluminous, frizzy, untamed hair and explains she needs to leave in 15 minutes. She starts a timed blowout challenge at 6:44 using the WavyTalk thermal blowout brush. As she styles her hair section by section while talking about her lack of time management, the brush smooths and curls each section in minutes. She checks her Apple Watch at 6:47 and 6:48, marveling at how fast it works and praising the ionic technology. At 6:51, she finishes with a complete, sleek, bouncy blowout in just 7 minutes total, shows her watch, and rushes out the door.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm supposed to be leaving my house in 15 minutes",
+    "text_english": "I'm supposed to be leaving my house in 15 minutes"
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 3.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and my hair looks like this,",
+    "text_english": "and my hair looks like this,"
+   },
+   {
+    "start_s": 3.1,
+    "end_s": 5.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "so blow it out with me as fast as I possibly can",
+    "text_english": "so blow it out with me as fast as I possibly can"
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 6.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "starting at 6:44.",
+    "text_english": "starting at 6:44."
+   },
+   {
+    "start_s": 6.3,
+    "end_s": 9.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I don't have time to do this as good as I could make it with this brush,",
+    "text_english": "I don't have time to do this as good as I could make it with this brush,"
+   },
+   {
+    "start_s": 9.2,
+    "end_s": 10.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "but I know it works really quickly",
+    "text_english": "but I know it works really quickly"
+   },
+   {
+    "start_s": 10.8,
+    "end_s": 13.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and that is what I'm going for,",
+    "text_english": "and that is what I'm going for,"
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 19.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "even if everything is not absolutely perfect as long as it's like smoothed out and a little curl at the bottom, that's all I need.",
+    "text_english": "even if everything is not absolutely perfect as long as it's like smoothed out and a little curl at the bottom, that's all I need."
+   },
+   {
+    "start_s": 19.3,
+    "end_s": 27.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "No matter how much time I have, I always am like running out the door. Like I have no concept of time, and it's really starting to catch up with me,",
+    "text_english": "No matter how much time I have, I always am like running out the door. Like I have no concept of time, and it's really starting to catch up with me,"
+   },
+   {
+    "start_s": 27.6,
+    "end_s": 32.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "so I probably should have left a lot of more time to blow out my hair.",
+    "text_english": "so I probably should have left a lot of more time to blow out my hair."
+   },
+   {
+    "start_s": 32.1,
+    "end_s": 36.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm supposed to be somewhere at seven and I just don't know if that is going to be happening at this point.",
+    "text_english": "I'm supposed to be somewhere at seven and I just don't know if that is going to be happening at this point."
+   },
+   {
+    "start_s": 36.8,
+    "end_s": 42.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'll probably be there like 7:03 if I can keep going here.",
+    "text_english": "I'll probably be there like 7:03 if I can keep going here."
+   },
+   {
+    "start_s": 42.1,
+    "end_s": 46.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "First section is done and it is 6:46. Oh, just changed to 6:47.",
+    "text_english": "First section is done and it is 6:46. Oh, just changed to 6:47."
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 48.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "All right, and next section.",
+    "text_english": "All right, and next section."
+   },
+   {
+    "start_s": 48.2,
+    "end_s": 51.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Just realizing that I did that in literally three minutes, and that's insane.",
+    "text_english": "Just realizing that I did that in literally three minutes, and that's insane."
+   },
+   {
+    "start_s": 51.9,
+    "end_s": 54.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This thing is seriously like magic on my curls.",
+    "text_english": "This thing is seriously like magic on my curls."
+   },
+   {
+    "start_s": 54.8,
+    "end_s": 59.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I don't know what it is, if it's the negative ionic technology or if it's just like the brush itself,",
+    "text_english": "I don't know what it is, if it's the negative ionic technology or if it's just like the brush itself,"
+   },
+   {
+    "start_s": 59.8,
+    "end_s": 63.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "but it's so good. I think I have a good chance of making it on time.",
+    "text_english": "but it's so good. I think I have a good chance of making it on time."
+   },
+   {
+    "start_s": 63.3,
+    "end_s": 67.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "6:48, yes! 6:48 and we are almost done. I have one more section.",
+    "text_english": "6:48, yes! 6:48 and we are almost done. I have one more section."
+   },
+   {
+    "start_s": 67.2,
+    "end_s": 70.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Here we go. Here it is. It looks phenomenal,",
+    "text_english": "Here we go. Here it is. It looks phenomenal,"
+   },
+   {
+    "start_s": 70.8,
+    "end_s": 73.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and the time is 6:51, and I gotta go.",
+    "text_english": "and the time is 6:51, and I gotta go."
+   },
+   {
+    "start_s": 73.1,
+    "end_s": 74.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Goodbye, and it looks really good.",
+    "text_english": "Goodbye, and it looks really good."
+   }
+  ],
+  "transcript_full_original": "I'm supposed to be leaving my house in 15 minutes and my hair looks like this, so blow it out with me as fast as I possibly can starting at 6:44. I don't have time to do this as good as I could make it with this brush, but I know it works really quickly and that is what I'm going for, even if everything is not absolutely perfect as long as it's like smoothed out and a little curl at the bottom, that's all I need. No matter how much time I have, I always am like running out the door. Like I have no concept of time, and it's really starting to catch up with me, so I probably should have left a lot of more time to blow out my hair. I'm supposed to be somewhere at seven and I just don't know if that is going to be happening at this point. I'll probably be there like 7:03 if I can keep going here. First section is done and it is 6:46. Oh, just changed to 6:47. All right, and next section. Just realizing that I did that in literally three minutes, and that's insane. This thing is seriously like magic on my curls. I don't know what it is, if it's the negative ionic technology or if it's just like the brush itself, but it's so good. I think I have a good chance of making it on time. 6:48, yes! 6:48 and we are almost done. I have one more section. Here we go. Here it is. It looks phenomenal, and the time is 6:51, and I gotta go. Goodbye, and it looks really good.",
+  "transcript_full_english": "I'm supposed to be leaving my house in 15 minutes and my hair looks like this, so blow it out with me as fast as I possibly can starting at 6:44. I don't have time to do this as good as I could make it with this brush, but I know it works really quickly and that is what I'm going for, even if everything is not absolutely perfect as long as it's like smoothed out and a little curl at the bottom, that's all I need. No matter how much time I have, I always am like running out the door. Like I have no concept of time, and it's really starting to catch up with me, so I probably should have left a lot of more time to blow out my hair. I'm supposed to be somewhere at seven and I just don't know if that is going to be happening at this point. I'll probably be there like 7:03 if I can keep going here. First section is done and it is 6:46. Oh, just changed to 6:47. All right, and next section. Just realizing that I did that in literally three minutes, and that's insane. This thing is seriously like magic on my curls. I don't know what it is, if it's the negative ionic technology or if it's just like the brush itself, but it's so good. I think I have a good chance of making it on time. 6:48, yes! 6:48 and we are almost done. I have one more section. Here we go. Here it is. It looks phenomenal, and the time is 6:51, and I gotta go. Goodbye, and it looks really good.",
+  "word_count": 251,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "text": "I'm supposed to be leaving my house in 15 minutes",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 3.1,
+    "text": "and my hair looks like this",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.1,
+    "end_s": 5.0,
+    "text": "so blow it out with me as fast as I possibly can",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 6.3,
+    "text": "starting at 6:44",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.3,
+    "end_s": 9.2,
+    "text": "I don't have time to do this as good as I could make it with this brush",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.2,
+    "end_s": 10.8,
+    "text": "but I know it works really quickly",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.8,
+    "end_s": 13.5,
+    "text": "and that is what I'm going for",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 19.3,
+    "text": "even if everything is not absolutely perfect as long as it's like smooth out and a little curl at the bottom",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.3,
+    "end_s": 22.0,
+    "text": "that's all I need no matter how much time I have",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 25.5,
+    "text": "I always am like running out the door",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 27.6,
+    "text": "like I have no concept of time",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 27.6,
+    "end_s": 30.5,
+    "text": "and it's really starting to catch up with me",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 32.5,
+    "text": "so I probably should have left a lot of more time to blow out my hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 32.5,
+    "end_s": 35.0,
+    "text": "I'm supposed to be somewhere at seven",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 35.0,
+    "end_s": 38.0,
+    "text": "and I just don't know if that is gonna be happening at this point",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 38.0,
+    "end_s": 42.1,
+    "text": "I'll probably be there like 7:03 if I can keep going here",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 42.1,
+    "end_s": 45.2,
+    "text": "first section is done and it is 6:46",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 45.2,
+    "end_s": 47.0,
+    "text": "oh just changed to 6:47",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 47.0,
+    "end_s": 48.5,
+    "text": "alright and next section",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 48.5,
+    "end_s": 51.5,
+    "text": "just realizing that I did that in literally three minutes",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 51.5,
+    "end_s": 54.0,
+    "text": "and that's insane this thing is seriously like magic on my curls",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 54.0,
+    "end_s": 56.5,
+    "text": "I don't know what it is",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 56.5,
+    "end_s": 59.5,
+    "text": "if it's the negative ionic technology or if it's just like the brush itself",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 59.5,
+    "end_s": 63.3,
+    "text": "but it's so good I think I have a good chance of making it on time",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 63.3,
+    "end_s": 65.2,
+    "text": "6:48 yes",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 65.2,
+    "end_s": 67.2,
+    "text": "6:48 and we are almost done",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 67.2,
+    "end_s": 68.8,
+    "text": "I have one more section here we go",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 68.8,
+    "end_s": 71.0,
+    "text": "here it is it looks phenomenal",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 71.0,
+    "end_s": 73.1,
+    "text": "and the time is 6:51 and I gotta go",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 73.1,
+    "end_s": 74.8,
+    "text": "goodbye and it looks really good",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator stands in front of camera with wildly frizzy, voluminous curly dark brown hair in a knit sweater, holding the thermal brush tool.",
+    "action": "Creator gestures to her messy hair and brandishes the WavyTalk styling tool, explaining she must leave in 15 minutes.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 5.8,
+    "shot_type": "close-up",
+    "visual": "Close-up of creator holding her Apple Watch showing 6:44.",
+    "action": "Creator proves the starting time on her digital watch face.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 20.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator clips the top portion of her hair up and starts brushing through the bottom strand with the WavyTalk heated brush.",
+    "action": "Creator glides the heated brush through her dense curly section, smoothing it into straight glossy hair with a curled end.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 32.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling the lower hair layer around the brush barrel.",
+    "action": "Creator rolls the brush near the roots and twists it through the ends, explaining her habit of running late.",
+    "product_visible": true
+   },
+   {
+    "start_s": 32.5,
+    "end_s": 42.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator moves to the other side of her lower section.",
+    "action": "Creator winds hair around the barrel, smoothly styling while talking to camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 42.1,
+    "end_s": 46.5,
+    "shot_type": "close-up",
+    "visual": "Close-up of Apple Watch screen switching from 6:46 to 6:47.",
+    "action": "Creator holds watch into frame showing only 3 minutes have passed.",
+    "product_visible": false
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 52.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator lets down the middle section of hair, unpinning the clip.",
+    "action": "Creator shakes out styled bottom curls and preps the next section, amazed at the speed.",
+    "product_visible": false
+   },
+   {
+    "start_s": 52.0,
+    "end_s": 63.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator using the heated brush on the middle and front layers of her hair.",
+    "action": "Creator runs the brush through strands from root to tip, rolling it to add volume and soft curls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 63.3,
+    "end_s": 66.5,
+    "shot_type": "close-up",
+    "visual": "Creator holding watch up showing 6:48, excitedly reacting.",
+    "action": "Creator confirms the time is 6:48 and cheers happily.",
+    "product_visible": false
+   },
+   {
+    "start_s": 66.5,
+    "end_s": 70.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator unclips top bang / crown section and lets it fall down styled.",
+    "action": "Creator shakes out fully styled voluminous, shiny, bouncy blowout curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 70.8,
+    "end_s": 74.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator flashes watch showing 6:51, smiles proudly, waves goodbye and exits frame.",
+    "action": "Creator demonstrates the final result in 7 total minutes, waves goodbye in a hurry.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing frizzy messy hair holding the tool with burned-in caption 'I'm supposed to be leaving my house in 15 minutes'.",
+   "visual_0_3s": "Creator holding her thick unruly hair, talking excitedly to camera about rushing out.",
+   "spoken_0_3s": "I'm supposed to be leaving my house in 15 minutes and my hair looks like this,",
+   "text_0_3s": "I'm supposed to be leaving my house in 15 minutes",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "problem_callout",
+   "pattern_interrupt": "Showing extremely frizzy 'disaster' hair right before having to leave in 15 minutes, followed by an immediate real-time watch timestamp challenge."
+  },
+  "structure": {
+   "format": "grwm_lifestyle",
+   "narrative_beats": [
+    "Relatable crisis hook: late to leave with frizzy messy hair",
+    "Timed challenge setup: timestamped 6:44 start",
+    "Live styling demo & speed proof on thick hair",
+    "Mid-way check-in at 6:47 (3 minutes for half head)",
+    "Tech explanation: negative ionic technology smooths frizz fast",
+    "Final check-in at 6:51 showing perfect bouncy blowout in 7 minutes total"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "volume_and_bounce",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Blows out thick, frizzy curly hair in 7 minutes flat",
+    "Negative ionic technology creates smooth, shiny finish with curled ends",
+    "Works like magic on difficult curls even when rushed"
+   ],
+   "pain_points": [
+    "Running out the door with no time to do hair",
+    "Thick curly frizzy hair taking forever to blow dry and style",
+    "Being late to appointments"
+   ],
+   "objections_handled": [
+    "Takes too long to do a full blowout on thick hair",
+    "Won't tame strong frizz or curls in a quick hurry"
+   ],
+   "social_proof": [
+    "Real-time watch proof: started 6:44, ended 6:51"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Thermal Blowout Brush / Blowout Boost"
+   ],
+   "first_seen_s": 0.5,
+   "first_used_on_hair_s": 6.3,
+   "final_result_shown_s": 68.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, thick, dark brown, very frizzy and unstyled curly hair",
+   "hair_after": "Smooth, glossy, voluminous blowout with bouncy curled ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, energetic, rushed, excited"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No background music; raw natural audio of creator speaking and styling her hair.",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 9.35,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts",
+    "screen time verification check-ins"
+   ],
+   "ending": "Creator shows finished bouncy blowout, flashes watch at 6:51, waves goodbye and rushes off-screen."
+  },
+  "notes": "Ad repurposed by WavyTalk Lebanon targeting audiences looking for quick everyday blowout solutions. Shows authentic timestamped proof via Apple Watch."
+ }
+}

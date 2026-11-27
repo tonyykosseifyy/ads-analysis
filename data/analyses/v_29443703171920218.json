@@ -1,0 +1,306 @@
+{
+ "media_key": "v_29443703171920218",
+ "analyzed_at": "2026-11-27T23:21:11+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "d4d325386a1cfbbdb2a71a3ed474be20c174874d9a9ae7760f3016225de73c04",
+ "source": {
+  "kind": "video",
+  "id": "29443703171920218",
+  "errors": [
+   "29443703171920218: Gave up after 5 retries: https://graph.facebook.com/v26.0/29443703171920218",
+   "1592914305474734: Gave up after 5 retries: https://graph.facebook.com/v26.0/1592914305474734"
+  ],
+  "ig_media_id": "18063447191562981",
+  "permalink": "https://www.instagram.com/p/DfZcNeasytM/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 27.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates styling her long hair with the pink Wavytalk Power Wave tool to create effortless summer beach waves.",
+  "full_description": "A young woman with long, voluminous brunette hair showcases the Wavytalk Power Wave deep waver tool. She begins by holding up the tool and then sections and crimps her hair from root to tip. A voiceover highlights negative ion technology, deep V barrel design, frizz-free results, speed, and lack of burnt smell. The video concludes with multiple beauty poses showcasing the final wavy hairstyle from the front, sides, and back.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I think I just found my go-to summer hairstyle",
+    "text_english": "I think I just found my go-to summer hairstyle"
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 4.1,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "and just using the Wavytalk Power Wave.",
+    "text_english": "and just using the Wavytalk Power Wave."
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 6.4,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I love how these waves give that effortless beachy look,",
+    "text_english": "I love how these waves give that effortless beachy look,"
+   },
+   {
+    "start_s": 6.4,
+    "end_s": 9.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "while still making my hair look full and voluminous.",
+    "text_english": "while still making my hair look full and voluminous."
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 13.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "This tool uses negative ion technology and a unique deep V barrel design",
+    "text_english": "This tool uses negative ion technology and a unique deep V barrel design"
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 17.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "to keep my hair smooth, shiny and frizz-free without any burnt hair smell.",
+    "text_english": "to keep my hair smooth, shiny and frizz-free without any burnt hair smell."
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 20.1,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "It actually takes me a few minutes to do it.",
+    "text_english": "It actually takes me a few minutes to do it."
+   },
+   {
+    "start_s": 20.1,
+    "end_s": 23.4,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "And if you're looking for an easy summer hairstyle that's cute,",
+    "text_english": "And if you're looking for an easy summer hairstyle that's cute,"
+   },
+   {
+    "start_s": 23.4,
+    "end_s": 27.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "for everything from beach days to dinner plans or just easy vacation days, this is definitely it.",
+    "text_english": "for everything from beach days to dinner plans or just easy vacation days, this is definitely it."
+   }
+  ],
+  "transcript_full_original": "I think I just found my go-to summer hairstyle and just using the Wavytalk Power Wave. I love how these waves give that effortless beachy look, while still making my hair look full and voluminous. This tool uses negative ion technology and a unique deep V barrel design to keep my hair smooth, shiny and frizz-free without any burnt hair smell. It actually takes me a few minutes to do it. And if you're looking for an easy summer hairstyle that's cute, for everything from beach days to dinner plans or just easy vacation days, this is definitely it.",
+  "transcript_full_english": "I think I just found my go-to summer hairstyle and just using the Wavytalk Power Wave. I love how these waves give that effortless beachy look, while still making my hair look full and voluminous. This tool uses negative ion technology and a unique deep V barrel design to keep my hair smooth, shiny and frizz-free without any burnt hair smell. It actually takes me a few minutes to do it. And if you're looking for an easy summer hairstyle that's cute, for everything from beach days to dinner plans or just easy vacation days, this is definitely it.",
+  "word_count": 89,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.4,
+    "text": "summer hair inspo",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.6,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting in a bedroom in front of a mirror with naturally textured long brown hair.",
+    "action": "Creator tilts head and looks upward with text overlay reading 'summer hair inspo'.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.6,
+    "end_s": 3.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the pink Wavytalk Power Wave device up to the camera.",
+    "action": "She displays the tool front and back before parting her hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 5.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator clamping a section of hair near roots with the pink waver.",
+    "action": "She clamps and holds the hair, then moves down to clamp the mid-lengths.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.7,
+    "end_s": 7.4,
+    "shot_type": "medium close-up",
+    "visual": "Freshly crimped wave section held up in front of the creator's face.",
+    "action": "She inspects the defined deep wave texture in the mirror.",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 10.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator continuing to clamp sections down the strand.",
+    "action": "She presses down the barrel tool along the length of hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.3,
+    "end_s": 13.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator finishing the ends of a section and checking the side waves.",
+    "action": "She clamps the hair ends, releases, and looks at the completed side profile.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 17.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the front framing pieces on the other side.",
+    "action": "She clamps near the roots, then slides down to crimp the length.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.1,
+    "end_s": 19.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator clamping the remaining back sections of hair.",
+    "action": "She works the tool through lower hair layers.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 21.3,
+    "shot_type": "medium shot",
+    "visual": "Creator turning around and running fingers through the finished waves.",
+    "action": "She fluffs and blends the waved sections together.",
+    "product_visible": false
+   },
+   {
+    "start_s": 21.3,
+    "end_s": 26.1,
+    "shot_type": "medium shot",
+    "visual": "Creator posing with finished hair, framed by soft indoor lighting.",
+    "action": "She smiles, places hands playfully under her chin, and fluffs her bouncy waves.",
+    "product_visible": false
+   },
+   {
+    "start_s": 26.1,
+    "end_s": 27.8,
+    "shot_type": "medium shot",
+    "visual": "Back view of the creator's long waved hair.",
+    "action": "She turns her back to display the full length and uniform wave pattern.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator sitting in a white shirt with text overlay 'summer hair inspo' on screen.",
+   "visual_0_3s": "Creator looks up thoughtfully, text overlay disappears, and she raises the pink Wavytalk tool to the camera.",
+   "spoken_0_3s": "I think I just found my go-to summer hairstyle and just using the Wavytalk Power Wave.",
+   "text_0_3s": "summer hair inspo",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Quick introduction of a distinct pink styling tool directly into styling demonstration."
+  },
+  "structure": {
+   "format": "voiceover_broll",
+   "narrative_beats": [
+    "Hook introducing the go-to summer hairstyle",
+    "Tool introduction (Wavytalk Power Wave)",
+    "Demonstration of styling step by step",
+    "Technical benefits (negative ion technology, deep V barrel, frizz reduction, no burning odor)",
+    "Time efficiency benefit (takes just a few minutes)",
+    "Result reveal and versatile lifestyle endorsement"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "saves_time",
+    "frizz_or_curly_solution",
+    "travel_or_on_the_go"
+   ],
+   "key_claims": [
+    "Effortless beachy look that keeps hair full and voluminous",
+    "Uses negative ion technology and deep V barrel design",
+    "Leaves hair smooth, shiny, and frizz-free without burnt smell",
+    "Takes only a few minutes to style"
+   ],
+   "pain_points": [
+    "Flat or lifeless hair in summer",
+    "Frizz and flyaways",
+    "Burnt hair smell from traditional hot tools",
+    "Hairstyling taking too much time"
+   ],
+   "objections_handled": [
+    "Damage and odor addressed via negative ions and lack of burnt hair smell",
+    "Effort addressed by emphasizing it only takes a few minutes"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Power Wave"
+   ],
+   "first_seen_s": 1.6,
+   "first_used_on_hair_s": 3.4,
+   "final_result_shown_s": 21.3,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, thick brunette hair with slight natural wave and mild frizz",
+   "hair_after": "Deep, shiny, uniform beach waves with high volume and defined texture",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "calm, friendly, aesthetic, enthusiastic"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Upbeat, light lo-fi electronic background beat",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 10,
+   "avg_shot_length_s": 2.5,
+   "pacing": "medium",
+   "effects": [
+    "text overlay",
+    "jump cuts"
+   ],
+   "ending": "Creator turns around showing the full back of her hair with deep wavy texture."
+  },
+  "notes": "Ad focuses purely on the organic aesthetic tutorial experience with clear product benefits voiced over fast-paced demo cuts."
+ }
+}

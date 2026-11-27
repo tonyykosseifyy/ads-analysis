@@ -1,0 +1,455 @@
+{
+ "media_key": "v_2648664675566897",
+ "analyzed_at": "2026-11-27T20:54:53+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "3cf93b19f4490adc12ac15bf3004a37d469ae36a7d7263b657f5d8933966faad",
+ "source": {
+  "kind": "video",
+  "id": "2648664675566897",
+  "video_id": "1401856668592646",
+  "length_s": 61.021,
+  "permalink": "/23849366283980795/videos/1401856668592646/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 60.6,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A woman demonstrates the WavyTalk Steamline Pro Straightener brush on thick, frizzy, brushed-out hair, showing immediate smooth results in one pass.",
+  "full_description": "A creator starts with extremely puffy, frizzy brushed-out curly/wavy hair and shows a teaser comparison with sleek straight hair styled with the WavyTalk Steamline Pro Straightener brush. She proceeds to test the tool live on camera, demonstrating a single pass on a regular section and then a thick section of hair, highlighting that the brush does not feel uncomfortably hot near the scalp and provides strong tension. She finishes by styling her front bangs into a bouncy curtain shape, raving about the shiny, salon-like finish.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Here is my hair after I've completely brushed it out,",
+    "text_english": "Here is my hair after I've completely brushed it out,"
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 5.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and here's my hair after using the new Pro steam straightener brush.",
+    "text_english": "and here's my hair after using the new Pro steam straightener brush."
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 7.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's try it.",
+    "text_english": "Let's try it."
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 10.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I don't know how slow you're supposed to go.",
+    "text_english": "I don't know how slow you're supposed to go."
+   },
+   {
+    "start_s": 19.4,
+    "end_s": 21.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "That looks really good.",
+    "text_english": "That looks really good."
+   },
+   {
+    "start_s": 21.1,
+    "end_s": 22.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is one pass,",
+    "text_english": "This is one pass,"
+   },
+   {
+    "start_s": 22.4,
+    "end_s": 25.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and this is what my hair used to look like.",
+    "text_english": "and this is what my hair used to look like."
+   },
+   {
+    "start_s": 25.1,
+    "end_s": 28.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's try a little bit of a bigger piece just to see what this will handle.",
+    "text_english": "Let's try a little bit of a bigger piece just to see what this will handle."
+   },
+   {
+    "start_s": 28.7,
+    "end_s": 31.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So I'm pretty close to my root and it does not feel hot at all.",
+    "text_english": "So I'm pretty close to my root and it does not feel hot at all."
+   },
+   {
+    "start_s": 31.4,
+    "end_s": 33.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "There's nice tension in this.",
+    "text_english": "There's nice tension in this."
+   },
+   {
+    "start_s": 33.5,
+    "end_s": 37.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I don't know how long you're supposed to hold it on your hair.",
+    "text_english": "I don't know how long you're supposed to hold it on your hair."
+   },
+   {
+    "start_s": 41.5,
+    "end_s": 43.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "That was one pass,",
+    "text_english": "That was one pass,"
+   },
+   {
+    "start_s": 43.2,
+    "end_s": 45.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and that was a pretty big piece of hair.",
+    "text_english": "and that was a pretty big piece of hair."
+   },
+   {
+    "start_s": 46.2,
+    "end_s": 48.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "My hair looks so shiny.",
+    "text_english": "My hair looks so shiny."
+   },
+   {
+    "start_s": 53.0,
+    "end_s": 55.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Why does this actually look so good?",
+    "text_english": "Why does this actually look so good?"
+   },
+   {
+    "start_s": 55.8,
+    "end_s": 57.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm obsessed with this bang right now.",
+    "text_english": "I'm obsessed with this bang right now."
+   },
+   {
+    "start_s": 57.8,
+    "end_s": 60.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This looks incredible.",
+    "text_english": "This looks incredible."
+   }
+  ],
+  "transcript_full_original": "Here is my hair after I've completely brushed it out, and here's my hair after using the new Pro steam straightener brush. Let's try it. I don't know how slow you're supposed to go. That looks really good. This is one pass, and this is what my hair used to look like. Let's try a little bit of a bigger piece just to see what this will handle. So I'm pretty close to my root and it does not feel hot at all. There's nice tension in this. I don't know how long you're supposed to hold it on your hair. That was one pass, and that was a pretty big piece of hair. My hair looks so shiny. Why does this actually look so good? I'm obsessed with this bang right now. This looks incredible.",
+  "transcript_full_english": "Here is my hair after I've completely brushed it out, and here's my hair after using the new Pro steam straightener brush. Let's try it. I don't know how slow you're supposed to go. That looks really good. This is one pass, and this is what my hair used to look like. Let's try a little bit of a bigger piece just to see what this will handle. So I'm pretty close to my root and it does not feel hot at all. There's nice tension in this. I don't know how long you're supposed to hold it on your hair. That was one pass, and that was a pretty big piece of hair. My hair looks so shiny. Why does this actually look so good? I'm obsessed with this bang right now. This looks incredible.",
+  "word_count": 133,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.0,
+    "text": "POV you found a frizzy wavy hair girl's new best friend 🤫",
+    "role": "hook"
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 5.4,
+    "text": "Wavytalk Steamline Pro Straightener brush",
+    "role": "brand"
+   },
+   {
+    "start_s": 6.2,
+    "end_s": 7.5,
+    "text": "let's try it",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 10.5,
+    "text": "I don't know how slow you're supposed to go",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.5,
+    "end_s": 21.0,
+    "text": "that looks really good",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.1,
+    "end_s": 22.3,
+    "text": "this is one pass",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.4,
+    "end_s": 25.0,
+    "text": "and this is what my hair used to look like",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.1,
+    "end_s": 27.0,
+    "text": "let's try a little bit of a bigger piece",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 27.1,
+    "end_s": 28.5,
+    "text": "just to see what this will handle",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 28.0,
+    "end_s": 53.0,
+    "text": "UP TO 25% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 28.8,
+    "end_s": 31.2,
+    "text": "so I'm pretty close to my root and it does not feel hot at all",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 31.3,
+    "end_s": 33.3,
+    "text": "there's nice tension in this",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 33.6,
+    "end_s": 37.0,
+    "text": "I don't know how long you're supposed to hold it on your hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 41.6,
+    "end_s": 43.1,
+    "text": "that was one pass",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 43.2,
+    "end_s": 45.4,
+    "text": "and that was a pretty big piece of hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 46.3,
+    "end_s": 48.5,
+    "text": "my hair looks so shiny",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 53.1,
+    "end_s": 55.7,
+    "text": "why does this actually look so good",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 55.8,
+    "end_s": 57.5,
+    "text": "I'm obsessed with this bang right now",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 57.8,
+    "end_s": 60.5,
+    "text": "this looks incredible",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "shot_type": "medium shot",
+    "visual": "Creator in a bathroom looking at camera with massively poofy, brushed-out frizzy dark hair.",
+    "action": "Creator shakes her hair side to side, showing how voluminous and frizzy it is after brushing.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 5.5,
+    "shot_type": "medium shot",
+    "visual": "Creator holding the white WavyTalk Steamline Pro brush next to her face, showing one side sleek and straight.",
+    "action": "Creator points to her sleek straight hair on one side while holding up the device.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 18.5,
+    "shot_type": "medium shot",
+    "visual": "Creator with top half of hair tied in a bun, holding a section of hair from underneath.",
+    "action": "Creator brushes the WavyTalk steam brush slowly through a section of wavy hair from root to tip.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 25.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator showing the newly straightened section in front of her chest.",
+    "action": "Creator holds the straightened strand next to the untreated frizzy hair, expressing shock at the one-pass transformation.",
+    "product_visible": true
+   },
+   {
+    "start_s": 25.0,
+    "end_s": 41.0,
+    "shot_type": "medium shot",
+    "visual": "Creator separating a larger section of frizzy hair and applying the straightener brush.",
+    "action": "Creator clamps the steam brush near the roots, glides it steadily down the thick section, noting the scalp comfort and bristle tension.",
+    "product_visible": true
+   },
+   {
+    "start_s": 41.0,
+    "end_s": 48.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator inspecting and running fingers through the freshly straightened thick strand.",
+    "action": "Creator strokes the hair, admiring how shiny, silky, and flat it turned out after one pass.",
+    "product_visible": true
+   },
+   {
+    "start_s": 48.5,
+    "end_s": 52.5,
+    "shot_type": "medium shot",
+    "visual": "Creator styling her front bang layer with the steam brush.",
+    "action": "Creator wraps the bang around the barrel/comb teeth, pulling upward and curving away from the face to create volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 52.5,
+    "end_s": 60.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator showcasing her completed front bangs and smooth hair with bouncy blowout framing.",
+    "action": "Creator touches and adjusts her face-framing fringe, smiling and marveling at the final result.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator staring directly into camera with extremely wide, puffy, brushed-out frizzy hair and text 'POV you found a frizzy wavy hair girl's new best friend 🤫'.",
+   "visual_0_3s": "Extreme bushy hair visual followed immediately by a quick cut showing a super sleek straight finish side-by-side with the tool.",
+   "spoken_0_3s": "Here is my hair after I've completely brushed it out, and here's my hair after...",
+   "text_0_3s": "POV you found a frizzy wavy hair girl's new best friend 🤫",
+   "hook_type": "before_after",
+   "hook_type_secondary": "problem_callout",
+   "pattern_interrupt": "Shockingly voluminous frizzy hair in the very first second immediately contrasting with an instant flash cut to glossy pin-straight hair."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Shock hook with wild brushed-out frizzy hair vs. sleek teaser",
+    "Live first-time trial on a single section with one-pass glide",
+    "Reaction and side-by-side visual comparison against frizzy hair",
+    "Stress test on a thicker hair chunk, evaluating scalp heat and brush tension",
+    "Result review highlighting high shine",
+    "Front bang styling technique demonstrating blowout curl/volume capability",
+    "Final excited reaction showing gorgeous face-framing result"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "saves_time",
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Straightens frizzy wavy hair in one single pass",
+    "Does not feel hot near roots or burn the scalp",
+    "Provides great tension even on thick hair sections",
+    "Leaves hair glossy and shiny",
+    "Can curl and style curtain bangs with volume"
+   ],
+   "pain_points": [
+    "Frizzy, poofy, unmanageable brushed-out hair",
+    "Burning scalp with hot tools close to roots",
+    "Having to do multiple passes that damage hair",
+    "Tools that can't handle thick sections"
+   ],
+   "objections_handled": [
+    "Does it burn the roots? (She confirms it is safe and comfortable near the scalp)",
+    "Does it work on thick hair? (She tests a wide, thick section and it straightens in one pass)",
+    "Does it make hair flat and dull? (She demonstrates high shine and voluminous curtain bangs)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional hair brushing / normal flat irons"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steamline Pro Straightener brush"
+   ],
+   "first_seen_s": 2.8,
+   "first_used_on_hair_s": 5.8,
+   "final_result_shown_s": 53.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "UP TO 25% OFF",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Very thick, long, bushy, frizzy, brushed-out dark brunette wavy hair",
+   "hair_after": "Ultra sleek, smooth, glossy straight hair with voluminous curtain bangs",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "Authentic, curious, relatable, pleasantly surprised"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat ambient background music under creator's dialogue and tool sounds",
+   "captions_burned_in": true,
+   "production_style": "phone_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 10.1,
+   "pacing": "medium",
+   "effects": [
+    "Text pop-ups",
+    "Burned-in subtitles",
+    "Offer badge overlay"
+   ],
+   "ending": "Creator admiring her face-framing bang in the mirror/camera saying 'This looks incredible.'"
+  },
+  "notes": "High-performing classic UGC problem-solution format. The contrast between her brushed-out poofy hair at second 0 and the straight result is extreme, providing an irresistible visual hook."
+ }
+}

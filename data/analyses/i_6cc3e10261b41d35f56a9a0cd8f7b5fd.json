@@ -1,0 +1,146 @@
+{
+ "media_key": "i_6cc3e10261b41d35f56a9a0cd8f7b5fd",
+ "analyzed_at": "2026-11-27T18:39:35+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "c72e45b5fe484e63b43e34e35957b2ccd485e396b91868425fc3a703969679e7",
+ "source": {
+  "kind": "image",
+  "id": "6cc3e10261b41d35f56a9a0cd8f7b5fd"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "Static Black Friday Early Access promotional ad offering 25% off the WavyTalk Whirlwind Curl Airflow Styler and Straightener.",
+  "full_description": "A square graphic promotional asset for WavyTalk featuring a Black Friday Early Access campaign. At the top, bold text announces 'IT'S GIVING 25% OFF'. On the right, a smiling blonde model against a purple background holds the light pink Whirlwind Curl tool, showcasing her styled wavy hair. On the left, product copy identifies the 'Whirlwind Curl Airflow Styler and Straightener' alongside a clean cutout shot of the device. Diagonal pink curved ribbon banners frame the corners reading 'BLACK FRIDAY EARLY ACCESS', and the WavyTalk logo is centered at the bottom.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "IT'S GIVING 25% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "BLACK FRIDAY EARLY ACCESS",
+    "role": "hook"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Whirlwind Curl Airflow Styler and Straightener",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK",
+    "role": "brand"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "graphic_split",
+    "visual": "Studio graphic layout featuring a smiling blonde woman holding the pink WavyTalk Whirlwind Curl on a purple inset card next to an isolated product render, surrounded by 'BLACK FRIDAY EARLY ACCESS' circular ribbon accents and discount headlines.",
+    "action": "Static image display; model smiles at the camera holding the tool.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Bold headline 'IT'S GIVING 25% OFF' with 'BLACK FRIDAY EARLY ACCESS' framing ribbons and a model holding the Whirlwind Curl styler.",
+   "visual_0_3s": "Bold headline 'IT'S GIVING 25% OFF' with 'BLACK FRIDAY EARLY ACCESS' framing ribbons and a model holding the Whirlwind Curl styler.",
+   "spoken_0_3s": "",
+   "text_0_3s": "IT'S GIVING 25% OFF",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "High contrast typography with 'It's giving' Gen Z slang and a large 25% discount callout framed by bright pink early access ribbons."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Promotional hook with 25% off Black Friday deal",
+    "Product identification: Whirlwind Curl Airflow Styler and Straightener",
+    "Visual social proof and styling result on model"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "25% off discount",
+    "Airflow styler and straightener dual function"
+   ],
+   "pain_points": [],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Whirlwind Curl Airflow Styler and Straightener"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": 0,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "25% OFF",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Black Friday Early Access",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "model",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "",
+   "hair_after": "Medium-long blonde styled into voluminous wavy curls",
+   "setting": "studio",
+   "faces_camera": true,
+   "energy_tone": "smiling and cheerful"
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [],
+   "ending": "Static branded graphic card"
+  },
+  "notes": "Static ad creative formatted 1:1 specifically for Meta Feed/Instagram/Facebook campaigns targeting early holiday/Black Friday shoppers."
+ }
+}

@@ -1,0 +1,236 @@
+{
+ "media_key": "v_814795608347277",
+ "analyzed_at": "2026-11-27T18:44:25+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "769ff614e53c359257ab71b39c33434d5b515d52c0e5f5bd35f6cbfc343482df",
+ "source": {
+  "kind": "video",
+  "id": "814795608347277",
+  "video_id": "1066014725955902",
+  "length_s": 26.368,
+  "permalink": "/23849366283980795/videos/1066014725955902/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 25.26,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator transforms limp hair into a voluminous 90s blowout using the Wavytalk thermal round brush, featuring a half-and-half comparison and step-by-step text overlays.",
+  "full_description": "A vertical UGC tutorial set to music where a young woman demonstrates how to achieve bouncy blowout hair at home using a pink Wavytalk thermal styling brush. The video starts with a relatable problem hook ('When you're tired of your hair not doing what you want'), followed by sectioning hair, showing a quick curl bounce, comparing a styled half against an unstyled half, demonstrating the brush gliding through hair to kill frizz with ionic technology, and ending with a voluminous, layered blowout reveal and playful celebration.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "text": "When you're tired of your hair not doing what you want",
+    "role": "hook"
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 3.7,
+    "text": "SECTION YOUR HAIR",
+    "role": "benefit"
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 6.4,
+    "text": "LOOK AT THAT BOUNCE!",
+    "role": "benefit"
+   },
+   {
+    "start_s": 6.4,
+    "end_s": 8.3,
+    "text": "SEE THE DIFFERENCE",
+    "role": "benefit"
+   },
+   {
+    "start_s": 8.3,
+    "end_s": 15.6,
+    "text": "USES IONIC TECHNOLOGY TO KILL FRIZZ",
+    "role": "benefit"
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 23.2,
+    "text": "MAIN CHARACTER HAIR UNLOCKED",
+    "role": "benefit"
+   },
+   {
+    "start_s": 23.2,
+    "end_s": 25.26,
+    "text": "I'M IN LOVEE !",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.0,
+    "shot_type": "medium shot",
+    "visual": "Creator touches and checks her unstyled hair against a plain bedroom wall.",
+    "action": "Creator inspects her hair looking unsatisfied.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 3.7,
+    "shot_type": "medium shot",
+    "visual": "Creator dividing her hair into sections using clips.",
+    "action": "Parting her bangs and clipping back side sections.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 6.4,
+    "shot_type": "medium shot",
+    "visual": "Creator displays a curled front bang while briefly holding the pink thermal brush in hand, then winking at the camera.",
+    "action": "Gestures underneath the bouncy curl with her palm and winks.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.4,
+    "end_s": 8.3,
+    "shot_type": "medium shot",
+    "visual": "Comparison showing one side straight and flat, and the other side styled with bounce.",
+    "action": "Points out and holds both sides to highlight the contrast.",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.3,
+    "end_s": 15.6,
+    "shot_type": "medium shot",
+    "visual": "Creator wraps a section of hair around the pink thermal barrel brush and slowly glides it downward, twisting at the end.",
+    "action": "Demonstrating how to curl and smooth hair using the hot thermal brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 20.3,
+    "shot_type": "medium shot",
+    "visual": "Creator releases and fluffs her fully styled, bouncy layered blowout hair with both hands.",
+    "action": "Runs fingers through her voluminous hair to style and show texture.",
+    "product_visible": false
+   },
+   {
+    "start_s": 20.3,
+    "end_s": 23.2,
+    "shot_type": "medium shot",
+    "visual": "Creator holding the pink thermal brush next to her styled voluminous hair.",
+    "action": "Poses with the tool showcasing the completed blowout.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.2,
+    "end_s": 25.26,
+    "shot_type": "medium shot",
+    "visual": "Creator happily dances and sways her head to show movement and shine.",
+    "action": "Smiles enthusiastically into the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing the camera holding and checking her hair with bold text 'When you're tired of your hair not doing what you want'.",
+   "visual_0_3s": "Creator sections her hair and parts front bangs looking directly into the camera.",
+   "spoken_0_3s": "",
+   "text_0_3s": "When you're tired of your hair not doing what you want",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Text hook tapping into hair styling frustration combined with fast jump cuts into sectioning."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Relatable problem callout regarding uncooperative hair",
+    "Step 1: Sectioning the hair",
+    "Quick bounce tease and half-and-half side comparison",
+    "Demo of thermal brush rolling and eliminating frizz",
+    "Full hair shakeout and big bouncy volume reveal",
+    "Celebratory reaction and pose with the styling tool"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "LOOK AT THAT BOUNCE!",
+    "USES IONIC TECHNOLOGY TO KILL FRIZZ",
+    "MAIN CHARACTER HAIR UNLOCKED"
+   ],
+   "pain_points": [
+    "Flat, lifeless, uncooperative hair",
+    "Frizz and lack of shape"
+   ],
+   "objections_handled": [
+    "Addresses frizz through ionic technology claim"
+   ],
+   "social_proof": [],
+   "comparison_to": "Direct side-by-side split showing styled bouncy curl side versus flat natural hair side"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush"
+   ],
+   "first_seen_s": 3.7,
+   "first_used_on_hair_s": 8.3,
+   "final_result_shown_s": 15.6,
+   "demo_clarity": "partial",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Straight, flat, light brown hair with blonde highlights and some frizz",
+   "hair_after": "Voluminous, bouncy layered 90s blowout with glossy curled ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, trendy, playful"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Catchy hip-hop/R&B track with rhythmic male vocal beats ('You been through a lot... let me show you how to move')",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 3.61,
+   "pacing": "fast",
+   "effects": [
+    "text overlays",
+    "cut transitions"
+   ],
+   "ending": "Creator smiling, tossing hair, and dancing happily with the finished blowout."
+  },
+  "notes": "Fast-paced TikTok/Reels style UGC ad relying entirely on visual transformation and on-screen text overlays set to a viral rap track, showcasing the Wavytalk Blowout Boost thermal heated round brush."
+ }
+}

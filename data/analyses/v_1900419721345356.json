@@ -1,0 +1,168 @@
+{
+ "media_key": "v_1900419721345356",
+ "analyzed_at": "2026-11-27T18:40:19+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "b36af945d6f84f5c84196eb7f66d0c051ab912b9df85b1d9df98425d7a52b172",
+ "source": {
+  "kind": "video",
+  "id": "1900419721345356",
+  "video_id": "1005361678749183",
+  "length_s": 12.468,
+  "permalink": "/23849366283980795/videos/1005361678749183/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 12.3,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A young woman styles her dark layered hair using the pink WavyTalk thermal blowout brush set to music, finishing with bouncy voluminous results.",
+  "full_description": "A silent UGC-style demo video set to background music. A young woman in a white blouse demonstrates styling sections of her dark layered hair with the pink WavyTalk Blowout Boost thermal round brush. She rolls different sections and bangs, then showcases the finished voluminous, shiny 90s blowout look while posing. A text overlay reading '20% OFF Summer batch selling out fast!!' remains on screen throughout.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 12.3,
+    "text": "20% OFF\nSummer batch selling out fast!!",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.2,
+    "shot_type": "medium close-up",
+    "visual": "Young woman curling a lower mid-length section of dark hair around the pink thermal round brush.",
+    "action": "She twists the brush through her hair to create a curl, releases it, showing defined bounce.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 5.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator working on the lower right section of her hair.",
+    "action": "She twists the heated round brush through the strand and pulls it downward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 6.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling the top crown/bangs section backwards.",
+    "action": "She rolls the thermal brush into the root area of the crown to create lift and volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.6,
+    "end_s": 8.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushing through the top front framing layers.",
+    "action": "She slides the brush down and rolls it away from the face to create layered curves.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.8,
+    "end_s": 12.3,
+    "shot_type": "medium shot",
+    "visual": "Final styled hair revealed; creator admiring her voluminous, bouncy blowout.",
+    "action": "She runs both hands through her bouncy waves, posing and turning her head towards the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "A young woman holding a pink thermal round brush engaged in curling a section of dark hair.",
+   "visual_0_3s": "Fast-paced styling action where the brush smoothly glides and rolls through dark hair to release a soft curl.",
+   "spoken_0_3s": "",
+   "text_0_3s": "20% OFF\nSummer batch selling out fast!!",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Instant action jumping straight into active hair curling with high-contrast text stating a discount and scarcity."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "In-media-res styling demonstration with thermal brush",
+    "Step-by-step curling of different hair sections (ends, crown, face-framing)",
+    "Final bouncy blowout result reveal and model posing"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Provides bouncy, voluminous salon-style curls at home"
+   ],
+   "pain_points": [
+    "Flat hair lacking volume and shape"
+   ],
+   "objections_handled": [
+    "Difficulty of doing a round-brush blowout on oneself"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 8.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "20% OFF",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Summer batch selling out fast!!",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Dark brown/black, long, parted in sections for styling",
+   "hair_after": "Voluminous, shiny, layered 90s bouncy blowout with soft flipped ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Upbeat pop/electronic track featuring female English vocals ('Had it just like that, had it right on track...')",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 2.5,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator proudly shaking out and touching her voluminous styled hair while smiling slightly."
+  },
+  "notes": "No spoken dialogue in this ad. The visual relies entirely on aesthetic demonstration, trending music rhythm, and a persistent discount/urgency text overlay."
+ }
+}

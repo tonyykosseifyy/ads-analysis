@@ -1,0 +1,184 @@
+{
+ "media_key": "v_1750858145926643",
+ "analyzed_at": "2026-11-27T20:29:30+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "888d8ed962d0e94703332b270dc4a10d7f078488f80e99d1a67c2d4704758350",
+ "source": {
+  "kind": "video",
+  "id": "1750858145926643",
+  "errors": [
+   "1750858145926643: Gave up after 5 retries: https://graph.facebook.com/v26.0/1750858145926643",
+   "1448876713670573: Gave up after 5 retries: https://graph.facebook.com/v26.0/1448876713670573"
+  ],
+  "ig_media_id": "18120924752498244",
+  "permalink": "https://www.instagram.com/p/Da0e1ndMA4A/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 19.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates styling her long dark hair using the pink WavyTalk thermal blowout brush set to trending music.",
+  "full_description": "A vertical UGC video where a young woman with long dark hair demonstrates styling her hair with the WavyTalk pink thermal brush (Blowout Boost). She rolls sections of hair around the barrel, styles her fringe backwards, and shows the bouncy blowout result while shaking out her hair. Throughout the entire video, a persistent on-screen text hook reads: 'as an influencer, i can't live without this anymore...'. There is no spoken dialogue, only rhythmic background music.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 19.8,
+    "text": "as an influencer, i can't live without this anymore...",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.7,
+    "shot_type": "medium close-up",
+    "visual": "A young woman in a white sleeveless buttoned top holding a section of her long dark hair with the pink thermal blowout brush at the bottom.",
+    "action": "She wraps a strand around the thermal round brush and starts curling it upward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.7,
+    "end_s": 6.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator working the brush through the lower strands on her right side.",
+    "action": "She glides the brush through the ends, curls it in, and releases a loose bouncy curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.3,
+    "end_s": 8.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator checking a newly curled section in front of the camera.",
+    "action": "She inspects the defined curl strand with her fingers, looking into the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 12.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushing through a section on the left side of her hair.",
+    "action": "She glides the heated brush slowly down the length of hair from mid-shaft to ends to smooth and curl it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 15.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the front crown / curtain bang section.",
+    "action": "She rolls the thermal brush backwards at the top of her head to create volume and flick.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 19.8,
+    "shot_type": "medium close-up",
+    "visual": "Finished hairstyle reveal showing thick, voluminous, styled dark waves.",
+    "action": "She runs both hands through her hair, fluffs the roots, and poses showing off the final bouncy blowout results.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink thermal brush against a parted section of long dark hair with text 'as an influencer, i can't live without this anymore...'",
+   "visual_0_3s": "Creator wrapping hair section around the pink thermal barrel brush.",
+   "spoken_0_3s": "",
+   "text_0_3s": "as an influencer, i can't live without this anymore...",
+   "hook_type": "social_proof",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Bold influencer confession overlay text paired with immediate hands-on hair demo."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Influencer testimonial hook statement",
+    "Quick demo curling different sections of hair",
+    "Styling front curtain bangs for volume",
+    "Final blowout reveal and hair shake"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "social_proof_popularity",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Must-have styling tool relied on by influencers for daily blowouts"
+   ],
+   "pain_points": [
+    "Flat hair lacking volume",
+    "Difficulty achieving salon blowout at home"
+   ],
+   "objections_handled": [
+    "Too complicated to use (demonstrated as simple roll-and-glide movement)"
+   ],
+   "social_proof": [
+    "Creator explicitly frames herself as an influencer who 'cannot live without this anymore'"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 15.6,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, dark brown / black hair partially pinned up",
+   "hair_after": "Voluminous, layered blowout with soft bounced ends and face-framing layers",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Confident, trendy, effortless"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat hip-hop/trap style instrumental beat with vocal chop samples and 808 bass",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 3.96,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts on beat"
+   ],
+   "ending": "Creator smiling and posing displaying the finished bouncy blowout"
+  },
+  "notes": "Ad relies entirely on visual demonstration and influencer curiosity hook with trending audio, without spoken audio or explicit commercial CTA."
+ }
+}

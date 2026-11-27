@@ -1,0 +1,18 @@
+{
+ "language": "en",
+ "main_angle": "frizz_or_curly_solution",
+ "secondary_angles": [
+  "less_heat_damage",
+  "replaces_multiple_tools",
+  "social_proof_popularity",
+  "offer_discount_urgency"
+ ],
+ "opening_line": "It sold out. We restocked. It sold out again. We restocked again. And it just happened a third time.",
+ "opening_style": "social_proof",
+ "mentions_offer": true,
+ "offer": "15% off / 25% off while stock lasts",
+ "social_proof": "SHE FINDS 2025 Beauty Award Nominee",
+ "cta": "Get yours now",
+ "tone": "excited, persuasive, urgent",
+ "variation_count": 7
+}

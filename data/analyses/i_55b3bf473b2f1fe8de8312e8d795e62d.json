@@ -1,0 +1,169 @@
+{
+ "media_key": "i_55b3bf473b2f1fe8de8312e8d795e62d",
+ "analyzed_at": "2026-11-27T18:43:22+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "bb72d0417dc2bc07b491df0333e13066a447361807092f2d21d09bb124f39dc4",
+ "source": {
+  "kind": "image",
+  "id": "55b3bf473b2f1fe8de8312e8d795e62d"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "Static promo ad featuring a curly-haired model using the pink Turblow Pro with diffuser, advertising a 25% off Spring Break Sale.",
+  "full_description": "A square studio promotional image for WavyTalk Turblow Pro. At the top, bold dark typography reads 'SPRING BREAK SALE' and 'TURBLOW PRO' with the subheading 'Faster Drying, Less Damage'. A light purple circular badge on the upper left announces '25% OFF'. In the center, a woman with defined, voluminous dark curls smiles towards the camera while holding the pale pink Turblow Pro hair dryer fitted with a diffuser bowl to the underside of her curls. Diagonal ribbons across the bottom read 'BEAUTY IN FULL BLOOM' and 'SPRING BREAK SALE'.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "SPRING BREAK SALE",
+    "role": "hook"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "TURBLOW PRO",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Faster Drying, Less Damage",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "25% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "wavytalk",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "BEAUTY IN FULL BLOOM • SPRING BREAK SALE • BEAUTY IN FULL BLOOM",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "medium close-up",
+    "visual": "A smiling model with bouncy dark curly hair poses against an off-white background, holding the pink WavyTalk Turblow Pro with diffuser attachment under her hair, surrounded by sale text and promotional ribbon banners.",
+    "action": "Static pose, smiling towards camera while holding diffuser in hair.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Static image showing the model holding the Turblow Pro diffuser with bold '25% OFF' badge and 'SPRING BREAK SALE' header.",
+   "visual_0_3s": "Static promotional graphic featuring model with curly hair holding the pink Turblow Pro with diffuser.",
+   "spoken_0_3s": "",
+   "text_0_3s": "SPRING BREAK SALE TURBLOW PRO Faster Drying, Less Damage 25% OFF",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "product_reveal",
+   "pattern_interrupt": "High-contrast lilac 25% OFF badge and bold top headline."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Headline announcing seasonal promotion (Spring Break Sale)",
+    "Hero product display (Turblow Pro with diffuser)",
+    "Key value proposition (Faster Drying, Less Damage)",
+    "Offer incentive (25% OFF sticker)"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Faster Drying, Less Damage",
+    "25% OFF"
+   ],
+   "pain_points": [
+    "Slow drying time for thick curly hair",
+    "Heat damage from standard hair dryers"
+   ],
+   "objections_handled": [
+    "Gentle drying with diffuser for defined curls without frizz or damage"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Turblow Pro"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": 0,
+   "final_result_shown_s": 0,
+   "demo_clarity": "result_only",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "25% OFF Spring Break Sale",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Spring Break Sale",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "model",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Defined, bouncy, voluminous shoulder-length dark curls",
+   "hair_after": "Defined, bouncy, voluminous shoulder-length dark curls",
+   "setting": "studio",
+   "faces_camera": true,
+   "energy_tone": "Warm, confident, and cheerful"
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "Graphic design overlays",
+    "Text typography",
+    "Sticker badge overlay",
+    "Ribbon banner graphic"
+   ],
+   "ending": "Single static frame"
+  },
+  "notes": "Static image ad creative used for paid social conversion campaigns targeting curly hair demographics during spring promotional period."
+ }
+}

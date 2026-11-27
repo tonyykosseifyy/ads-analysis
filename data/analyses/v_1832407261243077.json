@@ -1,0 +1,216 @@
+{
+ "media_key": "v_1832407261243077",
+ "analyzed_at": "2026-11-27T21:11:42+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "0a63809337f9ca7304d265ea340dd0f7053fcd3112e55a71c145dd48e2b83dc5",
+ "source": {
+  "kind": "video",
+  "id": "1832407261243077",
+  "errors": [
+   "1832407261243077: Gave up after 5 retries: https://graph.facebook.com/v26.0/1832407261243077",
+   "1427021932917327: Gave up after 5 retries: https://graph.facebook.com/v26.0/1427021932917327"
+  ],
+  "ig_media_id": "18119417713967591",
+  "permalink": "https://www.instagram.com/p/DfSB9BcsI32/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 34.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates how to achieve voluminous salon-style curls and bangs using the WavyTalk thermal blowout brush and heat protectant spray.",
+  "full_description": "A beauty creator demonstrates a step-by-step hair tutorial set to energetic Latin/reggaeton background music without spoken dialogue. She begins by rolling out her freshly styled curtain bangs with the pink WavyTalk thermal round brush, shows her WavyTalk Smooth Barrier heat protectant spray, sections her long black hair, displays the thermal brush close-up, and styles various sections with smooth twisting passes. She finishes by styling her bangs upward and showing off the final voluminous, bouncy blowout from multiple angles.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 34.8,
+    "text": "blowout in a brush",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "medium close-up",
+    "visual": "Female creator releasing the heated round brush from her front curtain bangs to reveal immediate volume.",
+    "action": "Creator unrolls the brush from her bangs, fluffs them with her hand, and glances at the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 3.2,
+    "shot_type": "close-up",
+    "visual": "Creator holds up WavyTalk Smooth Barrier Heat Protectant Spray bottle.",
+    "action": "She taps and presents the purple spray bottle to the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 5.0,
+    "shot_type": "medium shot",
+    "visual": "Creator gathering and sectioning her long dark hair on top of her head with a clip.",
+    "action": "She ties up the top layers of her hair to prepare the lower layer for styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 6.3,
+    "shot_type": "close-up",
+    "visual": "Close-up of the pink WavyTalk thermal blowout round brush barrel and bristles.",
+    "action": "Creator showcases the heated brush barrel, bristles, and temperature controls to the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.3,
+    "end_s": 10.0,
+    "shot_type": "medium shot",
+    "visual": "Creator curling the bottom section of her hair with the brush.",
+    "action": "She wraps a strand around the heated brush, holds it briefly, twists, and releases a bouncy curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.0,
+    "end_s": 13.5,
+    "shot_type": "medium shot",
+    "visual": "Creator smoothing and curling another side strand.",
+    "action": "She glides the heated brush through the hair from mid-lengths to ends, rotating it inward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 18.0,
+    "shot_type": "medium shot",
+    "visual": "Creator working on upper-mid sections of hair.",
+    "action": "She lifts hair at the root for volume, pulls through, and curls the ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 22.8,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the top side crown section.",
+    "action": "She rolls the brush through the upper front layer and releases a face-framing wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 28.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling her front curtain bangs.",
+    "action": "She lifts the bangs with the thermal brush, rolls backwards, holds, and releases.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 34.8,
+    "shot_type": "medium shot",
+    "visual": "Creator flaunting the completed voluminous blowout.",
+    "action": "She runs her hands through her hair, shakes her head, poses side-to-side, smiles, and blows a kiss to the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing the camera holding a pink thermal round brush rolled inside her curtain bangs.",
+   "visual_0_3s": "Creator unrolls the brush from her bangs, immediately showing a perfect bouncy swoop, followed by showing the heat protectant spray.",
+   "spoken_0_3s": "",
+   "text_0_3s": "blowout in a brush",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Starts mid-action unrolling the heated styling brush from her bangs for instant visual gratification."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Immediate mini-result preview (bangs unroll)",
+    "Product showcase (heat spray and thermal brush)",
+    "Sectioning hair",
+    "Step-by-step curling and volumizing lower and mid sections",
+    "Crown and bang styling",
+    "Final hair flip and result showcase"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Creates a salon-quality blowout with just a thermal brush"
+   ],
+   "pain_points": [
+    "Difficulty managing a traditional hair dryer and round brush simultaneously"
+   ],
+   "objections_handled": [
+    "Heat damage (demonstrates applying Smooth Barrier heat protectant spray prior to styling)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional salon blowout with round brush and blow dryer"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost",
+    "WavyTalk Smooth Barrier Heat Protectant Spray"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 28.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Long, thick, straight-wavy black hair",
+   "hair_after": "Voluminous, shiny, bouncy layered 90s-style blowout with curled ends and curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, glam, aesthetic, upbeat"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat Spanish/Latin reggaeton track with rhythmic beat and male vocals.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 11,
+   "avg_shot_length_s": 3.16,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts",
+    "speed ramping"
+   ],
+   "ending": "Creator tosses her voluminous hair back and forth, smiles warmly, and blows a kiss into the lens."
+  },
+  "notes": "Silent aesthetic UGC demonstration video popular on TikTok and Instagram Reels targeting women wanting easy home blowouts. The simple text hook 'blowout in a brush' persists throughout the entire duration."
+ }
+}

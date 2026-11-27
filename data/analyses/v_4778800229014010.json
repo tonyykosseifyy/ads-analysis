@@ -1,0 +1,190 @@
+{
+ "media_key": "v_4778800229014010",
+ "analyzed_at": "2026-11-27T20:46:28+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "4ed5f66e4d5961e4b124e9951de197aacc305ab003ba404351d0cd09f82240c1",
+ "source": {
+  "kind": "video",
+  "id": "4778800229014010",
+  "errors": [
+   "4778800229014010: Gave up after 5 retries: https://graph.facebook.com/v26.0/4778800229014010"
+  ],
+  "video_id": "1551851333395285",
+  "length_s": 23.01,
+  "permalink": "/23849366283980795/videos/1551851333395285/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 22.6,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates how she styles her layered brunette hair using a pink thermal blowout brush to achieve bouncy, salon-quality layers, accompanied by a 25% off hook.",
+  "full_description": "The video starts with a young woman showing off bouncy, glossy salon-style layers with on-screen text claiming this is the only tool that achieves that salon finish, highlighting 25% off. It cuts to a demonstration where she uses a pink thermal round brush to style her hair section by section, curling the ends and rolling out her curtain bangs. It finishes with her shaking out the voluminous, beautifully styled hair to music.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "text": "The only tool that makes my layers look like I just left the salon\n25%OFF",
+    "role": "hook"
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 22.6,
+    "text": "25%OFF",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "shot_type": "selfie medium shot",
+    "visual": "Young woman in a black tank top in a bedroom touching and tossing her bouncy styled blowout layers.",
+    "action": "Fluffs hair with hands toward camera, posing and showing volume.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 7.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding a pink thermal round blowout brush against unstyled section of hair.",
+    "action": "Glides the heated round brush slowly through hair strands from mid-length down to ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 11.5,
+    "shot_type": "medium shot",
+    "visual": "Creator smiling as she curls a layer upward with the thermal brush.",
+    "action": "Twists and releases the thermal brush, revealing a defined inward flick/curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 14.8,
+    "shot_type": "medium shot",
+    "visual": "Creator working on her front bangs section.",
+    "action": "Rolls the thermal brush backward and upward through her bangs and pulls it out overhead.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 18.0,
+    "shot_type": "medium shot",
+    "visual": "Creator touching up side layers near the crown with the brush.",
+    "action": "Brushes backward through side hair to blend bangs into the rest of the blowout.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 22.6,
+    "shot_type": "medium shot",
+    "visual": "Final blowout look, creator fluffing and shaking out her layered hair with '25%OFF' text overlay.",
+    "action": "Runs fingers through hair, shakes head, and poses showing off bounce and shine.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator tossing her bouncy salon-styled brunette layers facing the camera with text overlay.",
+   "visual_0_3s": "Creator fluffs and shows off her voluminous styled layers to the camera.",
+   "spoken_0_3s": "",
+   "text_0_3s": "The only tool that makes my layers look like I just left the salon\n25%OFF",
+   "hook_type": "result_first",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Immediately displays the voluminous finished salon blowout result in the first second."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Result hook showing polished salon hair with bold text hook",
+    "Demonstrating brush pass on straight section",
+    "Demonstrating curl creation and flicked ends",
+    "Demonstrating curtain bangs blowout technique",
+    "Final result showcase with discount text"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "The only tool that makes layers look like leaving the salon",
+    "25% off promotion"
+   ],
+   "pain_points": [
+    "Difficulty styling layered haircuts at home to get salon-level bounce and shape"
+   ],
+   "objections_handled": [
+    "Ease of styling curtain bangs and feathered layers"
+   ],
+   "social_proof": [],
+   "comparison_to": "professional salon blowout"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Thermal Blowout Brush"
+   ],
+   "first_seen_s": 3.8,
+   "first_used_on_hair_s": 4.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "25% OFF",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-25",
+   "hair_before": "Brunette, long, layered, straight to slightly wavy",
+   "hair_after": "Voluminous, bouncy 90s-style blowout with flipped layers and curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Aesthetic, confident, effortlessly glamorous"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Trending R&B/hip-hop vocal track ('Ain't that wrong with it... I don't want to give you the wrong impression')",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 3.77,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts",
+    "text overlay"
+   ],
+   "ending": "Creator turns her head side to side, showing off voluminous bounce and smiling at camera."
+  },
+  "notes": "Silent aesthetic UGC ad format designed for TikTok/Instagram Reels relying on a trending sound, visually compelling bouncy hair, and high discount offer overlay."
+ }
+}

@@ -1,0 +1,540 @@
+{
+ "media_key": "v_1513808233622929",
+ "analyzed_at": "2026-11-27T20:37:59+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "65081a1ec1c9d2dc3557b32a334098e8ead20e7aed7cbad347d4be3ddb091223",
+ "source": {
+  "kind": "video",
+  "id": "1513808233622929",
+  "video_id": "1815359019420209",
+  "length_s": 111.13,
+  "permalink": "/23849366283980795/videos/1815359019420209/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 111.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator takes her WavyTalk 2-in-1 tool to her male hairstylist at the salon, who tests it on her hair, praises its speed and salon-quality bouncy curl hold, and rates it 10/10.",
+  "full_description": "A Lebanese content creator brings her pink WavyTalk Whirlwind Curl multi-styler to her hair salon to get an honest professional review from her hairstylist. The stylist tests the tool on her hair, marveling at how fast it creates smooth curls and straightens. Throughout the session, the stylist praises the tool's ease of use, compares it favorably to a traditional blow-dryer (brushing), and remarks on how bouncy and defined the curls are. The creator even curls a section herself to demonstrate how easy it is. In the final result, the stylist brushes through the tight voluminous curls, noting that they don't fall out even after intense brushing. Both give high praise to the product's salon-grade results.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 88,
+    "en": 7,
+    "fr": 5
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "مش عم ينزل، قطعتها قوية لَفّات",
+    "text_english": "It's not falling out, its curls are strongly set!"
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 6.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "اليوم جبت tool من عند Wavytalk، وقررت كمان هيدي جربوها وعطينا review إذا منيحة أو مانها منيحة، لنشوف reaction تبعه",
+    "text_english": "Today I brought a tool from WavyTalk, and decided to have them try it and give us a review if it's good or not, to see his reaction!"
+   },
+   {
+    "start_s": 6.3,
+    "end_s": 10.3,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "أهم شي",
+    "text_english": "Most importantly."
+   },
+   {
+    "start_s": 10.4,
+    "end_s": 12.8,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "عنجد؟ عنجد؟",
+    "text_english": "Really? For real?"
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 13.0,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "طبعاً... بس",
+    "text_english": "Of course... just that."
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 15.8,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "اليوم عم بحكي بس اقفل الكاميرا، شو قلت هلّق؟",
+    "text_english": "Today I talk only when the camera closes [laughs], what did you just say?"
+   },
+   {
+    "start_s": 15.8,
+    "end_s": 17.5,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "عشرة على عشرة كإنه",
+    "text_english": "Like a ten out of ten."
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 23.5,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "مبرومة، وسحبتها...",
+    "text_english": "Twisted, and gliding it down..."
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 32.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بس tool واحد بيعمل lisse و curly بنفس الوقت، هلا حنعمل lisse... هلا curly",
+    "text_english": "Just one tool does straightening and curling at the same time, now we'll do straight... now curly."
+   },
+   {
+    "start_s": 33.0,
+    "end_s": 34.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "شفت إنو؟",
+    "text_english": "Did you see that?"
+   },
+   {
+    "start_s": 34.0,
+    "end_s": 37.0,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "ما توقعتها هالقد سريعة، خصوصي بكرة عندنا بالصالون، خلص نبيعهن",
+    "text_english": "I didn't expect it to be this fast, especially tomorrow in our salon, that's it we should sell them."
+   },
+   {
+    "start_s": 37.0,
+    "end_s": 39.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "ليكوا عنجد بخمس ثواني!",
+    "text_english": "Look, honestly in five seconds!"
+   },
+   {
+    "start_s": 44.0,
+    "end_s": 46.5,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "بتريح راسك إنتي، كبر ع إيدك شيء أسهل من شيء",
+    "text_english": "You give your mind a break, in your hand it's easier than anything."
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 49.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "شفت؟ لا بس والله عم بستغرب، عنجد مش معقول!",
+    "text_english": "See? No, honestly I'm amazed, truly unbelievable!"
+   },
+   {
+    "start_s": 49.5,
+    "end_s": 50.8,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "شايفة؟",
+    "text_english": "You see?"
+   },
+   {
+    "start_s": 53.0,
+    "end_s": 55.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "شو أسهل هيدي ولا السيشوار؟",
+    "text_english": "Which is easier, this or the blow-dryer?"
+   },
+   {
+    "start_s": 55.5,
+    "end_s": 56.5,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "هاي",
+    "text_english": "This."
+   },
+   {
+    "start_s": 56.5,
+    "end_s": 58.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "هاي؟ إذا بتعطي نفس الطعجة؟",
+    "text_english": "This? Does it give the same wave/curl?"
+   },
+   {
+    "start_s": 57.5,
+    "end_s": 58.5,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "أجمل!",
+    "text_english": "Even nicer!"
+   },
+   {
+    "start_s": 58.5,
+    "end_s": 61.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "عنجد؟ عنجد عم تحكي ولا بس تنحكي؟",
+    "text_english": "Really? Are you being serious or just talking?"
+   },
+   {
+    "start_s": 61.0,
+    "end_s": 62.5,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "لا والله أجمل",
+    "text_english": "No honestly, it's prettier."
+   },
+   {
+    "start_s": 62.5,
+    "end_s": 65.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "طيب إذا صوّرتك ونزلت فيديو؟ ما خليتك تحكي شو بدك تقول!",
+    "text_english": "Alright, what if I film you and post the video? I didn't prompt you on what to say!"
+   },
+   {
+    "start_s": 65.5,
+    "end_s": 68.0,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "عن جد النقلة نوعية!",
+    "text_english": "Honestly, it's a game changer!"
+   },
+   {
+    "start_s": 68.0,
+    "end_s": 69.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "على شو؟",
+    "text_english": "Regarding what?"
+   },
+   {
+    "start_s": 69.5,
+    "end_s": 71.0,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "الفرق بين الاثنين",
+    "text_english": "The difference between both."
+   },
+   {
+    "start_s": 71.0,
+    "end_s": 75.0,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "يعني حلو أن الواحد يشتري على بيته ويجربها، كثير حلوة ونقلة نوعية",
+    "text_english": "It's so good for someone to buy it for home and try it, it's very nice and a quantum leap."
+   },
+   {
+    "start_s": 75.0,
+    "end_s": 77.5,
+    "speaker": "hairdresser_expert",
+    "language": "mixed",
+    "text_original": "يعني lisse بتعمل lisse وwave بتعمل wave هيك",
+    "text_english": "Meaning straight it makes it smooth, and waves it gives waves like this."
+   },
+   {
+    "start_s": 77.5,
+    "end_s": 79.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "بدك أعمل أنا وحدة؟",
+    "text_english": "Do you want me to do one strand myself?"
+   },
+   {
+    "start_s": 79.0,
+    "end_s": 80.5,
+    "speaker": "hairdresser_expert",
+    "language": "mixed",
+    "text_original": "لتفرجي ع الموديل؟",
+    "text_english": "To show the model?"
+   },
+   {
+    "start_s": 80.5,
+    "end_s": 85.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "خليني، ما عليه! لفرجي أنا كمان... ببرمها مرّة وبنزل",
+    "text_english": "Let me, no problem! Let me show too... I twist it once and glide down."
+   },
+   {
+    "start_s": 85.0,
+    "end_s": 86.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "شفنا الفروقات!",
+    "text_english": "Look at the differences!"
+   },
+   {
+    "start_s": 86.5,
+    "end_s": 90.0,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "والله هيدا شي بجنن، هيدا شي جديد ما جربته عنجد شي غريب!",
+    "text_english": "Honestly this is gorgeous, this is new, I hadn't tried it before, truly amazing!"
+   },
+   {
+    "start_s": 90.0,
+    "end_s": 93.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "غريب؟ ها!",
+    "text_english": "Amazing? Ha!"
+   },
+   {
+    "start_s": 93.0,
+    "end_s": 96.0,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "اه، ضربة قوية هاي، خلصنا",
+    "text_english": "Yeah, this is a strong hit, we're done."
+   },
+   {
+    "start_s": 96.0,
+    "end_s": 98.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "عنجد؟",
+    "text_english": "Really?"
+   },
+   {
+    "start_s": 98.0,
+    "end_s": 100.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "ليك الفوليوم يعقد!",
+    "text_english": "Look at the insane volume!"
+   },
+   {
+    "start_s": 100.5,
+    "end_s": 103.5,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "يس! مش عم ينزل، قطعتها قوية لفّات",
+    "text_english": "Yes! It's not falling, its curls are super set!"
+   },
+   {
+    "start_s": 103.5,
+    "end_s": 105.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "يعني بضلوا لكل السهرة!",
+    "text_english": "Meaning they'll stay for the whole night out!"
+   },
+   {
+    "start_s": 105.5,
+    "end_s": 109.0,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "ولبكرا وبعد بكرا ولتحممي يومين!",
+    "text_english": "And for tomorrow, and the day after tomorrow, until you wash your hair in two days!"
+   },
+   {
+    "start_s": 109.0,
+    "end_s": 111.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "شو ما تعمل ما بينزلوا! عنجد guys قد ما نعمل ما بينزلوا، شو ما تعملوا ما بينزلوا!",
+    "text_english": "Whatever you do, they don't fall! Seriously guys, no matter what we do they won't fall, whatever you do they won't fall!"
+   }
+  ],
+  "transcript_full_original": "مش عم ينزل، قطعتها قوية لَفّات. اليوم جبت tool من عند Wavytalk، وقررت كمان هيدي جربوها وعطينا review إذا منيحة أو مانها منيحة، لنشوف reaction تبعه. أهم شي. عنجد؟ عنجد؟ طبعاً... بس. اليوم عم بحكي بس اقفل الكاميرا، شو قلت هلّق؟ عشرة على عشرة كإنه. مبرومة، وسحبتها... بس tool واحد بيعمل lisse و curly بنفس الوقت، هلا حنعمل lisse... هلا curly. شفت إنو؟ ما توقعتها هالقد سريعة، خصوصي بكرة عندنا بالصالون، خلص نبيعهن. ليكوا عنجد بخمس ثواني! بتريح راسك إنتي، كبر ع إيدك شيء أسهل من شيء. شفت؟ لا بس والله عم بستغرب، عنجد مش معقول! شايفة؟ شو أسهل هيدي ولا السيشوار؟ هاي. هاي؟ إذا بتعطي نفس الطعجة؟ أجمل! عنجد؟ عنجد عم تحكي ولا بس تنحكي؟ لا والله أجمل. طيب إذا صوّرتك ونزلت فيديو؟ ما خليتك تحكي شو بدك تقول! عن جد النقلة نوعية! على شو؟ الفرق بين الاثنين. يعني حلو أن الواحد يشتري على بيته ويجربها، كثير حلوة ونقلة نوعية. يعني lisse بتعمل lisse وwave بتعمل wave هيك. بدك أعمل أنا وحدة؟ لتفرجي ع الموديل؟ خليني، ما عليه! لفرجي أنا كمان... ببرمها مرّة وبنزل. شفنا الفروقات! والله هيدا شي بجنن، هيدا شي جديد ما جربته عنجد شي غريب! غريب؟ ها! اه، ضربة قوية هاي، خلصنا. عنجد؟ ليك الفوليوم يعقد! يس! مش عم ينزل، قطعتها قوية لفّات. يعني بضلوا لكل السهرة! ولبكرا وبعد بكرا ولتحممي يومين! شو ما تعمل ما بينزلوا! عنجد guys قد ما نعمل ما بينزلوا، شو ما تعملوا ما بينزلوا!",
+  "transcript_full_english": "It's not falling out, its curls are strongly set! Today I brought a tool from WavyTalk, and decided to have them try it and give us a review if it's good or not, to see his reaction! Most importantly. Really? For real? Of course... just that. Today I talk only when the camera closes [laughs], what did you just say? Like a ten out of ten. Twisted, and gliding it down... Just one tool does straightening and curling at the same time, now we'll do straight... now curly. Did you see that? I didn't expect it to be this fast, especially tomorrow in our salon, that's it we should sell them. Look, honestly in five seconds! You give your mind a break, in your hand it's easier than anything. See? No, honestly I'm amazed, truly unbelievable! You see? Which is easier, this or the blow-dryer? This. This? Does it give the same wave/curl? Even nicer! Really? Are you being serious or just talking? No honestly, it's prettier. Alright, what if I film you and post the video? I didn't prompt you on what to say! Honestly, it's a game changer! Regarding what? The difference between both. It's so good for someone to buy it for home and try it, it's very nice and a quantum leap. Meaning straight it makes it smooth, and waves it gives waves like this. Do you want me to do one strand myself? To show the model? Let me, no problem! Let me show too... I twist it once and glide down. Look at the differences! Honestly this is gorgeous, this is new, I hadn't tried it before, truly amazing! Amazing? Ha! Yeah, this is a strong hit, we're done. Really? Look at the insane volume! Yes! It's not falling, its curls are super set! Meaning they'll stay for the whole night out! And for tomorrow, and the day after tomorrow, until you wash your hair in two days! Whatever you do, they don't fall! Seriously guys, no matter what we do they won't fall, whatever you do they won't fall!",
+  "word_count": 257,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "shot_type": "medium_shot",
+    "visual": "Female creator sitting in salon chair while her male hairstylist combs through her styled curls with a wide-tooth brush, smiling.",
+    "action": "Hairdresser brushing through curls showing bounce and volume as a teaser/hook.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 6.2,
+    "shot_type": "close_up",
+    "visual": "Creator holding up the light pink WavyTalk Whirlwind Curl tool directly in front of the camera.",
+    "action": "Creator shows the tool and introduces the concept: having her salon stylist review it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.2,
+    "end_s": 17.5,
+    "shot_type": "medium_shot",
+    "visual": "Hair stylist clamping a strand of creator's dark hair in the tool, twisting, and pulling down to reveal an instant bouncy spiral curl.",
+    "action": "Hairstylist tests the tool for the first time, gives thumbs up, and rates it 10/10.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 39.5,
+    "shot_type": "medium_close_up",
+    "visual": "Hairdresser working on side sections, curling in 5 seconds and straightening roots.",
+    "action": "Stylist demonstrates how fast it curls (5 seconds) and praises the convenience.",
+    "product_visible": true
+   },
+   {
+    "start_s": 39.5,
+    "end_s": 52.0,
+    "shot_type": "medium_shot",
+    "visual": "Hairdresser sectioning top hair with clip, curling top strands while creator observes and reacts.",
+    "action": "Stylist curls top crown sections smoothly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 52.0,
+    "end_s": 77.5,
+    "shot_type": "medium_shot",
+    "visual": "Stylist continuing to style creator's front layers as creator asks him whether this is better than blow-drying.",
+    "action": "Stylist gives honest feedback that the tool produces nicer waves than blow-drying and is ideal for home use.",
+    "product_visible": true
+   },
+   {
+    "start_s": 77.5,
+    "end_s": 86.5,
+    "shot_type": "medium_close_up",
+    "visual": "Creator takes the WavyTalk tool in her own hands, clamps a front strand, twists once, and pulls down.",
+    "action": "Creator demos how easy it is to DIY curls without professional help.",
+    "product_visible": true
+   },
+   {
+    "start_s": 86.5,
+    "end_s": 98.0,
+    "shot_type": "medium_shot",
+    "visual": "Hairstylist finishes styling and inspects the curls, admiring the defined texture.",
+    "action": "Stylist reacts enthusiastically to the resulting curls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 98.0,
+    "end_s": 109.0,
+    "shot_type": "medium_shot",
+    "visual": "Hairstylist vigorously combs through the entire head of voluminous curls with a wide-tooth comb; curls bounce back immediately.",
+    "action": "Combing out the curls to show volume, bounce, and long-lasting curl memory.",
+    "product_visible": false
+   },
+   {
+    "start_s": 109.0,
+    "end_s": 111.0,
+    "shot_type": "medium_close_up",
+    "visual": "Creator smiling into camera, touching her full, bouncy curls.",
+    "action": "Creator emphasizes that no matter what you do, the curls won't drop.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator in salon chair with perfect bouncy curls as her hairdresser combs through them with a wide styling brush.",
+   "visual_0_3s": "Hairstylist vigorously brushing curls and marveling at the curl retention, cut to creator holding up the pink WavyTalk styler.",
+   "spoken_0_3s": "مش عم ينزل، قطعتها قوية لَفّات (It's not falling out, its curls are strongly set!)",
+   "text_0_3s": "",
+   "hook_type": "expert_or_hairdresser",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Starts mid-action in a salon setting with a professional stylist brushing gorgeous curls that refuse to fall flat."
+  },
+  "structure": {
+   "format": "hairdresser_or_expert",
+   "narrative_beats": [
+    "Teaser hook showing hairdresser combing curls that don't fall flat",
+    "Creator introduces challenge: having her salon hairdresser test and review the WavyTalk tool",
+    "Hairdresser tests curl capability, gives immediate 10/10 score",
+    "Hairdresser notes speed (curling strand in 5 seconds) and ease vs blow-dryer",
+    "Creator tests the tool on herself to prove anyone can do it at home",
+    "Big reveal & durability test: stylist combs through curls, demonstrating long-lasting hold for days"
+   ],
+   "main_angle": "expert_endorsement",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "saves_time",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Professional hairdresser rated 10/10",
+    "Curls in 5 seconds per section",
+    "2-in-1 tool that straightens and curls in one pass",
+    "Curls hold for days even through brushing and sleeping",
+    "Gives nicer waves and curls than traditional blow-dryer"
+   ],
+   "pain_points": [
+    "Curls dropping quickly after styling",
+    "Blow-drying hair for waves takes too much effort and arm fatigue",
+    "Inability to achieve salon-quality bounce at home"
+   ],
+   "objections_handled": [
+    "Is it hard for non-professionals to use? Creator demos it on herself easily",
+    "Do the curls hold? Stylist combs through them repeatedly and they spring right back",
+    "Is it an honest review? Stylist states it is a genuine game-changer and was not prompted"
+   ],
+   "social_proof": [
+    "Professional salon hairstylist endorsement and 10/10 rating",
+    "Hairstylist stating he wants to replace salon tools with this"
+   ],
+   "comparison_to": "Traditional salon blow-dryer (brushing / séchoir)"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Whirlwind Curl"
+   ],
+   "first_seen_s": 2.2,
+   "first_used_on_hair_s": 6.2,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1.0
+  },
+  "talent": {
+   "people_count": 2,
+   "talent_type": "hairdresser_expert",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Dark brown / black long natural hair, partly straight/wavy",
+   "hair_after": "Voluminous, shiny, bouncy spiral curls with salon finish",
+   "setting": "salon",
+   "faces_camera": true,
+   "energy_tone": "lively, authentic, amazed, conversational"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "Faint ambient background acoustic music / salon background sound",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 7.9,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator playing with bouncy curls in front of camera, repeating how resilient they are."
+  },
+  "notes": "Filmed in a Lebanese hair salon ('Nails by Pipo' visible in background). High organic credibility due to the hairdresser's spontaneous praise and creator's DIY test mid-video."
+ }
+}

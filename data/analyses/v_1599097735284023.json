@@ -1,0 +1,397 @@
+{
+ "media_key": "v_1599097735284023",
+ "analyzed_at": "2026-11-27T22:31:52+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "382c4c6c9a25bbeef18c22957c64f77c84d5b7256342e4035a5f2263fc61f795",
+ "source": {
+  "kind": "video",
+  "id": "1599097735284023",
+  "errors": [
+   "1599097735284023: Gave up after 5 retries: https://graph.facebook.com/v26.0/1599097735284023"
+  ],
+  "video_id": "903318245984189",
+  "length_s": 24.866,
+  "permalink": "/23849366283980795/videos/903318245984189/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 24.58,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator pitches the WavyTalk Steamline Pro hair straightening brush by highlighting its use by celebrity stylist Andrew Fitzsimons.",
+  "full_description": "A young female creator introduces celebrity hairdresser Andrew Fitzsimons (stylist to the Kardashians, J.Lo, and Megan Fox) holding the WavyTalk Steamline Pro. B-roll of sleek, shiny hair illustrates the results. The creator demonstrates using the steam brush in a sleek bathroom, claiming it hydrates and detangles hair while straightening it in under 10 minutes. The video finishes with her by a sunny window and then holding the boxed product with a CTA to purchase on wavytalk-lb.com.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 55,
+    "en": 45,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "arabizi",
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "This is Andrew Fitzsimons, الـ hairdresser تبع The Kardashians,",
+    "text_english": "This is Andrew Fitzsimons, the hairdresser for the Kardashians,"
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 4.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Jennifer Lopez, و Megan Fox.",
+    "text_english": "Jennifer Lopez, and Megan Fox."
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 7.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وبإيده الـ WavyTalk Steamline Pro,",
+    "text_english": "And in his hand is the WavyTalk Steamline Pro,"
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 11.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "لأن it gives a shine و straight hair لكل celebrity بدها الـ basic look.",
+    "text_english": "because it gives shine and straight hair to every celebrity who wants that basic look."
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 14.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "It detangles the hair وبتعمله a hydration treatment,",
+    "text_english": "It detangles the hair and gives it a hydration treatment,"
+   },
+   {
+    "start_s": 14.1,
+    "end_s": 17.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "so it's the perfect straight, كله بـ less than 10 minutes.",
+    "text_english": "so it's the perfect straight, all in less than 10 minutes."
+   },
+   {
+    "start_s": 17.1,
+    "end_s": 20.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "So بتلحقوا تعملوهن الصبح كرمال يكون عندكن straight hair all day.",
+    "text_english": "So you have enough time to do it in the morning to have straight hair all day."
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 24.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "إذا بدكن straight hair مثل The Kardashians, order the Steamline Pro now.",
+    "text_english": "If you want straight hair like the Kardashians, order the Steamline Pro now."
+   }
+  ],
+  "transcript_full_original": "This is Andrew Fitzsimons, الـ hairdresser تبع The Kardashians, Jennifer Lopez, و Megan Fox. وبإيده الـ WavyTalk Steamline Pro, لأن it gives a shine و straight hair لكل celebrity بدها الـ basic look. It detangles the hair وبتعمله a hydration treatment, so it's the perfect straight, كله بـ less than 10 minutes. So بتلحقوا تعملوهن الصبح كرمال يكون عندكن straight hair all day. إذا بدكن straight hair مثل The Kardashians, order the Steamline Pro now.",
+  "transcript_full_english": "This is Andrew Fitzsimons, the hairdresser for the Kardashians, Jennifer Lopez, and Megan Fox. And in his hand is the WavyTalk Steamline Pro, because it gives shine and straight hair to every celebrity who wants that basic look. It detangles the hair and gives it a hydration treatment, so it's the perfect straight, all in less than 10 minutes. So you have enough time to do it in the morning to have straight hair all day. If you want straight hair like the Kardashians, order the Steamline Pro now.",
+  "word_count": 69,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.9,
+    "text": "this is Andrew Fitzsimons",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.9,
+    "end_s": 2.8,
+    "text": "hairdresser",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 3.8,
+    "text": "Jennifer Lopez",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 4.9,
+    "text": "Megan Fox",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 7.3,
+    "text": "w b ido l wavytalk steamline Pro",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 8.8,
+    "text": "a shine w straight",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.8,
+    "end_s": 10.0,
+    "text": "la kel celebrity",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.0,
+    "end_s": 11.2,
+    "text": "badda l basic look",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 12.8,
+    "text": "It detangles the hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 14.1,
+    "text": "hydration treatment",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.1,
+    "end_s": 15.0,
+    "text": "so it's the perfect",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 15.9,
+    "text": "straight",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.9,
+    "end_s": 17.1,
+    "text": "Kello b less than 10 mins",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.1,
+    "end_s": 18.9,
+    "text": "taamluwon l sobh",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.9,
+    "end_s": 20.8,
+    "text": "eendkon straight hair all day",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 22.0,
+    "text": "eza badkon straight hair mtl the kardashians",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 24.58,
+    "text": "order the steamline pro now wavytalk-lb.com",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "shot_type": "medium shot",
+    "visual": "Creator in a white sweater sitting indoors, pointing down at an overlaid photo cut-out of celebrity stylist Andrew Fitzsimons.",
+    "action": "Creator talks directly to camera pointing down at Fitzsimons' image overlay.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 3.8,
+    "shot_type": "insert photo",
+    "visual": "Glamour portrait of Jennifer Lopez.",
+    "action": "Quick cut to celebrity picture.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 4.9,
+    "shot_type": "insert photo",
+    "visual": "Glamour portrait of Megan Fox.",
+    "action": "Quick cut to celebrity picture.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 7.3,
+    "shot_type": "medium shot",
+    "visual": "Creator holds the pink WavyTalk Steamline Pro while Andrew Fitzsimons is composited at bottom holding the tool.",
+    "action": "Creator holds and presents the tool to the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 11.2,
+    "shot_type": "b-roll close-up",
+    "visual": "Stock / studio footage of silky, glossy brunette straight hair tossing and flowing smoothly.",
+    "action": "Demonstrating shiny salon finish on hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 12.8,
+    "shot_type": "close-up",
+    "visual": "Close-up of hands holding the pink Steamline Pro brush bristles and steam reservoir.",
+    "action": "Creator displays the brush head mechanism on a bathroom counter.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 14.1,
+    "shot_type": "medium shot",
+    "visual": "Creator in a chic black blazer brushing her hair with the Steamline Pro in a modern tiled bathroom.",
+    "action": "Glides the brush through her hair smoothly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.1,
+    "end_s": 15.9,
+    "shot_type": "medium shot",
+    "visual": "Creator in a white sweater talking to camera holding the tool.",
+    "action": "Creator talks enthusiastically about the fast results.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.9,
+    "end_s": 17.1,
+    "shot_type": "medium shot",
+    "visual": "Creator in black blazer holding the tool horizontally with an animated 10-minute timer graphic above her head.",
+    "action": "Creator smiles presenting the tool under the 10 min clock graphic.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.1,
+    "end_s": 20.8,
+    "shot_type": "medium shot",
+    "visual": "Creator in black blazer standing in front of large windows overlooking Beirut city skyline.",
+    "action": "Creator runs the brush through her long dark hair looking out the window.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 24.58,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting in white knit sweater holding the official product packaging box of WavyTalk Steamline Pro.",
+    "action": "Delivers call to action while showcasing retail packaging.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator pointing at photo cutout of celebrity hair stylist Andrew Fitzsimons.",
+   "visual_0_3s": "Fast-paced introduction pointing to Andrew Fitzsimons with celebrity photos popping up.",
+   "spoken_0_3s": "This is Andrew Fitzsimons, hairdresser تبع The Kardashians",
+   "text_0_3s": "this is Andrew Fitzsimons",
+   "hook_type": "expert_or_hairdresser",
+   "hook_type_secondary": "social_proof",
+   "pattern_interrupt": "Using celebrity name-drops (Kardashians, J.Lo, Megan Fox) combined with picture cutouts."
+  },
+  "structure": {
+   "format": "hairdresser_or_expert",
+   "narrative_beats": [
+    "Celebrity association hook (stylist to Kardashians, J.Lo, Megan Fox)",
+    "Product introduction in celebrity context",
+    "Product benefits (detangles, hydration steam treatment, shiny sleek straight hair)",
+    "Speed & convenience benefit (under 10 minutes for morning routine)",
+    "Call to action with website link and box display"
+   ],
+   "main_angle": "expert_endorsement",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "saves_time"
+   ],
+   "key_claims": [
+    "Used by celebrity stylist Andrew Fitzsimons",
+    "Provides detangling and hydration treatment through steam",
+    "Straightens hair in less than 10 minutes",
+    "Keeps hair straight all day"
+   ],
+   "pain_points": [
+    "Time-consuming morning hair routines",
+    "Frizzy or dull straightened hair lacking shine and hydration"
+   ],
+   "objections_handled": [
+    "Takes too long before work / in the morning (takes less than 10 mins)",
+    "Does it cause dry heat damage (provides hydration steam treatment)"
+   ],
+   "social_proof": [
+    "Endorsement by celebrity stylist Andrew Fitzsimons (stylist to Kim Kardashian, Jennifer Lopez, Megan Fox)"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Steamline Pro Steam Straightener Brush"
+   ],
+   "first_seen_s": 4.9,
+   "first_used_on_hair_s": 12.8,
+   "final_result_shown_s": 7.3,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "now",
+   "cta_spoken": "order the Steamline Pro now",
+   "cta_on_screen": "order the steamline pro now wavytalk-lb.com",
+   "cta_at_s": 22.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-28",
+   "hair_before": "Long, dark brown straight hair",
+   "hair_after": "Long, sleek, glossy straight dark hair",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "confident, dynamic, engaging"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Upbeat, energetic commercial pop beat in the background.",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 2.73,
+   "pacing": "fast",
+   "effects": [
+    "photo overlays",
+    "cutout picture-in-picture",
+    "animated clock graphic",
+    "jump cuts",
+    "burned-in captions"
+   ],
+   "ending": "Creator presents the boxed product with URL on screen urging viewers to order now."
+  },
+  "notes": "Ad context references Blowout Boost, but the asset explicitly advertises and shows the WavyTalk Steamline Pro steam straightening brush."
+ }
+}

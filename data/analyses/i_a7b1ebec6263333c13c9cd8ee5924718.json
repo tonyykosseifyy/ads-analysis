@@ -1,0 +1,175 @@
+{
+ "media_key": "i_a7b1ebec6263333c13c9cd8ee5924718",
+ "analyzed_at": "2026-11-27T18:41:49+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "f6763574d709984f6746f023fb7420beabfa1d716bc03deb5277ef2579700d23",
+ "source": {
+  "kind": "image",
+  "id": "a7b1ebec6263333c13c9cd8ee5924718"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "Static promo ad showcasing a pink heated straightening comb brush smoothing frizzy brown hair with a 27% discount code.",
+  "full_description": "A clean, studio graphic ad displaying a pale pink thermal straightening comb passing through a lock of brown hair. On the right, the hair is unstraightened, textured, and slightly frizzy, labeled '10 minutes'. Behind the teeth of the comb on the left, the hair is transformed into a sleek, shiny, pin-straight strand. Above the product image is bold black typography reading '3X FASTER STRAIGHTENING' and 'Leaving you with sleek, smooth hair in record time'. At the bottom left, a speech bubble reads 'My morning routine is much easier!'. At the bottom right, a bright magenta circle highlights '27% OFF', next to a coupon code tag 'USE CODE: NV10'.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "3X FASTER STRAIGHTENING",
+    "role": "hook"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Leaving you with sleek, smooth hair in record time",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "10 minutes",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "My morning routine is much easier!",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "27% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "USE CODE: NV10",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "close-up product and hair demo graphic",
+    "visual": "A pink heated straightening brush comb passing through brown hair, visibly dividing frizzy textured hair from pin-straight, sleek hair, set against a clean white studio background with promotional text and badges.",
+    "action": "Static visual showing a before-and-after single pass hair transformation.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Large bold headline reading '3X FASTER STRAIGHTENING' over a close-up demonstration of a heated comb transforming frizzy hair into smooth straight hair.",
+   "visual_0_3s": "Close-up macro demonstration of hair entering the straightening comb wavy/frizzy and exiting pin-straight.",
+   "spoken_0_3s": "",
+   "text_0_3s": "3X FASTER STRAIGHTENING",
+   "hook_type": "before_after",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Sharp half-and-half contrast showing messy wavy hair instantly transformed into sleek hair right inside the comb teeth."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Bold claim: 3X faster straightening",
+    "Visual split before-and-after proof on a hair section",
+    "Time-saving callout (10 minutes)",
+    "Customer quote about easier morning routine",
+    "Offer callout: 27% off with promo code"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "3X faster straightening",
+    "Sleek, smooth hair in record time",
+    "Complete styling in 10 minutes",
+    "Makes morning routine much easier"
+   ],
+   "pain_points": [
+    "Straightening hair takes too long in the morning",
+    "Frizzy and unmanageable hair",
+    "Complicated styling routines"
+   ],
+   "objections_handled": [
+    "Takes too much time to get salon-straight results"
+   ],
+   "social_proof": [
+    "Speech bubble customer testimonial quote: 'My morning routine is much easier!'"
+   ],
+   "comparison_to": "Traditional slow flat irons and standard hair straightening tools"
+  },
+  "product": {
+   "products_shown": [
+    "Straightening Brush / Heated Straightening Comb (Steambrush Pro style)"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": 0,
+   "final_result_shown_s": 0,
+   "demo_clarity": "result_only",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "27% OFF",
+   "price_mentioned": "",
+   "discount_code": "NV10",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "USE CODE: NV10",
+   "cta_at_s": 0
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "Medium brown, wavy, textured, dry-looking, frizzy",
+   "hair_after": "Medium brown, pin-straight, glossy, aligned, sleek",
+   "setting": "studio",
+   "faces_camera": false,
+   "energy_tone": ""
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "Graphic text layout",
+    "Speech bubble vector graphic",
+    "Discount sticker badge",
+    "Coupon code box"
+   ],
+   "ending": "Static image ad with discount callout NV10"
+  },
+  "notes": "Single static paid Meta image ad targeting speed, ease of morning styling, and discount incentive."
+ }
+}

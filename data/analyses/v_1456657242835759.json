@@ -1,0 +1,195 @@
+{
+ "media_key": "v_1456657242835759",
+ "analyzed_at": "2026-11-27T19:34:10+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "fc1d85823d2ca3d4bbfba93f221055b53098dc3f237025f5bd90425214c4d4ce",
+ "source": {
+  "kind": "video",
+  "id": "1456657242835759",
+  "errors": [
+   "1456657242835759: Gave up after 5 retries: https://graph.facebook.com/v26.0/1456657242835759",
+   "1722861108708941: Gave up after 5 retries: https://graph.facebook.com/v26.0/1722861108708941"
+  ],
+  "ig_media_id": "18370638022206812",
+  "permalink": "https://www.instagram.com/p/DX4fOrcjHuN/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 23.6,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "A creator demonstrates how to easily create small curls versus bigger bouncy curls using the pink WavyTalk styler.",
+  "full_description": "A creator in a bedroom setting holds up a light pink WavyTalk styler tool to the camera, showcasing its vents and digital temperature display. She then demonstrates two curling methods: first clamping and twisting a front section for 'small curls', twirling the defined coil around her finger, and then taking a thicker front strand and curling outward for 'bigger curls', displaying the final bouncy curtain curl result.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.8,
+    "text": "Look how easy it is to do curls with the right tool",
+    "role": "hook"
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 11.5,
+    "text": "small curls",
+    "role": "benefit"
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 23.6,
+    "text": "bigger curls",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the pink WavyTalk curling iron close to the camera, pointing out the barrel and outer cooling air vents.",
+    "action": "Showing the tool body and smiling towards the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 5.7,
+    "shot_type": "close-up",
+    "visual": "Extreme close-up of the handle and digital temperature screen heating up to temperature.",
+    "action": "Creator holds the tool upright displaying the digital temperature readout.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.7,
+    "end_s": 8.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator clamps a thin section of hair near the roots and rotates the tool downward.",
+    "action": "Gliding the tool down the hair strand to form a tight curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 11.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator shows the resulting tight ringlet curl and winds it around her index finger with a smile.",
+    "action": "Twirling the finished small curl around her finger to show bounce and definition.",
+    "product_visible": false
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 17.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator clamps a larger section of hair around the tool and rotates it away from her face.",
+    "action": "Slowly gliding the tool through the hair to create a looser, voluminous wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.0,
+    "end_s": 23.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator releases the hair and plays with the big, bouncy loose curl framing her face.",
+    "action": "Fluffing and admiring the finished big wave while smiling and posing for the camera.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink WavyTalk tool in front of her chest with burned-in text 'Look how easy it is to do curls with the right tool'.",
+   "visual_0_3s": "Creator presenting the aesthetic pink hair styling tool to the camera and showing its features.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Look how easy it is to do curls with the right tool",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Immediate quick cut to the digital display lighting up followed directly by hair styling demonstration."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Product presentation and feature display (vents and temp screen)",
+    "Demo 1: creating tight/small curls",
+    "Showcasing small curl result",
+    "Demo 2: creating bigger, loose bouncy curls",
+    "Showcasing final styled wave result"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Easy to do curls with the right tool",
+    "Versatile styler that does both small defined curls and bigger voluminous curls"
+   ],
+   "pain_points": [
+    "Struggling to curl hair with traditional irons",
+    "Needing separate tools for different curl sizes"
+   ],
+   "objections_handled": [
+    "Difficulty of technique handled by clear, effortless visual demo"
+   ],
+   "social_proof": [],
+   "comparison_to": "none"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Whirlwind Curl / 2-in-1 Curling Styler"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 5.7,
+   "final_result_shown_s": 8.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Dark brown, long, straight/softly waved",
+   "hair_after": "Styled with defined small curl on one section and large bouncy curtain wave on another",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "playful, confident, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat pop/R&B remix featuring repetitive pitched vocals ('Baby girl you are so pretty pretty pretty...').",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 5.9,
+   "pacing": "medium",
+   "effects": [
+    "text overlays"
+   ],
+   "ending": "Creator smiling and posing with the completed big curl framing her cheek."
+  },
+  "notes": "Silent demonstration ad relying on trending music and visual comparison of two curl styles (small vs bigger curls) using the same WavyTalk hair tool."
+ }
+}

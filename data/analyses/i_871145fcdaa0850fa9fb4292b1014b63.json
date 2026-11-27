@@ -1,0 +1,160 @@
+{
+ "media_key": "i_871145fcdaa0850fa9fb4292b1014b63",
+ "analyzed_at": "2026-11-27T20:21:55+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "f2823cdc92742e90ae3df353a5a69c3f4bd155c6a4b2a8c002ab0cc956c213cd",
+ "source": {
+  "kind": "image",
+  "id": "871145fcdaa0850fa9fb4292b1014b63"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "Static promo ad for WavyTalk Power Wave crimping iron offering 36% off plus an extra 10% off with promo code NV10.",
+  "full_description": "A square graphic advertisement featuring the pastel pink WavyTalk Power Wave hair crimping iron displayed upright on a soft lavender gradient studio background. Diagonal pink ribbon banners at the top and bottom promote 'NOVEMBER DEALS • EXTRA 10% OFF • USE CODE NV10'. In the top right corner, a bright pink circular badge displays '36% OFF'. The right side of the image features the brand logo 'WAVYTALK', product title 'Power Wave Wave Hair Crimping Iron', and a call-out 'USE CODE: NV10' highlighted inside a vibrant pink pill-shaped box.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "36% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "EXTRA 10% OFF • USE CODE NV10 • NOVEMBER DEALS",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Power Wave Wave Hair Crimping Iron",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "USE CODE: NV10",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "product shot",
+    "visual": "A studio product display showing the pink WavyTalk Power Wave hair crimping iron standing upright on a gradient purple/grey background, flanked by sale text, discount percentage badges, and promo code ribbons.",
+    "action": "Static image",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "A studio product shot of the pink WavyTalk Power Wave crimper next to bold '36% OFF' and 'USE CODE: NV10' promotional elements.",
+   "visual_0_3s": "Pink WavyTalk Power Wave tool with digital screen illuminated, displayed next to November deal text and discount callouts.",
+   "spoken_0_3s": "",
+   "text_0_3s": "36% OFF / Power Wave Wave Hair Crimping Iron / USE CODE: NV10",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "product_reveal",
+   "pattern_interrupt": "Bright neon pink tape overlays and a vibrant pink discount badge contrasting against a soft muted studio gradient."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Promotional discount announcement (36% off + extra 10% off)",
+    "Product showcase of the Power Wave crimper",
+    "Discount code call to action (NV10)"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Power Wave creates crimped wave styles",
+    "Features digital temperature screen (360°F) and ion technology",
+    "Extra 10% discount on top of 36% off during November deals"
+   ],
+   "pain_points": [
+    "High price of quality hair styling tools"
+   ],
+   "objections_handled": [
+    "Affordability via stacked discount code"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Power Wave Hair Crimping Iron"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "36% off plus an extra 10% off for November deals",
+   "price_mentioned": "",
+   "discount_code": "NV10",
+   "urgency": "November Deals",
+   "cta_spoken": "",
+   "cta_on_screen": "USE CODE: NV10",
+   "cta_at_s": 0
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "studio",
+   "faces_camera": false,
+   "energy_tone": ""
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "Graphic banner overlays",
+    "Digital drop shadow",
+    "Badge stickers"
+   ],
+   "ending": "Static image ad graphic"
+  },
+  "notes": "Static ad creative designed for social feed placement (1:1 square ratio) promoting the November seasonal discount campaign for WavyTalk Lebanon."
+ }
+}

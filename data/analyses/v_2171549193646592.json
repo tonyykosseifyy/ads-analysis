@@ -1,0 +1,329 @@
+{
+ "media_key": "v_2171549193646592",
+ "analyzed_at": "2026-11-27T19:33:14+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "41ca140971f55cf80be15beb3a951d8e632691d17c70f76cb903fae8329443b6",
+ "source": {
+  "kind": "video",
+  "id": "2171549193646592",
+  "errors": [
+   "2171549193646592: Gave up after 5 retries: https://graph.facebook.com/v26.0/2171549193646592",
+   "27801048316163755: Gave up after 5 retries: https://graph.facebook.com/v26.0/27801048316163755"
+  ],
+  "ig_media_id": "18363198457224050",
+  "permalink": "https://www.instagram.com/p/DY0Jlj0jGjG/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 40.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator transforms 3B curly hair into a voluminous blowout using the Wavytalk thermal heated round brush during a New Year sale.",
+  "full_description": "A creator demonstrates how she transforms her natural, brushed-out 3B curls into a smooth, bouncy blowout using the pink Wavytalk thermal round brush. The video starts with a quick before/after hook, followed by a step-by-step tutorial styling the front bangs/roots up for volume and showing how to curl the ends. She then sections and smooths the rest of her hair, advising viewers to use small sections to avoid pulling. She finishes by showing the glossy, voluminous result and pointing to the link while a 'New Year Sale 25% OFF' badge appears.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Here's how I go from this...",
+    "text_english": "Here's how I go from this..."
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 2.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "...to this...",
+    "text_english": "...to this..."
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 4.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "...using the viral Wavytalk heated round brush.",
+    "text_english": "...using the viral Wavytalk heated round brush."
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 9.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Take your thermal brush and just start brushing your hair up for extra volume.",
+    "text_english": "Take your thermal brush and just start brushing your hair up for extra volume."
+   },
+   {
+    "start_s": 9.1,
+    "end_s": 14.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And so this is just gonna smooth out your hair super well. I love the small round brush, it gets very close to your roots.",
+    "text_english": "And so this is just gonna smooth out your hair super well. I love the small round brush, it gets very close to your roots."
+   },
+   {
+    "start_s": 14.1,
+    "end_s": 17.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "As you can see, if you start flipping it, it gives you like a little curl on the ends as well.",
+    "text_english": "As you can see, if you start flipping it, it gives you like a little curl on the ends as well."
+   },
+   {
+    "start_s": 17.3,
+    "end_s": 19.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And of course, don't forget about that curl.",
+    "text_english": "And of course, don't forget about that curl."
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 22.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now I'm gonna do the rest of my hair. It feels like a regular brush.",
+    "text_english": "Now I'm gonna do the rest of my hair. It feels like a regular brush."
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 27.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And especially if you take smaller sections, I definitely recommend taking very small sections with this hair tool...",
+    "text_english": "And especially if you take smaller sections, I definitely recommend taking very small sections with this hair tool..."
+   },
+   {
+    "start_s": 27.5,
+    "end_s": 33.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "...because you don't want to take big sections and then not be able to smooth out that section, you're just gonna end up pulling your hair that way.",
+    "text_english": "...because you don't want to take big sections and then not be able to smooth out that section, you're just gonna end up pulling your hair that way."
+   },
+   {
+    "start_s": 33.3,
+    "end_s": 36.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And this is the final look using the Wavytalk heated round brush.",
+    "text_english": "And this is the final look using the Wavytalk heated round brush."
+   },
+   {
+    "start_s": 36.3,
+    "end_s": 39.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I love the volume and shine that this hair tool gave to my hair.",
+    "text_english": "I love the volume and shine that this hair tool gave to my hair."
+   },
+   {
+    "start_s": 39.0,
+    "end_s": 40.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'll tag it right here if you guys wanna check it out.",
+    "text_english": "I'll tag it right here if you guys wanna check it out."
+   }
+  ],
+  "transcript_full_original": "Here's how I go from this to this using the viral Wavytalk heated round brush. Take your thermal brush and just start brushing your hair up for extra volume. And so this is just gonna smooth out your hair super well. I love the small round brush, it gets very close to your roots. As you can see, if you start flipping it, it gives you like a little curl on the ends as well. And of course, don't forget about that curl. Now I'm gonna do the rest of my hair. It feels like a regular brush. And especially if you take smaller sections, I definitely recommend taking very small sections with this hair tool because you don't want to take big sections and then not be able to smooth out that section, you're just gonna end up pulling your hair that way. And this is the final look using the Wavytalk heated round brush. I love the volume and shine that this hair tool gave to my hair. I'll tag it right here if you guys wanna check it out.",
+  "transcript_full_english": "Here's how I go from this to this using the viral Wavytalk heated round brush. Take your thermal brush and just start brushing your hair up for extra volume. And so this is just gonna smooth out your hair super well. I love the small round brush, it gets very close to your roots. As you can see, if you start flipping it, it gives you like a little curl on the ends as well. And of course, don't forget about that curl. Now I'm gonna do the rest of my hair. It feels like a regular brush. And especially if you take smaller sections, I definitely recommend taking very small sections with this hair tool because you don't want to take big sections and then not be able to smooth out that section, you're just gonna end up pulling your hair that way. And this is the final look using the Wavytalk heated round brush. I love the volume and shine that this hair tool gave to my hair. I'll tag it right here if you guys wanna check it out.",
+  "word_count": 169,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.9,
+    "text": "New Year sale 25% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 4.1,
+    "text": "Wavytalk Thermal Brush Blowout on 3b Curls",
+    "role": "hook"
+   },
+   {
+    "start_s": 35.8,
+    "end_s": 40.5,
+    "text": "NEW YEAR SALE 25% OFF",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing camera showing her natural brushed-out frizzy curly hair.",
+    "action": "Talking directly to camera, showing 'before' hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 2.2,
+    "shot_type": "medium close-up",
+    "visual": "Flash cut to the finished blowout look, holding the Wavytalk thermal brush.",
+    "action": "Posing with bouncy finished hair and holding the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 4.1,
+    "shot_type": "medium close-up",
+    "visual": "Back to before hair state, creator holds up the Wavytalk brush directly in front of camera.",
+    "action": "Showing the brush barrel and digital display.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 16.5,
+    "shot_type": "medium close-up",
+    "visual": "Tutorial shot: Creator taking the front crown section and lifting hair straight up with the thermal brush.",
+    "action": "Brushing upwards from the root, rolling and flipping the ends to create root volume and soft curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 19.8,
+    "shot_type": "close-up",
+    "visual": "Creator inspects the curled front bang section with a purple sticker arrow pointing to the bounce.",
+    "action": "Showing the curled front piece and framing her face.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 22.0,
+    "shot_type": "medium shot",
+    "visual": "Creator pinning up the styled front piece and talking to camera.",
+    "action": "Prepping hair clips to start sectioning the back.",
+    "product_visible": false
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 33.3,
+    "shot_type": "medium close-up side angle",
+    "visual": "Hair sectioned up; creator takes a small section on the lower side and glides the thermal brush through.",
+    "action": "Brushing down small sections to smooth and straighten from curly state, demonstrating technique.",
+    "product_visible": true
+   },
+   {
+    "start_s": 33.3,
+    "end_s": 40.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator with completely styled blowout, running hands through bouncy layers and holding up the tool.",
+    "action": "Fluffing hair to showcase bounce and shine, pointing down to CTA / link.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator with voluminous frizzy brushed-out hair with text 'New Year Sale 25% OFF' and 'Wavytalk Thermal Brush Blowout on 3b Curls'.",
+   "visual_0_3s": "Rapid cut between frizzy before and glossy blown-out after, then holding the brush.",
+   "spoken_0_3s": "Here's how I go from this to this using the viral Wavytalk heated round brush.",
+   "text_0_3s": "New Year sale 25% OFF / Wavytalk Thermal Brush Blowout on 3b Curls",
+   "hook_type": "before_after",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Instant jump-cut transition showing huge frizzy 3B hair vs silky salon blowout within 1 second."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Quick before-and-after contrast hook",
+    "Product introduction",
+    "Step-by-step technique on the crown/bangs for root volume and flipped ends",
+    "Key styling tip: sectioning small pieces to prevent snagging and maximize smoothness",
+    "Final look reveal with volume and shine praise",
+    "Call to action and promo tag"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "salon_result_at_home",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Tames 3B curls into a smooth blowout",
+    "Gets very close to the roots for extra volume",
+    "Creates curled ends effortlessly",
+    "Feels like brushing with a regular brush",
+    "Delivers intense volume and shine"
+   ],
+   "pain_points": [
+    "Frizzy, unruly curly hair",
+    "Difficulty getting volume at roots",
+    "Hair pulling or tangling if sections are too large"
+   ],
+   "objections_handled": [
+    "Does it work on coarse/curly 3B hair?",
+    "Will it rip or pull hair? (She explains small sections make it glide effortlessly like a regular brush)"
+   ],
+   "social_proof": [
+    "Refers to it as 'the viral Wavytalk heated round brush'"
+   ],
+   "comparison_to": "regular brush"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Heated Round Brush"
+   ],
+   "first_seen_s": 1.2,
+   "first_used_on_hair_s": 4.1,
+   "final_result_shown_s": 1.2,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "New Year Sale 25% OFF",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "New Year Sale seasonal promotion",
+   "cta_spoken": "I'll tag it right here if you guys wanna check it out.",
+   "cta_on_screen": "",
+   "cta_at_s": 39.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Brunette, thick, brushed-out 3B curls, frizzy and voluminous, medium length",
+   "hair_after": "Silky, voluminous, bouncy salon blowout with flipped ends and shiny curtain layers",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "friendly, informative, upbeat"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "None, clear direct voice recording",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 5.1,
+   "pacing": "medium",
+   "effects": [
+    "quick cut hook",
+    "on-screen graphic sticker with arrow",
+    "animated sale graphic pop-up"
+   ],
+   "ending": "Creator holding the thermal brush smiling, pointing downwards towards the product shopping link."
+  },
+  "notes": "Original English UGC ad featuring the pink Wavytalk thermal brush. Repurposed for local Middle Eastern paid social campaigns with a 'New Year Sale 25% OFF' badge sticker overlay."
+ }
+}

@@ -1,0 +1,173 @@
+{
+ "media_key": "v_1345974260826667",
+ "analyzed_at": "2026-11-27T21:27:39+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "acb3b42fd777015f77b5c61d8bddbc1e901ed610f5f083213a4ea38ea8ec971e",
+ "source": {
+  "kind": "video",
+  "id": "1345974260826667",
+  "errors": [
+   "1345974260826667: Gave up after 5 retries: https://graph.facebook.com/v26.0/1345974260826667",
+   "2886948518310593: Gave up after 5 retries: https://graph.facebook.com/v26.0/2886948518310593"
+  ],
+  "ig_media_id": "17943197922232630",
+  "permalink": "https://www.instagram.com/p/DZ__8c_M0bL/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 17.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Two friends have fun getting ready in a hotel bathroom while one styles the other's hair using the Wavytalk Blowout Boost thermal round brush during a Spring Break sale.",
+  "full_description": "A continuous single-take phone UGC clip filmed in a bright bathroom mirror. A blonde young woman in a green crop top and split plaid pants stands facing the mirror while her friend uses a pink Wavytalk Blowout Boost thermal brush to smooth and bevel the ends of her long blonde hair. Upbeat music plays as both girls lip-sync, dance, and laugh. Mid-video, text overlays announce a Spring Break Sale with up to 30% off. The clip finishes with both girls happily dancing, posing, and showing off the sleek blowout style.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 17.5,
+    "text": "Hairstylist friend on the trip",
+    "role": "hook"
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 17.5,
+    "text": "Spring Break Sale",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 6.0,
+    "end_s": 17.5,
+    "text": "🤍 Up to 30% off",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.0,
+    "shot_type": "medium shot (mirror reflection)",
+    "visual": "Two girls in a hotel bathroom; one is styling the other's long blonde hair with a pink thermal round brush.",
+    "action": "The friend curls and pulls the brush through the hair ends while the friend whose hair is being styled looks in the mirror and sings along to the music.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 12.5,
+    "shot_type": "medium shot (mirror reflection)",
+    "visual": "Bathroom scene continues; 'Spring Break Sale' and 'Up to 30% off' text appears at the top.",
+    "action": "The friend continues smoothing and curling front sections of hair with the thermal brush while both groove to the beat.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.5,
+    "end_s": 17.5,
+    "shot_type": "medium shot (mirror reflection)",
+    "visual": "Both girls standing side-by-side facing the camera in the mirror, hair fully styled.",
+    "action": "They put down the brush, strike poses, playfully dance together, and wave hands towards the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Blonde girl looking at the camera in a bathroom mirror while her friend brushes through her long hair with the Wavytalk Blowout Boost.",
+   "visual_0_3s": "Friend brushing through the lower sections of hair with the heated brush as they lip-sync.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Hairstylist friend on the trip",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "Relatable vacation GRWM text overlay paired with energetic viral music and immediate styling action."
+  },
+  "structure": {
+   "format": "grwm_lifestyle",
+   "narrative_beats": [
+    "Relatable friend dynamic while traveling",
+    "Quick and effortless styling using the thermal brush",
+    "Spring Break promotional discount callout",
+    "Celebratory reveal dance showing finished smooth hair"
+   ],
+   "main_angle": "travel_or_on_the_go",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Effortless blowout styling on trips",
+    "Up to 30% off during Spring Break Sale"
+   ],
+   "pain_points": [
+    "Hard to achieve salon blowouts while traveling",
+    "Limited time and equipment on vacations"
+   ],
+   "objections_handled": [
+    "Can it be used quickly and casually by anyone on the go?"
+   ],
+   "social_proof": [
+    "Relatable peer endorsement and organic usage between friends"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 12.5,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "Up to 30% off (Spring Break Sale)",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Spring Break Sale",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 2,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long straight blonde hair",
+   "hair_after": "Smooth, shiny blonde blowout with soft inward curved ends",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "Playful, energetic, youthful, and cheerful"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Sped-up remix of Rihanna's 'Rude Boy'",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 0,
+   "avg_shot_length_s": 17.5,
+   "pacing": "medium",
+   "effects": [
+    "text overlay"
+   ],
+   "ending": "Both girls dancing, posing and waving their hands playfully in front of the mirror"
+  },
+  "notes": "Single continuous shot UGC video without spoken dialogue, relying entirely on a viral background track and relatable vacation lifestyle vibe."
+ }
+}

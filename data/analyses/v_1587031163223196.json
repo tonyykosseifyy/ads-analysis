@@ -1,0 +1,172 @@
+{
+ "media_key": "v_1587031163223196",
+ "analyzed_at": "2026-11-27T18:39:16+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "8a5bbe93a803d1e2fae678ee8825aaf4be7dd3f21d0ca2475c90a5727def578f",
+ "source": {
+  "kind": "video",
+  "id": "1587031163223196",
+  "video_id": "1769061934311841",
+  "length_s": 14.216,
+  "permalink": "/23849366283980795/videos/1769061934311841/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 13.9,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates how easy and fast it is to create bouncy blowout curls using the WavyTalk thermal brush in under 14 seconds.",
+  "full_description": "A creator showcases the blue WavyTalk thermal brush (Blowout Boost) in a quick 14-second silent demo set to trending background music. A persistent text hook challenges viewers with 'Give us 14 seconds to show you how easy it is to use our thermal brush for a blowout'. Across concise cuts, she demonstrates rolling hair around the barrel, releasing defined curls, fluffing out voluminous curtain bangs, and posing with the tool.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 13.9,
+    "text": "Give us 14 seconds to show you how easy it is to use our thermal brush for a blowout",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator posing in front of the camera holding the light blue WavyTalk thermal brush beside her face",
+    "action": "Creator tilts head and displays the tool to the camera",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 6.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling a lower section of her caramel brown hair with the thermal brush",
+    "action": "Creator wraps hair around the barrel, rolls upwards, pauses, and gently spins the brush out",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.2,
+    "end_s": 9.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling an upper strand of hair near the front",
+    "action": "Creator twists the hair around the brush and pulls it away, revealing a bouncy spiral wave",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.4,
+    "end_s": 11.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling and running fingers through front bangs and layers",
+    "action": "Creator shakes out and fluffs her curtain bangs with both hands to display volume and bounce",
+    "product_visible": false
+   },
+   {
+    "start_s": 11.6,
+    "end_s": 13.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator smiling with full voluminous blowout while holding the thermal brush upright",
+    "action": "Creator looks into camera, holding the device steady next to her styled hair",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the blue WavyTalk thermal brush upright next to her styled hair with an on-screen caption challenge.",
+   "visual_0_3s": "Creator looks at the camera while showing the device, then quickly starts wrapping hair around the barrel.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Give us 14 seconds to show you how easy it is to use our thermal brush for a blowout",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "A direct time-bound dare ('Give us 14 seconds') matching the exact length of the video clip."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Time-challenge hook displaying styled hair and tool",
+    "Step-by-step rolling and gliding action with thermal brush",
+    "Curl release demonstrating smooth bounce",
+    "Root and bang fluffing showing blowout volume",
+    "Final hero shot with the tool"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "saves_time"
+   ],
+   "key_claims": [
+    "Easy blowout styling at home",
+    "Achieve blowout curls in seconds"
+   ],
+   "pain_points": [
+    "Traditional blowouts requiring round brush and blow dryer coordination are difficult and take too long"
+   ],
+   "objections_handled": [
+    "Product is complicated or difficult to wrap and release hair without tangling"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Thermal Brush (Blowout Boost)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 1.8,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20s",
+   "hair_before": "Long, caramel brown highlighted hair pre-styled into soft waves",
+   "hair_after": "Bouncy, voluminous blowout with polished curls and curtain bangs",
+   "setting": "apartment / room interior",
+   "faces_camera": true,
+   "energy_tone": "confident, relaxed, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Trending chill indie-pop track with gentle acoustic guitar and female singing vocals",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 2.78,
+   "pacing": "fast",
+   "effects": [
+    "quick jump cuts"
+   ],
+   "ending": "Clean loop ending with creator holding the product and smirking at the camera"
+  },
+  "notes": "Seamless looping UGC-style video relying entirely on visual demonstration and a single persistent text overlay hook."
+ }
+}

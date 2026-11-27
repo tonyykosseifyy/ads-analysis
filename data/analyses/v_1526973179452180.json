@@ -1,0 +1,168 @@
+{
+ "media_key": "v_1526973179452180",
+ "analyzed_at": "2026-11-27T23:14:07+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "bea1ae6c16fd6409837edb307d43f933b0c374e87ac0b8ba47acccc27af0e107",
+ "source": {
+  "kind": "video",
+  "id": "1526973179452180",
+  "errors": [
+   "1526973179452180: Gave up after 5 retries: https://graph.facebook.com/v26.0/1526973179452180",
+   "1444861532038934: Gave up after 5 retries: https://graph.facebook.com/v26.0/1444861532038934"
+  ],
+  "ig_media_id": "17877567129582305",
+  "permalink": "https://www.instagram.com/p/DfP-RNpsl_K/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 14.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates the 'wearing vs. styling' trend by transforming her flat hair into a bouncy blowout using the pink WavyTalk thermal brush.",
+  "full_description": "A creator participates in the viral 'wearing vs. styling' format. In the first shot, labeled 'wearing vs.', she poses in a knitted sleeveless top and dark denim trousers with flat, unstyled hair. The video then cuts to a quick demonstration of her using the pink WavyTalk thermal round brush on her hair lengths and front bangs. It cuts to the final reveal labeled 'styling', showing her posing and dancing with a full, bouncy blowout that elevates her look.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.7,
+    "text": "wearing vs.",
+    "role": "hook"
+   },
+   {
+    "start_s": 6.7,
+    "end_s": 14.8,
+    "text": "styling",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "shot_type": "full shot",
+    "visual": "A young woman standing in a bright room wearing a cream sleeveless knit top and wide-leg dark jeans with flat, unstyled dark hair.",
+    "action": "She looks down at her clothes and shrugs slightly, setting up the 'wearing vs.' stage.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 3.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator in bathroom/room with half her hair clipped up, holding the pink WavyTalk thermal round brush.",
+    "action": "She wraps a lower strand around the heated barrel and twists upward to curl the ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 6.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator rolling her front fringe bangs around the thermal round brush.",
+    "action": "She brushes and rolls her bangs inward towards her forehead, then rolls the brush out smoothly and smiles into the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.7,
+    "end_s": 14.8,
+    "shot_type": "full shot",
+    "visual": "Creator standing in the room in the same outfit, but with voluminous, wavy blowout hair and feathered bangs.",
+    "action": "She poses with hands on hips, grooves to the music, and fluffs her bouncy hair to showcase the finished styled look.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Full shot of a young woman standing in her room looking down at her outfit under text overlay 'wearing vs.'",
+   "visual_0_3s": "Woman shows her plain outfit and unstyled hair before quickly cutting to curling her hair with the pink tool.",
+   "spoken_0_3s": "",
+   "text_0_3s": "wearing vs.",
+   "hook_type": "trend_or_sound",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Fast cut from unstyled casual standing shot straight into dynamic brush-curling demo."
+  },
+  "structure": {
+   "format": "before_after",
+   "narrative_beats": [
+    "Wearing: displaying the base outfit with flat, unstyled hair",
+    "Action: quick styling montage using the thermal brush on lengths and bangs",
+    "Styling: revealing the elevated look with bouncy blowout waves"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Styling hair with the thermal brush elevates an outfit from basic to put-together"
+   ],
+   "pain_points": [
+    "Flat, lifeless hair makes outfits look incomplete"
+   ],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost"
+   ],
+   "first_seen_s": 2.1,
+   "first_used_on_hair_s": 2.1,
+   "final_result_shown_s": 6.7,
+   "demo_clarity": "partial",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-25",
+   "hair_before": "Long, dark brown/black, unstyled, slightly flat",
+   "hair_after": "Voluminous, shiny blowout curls with soft face-framing fringe",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Trendy, confident, and playful"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Upbeat pop / dance track with female vocals ('I can't shake this feeling... want me to stay...')",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 3,
+   "avg_shot_length_s": 3.7,
+   "pacing": "fast",
+   "effects": [
+    "text overlay",
+    "beat sync cut"
+   ],
+   "ending": "Creator playfully dances and poses facing the camera showing her bouncy hair."
+  },
+  "notes": "Ad follows the viral 'wearing vs. styling' TikTok trend showing how proper hair styling completes an outfit."
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "language": "en",
+ "main_angle": "offer_discount_urgency",
+ "secondary_angles": [
+  "salon_result_at_home",
+  "saves_time",
+  "social_proof_popularity",
+  "volume_and_bounce"
+ ],
+ "opening_line": "The summer batch is selling out fast — and once you see why, you'll understand.",
+ "opening_style": "curiosity_gap",
+ "mentions_offer": true,
+ "offer": "20% off now, while stock lasts",
+ "social_proof": "1.5M Sold Worldwide",
+ "cta": "Grab Yours Now",
+ "tone": "urgent, enticing, confident",
+ "variation_count": 7
+}

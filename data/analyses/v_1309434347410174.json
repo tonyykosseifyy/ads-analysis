@@ -1,0 +1,282 @@
+{
+ "media_key": "v_1309434347410174",
+ "analyzed_at": "2026-11-27T23:04:20+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "7c9e8dbfa682fcb5a22df276fbb965d62fdd2254e580a2e5da19dbee0d06330f",
+ "source": {
+  "kind": "video",
+  "id": "1309434347410174",
+  "errors": [
+   "1309434347410174: Gave up after 5 retries: https://graph.facebook.com/v26.0/1309434347410174"
+  ],
+  "video_id": "1524937809035015",
+  "length_s": 30.07,
+  "permalink": "/23849366283980795/videos/1524937809035015/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 29.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A blonde creator demonstrates how to use the WavyTalk heated round brush instead of pulling through hair, showing both curling and straightening methods, followed by a before-and-after comparison.",
+  "full_description": "The video starts with a blonde woman in a pink top demonstrating a common hair mistake with a heated brush (pulling it straight through) under the text 'STOP doing this! ❌'. She wags her fingers 'no' and transitions to 'Try this instead! ✅', wrapping a section around the barrel and rolling it to create a smooth, bouncy wave. Text callouts highlight ionic care for less frizz, anti-static benefits for fall/winter, and multiple temperature settings (set at 180°C). She then demonstrates how the tool can achieve both sleek straight styles and curls. The video concludes with a split-screen Before vs After showing frizzy dry hair transformed into shiny, smooth tresses, alongside promotional discount text.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "text": "STOP doing this! ❌",
+    "role": "hook"
+   },
+   {
+    "start_s": 2.3,
+    "end_s": 8.0,
+    "text": "Try this instead! ✅",
+    "role": "hook"
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 10.8,
+    "text": "Iconic care = less frizz + more shine! ✨",
+    "role": "benefit"
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 14.5,
+    "text": "Perfect for fall & winter! No more static ❄️",
+    "role": "benefit"
+   },
+   {
+    "start_s": 15.2,
+    "end_s": 17.5,
+    "text": "Multiple temp settings I usually set it to 180.",
+    "role": "benefit"
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 21.2,
+    "text": "Straight",
+    "role": "benefit"
+   },
+   {
+    "start_s": 21.5,
+    "end_s": 26.2,
+    "text": "Or Curl",
+    "role": "benefit"
+   },
+   {
+    "start_s": 26.3,
+    "end_s": 29.8,
+    "text": "Fall promo up to 40% OFF check 🔗 in bio!",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 28.5,
+    "text": "Before",
+    "role": "other"
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 28.5,
+    "text": "After",
+    "role": "other"
+   },
+   {
+    "start_s": 27.2,
+    "end_s": 28.5,
+    "text": "SO shiny ✨",
+    "role": "benefit"
+   },
+   {
+    "start_s": 28.6,
+    "end_s": 29.8,
+    "text": "Extra 15% off code check 🔗 in bio!",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "shot_type": "medium close-up",
+    "visual": "Blonde creator in a pink top in a bathroom setting brushes straight down roughly with the thermal round brush, then shakes her index fingers in a 'no' gesture at the camera.",
+    "action": "Demonstrating the incorrect way to use the heated brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.3,
+    "end_s": 7.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator takes a strand of hair, wraps it around the barrel, rolls upwards, pauses, releases to show a perfect spiral curl, and reacts with satisfaction.",
+    "action": "Demonstrating proper rolling technique.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.6,
+    "end_s": 11.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator styles another side section, releases another smooth wave, smiles brightly, and shows off the pink thermal brush.",
+    "action": "Continuing styling and presenting the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.1,
+    "end_s": 14.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushes top crown section backwards to lift roots, letting the volume fall gracefully around her face.",
+    "action": "Adding crown root volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.9,
+    "end_s": 17.8,
+    "shot_type": "medium shot",
+    "visual": "Creator flips hair forward and back, admiring voluminous blonde blowout.",
+    "action": "Showing full hair bounce and volume.",
+    "product_visible": false
+   },
+   {
+    "start_s": 17.9,
+    "end_s": 21.3,
+    "shot_type": "close-up",
+    "visual": "Creator runs the thermal brush smoothly under bangs/front section to show straightening capability.",
+    "action": "Demonstrating straightening function.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.4,
+    "end_s": 26.2,
+    "shot_type": "close-up",
+    "visual": "Creator twirls the thermal brush in her front curtain bangs to curl them away from her face, releasing a swooped curl.",
+    "action": "Demonstrating curling capability.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.3,
+    "end_s": 28.5,
+    "shot_type": "split-screen",
+    "visual": "Split screen showing back of blonde hair: top half frizzy and unstyled ('Before'), bottom half silky, shiny, and smooth ('After').",
+    "action": "Before and after comparison of hair texture and shine.",
+    "product_visible": false
+   },
+   {
+    "start_s": 28.6,
+    "end_s": 29.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator smiles warmly at the camera holding up the pink thermal brush.",
+    "action": "Final beauty shot with product and discount text.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Blonde woman sliding a pink thermal brush straight down her hair with text 'STOP doing this! ❌'.",
+   "visual_0_3s": "Woman quickly demonstrates the wrong brushing motion and wags her fingers in a 'no' pattern interrupt.",
+   "spoken_0_3s": "",
+   "text_0_3s": "STOP doing this! ❌ / Try this instead! ✅",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Negative callout 'STOP doing this!' followed by the creator waving both pointer fingers across each other in a stop gesture."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Negative hook: showing common mistake",
+    "Technique tutorial: showing correct wrapping method",
+    "Feature highlight: ionic care, static prevention, temperature control",
+    "Versatility proof: showing straight vs curl styling",
+    "Visual proof: split-screen before and after comparison",
+    "Promotional offer and call to action"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "volume_and_bounce",
+    "replaces_multiple_tools",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Ionic care gives less frizz and more shine",
+    "Eliminates winter/fall static",
+    "Multiple temperature settings (recommended 180°C)",
+    "Can both straighten and curl"
+   ],
+   "pain_points": [
+    "Frizzy hair",
+    "Winter static hair",
+    "Incorrect thermal brush technique leading to flat hair"
+   ],
+   "objections_handled": [
+    "Difficult to use (shows clear wrapping technique)",
+    "Only does one style (proves it can do straight and curl)",
+    "Heat damage/temperature too high (notes multiple temperature controls)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional unheated round brush or improper styling technique"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush (Pink)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 14.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Fall promo up to 40% OFF + Extra 15% off code",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Fall promo",
+   "cta_spoken": "",
+   "cta_on_screen": "check 🔗 in bio!",
+   "cta_at_s": 26.3
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Blonde, straight/slightly frizzy, pinned up in sections",
+   "hair_after": "Voluminous, shiny 90s blowout curls with lifted crown and bouncy curtain bangs",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "confident, instructional, playful"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Uptempo electronic dance pop music with high-pitched female vocal singing 'Run to me confess your love'",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 3.7,
+   "pacing": "fast",
+   "effects": [
+    "Text overlays",
+    "Split screen"
+   ],
+   "ending": "Creator smiling holding product with discount call to action overlay"
+  },
+  "notes": "Ad uses a popular UGC tutorial format (Stop Doing This / Try This Instead) without spoken audio, relying on aesthetic visuals, bouncy blowout transformation, and text overlays suited for sound-off consumption."
+ }
+}

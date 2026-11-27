@@ -1,0 +1,310 @@
+{
+ "media_key": "v_1121589240695371",
+ "analyzed_at": "2026-11-27T20:46:17+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "cfdbdda6c856d2b90febc953abad671cb6d4b893154ac8daa7d9d24f12f22e05",
+ "source": {
+  "kind": "video",
+  "id": "1121589240695371",
+  "errors": [
+   "1121589240695371: Gave up after 5 retries: https://graph.facebook.com/v26.0/1121589240695371"
+  ],
+  "video_id": "1641467474179824",
+  "length_s": 71.875,
+  "permalink": "/23849366283980795/videos/1641467474179824/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 71.9,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator styles her curly frizzy hair with the Wavytalk thermal brush while explaining why fall is the best season for blowouts.",
+  "full_description": "A young curly-haired woman sits in front of the camera with half of her hair styled in a sleek, bouncy blowout and the other half naturally curly and frizzy. While demonstrating how she uses the light-blue Wavytalk thermal blowout brush to smooth and flip her hair, she addresses criticism from other curly girls about heat styling, explains why lower fall humidity makes blowouts easier and longer-lasting, and highlights the convenience of a heated round brush over a traditional round brush plus blow dryer. She promotes Wavytalk's seasonal sale, finishes styling her bangs and other side, and presents the glossy, voluminous final blowout result.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So many curly girls get so mad whenever I say that fall is for blowouts.",
+    "text_english": "So many curly girls get so mad whenever I say that fall is for blowouts."
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 7.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "However, it's not that I don't love my curly hair. I mean, God forbid a girl wants to switch it up sometime",
+    "text_english": "However, it's not that I don't love my curly hair. I mean, God forbid a girl wants to switch it up sometime"
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 12.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and have a nice, smooth, silky blowout instead of that!",
+    "text_english": "and have a nice, smooth, silky blowout instead of that!"
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 17.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The reason you hear some people saying that fall is for blowouts, me included, is because",
+    "text_english": "The reason you hear some people saying that fall is for blowouts, me included, is because"
+   },
+   {
+    "start_s": 17.0,
+    "end_s": 23.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "the humidity is always less, or significantly less at least, in the fall, so it's so much easier to heat style curly hair.",
+    "text_english": "the humidity is always less, or significantly less at least, in the fall, so it's so much easier to heat style curly hair."
+   },
+   {
+    "start_s": 23.3,
+    "end_s": 31.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And this is because curly hair is always desperate for moisture. So when the humidity is down, it means that our hair won't go sucking up all the moisture.",
+    "text_english": "And this is because curly hair is always desperate for moisture. So when the humidity is down, it means that our hair won't go sucking up all the moisture."
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 39.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I use a thermal brush to do my blowouts just because I find it is way easier than holding a round brush and a hair dryer. That gets old really fast.",
+    "text_english": "I use a thermal brush to do my blowouts just because I find it is way easier than holding a round brush and a hair dryer. That gets old really fast."
+   },
+   {
+    "start_s": 39.0,
+    "end_s": 46.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And I just pull all the way down, and then once I get to the bottom, I like to give it a little curl at the ends just to have a little bit more volume down there.",
+    "text_english": "And I just pull all the way down, and then once I get to the bottom, I like to give it a little curl at the ends just to have a little bit more volume down there."
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 50.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I mean, just look at the difference that we have so far. That is crazy!",
+    "text_english": "I mean, just look at the difference that we have so far. That is crazy!"
+   },
+   {
+    "start_s": 50.0,
+    "end_s": 58.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And hey, curly hair is for every season, and blowouts can also be for every season. However, they are definitely a lot easier in the fall and winter when there's not so much humidity outside.",
+    "text_english": "And hey, curly hair is for every season, and blowouts can also be for every season. However, they are definitely a lot easier in the fall and winter when there's not so much humidity outside."
+   },
+   {
+    "start_s": 58.0,
+    "end_s": 65.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you've been wanting to get your hands on this brush, Wavytalk is running their fall sale right now, so I highly recommend grabbing it while it's on sale before it goes back to full price.",
+    "text_english": "If you've been wanting to get your hands on this brush, Wavytalk is running their fall sale right now, so I highly recommend grabbing it while it's on sale before it goes back to full price."
+   },
+   {
+    "start_s": 65.5,
+    "end_s": 69.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "All right, and here's the finished hair. It looks so smooth and shiny.",
+    "text_english": "All right, and here's the finished hair. It looks so smooth and shiny."
+   },
+   {
+    "start_s": 69.2,
+    "end_s": 71.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "A thermal brush really is the key to an easy, quick blowout.",
+    "text_english": "A thermal brush really is the key to an easy, quick blowout."
+   }
+  ],
+  "transcript_full_original": "So many curly girls get so mad whenever I say that fall is for blowouts. However, it's not that I don't love my curly hair. I mean, God forbid a girl wants to switch it up sometime and have a nice, smooth, silky blowout instead of that! The reason you hear some people saying that fall is for blowouts, me included, is because the humidity is always less, or significantly less at least, in the fall, so it's so much easier to heat style curly hair. And this is because curly hair is always desperate for moisture. So when the humidity is down, it means that our hair won't go sucking up all the moisture. I use a thermal brush to do my blowouts just because I find it is way easier than holding a round brush and a hair dryer. That gets old really fast. And I just pull all the way down, and then once I get to the bottom, I like to give it a little curl at the ends just to have a little bit more volume down there. I mean, just look at the difference that we have so far. That is crazy! And hey, curly hair is for every season, and blowouts can also be for every season. However, they are definitely a lot easier in the fall and winter when there's not so much humidity outside. If you've been wanting to get your hands on this brush, Wavytalk is running their fall sale right now, so I highly recommend grabbing it while it's on sale before it goes back to full price. All right, and here's the finished hair. It looks so smooth and shiny. A thermal brush really is the key to an easy, quick blowout.",
+  "transcript_full_english": "So many curly girls get so mad whenever I say that fall is for blowouts. However, it's not that I don't love my curly hair. I mean, God forbid a girl wants to switch it up sometime and have a nice, smooth, silky blowout instead of that! The reason you hear some people saying that fall is for blowouts, me included, is because the humidity is always less, or significantly less at least, in the fall, so it's so much easier to heat style curly hair. And this is because curly hair is always desperate for moisture. So when the humidity is down, it means that our hair won't go sucking up all the moisture. I use a thermal brush to do my blowouts just because I find it is way easier than holding a round brush and a hair dryer. That gets old really fast. And I just pull all the way down, and then once I get to the bottom, I like to give it a little curl at the ends just to have a little bit more volume down there. I mean, just look at the difference that we have so far. That is crazy! And hey, curly hair is for every season, and blowouts can also be for every season. However, they are definitely a lot easier in the fall and winter when there's not so much humidity outside. If you've been wanting to get your hands on this brush, Wavytalk is running their fall sale right now, so I highly recommend grabbing it while it's on sale before it goes back to full price. All right, and here's the finished hair. It looks so smooth and shiny. A thermal brush really is the key to an easy, quick blowout.",
+  "word_count": 257,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 12.3,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting facing camera with half curly hair and half straight hair, gliding the blue thermal brush through a front strand and pointing at her curly side.",
+    "action": "She brushes through a section of hair, twists the brush at the end, and gestures towards her curly, unstyled side.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 23.3,
+    "shot_type": "medium shot",
+    "visual": "Creator continues running the thermal brush through a top hair section and rolls it out.",
+    "action": "Creator details why fall has lower humidity while curling the hair through the thermal barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.3,
+    "end_s": 31.0,
+    "shot_type": "medium shot",
+    "visual": "Creator rolling another section near the crown of her head with the thermal brush.",
+    "action": "She brushes through the roots and glides down to the tips while talking about curly hair and humidity.",
+    "product_visible": true
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 46.5,
+    "shot_type": "medium shot",
+    "visual": "Creator demonstrating her thermal brush technique step by step, pulling down slowly and twisting at the ends.",
+    "action": "She explains replacing a hair dryer and round brush with a thermal brush, then twists the brush to create a flipped curl at the ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 50.0,
+    "shot_type": "medium shot",
+    "visual": "Creator smiling and showing the extreme half-and-half contrast between her brushed side and her frizzy side.",
+    "action": "She shakes her blowout section and beams at the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 50.0,
+    "end_s": 58.0,
+    "shot_type": "medium shot",
+    "visual": "Creator brushing top crown sections with the thermal brush and then taking down the remaining hair.",
+    "action": "She styles the upper layers of her hair with the brush, then puts it down to adjust her hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 58.0,
+    "end_s": 65.5,
+    "shot_type": "medium shot",
+    "visual": "Creator styling her fringe / front pieces with the thermal brush rolling inward.",
+    "action": "She rolls her front bangs forward and backward, mentions the Wavytalk fall sale, and twists the tool out.",
+    "product_visible": true
+   },
+   {
+    "start_s": 65.5,
+    "end_s": 71.9,
+    "shot_type": "medium close-up",
+    "visual": "Finished blowout look on both sides, full, smooth, bouncy curls and flipped ends. Creator holds the blue thermal brush up.",
+    "action": "She runs her fingers through her voluminous styled hair, then holds up the Wavytalk thermal brush and smiles.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator shown with distinct half-curly, half-smooth hair holding a blue thermal round brush at her roots.",
+   "visual_0_3s": "Creator looks into camera while actively smoothing a hair section with the heated round brush, clearly showcasing the side-by-side contrast.",
+   "spoken_0_3s": "So many curly girls get so mad whenever I say that fall is for blowouts.",
+   "text_0_3s": "",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Instant extreme visual split screen on one head (frizzy massive curls on left vs smooth salon blowout on right) combined with a provocative statement targeting curly girls."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Provocative callout: Addressing curly girl criticism about blowouts in fall",
+    "Visual split: Comparing unstyled frizzy side to sleek blowout side",
+    "Educational explanation: Humidity science and why fall makes heat styling easier",
+    "Product comparison: Thermal brush simplicity vs cumbersome blow dryer + round brush",
+    "Tutorial micro-tip: Pull straight down and curl ends for volume",
+    "Social proof / half-face result reveal: Dramatic split view",
+    "Seasonal offer CTA: Wavytalk fall sale announcement",
+    "Final transformation reveal: Glossy, voluminous finished blowout"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "easy_for_beginners",
+    "replaces_multiple_tools",
+    "volume_and_bounce",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Thermal brush is way easier than holding a round brush and a hair dryer simultaneously",
+    "Delivers a smooth, silky blowout on thick curly hair",
+    "Adds bouncy curl and volume at the ends",
+    "Allows easy heat styling without humidity ruining the result"
+   ],
+   "pain_points": [
+    "Tiring and clumsy process of balancing a blow dryer and round brush",
+    "Frizz and curly hair immediately puffing up from humidity",
+    "Guilt/pushback within the curly hair community about heat styling",
+    "Curly hair drying out and soaking up environmental moisture"
+   ],
+   "objections_handled": [
+    "Won't curly hair just frizz back up? Handled by explaining seasonal humidity and proper thermal smoothing",
+    "Is heat styling betrayal of curly hair? Handled by normalizing wanting variety in styling",
+    "Is an at-home blowout too difficult? Handled by demonstrating one-handed thermal brush pass"
+   ],
+   "social_proof": [
+    "Dramatic real-time half-and-half hair visual proof"
+   ],
+   "comparison_to": "Traditional two-handed blowout using a round brush and blow dryer"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 65.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Fall sale discount on the thermal brush",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Grab it while it's on sale before it goes back to full price",
+   "cta_spoken": "I highly recommend grabbing it while it's on sale before it goes back to full price.",
+   "cta_on_screen": "",
+   "cta_at_s": 61.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20s",
+   "hair_before": "Naturally curly, frizzy, high volume, dark brown / brunette",
+   "hair_after": "Smooth, silky, glossy blowout with flipped ends and face-framing layers",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, confident, conversational, educational"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "None, natural speaking audio with room acoustic",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 9.0,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between sections"
+   ],
+   "ending": "Creator smiles, poses showing both sides fully styled, and holds the Wavytalk thermal brush up to the camera."
+  },
+  "notes": "Native English influencer video re-purposed for paid social advertising by Wavytalk. Highly effective visual contrast hook using half-and-half styling technique on textured curly hair."
+ }
+}

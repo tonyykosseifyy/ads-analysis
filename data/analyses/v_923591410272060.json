@@ -1,0 +1,431 @@
+{
+ "media_key": "v_923591410272060",
+ "analyzed_at": "2026-11-27T18:43:06+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "47a29561e43c82f8b40f1d563f447354663aae1a0184bce42bbd62f2c7d5847c",
+ "source": {
+  "kind": "video",
+  "id": "923591410272060",
+  "ig_media_id": "18153142417565364",
+  "permalink": "https://www.instagram.com/p/DeZlTqCsDQ6/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 30.64,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "A Lebanese creator explains why 1.5M people and celebrity stylist Andrew Fitzsimons use the Wavytalk Blowout Boost, offering a 20% discount.",
+  "full_description": "A talking-head UGC style commercial featuring a young Lebanese woman sitting in front of a studio backdrop and in her bathroom. She hooks the audience with social proof (1.5M people styling their hair with Wavytalk Blowout Boost, #1 bestselling hair tool brand on TikTok Shop US), cuts to styling B-roll clips and celebrity hairdresser Andrew Fitzsimons using the thermal brush on a model, demonstrates using it on her own hair in 10 minutes, and concludes with a call to action offering 20% off.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 50,
+    "en": 50,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en",
+    "arabizi"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "1.5 M people عم يعملوا شعرهم هيك كل يوم",
+    "text_english": "1.5 million people are doing their hair like this every day"
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 5.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "with Wavytalk's Blowout Boost.",
+    "text_english": "with Wavytalk's Blowout Boost."
+   },
+   {
+    "start_s": 5.1,
+    "end_s": 9.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And this is why it is the number one bestselling hair tools brand on TikTok Shop in the US.",
+    "text_english": "And this is why it is the number one bestselling hair tools brand on TikTok Shop in the US."
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 13.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "فيك تعملي any hairstyle in mind بـ 10 mins بس.",
+    "text_english": "You can do any hairstyle in mind in just 10 minutes."
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 19.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Even Andrew Fitzsimons, hairdresser تبع the Kardashians و Sydney Sweeney, is using it معهم ليعملهم the perfect hair.",
+    "text_english": "Even Andrew Fitzsimons, hairdresser of the Kardashians and Sydney Sweeney, is using it with them to give them the perfect hair."
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 25.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وإذا the best hairdresser in the world نقاها لـ his clients، يعني أنتوا كمان فيكون شعركم مثلهم.",
+    "text_english": "And if the best hairdresser in the world chose it for his clients, that means your hair can be just like theirs too."
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 30.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Join the 1.5M people using Wavytalk, and order the Blowout Boost for 20% off.",
+    "text_english": "Join the 1.5M people using Wavytalk, and order the Blowout Boost for 20% off."
+   }
+  ],
+  "transcript_full_original": "1.5 M people عم يعملوا شعرهم هيك كل يوم with Wavytalk's Blowout Boost. And this is why it is the number one bestselling hair tools brand on TikTok Shop in the US. فيك تعملي any hairstyle in mind بـ 10 mins بس. Even Andrew Fitzsimons, hairdresser تبع the Kardashians و Sydney Sweeney, is using it معهم ليعملهم the perfect hair. وإذا the best hairdresser in the world نقاها لـ his clients، يعني أنتوا كمان فيكون شعركم مثلهم. Join the 1.5M people using Wavytalk, and order the Blowout Boost for 20% off.",
+  "transcript_full_english": "1.5 million people are doing their hair like this every day with Wavytalk's Blowout Boost. And this is why it is the number one bestselling hair tools brand on TikTok Shop in the US. You can do any hairstyle in mind in just 10 minutes. Even Andrew Fitzsimons, hairdresser of the Kardashians and Sydney Sweeney, is using it with them to give them the perfect hair. And if the best hairdresser in the world chose it for his clients, that means your hair can be just like theirs too. Join the 1.5M people using Wavytalk, and order the Blowout Boost for 20% off.",
+  "word_count": 87,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "text": "1.5 M people",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 3.0,
+    "text": "1.5 M people shaaron hek",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 4.9,
+    "text": "Blowout boost",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 6.1,
+    "text": "w this is why",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.1,
+    "end_s": 7.2,
+    "text": "it is the #1",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.2,
+    "end_s": 8.0,
+    "text": "bestselling hair tools brand",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 8.8,
+    "text": "on TikTok Shop",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.8,
+    "end_s": 9.8,
+    "text": "in the US",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 11.2,
+    "text": "Fike taamle",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 12.3,
+    "text": "any hairstyle",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 13.5,
+    "text": "b 10 mins bas",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 14.8,
+    "text": "Andrew Fitzsimons",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 16.0,
+    "text": "hairdresser tb3",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 17.1,
+    "text": "the kardashians",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.1,
+    "end_s": 18.0,
+    "text": "w Sydney sweeney",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 19.0,
+    "text": "ma3on",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.0,
+    "end_s": 19.8,
+    "text": "the perfect hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 21.0,
+    "text": "W eza",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 21.9,
+    "text": "the best hairdresser in the world",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.9,
+    "end_s": 23.0,
+    "text": "la his clients",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.0,
+    "end_s": 24.0,
+    "text": "yeene ento kmn",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 24.0,
+    "end_s": 24.8,
+    "text": "fi ykoun",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 24.8,
+    "end_s": 25.5,
+    "text": "shaarkon metlon",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 27.2,
+    "text": "the 1.5M people",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 27.2,
+    "end_s": 28.5,
+    "text": "using wavytalk",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 29.8,
+    "text": "blowout boost",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 29.8,
+    "end_s": 30.6,
+    "text": "for 20% off",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.9,
+    "shot_type": "medium close-up",
+    "visual": "A young brunette woman sitting in front of a neutral textured grey background, wearing a light blue ribbed top, talking excitedly to the camera.",
+    "action": "Creator gestures with her fingers pointing to her own styled voluminous hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 4.9,
+    "shot_type": "medium close-up",
+    "visual": "A pink fabric swipe transition reveals the creator holding the pink Wavytalk Blowout Boost thermal brush.",
+    "action": "Creator holds up the Wavytalk Blowout Boost and points at it proudly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 7.8,
+    "shot_type": "medium close-up",
+    "visual": "B-roll clip of another customer with long dark hair styling front sections with a purple Wavytalk thermal brush and inspecting the voluminous blowout result.",
+    "action": "Woman styles her front bangs section and then admires her voluminous, shiny hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 9.8,
+    "shot_type": "medium close-up",
+    "visual": "Back to the main creator holding the pink Blowout Boost in the studio setup.",
+    "action": "Creator talks enthusiastically and gestures while holding the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 13.5,
+    "shot_type": "medium shot",
+    "visual": "Creator in a modern tiled bathroom wearing a grey blazer over a black top, smiling while curling her hair with the pink Blowout Boost.",
+    "action": "She wraps a strand of hair around the brush and gently pulls it through to curl it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 19.8,
+    "shot_type": "medium close-up",
+    "visual": "Viral clip of celebrity hairstylist Andrew Fitzsimons styling a redhead model's crown using the Wavytalk Blowout Boost brush and mini hair dryer.",
+    "action": "Andrew lifts the model's hair with the thermal round brush, fluffs it out with his hands, and poses holding both Wavytalk tools.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 22.8,
+    "shot_type": "medium close-up",
+    "visual": "Main creator back in the studio setting talking directly to the camera.",
+    "action": "Creator gestures with her hands towards herself emphasizing how accessible salon hair is.",
+    "product_visible": false
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 25.5,
+    "shot_type": "medium shot",
+    "visual": "Creator in bathroom setting running her hands through her shiny, styled hair and smiling happily.",
+    "action": "She plays with her styled hair, showing off the bounce and softness.",
+    "product_visible": false
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 30.64,
+    "shot_type": "medium close-up",
+    "visual": "Creator sitting in studio holding the Wavytalk Blowout Boost presenting it to camera.",
+    "action": "Creator gestures with one hand while holding the brush, delivering the final call to action.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera smiling, with large caption '1.5 M people' at the bottom.",
+   "visual_0_3s": "Creator speaks directly into camera, points to her styled glossy hair, then transitions with a pink wipe to reveal the product.",
+   "spoken_0_3s": "1.5 M people عم يعملوا شعرهم هيك كل يوم",
+   "text_0_3s": "1.5 M people shaaron hek",
+   "hook_type": "social_proof",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Dynamic quick pink fabric wipe transition at 0:03 revealing the tool."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Hook with massive social proof (1.5 million people styling their hair daily).",
+    "Product reveal & credentialing (#1 bestselling hair tool brand on TikTok Shop US).",
+    "Speed & convenience benefit (any hairstyle in just 10 minutes).",
+    "Celebrity hairdresser endorsement (Andrew Fitzsimons, stylist to Kardashians & Sydney Sweeney).",
+    "Relatable payoff (if top celebrity stylist chooses it, you can achieve the same salon look).",
+    "CTA with urgency and discount (20% off)."
+   ],
+   "main_angle": "social_proof_popularity",
+   "secondary_angles": [
+    "expert_endorsement",
+    "saves_time",
+    "salon_result_at_home",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "1.5M people use it daily",
+    "#1 bestselling hair tools brand on TikTok Shop US",
+    "Any hairstyle in just 10 minutes",
+    "Used by celebrity stylist Andrew Fitzsimons on stars like the Kardashians and Sydney Sweeney"
+   ],
+   "pain_points": [
+    "Spending too much time styling hair",
+    "Struggling to get professional blowout results at home"
+   ],
+   "objections_handled": [
+    "Is this just hype? (Handled via TikTok Shop #1 bestseller status and celebrity stylist endorsement)"
+   ],
+   "social_proof": [
+    "1.5 million users",
+    "#1 bestselling hair tools brand on TikTok Shop in the US",
+    "Endorsed and used by celebrity stylist Andrew Fitzsimons"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 3.8,
+   "first_used_on_hair_s": 5.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "20% off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Join the 1.5M people using Wavytalk, and order the Blowout Boost for 20% off.",
+   "cta_on_screen": "for 20% off",
+   "cta_at_s": 25.5
+  },
+  "talent": {
+   "people_count": 3,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "Andrew Fitzsimons",
+   "age_range": "20-25",
+   "hair_before": "Already styled, long smooth dark brown blowout with soft curled layers",
+   "hair_after": "Voluminous, shiny salon blowout with curled ends",
+   "setting": "studio",
+   "faces_camera": true,
+   "energy_tone": "confident, bubbly, and enthusiastic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Upbeat, light contemporary pop electronic background beat.",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 3.83,
+   "pacing": "fast",
+   "effects": [
+    "fabric wipe transition",
+    "cut-in zoom",
+    "b-roll inserts"
+   ],
+   "ending": "Creator holding the product and smiling at the camera during CTA."
+  },
+  "notes": "Targeted at Lebanese women (Lebanese dialect mixed with English code-switching). Highlights international TikTok US virality and Hollywood celebrity endorsement to build authority and social proof."
+ }
+}

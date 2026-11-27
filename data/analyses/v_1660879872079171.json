@@ -1,0 +1,401 @@
+{
+ "media_key": "v_1660879872079171",
+ "analyzed_at": "2026-11-27T21:35:34+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "514189997f0e8e2831e0a03a9e67014ef0e0f9d4debd64b8d80ea2555d43165f",
+ "source": {
+  "kind": "video",
+  "id": "1660879872079171",
+  "errors": [
+   "1660879872079171: Gave up after 5 retries: https://graph.facebook.com/v26.0/1660879872079171",
+   "1275067498118759: Gave up after 5 retries: https://graph.facebook.com/v26.0/1275067498118759"
+  ],
+  "ig_media_id": "17966195790238747",
+  "permalink": "https://www.instagram.com/p/DfP-S27saoV/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 71.4,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Lebanese creator shares salon frustration story and demonstrates how Wavytalk thermal brush styles bouncy blowout curls in 15 minutes at home.",
+  "full_description": "A direct-to-camera UGC-style video where a young Lebanese woman relates the common frustration of going to the salon, waiting in traffic, paying money, and coming out dissatisfied with hair results. She introduces the Wavytalk thermal blowout brush as her solution, showing step-by-step curling and smoothing on sections of her long brunette hair. She demonstrates how easy and fast it is (taking maximum 15 minutes for thick hair), reveals the final voluminous salon-like bouncy curls paired with her outfit, and closes with a call to order from Wavytalk with a discount and 30-day money-back guarantee.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 85,
+    "en": 13,
+    "fr": 2
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "كم مرة رحتوا فيها عالصالون رجعتوا وانتي مانك مبسوطة كيف شعرك طلع؟",
+    "text_english": "How many times did you go to the salon and come back not happy with how your hair turned out?"
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 7.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "So من بعد ما تكون أخذت موعد وتكون أخذتلي وقت الطريق",
+    "text_english": "So after having made an appointment and taking time on the road,"
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 9.6,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "وجربت لاقي صفة ونطرت دوري",
+    "text_english": "and tried to find parking and waited for my turn,"
+   },
+   {
+    "start_s": 9.6,
+    "end_s": 12.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "إجي إشرح لها للـ hairdresser كيف بدي يطلع شعري",
+    "text_english": "to explain to the hairdresser how I want my hair to look,"
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 17.6,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "وبعد نص ساعة شغل ما يطلع متل ما أنا بدي. أنه عن جد شي بيزعج كتير.",
+    "text_english": "and after half an hour of work it doesn't turn out how I wanted. It's honestly so annoying."
+   },
+   {
+    "start_s": 17.6,
+    "end_s": 21.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "والفكرة أنا بكون محمسة كتير قبلها وdéjà مقررة الـ outfit وكل شي",
+    "text_english": "And the thing is, I'm super excited beforehand, already picked the outfit and everything,"
+   },
+   {
+    "start_s": 21.7,
+    "end_s": 26.2,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "وضيعت نص ساعة على شعري وما عجبني بالآخر.",
+    "text_english": "and wasted half an hour on my hair, and in the end I don't like it."
+   },
+   {
+    "start_s": 26.2,
+    "end_s": 31.4,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "فقد ما كانت عم بتصير معي، وزيادة أنا شخص بيحب يرتب حاله ع طول، صرت عم نبش على حل.",
+    "text_english": "Because it kept happening to me, plus I'm someone who always likes to look put-together, I started looking for a solution."
+   },
+   {
+    "start_s": 31.4,
+    "end_s": 34.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "لحد ما لقيت this thermal brush.",
+    "text_english": "Until I found this thermal brush."
+   },
+   {
+    "start_s": 34.0,
+    "end_s": 37.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "الحلو بهيدا الـ tool أنه كتير هين استعماله.",
+    "text_english": "The great thing about this tool is that it's so easy to use."
+   },
+   {
+    "start_s": 37.1,
+    "end_s": 40.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Literally بقدر أتخيل الـ hairstyle اللي بدي ياه، أعمله فيه،",
+    "text_english": "Literally whatever hairstyle I picture, I can do with it,"
+   },
+   {
+    "start_s": 40.8,
+    "end_s": 43.6,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "وبقدر أعمله عالقد متل ما أنا بدي.",
+    "text_english": "and I can get it exactly how I want it."
+   },
+   {
+    "start_s": 43.6,
+    "end_s": 46.1,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "وع فكرة كتير سريعة،",
+    "text_english": "And by the way, it's super fast,"
+   },
+   {
+    "start_s": 46.1,
+    "end_s": 50.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "يعني شوفوا قديه شعري عبي، بس بتاخد max 15 minutes لخلصه كله.",
+    "text_english": "I mean look how thick my hair is, but it takes max 15 minutes to finish it all."
+   },
+   {
+    "start_s": 50.7,
+    "end_s": 54.2,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "وماني بقى مضطرة أنطر وادفع وما حب.",
+    "text_english": "And I no longer have to wait and pay and not like the result."
+   },
+   {
+    "start_s": 54.2,
+    "end_s": 57.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "صار فيي أعمل الـ look اللي بدي ياه كل مرة من البيت.",
+    "text_english": "Now I can create whatever look I want every time from home."
+   },
+   {
+    "start_s": 57.9,
+    "end_s": 60.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "ليكو الـ final result!",
+    "text_english": "Look at the final result!"
+   },
+   {
+    "start_s": 60.0,
+    "end_s": 62.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "ليكو الـ outfit والميك اب!",
+    "text_english": "Look at the outfit and the makeup!"
+   },
+   {
+    "start_s": 62.8,
+    "end_s": 65.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وهيدا exactly اللي كان بدي ياه.",
+    "text_english": "And this is exactly what I wanted."
+   },
+   {
+    "start_s": 65.4,
+    "end_s": 68.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وإذا انتي متلي وعبالك هيك look، فيكي تطلبي هالبراش من عند Wavytalk،",
+    "text_english": "And if you're like me and want this look, you can order this brush from Wavytalk,"
+   },
+   {
+    "start_s": 68.6,
+    "end_s": 71.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "عاملين عليها discount هلا مع 30 days return guarantee.",
+    "text_english": "they currently have a discount on it with a 30-day return guarantee."
+   }
+  ],
+  "transcript_full_original": "كم مرة رحتوا فيها عالصالون رجعتوا وانتي مانك مبسوطة كيف شعرك طلع؟ So من بعد ما تكون أخذت موعد وتكون أخذتلي وقت الطريق وجربت لاقي صفة ونطرت دوري إجي إشرح لها للـ hairdresser كيف بدي يطلع شعري وبعد نص ساعة شغل ما يطلع متل ما أنا بدي. أنه عن جد شي بيزعج كتير. والفكرة أنا بكون محمسة كتير قبلها وdéjà مقررة الـ outfit وكل شي وضيعت نص ساعة على شعري وما عجبني بالآخر. فقد ما كانت عم بتصير معي، وزيادة أنا شخص بيحب يرتب حاله ع طول، صرت عم نبش على حل. لحد ما لقيت this thermal brush. الحلو بهيدا الـ tool أنه كتير هين استعماله. Literally بقدر أتخيل الـ hairstyle اللي بدي ياه، أعمله فيه، وبقدر أعمله عالقد متل ما أنا بدي. وع فكرة كتير سريعة، يعني شوفوا قديه شعري عبي، بس بتاخد max 15 minutes لخلصه كله. وماني بقى مضطرة أنطر وادفع وما حب. صار فيي أعمل الـ look اللي بدي ياه كل مرة من البيت. ليكو الـ final result! ليكو الـ outfit والميك اب! وهيدا exactly اللي كان بدي ياه. وإذا انتي متلي وعبالك هيك look، فيكي تطلبي هالبراش من عند Wavytalk، عاملين عليها discount هلا مع 30 days return guarantee.",
+  "transcript_full_english": "How many times did you go to the salon and come back not happy with how your hair turned out? So after having made an appointment and taking time on the road, and tried to find parking and waited for my turn, to explain to the hairdresser how I want my hair to look, and after half an hour of work it doesn't turn out how I wanted. It's honestly so annoying. And the thing is, I'm super excited beforehand, already picked the outfit and everything, and wasted half an hour on my hair, and in the end I don't like it. Because it kept happening to me, plus I'm someone who always likes to look put-together, I started looking for a solution. Until I found this thermal brush. The great thing about this tool is that it's so easy to use. Literally whatever hairstyle I picture, I can do with it, and I can get it exactly how I want it. And by the way, it's super fast, I mean look how thick my hair is, but it takes max 15 minutes to finish it all. And I no longer have to wait and pay and not like the result. Now I can create whatever look I want every time from home. Look at the final result! Look at the outfit and the makeup! And this is exactly what I wanted. And if you're like me and want this look, you can order this brush from Wavytalk, they currently have a discount on it with a 30-day return guarantee.",
+  "word_count": 182,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator in room talking directly to camera while brushing her hair with a pink detangling brush.",
+    "action": "Creator gestures while brushing her hair and asking a relatable question about salon dissatisfaction.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 12.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the pink Wavytalk thermal round brush and winding a strand of hair around it while talking.",
+    "action": "Creator begins demonstrating the thermal brush on a lower hair section while venting about salon appointment hassles.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 16.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator talks directly to camera with open hands expressing frustration.",
+    "action": "Creator gestures and explains the feeling of paying and leaving dissatisfied.",
+    "product_visible": false
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 22.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator continues rolling hair with the thermal round brush.",
+    "action": "Creator curls another section smoothly from root to end.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 24.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator talks to camera about prepping her outfit and being excited before salon visits.",
+    "action": "Creator addresses viewer passionately.",
+    "product_visible": false
+   },
+   {
+    "start_s": 24.0,
+    "end_s": 31.0,
+    "shot_type": "close-up",
+    "visual": "Creator twirling the brush slowly through her thick dark hair.",
+    "action": "Creator glides the thermal brush down hair strand, creating a defined curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 43.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling upper sections near her crown, holding the brush in place and slowly releasing.",
+    "action": "Creator explains how easy the tool is while releasing a polished bouncy curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 43.5,
+    "end_s": 57.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator curls the remaining front layers and explains speed and convenience.",
+    "action": "Creator styles top hair section, rotates brush, and lets curls drop seamlessly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 57.8,
+    "end_s": 60.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator shakes out full blowout hair, voluminous and curled.",
+    "action": "Creator flips hair and shows off silky, bouncy blowout result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 60.0,
+    "end_s": 62.5,
+    "shot_type": "full body",
+    "visual": "Creator steps back showing full outfit (cream knit top and dark denim wide-leg jeans).",
+    "action": "Creator spins and poses showcasing the total look.",
+    "product_visible": false
+   },
+   {
+    "start_s": 62.5,
+    "end_s": 66.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator smiling closely at the camera with finished styled hair.",
+    "action": "Creator smiles, plays with bouncy hair curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 66.0,
+    "end_s": 71.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding up the pink Wavytalk thermal brush next to her styled hair.",
+    "action": "Creator points to the brush, explains discount offer and 30-day guarantee.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator brushing dark hair looking into camera asking a provocative question.",
+   "visual_0_3s": "Creator brushing hair with pink paddle brush, speaking emotionally directly into the phone lens.",
+   "spoken_0_3s": "كم مرة رحتوا فيها عالصالون رجعتوا وانتي مانك مبسوطة كيف شعرك طلع؟",
+   "text_0_3s": "",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "question",
+   "pattern_interrupt": "Relatable emotional question addressing universal hair salon disappointment right at frame 0."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Relatable hook calling out salon appointment disappointment and wasted time/money",
+    "Personal story of searching for a reliable solution",
+    "Introduction of the Wavytalk thermal round brush tool",
+    "Live demonstration of ease of use and speed (15 minutes on thick hair)",
+    "Final look reveal with outfit and makeup",
+    "Call to action with brand mention, discount, and 30-day money-back guarantee"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "easy_for_beginners",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Takes maximum 15 minutes to style full head of thick hair",
+    "Recreates exact custom salon hairstyles at home",
+    "Super easy to use"
+   ],
+   "pain_points": [
+    "Booking salon appointments, dealing with traffic and parking",
+    "Waiting for turns at salons",
+    "Hairdresser not understanding the desired style",
+    "Paying money and ending up unsatisfied with hair"
+   ],
+   "objections_handled": [
+    "Hard to style thick hair (she shows her dense hair done in 15 mins)",
+    "Risk of purchasing online (handled by 30-day return guarantee)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Professional hair salons and hairdressers"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 3.7,
+   "first_used_on_hair_s": 4.0,
+   "final_result_shown_s": 57.9,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Discount currently available",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "هلا (now)",
+   "cta_spoken": "فيكي تطلبي هالبراش من عند Wavytalk عاملين عليها discount هلا مع 30 days return guarantee",
+   "cta_on_screen": "",
+   "cta_at_s": 65.4
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, thick dark brown/black unstyled hair clipped up",
+   "hair_after": "Voluminous, shiny, bouncy curled blowout",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, expressive, upbeat, persuasive"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "None, natural creator voice audio only",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 11,
+   "avg_shot_length_s": 6.5,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between styling steps and talking head sections"
+   ],
+   "ending": "Creator holding thermal brush smiling into camera explaining discount and guarantee"
+  },
+  "notes": "Classic organic storytelling UGC hook highlighting salon frustration before demonstrating the Wavytalk thermal brush. High authenticity with no background music or artificial graphics."
+ }
+}

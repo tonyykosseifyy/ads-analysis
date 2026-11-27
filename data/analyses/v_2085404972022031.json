@@ -1,0 +1,332 @@
+{
+ "media_key": "v_2085404972022031",
+ "analyzed_at": "2026-11-27T19:49:34+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "179592be72411f1deae04089e597c2dc1073ddf6bf040208ca1dfd134914cb5d",
+ "source": {
+  "kind": "video",
+  "id": "2085404972022031",
+  "errors": [
+   "2085404972022031: Gave up after 5 retries: https://graph.facebook.com/v26.0/2085404972022031",
+   "1345996460310643: Gave up after 5 retries: https://graph.facebook.com/v26.0/1345996460310643"
+  ],
+  "ig_media_id": "18100528061135679",
+  "permalink": "https://www.instagram.com/p/DZmYVGyjIzX/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 59.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator demonstrates how the WavyTalk Blowout Boost thermal brush gives her a salon-quality blowout at home in five minutes per side.",
+  "full_description": "A young Lebanese female creator speaks directly to camera in her room, addressing people with frizzy or curly hair. She introduces the pink WavyTalk thermal brush (Blowout Boost) and showcases how it replaces salon blowouts. She demonstrates rolling sections of her hair around the heated barrel, shows a side-by-side halfway comparison, and uses her phone clock to prove that styling the remaining side takes only five minutes. She fluffs her voluminous, smooth blowout and ends by noting the 20% discount and 30-day return guarantee.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 65,
+    "en": 35,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "If you have curly or frizzy hair, رح فرجيكي الـ tool يلي رح تعطيكي",
+    "text_english": "If you have curly or frizzy hair, I'm going to show you the tool that will give you"
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 5.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "the perfect blowout from home.",
+    "text_english": "the perfect blowout from home."
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 12.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Wavytalk هي thermal brush حتخليكي تستغني عن الـ blowout تبع الصالون وتقدري تعمليه from home.",
+    "text_english": "Wavytalk is a thermal brush that will let you dispense with salon blowouts and be able to do it from home."
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 17.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Usually أكتر شي بيعذبني بس بدي حضّر حالي هو إنو زبّط شعري.",
+    "text_english": "Usually the thing that bothers me the most when I want to get ready is styling my hair."
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 26.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وما فيي خبّركن هيدي الـ thermal brush قديه وفّرت عليّ وقت وروحات ع الصالون، لأنو ليكو الـ result قديه حلو بيعقّد، وأنجق بياخد وقت.",
+    "text_english": "And I can't tell you how much time and trips to the salon this thermal brush saved me, because look at how gorgeous the result is, it's stunning, and it barely takes any time."
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 32.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Halfway through، بحس الفرق واضح، ما لازم إحكي شي.",
+    "text_english": "Halfway through, I feel the difference is obvious, I don't need to say anything."
+   },
+   {
+    "start_s": 32.5,
+    "end_s": 37.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "هلق الساعة 5:49، رح خلّص هيدي الميلة ونشوف قديه رح تاخد وقت.",
+    "text_english": "Right now it's 5:49, I'm going to finish this side and see how long it takes."
+   },
+   {
+    "start_s": 39.5,
+    "end_s": 45.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "الساعة 5:54، يعني بس أخدوا معي خمس دقايق لعملت هيدي الميلة من شعري.",
+    "text_english": "It's 5:54, which means it only took me five minutes to do this side of my hair."
+   },
+   {
+    "start_s": 45.5,
+    "end_s": 50.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "شوفوا شعراتي قديه حلوين! Literally salon blowout بس from home.",
+    "text_english": "Look at how pretty my hair is! Literally a salon blowout, but from home."
+   },
+   {
+    "start_s": 50.5,
+    "end_s": 54.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Honestly can't recommend this enough, I love this tool.",
+    "text_english": "Honestly can't recommend this enough, I love this tool."
+   },
+   {
+    "start_s": 54.0,
+    "end_s": 59.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "و by the way, it's 20% off right now with 30-day return, so there's no reason not to try it.",
+    "text_english": "And by the way, it's 20% off right now with a 30-day return, so there's no reason not to try it."
+   }
+  ],
+  "transcript_full_original": "If you have curly or frizzy hair, رح فرجيكي الـ tool يلي رح تعطيكي the perfect blowout from home. Wavytalk هي thermal brush حتخليكي تستغني عن الـ blowout تبع الصالون وتقدري تعمليه from home. Usually أكتر شي بيعذبني بس بدي حضّر حالي هو إنو زبّط شعري. وما فيي خبّركن هيدي الـ thermal brush قديه وفّرت عليّ وقت وروحات ع الصالون، لأنو ليكو الـ result قديه حلو بيعقّد، وأنجق بياخد وقت. Halfway through، بحس الفرق واضح، ما لازم إحكي شي. هلق الساعة 5:49، رح خلّص هيدي الميلة ونشوف قديه رح تاخد وقت. الساعة 5:54، يعني بس أخدوا معي خمس دقايق لعملت هيدي الميلة من شعري. شوفوا شعراتي قديه حلوين! Literally salon blowout بس from home. Honestly can't recommend this enough, I love this tool. و by the way, it's 20% off right now with 30-day return, so there's no reason not to try it.",
+  "transcript_full_english": "If you have curly or frizzy hair, I'm going to show you the tool that will give you the perfect blowout from home. Wavytalk is a thermal brush that will let you dispense with salon blowouts and be able to do it from home. Usually the thing that bothers me the most when I want to get ready is styling my hair. And I can't tell you how much time and trips to the salon this thermal brush saved me, because look at how gorgeous the result is, it's stunning, and it barely takes any time. Halfway through, I feel the difference is obvious, I don't need to say anything. Right now it's 5:49, I'm going to finish this side and see how long it takes. It's 5:54, which means it only took me five minutes to do this side of my hair. Look at how pretty my hair is! Literally a salon blowout, but from home. Honestly can't recommend this enough, I love this tool. And by the way, it's 20% off right now with a 30-day return, so there's no reason not to try it.",
+  "word_count": 139,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing camera with natural unstyled wavy hair in a bedroom setting.",
+    "action": "Speaks to camera introducing the solution for frizzy/curly hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 3.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the pink WavyTalk thermal brush.",
+    "action": "Displays the brush directly to the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 5.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the brush next to her hair, which is already smoothly blown out on one side.",
+    "action": "Smiles and shows the polished blowout result.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 12.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the brush horizontally, pointing to the barrel.",
+    "action": "Explains that it is a thermal brush that eliminates salon visits.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 21.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling a section of her hair around the barrel.",
+    "action": "Demonstrates winding a hair strand around the heated brush and slowly releasing it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.5,
+    "end_s": 26.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator admires the bouncy curl produced by the brush.",
+    "action": "Gives a thumbs up and points to the smooth, curled strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 28.5,
+    "shot_type": "medium close-up",
+    "visual": "Quick cut of creator styling the top front crown section with the brush.",
+    "action": "Rolls the top bangs section around the brush barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 32.5,
+    "shot_type": "medium close-up",
+    "visual": "Half-and-half comparison: left side smooth and styled, right side natural and frizzy.",
+    "action": "Gestures to both sides showing the clear contrast.",
+    "product_visible": false
+   },
+   {
+    "start_s": 32.5,
+    "end_s": 37.0,
+    "shot_type": "close-up",
+    "visual": "Creator holds up her iPhone screen showing the lock screen time 17:49 (5:49 PM).",
+    "action": "Shows time to start a timed styling test on the remaining side.",
+    "product_visible": false
+   },
+   {
+    "start_s": 37.0,
+    "end_s": 39.5,
+    "shot_type": "medium close-up",
+    "visual": "Timelapse / fast-forward of creator brushing and wrapping hair around the thermal brush.",
+    "action": "Quickly styles the second half of her hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 39.5,
+    "end_s": 42.5,
+    "shot_type": "close-up",
+    "visual": "Creator shows her iPhone screen again displaying 17:54 (5:54 PM).",
+    "action": "Proves that the styling took exactly 5 minutes.",
+    "product_visible": false
+   },
+   {
+    "start_s": 42.5,
+    "end_s": 50.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator runs both hands through her fully styled, voluminous blowout.",
+    "action": "Fluffs and shakes hair, showcasing shine and bouncy ends.",
+    "product_visible": false
+   },
+   {
+    "start_s": 50.5,
+    "end_s": 59.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the WavyTalk Blowout Boost brush alongside her styled hair.",
+    "action": "Delivers final praise, details the 20% discount and 30-day return policy.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Young woman with natural frizzy brunette hair speaking to camera with a wireless mic pinned to her top.",
+   "visual_0_3s": "Fast cuts between creator talking, holding up the pink thermal brush, and showing a flawless salon blowout on one side.",
+   "spoken_0_3s": "If you have curly or frizzy hair رح فرجيكي الـ tool يلي رح تعطيكي the perfect blowout from home.",
+   "text_0_3s": "",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Quick jump cut at 1.8s showing the physical hot pink brush followed immediately by a gorgeous side-result preview."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Targeted hook addressing curly/frizzy hair",
+    "Tool introduction as an alternative to salon blowouts",
+    "Relatable pain point: styling hair takes effort and time",
+    "Live styling demo & half-hair comparison",
+    "Timed phone challenge (5 minutes per side)",
+    "Full final result display & fluff test",
+    "Offer & risk-reversal guarantee"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "frizz_or_curly_solution",
+    "easy_for_beginners",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Delivers the perfect salon blowout from home",
+    "Replaces salon blowouts",
+    "Saves significant time and trips to the salon",
+    "Takes only five minutes per side"
+   ],
+   "pain_points": [
+    "Hair styling is exhausting when getting ready",
+    "Frizzy or curly hair is difficult to tame at home",
+    "Spending too much money and time visiting salons"
+   ],
+   "objections_handled": [
+    "Takes too long: demonstrated in real-time with phone clock showing 5-minute duration",
+    "Hard to use: demonstrated simple one-handed wrapping technique",
+    "Buyer risk: addressed with a 30-day return policy"
+   ],
+   "social_proof": [],
+   "comparison_to": "hairdresser / hair salon blowout"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush (Pink)"
+   ],
+   "first_seen_s": 1.8,
+   "first_used_on_hair_s": 13.0,
+   "final_result_shown_s": 3.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "20% off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "right now",
+   "cta_spoken": "there's no reason not to try it",
+   "cta_on_screen": "",
+   "cta_at_s": 57.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, naturally wavy, somewhat frizzy brunette hair with warm brown ends.",
+   "hair_after": "Smooth, glossy, bouncy salon blowout with curled ends and lifted roots.",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, vibrant, enthusiastic, conversational UGC"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat instrumental pop playing quietly beneath creator's speech.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 11,
+   "avg_shot_length_s": 5.4,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts",
+    "timelapse speed ramp"
+   ],
+   "ending": "Creator smiles holding the product next to her face while pitching the 20% discount and 30-day return."
+  },
+  "notes": "Classic UGC demonstration structure enhanced by an authentic timestamp proof mechanic (showing iPhone lock screen before and after styling to substantiate the 5-minute claim). No text graphics or burned-in subtitles used."
+ }
+}

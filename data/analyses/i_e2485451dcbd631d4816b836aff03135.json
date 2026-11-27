@@ -1,0 +1,135 @@
+{
+ "media_key": "i_e2485451dcbd631d4816b836aff03135",
+ "analyzed_at": "2026-11-27T18:36:21+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "bd48fa6a2af16abc60010e55e7f7a68a9cb36b5e996e43d0eb1f7a60a1298edf",
+ "source": {
+  "kind": "image",
+  "id": "e2485451dcbd631d4816b836aff03135"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Static studio ad featuring a smiling model holding up the pink WavyTalk Blowout Boost thermal brush with an iOS reminder notification overlay.",
+  "full_description": "A vertical static creative set against a vibrant purple studio background with overhead lens flares. A brunette model in a black strapless top smiles softly in the background while extending the light pink WavyTalk Blowout Boost thermal brush toward the camera in sharp focus. An Apple-style popup reminder card is positioned at the lower center, reading 'Reminder: This is your sign to upgrade your hair routine!' with two pink action buttons: 'Let's do it!' and 'I'm on it!'.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Reminder\nThis is your sign to upgrade your hair routine!\nLet's do it! | I'm on it!",
+    "role": "hook"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK",
+    "role": "brand"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "medium close-up",
+    "visual": "A smiling young brunette woman in a black off-shoulder outfit stands in front of a purple studio backdrop with twin overhead spotlights. She holds the pink WavyTalk thermal brush in sharp focus towards the lens. An iOS-style notification card is centered over her chest.",
+    "action": "Static pose presenting the thermal brush forward to the viewer.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Model presenting the pink WavyTalk thermal round brush with a phone reminder notification graphic overlay.",
+   "visual_0_3s": "Model presenting the pink WavyTalk thermal round brush with a phone reminder notification graphic overlay.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Reminder: This is your sign to upgrade your hair routine!",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "product_reveal",
+   "pattern_interrupt": "Faux smartphone reminder UI notification popup on screen."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Direct call-to-action reminder prompt encouraging the viewer to upgrade their hair routine using the WavyTalk thermal brush."
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "This is your sign to upgrade your hair routine"
+   ],
+   "pain_points": [
+    "Outdated or tedious hair styling routines"
+   ],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "Let's do it! / I'm on it!",
+   "cta_at_s": 0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "model",
+   "name_if_shown": "",
+   "age_range": "20-28",
+   "hair_before": "long smooth dark brown blowout",
+   "hair_after": "long smooth dark brown blowout",
+   "setting": "studio",
+   "faces_camera": true,
+   "energy_tone": "friendly and aspirational"
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "professional_studio",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "medium",
+   "effects": [
+    "phone UI widget overlay",
+    "studio lens flare lighting"
+   ],
+   "ending": "Static image frame"
+  },
+  "notes": "Static image ad tailored for Meta Stories/Reels placements using the popular social media 'Reminder widget' psychological hook format."
+ }
+}

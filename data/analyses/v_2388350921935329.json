@@ -1,0 +1,529 @@
+{
+ "media_key": "v_2388350921935329",
+ "analyzed_at": "2026-11-27T18:45:40+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "51b739a3f05997aa76c2a8872d767e4ed13806a8e2bee53f4bb18e287d05f6b1",
+ "source": {
+  "kind": "video",
+  "id": "2388350921935329",
+  "video_id": "2416209558787464",
+  "length_s": 173.933,
+  "permalink": "/23849366283980795/videos/2416209558787464/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [
+  "longer_than_2_min"
+ ],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 173.3,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator tests the Wavytalk steam hair straightening brush on her 3C curly hair, showing the step-by-step process and achieving sleek straight results in 17 minutes.",
+  "full_description": "A curly-haired creator tests the Wavytalk steam straightening brush (Steambrush Pro) to see if steam can straighten her 3C curly hair. She unboxes the accessories (scrunchie, salon hair clips, heat glove, water dropper bottle, cleaning brush), fills the water reservoir, applies heat protectant, and brushes through sections of her curls. Shocked by how straight, shiny, and frizz-free her hair becomes after just a few passes, she tracks her time on her phone stopwatch, finishing her entire head in 17 minutes, comparing the result and speed favorably against the Revlon blow-dry brush.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm going to attempt to straighten my curly hair using steam.",
+    "text_english": "I'm going to attempt to straighten my curly hair using steam."
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 7.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This claims to take my hair from this to pin straight hair, so we're going to put it to the test today.",
+    "text_english": "This claims to take my hair from this to pin straight hair, so we're going to put it to the test today."
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 15.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Comes with a scrunchie with two salon style hair clips, glove which is scaring me because that means this is going to be hot,",
+    "text_english": "Comes with a scrunchie with two salon style hair clips, glove which is scaring me because that means this is going to be hot,"
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 21.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "a brush and a tube to take this out. Fill this with some water.",
+    "text_english": "a brush and a tube to take this out. Fill this with some water."
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 24.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I've seen so many girls use this and this was their result, so I'm expecting exactly that.",
+    "text_english": "I've seen so many girls use this and this was their result, so I'm expecting exactly that."
+   },
+   {
+    "start_s": 24.8,
+    "end_s": 29.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's see how good it can take my 3C hair into straight hair. Put it back into the brush.",
+    "text_english": "Let's see how good it can take my 3C hair into straight hair. Put it back into the brush."
+   },
+   {
+    "start_s": 29.8,
+    "end_s": 33.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And it said for 3C hair to put the heat at 410.",
+    "text_english": "And it said for 3C hair to put the heat at 410."
+   },
+   {
+    "start_s": 33.1,
+    "end_s": 40.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Still going to use a heat protectant, and I love this one from Pureology because not only does it protect from the heat, but it has so many other benefits.",
+    "text_english": "Still going to use a heat protectant, and I love this one from Pureology because not only does it protect from the heat, but it has so many other benefits."
+   },
+   {
+    "start_s": 40.0,
+    "end_s": 46.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Here we go. Ooh, I'm scared.",
+    "text_english": "Here we go. Ooh, I'm scared."
+   },
+   {
+    "start_s": 46.2,
+    "end_s": 49.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Wait, for the first round, that's actually not bad.",
+    "text_english": "Wait, for the first round, that's actually not bad."
+   },
+   {
+    "start_s": 49.7,
+    "end_s": 55.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Ooh, I can see why I would need a glove, because my hair is so hot. I don't know if you can hear it.",
+    "text_english": "Ooh, I can see why I would need a glove, because my hair is so hot. I don't know if you can hear it."
+   },
+   {
+    "start_s": 55.6,
+    "end_s": 59.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I only went on it twice. This is actually insane.",
+    "text_english": "I only went on it twice. This is actually insane."
+   },
+   {
+    "start_s": 59.9,
+    "end_s": 66.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm going to set a timer because I want to see how long this actually takes me. My hand is actually burning. Oh my god, I feel so professional.",
+    "text_english": "I'm going to set a timer because I want to see how long this actually takes me. My hand is actually burning. Oh my god, I feel so professional."
+   },
+   {
+    "start_s": 66.8,
+    "end_s": 75.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This time, I'm going to try taking a bigger section, put the brush right at my roots and kind of push and add some resistance to it.",
+    "text_english": "This time, I'm going to try taking a bigger section, put the brush right at my roots and kind of push and add some resistance to it."
+   },
+   {
+    "start_s": 75.8,
+    "end_s": 80.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "For the first stroke, this is actually insane.",
+    "text_english": "For the first stroke, this is actually insane."
+   },
+   {
+    "start_s": 80.4,
+    "end_s": 85.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "After going over it maybe three or four times, look at how shiny my hair looks.",
+    "text_english": "After going over it maybe three or four times, look at how shiny my hair looks."
+   },
+   {
+    "start_s": 85.0,
+    "end_s": 89.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "For something that uses steam, this is actually super impressive. I was not waiting for these results.",
+    "text_english": "For something that uses steam, this is actually super impressive. I was not waiting for these results."
+   },
+   {
+    "start_s": 89.9,
+    "end_s": 93.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Always reapplying heat protectant because even though it's steam, girl, this is still heat.",
+    "text_english": "Always reapplying heat protectant because even though it's steam, girl, this is still heat."
+   },
+   {
+    "start_s": 93.9,
+    "end_s": 97.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I really don't feel like I'm straightening my hair for some reason.",
+    "text_english": "I really don't feel like I'm straightening my hair for some reason."
+   },
+   {
+    "start_s": 97.9,
+    "end_s": 107.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The water is almost gone. We filled it up to the top and it's here. I'm going to refill the water. I think because I leave it on that the water just goes by quickly.",
+    "text_english": "The water is almost gone. We filled it up to the top and it's here. I'm going to refill the water. I think because I leave it on that the water just goes by quickly."
+   },
+   {
+    "start_s": 107.0,
+    "end_s": 115.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's been 10 minutes and my hair is halfway done. This is so silky smooth.",
+    "text_english": "It's been 10 minutes and my hair is halfway done. This is so silky smooth."
+   },
+   {
+    "start_s": 115.0,
+    "end_s": 122.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "From this to this in only three strokes is actually out of this world. I'm going through this hair so fast.",
+    "text_english": "From this to this in only three strokes is actually out of this world. I'm going through this hair so fast."
+   },
+   {
+    "start_s": 122.5,
+    "end_s": 126.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is kind of like the Revlon brush and a straightener in one.",
+    "text_english": "This is kind of like the Revlon brush and a straightener in one."
+   },
+   {
+    "start_s": 126.9,
+    "end_s": 131.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Finally in my last section. Crazy, because look how straight my hair is.",
+    "text_english": "Finally in my last section. Crazy, because look how straight my hair is."
+   },
+   {
+    "start_s": 131.8,
+    "end_s": 144.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Pro tip: when you get to the forehead, don't do this, because I just burned the hell out of my forehead with the steam. So go from the bottom up and let the steam blow out from on top, because girl, I almost died.",
+    "text_english": "Pro tip: when you get to the forehead, don't do this, because I just burned the hell out of my forehead with the steam. So go from the bottom up and let the steam blow out from on top, because girl, I almost died."
+   },
+   {
+    "start_s": 144.1,
+    "end_s": 148.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I have no words other than wow, because...",
+    "text_english": "I have no words other than wow, because..."
+   },
+   {
+    "start_s": 148.8,
+    "end_s": 153.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Tell me why this took me 17 minutes to do my hair?",
+    "text_english": "Tell me why this took me 17 minutes to do my hair?"
+   },
+   {
+    "start_s": 153.2,
+    "end_s": 159.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "17 minutes with a Revlon brush would have taken me to the second step.",
+    "text_english": "17 minutes with a Revlon brush would have taken me to the second step."
+   },
+   {
+    "start_s": 159.8,
+    "end_s": 166.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You have no idea how silky smooth my hair feels right now. Like, look at that shine.",
+    "text_english": "You have no idea how silky smooth my hair feels right now. Like, look at that shine."
+   },
+   {
+    "start_s": 166.5,
+    "end_s": 173.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "For 80 Canadian dollars, this is actually insane, because tell me why it gave me salon results.",
+    "text_english": "For 80 Canadian dollars, this is actually insane, because tell me why it gave me salon results."
+   }
+  ],
+  "transcript_full_original": "I'm going to attempt to straighten my curly hair using steam. This claims to take my hair from this to pin straight hair, so we're going to put it to the test today. Comes with a scrunchie with two salon style hair clips, glove which is scaring me because that means this is going to be hot, a brush and a tube to take this out. Fill this with some water. I've seen so many girls use this and this was their result, so I'm expecting exactly that. Let's see how good it can take my 3C hair into straight hair. Put it back into the brush. And it said for 3C hair to put the heat at 410. Still going to use a heat protectant, and I love this one from Pureology because not only does it protect from the heat, but it has so many other benefits. Here we go. Ooh, I'm scared. Wait, for the first round, that's actually not bad. Ooh, I can see why I would need a glove, because my hair is so hot. I don't know if you can hear it. I only went on it twice. This is actually insane. I'm going to set a timer because I want to see how long this actually takes me. My hand is actually burning. Oh my god, I feel so professional. This time, I'm going to try taking a bigger section, put the brush right at my roots and kind of push and add some resistance to it. For the first stroke, this is actually insane. After going over it maybe three or four times, look at how shiny my hair looks. For something that uses steam, this is actually super impressive. I was not waiting for these results. Always reapplying heat protectant because even though it's steam, girl, this is still heat. I really don't feel like I'm straightening my hair for some reason. The water is almost gone. We filled it up to the top and it's here. I'm going to refill the water. I think because I leave it on that the water just goes by quickly. It's been 10 minutes and my hair is halfway done. This is so silky smooth. From this to this in only three strokes is actually out of this world. I'm going through this hair so fast. This is kind of like the Revlon brush and a straightener in one. Finally in my last section. Crazy, because look how straight my hair is. Pro tip: when you get to the forehead, don't do this, because I just burned the hell out of my forehead with the steam. So go from the bottom up and let the steam blow out from on top, because girl, I almost died. I have no words other than wow, because... Tell me why this took me 17 minutes to do my hair? 17 minutes with a Revlon brush would have taken me to the second step. You have no idea how silky smooth my hair feels right now. Like, look at that shine. For 80 Canadian dollars, this is actually insane, because tell me why it gave me salon results.",
+  "transcript_full_english": "I'm going to attempt to straighten my curly hair using steam. This claims to take my hair from this to pin straight hair, so we're going to put it to the test today. Comes with a scrunchie with two salon style hair clips, glove which is scaring me because that means this is going to be hot, a brush and a tube to take this out. Fill this with some water. I've seen so many girls use this and this was their result, so I'm expecting exactly that. Let's see how good it can take my 3C hair into straight hair. Put it back into the brush. And it said for 3C hair to put the heat at 410. Still going to use a heat protectant, and I love this one from Pureology because not only does it protect from the heat, but it has so many other benefits. Here we go. Ooh, I'm scared. Wait, for the first round, that's actually not bad. Ooh, I can see why I would need a glove, because my hair is so hot. I don't know if you can hear it. I only went on it twice. This is actually insane. I'm going to set a timer because I want to see how long this actually takes me. My hand is actually burning. Oh my god, I feel so professional. This time, I'm going to try taking a bigger section, put the brush right at my roots and kind of push and add some resistance to it. For the first stroke, this is actually insane. After going over it maybe three or four times, look at how shiny my hair looks. For something that uses steam, this is actually super impressive. I was not waiting for these results. Always reapplying heat protectant because even though it's steam, girl, this is still heat. I really don't feel like I'm straightening my hair for some reason. The water is almost gone. We filled it up to the top and it's here. I'm going to refill the water. I think because I leave it on that the water just goes by quickly. It's been 10 minutes and my hair is halfway done. This is so silky smooth. From this to this in only three strokes is actually out of this world. I'm going through this hair so fast. This is kind of like the Revlon brush and a straightener in one. Finally in my last section. Crazy, because look how straight my hair is. Pro tip: when you get to the forehead, don't do this, because I just burned the hell out of my forehead with the steam. So go from the bottom up and let the steam blow out from on top, because girl, I almost died. I have no words other than wow, because... Tell me why this took me 17 minutes to do my hair? 17 minutes with a Revlon brush would have taken me to the second step. You have no idea how silky smooth my hair feels right now. Like, look at that shine. For 80 Canadian dollars, this is actually insane, because tell me why it gave me salon results.",
+  "word_count": 472,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 7.3,
+    "text": "Will STEAM strighten my Curlyhair?",
+    "role": "hook"
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 24.3,
+    "text": "its in my link in bio!!",
+    "role": "other"
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 24.3,
+    "text": "Don't listen to that devil on your shoulder",
+    "role": "other"
+   },
+   {
+    "start_s": 160.0,
+    "end_s": 173.3,
+    "text": "Link in bio for the Wavytalk brush",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 7.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the pink Wavytalk steam straightening brush while showing her natural 3C curls.",
+    "action": "Points to the brush and sets up the challenge of testing if steam can straighten her hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 17.5,
+    "shot_type": "close-up",
+    "visual": "Included accessories displayed to the camera.",
+    "action": "Creator unboxes and showcases the pink scrunchie, black styling clips, heat-resistant glove, water bottle, and cleaning brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 21.0,
+    "shot_type": "close-up",
+    "visual": "Water tank refill.",
+    "action": "Creator opens the water dropper bottle and pours water into the tool's detachable reservoir.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 24.5,
+    "shot_type": "split-screen / screen recording overlay",
+    "visual": "TikTok screenshots of other creators showing their straight hair results using the Wavytalk steam brush.",
+    "action": "Creator references social proof that inspired her to try it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 33.1,
+    "shot_type": "close-up",
+    "visual": "Product setup and temperature setting.",
+    "action": "Refills reservoir, clicks it into the brush, and points to the 410-degree indicator light.",
+    "product_visible": true
+   },
+   {
+    "start_s": 33.1,
+    "end_s": 39.8,
+    "shot_type": "medium close-up",
+    "visual": "Hair prep.",
+    "action": "Creator sprays Pureology heat protectant all over her hair before styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 39.8,
+    "end_s": 49.7,
+    "shot_type": "medium close-up",
+    "visual": "First pass on curly hair.",
+    "action": "Creator passes the steam brush through a small curly section, revealing straight hair in disbelief.",
+    "product_visible": true
+   },
+   {
+    "start_s": 49.7,
+    "end_s": 59.5,
+    "shot_type": "close-up",
+    "visual": "Steam demonstration.",
+    "action": "Runs brush through section again, shows steam emitting from the vents, and displays smooth straightened section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 59.5,
+    "end_s": 66.8,
+    "shot_type": "medium close-up",
+    "visual": "Timer and prep.",
+    "action": "Creator starts phone stopwatch, puts on the black protective glove, and prepares to do her whole head.",
+    "product_visible": true
+   },
+   {
+    "start_s": 66.8,
+    "end_s": 89.9,
+    "shot_type": "medium close-up",
+    "visual": "Styling larger sections.",
+    "action": "Brushes from roots with tension, marveling at how straight and shiny the hair gets after a few strokes.",
+    "product_visible": true
+   },
+   {
+    "start_s": 89.9,
+    "end_s": 97.5,
+    "shot_type": "medium close-up",
+    "visual": "Reapplication and brushing.",
+    "action": "Re-sprays heat protectant and glides the brush through another bottom section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 97.5,
+    "end_s": 107.0,
+    "shot_type": "close-up",
+    "visual": "Water tank check.",
+    "action": "Shows depleted water level in the transparent tank and refills it with the dropper.",
+    "product_visible": true
+   },
+   {
+    "start_s": 107.0,
+    "end_s": 126.9,
+    "shot_type": "medium close-up",
+    "visual": "Halfway progress check.",
+    "action": "At 10 minutes, shows right side completely straight versus left side still tightly curled; compares to Revlon brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 126.9,
+    "end_s": 144.1,
+    "shot_type": "medium close-up",
+    "visual": "Front bangs / forehead section tutorial.",
+    "action": "Creator explains technique for front hair: placing brush underneath and lifting up so steam vents away from face.",
+    "product_visible": true
+   },
+   {
+    "start_s": 144.1,
+    "end_s": 173.3,
+    "shot_type": "medium close-up",
+    "visual": "Final reveal and wrap-up.",
+    "action": "Shows complete straight, glossy hairstyle, reveals 17:07 on stopwatch, touches hair to show softness, and recaps price and salon-level results.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink steam brush pointing at it next to her thick 3C curls with text 'Will STEAM strighten my Curlyhair?'.",
+   "visual_0_3s": "Creator talking directly to camera holding the Wavytalk steam brush next to her voluminous curly hair.",
+   "spoken_0_3s": "I'm going to attempt to straighten my curly hair using steam.",
+   "text_0_3s": "Will STEAM strighten my Curlyhair?",
+   "hook_type": "curiosity_gap",
+   "hook_type_secondary": "problem_callout",
+   "pattern_interrupt": "The counterintuitive claim of using steam (water/moisture) to straighten thick 3C curls."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: Can steam straighten 3C curly hair?",
+    "Unboxing accessories and tank setup",
+    "Social proof reference (seeing other TikTok results)",
+    "First pass test and immediate shock reaction",
+    "Time trial challenge with stopwatch",
+    "Midway comparison (half curly vs half pin straight at 10 min)",
+    "Technique and pro-tips for the forehead/roots",
+    "Final result showcase: full head completed in 17 minutes",
+    "Price vs value conclusion and link in bio callout"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "saves_time",
+    "salon_result_at_home",
+    "price_value_vs_dyson"
+   ],
+   "key_claims": [
+    "Straightens 3C curly hair to pin-straight in 3 strokes",
+    "Full head styled in just 17 minutes",
+    "Delivers intense shine and silky smoothness",
+    "Combines straightening and blow-dry brush efficiency in one step"
+   ],
+   "pain_points": [
+    "Straightening curly hair usually takes hours",
+    "Traditional blowouts require multiple tools and steps",
+    "Risk of heat burns without proper protection or technique"
+   ],
+   "objections_handled": [
+    "Will steam actually work on coarse/tight 3C curls?",
+    "Is it going to burn my hands or forehead?",
+    "Does the water tank run out too quickly?"
+   ],
+   "social_proof": [
+    "Referenced viral TikTok videos of other creators achieving pin-straight hair with the tool"
+   ],
+   "comparison_to": "Revlon blowout brush (states Revlon would take 17 minutes just to reach step 2)"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steambrush Pro (Pink)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 40.5,
+   "final_result_shown_s": 144.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Priced around 80 CAD",
+   "price_mentioned": "80 Canadian dollars",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "Link in bio for the Wavytalk brush",
+   "cta_at_s": 160.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Brunette, thick, voluminous 3C curly hair",
+   "hair_after": "Ultra-sleek, shiny, pin-straight brunette blowout",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Engaging, authentic, excited, surprised"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No background music; clear direct creator microphone audio with natural product steam and brushing sounds",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 28,
+   "avg_shot_length_s": 6.2,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts",
+    "screen recording inserts",
+    "text overlay"
+   ],
+   "ending": "Creator running her fingers through sleek hair, speaking to camera praising the salon results and price."
+  },
+  "notes": "Natural organic-style TikTok UGC creator review showcasing the Wavytalk steam straightener brush on type 3C curls. High conversion format demonstrating authentic real-time stopwatch proof."
+ }
+}

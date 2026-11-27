@@ -1,0 +1,290 @@
+{
+ "media_key": "v_1880872855931311",
+ "analyzed_at": "2026-11-27T21:18:24+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "4a7c2b874e9bc8860b688316941bab087ce15162df4da9522b384793f8aab4d9",
+ "source": {
+  "kind": "video",
+  "id": "1880872855931311",
+  "errors": [
+   "1880872855931311: Gave up after 5 retries: https://graph.facebook.com/v26.0/1880872855931311",
+   "955898707337436: Gave up after 5 retries: https://graph.facebook.com/v26.0/955898707337436"
+  ],
+  "ig_media_id": "17888410539515354",
+  "permalink": "https://www.instagram.com/p/DYaa2FTDDYR/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 29.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator compares traditional hair dryer heat damage against WavyTalk Turblow Pro using plastic wrap and candle melting tests.",
+  "full_description": "A woman demonstrates the extreme heat damage caused by traditional hair dryers compared to the WavyTalk Turblow Pro high-speed dryer. She begins with a plastic wrap test where the traditional dryer melts a hole instantly while the Turblow Pro blows air gently without melting. Next, she tests both dryers on wax candles, showing the traditional dryer melts the candle in 26 seconds while the Turblow Pro leaves it completely intact after 50 seconds. She concludes by showing the dryer's magnetic attachments and removable filter while praising its drying speed and hair protection.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 7.0,
+    "end_s": 9.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now imagine your hair is this candle.",
+    "text_english": "Now imagine your hair is this candle."
+   },
+   {
+    "start_s": 9.0,
+    "end_s": 12.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "After only 26 seconds with my old dryer, it started to melt all over.",
+    "text_english": "After only 26 seconds with my old dryer, it started to melt all over."
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 15.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "That's the level of heat you're putting on your hair for 25 minutes.",
+    "text_english": "That's the level of heat you're putting on your hair for 25 minutes."
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 18.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I did the exact same thing with the high-speed hair dryer and kept it going for around 50 seconds,",
+    "text_english": "I did the exact same thing with the high-speed hair dryer and kept it going for around 50 seconds,"
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 21.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "but then gave up when I didn't see any melting from the candle.",
+    "text_english": "but then gave up when I didn't see any melting from the candle."
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 22.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "But you guys get the idea.",
+    "text_english": "But you guys get the idea."
+   },
+   {
+    "start_s": 22.2,
+    "end_s": 24.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Either way for me it's so worth it for how much time it saves me,",
+    "text_english": "Either way for me it's so worth it for how much time it saves me,"
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 28.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and if I can help it I definitely want to choose products that focus on not causing a lot of damage to my hair.",
+    "text_english": "and if I can help it I definitely want to choose products that focus on not causing a lot of damage to my hair."
+   }
+  ],
+  "transcript_full_original": "Now imagine your hair is this candle. After only 26 seconds with my old dryer, it started to melt all over. That's the level of heat you're putting on your hair for 25 minutes. I did the exact same thing with the high-speed hair dryer and kept it going for around 50 seconds, but then gave up when I didn't see any melting from the candle. But you guys get the idea. Either way for me it's so worth it for how much time it saves me, and if I can help it I definitely want to choose products that focus on not causing a lot of damage to my hair.",
+  "transcript_full_english": "Now imagine your hair is this candle. After only 26 seconds with my old dryer, it started to melt all over. That's the level of heat you're putting on your hair for 25 minutes. I did the exact same thing with the high-speed hair dryer and kept it going for around 50 seconds, but then gave up when I didn't see any melting from the candle. But you guys get the idea. Either way for me it's so worth it for how much time it saves me, and if I can help it I definitely want to choose products that focus on not causing a lot of damage to my hair.",
+  "word_count": 96,
+  "speech_starts_at_s": 7.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.8,
+    "text": "If you want to abuse your hair like that then go ahead and keep using your traditional hairdryer",
+    "role": "hook"
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 28.5,
+    "text": "Now imagine your hair is this candle. After only 26 seconds with my old dryer it started to melt all over. That's the level of heat you're putting on your hair for 25 minutes. I did the exact same thing with the high speed hair dryer and kept it going for around 50 seconds but then I gave up when I didn't see any melting from the candle. But you guys get the idea. Either way for me it's so worth it for how much time it saves me. And if I can help it I definitely want to choose products that focus on not causing a lot of damage to my hair.",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.7,
+    "shot_type": "medium close-up",
+    "visual": "Young woman with long wavy reddish-brown hair holding an old black traditional hair dryer covered with clear plastic wrap.",
+    "action": "The dryer turns on and immediately melts a large hole in the plastic film.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.7,
+    "end_s": 6.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the pink and white WavyTalk Turblow Pro covered in plastic wrap.",
+    "action": "Air blows the wrap inflated like a balloon without melting or tearing it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.6,
+    "end_s": 8.7,
+    "shot_type": "medium shot",
+    "visual": "Creator facing camera in front of a mirror holding two long white taper candles.",
+    "action": "She presents the two candles to set up the comparison experiment.",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 14.7,
+    "shot_type": "close-up",
+    "visual": "Old black hair dryer pointed directly at the tip of a white candle.",
+    "action": "Wax begins softening, bending, and dripping after 26 seconds.",
+    "product_visible": false
+   },
+   {
+    "start_s": 14.7,
+    "end_s": 20.6,
+    "shot_type": "close-up",
+    "visual": "Pink and white WavyTalk Turblow Pro pointed at the other white candle.",
+    "action": "Creator holds the dryer blowing on high speed for nearly a minute with zero wax melting.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.6,
+    "end_s": 22.0,
+    "shot_type": "medium close-up",
+    "visual": "Side-by-side comparison of the two candles held up to camera.",
+    "action": "Left candle is bent and melted; right candle is completely intact.",
+    "product_visible": false
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 24.1,
+    "shot_type": "medium shot",
+    "visual": "Creator attaches the magnetic diffuser nozzle to the Turblow Pro.",
+    "action": "Demonstrating ease of snapping on the diffuser attachment.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.1,
+    "end_s": 26.1,
+    "shot_type": "close-up",
+    "visual": "Close-up of the back of the dryer with rose gold ring.",
+    "action": "Creator twists and removes the back magnetic filter cover.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.1,
+    "end_s": 28.1,
+    "shot_type": "close-up",
+    "visual": "Creator unscrews the bottom handle intake filter mesh.",
+    "action": "Demonstrating the removable cleanable air filter design.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.1,
+    "end_s": 29.0,
+    "shot_type": "medium shot",
+    "visual": "Creator holding the WavyTalk Turblow Pro dryer smiling at camera.",
+    "action": "Gestures happily toward the dryer as the clip ends.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding a traditional black hair dryer wrapped in plastic wrap up to camera with warning text overlay.",
+   "visual_0_3s": "Plastic wrap instantly burns and melts through on a traditional hair dryer.",
+   "spoken_0_3s": "",
+   "text_0_3s": "If you want to abuse your hair like that then go ahead and keep using your traditional hairdryer",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Instant melting of plastic wrap directly over the nozzle of a traditional dryer creating shock value."
+  },
+  "structure": {
+   "format": "comparison",
+   "narrative_beats": [
+    "Shocking plastic wrap test exposing dangerous heat concentration of traditional dryers",
+    "Turblow Pro test showing safe high airflow without melting plastic",
+    "Scientific candle melting side-by-side demo proving heat damage difference",
+    "Presentation of results: melted candle vs intact candle",
+    "Highlighting drying speed, attachments, and filter features"
+   ],
+   "main_angle": "less_heat_damage",
+   "secondary_angles": [
+    "saves_time"
+   ],
+   "key_claims": [
+    "Traditional dryers melt plastic and candle wax in under 30 seconds",
+    "Turblow Pro does not melt candle wax even after 50 seconds",
+    "Protects hair from burning heat while drying faster"
+   ],
+   "pain_points": [
+    "Traditional blow dryers produce dangerously concentrated heat that fries hair",
+    "25+ minutes under high heat causes severe hair damage"
+   ],
+   "objections_handled": [
+    "Does a high-speed dryer damage hair with heat? No, it uses high air speed rather than scorching temperature."
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional bulky black hair dryer"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Turblow Pro"
+   ],
+   "first_seen_s": 2.7,
+   "first_used_on_hair_s": -1.0,
+   "final_result_shown_s": -1.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Long, thick wavy reddish-brown hair with straight bangs",
+   "hair_after": "Long, thick wavy reddish-brown hair with straight bangs",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "persuasive, demonstrative, objective"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Upbeat electronic pop background instrumental track",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 2.9,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts",
+    "text overlay animation",
+    "word-by-word synced subtitles"
+   ],
+   "ending": "Creator smiles holding the pink Turblow Pro dryer."
+  },
+  "notes": "Visual proof test style video utilizing plastic film and wax candle comparison to demonstrate heat safety of the Turblow Pro vs traditional blow dryers."
+ }
+}

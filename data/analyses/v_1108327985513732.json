@@ -1,0 +1,397 @@
+{
+ "media_key": "v_1108327985513732",
+ "analyzed_at": "2026-11-27T18:43:06+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "aa76a6b0b686f78cbda2b34757e22e0d6a81599abbc5ce5616e91edd85190b62",
+ "source": {
+  "kind": "video",
+  "id": "1108327985513732",
+  "video_id": "900875736352698",
+  "length_s": 22.871,
+  "permalink": "/23849366283980795/videos/900875736352698/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 22.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates how she gets voluminous, long-lasting bouncy curls using the Wavytalk Whirlwind Curl airflow styling tool.",
+  "full_description": "The video starts with a back-view hook showing dense, glossy, bouncy curls shaking. The creator then demonstrates curling sections of her dark hair using the pink Wavytalk Whirlwind Curl air-styler tool, explaining its cold air lock-in feature, temperature settings, and single-glide efficiency. She finishes by showing off her fully styled bouncy blowout look, holding up the tool, and concluding with a call to action.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "The quickest way that I get these bouncy curls",
+    "text_english": "The quickest way that I get these bouncy curls"
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 4.9,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "is using the Whirlwind Curl from Wavytalk.",
+    "text_english": "is using the Whirlwind Curl from Wavytalk."
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 7.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "And it's a hair straightener that shoots out cold air to lock in the style,",
+    "text_english": "And it's a hair straightener that shoots out cold air to lock in the style,"
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 10.9,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "which makes it bouncier and it lasts so many days.",
+    "text_english": "which makes it bouncier and it lasts so many days."
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 14.1,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "It has five temperature settings and three customisable airflow modes.",
+    "text_english": "It has five temperature settings and three customisable airflow modes."
+   },
+   {
+    "start_s": 14.1,
+    "end_s": 16.7,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "You can get perfect curls with just one glide,",
+    "text_english": "You can get perfect curls with just one glide,"
+   },
+   {
+    "start_s": 16.7,
+    "end_s": 19.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "and it's so gentle on hair, which means less damage.",
+    "text_english": "and it's so gentle on hair, which means less damage."
+   },
+   {
+    "start_s": 19.3,
+    "end_s": 21.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "It's the perfect hot tool for quick styles,",
+    "text_english": "It's the perfect hot tool for quick styles,"
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 22.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "so get yours now on the TikTok Shop.",
+    "text_english": "so get yours now on the TikTok Shop."
+   }
+  ],
+  "transcript_full_original": "The quickest way that I get these bouncy curls is using the Whirlwind Curl from Wavytalk. And it's a hair straightener that shoots out cold air to lock in the style, which makes it bouncier and it lasts so many days. It has five temperature settings and three customisable airflow modes. You can get perfect curls with just one glide, and it's so gentle on hair, which means less damage. It's the perfect hot tool for quick styles, so get yours now on the TikTok Shop.",
+  "transcript_full_english": "The quickest way that I get these bouncy curls is using the Whirlwind Curl from Wavytalk. And it's a hair straightener that shoots out cold air to lock in the style, which makes it bouncier and it lasts so many days. It has five temperature settings and three customisable airflow modes. You can get perfect curls with just one glide, and it's so gentle on hair, which means less damage. It's the perfect hot tool for quick styles, so get yours now on the TikTok Shop.",
+  "word_count": 81,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 0.9,
+    "text": "THE QUICKEST WAY",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 0.9,
+    "end_s": 2.0,
+    "text": "THESE BOUNCY CURLS",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 2.9,
+    "text": "IS USING THE",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 3.9,
+    "text": "WHIRLWIND CURL",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.9,
+    "end_s": 4.9,
+    "text": "FROM WAVY TALK",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 5.8,
+    "text": "HAIR STRAIGHTENER THAT",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 6.8,
+    "text": "SHOOTS OUT COLD",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 7.8,
+    "text": "IN THE STYLE",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 8.7,
+    "text": "WHICH MAKES IT",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 9.8,
+    "text": "BOUNCIER AND IT",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 10.9,
+    "text": "LASTS SO MANY DAYS",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 11.9,
+    "text": "IT HAS FIVE",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.9,
+    "end_s": 12.9,
+    "text": "TEMPERATURE SETTINGS AND",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.9,
+    "end_s": 14.1,
+    "text": "THREE CUSTOMISABLE AIRFLOW MODES",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.1,
+    "end_s": 15.4,
+    "text": "PERFECT CURLS WITH",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.4,
+    "end_s": 16.7,
+    "text": "JUST ONE GLIDE",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.7,
+    "end_s": 17.8,
+    "text": "GENTLE ON HAIR",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.8,
+    "end_s": 19.1,
+    "text": "WHICH MEANS LESS",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.1,
+    "end_s": 20.0,
+    "text": "PERFECT HOT TOOL",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 21.0,
+    "text": "FOR QUICK STYLES",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 21.9,
+    "text": "SO GET YOURS",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.9,
+    "end_s": 22.8,
+    "text": "TIKTOK SHOP",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "shot_type": "medium shot (back view)",
+    "visual": "Back of the creator's head showing long brunette hair styled into bouncy curls.",
+    "action": "Creator shakes her head side to side to highlight curl bounce and volume.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 7.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator in a white bathrobe and glasses holding the pink Wavytalk Whirlwind Curl.",
+    "action": "She clamps a front strand, twists the tool downward, releases a defined spiral curl, and gestures to it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.7,
+    "end_s": 11.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the side section of her hair with the tool.",
+    "action": "She guides the pink styler through the mid-lengths and ends of hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 14.1,
+    "shot_type": "medium shot",
+    "visual": "Creator in white bathrobe looking forward with top hair section pinned up.",
+    "action": "She inspects the finished curled section and looks directly toward the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 14.1,
+    "end_s": 17.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator in a white sweater without glasses, smiling with full curled hair.",
+    "action": "She runs her fingers underneath her bouncy curls, smiling broadly at the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 17.2,
+    "end_s": 20.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the pink Wavytalk Whirlwind Curl up beside her head.",
+    "action": "She holds the styler upright toward the camera and flips her bouncy hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.2,
+    "end_s": 22.8,
+    "shot_type": "medium shot (back view)",
+    "visual": "Back view of creator in white sweater shaking her finished hair.",
+    "action": "She shakes her head to demonstrate bounce and longevity of the curls.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Back shot of brunette hair styled in thick, bouncy curls swaying in a bedroom/home setting.",
+   "visual_0_3s": "Swaying bouncy curls from the back, cutting directly into the creator clamping the styler near her forehead.",
+   "spoken_0_3s": "The quickest way that I get these bouncy curls is using the Whirlwind Curl...",
+   "text_0_3s": "THE QUICKEST WAY THESE BOUNCY CURLS",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Immediate result showcase with dynamic hair-shake movement from behind before switching to front tutorial."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Result hook showing bouncy curls from behind",
+    "Product introduction and key cold-air lock feature",
+    "Step-by-step glide demo",
+    "Key settings overview (temperature & airflow)",
+    "Final transformation reveal and hair shake",
+    "Call to action"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "saves_time",
+    "less_heat_damage",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Quickest way to get bouncy curls",
+    "Shoots cold air to lock in style so curls last for days",
+    "5 temperature settings and 3 airflow modes",
+    "Perfect curls in just one glide",
+    "Gentle on hair with less damage"
+   ],
+   "pain_points": [
+    "Curls falling out quickly",
+    "Heat damage from hot tools",
+    "Styling taking too much time"
+   ],
+   "objections_handled": [
+    "Takes too long: demonstrated single glide ease",
+    "Heat damage: features cold air flow to lock style with less damage"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional hair straighteners/curling irons"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Whirlwind Curl"
+   ],
+   "first_seen_s": 2.2,
+   "first_used_on_hair_s": 2.5,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "get yours now on the TikTok Shop",
+   "cta_on_screen": "TIKTOK SHOP",
+   "cta_at_s": 21.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Dark brown long hair, parted and sectioned",
+   "hair_after": "Voluminous, defined glossy spiral blowout curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, practical, friendly"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle upbeat ambient background track beneath clear female voiceover",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 3.8,
+   "pacing": "fast",
+   "effects": [
+    "burned-in animated text captions",
+    "jump cuts"
+   ],
+   "ending": "Back-of-head shot shaking finished curls while voiceover gives TikTok Shop call to action."
+  },
+  "notes": "Original UGC video produced for TikTok Shop repurposed for ad creative targeting hair tool shoppers interested in the Whirlwind Curl."
+ }
+}

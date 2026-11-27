@@ -1,0 +1,159 @@
+{
+ "media_key": "i_284ae00535ce72764c5b1beec487fe2d",
+ "analyzed_at": "2026-11-27T20:55:36+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "f50bddb1f21f88ecc4de658988ed9e507e130107a15dc53d3374d5e0a4875875",
+ "source": {
+  "kind": "image",
+  "id": "284ae00535ce72764c5b1beec487fe2d"
+ },
+ "role": "rotating",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "Static Black Friday receipt graphic advertising the Wavytalk Sleek & Bounce Duo bundle for $133.00 (33% off).",
+  "full_description": "A static graphic designed to resemble a wrinkled printed store receipt set over a deep burgundy background. At the top of the receipt, the Wavytalk logo and 'Black Friday' are displayed, followed by the price deal '$133.00 | 33% OFF' and a pill callout stating 'You save: $65.00'. Below, receipt lines itemize 'SLEEK & BOUNCE DUO' with 'Steambrush Pro 2.0 + Blowout Boost'. Studio product cutouts of the pink Steambrush Pro 2.0 and the pink Blowout Boost round thermal brush appear side by side. A dark plum circular badge on the right highlights 'TODAY ONLY', with barcode accents on the edges.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK Black Friday",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "$133.00 | 33% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "You save: $65.00",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "ITEM QTY\nSLEEK & BOUNCE DUO 1\nSteambrush Pro 2.0 + Blowout Boost",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "TODAY ONLY",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "product shot",
+    "visual": "Printed receipt mockup showing Black Friday offer text with product photos of Wavytalk Steambrush Pro 2.0 and Blowout Boost side by side.",
+    "action": "Static image promotional banner",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Crumpled receipt graphic featuring Black Friday pricing of $133.00 (33% off) and two Wavytalk styling tools.",
+   "visual_0_3s": "Crumpled receipt graphic featuring Black Friday pricing of $133.00 (33% off) and two Wavytalk styling tools.",
+   "spoken_0_3s": "",
+   "text_0_3s": "WAVYTALK Black Friday $133.00 | 33% OFF",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "none",
+   "pattern_interrupt": "Receipt mockup layout with large bold discount pricing and a 'TODAY ONLY' badge."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Brand & Black Friday headline",
+    "Discounted bundle price and savings amount",
+    "Bundle item breakdown (Steambrush Pro 2.0 + Blowout Boost)",
+    "Visual display of both tools",
+    "Urgency trigger (Today Only)"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "replaces_multiple_tools"
+   ],
+   "key_claims": [
+    "33% OFF retail value",
+    "Save $65.00",
+    "Sleek & Bounce Duo includes Steambrush Pro 2.0 and Blowout Boost for $133.00"
+   ],
+   "pain_points": [],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Steambrush Pro 2.0",
+    "Blowout Boost"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "Sleek & Bounce Duo (Steambrush Pro 2.0 + Blowout Boost) on Black Friday sale for $133.00 (33% off, save $65.00)",
+   "price_mentioned": "$133.00",
+   "discount_code": "",
+   "urgency": "TODAY ONLY / Black Friday",
+   "cta_spoken": "",
+   "cta_on_screen": "TODAY ONLY",
+   "cta_at_s": 0
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "graphic design / studio backdrop",
+   "faces_camera": false,
+   "energy_tone": "promotional"
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "crumpled paper texture overlay",
+    "drop shadows",
+    "barcode graphic elements"
+   ],
+   "ending": "Static image"
+  },
+  "notes": "Static image creative focusing entirely on a direct price discount bundle promotion for Black Friday."
+ }
+}

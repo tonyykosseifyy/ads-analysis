@@ -1,0 +1,450 @@
+{
+ "media_key": "v_2402620466861996",
+ "analyzed_at": "2026-11-27T18:39:50+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "5bda34c57f556d49c8a9930fff491a35459653c6aeeb99f6831b96087f821fe9",
+ "source": {
+  "kind": "video",
+  "id": "2402620466861996",
+  "video_id": "3692732587524140",
+  "length_s": 25.286,
+  "permalink": "/23849366283980795/videos/3692732587524140/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 24.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator debunks the excuse of not having time for hair styling by demonstrating the WavyTalk Blowout Boost brush in 10 minutes.",
+  "full_description": "A female creator sits on a couch speaking directly to the camera, addressing the common excuse of not having time to style hair. She promises it only takes 10 minutes with the WavyTalk Blowout Boost thermal blowout brush. The ad cuts between her talking on the couch and demo clips in front of a mirror showing how easily she glides the brush through her hair sections. She showcases the voluminous, styled end result, highlights the anti-frizz technology, makes a relatable joke about having time to stalk an ex, and finishes by holding the boxed product offering a 15% discount.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 45,
+    "en": 55,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en",
+    "arabizi"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I don't have time for my hair.",
+    "text_english": "I don't have time for my hair."
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 3.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "حبيبتي you have ten minutes? Let me prove it.",
+    "text_english": "Girl, do you have ten minutes? Let me prove it."
+   },
+   {
+    "start_s": 3.9,
+    "end_s": 6.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Grab the WavyTalk brush, and set it عـ temperature يلي بتناسب شعرك.",
+    "text_english": "Grab the WavyTalk brush and set it to the temperature that suits your hair."
+   },
+   {
+    "start_s": 6.6,
+    "end_s": 8.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بتاخدي خصلة, and done!",
+    "text_english": "You take a section, and done!"
+   },
+   {
+    "start_s": 8.1,
+    "end_s": 11.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بدك ten minutes بتكوني عملتي any hairstyle in mind.",
+    "text_english": "You need ten minutes and you will have done any hairstyle in mind."
+   },
+   {
+    "start_s": 11.4,
+    "end_s": 13.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وهيدا هو الـ final result!",
+    "text_english": "And this is the final result!"
+   },
+   {
+    "start_s": 13.2,
+    "end_s": 16.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "It uses anti-frizz technology, so بتضلي confident all day,",
+    "text_english": "It uses anti-frizz technology, so you stay confident all day,"
+   },
+   {
+    "start_s": 16.3,
+    "end_s": 18.1,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "لأنو شعرك حلو وضابط.",
+    "text_english": "because your hair looks good and neat."
+   },
+   {
+    "start_s": 18.1,
+    "end_s": 21.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "إذا معكن وقت to stalk your ex, يعني أكيد معكن وقت تعملوا شعركن!",
+    "text_english": "If you have time to stalk your ex, it means you definitely have time to do your hair!"
+   },
+   {
+    "start_s": 21.6,
+    "end_s": 24.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Order the WavyTalk brush now for 15% off!",
+    "text_english": "Order the WavyTalk brush now for 15% off!"
+   }
+  ],
+  "transcript_full_original": "I don't have time for my hair. حبيبتي you have ten minutes? Let me prove it. Grab the WavyTalk brush, and set it عـ temperature يلي بتناسب شعرك. بتاخدي خصلة, and done! بدك ten minutes بتكوني عملتي any hairstyle in mind. وهيدا هو الـ final result! It uses anti-frizz technology, so بتضلي confident all day, لأنو شعرك حلو وضابط. إذا معكن وقت to stalk your ex, يعني أكيد معكن وقت تعملوا شعركن! Order the WavyTalk brush now for 15% off!",
+  "transcript_full_english": "I don't have time for my hair. Girl, do you have ten minutes? Let me prove it. Grab the WavyTalk brush and set it to the temperature that suits your hair. You take a section, and done! You need ten minutes and you will have done any hairstyle in mind. And this is the final result! It uses anti-frizz technology, so you stay confident all day, because your hair looks good and neat. If you have time to stalk your ex, it means you definitely have time to do your hair! Order the WavyTalk brush now for 15% off!",
+  "word_count": 68,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.0,
+    "text": "i don't have time",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 1.8,
+    "text": "for my hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 2.2,
+    "text": "habibte",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 3.0,
+    "text": "you have ten minutes",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 3.9,
+    "text": "let me prove it",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.9,
+    "end_s": 5.1,
+    "text": "grab the wavy talk brush",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.1,
+    "end_s": 5.7,
+    "text": "and set it",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.7,
+    "end_s": 6.6,
+    "text": "li betnesib shaarik",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.6,
+    "end_s": 7.7,
+    "text": "tekhde khosle",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.7,
+    "end_s": 8.3,
+    "text": "done",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.3,
+    "end_s": 9.8,
+    "text": "bdk ten minutes",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 10.9,
+    "text": "betkune eemlte any hair style",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 11.4,
+    "text": "in mind",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.4,
+    "end_s": 12.2,
+    "text": "w heda huwe l",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.2,
+    "end_s": 13.2,
+    "text": "final result",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.2,
+    "end_s": 13.8,
+    "text": "it uses",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.8,
+    "end_s": 14.8,
+    "text": "anti frizz technology",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 15.6,
+    "text": "so betdale confident",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 16.3,
+    "text": "all day",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.3,
+    "end_s": 17.5,
+    "text": "liaano shaarik helo",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 18.1,
+    "text": "w zabit",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.1,
+    "end_s": 18.8,
+    "text": "eza maakn",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.8,
+    "end_s": 19.9,
+    "text": "waet to stalk your ex",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.9,
+    "end_s": 20.8,
+    "text": "yeene akid maakn",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 21.6,
+    "text": "taamlo shaarcon",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.6,
+    "end_s": 22.7,
+    "text": "order the wavy talk",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.7,
+    "end_s": 23.4,
+    "text": "brush now",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.4,
+    "end_s": 24.8,
+    "text": "for 15% OFF",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.9,
+    "shot_type": "medium shot",
+    "visual": "A young brunette woman sitting on a living room sofa with bright daylight behind her, wearing a beige sleeveless top and dark trousers.",
+    "action": "Creator gestures with her hands while quoting the common excuse 'I don't have time for my hair' and challenges the viewer to give her 10 minutes.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.9,
+    "end_s": 6.6,
+    "shot_type": "close-up",
+    "visual": "Close-up shot of hands holding the pink WavyTalk Blowout Boost styling brush.",
+    "action": "The creator shows the digital LCD temperature control and changes the heat setting with her thumb.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.6,
+    "end_s": 8.0,
+    "shot_type": "mirror shot",
+    "visual": "Mirror view of the creator in a bright bathroom/bedroom.",
+    "action": "She brushes a section of her hair downwards with the pink heated brush while smiling into the mirror.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 11.4,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting back on the couch holding the brush, with an animated ticking wall clock sticker superimposed above her head.",
+    "action": "She taps her hair, holds the brush, touches her styled locks, and emphasizes how fast it is.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.4,
+    "end_s": 16.3,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting on the couch leaning back comfortably, showing off her finished styled hair.",
+    "action": "She fluffs and flaunts her bouncy, shiny hair to show the final blowout result.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.3,
+    "end_s": 18.1,
+    "shot_type": "mirror shot",
+    "visual": "Mirror shot in bedroom/dressing area showing creator brushing the upper crown of her hair.",
+    "action": "She runs the oval blowout brush over the top layer of her hair to smooth it out.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.1,
+    "end_s": 21.6,
+    "shot_type": "medium shot",
+    "visual": "Creator on the couch leaning toward the camera with an expressive, funny facial expression.",
+    "action": "She points at the camera and delivers the humorous joke comparing hair styling time to stalking an ex.",
+    "product_visible": false
+   },
+   {
+    "start_s": 21.6,
+    "end_s": 24.8,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting on the sofa presenting the white and pink retail packaging box of WavyTalk Blowout Boost.",
+    "action": "She holds up the box facing the camera and smiles while delivering the call-to-action offer.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator sitting on a red living room sofa in a sleeveless top speaking directly to camera.",
+   "visual_0_3s": "Creator talking animatedly with hand gestures, addressing the common problem statement.",
+   "spoken_0_3s": "I don't have time for my hair. Habibte you have ten minutes?",
+   "text_0_3s": "i don't have time for my hair",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Direct call-out of the viewer's most common excuse ('I don't have time') followed by the Arabic colloquial 'Habibte'."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Address objection: lack of time for styling hair",
+    "Bold promise: challenge to do it in 10 minutes",
+    "Demonstration: temperature setting and quick section brushing",
+    "Result reveal: salon-like bouncy blowout hair",
+    "Feature benefit: anti-frizz technology for all-day confidence",
+    "Relatable humor: if you have time to stalk your ex you have time for your hair",
+    "Direct offer & CTA: 15% discount on the product"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "frizz_or_curly_solution",
+    "easy_for_beginners",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Styles hair in just 10 minutes",
+    "Works for any hairstyle in mind",
+    "Uses anti-frizz technology so hair stays styled and confident all day"
+   ],
+   "pain_points": [
+    "Not having enough time in the morning/day to do hair",
+    "Frizzy and unmanageable hair throughout the day"
+   ],
+   "objections_handled": [
+    "I don't have enough time to style my hair (handled: takes only 10 minutes)"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost"
+   ],
+   "first_seen_s": 3.9,
+   "first_used_on_hair_s": 6.6,
+   "final_result_shown_s": 11.4,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "15% off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "now",
+   "cta_spoken": "Order the WavyTalk brush now for 15% off!",
+   "cta_on_screen": "for 15% OFF",
+   "cta_at_s": 21.6
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Brunette, wavy/blowout ready",
+   "hair_after": "Long dark brown hair, smooth blowout with bouncy voluminous curls/waves at the ends",
+   "setting": "living_room",
+   "faces_camera": true,
+   "energy_tone": "energetic, upbeat, sassy and relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat modern background pop/electronic rhythm track underlying creator's voice",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 3.1,
+   "pacing": "fast",
+   "effects": [
+    "animated clock graphic overlay",
+    "dynamic karaoke-style text subtitles",
+    "fast jump cuts"
+   ],
+   "ending": "Creator smiling while holding the WavyTalk Blowout Boost retail package box towards the camera."
+  },
+  "notes": "Targeted at Lebanese women, using Lebanese Arabizi transcription for subtitles and natural Lebanese Arabic mixed with English."
+ }
+}

@@ -1,0 +1,193 @@
+{
+ "media_key": "i_59a0da2d3fa9c777a599691cd2c88bb9",
+ "analyzed_at": "2026-11-27T21:59:33+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "923f9419f84e8302221a1add294add97aed5926d290c3902782d99451ca5e0b2",
+ "source": {
+  "kind": "image",
+  "id": "59a0da2d3fa9c777a599691cd2c88bb9"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Comparison graphic contrasting the benefits of the WavyTalk Whirlwind Curl against the downsides of a traditional curling iron.",
+  "full_description": "A vertical digital graphic split into two cards. The top white card displays the title 'Whirlwind Curl' with four green checkmark bullet points highlighting hair benefits (gentle on hair, perfect curls in one glide, cool-touch shell, 2-in-1 curl & straighten), alongside a studio product photo of the pink WavyTalk Whirlwind Curl tool. The bottom grey card displays 'Traditional Curling Iron' with four black cross bullet points listing pain points (harsh heat, long hold, hot barrel burn risk, limited to one style), next to an image of a standard black and metal curling wand.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Whirlwind Curl",
+    "role": "hook"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Gentle on hair, less damage",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Perfect curls in one glide",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Cool-Touch shell for safety",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "2-in-1: Curl & Straighten",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Traditional Curling Iron",
+    "role": "other"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Harsh heat, more damage",
+    "role": "other"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Long hold, uneven curls",
+    "role": "other"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Hot barrel, burn risk",
+    "role": "other"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Limited to one style",
+    "role": "other"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "product shot",
+    "visual": "A clean side-by-side / top-and-bottom comparison graphic on light backgrounds with studio product renders and bullet point text callouts.",
+    "action": "Static graphic presentation comparing Whirlwind Curl features versus traditional curling iron drawbacks.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Top-and-bottom comparison card showing the pink Whirlwind Curl with positive checkmarks against a standard curling iron with negative cross marks.",
+   "visual_0_3s": "Static comparison layout contrasting Whirlwind Curl with a traditional curling iron.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Whirlwind Curl vs Traditional Curling Iron",
+   "hook_type": "product_reveal",
+   "hook_type_secondary": "problem_callout",
+   "pattern_interrupt": "Direct feature-versus-feature visual comparison using distinct green checkmarks and black cross icons."
+  },
+  "structure": {
+   "format": "comparison",
+   "narrative_beats": [
+    "Present product name and key positive advantages of Whirlwind Curl",
+    "Contrast with common drawbacks and frustrations of traditional curling irons"
+   ],
+   "main_angle": "less_heat_damage",
+   "secondary_angles": [
+    "replaces_multiple_tools",
+    "easy_for_beginners",
+    "saves_time"
+   ],
+   "key_claims": [
+    "Gentle on hair, less damage",
+    "Perfect curls in one glide",
+    "Cool-Touch shell for safety",
+    "2-in-1: Curl & Straighten"
+   ],
+   "pain_points": [
+    "Harsh heat and hair damage from traditional irons",
+    "Holding hair on heat for long periods with uneven curl results",
+    "Risk of burning fingers or scalp on exposed hot barrels",
+    "Tools limited to a single styling function"
+   ],
+   "objections_handled": [
+    "Heat damage worry addressed by gentle heat claim",
+    "Safety and burn concerns addressed by Cool-Touch shell",
+    "Versatility addressed by 2-in-1 curl and straighten feature"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional Curling Iron"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Whirlwind Curl"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "studio",
+   "faces_camera": false,
+   "energy_tone": ""
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [],
+   "ending": "Static end frame showing the comparison card layout."
+  },
+  "notes": "Static image ad creative formatted for Stories / Reels placement comparing the WavyTalk Whirlwind Curl against standard curling irons."
+ }
+}

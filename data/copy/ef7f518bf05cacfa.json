@@ -1,0 +1,17 @@
+{
+ "language": "en",
+ "main_angle": "social_proof_popularity",
+ "secondary_angles": [
+  "offer_discount_urgency",
+  "replaces_multiple_tools",
+  "less_heat_damage"
+ ],
+ "opening_line": "Sold out for the second time. The Whirlwind Curl is back!",
+ "opening_style": "social_proof",
+ "mentions_offer": true,
+ "offer": "15% off / 25% off now, while stock lasts / 30-day return policy",
+ "social_proof": "Sold out for the second time / Sold Out Twice",
+ "cta": "Try it risk-free with our 30-day return policy",
+ "tone": "urgent and persuasive",
+ "variation_count": 2
+}

@@ -1,0 +1,167 @@
+{
+ "media_key": "v_947752658129285",
+ "analyzed_at": "2026-11-27T23:38:16+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "678f2369ede744f964663eda6347205e77451174ff76089867ad195ba7129408",
+ "source": {
+  "kind": "video",
+  "id": "947752658129285",
+  "errors": [
+   "947752658129285: Gave up after 5 retries: https://graph.facebook.com/v26.0/947752658129285"
+  ],
+  "ig_media_id": "18116550905039450",
+  "permalink": "https://www.instagram.com/p/DfLLfW-MnF1/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 20.73,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates an effortless 5-minute salon-style blowout using the pink thermal round brush.",
+  "full_description": "A creator records a quick, silent tutorial showing how to achieve a bouncy blowout at home using the WavyTalk Blowout Boost heated round brush. She begins with one side already partially styled, grabs a section of hair to roll inward with the brush, then styles her top bangs backwards to create face-framing volume. She finishes by arranging and showcasing her bouncy, layered hairstyle against a neutral bedroom wardrobe backdrop.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "other"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 20.73,
+    "text": "5 Min Blowout Frisur ✨",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator in a white oversized top standing before white panelled wardrobe doors, presenting her bouncy blowout hairstyle.",
+    "action": "Creator gestures towards her styled hair side and looks directly at the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 12.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the pink heated thermal round brush at eye level.",
+    "action": "Creator sections a strand of hair, slides the thermal brush down the length, curls the ends inward, holds for a moment, and releases.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 16.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator isolates the crown and curtain bang front section.",
+    "action": "Creator lifts the front hair strand straight up, rolls it backwards around the heated barrel for root lift and volume, then releases it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.7,
+    "end_s": 20.73,
+    "shot_type": "medium close-up",
+    "visual": "Final completed bouncy blowout on both sides.",
+    "action": "Creator fluffs and shakes out her layers with her hands, posing to display the soft rounded ends and root volume.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing finished blowout hair with German title '5 Min Blowout Frisur ✨'.",
+   "visual_0_3s": "Creator shows off the result on one side while holding up the pink thermal styling brush to start the other side.",
+   "spoken_0_3s": "",
+   "text_0_3s": "5 Min Blowout Frisur ✨",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Immediate showcase of bouncy, voluminous blowout with a promise of a 5-minute routine."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Hook: Promise of a 5-minute blowout hairstyle",
+    "Demo step 1: Curving side lengths inward with the thermal brush",
+    "Demo step 2: Rolling front fringe upward for crown lift",
+    "Reveal: Shaking out bouncy, voluminous layers"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "5-minute blowout hairstyle",
+    "Achieve voluminous salon curls at home"
+   ],
+   "pain_points": [
+    "Traditional blowouts take too long",
+    "Round brushing with a standard hairdryer is awkward and difficult"
+   ],
+   "objections_handled": [
+    "Too complicated to style the back and front bangs",
+    "Takes too much time"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 1.2,
+   "first_used_on_hair_s": 2.5,
+   "final_result_shown_s": 16.7,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Medium-to-long straight layered brunette hair with subtle caramel balayage",
+   "hair_after": "Voluminous 90s-style blowout with bouncy inward-curled ends and lifted curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "calm, aesthetic, effortless"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Female pop vocal song with an upbeat indie-pop rhythm ('And everyone's competing for a love they won't receive...').",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 3,
+   "avg_shot_length_s": 5.18,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator touches her hair, posing and admiring the finished blowout."
+  },
+  "notes": "Repurposed European/German UGC creator video targeting the MENA/Lebanon ad account without Arabic subtitles or audio translation, relying entirely on visual clarity and aesthetic styling appeal."
+ }
+}

@@ -1,0 +1,227 @@
+{
+ "media_key": "v_1885698912274061",
+ "analyzed_at": "2026-11-27T22:15:32+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "bf643f206a18f70cdcca600de9c184849bd00b38b797d39a6dd5ad9fee08002a",
+ "source": {
+  "kind": "video",
+  "id": "1885698912274061",
+  "errors": [
+   "1885698912274061: Gave up after 5 retries: https://graph.facebook.com/v26.0/1885698912274061",
+   "4563265513886710: Gave up after 5 retries: https://graph.facebook.com/v26.0/4563265513886710"
+  ],
+  "ig_media_id": "17915852052470276",
+  "permalink": "https://www.instagram.com/p/DfC1e65MqMf/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 50.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator showcases how to achieve a bouncy salon blowout at home in real time using the Wavytalk Blowout Boost thermal round brush.",
+  "full_description": "A young blonde woman demonstrates the Wavytalk Blowout Boost thermal brush set to upbeat music without speaking. She starts by presenting her hair, shows the purple product box and styling clips, then styles various sections of her hair in real time. On-screen text highlights product features such as the included thermal brush and clips, heat control with negative ions, and quick ease of use, finishing with a showcase of bouncy, voluminous blowout results.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.6,
+    "text": "Get the perfect blowout in 10 mins",
+    "role": "hook"
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 16.5,
+    "text": "Comes with a thermal brush and 2 hair clips",
+    "role": "benefit"
+   },
+   {
+    "start_s": 16.9,
+    "end_s": 22.8,
+    "text": "Includes heat control & a negative ion function",
+    "role": "benefit"
+   },
+   {
+    "start_s": 23.3,
+    "end_s": 30.1,
+    "text": "It's quick and easy to use!",
+    "role": "benefit"
+   },
+   {
+    "start_s": 30.6,
+    "end_s": 45.4,
+    "text": "Styling in real time!",
+    "role": "benefit"
+   },
+   {
+    "start_s": 45.8,
+    "end_s": 50.8,
+    "text": "Leaves your hair shiny and voluminous !",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.6,
+    "shot_type": "medium shot",
+    "visual": "A young blonde woman wearing a light blue camisole top standing in a room, running her hands through her straight hair.",
+    "action": "Creator fluffs and shakes her hair while looking into the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.6,
+    "end_s": 7.3,
+    "shot_type": "medium shot",
+    "visual": "Creator holds up the lavender Wavytalk Blowout Boost box, then displays two black sectioning clips in both hands.",
+    "action": "She presents the packaging and accessories directly to the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 15.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator wraps a mid-length section of blonde hair around the pink thermal barrel brush.",
+    "action": "She rolls and pulls the heated brush down through her hair, revealing a smooth curled finish.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 22.8,
+    "shot_type": "medium shot",
+    "visual": "Creator curls another mid-section strand around the thermal barrel brush.",
+    "action": "She glides and twists the brush through her hair to curl the ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 30.1,
+    "shot_type": "medium shot",
+    "visual": "Creator curls a back/side strand of hair using the thermal brush.",
+    "action": "She releases the curl and touches the styled wavy strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 30.1,
+    "end_s": 40.5,
+    "shot_type": "medium close-up",
+    "visual": "Real-time styling of her front curtain bangs with the round thermal brush.",
+    "action": "She wraps the bang section over the barrel, holds it briefly, and rolls it smoothly outward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 40.5,
+    "end_s": 50.8,
+    "shot_type": "medium shot",
+    "visual": "Creator admiring and showing off her final voluminous, shiny blowout look.",
+    "action": "She poses, touches her hair, and smiles at the camera to showcase the styled volume and bounce.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Blonde creator looking at the camera running her hands through straight hair with the text 'Get the perfect blowout in 10 mins'.",
+   "visual_0_3s": "Creator fluffs her hair while looking directly into the camera lens in natural indoor lighting.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Get the perfect blowout in 10 mins",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Promising a perfect blowout in just 10 minutes displayed right over creator's direct eye contact."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Hook: Promise of a 10-minute salon blowout",
+    "Unboxing / Product reveal: Showing the Wavytalk box and included styling clips",
+    "Feature callout & demo: Heat control, negative ion technology, easy glide",
+    "Proof of speed: Real-time demonstration styling bangs",
+    "Final transformation: Revealing bouncy, shiny, voluminous hair"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Get the perfect blowout in 10 mins",
+    "Comes with a thermal brush and 2 hair clips",
+    "Includes heat control & a negative ion function",
+    "Quick and easy to use",
+    "Leaves hair shiny and voluminous"
+   ],
+   "pain_points": [
+    "Time-consuming traditional blowouts",
+    "Complicated round-brush and blowdryer technique",
+    "Lack of volume or shine at home"
+   ],
+   "objections_handled": [
+    "Difficulty of use handled by showing real-time simple curling movement"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional salon blow drying / blow dryers"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 4.6,
+   "first_used_on_hair_s": 7.3,
+   "final_result_shown_s": 40.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Blonde, straight to slightly wavy, fine-to-medium texture, chest-length with curtain bangs",
+   "hair_after": "Voluminous, bouncy blowout with defined outward curved ends and styled bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, calm, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Mid-tempo pop track ('Popstar' vocal clip with electronic beat) playing continuously throughout.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 7.25,
+   "pacing": "medium",
+   "effects": [
+    "text overlays with subtle bounce animation",
+    "jump cuts between hair sections"
+   ],
+   "ending": "Creator smiling and posing with the final styled blowout holding the thermal brush."
+  },
+  "notes": "Targeted ad for Lebanese market promoting the Wavytalk Blowout Boost thermal heated round brush without voiceover, relying on visual tutorial demo and English benefit overlays."
+ }
+}

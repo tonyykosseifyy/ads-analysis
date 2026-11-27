@@ -1,0 +1,206 @@
+{
+ "media_key": "v_1983749955638885",
+ "analyzed_at": "2026-11-27T18:43:44+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "20d25ac55c139f235351d7089b9be112ed64a8911fc2ea119d1e2dec8a49f55c",
+ "source": {
+  "kind": "video",
+  "id": "1983749955638885",
+  "video_id": "1050005304674016",
+  "length_s": 39.776,
+  "permalink": "/23849366283980795/videos/1050005304674016/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 39.46,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A woman transforms her voluminous, frizzy curls into a smooth, bouncy blowout using a thermal round brush with zero blow-dryer noise.",
+  "full_description": "A creator with large, frizzy, naturally curly hair demonstrates the WavyTalk thermal round brush (Blowout Boost). She smooths out her bangs and hair sections smoothly and effortlessly without a hairdryer blowing air. The video cuts through her styling progress, showing half-styled comparisons, and finishes with a fully smooth, sleek, voluminous blowout with flipped-in ends.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 39.46,
+    "text": "No blowdryer. No noise. No damage. Just magic ✨",
+    "role": "hook"
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 22.0,
+    "text": "UP TO 20% OFF THIS FALL SALE",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.3,
+    "shot_type": "medium selfie shot",
+    "visual": "Woman with very big, frizzy curly hair pulls a front fringe section through the heated round brush, revealing an instantly silky smooth straight strand, then smiles excitedly.",
+    "action": "Gliding the thermal brush through front fringe and reacting with surprise and happiness.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.3,
+    "end_s": 10.8,
+    "shot_type": "medium selfie shot",
+    "visual": "Creator takes another section of front hair, wrapping it around the thermal brush and pulling it through.",
+    "action": "Brushing and smoothing the top section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.8,
+    "end_s": 12.0,
+    "shot_type": "medium selfie shot",
+    "visual": "Brief reaction shot showing one side smoothed down to shoulder length while the other side is huge and curly.",
+    "action": "Posing and pointing to compare the smoothed side vs the curly side.",
+    "product_visible": false
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 21.8,
+    "shot_type": "medium selfie shot",
+    "visual": "Creator styles the remaining frizzy side, curling the ends under with the round thermal brush.",
+    "action": "Sectioning and wrapping curls around the heated barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.8,
+    "end_s": 22.8,
+    "shot_type": "medium selfie shot",
+    "visual": "Quick dancing reaction showing progress as hair becomes sleek.",
+    "action": "Grooving to the music.",
+    "product_visible": false
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 30.0,
+    "shot_type": "medium selfie shot",
+    "visual": "Finishing touches on remaining curl layers, brushing down from roots to tips.",
+    "action": "Running the heated brush through back and side layers.",
+    "product_visible": true
+   },
+   {
+    "start_s": 30.0,
+    "end_s": 32.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator rolls the thermal brush through her bangs upwards for volume, then releases it.",
+    "action": "Adding volume to bangs and brushing past the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 32.5,
+    "end_s": 39.46,
+    "shot_type": "medium selfie shot to close-up",
+    "visual": "Creator shakes and runs fingers through her sleek, shiny, voluminous styled bob/shoulder-length hair, smiling at the camera.",
+    "action": "Fluffing hair and admiring the final result.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera with large, bushy frizzy curly hair holding the heated round brush over her forehead.",
+   "visual_0_3s": "She slowly pulls the heated brush down her front fringe, revealing smooth, shiny straight hair amidst a giant cloud of frizz.",
+   "spoken_0_3s": "",
+   "text_0_3s": "No blowdryer. No noise. No damage. Just magic ✨",
+   "hook_type": "result_first",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Instant visual contrast between extremely puffy, curly frizzy hair and a pin-straight, sleek strand emerging in one pass."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Visual hook showing instant 1-pass smoothing on extreme frizz",
+    "Half-and-half progress demo showing side-by-side curly vs smooth",
+    "Step-by-step styling of the remaining sections",
+    "Final reveal showing bouncy, glossy salon-quality blowout"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "quiet_or_gentle",
+    "less_heat_damage"
+   ],
+   "key_claims": [
+    "No blowdryer needed",
+    "No loud noise",
+    "No heat damage",
+    "Tames extreme frizzy curls into a silky blowout"
+   ],
+   "pain_points": [
+    "Loud blowdryers",
+    "Heat damage from hot air styling",
+    "Struggling to tame dense frizzy curly hair"
+   ],
+   "objections_handled": [
+    "Can it handle very thick/curly hair? Demonstrated clearly on intense frizz"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional noisy blowdryers"
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 32.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "UP TO 20% OFF THIS FALL SALE",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "THIS FALL SALE",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Shoulder-length, extremely voluminous, frizzy, dense curly brunette hair",
+   "hair_after": "Smooth, shiny, bouncy blowout with curled-under ends",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "upbeat, confident, playful"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Mid-tempo country-pop / R&B crossover track with male vocals ('Don't know where you at...')",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 4.9,
+   "pacing": "medium",
+   "effects": [
+    "text overlays",
+    "jump cuts"
+   ],
+   "ending": "Creator leans in close to the camera, touching her sleek bangs and smiling."
+  },
+  "notes": "Classic viral TikTok/Reels UGC demonstration format relying entirely on visual contrast and music rather than spoken commentary."
+ }
+}

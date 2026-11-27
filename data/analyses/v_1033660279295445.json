@@ -1,0 +1,172 @@
+{
+ "media_key": "v_1033660279295445",
+ "analyzed_at": "2026-11-27T22:06:58+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "bef10b8976b37fee136767ce8317a4fd0a259d4415df68d44a38702b3b1434f1",
+ "source": {
+  "kind": "video",
+  "id": "1033660279295445",
+  "video_id": "1360323699110256",
+  "length_s": 34.883,
+  "permalink": "/23849366283980795/videos/1360323699110256/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 34.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A young creator demonstrates achieving a sleek, voluminous blowout at home using the pink WavyTalk thermal brush in 20 minutes.",
+  "full_description": "A vertical UGC tutorial video set to background music without spoken dialogue. An overlay text reads 'from frizzy to sleek in just 20 mins'. The creator begins by pulling the pink WavyTalk thermal round brush away from the camera lens to reveal herself. She then brushes and curls sections of her auburn hair step-by-step—first the right side, then the left side, and finally the top front bangs. At 31.5 seconds, she reveals the final result: voluminous, glossy, curled blowout hair, posing confidently for the camera.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 34.8,
+    "text": "from frizzy to sleek in just 20 mins",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "shot_type": "close-up transition to medium selfie shot",
+    "visual": "Pink thermal round brush bristles cover the lens and pull away to reveal creator facing the camera in her bedroom.",
+    "action": "Creator lowers the brush from the camera lens.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 15.2,
+    "shot_type": "medium shot",
+    "visual": "Creator standing in front of bed, curling the right side of her reddish-brown hair with the pink thermal brush.",
+    "action": "Glides brush slowly down hair strands and rolls it inward to create curl and bounce.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.2,
+    "end_s": 28.1,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the left side of her hair.",
+    "action": "Wraps lengths of hair around the thermal brush barrel, holding momentarily and releasing into bouncy curls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.1,
+    "end_s": 31.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling her top curtain bangs/front layer.",
+    "action": "Rolls the top crown section around the brush away from face, rolling it out smoothly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 31.5,
+    "end_s": 34.8,
+    "shot_type": "medium shot",
+    "visual": "Creator showing finished hairstyle with bouncy, sleek, voluminous blowout curls.",
+    "action": "Shakes hair, touches curls, covers mouth playfully and poses.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "The bristles of the pink thermal round brush covering the camera lens with text overlay.",
+   "visual_0_3s": "Lens wipe reveal moving the brush away from camera to reveal the creator beginning her hair routine.",
+   "spoken_0_3s": "",
+   "text_0_3s": "from frizzy to sleek in just 20 mins",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Camera lens covered by product bristles pulling back to reveal creator."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Camera lens reveal hook with frizzy-to-sleek promise",
+    "Step-by-step curling demo on right side",
+    "Demo styling on left side",
+    "Crown / bangs styling",
+    "Final bouncy blowout result reveal"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "volume_and_bounce",
+    "saves_time"
+   ],
+   "key_claims": [
+    "Transforms hair from frizzy to sleek in just 20 minutes"
+   ],
+   "pain_points": [
+    "Frizzy hair",
+    "Time-consuming styling routines"
+   ],
+   "objections_handled": [
+    "Complicated styling technique (shown as easy continuous brush motion)"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 1.0,
+   "final_result_shown_s": 31.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Medium-long, wavy/frizzy reddish-brown auburn hair",
+   "hair_after": "Smooth, voluminous, bouncy salon-style blowout with defined curved ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relaxed, aesthetic, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Melancholic lo-fi indie pop vocal track with female singing",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 6.96,
+   "pacing": "medium",
+   "effects": [
+    "lens block transition"
+   ],
+   "ending": "Creator playfully covers her mouth and admires finished hair curls"
+  },
+  "notes": "Non-verbal UGC video focused purely on visual tutorial and transformation speed promise."
+ }
+}

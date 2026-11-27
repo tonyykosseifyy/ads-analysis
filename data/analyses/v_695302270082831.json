@@ -1,0 +1,456 @@
+{
+ "media_key": "v_695302270082831",
+ "analyzed_at": "2026-11-27T18:35:24+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "9efa0370bbd3bb9185bb79aa30e06d1b361ab63d1296240a2e41f914cb26efd4",
+ "source": {
+  "kind": "video",
+  "id": "695302270082831",
+  "video_id": "2318420318624838",
+  "length_s": 26.766,
+  "permalink": "/23849366283980795/videos/2318420318624838/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 26.6,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A presenter introduces Wavytalk's viral Blowout Boost thermal brush now available in Lebanon, citing celebrity and Forbes endorsements with a 15% discount.",
+  "full_description": "A female creator presents the Wavytalk Blowout Boost thermal brush sitting on a red couch in a modern apartment, opening with its viral 15-billion-view stat and announcement of Lebanon availability. Cutaway b-roll clips show Sydney Sweeney, Sabrina Carpenter's hairdresser using the brush, and Forbes magazine recognition, before the creator shows the retail packaging, two pink Wavytalk bags, and demonstrates styling her hair in a vanity mirror. She finishes by inviting viewers to join 5 million women worldwide and offering a 15% discount.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 50,
+    "en": 50,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en",
+    "arabizi"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "A thermal brush with 15 billion views صارت هلا بلبنان",
+    "text_english": "A thermal brush with 15 billion views is now in Lebanon"
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 5.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The Blowout Boost from Wavytalk is finally here.",
+    "text_english": "The Blowout Boost from Wavytalk is finally here."
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 7.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Sydney Sweeney ما بتستعمل غيرها",
+    "text_english": "Sydney Sweeney doesn't use anything else"
+   },
+   {
+    "start_s": 7.7,
+    "end_s": 10.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Sabrina Carpenter's hairdresser بيستعملها",
+    "text_english": "Sabrina Carpenter's hairdresser uses it"
+   },
+   {
+    "start_s": 10.2,
+    "end_s": 12.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Even Forbes كتبوا عنا بـ their articles",
+    "text_english": "Even Forbes wrote about it in their articles"
+   },
+   {
+    "start_s": 12.9,
+    "end_s": 15.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وهلا صارت بلبنان، ومانا بس hype",
+    "text_english": "And now it's in Lebanon, and it's not just hype"
+   },
+   {
+    "start_s": 15.7,
+    "end_s": 18.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "The ceramic and ionic technology بيعطوكم glow",
+    "text_english": "The ceramic and ionic technology gives you glow"
+   },
+   {
+    "start_s": 18.3,
+    "end_s": 20.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وفيكم تعملوا any hairstyle انتوا وبالبيت",
+    "text_english": "And you can do any hairstyle while you are at home"
+   },
+   {
+    "start_s": 20.9,
+    "end_s": 22.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Join 5 million women worldwide",
+    "text_english": "Join 5 million women worldwide"
+   },
+   {
+    "start_s": 22.9,
+    "end_s": 26.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and get the Ionic Thermal Brush now for 15% off.",
+    "text_english": "and get the Ionic Thermal Brush now for 15% off."
+   }
+  ],
+  "transcript_full_original": "A thermal brush with 15 billion views صارت هلا بلبنان The Blowout Boost from Wavytalk is finally here. Sydney Sweeney ما بتستعمل غيرها Sabrina Carpenter's hairdresser بيستعملها Even Forbes كتبوا عنا بـ their articles وهلا صارت بلبنان، ومانا بس hype The ceramic and ionic technology بيعطوكم glow وفيكم تعملوا any hairstyle انتوا وبالبيت Join 5 million women worldwide and get the Ionic Thermal Brush now for 15% off.",
+  "transcript_full_english": "A thermal brush with 15 billion views is now in Lebanon. The Blowout Boost from Wavytalk is finally here. Sydney Sweeney doesn't use anything else. Sabrina Carpenter's hairdresser uses it. Even Forbes wrote about it in their articles. And now it's in Lebanon, and it's not just hype. The ceramic and ionic technology gives you glow. And you can do any hairstyle while you are at home. Join 5 million women worldwide and get the Ionic Thermal Brush now for 15% off.",
+  "word_count": 68,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "text": "a Thermal brush",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 2.2,
+    "text": "with 15 billion views",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 3.1,
+    "text": "saret hal2 bi lebnen",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.1,
+    "end_s": 4.1,
+    "text": "the blowout boost",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 4.9,
+    "text": "from Wavytalk",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 5.8,
+    "text": "is finally here",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.9,
+    "end_s": 7.0,
+    "text": "Sydney Sweeney",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 7.7,
+    "text": "ma btest3mel",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 9.2,
+    "text": "Sabrina Carpenter's hairdresser",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.2,
+    "end_s": 10.3,
+    "text": "beestamela",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.4,
+    "end_s": 11.2,
+    "text": "Forbes",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 12.0,
+    "text": "katabo 3ana",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 12.9,
+    "text": "bi their articles",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 14.1,
+    "text": "w hal2",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.1,
+    "end_s": 15.0,
+    "text": "sarit bi lebnen",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 15.8,
+    "text": "w mana bas hype",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.9,
+    "end_s": 17.0,
+    "text": "the ceramic and",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.0,
+    "end_s": 18.2,
+    "text": "bya3toukon glow",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.3,
+    "end_s": 19.3,
+    "text": "any hair style",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.3,
+    "end_s": 20.8,
+    "text": "ento w bel beit",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.9,
+    "end_s": 22.8,
+    "text": "Join 5 million women worldwide",
+    "role": "cta"
+   },
+   {
+    "start_s": 22.9,
+    "end_s": 23.7,
+    "text": "and get the",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.8,
+    "end_s": 24.8,
+    "text": "Ionic Thermal Brush",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 24.8,
+    "end_s": 25.8,
+    "text": "now for 15%",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 25.8,
+    "end_s": 26.6,
+    "text": "off",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.0,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting on a red couch holding the pink Wavytalk thermal brush with graphic backdrop",
+    "action": "Speaks to camera and holds up the brush",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 5.8,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting on red couch running her hands through her styled hair",
+    "action": "Flips and touches her shiny voluminous hair smiling",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 7.7,
+    "shot_type": "close-up b-roll",
+    "visual": "Celebrity footage of Sydney Sweeney with soft waves turning towards camera",
+    "action": "Sydney Sweeney poses displaying styled hair",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.7,
+    "end_s": 10.3,
+    "shot_type": "medium close-up b-roll",
+    "visual": "Hair stylist styling Sabrina Carpenter's hair backstage using the brush",
+    "action": "Hairdresser brushes through blonde hair",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.3,
+    "end_s": 13.0,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting on couch holding the Blowout Boost retail box with Forbes logo graphic overlay",
+    "action": "Holds up boxed product excitedly",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 14.8,
+    "shot_type": "medium shot",
+    "visual": "Creator standing in living room holding two bright pink WavyTalk shopping bags",
+    "action": "Swings the shopping bags happily",
+    "product_visible": false
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 15.8,
+    "shot_type": "close-up POV",
+    "visual": "Hands holding thank-you instruction card from Wavytalk package",
+    "action": "Viewer POV inspecting card",
+    "product_visible": false
+   },
+   {
+    "start_s": 15.8,
+    "end_s": 18.2,
+    "shot_type": "mirror shot",
+    "visual": "Creator in bathroom/vanity mirror rolling hair with pink thermal brush",
+    "action": "Uses thermal brush on crown and ends of hair",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 20.8,
+    "shot_type": "mirror shot / medium",
+    "visual": "Creator admiring her hair in the mirror; vanity counter shows brush, unboxing box and pink bag",
+    "action": "Checks result in mirror and turns towards camera smiling",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 26.6,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting on red sofa, gesturing with fingers and holding up the thermal brush",
+    "action": "Delivers call to action and highlights the 15% discount",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator on red couch holding pink thermal brush against illustrated background with text 'a Thermal brush'",
+   "visual_0_3s": "Creator presents the thermal brush directly to camera on a couch with fast cut to hair flip",
+   "spoken_0_3s": "A thermal brush with 15 billion views صارت هلا بلبنان",
+   "text_0_3s": "a Thermal brush with 15 billion views saret hal2 bi lebnen",
+   "hook_type": "social_proof",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Rapid intro stating 15 billion views paired with transition flashes and prominent celebrity proof"
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Viral hook citing 15 billion views and Lebanese market launch",
+    "Authority and celebrity proof (Sydney Sweeney, Sabrina Carpenter hairdresser, Forbes)",
+    "Unboxing and delivery hype (pink branded bags and welcome note)",
+    "Tech and benefit proof (ceramic and ionic technology for glow and salon style at home)",
+    "Call to action with global community stat and 15% discount"
+   ],
+   "main_angle": "social_proof_popularity",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "expert_endorsement",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "15 billion views on social media",
+    "Used by Sydney Sweeney and Sabrina Carpenter's hairstylist",
+    "Featured in Forbes articles",
+    "Ceramic and ionic technology adds glow and styles hair at home",
+    "5 million women worldwide"
+   ],
+   "pain_points": [
+    "Products trending overseas unavailable locally in Lebanon",
+    "Expensive or time-consuming salon blowouts",
+    "Fear that trending products are just empty hype"
+   ],
+   "objections_handled": [
+    "Is it just hype? (No, ceramic & ionic tech creates real shine and easy home styling)",
+    "Is it available in Lebanon? (Now in stock locally)"
+   ],
+   "social_proof": [
+    "15 billion views statistic",
+    "Celebrity endorsement: Sydney Sweeney",
+    "Professional endorsement: Sabrina Carpenter's hairdresser",
+    "Media mention: Forbes",
+    "5 million women customer base worldwide"
+   ],
+   "comparison_to": "other styling brushes / empty social media hype"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 8.0,
+   "final_result_shown_s": 3.2,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "15% off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "now",
+   "cta_spoken": "Join 5 million women worldwide and get the Ionic Thermal Brush now for 15% off",
+   "cta_on_screen": "Join 5 million women worldwide now for 15% off",
+   "cta_at_s": 20.9
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Already styled long brunette blowout with loose soft waves",
+   "hair_after": "Long, glossy brunette hair with bouncy blowout waves",
+   "setting": "apartment living room and bathroom vanity",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, energetic, and authoritative"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Upbeat, energetic electronic pop instrumental background track",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 2.7,
+   "pacing": "fast",
+   "effects": [
+    "light leak transition",
+    "overlay text animation",
+    "celebrity b-roll cutaways",
+    "logo graphic overlays"
+   ],
+   "ending": "Creator holding the thermal brush with text 'now for 15% off' smiling at camera"
+  },
+  "notes": "Ad leverages high-profile viral social proof (15B views, Sydney Sweeney, Sabrina Carpenter's hair stylist, Forbes) specifically localized to Lebanese consumers ('saret hal2 bi lebnen'). Burned-in captions use mixed Latin script and Arabizi transliterations."
+ }
+}

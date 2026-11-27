@@ -1,0 +1,245 @@
+{
+ "media_key": "v_1505220768300164",
+ "analyzed_at": "2026-11-27T18:38:34+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "3f5d6c25cccb2dad056a866211371059cf1dd21f8110404c5e7aaff283af5383",
+ "source": {
+  "kind": "video",
+  "id": "1505220768300164",
+  "video_id": "1713729279931155",
+  "length_s": 32.299,
+  "permalink": "/23849366283980795/videos/1713729279931155/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 31.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A mother uses the Wavytalk Steamline Pro steam brush to straighten her young daughter Ella's long curly hair.",
+  "full_description": "The video demonstrates straightening a young girl's (Ella) long, curly dark hair using the pink Wavytalk Steamline Pro. It opens with the daughter sitting on a stool smiling while a hand points out the brush settings, showing a text hook about using steam at 380 degrees. A quick half-and-half shot shows one side straight and one side curly. The mother then shows how to detach the water reservoir, fill it using the included squeeze dropper bottle, and click it back into the brush. She brushes through a section of Ella's hair from root to tip, demonstrating how the steam keeps the hair hydrated and smooth with less heat damage. Finally, Ella is shown with fully straightened, waist-length, glossy hair, twirling and smiling with Rapunzel vibes. The video concludes with a discount code callout and link in bio CTA.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Using steam to straighten my daughter's curly hair? Who would have thought.",
+    "text_english": "Using steam to straighten my daughter's curly hair? Who would have thought."
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 10.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "And it's so easy to set up. Unclip the back, fill it with water, it comes with this squeeze tube, clip it back in and you're ready to go.",
+    "text_english": "And it's so easy to set up. Unclip the back, fill it with water, it comes with this squeeze tube, clip it back in and you're ready to go."
+   },
+   {
+    "start_s": 10.7,
+    "end_s": 18.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "The Wavytalk Steamline Pro uses one button to turn it on, and another to activate the steam, which keeps her hair healthy and moisturized.",
+    "text_english": "The Wavytalk Steamline Pro uses one button to turn it on, and another to activate the steam, which keeps her hair healthy and moisturized."
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 23.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "The steam releases moisture into her hair as I go, making it smoother and less damaging than heat alone.",
+    "text_english": "The steam releases moisture into her hair as I go, making it smoother and less damaging than heat alone."
+   },
+   {
+    "start_s": 23.8,
+    "end_s": 28.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "And here's the finished look: straight, shiny, and so long! She's giving full-on Rapunzel vibes.",
+    "text_english": "And here's the finished look: straight, shiny, and so long! She's giving full-on Rapunzel vibes."
+   },
+   {
+    "start_s": 28.7,
+    "end_s": 31.7,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Use ELLA25 for 25% off, link in bio.",
+    "text_english": "Use ELLA25 for 25% off, link in bio."
+   }
+  ],
+  "transcript_full_original": "Using steam to straighten my daughter's curly hair? Who would have thought. And it's so easy to set up. Unclip the back, fill it with water, it comes with this squeeze tube, clip it back in and you're ready to go. The Wavytalk Steamline Pro uses one button to turn it on, and another to activate the steam, which keeps her hair healthy and moisturized. The steam releases moisture into her hair as I go, making it smoother and less damaging than heat alone. And here's the finished look: straight, shiny, and so long! She's giving full-on Rapunzel vibes. Use ELLA25 for 25% off, link in bio.",
+  "transcript_full_english": "Using steam to straighten my daughter's curly hair? Who would have thought. And it's so easy to set up. Unclip the back, fill it with water, it comes with this squeeze tube, clip it back in and you're ready to go. The Wavytalk Steamline Pro uses one button to turn it on, and another to activate the steam, which keeps her hair healthy and moisturized. The steam releases moisture into her hair as I go, making it smoother and less damaging than heat alone. And here's the finished look: straight, shiny, and so long! She's giving full-on Rapunzel vibes. Use ELLA25 for 25% off, link in bio.",
+  "word_count": 99,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "text": "380 degrees and steam to straighten Ella's hair! 💖",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "shot_type": "medium_shot",
+    "visual": "A young girl with long curly dark hair sits on a high chair while a hand holds the pink Wavytalk Steamline Pro brush next to her face, pointing at the temperature indicator.",
+    "action": "The mother points to the lights on the device while Ella smiles at the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 4.6,
+    "shot_type": "medium_shot",
+    "visual": "Ella sitting facing forward with one half of her hair fully straightened and the other half natural thick curly hair.",
+    "action": "Ella shows off the half-straightened, half-curly comparison.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.6,
+    "end_s": 10.7,
+    "shot_type": "close_up",
+    "visual": "Hands disassembling the water tank from the back of the pink Wavytalk brush and filling it.",
+    "action": "The mother slides off the reservoir, squirts water into it from a small squeeze bottle, and snaps it back in place.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.7,
+    "end_s": 23.6,
+    "shot_type": "over_the_shoulder",
+    "visual": "Shot from behind Ella showing her hair clipped up in sections, brushing through a thick strand with the steam straightener.",
+    "action": "The mother slowly glides the pink steam brush down a long section of hair, transforming it instantly into sleek, straight strands.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.6,
+    "end_s": 25.1,
+    "shot_type": "medium_shot",
+    "visual": "Front view of Ella sitting with all of her hair completely straightened down past her shoulders, smiling happily.",
+    "action": "Ella smiles at the camera showing the completed look.",
+    "product_visible": false
+   },
+   {
+    "start_s": 25.1,
+    "end_s": 28.0,
+    "shot_type": "medium_full_shot",
+    "visual": "Ella standing up facing away, then looking back over her shoulder showing her super long, silky straightened hair reaching below her waist.",
+    "action": "Ella turns around playfully showing off the hair length.",
+    "product_visible": false
+   },
+   {
+    "start_s": 28.0,
+    "end_s": 31.8,
+    "shot_type": "medium_close_up",
+    "visual": "Ella sitting and shaking her head slightly, admiring her long silky straight hair.",
+    "action": "Ella smiles and looks to the side as the promo code is read.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "A cute young girl with big curly hair sitting in a pink unicorn dress beside a hand holding up the pink Wavytalk Steamline Pro brush.",
+   "visual_0_3s": "Hand demonstrates the buttons on the steam straightener brush while the child smiles cheerfully next to it.",
+   "spoken_0_3s": "Using steam to straighten my daughter's curly hair? Who would have thought.",
+   "text_0_3s": "380 degrees and steam to straighten Ella's hair! 💖",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Showcasing a parent straightening a young child's naturally thick curls followed immediately by a stark half-and-half comparison."
+  },
+  "structure": {
+   "format": "voiceover_broll",
+   "narrative_beats": [
+    "Hook: Curiosity about using steam to straighten daughter's curly hair.",
+    "Quick teaser of half-and-half comparison.",
+    "Product setup tutorial: Detaching and filling the water reservoir.",
+    "Feature breakdown & demo: Brushing through hair with steam activation to keep hair healthy and moisturized.",
+    "Benefit statement: Steam releases moisture, reducing heat damage compared to heat alone.",
+    "Result reveal: Silky straight, Rapunzel-length hair.",
+    "Offer & CTA: Discount code and link in bio."
+   ],
+   "main_angle": "less_heat_damage",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "easy_for_beginners",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Uses steam at 380 degrees to straighten curly hair",
+    "Keeps hair healthy and moisturized",
+    "Less damaging than heat alone",
+    "Leaves hair straight, shiny, and super long"
+   ],
+   "pain_points": [
+    "Heat damage from conventional straighteners on young or curly hair",
+    "Dry, frizzy, hard-to-manage curls"
+   ],
+   "objections_handled": [
+    "Is it complicated to set up? (Shows simple squeeze-bottle fill process)",
+    "Will heat fry delicate hair? (Explains steam hydrates and protects from heat damage)"
+   ],
+   "social_proof": [],
+   "comparison_to": "standard heat straighteners without steam"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steamline Pro"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 10.7,
+   "final_result_shown_s": 3.7,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "25% off",
+   "price_mentioned": "",
+   "discount_code": "ELLA25",
+   "urgency": "",
+   "cta_spoken": "Use ELLA25 for 25% off, link in bio.",
+   "cta_on_screen": "",
+   "cta_at_s": 28.7
+  },
+  "talent": {
+   "people_count": 2,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "Ella",
+   "age_range": "child (under 10)",
+   "hair_before": "Long, thick, dark brown/black tight natural curls",
+   "hair_after": "Ultra-sleek, glossy, straight waist-length dark brown hair",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "warm, gentle, sweet, relatable parenting UGC"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Uplifting, light, acoustic background melody.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 4.5,
+   "pacing": "medium",
+   "effects": [
+    "jump cut"
+   ],
+   "ending": "Close-up of smiling child admiring her straight hair as voiceover gives discount code and CTA."
+  },
+  "notes": "Features an English creator voiceover showcasing parent-child styling using the Steamline Pro. While tagged to an ad account active in LB/ME, the original creative is English US parenting UGC."
+ }
+}

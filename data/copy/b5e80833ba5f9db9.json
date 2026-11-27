@@ -1,0 +1,19 @@
+{
+ "language": "en",
+ "main_angle": "expert_endorsement",
+ "secondary_angles": [
+  "salon_result_at_home",
+  "frizz_or_curly_solution",
+  "less_heat_damage",
+  "easy_for_beginners",
+  "offer_discount_urgency"
+ ],
+ "opening_line": "When a hairdresser tells you this is better than what he uses in the salon...",
+ "opening_style": "expert_or_hairdresser",
+ "mentions_offer": true,
+ "offer": "30-day return policy, 25% off now, while stock lasts",
+ "social_proof": "When a hairdresser tells you this is better than what he uses in the salon...",
+ "cta": "Try it risk-free with our 30-day return policy, 25% off now, while stock lasts.",
+ "tone": "enthusiastic, convincing, professional",
+ "variation_count": 2
+}

@@ -1,0 +1,217 @@
+{
+ "media_key": "v_1381026770750378",
+ "analyzed_at": "2026-11-27T23:04:53+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "878cb72c72cf298fcb87bd9b1624a7b97cda0e28cdb094759b3afd38b21d5af2",
+ "source": {
+  "kind": "video",
+  "id": "1381026770750378",
+  "video_id": "1020446620520260",
+  "length_s": 25.401,
+  "permalink": "/23849366283980795/videos/1020446620520260/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 25.07,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator shares three reasons to buy the viral WavyTalk Blowout Boost thermal brush, highlighting results, ease of use, and a 15% discount.",
+  "full_description": "A young woman films a selfie-style talking-head video indoors holding the pink WavyTalk Blowout Boost thermal round brush. She presents three main reasons to purchase the tool: it gives voluminous, beautiful blowouts; it styles hair quickly in under 20 minutes even for curly hair; and it is currently available with a 15% discount. She speaks in Lebanese Arabic heavily mixed with English and French phrases.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 65,
+    "en": 30,
+    "fr": 5
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "3 reasons why you should buy this product من عند WavyTalk.",
+    "text_english": "3 reasons why you should buy this product from WavyTalk."
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 8.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أول شي هيدا الـ Blowout Boost تبع WavyTalk, it went viral parce que صرتوا بتعرفوا.",
+    "text_english": "First of all, this Blowout Boost from WavyTalk went viral, as you probably already know."
+   },
+   {
+    "start_s": 8.3,
+    "end_s": 13.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أول سبب إنه الـ blowouts تبعه كتير حلوين وبيعملكم volume بيعقد.",
+    "text_english": "First reason is that its blowouts look amazing and give you gorgeous volume."
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 20.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "تاني سبب إنه كتير هين وكتير سريع تستعملوه، بـ 20 minutes maximum بتكونوا عملتوا كل شعراتكم، إذا شعركم كمان كتير curly.",
+    "text_english": "Second reason is that it's super easy and quick to use, in 20 minutes maximum you have done all your hair, even if your hair is very curly."
+   },
+   {
+    "start_s": 20.2,
+    "end_s": 25.07,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وتالت سبب إنه عليه هلق 15% off, so get yours now before it's too late!",
+    "text_english": "And the third reason is that it currently has 15% off, so get yours now before it's too late!"
+   }
+  ],
+  "transcript_full_original": "3 reasons why you should buy this product من عند WavyTalk. أول شي هيدا الـ Blowout Boost تبع WavyTalk, it went viral parce que صرتوا بتعرفوا. أول سبب إنه الـ blowouts تبعه كتير حلوين وبيعملكم volume بيعقد. تاني سبب إنه كتير هين وكتير سريع تستعملوه، بـ 20 minutes maximum بتكونوا عملتوا كل شعراتكم، إذا شعركم كمان كتير curly. وتالت سبب إنه عليه هلق 15% off, so get yours now before it's too late!",
+  "transcript_full_english": "3 reasons why you should buy this product from WavyTalk. First of all, this Blowout Boost from WavyTalk went viral, as you probably already know. First reason is that its blowouts look amazing and give you gorgeous volume. Second reason is that it's super easy and quick to use, in 20 minutes maximum you have done all your hair, even if your hair is very curly. And the third reason is that it currently has 15% off, so get yours now before it's too late!",
+  "word_count": 65,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.4,
+    "shot_type": "medium close-up",
+    "visual": "Young woman facing camera holding the pink WavyTalk thermal brush in one hand and showing three fingers with the other hand.",
+    "action": "Creator delivers the hook stating three reasons to buy the product.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 8.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator continues talking to the camera, gesturing with the brush in hand.",
+    "action": "Creator explains that the tool went viral and mentions the brand name.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.3,
+    "end_s": 13.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator points one finger up while holding the tool, smiling.",
+    "action": "Creator explains reason #1: amazing blowouts and volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 20.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator flashes a peace sign (two fingers) and gestures while holding the brush.",
+    "action": "Creator explains reason #2: fast, easy styling in 20 minutes even for curly hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.2,
+    "end_s": 25.07,
+    "shot_type": "medium close-up",
+    "visual": "Creator raises three fingers, then points towards the camera / downwards.",
+    "action": "Creator delivers reason #3 (15% discount) and provides the closing call-to-action.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink WavyTalk Blowout Boost in one hand and flashing three fingers to the camera with long styled hair.",
+   "visual_0_3s": "Creator looks directly at the camera, holding up three fingers and showing the hair tool.",
+   "spoken_0_3s": "3 reasons why you should buy this product من عند WavyTalk",
+   "text_0_3s": "",
+   "hook_type": "curiosity_gap",
+   "hook_type_secondary": "social_proof",
+   "pattern_interrupt": "Immediate listicle statement spoken in clear English right at frame zero with hand gesture."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Hook: 3 reasons why to buy WavyTalk Blowout Boost",
+    "Credibility/hype: It went viral and everyone knows it",
+    "Reason 1: Gorgeous blowout results and volume",
+    "Reason 2: Fast (20 mins maximum) and easy even for curly hair",
+    "Reason 3 & CTA: 15% discount currently available, buy before it's too late"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "saves_time",
+    "easy_for_beginners",
+    "frizz_or_curly_solution",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Went viral",
+    "Gives beautiful blowouts and amazing volume",
+    "Styles entire hair in 20 minutes maximum",
+    "Works great even on very curly hair",
+    "Currently 15% off"
+   ],
+   "pain_points": [
+    "Long hair styling times",
+    "Difficulty managing and styling curly hair at home",
+    "Flat hair lacking volume"
+   ],
+   "objections_handled": [
+    "Will it work if my hair is very curly? Yes",
+    "Does it take too long? No, 20 minutes maximum"
+   ],
+   "social_proof": [
+    "Mention that the tool went viral and is widely known"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "15% off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "before it's too late",
+   "cta_spoken": "So get yours now before it's too late!",
+   "cta_on_screen": "",
+   "cta_at_s": 22.8
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Dark brown/black long, straight blowout hair (already styled)",
+   "hair_after": "Same styled hair throughout",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, casual, friendly UGC style"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "none",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 5.01,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator points towards the camera as she urges viewers to order now before it's too late."
+  },
+  "notes": "Direct-to-camera listicle format relying purely on creator delivery, urgency (15% off), and brand popularity rather than an in-video live demo."
+ }
+}

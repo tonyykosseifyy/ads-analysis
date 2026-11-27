@@ -1,0 +1,337 @@
+{
+ "media_key": "v_959936283174313",
+ "analyzed_at": "2026-11-27T19:49:20+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "623ab482bc69f6c357cfb4ec0aafade787a24dc014050f17b6c7122e6683d683",
+ "source": {
+  "kind": "video",
+  "id": "959936283174313",
+  "errors": [
+   "959936283174313: Gave up after 5 retries: https://graph.facebook.com/v26.0/959936283174313",
+   "1760495455362970: Gave up after 5 retries: https://graph.facebook.com/v26.0/1760495455362970"
+  ],
+  "ig_media_id": "18046986905738474",
+  "permalink": "https://www.instagram.com/p/DXqgNgojFYX/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 71.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A young woman provides a clear step-by-step tutorial on how to use the Wavytalk Blowout Boost thermal round brush for salon-quality curls and root volume at home in 15 minutes.",
+  "full_description": "The video starts with a young female creator showcasing bouncy blowout curls, explaining that she will demonstrate a slowed-down tutorial on how to use the Wavytalk Blowout Boost thermal brush. She shows her heat protectant, notes her heat setting (360°F), and demonstrates how to tension-pull the hair and twist at the end for a curl. She then teaches a second technique to create spiral curls by rolling vertically and unraveling without tangling. She shows how brushing underneath the crown section adds instant root lift, promising that once mastered, a full blowout takes only around 15 minutes. The video finishes with her flaunting her voluminous, shiny blowout and holding up the tool.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is how my hair looks when I normally do blowouts.",
+    "text_english": "This is how my hair looks when I normally do blowouts."
+   },
+   {
+    "start_s": 2.4,
+    "end_s": 6.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So I'm gonna be doing a slowed-down version on how to use this Blowout Boost.",
+    "text_english": "So I'm gonna be doing a slowed-down version on how to use this Blowout Boost."
+   },
+   {
+    "start_s": 6.2,
+    "end_s": 8.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "We're gonna go in with our heat protectant.",
+    "text_english": "We're gonna go in with our heat protectant."
+   },
+   {
+    "start_s": 8.1,
+    "end_s": 12.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now the temperature will completely depend on your hair type. I personally put mine at 360.",
+    "text_english": "Now the temperature will completely depend on your hair type. I personally put mine at 360."
+   },
+   {
+    "start_s": 12.5,
+    "end_s": 19.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Once again, you are going to wrap the hair around and then making sure that you can see the bristles through the hair, you are going to pull down with a good amount of tension.",
+    "text_english": "Once again, you are going to wrap the hair around and then making sure that you can see the bristles through the hair, you are going to pull down with a good amount of tension."
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 24.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And then you can just give it a little twist at the end to form your little curl.",
+    "text_english": "And then you can just give it a little twist at the end to form your little curl."
+   },
+   {
+    "start_s": 24.3,
+    "end_s": 26.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And simply roll it off.",
+    "text_english": "And simply roll it off."
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 32.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And to create more of a spiral, you are going to once again horizontally pull the brush down, making sure you see the bristles over the hair.",
+    "text_english": "And to create more of a spiral, you are going to once again horizontally pull the brush down, making sure you see the bristles over the hair."
+   },
+   {
+    "start_s": 32.5,
+    "end_s": 37.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And then, once you roll it, you are going to slowly roll it up and turn it vertically.",
+    "text_english": "And then, once you roll it, you are going to slowly roll it up and turn it vertically."
+   },
+   {
+    "start_s": 37.1,
+    "end_s": 43.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Once it's vertical like this, you just slowly unravel and slightly pull, your hair will not tangle if you follow the steps properly.",
+    "text_english": "Once it's vertical like this, you just slowly unravel and slightly pull, your hair will not tangle if you follow the steps properly."
+   },
+   {
+    "start_s": 43.0,
+    "end_s": 45.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And then you get the full curl.",
+    "text_english": "And then you get the full curl."
+   },
+   {
+    "start_s": 45.4,
+    "end_s": 49.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And for the right side of your face, you are also twisting it outwards onto the handle.",
+    "text_english": "And for the right side of your face, you are also twisting it outwards onto the handle."
+   },
+   {
+    "start_s": 49.3,
+    "end_s": 52.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You can go ahead and start a little bit away from the root.",
+    "text_english": "You can go ahead and start a little bit away from the root."
+   },
+   {
+    "start_s": 52.3,
+    "end_s": 57.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And as you can see, because we went underneath the section first, we have now that added volume at the roots.",
+    "text_english": "And as you can see, because we went underneath the section first, we have now that added volume at the roots."
+   },
+   {
+    "start_s": 57.0,
+    "end_s": 64.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I promise that once you do get the hang of it, you will easily be able to do your blowouts in 15 minutes or so.",
+    "text_english": "I promise that once you do get the hang of it, you will easily be able to do your blowouts in 15 minutes or so."
+   }
+  ],
+  "transcript_full_original": "This is how my hair looks when I normally do blowouts. So I'm gonna be doing a slowed-down version on how to use this Blowout Boost. We're gonna go in with our heat protectant. Now the temperature will completely depend on your hair type. I personally put mine at 360. Once again, you are going to wrap the hair around and then making sure that you can see the bristles through the hair, you are going to pull down with a good amount of tension. And then you can just give it a little twist at the end to form your little curl. And simply roll it off. And to create more of a spiral, you are going to once again horizontally pull the brush down, making sure you see the bristles over the hair. And then, once you roll it, you are going to slowly roll it up and turn it vertically. Once it's vertical like this, you just slowly unravel and slightly pull, your hair will not tangle if you follow the steps properly. And then you get the full curl. And for the right side of your face, you are also twisting it outwards onto the handle. You can go ahead and start a little bit away from the root. And as you can see, because we went underneath the section first, we have now that added volume at the roots. I promise that once you do get the hang of it, you will easily be able to do your blowouts in 15 minutes or so.",
+  "transcript_full_english": "This is how my hair looks when I normally do blowouts. So I'm gonna be doing a slowed-down version on how to use this Blowout Boost. We're gonna go in with our heat protectant. Now the temperature will completely depend on your hair type. I personally put mine at 360. Once again, you are going to wrap the hair around and then making sure that you can see the bristles through the hair, you are going to pull down with a good amount of tension. And then you can just give it a little twist at the end to form your little curl. And simply roll it off. And to create more of a spiral, you are going to once again horizontally pull the brush down, making sure you see the bristles over the hair. And then, once you roll it, you are going to slowly roll it up and turn it vertically. Once it's vertical like this, you just slowly unravel and slightly pull, your hair will not tangle if you follow the steps properly. And then you get the full curl. And for the right side of your face, you are also twisting it outwards onto the handle. You can go ahead and start a little bit away from the root. And as you can see, because we went underneath the section first, we have now that added volume at the roots. I promise that once you do get the hang of it, you will easily be able to do your blowouts in 15 minutes or so.",
+  "word_count": 218,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing camera showing finished blowout waves and voluminous curls.",
+    "action": "Creator talks to the camera, tilting her head to show the bouncy curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.5,
+    "end_s": 6.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding up the light blue Wavytalk Blowout Boost thermal brush.",
+    "action": "Holds up the brush next to her face and points at the barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.2,
+    "end_s": 8.0,
+    "shot_type": "close-up",
+    "visual": "Creator holding a dark bottle of Wavytalk heat protectant spray.",
+    "action": "Presents the heat protectant bottle to the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 12.5,
+    "shot_type": "close-up",
+    "visual": "Creator showing the controls and temperature settings of the Blowout Boost.",
+    "action": "Points out temperature settings, explaining she uses 360 degrees.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.5,
+    "end_s": 26.5,
+    "shot_type": "close-up",
+    "visual": "Creator demonstrating basic curl wrap and tension technique.",
+    "action": "Wraps hair strand, glides down with tension, curls the ends, and unrolls gently.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 45.4,
+    "shot_type": "close-up",
+    "visual": "Creator demonstrating spiral curl technique.",
+    "action": "Pulls brush down horizontally, rolls up, turns vertically, unrolls smoothly, and displays curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 45.4,
+    "end_s": 49.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling the right side away from face.",
+    "action": "Twists hair outwards around the barrel on the opposite side.",
+    "product_visible": true
+   },
+   {
+    "start_s": 49.8,
+    "end_s": 57.0,
+    "shot_type": "close-up",
+    "visual": "Creator styling the top root section.",
+    "action": "Places the brush underneath root section, lifts upward, and shows root volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 57.0,
+    "end_s": 104.0,
+    "shot_type": "medium close-up",
+    "visual": "Montage of creator styling remaining sections.",
+    "action": "Continuously styles remaining hair strands while speaking encouragingly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 104.0,
+    "end_s": 71.0,
+    "shot_type": "medium close-up",
+    "visual": "Finished hair showcase.",
+    "action": "Flips and shakes hair, holds up the tool proudly, and smiles at the camera.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing off bouncy, glossy blowout curls on both sides of her face.",
+   "visual_0_3s": "Creator flaunts completed blowout, then reveals the Blowout Boost thermal round brush.",
+   "spoken_0_3s": "This is how my hair looks when I normally do blowouts. So I'm gonna be doing a slowed-down version...",
+   "text_0_3s": "",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Immediate result showcase followed instantly by showing the exact tool used to achieve it."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Result preview hook",
+    "Product & prep introduction (heat protectant, temperature setting)",
+    "Technique 1: Classic bend/curl with tension",
+    "Technique 2: Defined spiral curl with vertical release (tangling objection addressed)",
+    "Technique 3: Root lift for maximum volume",
+    "Speed reassurance (blowouts in 15 minutes)",
+    "Final result reveal and tool presentation"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "saves_time",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Slowed-down easy technique",
+    "Hair will not tangle when following proper technique",
+    "Creates root volume effortlessly",
+    "Full blowout achievable in 15 minutes"
+   ],
+   "pain_points": [
+    "Thermal round brushes tangling or pulling hair",
+    "Blowouts taking too long or being too complicated",
+    "Flat roots without volume"
+   ],
+   "objections_handled": [
+    "Hair tangling in the bristles: addresses directly by demonstrating proper vertical release angle",
+    "Too complicated/intimidating: explains step-by-step with clear tension and rotation instructions"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional salon blowouts with round brush and blow dryer"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush",
+    "Wavytalk Heat Protectant"
+   ],
+   "first_seen_s": 2.5,
+   "first_used_on_hair_s": 12.5,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Brunette, long, styled into blowout on lower half with top section pinned up",
+   "hair_after": "Voluminous, glossy, bouncy brunette blowout curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "friendly, informative, clear, and reassuring"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Upbeat, rhythmic background pop instrumental track",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 12,
+   "avg_shot_length_s": 5.9,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between tutorial steps"
+   ],
+   "ending": "Creator smiling, tossing her blowout curls, and holding up the Wavytalk Blowout Boost tool"
+  },
+  "notes": "Original English UGC tutorial ad repurposed by WavyTalk Lebanon for paid Meta campaigns targeting users interested in thermal blowout tools."
+ }
+}

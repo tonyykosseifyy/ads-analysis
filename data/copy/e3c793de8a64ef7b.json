@@ -1,0 +1,18 @@
+{
+ "language": "en",
+ "main_angle": "expert_endorsement",
+ "secondary_angles": [
+  "salon_result_at_home",
+  "replaces_multiple_tools",
+  "volume_and_bounce",
+  "offer_discount_urgency"
+ ],
+ "opening_line": "You know what hairdressers notice first?",
+ "opening_style": "question",
+ "mentions_offer": true,
+ "offer": "25% OFF before the sale is gone",
+ "social_proof": "My stylist used the Whirlwind Curl on my hair and kept commenting",
+ "cta": "Grab yours now at 25% OFF before the sale is gone 🌟",
+ "tone": "enthusiastic, social-proof-driven, and persuasive",
+ "variation_count": 7
+}

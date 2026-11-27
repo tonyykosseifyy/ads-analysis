@@ -1,0 +1,19 @@
+{
+ "language": "en",
+ "main_angle": "price_value_vs_dyson",
+ "secondary_angles": [
+  "salon_result_at_home",
+  "quiet_or_gentle",
+  "volume_and_bounce",
+  "easy_for_beginners",
+  "offer_discount_urgency"
+ ],
+ "opening_line": "People are still spending $600 on a hair tool when this exists.",
+ "opening_style": "bold_claim",
+ "mentions_offer": true,
+ "offer": "30-day return policy — 20% off now, while stock lasts.",
+ "social_proof": "",
+ "cta": "Try it risk-free with our 30-day return policy — 20% off now, while stock lasts. ❤️",
+ "tone": "confident, direct, value-driven",
+ "variation_count": 5
+}

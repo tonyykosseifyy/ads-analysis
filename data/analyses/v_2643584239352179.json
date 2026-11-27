@@ -1,0 +1,159 @@
+{
+ "media_key": "v_2643584239352179",
+ "analyzed_at": "2026-11-27T18:36:58+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "0d6e16ea72cbf49c89967cb1ea5dba6d90c04c631368a6041a4578eedf728d11",
+ "source": {
+  "kind": "video",
+  "id": "2643584239352179",
+  "video_id": "1607347510868537",
+  "length_s": 16.486,
+  "permalink": "/23849366283980795/videos/1607347510868537/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 15.6,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates achieving a bouncy 90s blowout using the light blue thermal round brush, set to trending music.",
+  "full_description": "A creator in a black strapless top unwinds a curl from the blue WavyTalk thermal round brush (Blowout Boost) in her bedroom setting with the caption 'POV: You finally mastered that perfect 90s blowout'. The video cuts between her showing how she rolls and releases the brush through her front hair and posing to flaunt the voluminous, glossy, salon-style bounce.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.2,
+    "text": "POV: You finally mastered that perfect 90s blowout 💋",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator unwinding her hair from a light blue heated round styling brush.",
+    "action": "Unrolling the thermal brush from a lock of hair to reveal a perfectly curled, bouncy blowout strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.1,
+    "end_s": 6.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator looking at camera, touching and framing her voluminous hair.",
+    "action": "Fluffing her finished hairstyle with both hands and posing.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.3,
+    "end_s": 8.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling her front bangs/fringe section with the blue thermal brush.",
+    "action": "Pulling and releasing the round brush through her front section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.3,
+    "end_s": 15.6,
+    "shot_type": "medium shot",
+    "visual": "Creator running fingers through voluminous dark curls and posing sideways.",
+    "action": "Flipping hair, admiring the volume and shine from different angles.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the blue thermal brush in her curled hair with overlay text starting to type.",
+   "visual_0_3s": "Smooth satisfying curl release from the heated brush revealing a bouncy blowout curl.",
+   "spoken_0_3s": "",
+   "text_0_3s": "POV: You finally mastered that perfect 90s blowout 💋",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Satisfying, glossy hair unwinding motion immediately displaying salon-grade blowout results."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Satisfying reveal unwinding blowout curl with thermal brush",
+    "Voluminous result showcase and beauty posing",
+    "Quick clip demonstrating styling technique on bangs",
+    "Full finished hair showcase from multiple angles"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Achieve the perfect 90s blowout easily"
+   ],
+   "pain_points": [
+    "Difficulty mastering a professional voluminous blowout at home"
+   ],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 3.1,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-25",
+   "hair_before": "Glossy dark brown hair, already curled into blowout style",
+   "hair_after": "Voluminous, shiny 90s blowout with flipped ends and face-framing layers",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "glamorous and confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Smooth R&B/soul instrumental with background saxophone and vocal loop.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 3,
+   "avg_shot_length_s": 3.9,
+   "pacing": "medium",
+   "effects": [
+    "text overlay animation"
+   ],
+   "ending": "Creator turns profile to camera, holding her styled hair gently."
+  },
+  "notes": "Aesthetic lifestyle UGC ad focused on the popular '90s blowout' trend using the thermal heated brush without verbal explanation, leaning on visual beauty appeal and aspirational results."
+ }
+}

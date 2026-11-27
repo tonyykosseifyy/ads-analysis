@@ -1,0 +1,307 @@
+{
+ "media_key": "v_2158523724719265",
+ "analyzed_at": "2026-11-27T23:04:30+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "0dc7b977f3897386070e13359cc9a8e92a23dcf234972155e9eadd2e02987341",
+ "source": {
+  "kind": "video",
+  "id": "2158523724719265",
+  "errors": [
+   "2158523724719265: Gave up after 5 retries: https://graph.facebook.com/v26.0/2158523724719265"
+  ],
+  "video_id": "890500987447006",
+  "length_s": 55.633,
+  "permalink": "/23849366283980795/videos/890500987447006/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 55.4,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates achieving a bouncy blowout in 15 minutes using the Wavytalk Blowout Boost heated round brush.",
+  "full_description": "A creator starts with styled bouncy blowout hair as the hook, showing off the voluminous result, before showing the start time on her phone (11:59). She then sections her hair and demonstrates how to use the blue Wavytalk Blowout Boost thermal round brush, explaining technique (tension, rolling up ends) and benefits (negative ions, one pass, frizz-free). She reveals the finished look at 12:15 on her phone (15 minutes total styling time), tosses her voluminous curls, and recommends the affordable tool.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you guys want your blowouts to look perfect and effortless just like this one,",
+    "text_english": "If you guys want your blowouts to look perfect and effortless just like this one,"
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 7.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "keep watching, I'm going to show you exactly how I did it.",
+    "text_english": "keep watching, I'm going to show you exactly how I did it."
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 12.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "We're going to be starting at 11:59, and I'm going to show you how quickly we can get this done.",
+    "text_english": "We're going to be starting at 11:59, and I'm going to show you how quickly we can get this done."
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 17.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is Wavytalk's Blowout Boost. It is by far my absolute favorite hair tool.",
+    "text_english": "This is Wavytalk's Blowout Boost. It is by far my absolute favorite hair tool."
+   },
+   {
+    "start_s": 17.0,
+    "end_s": 24.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It'll straighten your hair in one pass, and also releases negative ions to make sure your hair stays frizz-free all day.",
+    "text_english": "It'll straighten your hair in one pass, and also releases negative ions to make sure your hair stays frizz-free all day."
+   },
+   {
+    "start_s": 24.3,
+    "end_s": 31.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The best way to achieve this hairstyle with the brush is by making sure you're holding it with a lot of tension whenever you're pulling downwards.",
+    "text_english": "The best way to achieve this hairstyle with the brush is by making sure you're holding it with a lot of tension whenever you're pulling downwards."
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 34.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I like to go all the way down, roll it up a little bit, and then release.",
+    "text_english": "I like to go all the way down, roll it up a little bit, and then release."
+   },
+   {
+    "start_s": 34.3,
+    "end_s": 38.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This allows the curls to form and give you so much more volume.",
+    "text_english": "This allows the curls to form and give you so much more volume."
+   },
+   {
+    "start_s": 38.0,
+    "end_s": 40.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now that we are done, it is 12:15.",
+    "text_english": "Now that we are done, it is 12:15."
+   },
+   {
+    "start_s": 40.5,
+    "end_s": 45.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is by far the best thing you can use on your hair to get a quick and easy hairstyle.",
+    "text_english": "This is by far the best thing you can use on your hair to get a quick and easy hairstyle."
+   },
+   {
+    "start_s": 45.3,
+    "end_s": 49.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "As you can see, I did mine in 15 minutes, and it looks absolutely perfect.",
+    "text_english": "As you can see, I did mine in 15 minutes, and it looks absolutely perfect."
+   },
+   {
+    "start_s": 49.8,
+    "end_s": 55.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This hair tool works on all hair types and is super affordable, so I definitely recommend you check it out.",
+    "text_english": "This hair tool works on all hair types and is super affordable, so I definitely recommend you check it out."
+   }
+  ],
+  "transcript_full_original": "If you guys want your blowouts to look perfect and effortless just like this one, keep watching, I'm going to show you exactly how I did it. We're going to be starting at 11:59, and I'm going to show you how quickly we can get this done. This is Wavytalk's Blowout Boost. It is by far my absolute favorite hair tool. It'll straighten your hair in one pass, and also releases negative ions to make sure your hair stays frizz-free all day. The best way to achieve this hairstyle with the brush is by making sure you're holding it with a lot of tension whenever you're pulling downwards. I like to go all the way down, roll it up a little bit, and then release. This allows the curls to form and give you so much more volume. Now that we are done, it is 12:15. This is by far the best thing you can use on your hair to get a quick and easy hairstyle. As you can see, I did mine in 15 minutes, and it looks absolutely perfect. This hair tool works on all hair types and is super affordable, so I definitely recommend you check it out.",
+  "transcript_full_english": "If you guys want your blowouts to look perfect and effortless just like this one, keep watching, I'm going to show you exactly how I did it. We're going to be starting at 11:59, and I'm going to show you how quickly we can get this done. This is Wavytalk's Blowout Boost. It is by far my absolute favorite hair tool. It'll straighten your hair in one pass, and also releases negative ions to make sure your hair stays frizz-free all day. The best way to achieve this hairstyle with the brush is by making sure you're holding it with a lot of tension whenever you're pulling downwards. I like to go all the way down, roll it up a little bit, and then release. This allows the curls to form and give you so much more volume. Now that we are done, it is 12:15. This is by far the best thing you can use on your hair to get a quick and easy hairstyle. As you can see, I did mine in 15 minutes, and it looks absolutely perfect. This hair tool works on all hair types and is super affordable, so I definitely recommend you check it out.",
+  "word_count": 182,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.1,
+    "text": "POV: you MASTERED quick and easy blowouts",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.4,
+    "shot_type": "medium close-up selfie",
+    "visual": "Creator in a grey top running hands through voluminous styled blowout curls in front of bathroom mirror.",
+    "action": "Flaunting bouncy, layered blowout curls to the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 6.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding up the light blue Wavytalk Blowout Boost thermal round brush towards the camera.",
+    "action": "Showing the brush features and smiling.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.9,
+    "end_s": 8.7,
+    "shot_type": "close-up",
+    "visual": "Creator holding up her smartphone showing the lock screen clock reading 11:59.",
+    "action": "Proving the start time before styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 12.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushing through hair section with a paddle brush then grabbing the Wavytalk Blowout Boost.",
+    "action": "Detangling and preparing the bottom hair section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 38.0,
+    "shot_type": "medium close-up demo",
+    "visual": "Montage of creator styling different hair sections using the thermal brush.",
+    "action": "Demonstrating how she glides down hair with tension, curls inward/outward at the ends, and releases defined bouncy curls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 38.0,
+    "end_s": 40.0,
+    "shot_type": "close-up",
+    "visual": "Creator holds phone screen to camera displaying the time 12:15.",
+    "action": "Proving the styling took approximately 15 minutes.",
+    "product_visible": false
+   },
+   {
+    "start_s": 40.0,
+    "end_s": 53.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator running her fingers through full, thick, bouncy blowout curls, turning side to side and back.",
+    "action": "Showing off the final blowout result from multiple angles.",
+    "product_visible": false
+   },
+   {
+    "start_s": 53.5,
+    "end_s": 55.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the Wavytalk Blowout Boost tool beside her styled hair.",
+    "action": "Holding tool smiling, posing for final call-to-action.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator turning her head showing off gorgeous bouncy blowout curls with text overlay 'POV: you MASTERED quick and easy blowouts'.",
+   "visual_0_3s": "Creator shaking and fluffing her voluminous curls facing camera.",
+   "spoken_0_3s": "If you guys want your blowouts to look perfect and effortless just like this one,",
+   "text_0_3s": "POV: you MASTERED quick and easy blowouts",
+   "hook_type": "result_first",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Immediate result showcase paired with a phone clock challenge proving it only takes 15 minutes."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook with perfect bouncy blowout result",
+    "Time challenge setup with phone clock at 11:59",
+    "Product intro (Wavytalk Blowout Boost) and key features",
+    "Step-by-step technique breakdown (tension, pulling down, rolling ends)",
+    "Time reveal at 12:15 (15-minute proof)",
+    "Final look showcase and recommendation CTA"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Full blowout in 15 minutes",
+    "Straightens in one pass",
+    "Negative ions keep hair frizz-free all day",
+    "Works on all hair types",
+    "Super affordable"
+   ],
+   "pain_points": [
+    "Blowouts take too long",
+    "Frizzy hair throughout the day",
+    "Difficult styling tools"
+   ],
+   "objections_handled": [
+    "Takes too long: demonstrated in real-time clock check taking only 15 minutes",
+    "Hard to do: demonstrates simple glide and roll technique with tension",
+    "Expensive: mentions it is super affordable"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 5.4,
+   "first_used_on_hair_s": 9.8,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "so I definitely recommend you check it out",
+   "cta_on_screen": "",
+   "cta_at_s": 53.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Brunette, medium-long, wavy/straight sectioned hair",
+   "hair_after": "Voluminous, bouncy, glossy 90s-style blowout curls",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "friendly, informative, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle background audio track underneath clear voiceover",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 3.96,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts",
+    "speed ramp / montage clips"
+   ],
+   "ending": "Creator posing with the blue Blowout Boost brush next to her styled curls."
+  },
+  "notes": "English UGC video demonstrating the blue Wavytalk Blowout Boost thermal round brush with a timed 15-minute challenge framework. Repurposed for advertising in Lebanon/MENA."
+ }
+}

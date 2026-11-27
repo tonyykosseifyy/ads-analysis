@@ -1,0 +1,183 @@
+{
+ "media_key": "v_25826193117043891",
+ "analyzed_at": "2026-11-27T22:38:49+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "b38562700ca50863276036f62a6ee3e466460caeacea5e8611fdb507b9749aac",
+ "source": {
+  "kind": "video",
+  "id": "25826193117043891",
+  "errors": [
+   "25826193117043891: Gave up after 5 retries: https://graph.facebook.com/v26.0/25826193117043891",
+   "1553236962638938: Gave up after 5 retries: https://graph.facebook.com/v26.0/1553236962638938"
+  ],
+  "ig_media_id": "17872859889520978",
+  "permalink": "https://www.instagram.com/p/DURdGT-jIaJ/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 58.74,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates achieving a voluminous salon-style blowout using a pink thermal round brush.",
+  "full_description": "A creator starts by showcasing finished, voluminous bouncy hair while holding a pink thermal round brush. The video cuts to her applying heat protectant spray to her natural hair, then demonstrates rolling, curling, and releasing different sections of her long brown hair step-by-step, including the bangs, before revealing the final bouncy blowout look.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 58.74,
+    "text": "blowout on a budget",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator showing voluminous blowout hair while holding the pink thermal brush",
+    "action": "Creator poses and points to her styled bouncy hair",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 2.1,
+    "shot_type": "medium shot",
+    "visual": "Creator holding a purple spray bottle",
+    "action": "Spritzing heat protectant onto hair section before styling",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 35.8,
+    "shot_type": "medium shot",
+    "visual": "Creator using the pink heated round brush on side sections of hair",
+    "action": "Brushing, wrapping strands around the barrel, rolling up to the root, and twisting out",
+    "product_visible": true
+   },
+   {
+    "start_s": 35.8,
+    "end_s": 49.5,
+    "shot_type": "medium shot",
+    "visual": "Creator curling the lower and opposite sections of hair",
+    "action": "Rolling hair through the barrel and pulling through ends smoothly",
+    "product_visible": true
+   },
+   {
+    "start_s": 49.5,
+    "end_s": 56.4,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the front bangs and crown section",
+    "action": "Rolling top layers backward and letting the curtain bangs fall forward",
+    "product_visible": true
+   },
+   {
+    "start_s": 56.4,
+    "end_s": 58.74,
+    "shot_type": "medium shot",
+    "visual": "Finished hairstyle result",
+    "action": "Creator fluffs hair with hands and displays the pink thermal brush to camera",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator showcasing voluminous curls holding the pink styling tool with 'blowout on a budget' overlay",
+   "visual_0_3s": "Result shown first, followed by quick cut to hair prep and first curl step",
+   "spoken_0_3s": "",
+   "text_0_3s": "blowout on a budget",
+   "hook_type": "result_first",
+   "hook_type_secondary": "offer_or_price",
+   "pattern_interrupt": "Immediate presentation of finished glam blowout before jumping into the tutorial"
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Show finished voluminous blowout result",
+    "Step-by-step curling demo with thermal brush",
+    "Bangs and face-framing layer demonstration",
+    "Final hair fluff and product reveal"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "price_value_vs_dyson"
+   ],
+   "key_claims": [
+    "Affordable salon-quality blowout",
+    "Creates volume and bounce easily"
+   ],
+   "pain_points": [
+    "Expensive salon blowouts",
+    "Complicated blowout routines"
+   ],
+   "objections_handled": [
+    "Ease of creating curls and volume at home"
+   ],
+   "social_proof": [],
+   "comparison_to": "Expensive salon blowouts or high-end tools"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Round Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 2.1,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, dark brown straight/slightly wavy hair",
+   "hair_after": "Voluminous layered blowout curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "calm, aesthetic, tutorial-focused"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Soul/R&B classic song 'Groovin' playing in the background",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 4.2,
+   "pacing": "medium",
+   "effects": [
+    "text overlay",
+    "jump cuts"
+   ],
+   "ending": "Creator smiling, fluffing her curls and holding up the tool"
+  },
+  "notes": "Non-verbal video aesthetic demo relying entirely on visual tutorial and music."
+ }
+}

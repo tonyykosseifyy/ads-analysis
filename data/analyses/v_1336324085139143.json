@@ -1,0 +1,173 @@
+{
+ "media_key": "v_1336324085139143",
+ "analyzed_at": "2026-11-27T20:37:20+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "c7244d481d6fa98eb1a146fbe3f65c0fe6bade662e63911d0f1cabff1ebde667",
+ "source": {
+  "kind": "video",
+  "id": "1336324085139143",
+  "errors": [
+   "1336324085139143: Gave up after 5 retries: https://graph.facebook.com/v26.0/1336324085139143",
+   "869142542925118: Gave up after 5 retries: https://graph.facebook.com/v26.0/869142542925118"
+  ],
+  "ig_media_id": "18000004910955490",
+  "permalink": "https://www.instagram.com/p/DZ_8x3-MVVt/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 13.7,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Fast-paced UGC montage of four different women styling quick, salon-quality blowouts using the WavyTalk heated round brush.",
+  "full_description": "The video is a compilation ad showcasing four diverse female creators achieving bouncy blowout looks in seconds using the WavyTalk Blowout Boost thermal round brush. Each creator is filmed in a selfie home setup demonstrating how effortlessly the brush curls and adds volume to bangs and layered hair, set to an upbeat trending soundtrack with an overlay emphasizing '10 second blowouts'.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 9.1,
+    "text": "10 second blowouts >>>",
+    "role": "hook"
+   },
+   {
+    "start_s": 9.1,
+    "end_s": 13.7,
+    "text": "10 second blowouts >>>\n🤍 😍",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "close-up selfie",
+    "visual": "Young woman with dark layered hair using a purple heated round brush on her front fringe.",
+    "action": "She twists and rolls the brush out of her bangs, revealing a bouncy, flipped curtain bang look.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 5.5,
+    "shot_type": "medium selfie",
+    "visual": "Young woman with long auburn red hair seated in her bedroom.",
+    "action": "She releases a section of hair from a claw clip, styles the strand with a pink thermal brush, and fluffs out her voluminous blowout.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 9.1,
+    "shot_type": "close-up selfie",
+    "visual": "Creator with dark hair, blunt bangs, and a septum piercing wearing a green crochet top.",
+    "action": "She smooths and flips the end of her hair with a yellow thermal brush, then poses and frames her face with a hand heart.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.1,
+    "end_s": 13.7,
+    "shot_type": "medium selfie",
+    "visual": "Creator with brunette hair and red lipstick wearing an off-shoulder white top.",
+    "action": "She twirls the pink thermal brush through the bottom layers of her hair, pulls it through, and tosses her styled hair proudly.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator rolling bangs around a purple thermal styling brush with headline '10 second blowouts >>>'.",
+   "visual_0_3s": "Fast motion of creator curling bangs and immediately showing bouncy salon volume.",
+   "spoken_0_3s": "",
+   "text_0_3s": "10 second blowouts >>>",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Rapid demonstration of instant styling results backed by energetic pop music."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Hook with bold claim of 10-second blowouts on bangs",
+    "Compilation of diverse creators showcasing quick, flawless results on different hair types and colors",
+    "Display of effortless salon-grade volume and bounce"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Achieve full blowout look in 10 seconds"
+   ],
+   "pain_points": [
+    "Traditional blowouts take too long or require complicated round brush and hairdryer coordination"
+   ],
+   "objections_handled": [
+    "Works across various hair lengths, textures, bangs, and layers"
+   ],
+   "social_proof": [
+    "UGC montage featuring multiple satisfied content creators"
+   ],
+   "comparison_to": "Traditional salon blowouts / multi-step blow drying"
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 1.2,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 4,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Straight to loose wavy unstyled sections",
+   "hair_after": "Voluminous, bouncy blowout with curled ends and styled bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident and trendy"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Upbeat R&B/pop trend remix track featuring female vocals",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 3,
+   "avg_shot_length_s": 3.4,
+   "pacing": "fast",
+   "effects": [
+    "Speed ramping",
+    "Text overlay with emoji"
+   ],
+   "ending": "Creator smiling and tossing styled hair directly to the camera"
+  },
+  "notes": "Short compilation style UGC ad designed for TikTok/Instagram Reels feed, leveraging visual satisfaction and speed of results without voiceover."
+ }
+}

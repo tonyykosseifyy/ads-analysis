@@ -1,0 +1,316 @@
+{
+ "media_key": "v_1790007195544601",
+ "analyzed_at": "2026-11-27T19:17:15+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "d89466a304fa7fc61a44a4cb4a7869c381ce98a42c7a13b9d9bec21964895784",
+ "source": {
+  "kind": "video",
+  "id": "1790007195544601",
+  "errors": [
+   "1790007195544601: Gave up after 5 retries: https://graph.facebook.com/v26.0/1790007195544601",
+   "1465432358798596: Gave up after 5 retries: https://graph.facebook.com/v26.0/1465432358798596"
+  ],
+  "ig_media_id": "18118061195106355",
+  "permalink": "https://www.instagram.com/p/De9H1Bts1Uo/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 62.9,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates curling her hair with the Wavytalk airflow straightener, explaining why the cooling vents and clamp design make styling easier.",
+  "full_description": "A blonde female creator shows the results of styling her hair with the pink Wavytalk airflow styler and flat iron. She demos the tool on her hair, showcases its temperature display and clamp features, and explains two major benefits over standard flat irons: the cool-air vents setting the curl instantly and the open-close clamp relieving tension to prevent kinks. She finishes by showing her voluminous boho waves and tells viewers to comment below for a direct link and a 25% discount code.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 2.2,
+    "end_s": 5.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I can't believe I just did this with a flat iron. Seriously amazing.",
+    "text_english": "I can't believe I just did this with a flat iron. Seriously amazing."
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 10.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This was an I had to try in order for me to believe situation. Airflow straightener and styler, let's go.",
+    "text_english": "This was an I had to try in order for me to believe situation. Airflow straightener and styler, let's go."
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 23.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Even curlier than I wanted. It was amazing.",
+    "text_english": "Even curlier than I wanted. It was amazing."
+   },
+   {
+    "start_s": 27.5,
+    "end_s": 34.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Here's what it looks like all done on this side. Perfectly boho, exact look I was going for. Was so easy.",
+    "text_english": "Here's what it looks like all done on this side. Perfectly boho, exact look I was going for. Was so easy."
+   },
+   {
+    "start_s": 34.0,
+    "end_s": 43.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If I were to break down why this is so much easier than a flat iron: two reasons. One, you have the airflow coming out the back, which is helping to cool the curl, so it's already cooled before it ends.",
+    "text_english": "If I were to break down why this is so much easier than a flat iron: two reasons. One, you have the airflow coming out the back, which is helping to cool the curl, so it's already cooled before it ends."
+   },
+   {
+    "start_s": 43.8,
+    "end_s": 55.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Second benefit: you can open and close it like a curling iron as you're going down, which helps relieve tension. You shouldn't get the wacky, uneven 'what did I even just do with this?' It should be pretty smooth sailing.",
+    "text_english": "Second benefit: you can open and close it like a curling iron as you're going down, which helps relieve tension. You shouldn't get the wacky, uneven 'what did I even just do with this?' It should be pretty smooth sailing."
+   },
+   {
+    "start_s": 55.8,
+    "end_s": 59.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at that. And these are like tight curls. They're going to stay so good.",
+    "text_english": "Look at that. And these are like tight curls. They're going to stay so good."
+   },
+   {
+    "start_s": 59.9,
+    "end_s": 62.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So good. Make sure you comment below and I will send you the direct link to this.",
+    "text_english": "So good. Make sure you comment below and I will send you the direct link to this."
+   }
+  ],
+  "transcript_full_original": "I can't believe I just did this with a flat iron. Seriously amazing. This was an I had to try in order for me to believe situation. Airflow straightener and styler, let's go. Even curlier than I wanted. It was amazing. Here's what it looks like all done on this side. Perfectly boho, exact look I was going for. Was so easy. If I were to break down why this is so much easier than a flat iron: two reasons. One, you have the airflow coming out the back, which is helping to cool the curl, so it's already cooled before it ends. Second benefit: you can open and close it like a curling iron as you're going down, which helps relieve tension. You shouldn't get the wacky, uneven 'what did I even just do with this?' It should be pretty smooth sailing. Look at that. And these are like tight curls. They're going to stay so good. So good. Make sure you comment below and I will send you the direct link to this.",
+  "transcript_full_english": "I can't believe I just did this with a flat iron. Seriously amazing. This was an I had to try in order for me to believe situation. Airflow straightener and styler, let's go. Even curlier than I wanted. It was amazing. Here's what it looks like all done on this side. Perfectly boho, exact look I was going for. Was so easy. If I were to break down why this is so much easier than a flat iron: two reasons. One, you have the airflow coming out the back, which is helping to cool the curl, so it's already cooled before it ends. Second benefit: you can open and close it like a curling iron as you're going down, which helps relieve tension. You shouldn't get the wacky, uneven 'what did I even just do with this?' It should be pretty smooth sailing. Look at that. And these are like tight curls. They're going to stay so good. So good. Make sure you comment below and I will send you the direct link to this.",
+  "word_count": 169,
+  "speech_starts_at_s": 2.2,
+  "on_screen_text": [
+   {
+    "start_s": 2.5,
+    "end_s": 62.8,
+    "text": "THIS WITH A FLAT IRON / SERIOUSLY AMAZING / THIS WAS AN / I HAD TO / TRY IN ORDER FOR ME TO / BELIEVE SITUATION / AIRFLOW / STRAIGHTENER AND STYLER / LET'S GO / EVEN CURLIER THAN I WANTED / IT WAS AMAZING / HERE'S WHAT IT LOOKS LIKE / ALL DONE ON THIS SIDE / PERFECTLY BOHO / EXACT LOOK I WAS GOING FOR / WAS SO EASY / IF I WERE TO BREAK DOWN / WHY THIS IS SO MUCH EASIER / THAN A FLAT IRON / 2 REASONS 1 / YOU HAVE THE AIRFLOW COMING OUT / THE BACK / WHICH IS HELPING TO COOL THE / CURL / SO IT'S ALREADY COOLED BEFORE IT / ENDS / 2ND BENEFIT / YOU CAN OPEN AND CLOSE IT / LIKE A CURLING IRON / AS YOU'RE GOING DOWN / WHICH HELPS RELIEVE / TENSION / YOU SHOULDN'T GET / THE WACKY / UNEVEN / WHAT DID I / EVEN JUST DO / WITH THIS / IT SHOULD BE / PRETTY SMOOTH SAILING / LOOK AT THAT / AND THESE ARE / LIKE TIGHT CURLS / THEY'RE GONNA STAY / SO GOOD / MAKE SURE YOU COMMENT BELOW / AND I WILL SEND YOU THE / DIRECT LINK TO THIS",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 59.8,
+    "end_s": 62.8,
+    "text": "Code BROOKE25 for 25% off!",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator in brown cardigan holding the pink airflow flat iron, gliding it through hair and inspecting the resulting springy curl.",
+    "action": "Glides tool down a hair strand, pulls out a tight bouncy curl, and looks surprised.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.5,
+    "end_s": 4.8,
+    "shot_type": "medium shot",
+    "visual": "Creator displaying full head of wavy hair with hands raised, smiling at camera.",
+    "action": "Speaks to camera expressing disbelief at how well the flat iron performed.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 10.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds up the pink Wavytalk airflow tool, pointing to the airflow vents.",
+    "action": "Introduces the tool and explains she had to try it to believe it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.8,
+    "end_s": 13.7,
+    "shot_type": "close-up",
+    "visual": "Close-up of the styler showing digital temperature screen displaying 420F, then opening and closing the plates.",
+    "action": "Demonstrates the clamp open-and-close mechanism.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.7,
+    "end_s": 20.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator clamping a strand of hair and twisting the tool downwards.",
+    "action": "Glides the tool smoothly down her hair to create a spiral wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.6,
+    "end_s": 23.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator touching the curl and talking to the camera excitedly.",
+    "action": "Shows the tight curl and smiles.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.3,
+    "end_s": 28.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the front framing section around her face, then showing the curl.",
+    "action": "Twists front piece through the iron and lets it bounce into place.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 34.0,
+    "shot_type": "medium shot",
+    "visual": "Creator running fingers through the finished wavy side of her hair.",
+    "action": "Shows the boho wave result and praises how easy it was.",
+    "product_visible": true
+   },
+   {
+    "start_s": 34.0,
+    "end_s": 43.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator curls another section while explaining reason 1 (cooling airflow).",
+    "action": "Curls hair while detailing how cold airflow locks the curl shape immediately.",
+    "product_visible": true
+   },
+   {
+    "start_s": 43.6,
+    "end_s": 45.4,
+    "shot_type": "close-up",
+    "visual": "Close-up of the creator demonstrating the clamp spring action with her fingers.",
+    "action": "Clicks the iron clamp open and shut.",
+    "product_visible": true
+   },
+   {
+    "start_s": 45.4,
+    "end_s": 55.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator curls hair using the clamping motion to relieve tension.",
+    "action": "Glides through hair smoothly without snagging or crimping.",
+    "product_visible": true
+   },
+   {
+    "start_s": 55.4,
+    "end_s": 59.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator feels and bounces the newly curled piece in her hand.",
+    "action": "Shows the definition and tightness of the wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 59.8,
+    "end_s": 62.9,
+    "shot_type": "medium shot",
+    "visual": "Creator shows full styled hair, gesturing to viewers to comment below, with discount text overlay.",
+    "action": "Delivers call to action to comment for the direct link.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator pulling down a hot styler through her hair in a bedroom setting.",
+   "visual_0_3s": "Creator finishes curling a strand, releases a bouncy coil, and looks at the camera in disbelief before cutting to her full wavy hair.",
+   "spoken_0_3s": "I can't believe I just did this with a flat iron.",
+   "text_0_3s": "THIS WITH A FLAT IRON / SERIOUSLY AMAZING",
+   "hook_type": "result_first",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Rapid jump cut from curling a single strand straight to showing fully styled voluminous boho waves."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: Immediate shock at the styling result using a flat iron",
+    "Product Introduction: Explains the airflow styler concept",
+    "Live Demo: Shows curling action in real time",
+    "Value Breakdown: Two distinct technical reasons why this tool beats regular flat irons (cooling vents & tension release clamp)",
+    "Final Result & CTA: Showcases full hair look, discount promo code, and instructs viewers to comment for link"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "salon_result_at_home",
+    "replaces_multiple_tools"
+   ],
+   "key_claims": [
+    "Airflow instantly cools curls as they leave the plates to lock in shape",
+    "Curling-iron-style clamp relieves tension to prevent kinks and uneven styling",
+    "Creates perfect boho waves without the awkward struggle of a standard flat iron"
+   ],
+   "pain_points": [
+    "Traditional flat irons get stuck, create tension, and cause wacky uneven kinks",
+    "Curls dropping immediately because they don't cool quickly enough"
+   ],
+   "objections_handled": [
+    "Flat iron curls are too hard or turn out weird (handled by tension relief clamp explanation)",
+    "Curls don't last (handled by airflow cooling feature explanation)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional flat iron / hair straightener"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Whirlwind Curl / Airflow Styler"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 2.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "25% off",
+   "price_mentioned": "",
+   "discount_code": "BROOKE25",
+   "urgency": "",
+   "cta_spoken": "Make sure you comment below and I will send you the direct link to this",
+   "cta_on_screen": "Code BROOKE25 for 25% off!",
+   "cta_at_s": 59.8
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "Brooke",
+   "age_range": "30-39",
+   "hair_before": "Straight to slightly wavy highlighted blonde/light brown long hair",
+   "hair_after": "Voluminous, defined boho spiral beach waves",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, practical, educational"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "None, natural creator speech and tool handling sounds.",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 11,
+   "avg_shot_length_s": 5.7,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts",
+    "dynamic animated word-by-word subtitles"
+   ],
+   "ending": "Creator showing styled hair and smiling while asking for comments."
+  },
+  "notes": "Influencer UGC ad for the Wavytalk Airflow Styler / Whirlwind Curl featuring creator Brooke offering her promo code BROOKE25."
+ }
+}

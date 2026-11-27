@@ -1,0 +1,15 @@
+{
+ "language": "en",
+ "main_angle": "offer_discount_urgency",
+ "secondary_angles": [
+  "social_proof_popularity"
+ ],
+ "opening_line": "Still thinking about it? Your {{product.name}} is 20% OFF — ends this week!",
+ "opening_style": "question",
+ "mentions_offer": true,
+ "offer": "20% OFF — ends this week!",
+ "social_proof": "Selling Fast!",
+ "cta": "Grab Your {{product.name}}  Now",
+ "tone": "urgent, direct, promotional",
+ "variation_count": 2
+}

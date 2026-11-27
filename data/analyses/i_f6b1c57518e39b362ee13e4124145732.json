@@ -1,0 +1,154 @@
+{
+ "media_key": "i_f6b1c57518e39b362ee13e4124145732",
+ "analyzed_at": "2026-11-27T18:45:06+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "994a4c2a1a1b2bcde3ea3a996d486497998432bb12d1dc0e7ccd04ad020b0952",
+ "source": {
+  "kind": "image",
+  "id": "f6b1c57518e39b362ee13e4124145732"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "A static graphic featuring a customer testimonial praising the WavyTalk Blowout Boost thermal brush, accompanied by press logos.",
+  "full_description": "Static image ad on a clean white background. Top left features a bold headline quotation: '“The easiest blowout I’ve ever done at home”' with 'easiest blowout' and 'home' highlighted in pink, attributed to '- A happy wavyTalk customer'. A curved black doodle arrow points towards the WavyTalk thermal brush (Blowout Boost in rose gold/pink) angled on the right side. Below the text is a light blue rectangular banner reading 'UNLOCK BETTER HAIR DAYS'. Across the bottom is a divider with 'AS SEEN ON' and logos of major fashion/beauty publications: WWD, Forbes, InStyle, Harper's BAZAAR, Allure, and ELLE.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "“The easiest blowout I’ve ever done at home ”",
+    "role": "hook"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "- A happy wavyTalk customer",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "UNLOCK BETTER HAIR DAYS",
+    "role": "cta"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "AS SEEN ON WWD Forbes InStyle BAZAAR allure ELLE",
+    "role": "brand"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "graphic_product_shot",
+    "visual": "White background with a customer quote on the left, an arrow pointing to the WavyTalk Blowout Boost thermal round brush on the right, a CTA banner below, and media endorsement logos along the bottom.",
+    "action": "Static image graphic displaying social proof quote and product image.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Bold text quote 'The easiest blowout I've ever done at home' paired with product render of thermal round brush.",
+   "visual_0_3s": "Static image with customer quote, product visual, and 'AS SEEN ON' press bar.",
+   "spoken_0_3s": "",
+   "text_0_3s": "“The easiest blowout I’ve ever done at home ” - A happy wavyTalk customer",
+   "hook_type": "social_proof",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "High-contrast pink and black typography with hand-drawn arrow pointing to the product."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Customer quote highlighting ease of at-home blowout",
+    "Product showcase with visual arrow connection",
+    "Credibility booster with prominent media publication logos"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "easy_for_beginners",
+    "social_proof_popularity"
+   ],
+   "key_claims": [
+    "Easiest blowout done at home",
+    "Featured in WWD, Forbes, InStyle, Bazaar, Allure, Elle"
+   ],
+   "pain_points": [
+    "Traditional blowouts at home are difficult, tiring, or clumsy"
+   ],
+   "objections_handled": [
+    "Is it easy enough to use by myself at home?",
+    "Is this a reputable, recognized brand?"
+   ],
+   "social_proof": [
+    "Customer review quote from 'A happy wavyTalk customer'",
+    "As seen on WWD, Forbes, InStyle, Harper's BAZAAR, Allure, ELLE"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "UNLOCK BETTER HAIR DAYS",
+   "cta_at_s": 0
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "studio",
+   "faces_camera": false,
+   "energy_tone": ""
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [],
+   "ending": "Static image graphic"
+  },
+  "notes": "Static image creative utilized for paid social conversion/retargeting campaigns, focusing on social proof and PR press authority."
+ }
+}

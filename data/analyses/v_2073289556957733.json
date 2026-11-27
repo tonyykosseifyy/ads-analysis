@@ -1,0 +1,212 @@
+{
+ "media_key": "v_2073289556957733",
+ "analyzed_at": "2026-11-27T19:48:43+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "4ec1ac3712b50b3a066b718db1f0b23232d5abc7927d7faecadd98f52cc0db4d",
+ "source": {
+  "kind": "video",
+  "id": "2073289556957733",
+  "errors": [
+   "2073289556957733: Gave up after 5 retries: https://graph.facebook.com/v26.0/2073289556957733",
+   "1057070173343345: Gave up after 5 retries: https://graph.facebook.com/v26.0/1057070173343345"
+  ],
+  "ig_media_id": "18570046189066119",
+  "permalink": "https://www.instagram.com/p/Dar-S_3M5Mr/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 55.06,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates styling a bouncy 90s bob blowout using the Wavytalk thermal round brush.",
+  "full_description": "The video starts with a brief flash of the finished voluminous bouncy bob, followed by a close-up of the lavender Wavytalk thermal round brush (Blowout Boost). The creator then sections her hair and demonstrates step-by-step how she curls under each section, including the back layers and front bangs, ending with running her fingers through the full, bouncy, voluminous blowout. Text overlays highlight achieving the perfect blowout and a price under $45.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 32.5,
+    "text": "Getting the most perfect blowout look every single time with this brush",
+    "role": "hook"
+   },
+   {
+    "start_s": 32.8,
+    "end_s": 55.0,
+    "text": "it's under $45 now!!",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing camera tossing her finished bouncy styled hair with her hand.",
+    "action": "Flaunts finished voluminous bob hairstyle.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 2.2,
+    "shot_type": "close-up",
+    "visual": "Creator holds the purple Wavytalk thermal round brush upright toward the camera.",
+    "action": "Presents product to camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 8.5,
+    "shot_type": "close-up",
+    "visual": "Creator styling the lower side section of her hair using the thermal brush.",
+    "action": "Curling the ends inward and releasing a polished bounce.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 18.0,
+    "shot_type": "medium close-up",
+    "visual": "Hair tied up in a half-up bun; creator styles lower back section.",
+    "action": "Brushes and rolls under the bottom layer of hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 25.5,
+    "shot_type": "close-up",
+    "visual": "Creator curls side hair strand around the barrel close to her face.",
+    "action": "Holds brush rolled into hair and glides it down to flip ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 32.5,
+    "shot_type": "medium shot",
+    "visual": "Back/side view of creator curling the mid sections of hair under.",
+    "action": "Twirling hair through the hot round brush for volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 32.5,
+    "end_s": 44.0,
+    "shot_type": "close-up",
+    "visual": "Creator working on top bang section directly over her forehead.",
+    "action": "Rolls front bangs backward over the brush to create volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 44.0,
+    "end_s": 51.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the brush and touching up the curled front bangs.",
+    "action": "Inspects and sets the front curved bangs.",
+    "product_visible": true
+   },
+   {
+    "start_s": 51.0,
+    "end_s": 55.06,
+    "shot_type": "medium close-up",
+    "visual": "Creator runs both hands through her completed voluminous 90s blowout bob.",
+    "action": "Shakes out hair and smiles at the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera running hand through bouncy, voluminous styled dark bob.",
+   "visual_0_3s": "Result showcase immediately cutting to product close-up shot.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Getting the most perfect blowout look every single time with this brush",
+   "hook_type": "result_first",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Rapid 1-second flash of the perfect final hair result before switching to product and tutorial."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Showcase finished voluminous blowout result.",
+    "Introduce the purple thermal round brush tool.",
+    "Step-by-step section styling (lower layers, sides, bangs).",
+    "Price offer reveal overlay ($45).",
+    "Final hair shakeout and satisfaction reveal."
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "price_value_vs_dyson",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Gives the most perfect blowout look every single time",
+    "Currently priced under $45"
+   ],
+   "pain_points": [
+    "Difficulty achieving salon-grade bounce and curved ends at home",
+    "Expensive salon blowouts"
+   ],
+   "objections_handled": [
+    "Works effectively even on short bob haircuts"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 1.2,
+   "first_used_on_hair_s": 2.5,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "Under $45",
+   "price_mentioned": "$45",
+   "discount_code": "",
+   "urgency": "now!!",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Sectioned dark brown/black straight bob hair pinned up in claw clip",
+   "hair_after": "Voluminous, shiny, 90s-style inwardly curled bob blowout",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Aesthetic, confident, calm and stylish"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Melodic, soulful R&B/pop vocal background track",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 6.1,
+   "pacing": "medium",
+   "effects": [],
+   "ending": "Creator smiling and posing while fluffing her finished voluminous hair"
+  },
+  "notes": "No spoken dialogue present in the video; entirely visual demonstration set to background music with two static text overlays."
+ }
+}

@@ -1,0 +1,408 @@
+{
+ "media_key": "v_729632956865229",
+ "analyzed_at": "2026-11-27T18:43:28+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "0b12e3aad88413a9b4eb8605737c58160e25e8461d31fd499c920091216df8ae",
+ "source": {
+  "kind": "video",
+  "id": "729632956865229",
+  "video_id": "818563134509082",
+  "length_s": 84.5,
+  "permalink": "/23849366283980795/videos/818563134509082/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 85.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator with extremely voluminous curly-frizzy hair demonstrates unboxing, filling, and styling her hair with the Wavytalk Pro Steam Straightener Brush to achieve sleek, hydrated hair.",
+  "full_description": "A creator tests the Wavytalk Pro Steam Straightener Brush on her thick, puffy, frizzy dark hair. Starting with a brief teaser of smooth hair, she rewinds to unbox the tool, demonstrates filling and attaching the removable water reservoir, and then brushes through sections of her hair. Steam visibly emits from the brush as it glides through, instantly flattening and smoothing curls into shiny, straight strands with flipped ends. She expresses shock at how fast and effective it is, addresses concerns about steam making hair look greasy (explaining it dissipates within seconds), and displays the bouncy, fully straightened final result.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0.0,
+    "en": 100.0,
+    "fr": 0.0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is leaving my hair looking so smooth and hydrated. I love it.",
+    "text_english": "This is leaving my hair looking so smooth and hydrated. I love it."
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 11.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm straightening my hair with a steam straightener. This straightener is supposed to be a lot more hydrating for your hair because it uses steam instead of just heat.",
+    "text_english": "I'm straightening my hair with a steam straightener. This straightener is supposed to be a lot more hydrating for your hair because it uses steam instead of just heat."
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 16.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's called the Wavytalk Pro Steam Hair Straightener.",
+    "text_english": "It's called the Wavytalk Pro Steam Hair Straightener."
+   },
+   {
+    "start_s": 16.8,
+    "end_s": 20.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is the water tank, and so I'm gonna go fill it up. You fill it up through that little hole right there.",
+    "text_english": "This is the water tank, and so I'm gonna go fill it up. You fill it up through that little hole right there."
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 26.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Filled it up, and now you take this little hole and you put it in this whoozy, and then it just clips right in.",
+    "text_english": "Filled it up, and now you take this little hole and you put it in this whoozy, and then it just clips right in."
+   },
+   {
+    "start_s": 26.8,
+    "end_s": 36.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Oh my gosh. I can feel the steam. I've like never seen anything like this brush.",
+    "text_english": "Oh my gosh. I can feel the steam. I've like never seen anything like this brush."
+   },
+   {
+    "start_s": 36.8,
+    "end_s": 40.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay, ready? I'm gonna flip it up at the ends to get the nice little blowout look.",
+    "text_english": "Okay, ready? I'm gonna flip it up at the ends to get the nice little blowout look."
+   },
+   {
+    "start_s": 40.8,
+    "end_s": 52.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is by far the coolest hair tool I have ever used. And you can see how the prongs get into each of my individual hairs, which is so nice to smooth those babies out. They need it.",
+    "text_english": "This is by far the coolest hair tool I have ever used. And you can see how the prongs get into each of my individual hairs, which is so nice to smooth those babies out. They need it."
+   },
+   {
+    "start_s": 52.8,
+    "end_s": 59.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's watch the difference. Here we go. We're getting into the roots, smoothing them out. Woo!",
+    "text_english": "Let's watch the difference. Here we go. We're getting into the roots, smoothing them out. Woo!"
+   },
+   {
+    "start_s": 59.8,
+    "end_s": 109.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You see the steam in action. It is working all right. And then we're sliding down here, I'll try to show you. Ta-da!",
+    "text_english": "You see the steam in action. It is working all right. And then we're sliding down here, I'll try to show you. Ta-da!"
+   },
+   {
+    "start_s": 109.2,
+    "end_s": 113.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay, yep, absolutely. It looks so good and hydrated.",
+    "text_english": "Okay, yep, absolutely. It looks so good and hydrated."
+   },
+   {
+    "start_s": 113.8,
+    "end_s": 121.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I was also kinda nervous that the steam was gonna make my hair look greasy, but it goes right away. The steam goes away in three seconds after you pass the brush through, so don't worry about that.",
+    "text_english": "I was also kinda nervous that the steam was gonna make my hair look greasy, but it goes right away. The steam goes away in three seconds after you pass the brush through, so don't worry about that."
+   },
+   {
+    "start_s": 121.5,
+    "end_s": 125.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm honestly blown away, that was incredible.",
+    "text_english": "I'm honestly blown away, that was incredible."
+   }
+  ],
+  "transcript_full_original": "This is leaving my hair looking so smooth and hydrated. I love it. I'm straightening my hair with a steam straightener. This straightener is supposed to be a lot more hydrating for your hair because it uses steam instead of just heat. It's called the Wavytalk Pro Steam Hair Straightener. This is the water tank, and so I'm gonna go fill it up. You fill it up through that little hole right there. Filled it up, and now you take this little hole and you put it in this whoozy, and then it just clips right in. Oh my gosh. I can feel the steam. I've like never seen anything like this brush. Okay, ready? I'm gonna flip it up at the ends to get the nice little blowout look. This is by far the coolest hair tool I have ever used. And you can see how the prongs get into each of my individual hairs, which is so nice to smooth those babies out. They need it. Let's watch the difference. Here we go. We're getting into the roots, smoothing them out. Woo! You see the steam in action. It is working all right. And then we're sliding down here, I'll try to show you. Ta-da! Okay, yep, absolutely. It looks so good and hydrated. I was also kinda nervous that the steam was gonna make my hair look greasy, but it goes right away. The steam goes away in three seconds after you pass the brush through, so don't worry about that. I'm honestly blown away, that was incredible.",
+  "transcript_full_english": "This is leaving my hair looking so smooth and hydrated. I love it. I'm straightening my hair with a steam straightener. This straightener is supposed to be a lot more hydrating for your hair because it uses steam instead of just heat. It's called the Wavytalk Pro Steam Hair Straightener. This is the water tank, and so I'm gonna go fill it up. You fill it up through that little hole right there. Filled it up, and now you take this little hole and you put it in this whoozy, and then it just clips right in. Oh my gosh. I can feel the steam. I've like never seen anything like this brush. Okay, ready? I'm gonna flip it up at the ends to get the nice little blowout look. This is by far the coolest hair tool I have ever used. And you can see how the prongs get into each of my individual hairs, which is so nice to smooth those babies out. They need it. Let's watch the difference. Here we go. We're getting into the roots, smoothing them out. Woo! You see the steam in action. It is working all right. And then we're sliding down here, I'll try to show you. Ta-da! Okay, yep, absolutely. It looks so good and hydrated. I was also kinda nervous that the steam was gonna make my hair look greasy, but it goes right away. The steam goes away in three seconds after you pass the brush through, so don't worry about that. I'm honestly blown away, that was incredible.",
+  "word_count": 273,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 85.0,
+    "text": "Wavytalk pro steam straightener brush",
+    "role": "hook"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "text": "this is leaving my hair looking so smooth and hydrated",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 7.0,
+    "text": "I love it I'm straightening my hair with a steam straightener",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 11.2,
+    "text": "this straightener's supposed to be a lot more hydrating for your hair because it uses steam instead of just heat",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.0,
+    "end_s": 16.8,
+    "text": "it's called the Wavy Talk Pro Steam Hair Straightener",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.8,
+    "end_s": 20.8,
+    "text": "this is the water tank and so I'm gonna go fill it up you fill it up through that little hole right there",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 26.8,
+    "text": "filled it up and now you take this little hole and you put it in this Hoozy and then it just clips right in",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 31.0,
+    "text": "oh my gosh",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 31.5,
+    "end_s": 36.5,
+    "text": "I can feel the steam I've like never seen anything like this brush",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 37.5,
+    "end_s": 41.0,
+    "text": "I'm gonna flip it up at the ends to get the nice little blow out look",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 41.0,
+    "end_s": 45.0,
+    "text": "this is by far the coolest hair tool I have ever used",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 46.0,
+    "end_s": 52.8,
+    "text": "and you can see how the prongs get into each of my individual hairs just so nice to smooth those babies out they need it",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 52.8,
+    "end_s": 59.0,
+    "text": "let's watch the difference here we go we're getting into the roots smoothing them out Whoo",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 59.5,
+    "end_s": 69.0,
+    "text": "you see the steam in action it is working all right and then we're sliding down here I'll try to show you Tada",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 70.0,
+    "end_s": 73.8,
+    "text": "okay yup absolutely it looks so good and hydrated",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 73.8,
+    "end_s": 81.5,
+    "text": "I was also kinda nervous that the steam was gonna make my hair look greasy but it goes right away the steam goes away in three seconds after you pass the brush through so don't worry about that",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 81.5,
+    "end_s": 85.0,
+    "text": "I'm honestly blown away that was incredible",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "shot_type": "medium_close_up",
+    "visual": "Creator brushing through her dark hair with the white steam straightener brush; steam puffs out as strands instantly become straight and sleek.",
+    "action": "Gliding the brush through hair towards the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 11.2,
+    "shot_type": "medium_shot",
+    "visual": "Creator sits facing camera with very thick, puffy, frizzy brushed-out curls, holding the Wavytalk product box.",
+    "action": "Showing the product packaging and explaining the benefits of steam over heat.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 16.8,
+    "shot_type": "medium_shot",
+    "visual": "Unboxing the tool, pulling off protective plastic wrapping, and presenting the brush to camera.",
+    "action": "Unwrapping and showcasing the brush bristles and steam vents.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.8,
+    "end_s": 26.8,
+    "shot_type": "close_up",
+    "visual": "Demonstrating the detachable water tank.",
+    "action": "Showing the water filling hole, then clicking the filled reservoir into the handle of the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.8,
+    "end_s": 40.8,
+    "shot_type": "medium_shot",
+    "visual": "Hair sectioned with a pink scrunchie. Creator runs the brush through a section.",
+    "action": "Brushing down from root to tip, reacting in surprise as steam comes out and flipping the ends outward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 40.8,
+    "end_s": 52.8,
+    "shot_type": "close_up",
+    "visual": "Close-up of hair strands nestled deep inside the heated bristles.",
+    "action": "Explaining how the prongs grip each strand, showing smooth brushed hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 52.8,
+    "end_s": 69.0,
+    "shot_type": "medium_shot",
+    "visual": "Demonstration on another frizzy section.",
+    "action": "Starting at the roots, moving down as clear puffs of steam emit, showing one pass transformation.",
+    "product_visible": true
+   },
+   {
+    "start_s": 69.0,
+    "end_s": 85.0,
+    "shot_type": "medium_shot",
+    "visual": "Creator displaying the complete result with smooth, shiny, voluminous blowout hair.",
+    "action": "Running fingers through hair, shaking head, explaining that hair is not greasy and praising the tool.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator brushing her hair with steam billowing from the brush, text overlay reading 'Wavytalk pro steam straightener brush'.",
+   "visual_0_3s": "Steam visibly rising from the white brush as it slides through dark hair, making it immediately silky.",
+   "spoken_0_3s": "This is leaving my hair looking so smooth and hydrated.",
+   "text_0_3s": "Wavytalk pro steam straightener brush / this is leaving my hair looking so smooth and hydrated",
+   "hook_type": "result_first",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Visible steam puffing out of a hairbrush while gliding down hair in the first second."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Quick teaser of smooth result with steam in action",
+    "Before condition reveal (extremely frizzy, huge hair) and unboxing",
+    "How to set up: filling the water tank and clipping it in",
+    "First pass reaction and flipping technique for blowout look",
+    "Close-up explanation of bristles smoothing individual strands",
+    "Live one-pass root-to-tip demonstration showing steam",
+    "Final result showcase, handling grease objection, and closing endorsement"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "less_heat_damage",
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Steam hydrates hair instead of frying it with dry heat",
+    "Transforms huge, frizzy, puffy hair into smooth, shiny hair",
+    "Steam dissipates within 3 seconds so hair never looks or feels greasy",
+    "Prongs separate each strand for thorough smoothing"
+   ],
+   "pain_points": [
+    "Dry, frizzy, puffy unmanageable hair",
+    "Heat damage from conventional straighteners",
+    "Fear of steam making hair look wet or greasy"
+   ],
+   "objections_handled": [
+    "Will the steam make hair look or feel greasy? Creator shows it evaporates in 3 seconds, leaving it light and hydrated"
+   ],
+   "social_proof": [
+    "Creator genuine live astonishment and endorsement ('coolest hair tool I have ever used')"
+   ],
+   "comparison_to": "Traditional dry heat flat irons"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Pro Steam Hair Straightener Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 70.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Very thick, puffy, frizzy, brushed-out curly dark brown long hair",
+   "hair_after": "Smooth, glossy, hydrated straight hair with soft blowout flips",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "excited, genuine, enthusiastic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "",
+   "captions_burned_in": true,
+   "production_style": "phone_ugc",
+   "cut_count": 12,
+   "avg_shot_length_s": 7.08,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts",
+    "burned-in captions"
+   ],
+   "ending": "Creator smiling and touching her smooth blowout hair, saying she is blown away."
+  },
+  "notes": "Ad is an organic-style TikTok/Reels UGC review of the Wavytalk Steambrush Pro imported for paid social ads targeting regional audiences interested in frizz solutions."
+ }
+}

@@ -1,0 +1,184 @@
+{
+ "media_key": "v_1224018809850278",
+ "analyzed_at": "2026-11-27T23:20:50+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "c58c189b199992582caca4c285f0fc314965c9a796360a2f0f2abd54a04cb7a6",
+ "source": {
+  "kind": "video",
+  "id": "1224018809850278",
+  "errors": [
+   "1224018809850278: Gave up after 5 retries: https://graph.facebook.com/v26.0/1224018809850278",
+   "1057671993846745: Gave up after 5 retries: https://graph.facebook.com/v26.0/1057671993846745"
+  ],
+  "ig_media_id": "18373089343230128",
+  "permalink": "https://www.instagram.com/p/DbVHbf6sCc8/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 23.36,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates styling a voluminous salon-quality blowout at home using the Wavytalk thermal round brush set to music.",
+  "full_description": "A vertical social media video set to a trending hip-hop track featuring a female creator demonstrating the Wavytalk Blowout Boost thermal round brush. She styles sections of her dark hair—rolling front fringe bangs and side locks to show how effortlessly the tool creates big bouncy curls and lifted volume. The text overlay claims 'The best blowouts I've ever gotten are with this tool btw 😩'. She shows the tool up close, demonstrates the curl release, and showcases the voluminous, shiny final blowout result.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 23.36,
+    "text": "The best blowouts I've ever gotten are with this tool btw 😩",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 7.3,
+    "shot_type": "medium close-up",
+    "visual": "A young woman sitting in her bedroom wearing a satin slip, rolling the top front bangs section around the pink Wavytalk thermal brush and rolling it down before releasing it into voluminous curtain bangs.",
+    "action": "Creator rolls her front bangs around the hot brush, pulls it through, and lets the hair fall into perfectly styled bouncy waves.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 8.7,
+    "shot_type": "close-up",
+    "visual": "Creator holds the pink Wavytalk thermal styling brush directly in front of the camera, showing the bristles, digital display, and brand handle.",
+    "action": "Creator presents the tool close to the camera lens.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 14.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling a lower side strand of hair, rotating the thermal brush up toward the root, holding it, and twisting it out to form a bouncy spiraled curl.",
+    "action": "Creator wraps a hair section around the barrel and releases a defined, bouncy curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 16.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator running fingers lightly through the curl, admiring the bounce and volume in the mirror/camera.",
+    "action": "Creator examines and shakes out the newly styled curl.",
+    "product_visible": false
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 20.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator repeats the top crown section blow dry roll, lifting the root straight up and rolling through the bangs.",
+    "action": "Creator lifts root section with the brush to maximize volume and smooth the top layer.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.3,
+    "end_s": 23.36,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the brush beside her face while posing and showing off the completed bouncy voluminous blowout look.",
+    "action": "Creator holds the product up, fluffs her hair, and poses with a confident expression.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator rolling a large crown section of dark hair with the pink Wavytalk thermal brush with hook text overlay.",
+   "visual_0_3s": "Creator smoothing and rolling her hair with the heated brush facing the camera.",
+   "spoken_0_3s": "",
+   "text_0_3s": "The best blowouts I've ever gotten are with this tool btw 😩",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Immediate dramatic motion of hair being wrapped and rolled vertically right at the start."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Visual hook demonstrating the brush rolling bangs with bold text claim",
+    "Close-up product reveal showing barrel and display",
+    "Step-by-step curling demo on side section releasing bouncy curl",
+    "Crown root-lifting technique demonstration",
+    "Final result showcase posing with full bouncy blowout"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Gives the best blowouts ever gotten"
+   ],
+   "pain_points": [
+    "Difficulty getting salon-quality bouncy blowouts at home without multiple tools"
+   ],
+   "objections_handled": [
+    "Shows how smoothly hair glides off the brush barrel without tangling"
+   ],
+   "social_proof": [
+    "Creator testimonial via overlay text ('best blowouts I've ever gotten')"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 5.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Dark brown/black medium-length styled blowout sections",
+   "hair_after": "Ultra-voluminous, bouncy 90s blowout with flipped ends and lifted curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Confident, glamorous, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Hip hop / R&B beat with male rap vocals ('Tried to tell you I'm the one...')",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 3.9,
+   "pacing": "medium",
+   "effects": [
+    "Jump cuts",
+    "Text overlay"
+   ],
+   "ending": "Creator holding the thermal brush and posing with completed hairstyle"
+  },
+  "notes": "No spoken dialogue present. Background song lyrics provide music backdrop. Highly aesthetic visual UGC focusing on ease of achieving big blowout volume."
+ }
+}

@@ -1,0 +1,208 @@
+{
+ "media_key": "v_1548213940089072",
+ "analyzed_at": "2026-11-27T22:49:02+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "bd16ab05be557cce8714ee625d193e019e4b00e60a35ed592720481a8b5d5ee1",
+ "source": {
+  "kind": "video",
+  "id": "1548213940089072",
+  "errors": [
+   "1548213940089072: Gave up after 5 retries: https://graph.facebook.com/v26.0/1548213940089072",
+   "1374493424591188: Gave up after 5 retries: https://graph.facebook.com/v26.0/1374493424591188"
+  ],
+  "ig_media_id": "18083759471239025",
+  "permalink": "https://www.instagram.com/p/DbGPVmEsRGH/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 13.57,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Fast-paced UGC demo showing a creator achieving shiny, bouncy blowout hair using a pink thermal round brush to a trending sound.",
+  "full_description": "A young female creator demonstrates how easy it is to style a voluminous, shiny blowout at home using the WavyTalk Blowout Boost pink thermal round brush. The video is cut rapidly to an upbeat dance/electronic trending audio clip starting with 'You think my hair is too shiny today?'. It intersperses shots of the finished shiny hair with quick clips of her rolling and gliding the heated round brush through her front fringe, crown, and hair ends, finishing with a radiant smile and bouncy hair shake.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.8,
+    "end_s": 2.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "You think my hair is too shiny today?",
+    "text_english": "You think my hair is too shiny today?"
+   }
+  ],
+  "transcript_full_original": "You think my hair is too shiny today?",
+  "transcript_full_english": "You think my hair is too shiny today?",
+  "word_count": 8,
+  "speech_starts_at_s": 0.8,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 13.57,
+    "text": "Blowouts just got so much easier",
+    "role": "hook"
+   },
+   {
+    "start_s": 0.8,
+    "end_s": 2.2,
+    "text": "You think my hair is too shiny today?",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 0.77,
+    "shot_type": "medium shot",
+    "visual": "Creator running her hand through her shiny, curled blowout hair in a bedroom setting.",
+    "action": "Flaunts shiny blowout hair toward the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 0.77,
+    "end_s": 2.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the front section of her hair with a pink thermal round brush.",
+    "action": "Twirls the heated barrel brush through her hair near the face.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 3.4,
+    "shot_type": "medium shot",
+    "visual": "Creator looking at the camera, running fingers through her styled strands.",
+    "action": "Checks out and shows off the silky finish.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 5.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator rolling the pink thermal brush on the side crown section of her hair.",
+    "action": "Grips the tip of the tool and rolls the hair up to build volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 6.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the thermal round brush horizontally above her forehead.",
+    "action": "Rolls bangs backward over the brush barrel for lift.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 10.7,
+    "shot_type": "medium shot",
+    "visual": "Creator wrapping the mid-lengths and ends around the heated brush barrel.",
+    "action": "Smooths down and releases curled, bouncy ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.7,
+    "end_s": 13.57,
+    "shot_type": "medium shot",
+    "visual": "Creator parting her curtain bangs with her fingers and smiling broadly.",
+    "action": "Arranges her hair and bounces her shoulders proudly to display the finished blowout.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator shaking her shiny, layered blowout hair at the camera with text 'Blowouts just got so much easier'.",
+   "visual_0_3s": "Creator flaunts bouncy, glossy blowout hair, quickly cutting to using the thermal brush on her bangs.",
+   "spoken_0_3s": "You think my hair is too shiny today?",
+   "text_0_3s": "Blowouts just got so much easier",
+   "hook_type": "result_first",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "Rapid cut between final bouncy result and styling in action to a trending audio bite."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Result teaser showing ultra-shiny blowout",
+    "Fast montage demo rolling and curling hair with the thermal round brush",
+    "Final voluminous, bouncy blowout reveal with smiling pose"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners",
+    "saves_time"
+   ],
+   "key_claims": [
+    "Blowouts just got so much easier",
+    "Delivers ultra-shiny, voluminous salon-level blowout"
+   ],
+   "pain_points": [
+    "Traditional blowouts requiring round brush and blow dryer are hard to manage",
+    "Dull, lifeless or frizzy hair"
+   ],
+   "objections_handled": [
+    "Blowouts take too long or require advanced styling skills"
+   ],
+   "social_proof": [],
+   "comparison_to": "traditional round brush and blow dryer blowout"
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 0.77,
+   "first_used_on_hair_s": 0.77,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Light brown with blonde highlights, styled into blowout curls",
+   "hair_after": "Voluminous, shiny light brown/blonde blowout with bouncy curled ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Upbeat, confident, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Trending electronic dance/pop audio track featuring a vocal sample 'You think my hair is too shiny today?' followed by energetic beats and vocals 'Go go go take me higher'.",
+   "captions_burned_in": true,
+   "production_style": "phone_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 2.26,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts",
+    "text overlay"
+   ],
+   "ending": "Creator smiles widely, shakes her styled blowout, and poses happily for the camera."
+  },
+  "notes": "Short, aesthetic UGC styling demonstration paired with a trending TikTok audio clip highlighting the ease and high-shine results of using the Blowout Boost thermal styling brush."
+ }
+}

@@ -1,0 +1,354 @@
+{
+ "media_key": "v_1447375810406499",
+ "analyzed_at": "2026-11-27T19:33:44+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "fdcc43492a4a3ddd35b22d971f46864330a91c738627dedc9c25a58df0895424",
+ "source": {
+  "kind": "video",
+  "id": "1447375810406499",
+  "errors": [
+   "1447375810406499: Gave up after 5 retries: https://graph.facebook.com/v26.0/1447375810406499",
+   "26741585625534894: Gave up after 5 retries: https://graph.facebook.com/v26.0/26741585625534894"
+  ],
+  "ig_media_id": "18049080164747501",
+  "permalink": "https://www.instagram.com/p/DYCsuwgjEWr/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 62.97,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator tests the WavyTalk Whirlwind tool on her wavy bob hair, showing its cool-air curl function and raving about the blowout finish, return policy, and 20% discount.",
+  "full_description": "A young female creator sits in her bedroom facing the camera, wearing a black cable-knit sweater and jeans with a wireless microphone pinned on. She begins by showcasing her voluminous styled hair, then steps back to show the process using the pink WavyTalk Whirlwind tool. She highlights the cool air feature, fast heat-up time, and curls her hair sections. After shaking her styled hair out upside down, she shows off a bouncy blowout result, mentions that it is affordable, details WavyTalk's 30-day return policy and doorstep delivery in Lebanon, and ends with a 20% off discount call to action.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 50,
+    "en": 50,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I can't believe that my hair could look this amazing.",
+    "text_english": "I can't believe that my hair could look this amazing."
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 5.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's do my hair.",
+    "text_english": "Let's do my hair."
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 8.7,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "لأعمل شعراتي رح استعمل هيدا.",
+    "text_english": "To do my hair, I'm going to use this."
+   },
+   {
+    "start_s": 9.2,
+    "end_s": 10.9,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "عم بيطلّع هوا.",
+    "text_english": "It's blowing out air."
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 12.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's actually cool!",
+    "text_english": "It's actually cool!"
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 14.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This heats up really fast.",
+    "text_english": "This heats up really fast."
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 17.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Twist... twist...",
+    "text_english": "Twist... twist..."
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 21.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "And then بننزل. Okay, okay, okay, okay, okay.",
+    "text_english": "And then we slide down. Okay, okay, okay, okay, okay."
+   },
+   {
+    "start_s": 21.8,
+    "end_s": 24.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The ends are mostly straight, let's curl them.",
+    "text_english": "The ends are mostly straight, let's curl them."
+   },
+   {
+    "start_s": 28.9,
+    "end_s": 30.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "ليكوا الشعر!",
+    "text_english": "Look at the hair!"
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 33.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Perfect curls, perfect waves, whatever you want to call them.",
+    "text_english": "Perfect curls, perfect waves, whatever you want to call them."
+   },
+   {
+    "start_s": 33.3,
+    "end_s": 37.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وخبرية انو the product is affordable is insane, and all we have to do هلق...",
+    "text_english": "And the fact that the product is affordable is insane, and all we have to do now..."
+   },
+   {
+    "start_s": 40.8,
+    "end_s": 44.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "If this isn't the perfect blowout moment, ما بعرف what is.",
+    "text_english": "If this isn't the perfect blowout moment, I don't know what is."
+   },
+   {
+    "start_s": 44.1,
+    "end_s": 46.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It looks gorgeous!",
+    "text_english": "It looks gorgeous!"
+   },
+   {
+    "start_s": 46.3,
+    "end_s": 50.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "In case you're wondering, هيدا هو الـ Whirlwind Pro من WavyTalk.",
+    "text_english": "In case you're wondering, this is the Whirlwind Pro from WavyTalk."
+   },
+   {
+    "start_s": 50.1,
+    "end_s": 54.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "عندهم 30 يوم return policy يعني بتقدروا تردوا الـ item اذا ما حبيتو.",
+    "text_english": "They have a 30-day return policy, meaning you can return the item if you didn't like it."
+   },
+   {
+    "start_s": 54.1,
+    "end_s": 58.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "والـ item بيوصل دغري لقدام الباب عندكم فما بتتعذبوا بالـ order.",
+    "text_english": "And the item is delivered straight to your doorstep so you won't struggle with the order."
+   },
+   {
+    "start_s": 58.2,
+    "end_s": 62.97,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And currently they're offering 20% off, so order yours today before they're gone!",
+    "text_english": "And currently they're offering 20% off, so order yours today before they're gone!"
+   }
+  ],
+  "transcript_full_original": "I can't believe that my hair could look this amazing. Let's do my hair. لأعمل شعراتي رح استعمل هيدا. عم بيطلّع هوا. It's actually cool! This heats up really fast. Twist... twist... and then بننزل. Okay, okay, okay, okay, okay. The ends are mostly straight, let's curl them. ليكوا الشعر! Perfect curls, perfect waves, whatever you want to call them. وخبرية انو the product is affordable is insane, and all we have to do هلق... If this isn't the perfect blowout moment, ما بعرف what is. It looks gorgeous! In case you're wondering, هيدا هو الـ Whirlwind Pro من WavyTalk. عندهم 30 يوم return policy يعني بتقدروا تردوا الـ item اذا ما حبيتو. والـ item بيوصل دغري لقدام الباب عندكم فما بتتعذبوا بالـ order. And currently they're offering 20% off, so order yours today before they're gone!",
+  "transcript_full_english": "I can't believe that my hair could look this amazing. Let's do my hair. To do my hair, I'm going to use this. It's blowing out air. It's actually cool! This heats up really fast. Twist... twist... and then we slide down. Okay, okay, okay, okay, okay. The ends are mostly straight, let's curl them. Look at the hair! Perfect curls, perfect waves, whatever you want to call them. And the fact that the product is affordable is insane, and all we have to do now... If this isn't the perfect blowout moment, I don't know what is. It looks gorgeous! In case you're wondering, this is the Whirlwind Pro from WavyTalk. They have a 30-day return policy, meaning you can return the item if you didn't like it. And the item is delivered straight to your doorstep so you won't struggle with the order. And currently they're offering 20% off, so order yours today before they're gone!",
+  "word_count": 139,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator sitting cross-legged facing camera in a bedroom setting touching her styled wavy bob hair.",
+    "action": "Creator gestures with hands framing her face and admiring her hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 14.8,
+    "shot_type": "medium shot",
+    "visual": "Creator holds up the pink WavyTalk Whirlwind styling tool in front of the camera.",
+    "action": "Creator presents the tool, points at the airflow vents, feels the cool air with her hand, and explains how fast it heats up.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 21.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator clamps a section of hair into the tool near the roots.",
+    "action": "Creator twists the styler and pulls it down through her hair strand to demonstrate curling.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.8,
+    "end_s": 24.8,
+    "shot_type": "medium shot",
+    "visual": "Creator points out the straight ends of her hair.",
+    "action": "Creator speaks directly to the camera explaining she will now curl the ends.",
+    "product_visible": false
+   },
+   {
+    "start_s": 24.8,
+    "end_s": 28.8,
+    "shot_type": "medium close-up",
+    "visual": "Sped-up footage of the creator curling the top and side sections of her hair.",
+    "action": "Creator curls various hair sections quickly using the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.8,
+    "end_s": 37.5,
+    "shot_type": "medium shot",
+    "visual": "Creator holds the styling tool and touches her freshly curled hair.",
+    "action": "Creator inspects the curls, smiles, and describes the tool's affordability.",
+    "product_visible": true
+   },
+   {
+    "start_s": 37.5,
+    "end_s": 40.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator flips her head upside down, shakes out her hair with her fingers, and flips back up.",
+    "action": "Creator volumizes her curls by shaking them out vigorously.",
+    "product_visible": false
+   },
+   {
+    "start_s": 40.8,
+    "end_s": 46.3,
+    "shot_type": "close-up",
+    "visual": "Creator framing her voluminous finished bouncy waves with her hands.",
+    "action": "Creator adjusts her bangs and curls, admiring the blowout effect.",
+    "product_visible": false
+   },
+   {
+    "start_s": 46.3,
+    "end_s": 62.97,
+    "shot_type": "medium shot",
+    "visual": "Creator holds up the pink WavyTalk Whirlwind tool while speaking to the camera.",
+    "action": "Creator explains brand name, return policy, home delivery, and current 20% discount offer before pointing to the camera.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera running her hands through her styled, bouncy curls.",
+   "visual_0_3s": "Creator smiling in astonishment touching her voluminous wavy hair.",
+   "spoken_0_3s": "I can't believe that my hair could look this amazing.",
+   "text_0_3s": "",
+   "hook_type": "result_first",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Starts directly with the polished final result and personal astonishment before rewinding to do the hair."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Result reveal and disbelief hook",
+    "Product presentation and key feature demonstration (airflow / fast heat)",
+    "Live hair styling tutorial demo",
+    "Fluff and shake-out reveal of full blowout look",
+    "Affordability claim and trust reassurance (30-day return policy + doorstep delivery)",
+    "Limited-time discount and urgency CTA"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Produces airflow that cools hair down to set curls",
+    "Heats up really fast",
+    "Gives perfect curls and waves with blowout look",
+    "Affordable price point",
+    "30-day return policy",
+    "Doorstep delivery",
+    "Currently 20% off"
+   ],
+   "pain_points": [
+    "Difficulty getting salon blowout volume on short bob haircuts",
+    "Straight or flat hair ends"
+   ],
+   "objections_handled": [
+    "Risk of buying online handled by highlighting 30-day return policy and home delivery",
+    "High price handled by emphasizing affordability and 20% discount"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Whirlwind Curl"
+   ],
+   "first_seen_s": 4.5,
+   "first_used_on_hair_s": 15.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "20% off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Order yours today before they're gone",
+   "cta_spoken": "So order yours today before they're gone!",
+   "cta_on_screen": "",
+   "cta_at_s": 60.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Shoulder-length / bob brown-caramel hair with straight ends",
+   "hair_after": "Voluminous wavy bob with bouncy curled ends and blowout texture",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, cheerful, and conversational"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No prominent background music; clear direct microphone speech with slight natural tool sound.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 7.87,
+   "pacing": "medium",
+   "effects": [
+    "speed ramping / time lapse during hair curling section"
+   ],
+   "ending": "Creator holding the product and gesturing toward the camera asking viewers to order."
+  },
+  "notes": "Spoken dialect is natural urban Lebanese Arabic with frequent English switches. The creator wears a visible wireless mic transmitter on her chest. The tool is referred to verbally as 'Whirlwind Pro' / Whirlwind from WavyTalk."
+ }
+}

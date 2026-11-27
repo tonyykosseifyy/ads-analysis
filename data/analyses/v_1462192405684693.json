@@ -1,0 +1,557 @@
+{
+ "media_key": "v_1462192405684693",
+ "analyzed_at": "2026-11-27T18:39:43+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "7f26527dc2b3b9386ff84c25f0d2f8247b82c8862cb40679433be8e8d9ff961f",
+ "source": {
+  "kind": "video",
+  "id": "1462192405684693",
+  "video_id": "2914855962187450",
+  "length_s": 138.367,
+  "permalink": "/23849366283980795/videos/2914855962187450/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [
+  "longer_than_2_min"
+ ],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 139.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A salon client learns how to style bouncy blowout curls and bangs using the Wavytalk Blowout Boost thermal brush under the guidance of a professional hairstylist.",
+  "full_description": "In a hair salon setting, a hairstylist (Sami) teaches a young female client how to achieve a bouncy salon blowout using the pink Wavytalk Blowout Boost heated round brush. He demonstrates how to roll the ends without tangling, and she successfully tries it herself on her own hair strands. The stylist explains the product benefits: 2-in-1 blow dryer and brush combination, ceramic barrel that doesn't burn hair, and ionic technology preventing frizz and flyaways. He then shows how to style front bangs and curtain bangs parted in the middle. At the end, the client enthusiastically showcases her voluminous, glossy curls and addresses the camera praising the Wavytalk Blowout Boost for how easy it is to achieve salon-quality results at home.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "levantine_lebanese",
+   "approx_share_pct": {
+    "ar": 88.0,
+    "en": 10.0,
+    "fr": 2.0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "speaker": "second person",
+    "language": "ar",
+    "text_original": "يلا، فرجينا كيف بتعملي خصلة",
+    "text_english": "Come on, show us how you do a strand."
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 5.0,
+    "speaker": "second person",
+    "language": "ar",
+    "text_original": "رح قلك كيف بتعمليها",
+    "text_english": "I'll tell you how to do it."
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 7.0,
+    "speaker": "second person",
+    "language": "mixed",
+    "text_original": "حطي الشعر عليها",
+    "text_english": "Put the hair on it."
+   },
+   {
+    "start_s": 6.3,
+    "end_s": 7.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Okay",
+    "text_english": "Okay."
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 10.0,
+    "speaker": "second person",
+    "language": "ar",
+    "text_original": "ضلك نازلة لتلقطي طرفها",
+    "text_english": "Keep going down until you catch its end."
+   },
+   {
+    "start_s": 10.1,
+    "end_s": 13.8,
+    "speaker": "second person",
+    "language": "ar",
+    "text_original": "بس لقطتي طرفها، بتفوتي فيها هيك",
+    "text_english": "Once you catch its end, you roll into it like this."
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 16.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "وما حتعلق؟",
+    "text_english": "And it won't get stuck?"
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 20.0,
+    "speaker": "second person",
+    "language": "ar",
+    "text_original": "ما بتعلق، أكيد ما بتعلق. بتنطري عليها بس شوي لحتى تحمى",
+    "text_english": "It doesn't get stuck, definitely not. You just wait a bit for it to heat up."
+   },
+   {
+    "start_s": 24.2,
+    "end_s": 27.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Okay واو! طيب أنا، أنا بدي جرب، دقيقة",
+    "text_english": "Okay, wow! Now me, I want to try, wait a second."
+   },
+   {
+    "start_s": 27.6,
+    "end_s": 30.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "حطها عالآخر، بعدين بطلع فيها...",
+    "text_english": "I put it at the very end, then I roll it up..."
+   },
+   {
+    "start_s": 30.6,
+    "end_s": 32.5,
+    "speaker": "second person",
+    "language": "ar",
+    "text_original": "بتبرميها... بس",
+    "text_english": "You twist it... that's it."
+   },
+   {
+    "start_s": 34.2,
+    "end_s": 35.8,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "صح؟",
+    "text_english": "Right?"
+   },
+   {
+    "start_s": 35.8,
+    "end_s": 41.2,
+    "speaker": "second person",
+    "language": "mixed",
+    "text_original": "مية بالمية. الحلو بهيدا الـ product انه ما بيحرق الشعر متل السيشوار والفرشاية وتتلبكي فيها",
+    "text_english": "100%. The nice thing about this product is that it doesn't burn hair like a blowdryer and brush where you get all clumsy with it."
+   },
+   {
+    "start_s": 41.5,
+    "end_s": 44.0,
+    "speaker": "second person",
+    "language": "mixed",
+    "text_original": "هيدا سيشوار وفرشاية بـ item واحد",
+    "text_english": "This is a blowdryer and brush in one single item."
+   },
+   {
+    "start_s": 44.1,
+    "end_s": 46.2,
+    "speaker": "second person",
+    "language": "ar",
+    "text_original": "فتستعمليه كتير هين بالبيت",
+    "text_english": "So you can use it very easily at home."
+   },
+   {
+    "start_s": 46.3,
+    "end_s": 50.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أنا أصلاً ما بعرف استعمل السيشوار والـ brush يعني كتير صعب أعمل هيك",
+    "text_english": "I don't even know how to use a blow dryer and brush, it's so hard for me to do that."
+   },
+   {
+    "start_s": 50.3,
+    "end_s": 53.5,
+    "speaker": "second person",
+    "language": "mixed",
+    "text_original": "بلبك، هيدي item واحد بتعملي فيها",
+    "text_english": "It's cumbersome, while this is one item you style with."
+   },
+   {
+    "start_s": 54.0,
+    "end_s": 56.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "ليك، زبطت!",
+    "text_english": "Look, it worked!"
+   },
+   {
+    "start_s": 56.6,
+    "end_s": 60.3,
+    "speaker": "second person",
+    "language": "ar",
+    "text_original": "مية بالمية. كمان جايي سيراميك، منو حديد انه بيحرق الشعر",
+    "text_english": "100%. Also, it comes with ceramic, it's not iron that burns hair."
+   },
+   {
+    "start_s": 60.4,
+    "end_s": 63.3,
+    "speaker": "second person",
+    "language": "mixed",
+    "text_original": "وحرارته كمان منيحة منه كتير بيحمى متل غير product",
+    "text_english": "And its heat is good too, it doesn't overheat like other products."
+   },
+   {
+    "start_s": 63.4,
+    "end_s": 65.5,
+    "speaker": "second person",
+    "language": "ar",
+    "text_original": "وصغير وسهل الاستعمال",
+    "text_english": "And it's compact and easy to use."
+   },
+   {
+    "start_s": 65.6,
+    "end_s": 67.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "حبيتهم، عم يزبطوا معي!",
+    "text_english": "I love it, they're turning out great for me!"
+   },
+   {
+    "start_s": 67.5,
+    "end_s": 68.3,
+    "speaker": "second person",
+    "language": "ar",
+    "text_original": "حلوين",
+    "text_english": "Pretty."
+   },
+   {
+    "start_s": 68.4,
+    "end_s": 72.0,
+    "speaker": "second person",
+    "language": "mixed",
+    "text_original": "ما بيأذي الشعر لأنه فيه technology جديدة اسمها ionic technology",
+    "text_english": "It doesn't damage hair because it has a new technology called ionic technology."
+   },
+   {
+    "start_s": 72.1,
+    "end_s": 75.8,
+    "speaker": "second person",
+    "language": "mixed",
+    "text_original": "وهيك ما بتخلي الشعر لا ينوبِر ولا يرجع يعمل frisé",
+    "text_english": "And that keeps hair from getting static or going frizzy again."
+   },
+   {
+    "start_s": 76.0,
+    "end_s": 78.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "صار فيك تترك المصلحة",
+    "text_english": "Now you can leave your profession!"
+   },
+   {
+    "start_s": 78.6,
+    "end_s": 80.0,
+    "speaker": "second person",
+    "language": "ar",
+    "text_original": "شو؟",
+    "text_english": "What?"
+   },
+   {
+    "start_s": 80.0,
+    "end_s": 81.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "أنا بجي",
+    "text_english": "I'll take over."
+   },
+   {
+    "start_s": 81.0,
+    "end_s": 82.0,
+    "speaker": "second person",
+    "language": "ar",
+    "text_original": "بس...",
+    "text_english": "Right..."
+   },
+   {
+    "start_s": 82.1,
+    "end_s": 84.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "طيب سامي، هلق كيف بعمل الـ bangs؟",
+    "text_english": "Okay Sami, now how do I do the bangs?"
+   },
+   {
+    "start_s": 84.1,
+    "end_s": 87.0,
+    "speaker": "second person",
+    "language": "mixed",
+    "text_original": "الـ bangs؟ هاتي لقلك كيف بتعملي الـ bangs",
+    "text_english": "The bangs? Give it to me, I'll tell you how to do bangs."
+   },
+   {
+    "start_s": 87.1,
+    "end_s": 90.0,
+    "speaker": "second person",
+    "language": "ar",
+    "text_original": "بتنزلي فيها هيك...",
+    "text_english": "You pull it down like this..."
+   },
+   {
+    "start_s": 91.5,
+    "end_s": 94.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "واو! ليك شو حلوين!",
+    "text_english": "Wow! Look how pretty they are!"
+   },
+   {
+    "start_s": 94.1,
+    "end_s": 98.0,
+    "speaker": "second person",
+    "language": "ar",
+    "text_original": "وترجعي بتسحبي فيها هيك شوي صغيرة",
+    "text_english": "And then you smooth it out just a little bit like this."
+   },
+   {
+    "start_s": 98.5,
+    "end_s": 100.8,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "واذا بدي أعمل فِرق بالنص؟",
+    "text_english": "And what if I want to make a middle part?"
+   },
+   {
+    "start_s": 100.9,
+    "end_s": 104.5,
+    "speaker": "second person",
+    "language": "ar",
+    "text_original": "اذا فرقتيهم عالنص، فيكي ترجعي تظبطيهم هيك كمان، هه",
+    "text_english": "If you part them in the middle, you can fix them like this too, see."
+   },
+   {
+    "start_s": 104.6,
+    "end_s": 106.8,
+    "speaker": "second person",
+    "language": "ar",
+    "text_original": "بس لتاخد كسرة طرف لهالميلة",
+    "text_english": "Just to give a bend towards this side."
+   },
+   {
+    "start_s": 106.9,
+    "end_s": 108.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "ونفس الشي عالميلة...",
+    "text_english": "And the same thing on the other side..."
+   },
+   {
+    "start_s": 108.6,
+    "end_s": 109.8,
+    "speaker": "second person",
+    "language": "ar",
+    "text_original": "هيي ذاتا",
+    "text_english": "It's the exact same."
+   },
+   {
+    "start_s": 112.0,
+    "end_s": 115.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "كتير حلوين!",
+    "text_english": "So pretty!"
+   },
+   {
+    "start_s": 115.1,
+    "end_s": 122.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Guys عنجد هيدا الـ tool، الـ Wavytalk Blowout Boost، بيعقد! بتعملوهن لحالكن بكتير سهولة",
+    "text_english": "Guys honestly, this tool, the Wavytalk Blowout Boost, is amazing! You can do it by yourselves so easily."
+   },
+   {
+    "start_s": 126.0,
+    "end_s": 132.5,
+    "speaker": "second person",
+    "language": "mixed",
+    "text_original": "ما في فرق بينه وبين السيشوار والـ fer، حتى لبل طعجته أجمل بكتير",
+    "text_english": "There's no difference between this and a blowdryer with a curling iron, in fact its wave is way nicer."
+   },
+   {
+    "start_s": 133.0,
+    "end_s": 134.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "وأهين!",
+    "text_english": "And easier!"
+   },
+   {
+    "start_s": 134.0,
+    "end_s": 135.0,
+    "speaker": "second person",
+    "language": "mixed",
+    "text_original": "Natural أكيد",
+    "text_english": "Natural, absolutely."
+   },
+   {
+    "start_s": 135.0,
+    "end_s": 136.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "أهين بكتير!",
+    "text_english": "Way easier!"
+   },
+   {
+    "start_s": 136.8,
+    "end_s": 139.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "بيعقد! بيعقد!",
+    "text_english": "It's amazing! Amazing!"
+   }
+  ],
+  "transcript_full_original": "يلا، فرجينا كيف بتعملي خصلة. رح قلك كيف بتعمليها، حطي الشعر عليها. Okay. ضلك نازلة لتلقطي طرفها. بس لقطتي طرفها، بتفوتي فيها هيك. وما حتعلق؟ ما بتعلق، أكيد ما بتعلق. بتنطري عليها بس شوي لحتى تحمى. Okay واو! طيب أنا، أنا بدي جرب، دقيقة. حطها عالآخر، بعدين بطلع فيها... بتبرميها... بس. صح؟ مية بالمية. الحلو بهيدا الـ product انه ما بيحرق الشعر متل السيشوار والفرشاية وتتلبكي فيها. هيدا سيشوار وفرشاية بـ item واحد. فتستعمليه كتير هين بالبيت. أنا أصلاً ما بعرف استعمل السيشوار والـ brush يعني كتير صعب أعمل هيك. بلبك، هيدي item واحد بتعملي فيها. ليك، زبطت! مية بالمية. كمان جايي سيراميك، منو حديد انه بيحرق الشعر، وحرارته كمان منيحة منه كتير بيحمى متل غير product، وصغير وسهل الاستعمال. حبيتهم، عم يزبطوا معي! حلوين. ما بيأذي الشعر لأنه فيه technology جديدة اسمها ionic technology. وهيك ما بتخلي الشعر لا ينوبِر ولا يرجع يعمل frisé. صار فيك تترك المصلحة، انا بجي. شو؟ بس... طيب سامي، هلق كيف بعمل الـ bangs؟ الـ bangs؟ هاتي لقلك كيف بتعملي الـ bangs. بتنزلي فيها هيك... واو! ليك شو حلوين! وترجعي بتسحبي فيها هيك شوي صغيرة. واذا بدي أعمل فِرق بالنص؟ اذا فرقتيهم عالنص، فيكي ترجعي تظبطيهم هيك كمان، هه، بس لتاخد كسرة طرف لهالميلة. ونفس الشي عالميلة... هيي ذاتا. كتير حلوين! Guys عنجد هيدا الـ tool، الـ Wavytalk Blowout Boost، بيعقد! بتعملوهن لحالكن بكتير سهولة. ما في فرق بينه وبين السيشوار والـ fer، حتى لبل طعجته أجمل بكتير. وأهين! Natural أكيد. أهين بكتير! بيعقد! بيعقد!",
+  "transcript_full_english": "Come on, show us how you do a strand. I'll tell you how to do it: put the hair on it. Okay. Keep going down until you catch its end. Once you catch its end, you roll into it like this. And it won't get stuck? It doesn't get stuck, definitely not. You just wait a bit for it to heat up. Okay, wow! Now me, I want to try, wait a second. I put it at the very end, then I roll it up... You twist it... that's it. Right? 100%. The nice thing about this product is that it doesn't burn hair like a blowdryer and brush where you get all clumsy with it. This is a blowdryer and brush in one single item. So you can use it very easily at home. I don't even know how to use a blow dryer and brush, it's so hard for me to do that. It's cumbersome, while this is one item you style with. Look, it worked! 100%. Also, it comes with ceramic, it's not iron that burns hair, and its heat is good too, it doesn't overheat like other products, and it's compact and easy to use. I love it, they're turning out great for me! Pretty. It doesn't damage hair because it has a new technology called ionic technology. And that keeps hair from getting static or going frizzy again. Now you can leave your profession, I'll take over! What? Right... Okay Sami, now how do I do the bangs? The bangs? Give it to me, I'll tell you how to do bangs. You pull it down like this... Wow! Look how pretty they are! And then you smooth it out just a little bit like this. And what if I want to make a middle part? If you part them in the middle, you can fix them like this too, see, just to give a bend towards this side. And the same thing on the other side... It's the exact same. So pretty! Guys honestly, this tool, the Wavytalk Blowout Boost, is amazing! You can do it by yourselves so easily. There's no difference between this and a blowdryer with a curling iron, in fact its wave is way nicer. And easier! Natural, absolutely. Way easier! It's amazing! Amazing!",
+  "word_count": 272,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.0,
+    "shot_type": "medium shot",
+    "visual": "A young brunette woman sitting in a salon chair smiling as the male hairstylist standing behind her asks her to show how she curls a strand.",
+    "action": "The woman tries twisting the Wavytalk Blowout Boost round brush into a strand of hair and smiles awkwardly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.0,
+    "end_s": 24.0,
+    "shot_type": "medium shot",
+    "visual": "The hairstylist takes the heated round brush and demonstrates the proper technique on a section of her hair.",
+    "action": "The stylist glides the brush down the strand to the ends, rolls it up, holds it briefly, and rolls it out to reveal a perfect curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.0,
+    "end_s": 35.0,
+    "shot_type": "medium shot",
+    "visual": "The woman takes the tool excitedly to try the technique on another front strand herself.",
+    "action": "She wraps the hair around the brush, glides down, rolls it, waits, and pulls it through, creating a clean wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 35.0,
+    "end_s": 82.0,
+    "shot_type": "medium shot",
+    "visual": "The woman continues styling another strand herself while the hairstylist stands behind her explaining the tool's benefits and technology.",
+    "action": "She successfully curls another section while he explains the ceramic surface, gentle heat, 2-in-1 design, and ionic anti-frizz technology.",
+    "product_visible": true
+   },
+   {
+    "start_s": 82.0,
+    "end_s": 114.0,
+    "shot_type": "medium close-up",
+    "visual": "The client asks about styling bangs; the stylist demonstrates rolling front bangs upward and backward, then styling them for a middle part.",
+    "action": "The stylist styles her front fringe upward, releasing voluminous curtain bangs framing her face.",
+    "product_visible": true
+   },
+   {
+    "start_s": 114.0,
+    "end_s": 139.0,
+    "shot_type": "medium shot",
+    "visual": "The client shakes her voluminous finished blowout, holding the pink Wavytalk Blowout Boost tool up to the camera while praising it.",
+    "action": "The client looks directly into the camera, shows the tool, runs her fingers through her hair, while the stylist fluff-styles her finished curls from behind.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Hairstylist holding the pink Wavytalk thermal brush asking his seated female client to show how she does a curl.",
+   "visual_0_3s": "Female client laughing as she attempts to roll a strand of hair around the heated brush in a salon chair.",
+   "spoken_0_3s": "يلا، فرجينا كيف بتعملي خصلة",
+   "text_0_3s": "",
+   "hook_type": "expert_or_hairdresser",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Salon environment where a professional hairstylist playfully tests whether a client can use the styling brush properly."
+  },
+  "structure": {
+   "format": "hairdresser_or_expert",
+   "narrative_beats": [
+    "Challenge/Intro: Hairstylist asks client to demonstrate how she curls her hair with the tool.",
+    "Demonstration: Professional stylist corrects her technique and demonstrates the effortless wrap-and-glide method.",
+    "Client Self-Trial: Client attempts the method on her own and achieves an immediate glossy curl.",
+    "Feature Breakdown: Stylist explains ceramic coating, heat safety, 2-in-1 convenience, and ionic anti-frizz technology.",
+    "Styling Bangs: Step-by-step tutorial on styling front fringe and middle-part curtain bangs.",
+    "Final Result & Testimonial: Client showcases bouncy salon curls and recommends the Wavytalk Blowout Boost."
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "easy_for_beginners",
+    "expert_endorsement",
+    "frizz_or_curly_solution",
+    "replaces_multiple_tools"
+   ],
+   "key_claims": [
+    "Combines a hairdryer and round brush in one single item",
+    "Ceramic coating distributes heat evenly and won't burn hair like iron tools",
+    "Ionic technology prevents flyaways, static, and frizz",
+    "Easy enough for beginners who struggle with traditional blowdryers and brushes",
+    "Achieves waves and bounce superior and more natural than a curling iron"
+   ],
+   "pain_points": [
+    "Struggling to coordinate a separate blowdryer and round brush simultaneously",
+    "Hair burning and damage from traditional high-heat iron tools",
+    "Hair curling tools tangling or getting stuck in long hair",
+    "Frizzy or static hair after styling"
+   ],
+   "objections_handled": [
+    "Will the hair get tangled/stuck in the brush? (Stylist explicitly clarifies it won't tangle when pulled through correctly)",
+    "Will it burn or damage hair? (Addressed by explaining ceramic material and safe thermal heat)",
+    "Is it too difficult for ordinary people at home? (Handled by having the client do it herself effortlessly on camera)"
+   ],
+   "social_proof": [
+    "Professional hairstylist endorsement in a real salon setting",
+    "Immediate on-camera live demonstration and client reaction"
+   ],
+   "comparison_to": "Traditional blowdryer plus round styling brush, and conventional curling iron (fer)"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 1.0,
+   "final_result_shown_s": 114.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1.0
+  },
+  "talent": {
+   "people_count": 2,
+   "talent_type": "hairdresser_expert",
+   "name_if_shown": "Sami",
+   "age_range": "20s",
+   "hair_before": "Long, dark brown, straight-to-slightly wavy hair parted and sectioned.",
+   "hair_after": "Voluminous, shiny, salon-styled bouncy blowout waves with curved curtain bangs.",
+   "setting": "salon",
+   "faces_camera": true,
+   "energy_tone": "friendly, instructional, lighthearted, and authentic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "Low ambient salon background noise with clear live dialogue between stylist and client.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 0,
+   "avg_shot_length_s": 139.0,
+   "pacing": "medium",
+   "effects": [],
+   "ending": "Female creator excitedly shakes her voluminous styled hair while smiling directly at the camera saying 'bi3a22ed! bi3a22ed!' (amazing! amazing!)."
+  },
+  "notes": "Single continuous take recorded in a hair salon. Authentic conversational interaction between stylist and client demonstrating multiple styling use-cases (lengths, ends, front fringe, curtain bangs)."
+ }
+}

@@ -1,0 +1,500 @@
+{
+ "media_key": "v_1514336283399725",
+ "analyzed_at": "2026-11-27T18:43:28+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "077b222c12c2706e5af918b51ed262a349ea0c010a675727e5a769c8bdca4fca",
+ "source": {
+  "kind": "video",
+  "id": "1514336283399725",
+  "video_id": "2227782794693199",
+  "length_s": 116.4,
+  "permalink": "/122152625727061607/videos/2227782794693199?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 116.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator brings the WavyTalk Blowout Boost brush to her hairdresser, who tests it, loves the results, and rates it 10/10.",
+  "full_description": "The ad features a Lebanese female creator at a hair salon having her hair styled by her professional male hairdresser using the WavyTalk Blowout Boost thermal round brush. The video starts with the hairdresser noting how nice it is not hearing a loud blow dryer noise, followed by an automated text-to-speech hook explaining the concept: testing and rating the brush. As the stylist works through sections, both he and the creator praise how fast it works, its heat output, and the salon-quality bouncy curl it creates. The hairdresser jokingly worries that if clients discover this tool, no one will come to the salon because they can do it at home. After flipping her hair and revealing enormous volume and smooth curls, the hairdresser rates the WavyTalk brush a 10 out of 10, stating the curl is even nicer than with a professional blow dryer.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 98,
+    "en": 2,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "speaker": "second_person",
+    "language": "ar",
+    "text_original": "أحلى شيء إنه ارتحت من صوت السشوار",
+    "text_english": "The best thing is that I got relief from the sound of the hairdryer."
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 5.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "My hairdresser rating the Wavytalk blowout boost brush.",
+    "text_english": "My hairdresser rating the Wavytalk blowout boost brush."
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 13.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "إيه بس عم تعطي طعجة منيحة هاه؟",
+    "text_english": "Yeah, but it's giving a really nice curl/wave, huh?"
+   },
+   {
+    "start_s": 13.1,
+    "end_s": 15.0,
+    "speaker": "second_person",
+    "language": "ar",
+    "text_original": "والله قوي يعني ما عم بتمسخر.",
+    "text_english": "Honestly it's powerful, I'm not kidding."
+   },
+   {
+    "start_s": 15.1,
+    "end_s": 16.3,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "هيدي تقيلة؟",
+    "text_english": "Is this heavy?"
+   },
+   {
+    "start_s": 16.4,
+    "end_s": 17.8,
+    "speaker": "second_person",
+    "language": "ar",
+    "text_original": "حماوته رائعة.",
+    "text_english": "Its heat is amazing."
+   },
+   {
+    "start_s": 17.9,
+    "end_s": 19.1,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "وشو سريع قلت صح؟",
+    "text_english": "And you said how fast it is, right?"
+   },
+   {
+    "start_s": 19.2,
+    "end_s": 20.3,
+    "speaker": "second_person",
+    "language": "ar",
+    "text_original": "سريع كتير.",
+    "text_english": "Very fast."
+   },
+   {
+    "start_s": 23.8,
+    "end_s": 25.5,
+    "speaker": "second_person",
+    "language": "ar",
+    "text_original": "أنا صدمني صراحة هاه.",
+    "text_english": "Honestly, it shocked me."
+   },
+   {
+    "start_s": 25.6,
+    "end_s": 28.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "بس عن جد، بخمس دقائق عمل كل هيدول؟",
+    "text_english": "Seriously, in five minutes it did all of these?"
+   },
+   {
+    "start_s": 28.6,
+    "end_s": 30.1,
+    "speaker": "second_person",
+    "language": "ar",
+    "text_original": "لا والله سريع.",
+    "text_english": "No honestly, it's fast."
+   },
+   {
+    "start_s": 33.8,
+    "end_s": 34.9,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "شفت؟",
+    "text_english": "See?"
+   },
+   {
+    "start_s": 35.5,
+    "end_s": 36.7,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "بتجنن!",
+    "text_english": "It's gorgeous!"
+   },
+   {
+    "start_s": 36.8,
+    "end_s": 38.6,
+    "speaker": "second_person",
+    "language": "ar",
+    "text_original": "بتجنن! بتجنن!",
+    "text_english": "Gorgeous! Gorgeous!"
+   },
+   {
+    "start_s": 39.0,
+    "end_s": 40.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "هيك عم أرجيك...",
+    "text_english": "I'm showing you like this..."
+   },
+   {
+    "start_s": 40.6,
+    "end_s": 43.6,
+    "speaker": "second_person",
+    "language": "ar",
+    "text_original": "ما أنا عارف إنك فاتحة الكاميرا؟",
+    "text_english": "Didn't I know you had the camera turned on?"
+   },
+   {
+    "start_s": 43.7,
+    "end_s": 46.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "ما لذيذ، ما عرف إنه عم صور!",
+    "text_english": "So sweet, he didn't know I was filming!"
+   },
+   {
+    "start_s": 46.6,
+    "end_s": 47.3,
+    "speaker": "second_person",
+    "language": "ar",
+    "text_original": "أهلا أهلا.",
+    "text_english": "Welcome, welcome."
+   },
+   {
+    "start_s": 47.4,
+    "end_s": 51.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "شفتوا؟ نحن ما بنكذب، ما حدا عارف إنه عم نصور.",
+    "text_english": "See? We don't lie, nobody knew we were filming."
+   },
+   {
+    "start_s": 51.5,
+    "end_s": 56.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "لأ بس عن جد واو! صراحة يعني.",
+    "text_english": "No, but seriously, wow! Honestly."
+   },
+   {
+    "start_s": 58.7,
+    "end_s": 61.2,
+    "speaker": "second_person",
+    "language": "ar",
+    "text_original": "شكلي بدي جيب منها عالمحل.",
+    "text_english": "Looks like I need to get one of these for the salon."
+   },
+   {
+    "start_s": 61.3,
+    "end_s": 65.9,
+    "speaker": "second_person",
+    "language": "ar",
+    "text_original": "بس إذا شافوها الزبونات هيدي المكنة، ما بقى حدا بيجي بيعمل شعراته عنا!",
+    "text_english": "But if the clients see this tool, no one will come to get their hair done with us anymore!"
+   },
+   {
+    "start_s": 66.0,
+    "end_s": 69.0,
+    "speaker": "second_person",
+    "language": "ar",
+    "text_original": "كله بيشتري منها وبيعملهم بالبيت!",
+    "text_english": "Everyone will buy one and do it at home!"
+   },
+   {
+    "start_s": 122.9,
+    "end_s": 124.9,
+    "speaker": "second_person",
+    "language": "ar",
+    "text_original": "لأ أنا ح جيب وحدة منها لهون.",
+    "text_english": "No, I'm going to get one of these for here."
+   },
+   {
+    "start_s": 125.0,
+    "end_s": 126.3,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "أنت ح تجيب واحدة منها؟",
+    "text_english": "You're going to get one?"
+   },
+   {
+    "start_s": 134.1,
+    "end_s": 136.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "أوكي، لأ عن جد واو!",
+    "text_english": "Okay, no seriously wow!"
+   },
+   {
+    "start_s": 138.0,
+    "end_s": 139.5,
+    "speaker": "second_person",
+    "language": "ar",
+    "text_original": "توفير جبنا منها!",
+    "text_english": "It's savings, we got one!"
+   },
+   {
+    "start_s": 144.5,
+    "end_s": 148.0,
+    "speaker": "second_person",
+    "language": "ar",
+    "text_original": "صراحة ما توقعت تطلع هيك أنا.",
+    "text_english": "Honestly, I didn't expect it to turn out like this."
+   },
+   {
+    "start_s": 149.0,
+    "end_s": 151.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "حبيتها يعني، قدي بتعطيها على 10؟",
+    "text_english": "So you liked it, what do you rate it out of 10?"
+   },
+   {
+    "start_s": 152.0,
+    "end_s": 152.8,
+    "speaker": "second_person",
+    "language": "ar",
+    "text_original": "عشرة.",
+    "text_english": "Ten."
+   },
+   {
+    "start_s": 152.9,
+    "end_s": 153.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "عن جد؟",
+    "text_english": "Seriously?"
+   },
+   {
+    "start_s": 153.6,
+    "end_s": 154.2,
+    "speaker": "second_person",
+    "language": "ar",
+    "text_original": "أكيد.",
+    "text_english": "Definitely."
+   },
+   {
+    "start_s": 154.3,
+    "end_s": 156.4,
+    "speaker": "second_person",
+    "language": "ar",
+    "text_original": "وعطت طعجة أحلى من تبع السشوار!",
+    "text_english": "And it gave a wave nicer than that of the hairdryer!"
+   }
+  ],
+  "transcript_full_original": "أحلى شيء إنه ارتحت من صوت السشوار. My hairdresser rating the Wavytalk blowout boost brush. إيه بس عم تعطي طعجة منيحة هاه؟ والله قوي يعني ما عم بتمسخر. هيدي تقيلة؟ حماوته رائعة. وشو سريع قلت صح؟ سريع كتير. أنا صدمني صراحة هاه. بس عن جد، بخمس دقائق عمل كل هيدول؟ لا والله سريع. شفت؟ بتجنن! بتجنن! بتجنن! هيك عم أرجيك... ما أنا عارف إنك فاتحة الكاميرا؟ ما لذيذ، ما عرف إنه عم صور! أهلا أهلا. شفتوا؟ نحن ما بنكذب، ما حدا عارف إنه عم نصور. لأ بس عن جد واو! صراحة يعني. شكلي بدي جيب منها عالمحل. بس إذا شافوها الزبونات هيدي المكنة، ما بقى حدا بيجي بيعمل شعراته عنا! كله بيشتري منها وبيعملهم بالبيت! لأ أنا ح جيب وحدة منها لهون. أنت ح تجيب واحدة منها؟ أوكي، لأ عن جد واو! توفير جبنا منها! صراحة ما توقعت تطلع هيك أنا. حبيتها يعني، قدي بتعطيها على 10؟ عشرة. عن جد؟ أكيد. وعطت طعجة أحلى من تبع السشوار!",
+  "transcript_full_english": "The best thing is that I got relief from the sound of the hairdryer. My hairdresser rating the Wavytalk blowout boost brush. Yeah, but it's giving a really nice curl/wave, huh? Honestly it's powerful, I'm not kidding. Is this heavy? Its heat is amazing. And you said how fast it is, right? Very fast. Honestly, it shocked me. Seriously, in five minutes it did all of these? No honestly, it's fast. See? It's gorgeous! Gorgeous! Gorgeous! I'm showing you like this... Didn't I know you had the camera turned on? So sweet, he didn't know I was filming! Welcome, welcome. See? We don't lie, nobody knew we were filming. No, but seriously, wow! Honestly. Looks like I need to get one of these for the salon. But if the clients see this tool, no one will come to get their hair done with us anymore! Everyone will buy one and do it at home! No, I'm going to get one of these for here. You're going to get one? Okay, no seriously wow! It's savings, we got one! Honestly, I didn't expect it to turn out like this. So you liked it, what do you rate it out of 10? Ten. Seriously? Definitely. And it gave a wave nicer than that of the hairdryer!",
+  "word_count": 142,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 2.2,
+    "end_s": 10.9,
+    "text": "my hairdresser rating the Wavytalk blowout boost brush",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "shot_type": "medium shot",
+    "visual": "Female creator sitting in salon chair smiling into the phone camera while her male hairdresser stands behind her talking.",
+    "action": "Hairdresser jokes that he loves not having to hear the hairdryer noise.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 4.0,
+    "shot_type": "medium close-up",
+    "visual": "Female creator showing her long natural hair before styling, text overlay on screen.",
+    "action": "Creator shakes out her hair with text and automated TTS playing.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.0,
+    "end_s": 6.0,
+    "shot_type": "close-up",
+    "visual": "Hands holding and rotating the pink WavyTalk Blowout Boost thermal round brush.",
+    "action": "Showing the brush barrel, bristles, and digital display.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.0,
+    "end_s": 15.0,
+    "shot_type": "medium shot",
+    "visual": "Mirror view of hairdresser sectioning and styling creator's long hair using the WavyTalk brush.",
+    "action": "Stylist glides the heated round brush through a section of hair to curl it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 20.0,
+    "shot_type": "selfie view",
+    "visual": "Creator filming from handheld selfie angle smiling while stylist brushes and curls hair behind her.",
+    "action": "They discuss the heat, weight, and speed of the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 34.0,
+    "shot_type": "medium shot",
+    "visual": "Stylist wrapping front and crown hair around the brush barrel, then pulling it through to release a spiral blowout curl.",
+    "action": "Stylist pulls down and curls, revealing an elastic, bouncy wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 34.0,
+    "end_s": 58.0,
+    "shot_type": "medium shot",
+    "visual": "Creator and hairdresser laughing and interacting naturally in the mirror while styling continues.",
+    "action": "Creator reveals she caught his genuine reaction on camera without him initially noticing.",
+    "product_visible": true
+   },
+   {
+    "start_s": 58.0,
+    "end_s": 126.0,
+    "shot_type": "medium shot",
+    "visual": "Stylist finishing remaining front sections, creating bouncy inward and outward curls.",
+    "action": "Stylist jokes that if clients buy this, salons will go out of business.",
+    "product_visible": true
+   },
+   {
+    "start_s": 126.0,
+    "end_s": 134.0,
+    "shot_type": "medium shot",
+    "visual": "Stylist bends creator forward, ruffles her roots, and she flips her head back.",
+    "action": "Hair flip reveal showing huge volume, bounce, and defined waves.",
+    "product_visible": false
+   },
+   {
+    "start_s": 134.0,
+    "end_s": 144.0,
+    "shot_type": "medium shot",
+    "visual": "Stylist parts creator's hair and applies hairspray to set the blowout.",
+    "action": "Hairdresser touches up the bangs and sprays styling spray.",
+    "product_visible": false
+   },
+   {
+    "start_s": 144.0,
+    "end_s": 156.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the WavyTalk brush in front of camera while hairdresser raises 10 fingers to rate it 10/10.",
+    "action": "Hairdresser praises the tool and declares its curl better than a regular hairdryer.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Hairdresser standing over creator in salon, talking candidly to the camera.",
+   "visual_0_3s": "Hairdresser talking followed by creator showing her unstyled natural hair with text overlay.",
+   "spoken_0_3s": "أحلى شيء إنه ارتحت من صوت السشوار (The best thing is that I got relief from the sound of the hairdryer).",
+   "text_0_3s": "my hairdresser rating the Wavytalk blowout boost brush",
+   "hook_type": "expert_or_hairdresser",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Direct organic behind-the-scenes candid start in a hair salon with an unscripted hairdresser comment instead of an obvious commercial intro."
+  },
+  "structure": {
+   "format": "hairdresser_or_expert",
+   "narrative_beats": [
+    "Authentic salon premise: Hairdresser tests client's viral hair brush",
+    "Demo in action: Stylist sections hair, notes fast heating and quick styling speed",
+    "Candid interaction: Creator reveals she is recording stylist's genuine impressions",
+    "Humorous objection: Stylist jokes it will put salons out of business because clients can do it easily at home",
+    "Big reveal: Dramatic hair flip showing huge volume and bouncy curls",
+    "Official verdict: Hairdresser gives it a 10/10 rating and prefers it to a blowout dryer"
+   ],
+   "main_angle": "expert_endorsement",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "saves_time"
+   ],
+   "key_claims": [
+    "Relieves user from loud blow dryer noise",
+    "Excellent heating capability",
+    "Extremely fast styling (does whole hair in minutes)",
+    "Creates curls that rival or beat professional blowouts",
+    "Rated 10/10 by a professional hairdresser"
+   ],
+   "pain_points": [
+    "Noisy, cumbersome traditional blow dryers",
+    "Spending too much money/time at hair salons",
+    "Struggling to achieve salon-level volume and waves at home"
+   ],
+   "objections_handled": [
+    "Is it really that good or just hype? A professional hairdresser tested it live and gave it 10/10",
+    "Does it take too long? Finished full sections in under 5 minutes"
+   ],
+   "social_proof": [
+    "Professional hair stylist endorsement and 10/10 rating on camera",
+    "Spontaneous, unscripted reaction from salon staff"
+   ],
+   "comparison_to": "Traditional salon hairdryer / blow dryer (sechoir) and round brush"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Brush"
+   ],
+   "first_seen_s": 4.0,
+   "first_used_on_hair_s": 6.2,
+   "final_result_shown_s": 129.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 2,
+   "talent_type": "hairdresser_expert",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Long dark brown, naturally wavy, somewhat frizzy, unstyled",
+   "hair_after": "Voluminous, shiny, bouncy salon-grade blowout waves with lifted roots",
+   "setting": "salon",
+   "faces_camera": true,
+   "energy_tone": "Warm, spontaneous, upbeat, humorous, authentic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "Subtle ambient background music / salon natural audio with primary focus on natural dialogue",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 13,
+   "avg_shot_length_s": 8.9,
+   "pacing": "medium",
+   "effects": [
+    "Text-to-speech voiceover hook",
+    "Hair flip reveal",
+    "Mirror reflection shot"
+   ],
+   "ending": "Hairdresser giving a final spontaneous endorsement to the camera and creator laughing"
+  },
+  "notes": "Highly effective expert social-proof UGC format tailored to the Lebanese market. The hairdresser's organic reaction ('If clients see this, no one will come to the salon') directly tackles the value proposition of salon-quality results at home."
+ }
+}

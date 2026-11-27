@@ -1,0 +1,436 @@
+{
+ "media_key": "v_1353271623267577",
+ "analyzed_at": "2026-11-27T19:32:59+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "f33b27c4b42a500ae3f781ce24acf41807ffd69c5c4d52f896635e908e92ddea",
+ "source": {
+  "kind": "video",
+  "id": "1353271623267577",
+  "errors": [
+   "1353271623267577: Gave up after 5 retries: https://graph.facebook.com/v26.0/1353271623267577",
+   "700459479698214: Gave up after 5 retries: https://graph.facebook.com/v26.0/700459479698214"
+  ],
+  "ig_media_id": "18017978327812246",
+  "permalink": "https://www.instagram.com/p/DUWeypfDDCF/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 34.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Split-screen UGC comparison of two women styling two different looks (soft waves vs. flicked ends) using the WavyTalk thermal brush.",
+  "full_description": "A vertical split-screen UGC demonstration featuring two young Lebanese women. The top creator in a grey blazer styles her wavy hair into soft waves with bouncy bangs at 215°C, while the bottom creator in a blue knit top styles straight hair with flicked ends at 180°C using the WavyTalk thermal round brush. Both explain the temperature settings, negative ion anti-frizz technology, and display their shiny, voluminous final results with a call to action to order via the link below.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 65,
+    "en": 30,
+    "fr": 5
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "arabizi",
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "speaker": "creator_top",
+    "language": "mixed",
+    "text_original": "رح أعمل شعري soft waves اليوم",
+    "text_english": "I'm going to do my hair in soft waves today"
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 4.1,
+    "speaker": "creator_top",
+    "language": "mixed",
+    "text_original": "لأنه عندي meeting مهم بالشغل",
+    "text_english": "because I have an important meeting at work."
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 5.8,
+    "speaker": "creator_bottom",
+    "language": "mixed",
+    "text_original": "وأنا حأعمل flicked ends.",
+    "text_english": "And I'm going to do flicked ends."
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 7.5,
+    "speaker": "creator_top",
+    "language": "mixed",
+    "text_original": "بنحط الـ brush ع 215 درجة",
+    "text_english": "We set the brush to 215 degrees"
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 9.1,
+    "speaker": "creator_top",
+    "language": "mixed",
+    "text_original": "وبنبلش بالـ bangs.",
+    "text_english": "and we start with the bangs."
+   },
+   {
+    "start_s": 9.1,
+    "end_s": 12.0,
+    "speaker": "creator_bottom",
+    "language": "mixed",
+    "text_original": "أنا شعري lisse ورح حطه ع الـ 180 درجة.",
+    "text_english": "My hair is straight, so I'll set it to 180 degrees."
+   },
+   {
+    "start_s": 17.8,
+    "end_s": 21.0,
+    "speaker": "creator_bottom",
+    "language": "mixed",
+    "text_original": "It glows لأنه بيشتغل على الـ negative ion technology",
+    "text_english": "It glows because it works with negative ion technology"
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 24.8,
+    "speaker": "creator_bottom",
+    "language": "mixed",
+    "text_original": "ومثل ما شايفين ما بتعمل frizz أبداً، and it keeps your hair hydrated.",
+    "text_english": "and as you can see, it doesn't cause frizz at all, and it keeps your hair hydrated."
+   },
+   {
+    "start_s": 24.8,
+    "end_s": 27.2,
+    "speaker": "creator_top",
+    "language": "mixed",
+    "text_original": "This is the final result, شوفوا كيف صار",
+    "text_english": "This is the final result, look how it turned out"
+   },
+   {
+    "start_s": 27.2,
+    "end_s": 29.0,
+    "speaker": "creator_top",
+    "language": "mixed",
+    "text_original": "شعري عبي و shiny.",
+    "text_english": "my hair is full and shiny."
+   },
+   {
+    "start_s": 29.0,
+    "end_s": 32.0,
+    "speaker": "creator_bottom",
+    "language": "en",
+    "text_original": "WavyTalk knows exactly what our hair needs.",
+    "text_english": "WavyTalk knows exactly what our hair needs."
+   },
+   {
+    "start_s": 32.0,
+    "end_s": 33.7,
+    "speaker": "creator_bottom",
+    "language": "mixed",
+    "text_original": "Two different designs بـ the same brush.",
+    "text_english": "Two different styles with the same brush."
+   },
+   {
+    "start_s": 33.7,
+    "end_s": 34.8,
+    "speaker": "creator_bottom",
+    "language": "en",
+    "text_original": "Click on the link below.",
+    "text_english": "Click on the link below."
+   }
+  ],
+  "transcript_full_original": "رح أعمل شعري soft waves اليوم لأنه عندي meeting مهم بالشغل وأنا حأعمل flicked ends. بنحط الـ brush ع 215 درجة وبنبلش بالـ bangs. أنا شعري lisse ورح حطه ع الـ 180 درجة. It glows لأنه بيشتغل على الـ negative ion technology ومثل ما شايفين ما بتعمل frizz أبداً، and it keeps your hair hydrated. This is the final result, شوفوا كيف صار شعري عبي و shiny. WavyTalk knows exactly what our hair needs. Two different designs بـ the same brush. Click on the link below.",
+  "transcript_full_english": "I'm going to do my hair in soft waves today because I have an important meeting at work. And I'm going to do flicked ends. We set the brush to 215 degrees and we start with the bangs. My hair is straight, so I'll set it to 180 degrees. It glows because it works with negative ion technology, and as you can see, it doesn't cause frizz at all, and it keeps your hair hydrated. This is the final result, look how it turned out, my hair is full and shiny. WavyTalk knows exactly what our hair needs. Two different styles with the same brush. Click on the link below.",
+  "word_count": 82,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.0,
+    "text": "r7 aaml shaare",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 2.0,
+    "text": "Soft waves lyom",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 3.0,
+    "text": "la2ano eende",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 4.1,
+    "text": "bl sheghl",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 5.0,
+    "text": "w ana ha aaml",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 6.0,
+    "text": "flicked ends",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.0,
+    "end_s": 7.5,
+    "text": "at 250 temperature",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 9.0,
+    "text": "w mnballesh bl bangs",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.0,
+    "end_s": 10.0,
+    "text": "ana shaare lysse",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.0,
+    "end_s": 12.0,
+    "text": "ha hotto at 180 temperature",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 19.0,
+    "text": "it glows",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.0,
+    "end_s": 20.0,
+    "text": "la2an byeshteghel aal",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 21.0,
+    "text": "negative ion technology",
+    "role": "benefit"
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 22.0,
+    "text": "W mtl m sheyfin",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 23.0,
+    "text": "ma btaaml frizz",
+    "role": "benefit"
+   },
+   {
+    "start_s": 23.0,
+    "end_s": 24.8,
+    "text": "w its keeps ur hair hydrated",
+    "role": "benefit"
+   },
+   {
+    "start_s": 24.8,
+    "end_s": 26.0,
+    "text": "this is the final result",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 26.0,
+    "end_s": 27.2,
+    "text": "shufo kif sar",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 27.2,
+    "end_s": 29.0,
+    "text": "shaare aabe w shiny",
+    "role": "benefit"
+   },
+   {
+    "start_s": 29.0,
+    "end_s": 30.0,
+    "text": "wavytalk",
+    "role": "brand"
+   },
+   {
+    "start_s": 30.0,
+    "end_s": 31.0,
+    "text": "knows exactly",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 32.0,
+    "text": "what our hair needs",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 32.0,
+    "end_s": 33.0,
+    "text": "2 different designs",
+    "role": "benefit"
+   },
+   {
+    "start_s": 33.0,
+    "end_s": 34.0,
+    "text": "b the same brush",
+    "role": "benefit"
+   },
+   {
+    "start_s": 34.0,
+    "end_s": 34.8,
+    "text": "click on the link below",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.8,
+    "shot_type": "split_screen",
+    "visual": "Vertical split screen showing two women; top woman in blazer prepares to curl hair, bottom woman holds the pink WavyTalk brush.",
+    "action": "Top woman explains she needs soft waves for a work meeting; bottom woman states she will do flicked ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 12.0,
+    "shot_type": "split_screen",
+    "visual": "Split screen continues as both creators explain temperature selection and begin styling their hair.",
+    "action": "Top creator rolls the brush into her front fringe/bangs; bottom creator adjusts temperature on brush handle.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 17.8,
+    "shot_type": "split_screen",
+    "visual": "Styling sequence showing application on hair with background music playing.",
+    "action": "Top creator wraps and twists strands around thermal barrel; bottom creator brushes through ends to flick them outward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.8,
+    "end_s": 24.8,
+    "shot_type": "split_screen",
+    "visual": "Demonstration continues while bottom creator speaks about negative ion technology.",
+    "action": "Both creators show smooth, frizz-free glide through sections of hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.8,
+    "end_s": 34.8,
+    "shot_type": "split_screen",
+    "visual": "Final results reveal and closing call to action.",
+    "action": "Top creator shakes out bouncy soft waves; bottom creator showcases sleek flicked ends, flashes peace sign for '2 different designs', points downward to CTA.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Vertical split-screen of two women facing the camera, bottom woman holding the pink thermal brush.",
+   "visual_0_3s": "Simultaneous side-by-side style comparison set-up with center divider subtitles in Arabizi.",
+   "spoken_0_3s": "رح أعمل شعري soft waves اليوم لأنه عندي meeting مهم بالشغل",
+   "text_0_3s": "r7 aaml shaare / Soft waves lyom",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Synchronized vertical dual-screen comparison showing two distinct hairstyles done with one tool."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Objective declaration: Two different hairstyles for different occasions/hair types",
+    "Temperature settings tailored to hair thickness",
+    "Styling technique demonstration (soft waves vs flicked ends)",
+    "Feature callout: Negative ion tech prevents frizz and retains hydration",
+    "Result reveal: Shiny, voluminous styles achieved with one brush",
+    "Direct CTA to click the link below"
+   ],
+   "main_angle": "replaces_multiple_tools",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "frizz_or_curly_solution"
+   ],
+   "key_claims": [
+    "Creates multiple distinct hairstyles with one tool",
+    "Adjustable temperature settings for different hair types",
+    "Negative ion technology prevents frizz and hydrates hair",
+    "Leaves hair voluminous and shiny"
+   ],
+   "pain_points": [
+    "hair frizz",
+    "lack of volume",
+    "needing multiple tools for different hair looks"
+   ],
+   "objections_handled": [
+    "Can it work on straight vs wavy hair? (Shows both simultaneously)",
+    "Will it cause heat damage or frizz? (Explains negative ion hydration)"
+   ],
+   "social_proof": [],
+   "comparison_to": "none"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Thermal Round Brush (Blowout Boost)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 7.5,
+   "final_result_shown_s": 24.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Click on the link below.",
+   "cta_on_screen": "click on the link below",
+   "cta_at_s": 33.7
+  },
+  "talent": {
+   "people_count": 2,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-30",
+   "hair_before": "Top: dark, wavy/textured hair; Bottom: dark, long, natural straight/frizzy hair.",
+   "hair_after": "Top: polished soft waves with voluminous curtain bangs; Bottom: sleek hair with defined flicked ends.",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "friendly, energetic, relatable, instructional"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Upbeat pop/electronic background beat under conversational dialogue.",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 6.96,
+   "pacing": "fast",
+   "effects": [
+    "split screen divider",
+    "synchronized text pop-in"
+   ],
+   "ending": "Bottom creator points downward toward the ad link button while smiling."
+  },
+  "notes": "Features Arabizi burned-in subtitles at the center divider line. Demonstrates dual versatility of the WavyTalk thermal brush on two different hair types."
+ }
+}

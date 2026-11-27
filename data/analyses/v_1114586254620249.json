@@ -1,0 +1,325 @@
+{
+ "media_key": "v_1114586254620249",
+ "analyzed_at": "2026-11-27T22:32:15+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "1107cb88ef6e6dbad7d0d9592a9d32fcdf34f6eb7a47b1e8e2a5cfa5e439c8f6",
+ "source": {
+  "kind": "video",
+  "id": "1114586254620249",
+  "errors": [
+   "1114586254620249: Gave up after 5 retries: https://graph.facebook.com/v26.0/1114586254620249",
+   "2542831076200647: Gave up after 5 retries: https://graph.facebook.com/v26.0/2542831076200647"
+  ],
+  "ig_media_id": "17897767872419472",
+  "permalink": "https://www.instagram.com/p/DfA1AJlsR6c/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 49.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A young creator with frizzy blow-dried hair tests the Wavytalk Steamline Pro straightening brush, achieving ultra-shiny, sleek hair in one pass and finishing in 10 minutes.",
+  "full_description": "A creator showcases her frizzy, poofy hair after a rushed blow-dry and tests the light blue Wavytalk Steamline Pro steam straightening brush. She introduces the tool, explains the steam technology designed to protect hair, turns it on, and demonstrates a single slow pass down a wavy strand. Shocked by the instant pin-straight, ultra-glossy result, she compares the two sides of her hair, completes her full head in under 10 minutes, and admires the sleek, shiny transformation before thanking viewers.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I feel like I'm watching an influencer's video, like how the heck is my hair this shiny?",
+    "text_english": "I feel like I'm watching an influencer's video, like how the heck is my hair this shiny?"
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 5.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is what happens when you have wavy hair and you try to blow dry it really quickly. Let's fix this.",
+    "text_english": "This is what happens when you have wavy hair and you try to blow dry it really quickly. Let's fix this."
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 10.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm going to be using the Wavytalk Steamline Pro, which actually straightens your hair with this brush and steam to protect your hair.",
+    "text_english": "I'm going to be using the Wavytalk Steamline Pro, which actually straightens your hair with this brush and steam to protect your hair."
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 14.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Turn on to my desired setting and then I'm going to press the top button to activate the steam. Here goes nothing.",
+    "text_english": "Turn on to my desired setting and then I'm going to press the top button to activate the steam. Here goes nothing."
+   },
+   {
+    "start_s": 19.5,
+    "end_s": 22.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Are you kidding me?",
+    "text_english": "Are you kidding me?"
+   },
+   {
+    "start_s": 22.9,
+    "end_s": 24.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Is that... that's my hair?",
+    "text_english": "Is that... that's my hair?"
+   },
+   {
+    "start_s": 24.6,
+    "end_s": 26.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Heck yeah, and that's one pass, mind you!",
+    "text_english": "Heck yeah, and that's one pass, mind you!"
+   },
+   {
+    "start_s": 27.0,
+    "end_s": 32.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I feel like I'm watching an influencer's video, like how the heck is my hair this shiny? But I guess I am an influencer, I don't know, but...",
+    "text_english": "I feel like I'm watching an influencer's video, like how the heck is my hair this shiny? But I guess I am an influencer, I don't know, but..."
+   },
+   {
+    "start_s": 32.1,
+    "end_s": 33.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at that shine!",
+    "text_english": "Look at that shine!"
+   },
+   {
+    "start_s": 33.7,
+    "end_s": 36.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's like it's sleek, it's shiny, this is like poof! That's very poofy.",
+    "text_english": "It's like it's sleek, it's shiny, this is like poof! That's very poofy."
+   },
+   {
+    "start_s": 37.8,
+    "end_s": 41.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Already including the filming time, I just straightened my hair in 10 minutes.",
+    "text_english": "Already including the filming time, I just straightened my hair in 10 minutes."
+   },
+   {
+    "start_s": 41.1,
+    "end_s": 44.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I went from having a bad hair day to a shiny hair day really fast, y'all!",
+    "text_english": "I went from having a bad hair day to a shiny hair day really fast, y'all!"
+   },
+   {
+    "start_s": 45.0,
+    "end_s": 49.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "For my first experience using a Wavytalk product, I'm very, very pleased. Thank you so much for the video.",
+    "text_english": "For my first experience using a Wavytalk product, I'm very, very pleased. Thank you so much for the video."
+   }
+  ],
+  "transcript_full_original": "I feel like I'm watching an influencer's video, like how the heck is my hair this shiny? This is what happens when you have wavy hair and you try to blow dry it really quickly. Let's fix this. I'm going to be using the Wavytalk Steamline Pro, which actually straightens your hair with this brush and steam to protect your hair. Turn on to my desired setting and then I'm going to press the top button to activate the steam. Here goes nothing. Are you kidding me? Is that... that's my hair? Heck yeah, and that's one pass, mind you! I feel like I'm watching an influencer's video, like how the heck is my hair this shiny? But I guess I am an influencer, I don't know, but... Look at that shine! It's like it's sleek, it's shiny, this is like poof! That's very poofy. Already including the filming time, I just straightened my hair in 10 minutes. I went from having a bad hair day to a shiny hair day really fast, y'all! For my first experience using a Wavytalk product, I'm very, very pleased. Thank you so much for the video.",
+  "transcript_full_english": "I feel like I'm watching an influencer's video, like how the heck is my hair this shiny? This is what happens when you have wavy hair and you try to blow dry it really quickly. Let's fix this. I'm going to be using the Wavytalk Steamline Pro, which actually straightens your hair with this brush and steam to protect your hair. Turn on to my desired setting and then I'm going to press the top button to activate the steam. Here goes nothing. Are you kidding me? Is that... that's my hair? Heck yeah, and that's one pass, mind you! I feel like I'm watching an influencer's video, like how the heck is my hair this shiny? But I guess I am an influencer, I don't know, but... Look at that shine! It's like it's sleek, it's shiny, this is like poof! That's very poofy. Already including the filming time, I just straightened my hair in 10 minutes. I went from having a bad hair day to a shiny hair day really fast, y'all! For my first experience using a Wavytalk product, I'm very, very pleased. Thank you so much for the video.",
+  "word_count": 182,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator faces camera showing split result: silky straightened hair on one side, voluminous frizzy hair on the other side.",
+    "action": "Creator talks to camera, touching her sleek hair admiringly.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 5.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator fluffs and shakes her messy, poofy hair with both hands.",
+    "action": "Creator demonstrates the unruly texture after blow drying.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 10.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds up the baby blue Wavytalk Steamline Pro thermal straightening brush.",
+    "action": "Points out the bristles and steam vent holes to explain how it works.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 14.9,
+    "shot_type": "close-up",
+    "visual": "Close-up of the handle controls on the Wavytalk device.",
+    "action": "Creator presses temperature buttons and activates the steam mode.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.9,
+    "end_s": 18.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator clamping and gliding the steam brush down a wavy section of hair.",
+    "action": "Slowly brushes through the hair section in one pass, leaving a pin-straight strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.9,
+    "end_s": 26.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the straightened strand next to her frizzy hair with mouth wide open in astonishment.",
+    "action": "Gasps, laughs, checks the strand, and celebrates the single-pass result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 26.9,
+    "end_s": 36.8,
+    "shot_type": "medium close-up",
+    "visual": "Side-by-side comparison on her own head, sleek shiny side versus frizzy poofy side.",
+    "action": "Compares texture and shine by stroking the smooth side and shaking the poofy side.",
+    "product_visible": false
+   },
+   {
+    "start_s": 36.8,
+    "end_s": 37.8,
+    "shot_type": "close-up",
+    "visual": "Quick cut of the brush gliding through another section of hair.",
+    "action": "Brushing down another strand smoothly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 37.8,
+    "end_s": 44.9,
+    "shot_type": "medium shot",
+    "visual": "Creator with completely styled, sleek, and lustrous brown hair.",
+    "action": "Runs fingers through hair, turns around to show the back and sides reflecting light.",
+    "product_visible": false
+   },
+   {
+    "start_s": 44.9,
+    "end_s": 49.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the Wavytalk Steamline Pro next to her face and smiling.",
+    "action": "Gives her final recommendation and waves goodbye to the camera.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing a stark split-screen style contrast between straightened glossy hair on her right side and frizzy hair on her left.",
+   "visual_0_3s": "Touching the glossy straightened side in disbelief while the untreated side remains poofy.",
+   "spoken_0_3s": "I feel like I'm watching an influencer's video, like how the heck is my hair this shiny?",
+   "text_0_3s": "",
+   "hook_type": "result_first",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Instant split result shown in frame 1 with genuine relatable self-deprecation about influencer hair."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Flash-forward hook highlighting extreme shine and split result",
+    "Problem presentation: post blow-dry frizz and poofiness",
+    "Tool introduction and feature explanation (brush + steam protection)",
+    "Live demonstration of a single pass",
+    "Genuine reaction / shock to instant results",
+    "Side-by-side texture comparison",
+    "Final finished look and speed claim (10 minutes total)",
+    "Closing review and brand satisfaction"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "saves_time",
+    "less_heat_damage",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Straightens hair with steam to protect from heat damage",
+    "Straightens in a single pass",
+    "Completes full head styling in 10 minutes",
+    "Transforms frizzy bad hair day into ultra-shiny sleek hair"
+   ],
+   "pain_points": [
+    "Puffy, frizzy hair after blow-drying",
+    "Time-consuming traditional straightening routines",
+    "Heat damage from conventional straighteners"
+   ],
+   "objections_handled": [
+    "Will it work on thick wavy hair? Yes, in just one single pass.",
+    "Will it take too long? Finished the entire head in 10 minutes including filming.",
+    "Does heat fry the hair? Steam protects moisture and creates intense shine."
+   ],
+   "social_proof": [
+    "Creator's spontaneous jaw-dropping reaction"
+   ],
+   "comparison_to": "Rough quick blow-drying without a styling tool"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steamline Pro"
+   ],
+   "first_seen_s": 5.8,
+   "first_used_on_hair_s": 14.9,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Brunette, long, wavy, frizzy, and voluminous",
+   "hair_after": "Pin-straight, sleek, silky, and mirror-shine brunette",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "Enthusiastic, authentic, surprised, and relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "None, natural speaking audio with device sound",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 5.5,
+   "pacing": "medium",
+   "effects": [
+    "flash-forward opening hook",
+    "jump cuts between steps"
+   ],
+   "ending": "Creator holding the tool next to her cheek, smiling, and giving a quick wave goodbye."
+  },
+  "notes": "Natural organic UGC testimonial that relies purely on visual proof of high shine and instant flattening of puffy hair. No price or direct CTA is mentioned in the video audio; it functions primarily as top-of-funnel conversion creative."
+ }
+}

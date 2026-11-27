@@ -1,0 +1,161 @@
+{
+ "media_key": "v_1496674542488974",
+ "analyzed_at": "2026-11-27T18:41:00+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "74e78b7c588d2c8cfb307582dffedc2721de8da893def88fd19d66fdbfeb32d6",
+ "source": {
+  "kind": "video",
+  "id": "1496674542488974",
+  "video_id": "2428992301257740",
+  "length_s": 22.103,
+  "permalink": "/23849366283980795/videos/2428992301257740/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 21.7,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates how she achieves a bouncy salon blowout using the WavyTalk Blowout Boost thermal round brush over trending background music.",
+  "full_description": "A vertical aesthetic UGC ad featuring a young woman in a red off-the-shoulder sweater showing off her voluminous dark blowout curls. The ad starts with a result-first hook displaying her bouncy hair with the text overlay 'The hair tool I will always reach for.' It cuts to her with styling rollers in her bangs, demonstrating how she wraps and curls a strand of hair with the WavyTalk Blowout Boost heated round brush. The video finishes with her shaking out her voluminous curls, posing confidently, and waving at the camera.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 21.7,
+    "text": "The hair tool I will always reach for.",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "shot_type": "medium selfie shot",
+    "visual": "Young woman in a red off-shoulder sweater tossing her bouncy, styled blowout hair and turning her head over her shoulder.",
+    "action": "Creator tosses her hair and poses to display volume and curl definition.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.5,
+    "end_s": 8.8,
+    "shot_type": "medium selfie shot",
+    "visual": "Creator sitting in her bedroom with a yellow roller pinned in her bangs, inspecting a curled section of hair.",
+    "action": "Creator twirls a curl around her finger, with the handle of the WavyTalk styling brush entering the lower frame.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.8,
+    "end_s": 14.5,
+    "shot_type": "medium selfie shot",
+    "visual": "Creator demonstrating the styling process using the pink and gold WavyTalk thermal round brush.",
+    "action": "Creator wraps a section of hair around the barrel, rolls it upward, and glides it through to create a curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 21.7,
+    "shot_type": "medium selfie shot",
+    "visual": "Final look reveal of bouncy, shiny, voluminous dark hair falling over creator's shoulders.",
+    "action": "Creator shakes out her hair with both hands, poses, adjusts her sweater shoulder, and waves goodbye to the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera tossing her thick, shiny blowout curls in a red off-shoulder top.",
+   "visual_0_3s": "Dramatic hair flip showing voluminous, glossy curls and turning to display the back.",
+   "spoken_0_3s": "",
+   "text_0_3s": "The hair tool I will always reach for.",
+   "hook_type": "result_first",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Instant visual impact of salon-quality voluminous hair toss combined with an intriguing statement."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Result-first hook showcasing voluminous blowout",
+    "Quick demo curling a hair section using the thermal brush",
+    "Final glamorous hair reveal and confident posing"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Creates bouncy, salon-worthy blowout curls at home",
+    "Reliable go-to styling tool"
+   ],
+   "pain_points": [
+    "Flat, lifeless hair",
+    "Difficulty styling with a traditional round brush and blow dryer"
+   ],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 5.6,
+   "first_used_on_hair_s": 9.2,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-25",
+   "hair_before": "Dark brown/black styled hair with yellow roller in front bangs",
+   "hair_after": "Voluminous, shiny dark brown/black blowout curls with lifted roots",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "glamorous, confident, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "R&B/pop vocal track with rhythmic beats and expressive singing",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 3,
+   "avg_shot_length_s": 5.4,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts",
+    "static text overlay"
+   ],
+   "ending": "Creator smiles, poses, and waves hand toward the camera as the video concludes"
+  },
+  "notes": "Short, aesthetic TikTok/Reels style showcase relying solely on visual proof of hair volume and trending audio rather than voiceover or price callouts."
+ }
+}

@@ -1,0 +1,152 @@
+{
+ "media_key": "i_e488af0c4c5c23bf02821c91ea21ffb4",
+ "analyzed_at": "2026-11-27T20:21:41+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "0d24885f64cd9a0c0d8ca300da3cef259377be48197d6dd6e05a38628cf119a2",
+ "source": {
+  "kind": "image",
+  "id": "e488af0c4c5c23bf02821c91ea21ffb4"
+ },
+ "role": "rotating",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "A Black Friday promotional graphic styled as a store receipt offering the WavyTalk Power Wave hair crimping iron at 37% off for $66.60.",
+  "full_description": "A digital graphic designed to resemble a crumpled paper store receipt placed over a dark burgundy-purple textured backdrop. The top of the receipt features the WavyTalk logo above 'Black Friday', followed by a large headline '$66.60 | 37% OFF'. Below, receipt lines list 'POWER WAVE Wave Hair Crimping Iron' with quantity '1'. Underneath the line item sits a clean product photo of the pastel pink and rose-gold WavyTalk Power Wave crimping tool. A deep plum circular sticker on the right reads 'TODAY ONLY', and barcode slips accent the perimeter.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Black Friday",
+    "role": "hook"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "$66.60 | 37% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "ITEM QTY POWER WAVE Wave Hair Crimping Iron 1",
+    "role": "other"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "TODAY ONLY",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "Graphic design / product still",
+    "visual": "A store receipt graphic with paper texture and barcodes on a textured purple background, displaying Black Friday discount pricing and an isolated cutout of the pink WavyTalk Power Wave crimper.",
+    "action": "Static image display.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Crumpled receipt graphic announcing WavyTalk Black Friday sale with '$66.60 | 37% OFF' and a 'TODAY ONLY' sticker.",
+   "visual_0_3s": "Receipt design with prominent price markdown and product cutout.",
+   "spoken_0_3s": "",
+   "text_0_3s": "WAVYTALK Black Friday $66.60 | 37% OFF TODAY ONLY",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "none",
+   "pattern_interrupt": "Receipt ticket aesthetic with barcode and urgency sticker badge."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Black Friday promotional pricing announcement for WavyTalk Power Wave crimper"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [],
+   "key_claims": [
+    "37% OFF discount",
+    "Priced at $66.60",
+    "Today only"
+   ],
+   "pain_points": [],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Power Wave"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "37% OFF for Black Friday",
+   "price_mentioned": "$66.60",
+   "discount_code": "",
+   "urgency": "TODAY ONLY",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "Graphic background",
+   "faces_camera": false,
+   "energy_tone": ""
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "Paper crinkle texture",
+    "Receipt layout graphic",
+    "Sticker graphic overlay"
+   ],
+   "ending": "Static image frame."
+  },
+  "notes": "Static image promotional creative run during Black Friday campaign for the WavyTalk Power Wave in Lebanon."
+ }
+}

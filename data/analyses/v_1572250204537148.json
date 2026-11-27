@@ -1,0 +1,264 @@
+{
+ "media_key": "v_1572250204537148",
+ "analyzed_at": "2026-11-27T18:44:25+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "0b1f3d602ce568a41d37122d3f4238c949425089d4679098b89d8a00882d2a76",
+ "source": {
+  "kind": "video",
+  "id": "1572250204537148",
+  "video_id": "1616227590064678",
+  "length_s": 41,
+  "permalink": "/23849366283980795/videos/1616227590064678/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 40.84,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Two friends demonstrate the Wavytalk thermal blowout brush transforming thick, frizzy afro curls into smooth salon waves in under 20 minutes.",
+  "full_description": "A creator styles her friend's voluminous curly, textured hair using the pink Wavytalk thermal round brush. After testing a small front section, they marvel at the instant straightening effect. The video cuts through the styling process as they chat about how normally styling takes 4-5 hours. Halfway through, they showcase half the hair smoothed out in under 10 minutes. The video finishes with the entire hair blown out and waved, with both girls expressing amazement and encouraging viewers to grab one.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's see if it works.",
+    "text_english": "Let's see if it works."
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 5.5,
+    "speaker": "second person",
+    "language": "en",
+    "text_original": "Are you kidding me?",
+    "text_english": "Are you kidding me?"
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 8.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "How long usually takes you to do your hair?",
+    "text_english": "How long usually takes you to do your hair?"
+   },
+   {
+    "start_s": 8.1,
+    "end_s": 12.8,
+    "speaker": "second person",
+    "language": "en",
+    "text_original": "Girl, it takes me like a good couple hours, like four to five.",
+    "text_english": "Girl, it takes me like a good couple hours, like four to five."
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 16.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Girl, I... I mean I believe you. I believe you.",
+    "text_english": "Girl, I... I mean I believe you. I believe you."
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 24.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So far, I am genuinely impressed. This was done under 10 minutes.",
+    "text_english": "So far, I am genuinely impressed. This was done under 10 minutes."
+   },
+   {
+    "start_s": 24.1,
+    "end_s": 27.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And now we're going to do this part. Let's see if we can get it done in 10 more minutes.",
+    "text_english": "And now we're going to do this part. Let's see if we can get it done in 10 more minutes."
+   },
+   {
+    "start_s": 28.0,
+    "end_s": 33.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Guys, we just finished, and let me tell you, if this video does not convince you to get a Wavytalk thermal brush, I don't know what will.",
+    "text_english": "Guys, we just finished, and let me tell you, if this video does not convince you to get a Wavytalk thermal brush, I don't know what will."
+   },
+   {
+    "start_s": 33.4,
+    "end_s": 36.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The difference is incredible.",
+    "text_english": "The difference is incredible."
+   },
+   {
+    "start_s": 36.6,
+    "end_s": 40.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Grab yours now because wow, it's... it's a big difference.",
+    "text_english": "Grab yours now because wow, it's... it's a big difference."
+   }
+  ],
+  "transcript_full_original": "Let's see if it works. Are you kidding me? How long usually takes you to do your hair? Girl, it takes me like a good couple hours, like four to five. Girl, I... I mean I believe you. I believe you. So far, I am genuinely impressed. This was done under 10 minutes. And now we're going to do this part. Let's see if we can get it done in 10 more minutes. Guys, we just finished, and let me tell you, if this video does not convince you to get a Wavytalk thermal brush, I don't know what will. The difference is incredible. Grab yours now because wow, it's... it's a big difference.",
+  "transcript_full_english": "Let's see if it works. Are you kidding me? How long usually takes you to do your hair? Girl, it takes me like a good couple hours, like four to five. Girl, I... I mean I believe you. I believe you. So far, I am genuinely impressed. This was done under 10 minutes. And now we're going to do this part. Let's see if we can get it done in 10 more minutes. Guys, we just finished, and let me tell you, if this video does not convince you to get a Wavytalk thermal brush, I don't know what will. The difference is incredible. Grab yours now because wow, it's... it's a big difference.",
+  "word_count": 105,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "medium shot",
+    "visual": "A standing young woman holding a pink Wavytalk thermal brush behind her seated friend who has huge natural afro curls.",
+    "action": "Creator announces they are testing the brush and sets up the demo.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 5.5,
+    "shot_type": "medium close-up",
+    "visual": "Friend reveals one perfectly straightened glossy strand pulled down in front of her curly afro.",
+    "action": "Friend looks in shock at the camera and creator laughs in disbelief at the immediate result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 17.0,
+    "shot_type": "medium shot",
+    "visual": "Creator brushing through sections of the friend's hair with the thermal brush while the friend drinks an iced drink with a straw.",
+    "action": "Creator glides the heated brush through the thick curls while discussing how hair normally takes 4-5 hours.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.0,
+    "end_s": 18.5,
+    "shot_type": "close-up",
+    "visual": "Close-up of the heated round brush rolling through a thick section of dark hair, immediately smoothing it.",
+    "action": "Creator brushes and curls under the hair section in one smooth pass.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 27.8,
+    "shot_type": "medium shot",
+    "visual": "Half-and-half comparison: the left side of the friend's hair is sleek and wavy, while the right side remains huge afro curls.",
+    "action": "Friend holds the brush while creator combs fingers through the smooth half, noting it took under 10 minutes.",
+    "product_visible": true
+   },
+   {
+    "start_s": 27.8,
+    "end_s": 33.3,
+    "shot_type": "medium shot",
+    "visual": "Both sides completed into a smooth, bouncy blowout, with creator putting finishing curls around front bangs.",
+    "action": "Creator curls bangs with the brush while explaining that this result should convince anyone.",
+    "product_visible": true
+   },
+   {
+    "start_s": 33.3,
+    "end_s": 40.84,
+    "shot_type": "medium shot",
+    "visual": "Finished blowout look on the seated friend; creator displays the brush barrel and digital temperature readout directly to camera.",
+    "action": "Creator holds the brush forward, runs fingers through friend's hair, and delivers call to action.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator stands behind a friend with massive afro hair, holding the pink Wavytalk thermal brush.",
+   "visual_0_3s": "Cut directly to a single sleek, pin-straight strand dropped over the face against a massive backdrop of curly afro hair.",
+   "spoken_0_3s": "Let's see if it works. Are you kidding me?",
+   "text_0_3s": "",
+   "hook_type": "reaction",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Dramatic visual contrast of a silky smooth strand against a full afro in the first 2 seconds."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Initial test and shock reaction on a single hair section",
+    "Discussion of pain point (usually takes 4-5 hours to style)",
+    "Halfway milestone check showing drastic half-and-half result achieved in under 10 minutes",
+    "Finished full hair transformation reveal and product showcase",
+    "Direct call to action to buy"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "saves_time",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Smooths thick curly hair in under 10 minutes per half",
+    "Replaces a 4 to 5 hour styling routine"
+   ],
+   "pain_points": [
+    "Spending 4 to 5 hours straightening and styling thick textured hair"
+   ],
+   "objections_handled": [
+    "Whether it actually works on thick, coarse curly hair"
+   ],
+   "social_proof": [
+    "Authentic side-by-side half head proof and genuine friend reactions"
+   ],
+   "comparison_to": "Traditional multi-hour hair routine"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 5.5,
+   "final_result_shown_s": 28.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Grab yours now",
+   "cta_on_screen": "",
+   "cta_at_s": 36.6
+  },
+  "talent": {
+   "people_count": 2,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "High volume, thick, dark brown 3C/4A afro curly hair",
+   "hair_after": "Silky smooth, glossy blowout with soft loose curls at the ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "fun, excited, authentic, amazed"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No background music; raw natural dialogue, laughter, and ambient room sound.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 6.8,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts",
+    "close-up cutaways"
+   ],
+   "ending": "Creator smiles, shows product LCD screen close to camera, and fluffs friend's styled hair."
+  },
+  "notes": "Original English UGC content re-shared/curated for ad campaigns demonstrating extreme transformation efficacy on coily/curly hair types."
+ }
+}

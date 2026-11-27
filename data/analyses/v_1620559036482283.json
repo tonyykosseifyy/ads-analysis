@@ -1,0 +1,164 @@
+{
+ "media_key": "v_1620559036482283",
+ "analyzed_at": "2026-11-27T23:20:38+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "e0dce59bd18cd0e2e48fd7ec2cb22c5e46a09f5b255eb01a4e9a03f71b397c14",
+ "source": {
+  "kind": "video",
+  "id": "1620559036482283",
+  "errors": [
+   "1620559036482283: Gave up after 5 retries: https://graph.facebook.com/v26.0/1620559036482283",
+   "897698139688735: Gave up after 5 retries: https://graph.facebook.com/v26.0/897698139688735"
+  ],
+  "ig_media_id": "18436408984193236",
+  "permalink": "https://www.instagram.com/p/DcDlXDDsc2c/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 14.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates achieving a bouncy 5-minute blowout look using the Wavytalk thermal round brush.",
+  "full_description": "A creator stands in a bathroom setting in front of the camera, showing a quick hair styling routine. With the text overlay '5 minute blowout look', she takes the Wavytalk thermal round brush (Blowout Boost), wraps a section of her blonde highlighted hair around the barrel, heats it, and unrolls it into a smooth, bouncy curl. She then fluffs out her voluminous blowout with both hands to display the final salon-style result. The video has background music and no spoken dialogue.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 14.8,
+    "text": "5 minute blowout look 🎀✨☁️💖",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.6,
+    "shot_type": "medium shot",
+    "visual": "Creator in a white oversized t-shirt in a bathroom, separating a section of her long blonde hair while looking into the camera.",
+    "action": "Creator grabs and inspects a strand of hair to prepare for styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.6,
+    "end_s": 7.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator brings the black and pink/rose gold thermal round brush into frame and wraps hair around the barrel.",
+    "action": "She brushes and twirls a front section of hair around the heated brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 10.4,
+    "shot_type": "medium shot",
+    "visual": "Creator holds the thermal brush at the root/mid-lengths, then twists to release the curl.",
+    "action": "She holds the brush horizontally with both hands, letting the heat set, then gently rolls it out.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.4,
+    "end_s": 14.8,
+    "shot_type": "medium shot",
+    "visual": "Creator puts down the brush and runs both hands through her voluminous hair.",
+    "action": "She fluffs and shakes her hair toward the camera to show off the finished bouncy blowout look.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding a strand of long blonde hair looking toward the camera with the overlay '5 minute blowout look 🎀✨☁️💖'.",
+   "visual_0_3s": "Creator sections and twists her hair getting ready to style.",
+   "spoken_0_3s": "",
+   "text_0_3s": "5 minute blowout look 🎀✨☁️💖",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Promising a full blowout look in only 5 minutes with an immediate quick tutorial."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Hook: Promise of a 5-minute blowout look",
+    "Demo: Wrapping and styling a section with the thermal round brush",
+    "Reveal: Shaking out voluminous, bouncy finished hair"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "saves_time",
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Achieve a blowout look in 5 minutes"
+   ],
+   "pain_points": [
+    "Blowouts usually take too long and require multiple tools or skills"
+   ],
+   "objections_handled": [
+    "Hard to style hair quickly at home"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 3.6,
+   "first_used_on_hair_s": 4.1,
+   "final_result_shown_s": 10.4,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, thick blonde/honey-highlighted hair, loose natural texture",
+   "hair_after": "Voluminous, fluffy, salon-style bouncy blowout",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "relaxed, aesthetic, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Upbeat pop / indie pop backing track with female singing vocals.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 3,
+   "avg_shot_length_s": 3.7,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between styling steps"
+   ],
+   "ending": "Creator smiling while running fingers through her voluminous hair."
+  },
+  "notes": "Targeted via WavyTalk Lebanon for the Blowout Boost thermal round brush. Clean, aesthetic UGC short-form demo relying on visual appeal and sound trend rather than voiceover."
+ }
+}

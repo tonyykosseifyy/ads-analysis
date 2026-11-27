@@ -1,0 +1,15 @@
+{
+ "language": "en",
+ "main_angle": "offer_discount_urgency",
+ "secondary_angles": [
+  "social_proof_popularity"
+ ],
+ "opening_line": "Still thinking about it? Your {{product.name}}  is waiting for you!",
+ "opening_style": "question",
+ "mentions_offer": false,
+ "offer": "",
+ "social_proof": "Selling Fast!",
+ "cta": "Grab Your {{product.name}}  Now",
+ "tone": "urgent, direct, retargeting",
+ "variation_count": 2
+}

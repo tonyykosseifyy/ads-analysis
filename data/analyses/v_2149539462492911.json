@@ -1,0 +1,325 @@
+{
+ "media_key": "v_2149539462492911",
+ "analyzed_at": "2026-11-27T19:01:11+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "d2813a80ebb2e0720827632b55ff40965752c3a3475cc2a62ad546c6ee1abeff",
+ "source": {
+  "kind": "video",
+  "id": "2149539462492911",
+  "errors": [
+   "2149539462492911: 400 (#10) Application does not have permission for this action"
+  ],
+  "ig_media_id": "18474979798111711",
+  "permalink": "https://www.instagram.com/p/DauebQIso-v/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 30.68,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Young creator demos the Wavytalk Whirlwind Curl 2-in-1 styler, highlighting straightening, curling, and instant cool-air setting with a 25% off offer.",
+  "full_description": "A young female creator in a room demonstrates the Wavytalk Whirlwind Curl 2-in-1 styler while a Lebanese Arabic voiceover explains its benefits. She begins by pulling a freshly curled ringlet off the wand, unboxes the product, and shows how it works both as a curling iron and flat iron, emphasizing the external cooling vents that lock curls instantly. She demonstrates smoothing a strand in a single pass, curls the rest of her short hair, runs her hands through the bouncy finished curls, and closes with a 25% discount and 30-day return offer callout.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 65,
+    "en": 30,
+    "fr": 5
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "هيدا الـ hack لازم كل بنت تعرف عنّا،",
+    "text_english": "This hack, every girl needs to know about,"
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 5.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بهيدا الـ fer فينا نكون عم نعمل شعراتنا lisse و curly كمان.",
+    "text_english": "with this iron we can make our hair straight and curly too."
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 11.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وأحلى شي وأهم شي إنه إلو air vents من برّا that cools your curls as you go so they lock into place.",
+    "text_english": "And the best and most important thing is that it has air vents on the outside that cools your curls as you go so they lock into place."
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 14.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وليكوا بـ one swipe كيف هيدي الخصلة صارت lisse.",
+    "text_english": "And look with one swipe how this strand became straight."
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 18.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "هيدي كانت أول مرة عم جرّب هيدا الـ fer، وعنجد it was super easy",
+    "text_english": "This was the first time I try this iron, and seriously it was super easy"
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 20.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وأخدت معي تقريباً 20 minutes.",
+    "text_english": "and it took me around 20 minutes."
+   },
+   {
+    "start_s": 20.2,
+    "end_s": 24.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "ومن لما قصيتن لشعراتي ما كنت عم بعرف اعمّلن styling لحديت هلا.",
+    "text_english": "And ever since I cut my hair, I didn't know how to style it until now."
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 29.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "So you have to try it، عاملين 25% off و 30 days of return.",
+    "text_english": "So you have to try it, they have 25% off and 30 days of return."
+   }
+  ],
+  "transcript_full_original": "هيدا الـ hack لازم كل بنت تعرف عنّا، بهيدا الـ fer فينا نكون عم نعمل شعراتنا lisse و curly كمان. وأحلى شي وأهم شي إنه إلو air vents من برّا that cools your curls as you go so they lock into place. وليكوا بـ one swipe كيف هيدي الخصلة صارت lisse. هيدي كانت أول مرة عم جرّب هيدا الـ fer، وعنجد it was super easy وأخدت معي تقريباً 20 minutes. ومن لما قصيتن لشعراتي ما كنت عم بعرف اعمّلن styling لحديت هلا. So you have to try it، عاملين 25% off و 30 days of return.",
+  "transcript_full_english": "This hack, every girl needs to know about, with this iron we can make our hair straight and curly too. And the best and most important thing is that it has air vents on the outside that cools your curls as you go so they lock into place. And look with one swipe how this strand became straight. This was the first time I try this iron, and seriously it was super easy and it took me around 20 minutes. And ever since I cut my hair, I didn't know how to style it until now. So you have to try it, they have 25% off and 30 days of return.",
+  "word_count": 87,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "text": "Hair hack: watch this",
+    "role": "hook"
+   },
+   {
+    "start_s": 2.3,
+    "end_s": 6.8,
+    "text": "Straighten + curl",
+    "role": "benefit"
+   },
+   {
+    "start_s": 6.9,
+    "end_s": 11.4,
+    "text": "Cooling vents\nSet curl instantly",
+    "role": "benefit"
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 24.4,
+    "text": "So easy to use",
+    "role": "benefit"
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 29.5,
+    "text": "25% off with 30 day returns",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.7,
+    "shot_type": "medium close-up",
+    "visual": "Young woman holding a pink Wavytalk Whirlwind Curl tool releases a wrapped strand into a bouncy curl.",
+    "action": "Unwinds a curled hair strand from the barrel, smiling to the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 2.7,
+    "shot_type": "medium shot",
+    "visual": "Creator opening the product box packaging.",
+    "action": "Lifts the lid of the sleek black and grey Wavytalk packaging box.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.7,
+    "end_s": 3.6,
+    "shot_type": "close-up",
+    "visual": "Creator holding the pink styler upright to show the body and digital screen.",
+    "action": "Shows the device barrel and control panel directly towards camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.6,
+    "end_s": 7.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator wrapping hair around the barrel and sliding down.",
+    "action": "Clamps a strand of hair and rotates the barrel to create a curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 11.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator showing the curl dropping and curling another section.",
+    "action": "Releases the curl and winds another section around the cooling vents.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 14.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator using the tool as a flat iron straightener.",
+    "action": "Clamps hair at the roots and glides down in one smooth pass to straighten it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.7,
+    "end_s": 17.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling the upper side layers and pulling iron through.",
+    "action": "Styles the top front section into curls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 19.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator inspects the curls and gives a kissing face expression.",
+    "action": "Tousles and admires her curls proudly.",
+    "product_visible": false
+   },
+   {
+    "start_s": 19.9,
+    "end_s": 24.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator running fingers through fully styled bouncy wavy hair.",
+    "action": "Fluffs and separates curls with her hands to create voluminous texture.",
+    "product_visible": false
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 29.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator posing with finished hair while text overlay displays offer.",
+    "action": "Gently flips hair and smiles confidently into the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 29.5,
+    "end_s": 30.68,
+    "shot_type": "fade to black",
+    "visual": "Dark screen fade out.",
+    "action": "Video ends on a dark transition.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink curling tool next to her head with a freshly curled strand in hand and bold text 'Hair hack: watch this'.",
+   "visual_0_3s": "Fast demonstration of releasing a curl, unboxing the iron, and showing the barrel.",
+   "spoken_0_3s": "هيدا الـ hack لازم كل بنت تعرف عنّا، بهيدا الـ fer",
+   "text_0_3s": "Hair hack: watch this / Straighten + curl",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Instant curl drop in the first second followed immediately by a quick box opening cut."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Attention hook with immediate curl release and bold promise",
+    "Feature showcase: 2-in-1 styling capability (straighten and curl)",
+    "Technical differentiator: external cooling air vents that lock in the curl shape immediately",
+    "Straightening proof: demonstrating sleek one-pass straight hair",
+    "Personal testimonial: beginner-friendly, took only 20 minutes on newly cut hair",
+    "Full final reveal with voluminous bounce",
+    "Offer & risk-reversal CTA: 25% discount and 30-day money-back guarantee"
+   ],
+   "main_angle": "replaces_multiple_tools",
+   "secondary_angles": [
+    "easy_for_beginners",
+    "saves_time",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Straightens and curls in one single tool",
+    "External cooling air vents lock curls in place instantly",
+    "Straightens hair in a single swipe",
+    "Easy enough for first-time use",
+    "Full styling completed in about 20 minutes"
+   ],
+   "pain_points": [
+    "Struggling to style short or recently cut hair",
+    "Curls dropping quickly due to lack of immediate cooling",
+    "Needing separate flat irons and curling irons"
+   ],
+   "objections_handled": [
+    "Hard to use / beginner hesitation: creator notes it was her very first time and super easy",
+    "Time consuming: finished in only 20 minutes",
+    "Buyer hesitation: 30-day return policy and 25% discount"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional separate straighteners and curlers"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Whirlwind Curl"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 17.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "25% off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "So you have to try it، عاملين 25% off و 30 days of return.",
+   "cta_on_screen": "25% off with 30 day returns",
+   "cta_at_s": 24.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Medium-length brunette straight hair, partially clipped up",
+   "hair_after": "Voluminous, defined loose curls with lots of body and shine",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "friendly, enthusiastic, relatable UGC creator"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle, upbeat background pop / electronic lifestyle beat playing underneath voiceover.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 3.4,
+   "pacing": "fast",
+   "effects": [
+    "quick cut montage",
+    "fade to black"
+   ],
+   "ending": "Creator smiling and posing with full voluminous styled hair as screen fades out."
+  },
+  "notes": "Ad specifically highlights the air vent feature of the Wavytalk Whirlwind Curl, which blows cool air over the heated curl to set it instantly without needing to pin or hold it."
+ }
+}

@@ -1,0 +1,189 @@
+{
+ "media_key": "v_1379561267346070",
+ "analyzed_at": "2026-11-27T18:35:18+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "433c7edcf89d73da3e6912701c2de3d8b56d14e6a8ae29256ad23f398137dd50",
+ "source": {
+  "kind": "video",
+  "id": "1379561267346070",
+  "video_id": "4469627753294408",
+  "length_s": 29.025,
+  "permalink": "/23849366283980795/videos/4469627753294408/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 28.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A blonde creator demonstrates achieving a voluminous blowout using a thermal round brush, lamenting the time previously wasted on difficult styling.",
+  "full_description": "The video starts with a blonde woman displaying a pink thermal round brush alongside her already styled blowout hair, overlaid with text expressing regret over time wasted struggling with hair styling in the past. It then cuts through a quick step-by-step styling routine where she sections her hair, rolls various layers with the heated brush, releases bouncy curls, and styles her curtain bangs away from her face. It concludes with her shaking out her voluminous, layered blonde hair and turning around to show off the bouncy, salon-quality blowout from the back.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 28.8,
+    "text": "thinking of all the time I wasted struggling to style my hair before I got this thermal brush",
+    "role": "hook"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 28.8,
+    "text": "@alexandralharaldsson",
+    "role": "other"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "shot_type": "medium close-up",
+    "visual": "Blonde creator with styled blowout holding up the heated round thermal brush toward the camera.",
+    "action": "Creator holds the brush next to her face, showing the tool and finished hair texture.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 5.1,
+    "shot_type": "medium shot",
+    "visual": "Creator in a bathroom setting with her hair sectioned up with a claw clip.",
+    "action": "She wraps a lower strand around the thermal brush, holds, and slides it out to reveal a smooth curled end.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.1,
+    "end_s": 13.5,
+    "shot_type": "medium shot",
+    "visual": "Creator brushes and sections out the middle layer of her hair.",
+    "action": "She rolls the brush up to the roots, rotates it, and glides it down to form bouncy layered waves.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 19.5,
+    "shot_type": "medium shot",
+    "visual": "Focus on the front face-framing pieces and bangs.",
+    "action": "She brushes the front piece forward, rolls it under, rolls it back up, and releases a soft face-framing bend.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.5,
+    "end_s": 25.5,
+    "shot_type": "medium shot",
+    "visual": "Creator working on the top crown and opposite face-framing layer.",
+    "action": "She rolls the top layer backwards away from her face and unspools a voluminous curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 28.8,
+    "shot_type": "medium shot",
+    "visual": "Final styled blowout result.",
+    "action": "Creator runs both hands through her hair to fluff the volume, smiles at the camera, and turns around to reveal the shiny, healthy back layers.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Blonde woman holding a pink and gold thermal blowout brush up to the camera with text about wasting time before getting the tool.",
+   "visual_0_3s": "Close-up of styled hair and product, cutting immediately into an in-progress demo clip.",
+   "spoken_0_3s": "",
+   "text_0_3s": "thinking of all the time I wasted struggling to style my hair before I got this thermal brush",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Showing the gorgeous blowout result and brush in frame one, paired with relatable regret about past styling struggles."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Relatable hook pointing out how hard styling used to be",
+    "Demonstration of curling bottom sections",
+    "Demonstration of adding volume to mid-lengths",
+    "Demonstration of styling curtain bangs",
+    "Final fluff and 360-degree result reveal"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "saves_time",
+    "salon_result_at_home",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Eliminates struggle and wasted time when styling hair",
+    "Creates smooth, bouncy blowout curls effortlessly"
+   ],
+   "pain_points": [
+    "Struggling to blow out or curl hair with conventional tools",
+    "Wasting time styling hair"
+   ],
+   "objections_handled": [
+    "Too complicated to use (handled by showing how smoothly and easily the brush glides and rolls)"
+   ],
+   "social_proof": [
+    "TikTok creator handle on screen showing real UGC adoption"
+   ],
+   "comparison_to": "Traditional round brush and blow dryer or difficult curling tools"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 1.2,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "alexandralharaldsson",
+   "age_range": "20-25",
+   "hair_before": "Straight, long blonde hair with layers prepped for styling",
+   "hair_after": "Voluminous, bouncy blonde 90s-style blowout with flipped ends and styled curtain bangs",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "Casual, aesthetic, effortless"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "A slowed, reverbed acoustic cover of 'I Wanna Hold Your Hand' playing throughout.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 4.8,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between hair sections"
+   ],
+   "ending": "Creator turns her back to the camera to show full length and layers of the styled blowout."
+  },
+  "notes": "TikTok UGC repurpose ad featuring creator @alexandralharaldsson. Entirely non-verbal demo relying on on-screen hook text and viral background audio."
+ }
+}

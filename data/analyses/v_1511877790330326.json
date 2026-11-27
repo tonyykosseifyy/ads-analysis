@@ -1,0 +1,162 @@
+{
+ "media_key": "v_1511877790330326",
+ "analyzed_at": "2026-11-27T18:36:06+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "d25c507aaf6fc0f173227af73995d564707f075fe5244f3898901603bb41da75",
+ "source": {
+  "kind": "video",
+  "id": "1511877790330326",
+  "video_id": "3587086418110084",
+  "length_s": 12.91,
+  "permalink": "/23849366283980795/videos/3587086418110084/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 12.78,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Silent demonstration showing a woman styling her long layered hair with a thermal blowout brush for effortless, massive volume.",
+  "full_description": "A woman demonstrates how to achieve an effortless blowout using a thermal round brush. She styles sections of her long, honey-balayage hair, rolls and unrolls her front bangs, and reveals a bouncy, voluminous 90s blowout look while an upbeat indie-pop song plays in the background.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 12.78,
+    "text": "The easiest “blowout” you’ll ever do",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "shot_type": "medium shot",
+    "visual": "A young woman sitting in front of a mirror with hair pinned up, gliding the thermal round brush down a lower section of her long hair.",
+    "action": "She glides the heated brush through a front-side strand, curling it slightly at the ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 6.2,
+    "shot_type": "medium shot",
+    "visual": "The creator styling her top front bang section directly towards the camera.",
+    "action": "She brushes the front bang section forward and rolls it onto the barrel to set the curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.2,
+    "end_s": 8.9,
+    "shot_type": "medium shot",
+    "visual": "The creator unrolling the brush from her front bangs.",
+    "action": "She spins the brush to release the hair, letting the curled curtain bang bounce down over her forehead.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.9,
+    "end_s": 12.78,
+    "shot_type": "medium shot",
+    "visual": "Final hairstyle reveal showing full head of bouncy, voluminous curls.",
+    "action": "She tosses and fluffs her hair with her hand, looking into the camera to show off the bouncy layers.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Woman holding hair strand and thermal brush with hair pinned up, headline overlay 'The easiest “blowout” you’ll ever do'.",
+   "visual_0_3s": "Woman pulling the thermal brush through a smooth section of hair.",
+   "spoken_0_3s": "",
+   "text_0_3s": "The easiest “blowout” you’ll ever do",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Promising 'the easiest blowout' while immediately showing sleek styling motion in the first frame."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Hook with bold text promise of the easiest blowout",
+    "Step-by-step technique showing styling of lengths and front bang section",
+    "Satisfying release of the front curl",
+    "Final hair flip and volume showcase"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "easy_for_beginners",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Easiest blowout you will ever do",
+    "Effortless salon-grade volume and bounce"
+   ],
+   "pain_points": [
+    "Traditional blowouts with a blowdryer and round brush are difficult and tiring"
+   ],
+   "objections_handled": [
+    "Ease of use for curtain bangs and long layers"
+   ],
+   "social_proof": [],
+   "comparison_to": "traditional round brush and hair dryer blowouts"
+  },
+  "product": {
+   "products_shown": [
+    "Thermal Blowout Round Brush (Blowout Boost)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 8.9,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-30",
+   "hair_before": "Long, thick layered brunette hair with blonde balayage ends",
+   "hair_after": "Voluminous, bouncy blowout with smooth curtain bangs and flipped ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident and aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Upbeat indie-pop song with lyrics 'And the birds go, they sing a song...'",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 3,
+   "avg_shot_length_s": 3.2,
+   "pacing": "medium",
+   "effects": [
+    "text overlay"
+   ],
+   "ending": "Ends on talent shaking her finished bouncy blowout hair."
+  },
+  "notes": "Ad focuses purely on visual aesthetic appeal and ease of achieving a 90s-style blowout without any spoken voiceover."
+ }
+}

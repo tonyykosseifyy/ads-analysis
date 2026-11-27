@@ -1,0 +1,431 @@
+{
+ "media_key": "v_4606838716227145",
+ "analyzed_at": "2026-11-27T22:31:21+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "245268f2755a70eb89144ef48aa60c36bd168d33375d0f8c7903590150346a01",
+ "source": {
+  "kind": "video",
+  "id": "4606838716227145",
+  "errors": [
+   "4606838716227145: Gave up after 5 retries: https://graph.facebook.com/v26.0/4606838716227145",
+   "1463151265759894: Gave up after 5 retries: https://graph.facebook.com/v26.0/1463151265759894"
+  ],
+  "ig_media_id": "18098406659672704",
+  "permalink": "https://www.instagram.com/p/DfA0_PoslWg/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 55.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates how to style 3-day hair into soft waves quickly and safely using the WavyTalk Power Wave.",
+  "full_description": "A creator styles her long brown hair using the pink WavyTalk Power Wave hair waver. The video opens with a quick demonstration and a direct before-and-after comparison. She then clips up her hair and walks through key features including the built-in timer beep, temperature and timer digital controls, protective heat shield against scalp burns, and ventilation holes designed to prevent heat damage. She finishes by showing the complete wavy result while an automated voiceover delivers a call to action highlighting fast shipping.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.7,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "This is me styling my three day hair.",
+    "text_english": "This is me styling my three day hair."
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 3.4,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I think this is my new go-to hair style.",
+    "text_english": "I think this is my new go-to hair style."
+   },
+   {
+    "start_s": 3.6,
+    "end_s": 5.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is what my hair looks like before,",
+    "text_english": "This is what my hair looks like before,"
+   },
+   {
+    "start_s": 5.3,
+    "end_s": 6.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and this is after.",
+    "text_english": "and this is after."
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 8.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Go ahead and separate my hair.",
+    "text_english": "Go ahead and separate my hair."
+   },
+   {
+    "start_s": 8.8,
+    "end_s": 11.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It does come with little clips that you can use,",
+    "text_english": "It does come with little clips that you can use,"
+   },
+   {
+    "start_s": 11.3,
+    "end_s": 12.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "so I'll go ahead and use these.",
+    "text_english": "so I'll go ahead and use these."
+   },
+   {
+    "start_s": 12.7,
+    "end_s": 14.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay, I've already done some sections of my hair,",
+    "text_english": "Okay, I've already done some sections of my hair,"
+   },
+   {
+    "start_s": 14.9,
+    "end_s": 16.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "but let me show you how easy it is to use.",
+    "text_english": "but let me show you how easy it is to use."
+   },
+   {
+    "start_s": 16.6,
+    "end_s": 18.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm going for more softer waves, and because of the barrel,",
+    "text_english": "I'm going for more softer waves, and because of the barrel,"
+   },
+   {
+    "start_s": 18.9,
+    "end_s": 20.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "it's super easy to do this.",
+    "text_english": "it's super easy to do this."
+   },
+   {
+    "start_s": 20.4,
+    "end_s": 22.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Go ahead and clamp this piece of hair in.",
+    "text_english": "Go ahead and clamp this piece of hair in."
+   },
+   {
+    "start_s": 22.1,
+    "end_s": 23.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It even has a timer,",
+    "text_english": "It even has a timer,"
+   },
+   {
+    "start_s": 23.6,
+    "end_s": 26.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "so it tells me when to release my hair to move on to the next section.",
+    "text_english": "so it tells me when to release my hair to move on to the next section."
+   },
+   {
+    "start_s": 26.3,
+    "end_s": 28.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "My hair's pretty straight to begin with,",
+    "text_english": "My hair's pretty straight to begin with,"
+   },
+   {
+    "start_s": 28.2,
+    "end_s": 29.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "so I don't need it for that long.",
+    "text_english": "so I don't need it for that long."
+   },
+   {
+    "start_s": 29.6,
+    "end_s": 31.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So four seconds is perfect for me,",
+    "text_english": "So four seconds is perfect for me,"
+   },
+   {
+    "start_s": 31.8,
+    "end_s": 34.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "but you can move it up to six, or whatever you want to move it up to.",
+    "text_english": "but you can move it up to six, or whatever you want to move it up to."
+   },
+   {
+    "start_s": 34.1,
+    "end_s": 36.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "There's a plastic layer on the barrel, so you can get",
+    "text_english": "There's a plastic layer on the barrel, so you can get"
+   },
+   {
+    "start_s": 36.5,
+    "end_s": 39.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "super close to your scalp without burning yourself.",
+    "text_english": "super close to your scalp without burning yourself."
+   },
+   {
+    "start_s": 40.5,
+    "end_s": 43.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And I don't know if you guys can see, but there's vents in the barrel,",
+    "text_english": "And I don't know if you guys can see, but there's vents in the barrel,"
+   },
+   {
+    "start_s": 43.2,
+    "end_s": 45.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "so this will definitely reduce heat damage.",
+    "text_english": "so this will definitely reduce heat damage."
+   },
+   {
+    "start_s": 45.5,
+    "end_s": 47.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And as you can see, I have pretty long thick hair,",
+    "text_english": "And as you can see, I have pretty long thick hair,"
+   },
+   {
+    "start_s": 47.8,
+    "end_s": 51.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "so you can use big sections and do this quick if you're in a rush or something.",
+    "text_english": "so you can use big sections and do this quick if you're in a rush or something."
+   },
+   {
+    "start_s": 51.5,
+    "end_s": 53.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Get your Wavytalk Power Wave now.",
+    "text_english": "Get your Wavytalk Power Wave now."
+   },
+   {
+    "start_s": 53.6,
+    "end_s": 55.4,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "They have free three-day shipping. It's a perfect...",
+    "text_english": "They have free three-day shipping. It's a perfect..."
+   }
+  ],
+  "transcript_full_original": "This is me styling my three day hair. I think this is my new go-to hair style. This is what my hair looks like before, and this is after. Go ahead and separate my hair. It does come with little clips that you can use, so I'll go ahead and use these. Okay, I've already done some sections of my hair, but let me show you how easy it is to use. I'm going for more softer waves, and because of the barrel, it's super easy to do this. Go ahead and clamp this piece of hair in. It even has a timer, so it tells me when to release my hair to move on to the next section. My hair's pretty straight to begin with, so I don't need it for that long. So four seconds is perfect for me, but you can move it up to six, or whatever you want to move it up to. There's a plastic layer on the barrel, so you can get super close to your scalp without burning yourself. And I don't know if you guys can see, but there's vents in the barrel, so this will definitely reduce heat damage. And as you can see, I have pretty long thick hair, so you can use big sections and do this quick if you're in a rush or something. Get your Wavytalk Power Wave now. They have free three-day shipping. It's a perfect...",
+  "transcript_full_english": "This is me styling my three day hair. I think this is my new go-to hair style. This is what my hair looks like before, and this is after. Go ahead and separate my hair. It does come with little clips that you can use, so I'll go ahead and use these. Okay, I've already done some sections of my hair, but let me show you how easy it is to use. I'm going for more softer waves, and because of the barrel, it's super easy to do this. Go ahead and clamp this piece of hair in. It even has a timer, so it tells me when to release my hair to move on to the next section. My hair's pretty straight to begin with, so I don't need it for that long. So four seconds is perfect for me, but you can move it up to six, or whatever you want to move it up to. There's a plastic layer on the barrel, so you can get super close to your scalp without burning yourself. And I don't know if you guys can see, but there's vents in the barrel, so this will definitely reduce heat damage. And as you can see, I have pretty long thick hair, so you can use big sections and do this quick if you're in a rush or something. Get your Wavytalk Power Wave now. They have free three-day shipping. It's a perfect...",
+  "word_count": 222,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.5,
+    "shot_type": "medium_closeup",
+    "visual": "Creator in bathroom clamping a strand of hair with the pink WavyTalk Power Wave",
+    "action": "Clamps hair, tool beeps, releases soft wave",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.5,
+    "end_s": 5.2,
+    "shot_type": "medium_closeup",
+    "visual": "Creator showing straight, unstyled hair",
+    "action": "Shakes and displays before hair",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.2,
+    "end_s": 6.8,
+    "shot_type": "medium_closeup",
+    "visual": "Creator showing fully styled, deep wavy hair",
+    "action": "Shows styled result smiling to camera",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 12.6,
+    "shot_type": "medium_closeup",
+    "visual": "Creator putting top layer of hair in a topknot clip",
+    "action": "Sections hair and clips it up using the included black hair clip",
+    "product_visible": false
+   },
+   {
+    "start_s": 12.6,
+    "end_s": 26.2,
+    "shot_type": "medium_closeup",
+    "visual": "Creator holding tool and clamping a hair strand",
+    "action": "Explains barrel design, clamps hair, waits for timer beep, releases soft wave",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.2,
+    "end_s": 33.8,
+    "shot_type": "close_up",
+    "visual": "Close-up of WavyTalk Power Wave digital screen and controls",
+    "action": "Shows digital temperature display changing from 380°F to 400°F and timer settings",
+    "product_visible": true
+   },
+   {
+    "start_s": 33.8,
+    "end_s": 40.0,
+    "shot_type": "medium_closeup",
+    "visual": "Creator pointing at protective plastic rim and clamping near root",
+    "action": "Clamps close to scalp to demonstrate burn protection",
+    "product_visible": true
+   },
+   {
+    "start_s": 40.0,
+    "end_s": 45.4,
+    "shot_type": "close_up",
+    "visual": "Close-up of open plates and air vents inside barrel",
+    "action": "Points at barrel ventilation holes designed to minimize heat damage",
+    "product_visible": true
+   },
+   {
+    "start_s": 45.4,
+    "end_s": 51.4,
+    "shot_type": "medium_closeup",
+    "visual": "Creator sectioning remaining hair and doing another quick clamp",
+    "action": "Gathers thick hair section and uses waver quickly",
+    "product_visible": true
+   },
+   {
+    "start_s": 51.4,
+    "end_s": 55.5,
+    "shot_type": "medium_closeup",
+    "visual": "Creator presenting tool to camera and showing final voluminous wavy hair",
+    "action": "Holds up WavyTalk Power Wave, smiles, and shakes finished waves",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator clamping her long hair with the pink WavyTalk Power Wave in a bathroom doorway",
+   "visual_0_3s": "Creator clamping a section of hair close to her face with the waver and releasing a smooth wave",
+   "spoken_0_3s": "This is me styling my three day hair. I think this is my new go-to hair style.",
+   "text_0_3s": "",
+   "hook_type": "result_first",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Instant visual wave demonstration immediately followed by rapid before vs after transition within 6 seconds"
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Quick demo & before/after teaser hook",
+    "Hair prep & sectioning with included clips",
+    "Step-by-step clamping tutorial with audible timer",
+    "Feature walkthrough: digital temp display and adjustable timer",
+    "Safety benefit: scalp protection barrier against burns",
+    "Hair health benefit: airflow vents reduce heat damage",
+    "Thick hair usability: big sections allow fast styling in a rush",
+    "Final look reveal with shipping offer CTA"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "saves_time",
+    "less_heat_damage",
+    "salon_result_at_home",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Built-in timer alerts exactly when to release hair",
+    "Protective plastic rim prevents scalp burns",
+    "Vented barrel reduces heat damage",
+    "Styles large sections quickly on long thick hair",
+    "Creates soft effortless waves on 3-day hair"
+   ],
+   "pain_points": [
+    "Restyling flat 3-day old hair",
+    "Burning scalp with traditional hot curling tools",
+    "Heat damage from hot styling tools",
+    "Taking too long to style thick long hair"
+   ],
+   "objections_handled": [
+    "Risk of burning oneself handled by showing protective outer edge",
+    "Risk of excessive heat damage handled by highlighting barrel vents",
+    "Uncertainty of how long to hold clamp handled by built-in timer beep",
+    "Takes too long on thick hair handled by showing large sections styled in 4 seconds"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Power Wave"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 5.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Free 3-day shipping",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Get your Wavytalk Power Wave now.",
+   "cta_on_screen": "",
+   "cta_at_s": 51.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, thick, straight-to-slightly wavy dark brown hair",
+   "hair_after": "Voluminous, glossy S-pattern soft waves",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, clear, encouraging"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No background music; raw creator speech with AI TTS voiceover at beginning and end, including device beeps",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 5.55,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts",
+    "close-up product macro shots"
+   ],
+   "ending": "Creator presents the tool and smiles while shaking out her finished wavy hair as the audio cuts out"
+  },
+  "notes": "Ad utilizes an English UGC template with synthesized voiceover at the start and end wrapping around genuine organic-style UGC tutorial footage."
+ }
+}
