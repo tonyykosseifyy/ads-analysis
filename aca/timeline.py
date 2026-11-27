@@ -163,7 +163,16 @@ def fatigue(days: list[dict], target_cpa: float = TARGET_CPA) -> dict:
     return out
 
 
-def ad_timeline(days: list[dict], target_cpa: float = TARGET_CPA) -> dict:
+ENDED_LABELS = {
+    "too early (<$12 spent)": "stopped before $12",
+    "in test: passed $12": "stopped between $12 and $25 (had some activity)",
+    "in test: passed $25": "stopped between $25 and $45 (had a checkout or sale)",
+    "in test: passed $45": "stopped between $45 and $55 (had a sale)",
+    "in test: 2 sales, run to $75": "stopped before $75 with 2 sales",
+}
+
+
+def ad_timeline(days: list[dict], target_cpa: float = TARGET_CPA, data_end: str = "") -> dict:
     if not days:
         return {"first_spend_date": "", "data_sufficiency": "no delivery"}
     spent = [d for d in days if d["spend"] > 0] or days
@@ -200,10 +209,17 @@ def ad_timeline(days: list[dict], target_cpa: float = TARGET_CPA) -> dict:
         "days_to_spend_50": (date.fromisoformat(first50[-1]["date"]) - d0).days + 1 if run >= 2 * target_cpa else "",
         "last7_link_ctr_pct": l7["last7_link_ctr_pct"], "last7_cpa": l7["last7_cpa"],
         "ctr_change_first7_to_last7_pct": change(e7["first7_link_ctr_pct"], l7["last7_link_ctr_pct"]),
-        **fatigue(days, target_cpa), **playbook_checkpoints(days, target_cpa),
+        **fatigue(days, target_cpa), **_ended(playbook_checkpoints(days, target_cpa), last, data_end),
         "data_sufficiency": data_sufficiency(total, target_cpa),
         "_dates": {d["date"] for d in spent},  # for creative-level Motion classification; not written out
     }
+
+
+def _ended(cp: dict, last_spend: str, data_end: str) -> dict:
+    """An ad still "in test" that stopped spending days ago didn't stay in test: say where it was stopped."""
+    if data_end and last_spend and last_spend < (date.fromisoformat(data_end) - timedelta(days=2)).isoformat():
+        cp["playbook_verdict"] = ENDED_LABELS.get(cp["playbook_verdict"], cp["playbook_verdict"])
+    return cp
 
 
 def monthly_funnels(by_ad: dict[str, list[dict]], ad_info: dict[str, dict]) -> list[dict]:

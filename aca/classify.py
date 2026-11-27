@@ -50,26 +50,37 @@ NOT_NAMES = {"tutorial", "silent", "review", "reaction", "trend", "comment", "in
              "black friday", "christmas", "ramadan", "summer", "fall", "testing", "test", "batch"}
 
 
+NOT_NAME_WORDS = re.compile(r"\b(hair|section|curls?|boost|wave|pro|brush|blowout|styling|styler|look|looks|routine|"
+                            r"concept|tool|video|sale|offer|off|static|image|picture|silent|tutorial|whirlwind|"
+                            r"steam\w*|turblow|power|bangs|layers|front|back|side|batch|copy)\b", re.I)
+
+
 def creator_from_name(ad_name: str) -> str:
     """Naming convention is "Product - hook line - creator" plus tags (US Video, Silent, Variation 3...)."""
     parts = [p.strip() for p in re.split(r"\s+-\s+", ad_name or "") if p.strip()]
     for p in reversed(parts[1:]):
-        if TAG_WORDS.match(p) or p.lower() in NOT_NAMES or len(p.split()) > 3 or re.search(r"\d{3,}|%", p):
+        if TAG_WORDS.match(p) or p.lower() in NOT_NAMES or len(p.split()) > 3 or re.search(r"\d{3,}|%", p) \
+                or NOT_NAME_WORDS.search(p):
             continue
         if re.match(r"^[A-Z][a-zA-Z]+( [A-Z][a-zA-Z]+){0,2}$", p):
             return p
     return ""
 
 
-def content_origin(ad_name: str, analysis: dict | None) -> str:
+def content_origin(ad_name: str, analysis: dict | None, adset_name: str = "", campaign_name: str = "") -> str:
     a = analysis or {}
     lang = a.get("language", {})
     name = (ad_name or "").lower()
+    container = f"{adset_name} {campaign_name}".lower()
     if a.get("asset_type") == "image" or re.search(r"\bstatic\b|\bimage\b|\bpic\b", name):
         return "static design"
     if re.search(r"\bus\b|us video|us influencer", name):
         return "US WavyTalk content"
     if re.search(r"\blb video\b|\barabic\b", name) or "lebanese" in str(lang.get("arabic_dialect", "")).lower():
+        return "Lebanese creator"
+    if re.search(r"\bus videos?\b", container) and lang.get("primary_spoken_language") not in ("ar", "mixed"):
+        return "US WavyTalk content"
+    if re.search(r"\b(lb|lebanese|leb) videos?\b|influencer", container):
         return "Lebanese creator"
     if lang.get("primary_spoken_language") in ("ar", "mixed"):
         return "Arabic-speaking creator"

@@ -202,3 +202,33 @@ def test_copy_tags_cached_and_deduped(tmp_path):
     assert again == tags  # second run reads the cache
     cols = copy_analysis.copy_columns(copy, tags[copy_analysis.copy_key(copy)])
     assert cols["copy_main_angle"] == "saves_time" and cols["copy_emoji_count"] == 1
+
+
+def test_ended_ads_are_not_called_in_test():
+    d = days([(14, 1, 0, 0)], start="2026-06-01")
+    assert timeline.ad_timeline(d, data_end="2026-11-27")["playbook_verdict"] == "stopped between $12 and $25 (had some activity)"
+    assert timeline.ad_timeline(d, data_end="2026-06-02")["playbook_verdict"] == "in test: passed $12"
+
+
+@pytest.mark.parametrize("urls,name,shown,expected", [
+    (["https://wavytalk-lb.com/products/steamline-pro?variant=1"], "x", None, "Steambrush Pro"),
+    ([], "BF Sale | Power Wave", None, "Power Wave"),
+    ([], "New Engagement Ad", ["Wavytalk Airflow Styler"], "Whirlwind Curl"),
+    (["https://wavytalk-lb.com/"], "Christmas Offer", None, "multi-product"),
+    ([], "Can you guess", None, "unknown"),
+])
+def test_products_canonical(urls, name, shown, expected):
+    from aca.parse import product_for
+    assert product_for(urls, name, shown) == expected
+
+
+def test_creator_ignores_product_and_hair_words():
+    for n in ["Whirlwind Curl - US Short Straight Hair - Hairdresser", "Steamline Pro - Us Video - Blond Hair",
+              "US Video - Athena Long Tutorial - Front Section", "Mom Influencer - Whirlwind Curl"]:
+        assert classify.creator_from_name(n) == "", n
+
+
+def test_origin_from_adset_naming():
+    assert classify.content_origin("Blowout Boost - The hair tool that never fails me - Samantha", {},
+                                   "Pack #12 - Blowout Boost - US Videos - 20/10/2026", "Prospecting Testing") == "US WavyTalk content"
+    assert context.campaign_role("New Traffic Campaign") == "traffic"

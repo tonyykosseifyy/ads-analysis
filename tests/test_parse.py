@@ -69,7 +69,7 @@ def test_market_and_product(name, market, product):
 
 
 def test_product_from_ad_name_when_no_url():
-    assert product_for([], "Steamline Pro - Us Video - Silent") == "Steamline Pro"
+    assert product_for([], "Steamline Pro - Us Video - Silent") == "Steambrush Pro"  # same product page (steamline-pro)
 
 
 def test_copy_collects_all_variations():

@@ -262,13 +262,18 @@ def enrich(settings: Settings, meta: MetaClient, ads: list[dict], store: Store, 
         ad["creator"] = creator_from_name(ad["ad_name"])
         first = ad["media_keys"][0] if ad["media_keys"] else None
         rec = store.get(first) if first else None
+        if ad["product"] in ("unknown", "multi-product") and rec:  # no product page: use what the video shows
+            from .parse import product_for
+            shown = product_for([], "", (rec.get("analysis") or {}).get("product", {}).get("products_shown"))
+            if shown not in ("unknown", "multi-product"):
+                ad["product"] = shown
         ad["links"] = links(ad["ad_id"], settings.meta_ad_account_id, ad.get("creative") or {}, (rec or {}).get("source"))
 
     daily = meta.daily_insights()
     by_ad = group_daily(daily)
-    for ad in ads:
-        ad["timeline"] = ad_timeline(by_ad.get(ad["ad_id"], []))
     extra["data_end_date"] = max((r.get("date_start") or "" for r in daily), default="")
+    for ad in ads:
+        ad["timeline"] = ad_timeline(by_ad.get(ad["ad_id"], []), data_end=extra["data_end_date"])
     info = {a["ad_id"]: {"product": a["product"], "market": a["market"], "funnel_stage": a["context"]["funnel_stage"]}
             for a in ads}
     extra["Funnels"] = monthly_funnels(by_ad, info)

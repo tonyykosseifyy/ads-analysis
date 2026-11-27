@@ -17,12 +17,13 @@ ROLE_RULES = [
     (r"retarget|\bbof\b", "retargeting"),
     (r"engagement", "engagement"),
     (r"reach|awareness", "awareness"),
+    (r"traffic", "traffic"),
     (r"next[_ ]location", "new_market_test"),
     (r"testing|s&s|\| ?test ?\||split", "testing"),
     (r"\blla\b|lookalike", "prospecting_lookalike"),
     (r"prospecting|\btof\b|scaling|sales", "prospecting"),
 ]
-OBJECTIVE_ROLES = {"OUTCOME_ENGAGEMENT": "engagement", "OUTCOME_AWARENESS": "awareness"}
+OBJECTIVE_ROLES = {"OUTCOME_ENGAGEMENT": "engagement", "OUTCOME_AWARENESS": "awareness", "OUTCOME_TRAFFIC": "traffic"}
 WARM_ROLES = {"retargeting", "catalog_retargeting", "retention"}
 
 
@@ -78,7 +79,7 @@ def audience(targeting: dict | None) -> dict:
 
 
 def funnel_stage(role: str, audience_type: str) -> str:
-    if role in ("engagement", "awareness"):
+    if role in ("engagement", "awareness", "traffic"):
         return role
     if role in WARM_ROLES or audience_type == "warm_custom_audience":
         return "warm (MOF/BOF)"

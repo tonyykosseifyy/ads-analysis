@@ -99,7 +99,8 @@ def creative_rows(ads: list[dict], store, data_end_date: str = "") -> list[dict]
             canon = store.canonical(key)
             u = usage.setdefault(canon, {"ads": [], "spend": 0.0, "purchases": 0, "ic": 0, "atc": 0, "impr": 0, "v3": 0,
                                          "thru": 0, "clicks": 0, "value": 0.0, "markets": set(), "products": set(),
-                                         "stages": set(), "dates": set(), "first": "", "last": ""})
+                                         "stages": set(), "dates": set(), "first": "", "last": "",
+                                         "adset": ad.get("adset_name", ""), "campaign": ad.get("campaign_name", "")})
             m = ad["metrics"]
             share = 1 / n  # rotating assets: split the ad's results evenly (see AssetBreakdown for Meta's real split)
             u["ads"].append(ad["ad_name"])
@@ -135,7 +136,8 @@ def creative_rows(ads: list[dict], store, data_end_date: str = "") -> list[dict]
             "motion_threshold_usd": threshold, "account_median_creative_spend": median,
             "days_with_spend": len(u["dates"]), "first_spend_date": u["first"], "last_spend_date": u["last"],
             "concept_id": concept_of.get(key, key), "concept_size": concept_size.get(concept_of.get(key, key), 1),
-            "content_origin": content_origin(first_name, analysis), "hairdresser": is_hairdresser(first_name, analysis),
+            "content_origin": content_origin(first_name, analysis, u["adset"], u["campaign"]),
+            "hairdresser": is_hairdresser(first_name, analysis),
             "spend": round(u["spend"], 2), "purchases": round(u["purchases"], 1),
             "cpa": round(u["spend"] / u["purchases"], 2) if u["purchases"] else "",
             "roas": round(u["value"] / u["spend"], 2) if u["spend"] else "",

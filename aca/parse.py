@@ -116,14 +116,37 @@ def market_for(landing_urls: list[str]) -> str:
     return "unknown"
 
 
-def product_for(landing_urls: list[str], ad_name: str) -> str:
+PRODUCTS = [  # (canonical name, pattern matched against URL handle / ad name / what the video shows)
+    ("Blowout Boost", r"blowout[ -]?boost|blow ?out brush|thermal (round )?brush"),
+    ("Whirlwind Curl", r"whirlwind|airflow (curler|styler)|air ?flow curl"),
+    ("Steambrush Pro", r"steam ?brush|steam ?line|steamline|steam straighten"),
+    ("Power Wave", r"power ?wave|waver"),
+    ("Turblow Pro", r"turblow|turbo ?blow|diffuser dryer"),
+]
+
+
+def canonical_product(text: str) -> str | None:
+    for name, pattern in PRODUCTS:
+        if re.search(pattern, text or "", re.I):
+            return name
+    return None
+
+
+def product_for(landing_urls: list[str], ad_name: str, shown: list[str] | None = None) -> str:
     for url in landing_urls:
         m = re.search(r"/products/([^/?#]+)", url)
         if m:
-            return m.group(1).replace("-", " ").title()
-    # Ad names follow "Product - angle - ..." in most of the account
-    head = ad_name.split(" - ")[0].strip()
-    return head if 0 < len(head) <= 30 else "unknown"
+            return canonical_product(m.group(1)) or m.group(1).replace("-", " ").title()
+    found = canonical_product(ad_name)
+    if found:
+        return found
+    for item in shown or []:
+        found = canonical_product(item)
+        if found:
+            return found
+    if any("collections" in u or u.rstrip("/").endswith((".com", ".com/")) for u in landing_urls):
+        return "multi-product"
+    return "unknown"
 
 
 # ---------------------------------------------------------------------------
