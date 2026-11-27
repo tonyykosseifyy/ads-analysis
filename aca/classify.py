@@ -47,7 +47,7 @@ NOT_NAMES = {"tutorial", "silent", "review", "reaction", "trend", "comment", "in
              "hairdresser", "hair dresser", "hair stylist", "short hair us", "short hair", "curly hair", "long hair",
              "multi angle", "static", "image", "picture", "video", "us video", "lb video", "arabic", "copy",
              "engagement", "frame", "pretty girl silent", "coily hair", "orange hair", "blond", "brunette", "mom",
-             "black friday", "christmas", "ramadan", "summer", "fall", "testing", "test", "batch"}
+             "black friday", "christmas", "ramadan", "summer", "fall", "testing", "test", "batch", "multiple", "various"}
 
 
 NOT_NAME_WORDS = re.compile(r"\b(hair|section|curls?|boost|wave|pro|brush|blowout|styling|styler|look|looks|routine|"
