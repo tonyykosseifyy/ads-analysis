@@ -1,0 +1,74 @@
+"""GeminiAnalyzer against a fake client shaped like google-genai's (upload -> poll -> generate -> delete)."""
+import json
+from pathlib import Path
+from types import SimpleNamespace
+
+import pytest
+
+import aca.gemini as g
+
+SAMPLE = json.loads((Path(__file__).parent / "fixtures" / "sample_analysis.json").read_text())
+
+
+class FakeFiles:
+    def __init__(self):
+        self.polls, self.deleted = 0, []
+
+    def upload(self, file, config):
+        return SimpleNamespace(name="files/abc", state=SimpleNamespace(name="PROCESSING"))
+
+    def get(self, name):
+        self.polls += 1
+        return SimpleNamespace(name=name, state=SimpleNamespace(name="ACTIVE" if self.polls >= 2 else "PROCESSING"))
+
+    def delete(self, name):
+        self.deleted.append(name)
+
+
+class FakeModels:
+    def __init__(self, replies):
+        self.replies, self.configs = list(replies), []
+
+    def generate_content(self, model, contents, config):
+        self.configs.append(config)
+        r = self.replies.pop(0)
+        if isinstance(r, Exception):
+            raise r
+        return SimpleNamespace(text=r, candidates=[])
+
+
+@pytest.fixture(autouse=True)
+def no_sleep(monkeypatch):
+    monkeypatch.setattr(g.time, "sleep", lambda s: None)
+
+
+def make(replies):
+    client = SimpleNamespace(files=FakeFiles(), models=FakeModels(replies))
+    return g.GeminiAnalyzer("k", "gemini-3.8-flash", client=client), client
+
+
+def test_waits_for_processing_then_parses_fenced_json(tmp_path):
+    a, client = make(["```json\n" + json.dumps(SAMPLE, ensure_ascii=False) + "\n```"])
+    f = tmp_path / "v.mp4"
+    f.write_bytes(b"x")
+    out = a.analyze(f, context="Product(s): Blowout Boost")
+    assert out["language"]["arabic_dialect"] == "Lebanese"
+    assert client.files.polls == 2 and client.files.deleted == ["files/abc"]
+    assert client.models.configs[0].response_json_schema is not None
+
+
+def test_retries_then_falls_back_to_prompt_only_schema(tmp_path):
+    a, client = make([RuntimeError("400 schema too complex"), "not json", json.dumps(SAMPLE)])
+    f = tmp_path / "v.mp4"
+    f.write_bytes(b"x")
+    assert a.analyze(f)["hook"]["hook_type"] == "expert_or_hairdresser"
+    assert client.models.configs[2].response_json_schema is None  # third try: schema sent in the prompt instead
+
+
+def test_incomplete_json_is_rejected_and_file_still_deleted(tmp_path):
+    a, client = make([json.dumps({"asset_type": "video"})] * 4)
+    f = tmp_path / "v.mp4"
+    f.write_bytes(b"x")
+    with pytest.raises(g.GeminiError):
+        a.analyze(f)
+    assert client.files.deleted == ["files/abc"]

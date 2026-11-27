@@ -1,0 +1,304 @@
+"""Run the pipeline.
+
+    python -m aca.main                       # normal run: refresh metrics, watch every new ad asset
+    python -m aca.main --dry-run             # list what would be watched, no Gemini calls
+    python -m aca.main --metrics-only        # refresh numbers in the Sheet only
+    python -m aca.main --pilot --ad-ids 1,2 --models gemini-4-argon,gemini-3.8-flash
+"""
+from __future__ import annotations
+
+import argparse
+import hashlib
+import json
+import logging
+import shutil
+import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from pathlib import Path
+
+from .config import Settings
+from .meta import MetaClient, MetaError
+from .parse import MediaRef, ad_copy, market_for, metrics_from_insight, product_for, resolve_media
+from .store import Store, now_iso, slug
+from .tables import ad_rows, creative_columns, creative_rows, to_grid, write_csv
+
+log = logging.getLogger("aca")
+
+
+# ---------------------------------------------------------------------------
+# 1. Ads + metrics
+# ---------------------------------------------------------------------------
+def collect_ads(meta: MetaClient, only_ids: set[str] | None = None) -> tuple[list[dict], dict[str, MediaRef]]:
+    insights = meta.ad_insights()
+    if only_ids:
+        insights = [r for r in insights if r["ad_id"] in only_ids]
+    log.info("%s ads delivered in the account's lifetime", len(insights))
+    details = meta.ads_by_ids(r["ad_id"] for r in insights)
+
+    ads, media = [], {}
+    for row in insights:
+        d = details.get(row["ad_id"], {})
+        creative = d.get("creative") or {}
+        refs = resolve_media(creative)
+        copy = ad_copy(creative)
+        for ref in refs:
+            media.setdefault(ref.key, ref)
+        ads.append({
+            "ad_id": row["ad_id"], "ad_name": row.get("ad_name", ""),
+            "campaign_name": row.get("campaign_name", ""), "adset_name": row.get("adset_name", ""),
+            "status": d.get("effective_status", "unavailable"), "created_time": d.get("created_time", ""),
+            "creative_id": creative.get("id", ""),
+            "market": market_for(copy["landing_urls"]), "product": product_for(copy["landing_urls"], row.get("ad_name", "")),
+            "copy": copy, "metrics": metrics_from_insight(row),
+            "media_keys": [r.key for r in refs], "rotating": any(r.role == "rotating" for r in refs),
+        })
+    ads.sort(key=lambda a: -a["metrics"]["spend"])
+    return ads, media
+
+
+# ---------------------------------------------------------------------------
+# 2. Download one asset
+# ---------------------------------------------------------------------------
+def download_media(meta: MetaClient, ref: MediaRef, work: Path) -> tuple[Path, dict]:
+    info: dict = {"kind": ref.kind, "id": ref.id}
+    if ref.kind == "image":
+        url = ref.image_url or meta.image_urls([ref.id]).get(ref.id)
+        if not url:
+            raise MetaError("image URL not available")
+        path = meta.download(url, work / f"{slug(ref.key)}.jpg")
+        return path, info
+
+    if ref.kind == "video":
+        for vid in [ref.id, *ref.alt_ids]:
+            try:
+                v = meta.video_info(vid)
+            except MetaError as e:
+                info.setdefault("errors", []).append(f"{vid}: {e}")
+                continue
+            if v.get("source"):
+                info.update(video_id=vid, length_s=v.get("length"), permalink=v.get("permalink_url"))
+                return meta.download(v["source"], work / f"{slug(ref.key)}.mp4"), info
+        if not ref.ig_fallback:
+            raise MetaError("video file not available to this token: " + "; ".join(info.get("errors", [])))
+        ig_id = ref.ig_fallback
+    else:
+        ig_id = ref.id
+
+    earlier = "; ".join(info.get("errors", []))
+    try:
+        m = meta.ig_media(ig_id)
+    except MetaError as e:
+        raise MetaError(f"Instagram fallback {ig_id} failed ({e}); video errors: {earlier}") from e
+    if not m.get("media_url"):
+        raise MetaError(f"Instagram media {ig_id} has no downloadable file; video errors: {earlier}")
+    ext = ".mp4" if m.get("media_type") in ("VIDEO", "REELS") else ".jpg"
+    info.update(ig_media_id=ig_id, permalink=m.get("permalink"))
+    return meta.download(m["media_url"], work / f"{slug(ref.key)}{ext}"), info
+
+
+def _sha256(path: Path) -> str:
+    h = hashlib.sha256()
+    with open(path, "rb") as fh:
+        for chunk in iter(lambda: fh.read(1 << 20), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+
+def _context(ref_key: str, ads: list[dict]) -> str:
+    users = [a for a in ads if ref_key in a["media_keys"]][:3]
+    products = sorted({a["product"] for a in users})
+    markets = sorted({a["market"] for a in users})
+    return f"Product(s) this ad links to: {', '.join(products)}. Market(s): {', '.join(markets)}."
+
+
+# ---------------------------------------------------------------------------
+# 3. Watch assets with Gemini
+# ---------------------------------------------------------------------------
+def analyze_all(settings: Settings, meta: MetaClient, store: Store, ads: list[dict], media: dict[str, MediaRef],
+                models: list[str], fresh: bool = False, dry_run: bool = False) -> dict:
+    spend_by_key: dict[str, float] = {}
+    for ad in ads:
+        for k in ad["media_keys"]:
+            spend_by_key[k] = spend_by_key.get(k, 0) + ad["metrics"]["spend"] / max(len(ad["media_keys"]), 1)
+
+    todo = [k for k in sorted(media, key=lambda k: -spend_by_key.get(k, 0))
+            if spend_by_key.get(k, 0) >= settings.min_spend
+            and (fresh or not store.is_done(k))
+            and (fresh or not store.should_skip_failed(k))]
+    if settings.max_media:
+        todo = todo[: settings.max_media]
+    stats = {"queued": len(todo), "analysed": 0, "duplicates": 0, "failed": 0, "stopped_for_time": 0}
+    log.info("%s assets to watch (%s already done)", len(todo), sum(store.is_done(k) for k in media))
+    if dry_run:
+        for k in todo:
+            log.info("would watch %s  ($%.2f)", k, spend_by_key.get(k, 0))
+        return stats
+
+    from .gemini import GeminiAnalyzer
+    settings.require("gemini_api_key")
+    analyzers = {m: GeminiAnalyzer(settings.gemini_api_key, m) for m in models}
+    started = time.time()
+    settings.work_dir.mkdir(parents=True, exist_ok=True)
+
+    def work(key: str) -> str:
+        if (time.time() - started) / 60 > settings.max_minutes:
+            return "stopped_for_time"
+        ref = media[key]
+        tmp = settings.work_dir / slug(key)
+        tmp.mkdir(parents=True, exist_ok=True)
+        try:
+            path, info = download_media(meta, ref, tmp)
+            digest = _sha256(path)
+            if not fresh:
+                owner = store.claim(digest, key)
+                if owner:
+                    store.alias(key, owner)
+                    return "duplicates"
+            for model, analyzer in analyzers.items():
+                result = analyzer.analyze(path, context=_context(key, ads))
+                flags = []
+                if (result.get("duration_s") or 0) > settings.expected_max_video_seconds:
+                    flags.append("longer_than_2_min")
+                store_for(model).save(key, {"model": model, "sha256": digest, "source": info,
+                                            "role": ref.role, "flags": flags, "analysis": result})
+            return "analysed"
+        except Exception as e:  # noqa: BLE001 - one bad asset must not stop the run
+            log.warning("FAILED %s: %s", key, e)
+            store.fail(key, str(e))
+            return "failed"
+        finally:
+            shutil.rmtree(tmp, ignore_errors=True)
+
+    # Created up front (not lazily inside threads) so parallel workers share one store per model.
+    pilot_stores: dict[str, Store] = (
+        {m: Store(settings.data_dir / "pilot", subdir=slug(m)) for m in models} if fresh else {})
+
+    def store_for(model: str) -> Store:
+        return pilot_stores[model] if fresh else store
+
+    with ThreadPoolExecutor(max_workers=settings.concurrency) as pool:
+        futures = {pool.submit(work, k): k for k in todo}
+        for i, fut in enumerate(as_completed(futures), 1):
+            outcome = fut.result()
+            stats[outcome] += 1
+            if i % 10 == 0 or i == len(todo):
+                log.info("progress %s/%s %s", i, len(todo), stats)
+    stats["pilot_stores"] = pilot_stores
+    return stats
+
+
+# ---------------------------------------------------------------------------
+# 4. Outputs
+# ---------------------------------------------------------------------------
+def asset_breakdown(meta: MetaClient, ads: list[dict], limit: int = 60) -> list[dict]:
+    rows = []
+    for ad in [a for a in ads if a["rotating"]][:limit]:
+        for r in meta.video_asset_breakdown(ad["ad_id"]):
+            va = r.get("video_asset") or {}
+            m = metrics_from_insight(r)
+            rows.append({"ad_id": ad["ad_id"], "ad_name": ad["ad_name"], "video_id": va.get("video_id", ""),
+                         "media_key": f"v_{va.get('video_id')}" if va.get("video_id") else "",
+                         "spend": m["spend"], "impressions": m["impressions"], "link_clicks": m["link_clicks"],
+                         "purchases": m["purchases"], "initiate_checkout": m["initiate_checkout"],
+                         "thruplays": m["thruplays"]})
+    return rows
+
+
+def pilot_rows(ads, pilot_stores: dict[str, Store], keys: list[str]) -> list[dict]:
+    rows = []
+    for key in keys:
+        row = {"media_key": key, "ad_names": " | ".join(a["ad_name"] for a in ads if key in a["media_keys"])[:300]}
+        for model, st in pilot_stores.items():
+            c = creative_columns(st.get(key))
+            for col in ("summary", "primary_language", "dialect", "transcript_original", "transcript_english",
+                        "on_screen_text", "hook_type", "format", "main_angle"):
+                row[f"{model} | {col}"] = c.get(col, "")
+        rows.append(row)
+    return rows
+
+
+def write_outputs(settings: Settings, ads: list[dict], store: Store, extra_tabs: dict[str, list[dict]],
+                  run_log: dict) -> None:
+    d = settings.data_dir
+    (d / "ads.json").write_text(json.dumps(ads, ensure_ascii=False, indent=1), encoding="utf-8")
+    tables = {"Ads": ad_rows(ads, store), "Creatives": creative_rows(ads, store), **extra_tabs}
+    for name, rows in tables.items():
+        write_csv(rows, d / f"{name.lower()}.csv")
+
+    runs_path = d / "runs.json"
+    runs = json.loads(runs_path.read_text()) if runs_path.exists() else []
+    runs.append(run_log)
+    runs_path.write_text(json.dumps(runs[-200:], indent=1), encoding="utf-8")
+    tables["Runs"] = list(reversed(runs[-200:]))
+    tables["Failures"] = [{"media_key": k, **v} for k, v in sorted(store.failures.items())]
+
+    if settings.google_service_account_json and settings.sheet_id:
+        from .sheets import write_tabs
+        write_tabs(settings.google_service_account_json, settings.sheet_id,
+                   {name: to_grid(rows) for name, rows in tables.items()})
+    else:
+        log.info("No Google Sheet configured; results are in %s/*.csv", d)
+
+
+# ---------------------------------------------------------------------------
+def main(argv: list[str] | None = None) -> None:
+    p = argparse.ArgumentParser(description="Study every ad in the Meta ad account.")
+    p.add_argument("--ad-ids", default="", help="comma-separated ad ids to limit the run to")
+    p.add_argument("--models", default="", help="comma-separated Gemini models (default: GEMINI_MODEL)")
+    p.add_argument("--pilot", action="store_true", help="re-watch the given ads with each model into data/pilot/")
+    p.add_argument("--dry-run", action="store_true")
+    p.add_argument("--metrics-only", action="store_true")
+    p.add_argument("--max-media", type=int, default=None)
+    p.add_argument("--min-spend", type=float, default=None)
+    args = p.parse_args(argv)
+
+    logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
+    s = Settings()
+    if args.max_media is not None:
+        s.max_media = args.max_media
+    if args.min_spend is not None:
+        s.min_spend = args.min_spend
+    models = [m.strip() for m in args.models.split(",") if m.strip()] or [s.gemini_model]
+    only = {i.strip() for i in args.ad_ids.split(",") if i.strip()} or None
+    if args.pilot and not only:
+        raise SystemExit("--pilot needs --ad-ids")
+
+    run = {"started_at": now_iso(), "mode": "pilot" if args.pilot else ("metrics" if args.metrics_only else "run"),
+           "models": ",".join(models)}
+    meta = MetaClient(s)
+    store = Store(s.data_dir)
+    ads, media = collect_ads(meta, only)
+    run.update(ads=len(ads), assets=len(media))
+
+    extra: dict[str, list[dict]] = {}
+    if args.pilot:
+        stats = analyze_all(s, meta, store, ads, media, models, fresh=True, dry_run=args.dry_run)
+        pilot_stores = stats.pop("pilot_stores", {})
+        rows = pilot_rows(ads, pilot_stores, list(media))
+        write_csv(rows, s.data_dir / "pilot" / "pilot.csv")
+        extra["Pilot"] = rows
+        run.update(stats)
+        # Pilot only touches the Pilot tab; the main tables stay as they are.
+        if s.google_service_account_json and s.sheet_id:
+            from .sheets import write_tabs
+            write_tabs(s.google_service_account_json, s.sheet_id, {"Pilot": to_grid(rows)})
+        run["finished_at"] = now_iso()
+        log.info("Pilot done: %s", run)
+        return
+
+    if not args.metrics_only:
+        stats = analyze_all(s, meta, store, ads, media, models, dry_run=args.dry_run)
+        stats.pop("pilot_stores", None)
+        run.update(stats)
+    if only:
+        log.info("Limited run (--ad-ids): analyses saved, tables not rewritten. Done: %s", run)
+        return
+    if not args.dry_run:
+        extra["AssetBreakdown"] = asset_breakdown(meta, ads)
+        run["finished_at"] = now_iso()
+        write_outputs(s, ads, store, extra, run)
+    log.info("Done: %s", run)
+
+
+if __name__ == "__main__":
+    main()

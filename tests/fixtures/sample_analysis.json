@@ -1,0 +1,31 @@
+{
+ "asset_type": "video", "duration_s": 34.5, "aspect_ratio": "9:16",
+ "one_line_summary": "Hairdresser tries the Blowout Boost on a client and reacts to how fast and quiet it is.",
+ "full_description": "Selfie-style UGC in a salon. A woman with frizzy shoulder-length brown hair sits in a salon chair while a male hairdresser styles one side with the Blowout Boost...",
+ "language": {"spoken_languages": ["ar", "en"], "primary_spoken_language": "mixed", "arabic_dialect": "Lebanese",
+   "approx_share_pct": {"ar": 60, "en": 40, "fr": 0}, "code_switching": true, "on_screen_text_languages": ["en", "arabizi"]},
+ "transcript": [
+   {"start_s": 0.0, "end_s": 2.8, "speaker": "creator", "language": "mixed",
+    "text_original": "خلّيت الـ hairdresser تبعي يجرّب الـ Blowout Boost", "text_english": "I let my hairdresser try the Blowout Boost"},
+   {"start_s": 2.8, "end_s": 5.1, "speaker": "hairdresser", "language": "ar",
+    "text_original": "شو هيدا؟ كتير سريع", "text_english": "What is this? It's so fast"}
+ ],
+ "transcript_full_original": "خلّيت الـ hairdresser تبعي يجرّب الـ Blowout Boost. شو هيدا؟ كتير سريع",
+ "transcript_full_english": "I let my hairdresser try the Blowout Boost. What is this? It's so fast",
+ "word_count": 14, "speech_starts_at_s": 0.0,
+ "on_screen_text": [{"start_s": 0.0, "end_s": 3.0, "text": "My hairdresser said this will kill his business", "role": "hook"}],
+ "scenes": [{"start_s": 0.0, "end_s": 3.0, "shot_type": "selfie", "visual": "Client in salon chair, half-styled hair", "action": "Talks to camera", "product_visible": true}],
+ "hook": {"first_frame": "Half-styled hair side by side", "visual_0_3s": "Split result on one head", "spoken_0_3s": "خلّيت الـ hairdresser تبعي يجرّب",
+   "text_0_3s": "My hairdresser said this will kill his business", "hook_type": "expert_or_hairdresser", "hook_type_secondary": "before_after", "pattern_interrupt": "Half-done hair"},
+ "structure": {"format": "hairdresser_or_expert", "narrative_beats": ["setup", "reaction", "result", "cta"], "main_angle": "expert_endorsement",
+   "secondary_angles": ["saves_time", "quiet_or_gentle"], "key_claims": ["5 minutes for half the head"], "pain_points": ["salon time"],
+   "objections_handled": ["does the heat work"], "social_proof": ["professional hairdresser"], "comparison_to": "regular blow dryer"},
+ "product": {"products_shown": ["Blowout Boost"], "first_seen_s": 0.5, "first_used_on_hair_s": 4.0, "final_result_shown_s": 28.0,
+   "demo_clarity": "partial", "before_after_shown": true},
+ "offer_and_cta": {"offer": "", "price_mentioned": "", "discount_code": "", "urgency": "", "cta_spoken": "", "cta_on_screen": "Order now", "cta_at_s": 31.0},
+ "talent": {"people_count": 2, "talent_type": "hairdresser_expert", "name_if_shown": "", "age_range": "25-35", "hair_before": "frizzy brown shoulder length",
+   "hair_after": "smooth bouncy blowout", "setting": "salon", "faces_camera": true, "energy_tone": "excited, casual"},
+ "audio_and_edit": {"audio_type": "talking_plus_music", "music_description": "soft pop", "captions_burned_in": true, "production_style": "phone_ugc",
+   "cut_count": 9, "avg_shot_length_s": 3.8, "pacing": "fast", "effects": ["zoom cut"], "ending": "Final hair flip"},
+ "notes": ""
+}

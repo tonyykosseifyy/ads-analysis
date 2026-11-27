@@ -1,0 +1,73 @@
+name: Analyze ads
+
+on:
+  schedule:
+    - cron: "23 3 * * *"   # daily 03:23 UTC (05:23 Beirut): pick up new ads + refresh metrics
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "run = watch new ads + refresh | pilot = compare models on the ad ids below | dry-run = list only | metrics-only"
+        type: choice
+        options: [run, pilot, dry-run, metrics-only]
+        default: run
+      ad_ids:
+        description: "Pilot / limited run: comma-separated ad ids"
+        default: "23856117435560795,23858873159170795,23853960694840795,23858222129720795,23857535934070795,23858272887230795,23854797412620795,23858474745470795,23858511771880795,23860136253440795"
+      models:
+        description: "Gemini model(s), comma-separated (pilot compares them side by side)"
+        default: "gemini-4-argon,gemini-3.8-flash"
+      max_media:
+        description: "Max assets to watch this run (0 = all)"
+        default: "0"
+      min_spend:
+        description: "Only watch assets whose ads spent at least this many USD"
+        default: "0"
+
+concurrency:
+  group: analyze-ads
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+      SHEET_ID: ${{ vars.SHEET_ID }}
+      META_AD_ACCOUNT_ID: ${{ vars.META_AD_ACCOUNT_ID || '1136851577945373' }}
+      GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-3.8-flash' }}
+      CONCURRENCY: ${{ vars.CONCURRENCY || '6' }}
+      MAX_MINUTES: "300"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Run
+        shell: bash
+        run: |
+          MODE="${{ inputs.mode || 'run' }}"
+          ARGS=(--max-media "${{ inputs.max_media || '0' }}" --min-spend "${{ inputs.min_spend || '0' }}")
+          case "$MODE" in
+            pilot)        ARGS+=(--pilot --ad-ids "${{ inputs.ad_ids }}" --models "${{ inputs.models }}") ;;
+            dry-run)      ARGS+=(--dry-run) ;;
+            metrics-only) ARGS+=(--metrics-only) ;;
+          esac
+          python -m aca.main "${ARGS[@]}"
+
+      - name: Save results to the repo
+        if: always()
+        run: |
+          git config user.name "ad-analysis-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Ad analysis results $(date -u +%F) [${{ inputs.mode || 'scheduled' }}]"
+          git pull --rebase --autostash && git push
