@@ -22,6 +22,9 @@ on:
       min_spend:
         description: "Only watch assets whose ads spent at least this many USD"
         default: "0"
+      concurrency:
+        description: "Videos analysed at the same time (use 1 on Gemini's free tier)"
+        default: "6"
 
 concurrency:
   group: analyze-ads
@@ -41,7 +44,7 @@ jobs:
       SHEET_ID: ${{ vars.SHEET_ID }}
       META_AD_ACCOUNT_ID: ${{ vars.META_AD_ACCOUNT_ID || '1136851577945373' }}
       GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-3.8-flash' }}
-      CONCURRENCY: ${{ vars.CONCURRENCY || '6' }}
+      CONCURRENCY: ${{ inputs.concurrency || vars.CONCURRENCY || '6' }}
       MAX_MINUTES: "300"
     steps:
       - uses: actions/checkout@v4

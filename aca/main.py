@@ -180,8 +180,9 @@ def analyze_all(settings: Settings, meta: MetaClient, store: Store, ads: list[di
                 raise RuntimeError(" | ".join(errors))
             return "analysed"
         except Exception as e:  # noqa: BLE001 - one bad asset must not stop the run
-            log.warning("FAILED %s: %s", key, e)
-            store.fail(key, str(e))
+            log.warning("FAILED %s: %s", key, str(e)[:300])
+            if not fresh:  # pilot failures must not count against the real run's retry budget
+                store.fail(key, str(e))
             return "failed"
         finally:
             shutil.rmtree(tmp, ignore_errors=True)
