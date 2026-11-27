@@ -48,17 +48,31 @@ download video/image ──► Gemini (watches video + audio) ──► data/ana
 - **Failed assets are retried.** An asset that can't be downloaded or analysed is retried on the next
   two runs, then listed in the `Failures` tab with the reason.
 
-## Sheet tabs
+## Output tabs (Google Sheet + `data/*.csv`)
 
 | Tab | One row per | Use it for |
 |---|---|---|
-| **Ads** | ad | Ads Manager metrics (spend, CTR, hook rate, hold rate, ATC, IC, purchases, cost per IC, CPA, ROAS) plus the analysis of the ad's video |
-| **Creatives** | unique video/image | The same analysis with results added up across every ad that used the asset. This is the tab to compare creatives on |
-| **AssetBreakdown** | video inside a rotating ad | Meta's own per-video split for ads that rotate several videos |
-| **Pilot** | asset | Model comparison, with each model's transcript side by side |
-| **Runs / Failures** | run / asset | Run history, and what couldn't be watched and why |
+| **Ads** | ad | Everything about one ad: metrics, context, timeline, playbook verdict, offer, copy tags, links and the video analysis |
+| **Creatives** | unique video/image | Results added up across every ad that used it, plus **Motion class** and **concept**. This is the tab to compare creatives on |
+| **HookTests** | version within a concept | Hook variations of the same video side by side, ranked by CPA |
+| **Funnels** | month × product × market × funnel stage | Impressions → clicks → landing page → ATC → checkout → purchase, with the conversion rate at each step |
+| **Breakdowns** | ad × audience slice | Results by age, gender, age+gender, placement, region and new/engaged/existing customers, tagged with the creative's format, hook, angle and language so they can be pivoted. Read these in aggregate: per-ad slices are small |
+| **AssetBreakdown** | video inside a rotating ad | Meta's own per-video split |
+| **Pilot / Runs / Failures** | | Model comparison, run history, and assets that couldn't be watched |
 
-Full detail (every transcript segment and scene) is in `data/analyses/*.json`.
+`data/daily.csv` holds every ad's day-by-day numbers (the source for the timeline columns).
+
+### What each ad row contains
+- **Context:** campaign role (testing, prospecting, lookalike, retargeting, catalog, retention, engagement, new market), funnel stage (cold TOF, warm MOF/BOF), budget type, optimisation goal, audience type (broad, interests, lookalike, warm custom audience), Advantage+ audience, age range, genders, countries, interests, included and excluded audiences, and whether Web Visitors 30 was excluded (a "sure TOF" test, per the playbook).
+- **When it ran:** first and last day of spend, days live, days with spend, months, launch month, main season and the share of spend in each season. Seasons are approximate windows (Black Friday, Christmas & New Year, Valentine's, Ramadan, Mother's Day & Eid al-Fitr, Eid al-Adha, Summer); edit them in `aca/timeline.py`.
+- **Fair early read:** results over the first 7 days and the first $50 spent (CPA, cost per IC and ATC, CTR, hook rate, hold rate, ROAS), last-7-days CTR and CPA, CTR change, and days to fatigue (the first day its trailing-7-day CPA went above 1.5× target after it had 3 sales).
+- **Playbook checkpoints:** the ad's events at $12, $25, $45, $55 and $75, and the verdict the Account Audit rules give (stop at $12 if nothing at all; stop at $25 with no checkout or sale; stop at $45 with no sale; graduate with 3+ sales by about $55; exactly 2 sales → run to $75).
+- **Data sufficiency:** "enough data" needs 3+ sales, the playbook's first conclusive read. Below that the row is marked "not enough data".
+- **Motion class** (per creative): **winner** = lifetime spend ≥ 10× the account's median creative spend and ≥ $500. **Mid-range** = not a winner but 28+ days of spend. **Loser** = stopped before 28 days. **Too new** = still running and under 28 days. This is a spend measure, so read it next to CPA.
+- **Creative labels:** concept ID and size (versions of the same video, grouped by ad name, e.g. Hook 1/2/3 or Variation N, or by a matching transcript after the first 4 seconds), content origin (US WavyTalk content, Lebanese creator, static design, ...), hairdresser yes/no, and the creator taken from the ad name.
+- **Offer live:** discount %, code, free delivery, urgency, occasion, and whether the offer was shown in the video, the ad text or both.
+- **Ad copy tags:** language, main and secondary angle, opening line and its style, offer, social proof, CTA, tone, word and emoji counts, and the number of text and headline variations.
+- **Links:** Ads Manager, the Facebook post, and the video.
 
 ## One-time setup
 

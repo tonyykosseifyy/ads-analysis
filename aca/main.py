@@ -45,7 +45,9 @@ def collect_ads(meta: MetaClient, only_ids: set[str] | None = None) -> tuple[lis
             media.setdefault(ref.key, ref)
         ads.append({
             "ad_id": row["ad_id"], "ad_name": row.get("ad_name", ""),
+            "campaign_id": row.get("campaign_id", ""), "adset_id": row.get("adset_id", ""),
             "campaign_name": row.get("campaign_name", ""), "adset_name": row.get("adset_name", ""),
+            "creative": {k: creative.get(k) for k in ("id", "effective_object_story_id", "effective_instagram_media_id")},
             "status": d.get("effective_status", "unavailable"), "created_time": d.get("created_time", ""),
             "creative_id": creative.get("id", ""),
             "market": market_for(copy["landing_urls"]), "product": product_for(copy["landing_urls"], row.get("ad_name", "")),
@@ -235,11 +237,79 @@ def pilot_rows(ads, pilot_stores: dict[str, Store], keys: list[str]) -> list[dic
     return rows
 
 
-def write_outputs(settings: Settings, ads: list[dict], store: Store, extra_tabs: dict[str, list[dict]],
-                  run_log: dict) -> None:
+BREAKDOWNS = [["age"], ["gender"], ["age", "gender"], ["publisher_platform", "platform_position"], ["region"],
+              ["user_segment_key"]]  # user_segment_key = new / engaged / existing customers (Advantage+ campaigns)
+
+
+def enrich(settings: Settings, meta: MetaClient, ads: list[dict], store: Store, copy_analyzer=None) -> dict:
+    """Everything beyond the lifetime totals: campaign/audience context, daily timeline, playbook checkpoints,
+    breakdowns, monthly funnels, ad-copy tags, creator and links. Only Meta data (free) plus cheap copy tags."""
+    from .classify import creator_from_name, links
+    from .context import describe
+    from .copy_analysis import analyze_copies
+    from .timeline import ad_timeline, group_daily, monthly_funnels
+
+    extra: dict = {}
+    try:
+        adsets, campaigns = meta.adsets(), meta.campaigns()
+    except MetaError as e:
+        log.warning("Ad set / campaign settings unavailable: %s", e)
+        adsets, campaigns = {}, {}
+    for ad in ads:
+        ad["context"] = describe(ad, adsets, campaigns)
+        if ad["market"] == "unknown" and ad["context"]["market_from_targeting"]:
+            ad["market"] = ad["context"]["market_from_targeting"]
+        ad["creator"] = creator_from_name(ad["ad_name"])
+        first = ad["media_keys"][0] if ad["media_keys"] else None
+        rec = store.get(first) if first else None
+        ad["links"] = links(ad["ad_id"], settings.meta_ad_account_id, ad.get("creative") or {}, (rec or {}).get("source"))
+
+    daily = meta.daily_insights()
+    by_ad = group_daily(daily)
+    for ad in ads:
+        ad["timeline"] = ad_timeline(by_ad.get(ad["ad_id"], []))
+    extra["data_end_date"] = max((r.get("date_start") or "" for r in daily), default="")
+    info = {a["ad_id"]: {"product": a["product"], "market": a["market"], "funnel_stage": a["context"]["funnel_stage"]}
+            for a in ads}
+    extra["Funnels"] = monthly_funnels(by_ad, info)
+    _write_daily(settings.data_dir / "daily.csv", daily)
+
+    raw = []
+    for dims in BREAKDOWNS:
+        try:
+            for r in meta.breakdown_insights(dims):
+                r["_dimension"] = "+".join(dims)
+                r["_value"] = " / ".join(str(r.get(d, "")) for d in dims)
+                raw.append(r)
+        except MetaError as e:
+            log.warning("Breakdown %s unavailable: %s", "+".join(dims), str(e)[:200])
+    extra["_breakdowns_raw"] = raw
+
+    tags = analyze_copies(ads, copy_analyzer, settings.data_dir / "copy", settings.concurrency)
+    for ad in ads:
+        ad["copy_tags"] = tags
+    return extra
+
+
+def _write_daily(path: Path, daily: list[dict]) -> None:
+    from .timeline import day_record
+    rows = [{"ad_id": r["ad_id"], **day_record(r)} for r in daily]
+    write_csv(rows, path)
+
+
+def write_outputs(settings: Settings, ads: list[dict], store: Store, extra_tabs: dict, run_log: dict) -> None:
+    from .tables import breakdown_rows, hook_test_rows
     d = settings.data_dir
-    (d / "ads.json").write_text(json.dumps(ads, ensure_ascii=False, indent=1), encoding="utf-8")
-    tables = {"Ads": ad_rows(ads, store), "Creatives": creative_rows(ads, store), **extra_tabs}
+    extra_tabs = dict(extra_tabs)
+    data_end = extra_tabs.pop("data_end_date", "")
+    raw_breakdowns = extra_tabs.pop("_breakdowns_raw", [])
+    creatives = creative_rows(ads, store, data_end)
+    tables = {"Ads": ad_rows(ads, store, creatives), "Creatives": creatives, "HookTests": hook_test_rows(creatives)}
+    if raw_breakdowns:
+        tables["Breakdowns"] = breakdown_rows(raw_breakdowns, ads, creatives, store)
+    tables.update(extra_tabs)
+    slim = [{k: v for k, v in a.items() if k not in ("timeline", "copy_tags")} for a in ads]
+    (d / "ads.json").write_text(json.dumps(slim, ensure_ascii=False, indent=1, default=str), encoding="utf-8")
     for name, rows in tables.items():
         write_csv(rows, d / f"{name.lower()}.csv")
 
@@ -312,6 +382,11 @@ def main(argv: list[str] | None = None) -> None:
         log.info("Limited run (--ad-ids): analyses saved, tables not rewritten. Done: %s", run)
         return
     if not args.dry_run:
+        copy_analyzer = None
+        if s.gemini_api_key and not args.metrics_only:
+            from .gemini import GeminiAnalyzer
+            copy_analyzer = GeminiAnalyzer(s.gemini_api_key, models[0])
+        extra.update(enrich(s, meta, ads, store, copy_analyzer))
         extra["AssetBreakdown"] = asset_breakdown(meta, ads)
         run["finished_at"] = now_iso()
         write_outputs(s, ads, store, extra, run)

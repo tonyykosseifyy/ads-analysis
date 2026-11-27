@@ -23,6 +23,15 @@ INSIGHT_FIELDS = [
     "date_start", "date_stop",
 ]
 
+DAILY_FIELDS = [
+    "ad_id", "spend", "impressions", "inline_link_clicks", "actions", "action_values",
+    "video_thruplay_watched_actions", "date_start",
+]
+BREAKDOWN_FIELDS = ["ad_id", "spend", "impressions", "reach", "inline_link_clicks", "actions", "action_values"]
+ADSET_FIELDS = ("id,name,campaign_id,effective_status,optimization_goal,billing_event,bid_strategy,daily_budget,"
+                "lifetime_budget,start_time,end_time,targeting")
+CAMPAIGN_FIELDS = "id,name,objective,effective_status,buying_type,smart_promotion_type,daily_budget,lifetime_budget"
+
 CREATIVE_FIELDS = (
     "id,name,object_type,video_id,image_url,image_hash,thumbnail_url,body,title,"
     "object_story_spec,asset_feed_spec,effective_object_story_id,"
@@ -78,30 +87,55 @@ class MetaClient:
             data = self._request("GET", nxt)
 
     # ---- ads that ran + metrics -----------------------------------------
-    def ad_insights(self) -> list[dict]:
-        """Lifetime metrics for every ad that delivered, including paused/archived/deleted ones.
-
-        Uses an async report job because lifetime, ad-level reports time out on big accounts.
-        """
+    def _async_insights(self, params: dict, label: str) -> list[dict]:
+        """Run an insights report as an async job (big lifetime / daily / breakdown reports time out otherwise)."""
         act = f"act_{self.s.meta_ad_account_id}"
-        job = self._request("POST", f"{act}/insights", {
-            "level": "ad",
-            "date_preset": "maximum",
-            "fields": ",".join(INSIGHT_FIELDS),
-            "use_account_attribution_setting": "true",
-            "limit": 500,
-        })
+        job = self._request("POST", f"{act}/insights", {"use_account_attribution_setting": "true", "limit": 500, **params})
         run_id = job["report_run_id"]
-        for _ in range(240):  # up to ~20 min
+        for _ in range(360):  # up to ~30 min
             status = self.get(run_id, fields="async_status,async_percent_completion")
             if status.get("async_status") == "Job Completed":
                 break
             if status.get("async_status") in ("Job Failed", "Job Skipped"):
-                raise MetaError(f"Insights report failed: {status}")
+                raise MetaError(f"{label} report failed: {status}")
             time.sleep(5)
         else:
-            raise MetaError("Insights report did not finish in time")
-        return list(self.paginate(f"{run_id}/insights", limit=500))
+            raise MetaError(f"{label} report did not finish in time")
+        rows = list(self.paginate(f"{run_id}/insights", limit=500))
+        log.info("%s: %s rows", label, len(rows))
+        return rows
+
+    def ad_insights(self) -> list[dict]:
+        """Lifetime metrics for every ad that delivered, including paused/archived/deleted ones."""
+        return self._async_insights({"level": "ad", "date_preset": "maximum", "fields": ",".join(INSIGHT_FIELDS)},
+                                    "Lifetime ad metrics")
+
+    def daily_insights(self) -> list[dict]:
+        """One row per ad per day with delivery: the basis for run dates, early windows, fatigue and funnels."""
+        return self._async_insights({"level": "ad", "date_preset": "maximum", "time_increment": 1,
+                                     "fields": ",".join(DAILY_FIELDS)}, "Daily ad metrics")
+
+    def breakdown_insights(self, breakdowns: list[str]) -> list[dict]:
+        """Lifetime metrics per ad split by audience/placement dimensions (age, gender, placement, region...)."""
+        return self._async_insights({"level": "ad", "date_preset": "maximum", "breakdowns": ",".join(breakdowns),
+                                     "fields": ",".join(BREAKDOWN_FIELDS)}, "Breakdown " + "+".join(breakdowns))
+
+    def adsets(self) -> dict[str, dict]:
+        """Every ad set (all statuses) with its targeting and optimisation settings."""
+        out = {}
+        for a in self.paginate(f"act_{self.s.meta_ad_account_id}/adsets", fields=ADSET_FIELDS, limit=100,
+                               filtering=json.dumps([{"field": "effective_status", "operator": "IN",
+                                                      "value": self.ALL_STATUSES}])):
+            out[a["id"]] = a
+        return out
+
+    def campaigns(self) -> dict[str, dict]:
+        out = {}
+        for c in self.paginate(f"act_{self.s.meta_ad_account_id}/campaigns", fields=CAMPAIGN_FIELDS, limit=100,
+                               filtering=json.dumps([{"field": "effective_status", "operator": "IN",
+                                                      "value": self.ALL_STATUSES}])):
+            out[c["id"]] = c
+        return out
 
     ALL_STATUSES = ["ACTIVE", "PAUSED", "DELETED", "ARCHIVED", "PENDING_REVIEW", "DISAPPROVED", "PREAPPROVED",
                     "PENDING_BILLING_INFO", "CAMPAIGN_PAUSED", "ADSET_PAUSED", "IN_PROCESS", "WITH_ISSUES"]

@@ -196,3 +196,73 @@ def test_pilot_one_model_failing_does_not_block_the_other(env, monkeypatch):
     assert stats["analysed"] == 1 and stats["failed"] == 0
     assert stats["pilot_stores"]["gemini-3.8-flash"].records
     assert not stats["pilot_stores"]["gemini-4-argon"].records
+
+
+class FakeMetaFull(FakeMeta):
+    def __init__(self):
+        super().__init__()
+        self.ads["a1"].update(adset={"id": "s1"}, campaign={"id": "c1"})
+
+    def ad_insights(self):
+        rows = super().ad_insights()
+        for r in rows:
+            r.update(adset_id="s1" if r["ad_id"] in ("a1", "a2") else "s2",
+                     campaign_id="c1" if r["ad_id"] in ("a1", "a2") else "c2",
+                     campaign_name="Prospecting Testing" if r["ad_id"] in ("a1", "a2") else "Retargeting")
+        return rows
+
+    def adsets(self):
+        return {"s1": {"id": "s1", "optimization_goal": "OFFSITE_CONVERSIONS",
+                       "targeting": {"geo_locations": {"countries": ["LB"]},
+                                     "excluded_custom_audiences": [{"name": "Web Visitors 30"}]}},
+                "s2": {"id": "s2", "targeting": {"custom_audiences": [{"name": "ATC 90"}]}}}
+
+    def campaigns(self):
+        return {"c1": {"id": "c1", "objective": "OUTCOME_SALES"}, "c2": {"id": "c2", "objective": "OUTCOME_SALES",
+                                                                          "daily_budget": "2500"}}
+
+    def daily_insights(self):
+        out = []
+        for r in self.ad_insights():
+            total = float(r["spend"])
+            for i in range(10):
+                out.append({"ad_id": r["ad_id"], "date_start": f"2026-11-{10 + i:02d}", "spend": str(total / 10),
+                            "impressions": "1000", "inline_link_clicks": "10",
+                            "actions": [{"action_type": "omni_purchase", "value": "1" if i % 3 == 0 else "0"},
+                                        {"action_type": "omni_initiated_checkout", "value": "1"}]})
+        return out
+
+    def breakdown_insights(self, dims):
+        if dims == ["user_segment_key"]:
+            raise MetaError("(#100) breakdown not supported")
+        return [{"ad_id": "a1", **{d: "25-34" if d == "age" else "x" for d in dims}, "spend": "50",
+                 "impressions": "5000", "actions": [{"action_type": "omni_purchase", "value": "2"}]}]
+
+
+def test_enrich_builds_every_new_tab(env):
+    meta = FakeMetaFull()
+    store, ads, media, _ = run(env, meta)
+    extra = pipeline.enrich(env, meta, ads, store, copy_analyzer=None)
+    extra["AssetBreakdown"] = pipeline.asset_breakdown(meta, ads)
+    pipeline.write_outputs(env, ads, store, extra, {"x": 1})
+    d = env.data_dir
+
+    def read(name):
+        with open(d / f"{name}.csv", encoding="utf-8-sig") as fh:
+            return list(csv.DictReader(fh))
+    ads_rows = {r["ad_id"]: r for r in read("ads")}
+    a1 = ads_rows["a1"]
+    assert a1["campaign_role"] == "testing" and a1["funnel_stage"] == "cold (TOF)" and a1["excludes_web_visitors"] == "TRUE"
+    assert ads_rows["a3"]["funnel_stage"] == "warm (MOF/BOF)" and ads_rows["a3"]["budget_type"] == "CBO"
+    assert a1["first_spend_date"] == "2026-11-10" and a1["primary_season"] == "regular"
+    assert a1["playbook_verdict"] and a1["data_sufficiency"] == "enough data"
+    assert a1["motion_class"] in ("winner", "mid-range", "loser", "too new (still running, <28 days)")
+    assert a1["ads_manager_link"].endswith("selected_ad_ids=a1")
+    assert a1["discount_pct"] == "" and "copy_main_angle" in a1
+    cre = {r["media_key"]: r for r in read("creatives")}
+    assert cre[store.canonical("v_reupload")]["days_with_spend"] == "10"
+    assert {r["dimension"] for r in read("breakdowns")} >= {"age", "gender", "age+gender", "region"}
+    assert "user_segment_key" not in {r["dimension"] for r in read("breakdowns")}  # unsupported -> skipped, run continues
+    funnels = read("funnels")
+    assert funnels and {r["funnel_stage"] for r in funnels} == {"cold (TOF)", "warm (MOF/BOF)"}
+    assert (d / "daily.csv").exists() and (d / "hooktests.csv").exists()
