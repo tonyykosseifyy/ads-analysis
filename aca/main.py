@@ -20,6 +20,8 @@ from .config import Settings
 from .meta import MetaClient, MetaError
 from .parse import MediaRef, ad_copy, market_for, metrics_from_insight, product_for, resolve_media
 from .store import Store, now_iso, slug
+PROCESS_START = time.time()  # the time cap counts from here, so collecting ads counts too
+
 from .tables import ad_rows, creative_columns, creative_rows, to_grid, write_csv
 
 log = logging.getLogger("aca")
@@ -148,7 +150,7 @@ def analyze_all(settings: Settings, meta: MetaClient, store: Store, ads: list[di
     budget = budget or _budget(settings)
     analyzers = {m: gemini.make_analyzer(settings, m, budget) for m in models}
     stats["stopped_for_budget"] = 0
-    started = time.time()
+    started = PROCESS_START
     settings.work_dir.mkdir(parents=True, exist_ok=True)
 
     def work(key: str) -> str:

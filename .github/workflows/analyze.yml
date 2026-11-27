@@ -24,7 +24,7 @@ on:
         default: "0"
       concurrency:
         description: "Videos analysed at the same time (use 1 on Gemini's free tier)"
-        default: "6"
+        default: "12"
       monthly_budget_usd:
         description: "Hard cap on Gemini spend this calendar month, USD (the app stops starting new videos at it)"
         default: "30"
@@ -53,8 +53,8 @@ jobs:
       GCP_PROJECT: gen-lang-client-0686021992
       GCP_LOCATION: global
       GCS_BUCKET: gen-lang-client-0686021992-ad-videos
-      CONCURRENCY: ${{ inputs.concurrency || vars.CONCURRENCY || '6' }}
-      MAX_MINUTES: "300"
+      CONCURRENCY: ${{ inputs.concurrency || vars.CONCURRENCY || '12' }}
+      MAX_MINUTES: "280"   # counted from program start; leaves ~70 min of the 350-min job for metrics, tables and saving
       GEMINI_MONTHLY_BUDGET_USD: ${{ inputs.monthly_budget_usd || vars.GEMINI_MONTHLY_BUDGET_USD || '30' }}
     steps:
       - uses: actions/checkout@v4

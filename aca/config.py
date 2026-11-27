@@ -34,9 +34,9 @@ class Settings:
     # Hard cap on Gemini spend per calendar month (USD), counted by the app from Gemini's token usage.
     monthly_budget_usd: float = field(default_factory=lambda: float(_env("GEMINI_MONTHLY_BUDGET_USD", "30") or 0))
     min_spend: float = field(default_factory=lambda: float(_env("MIN_SPEND", "0") or 0))
-    concurrency: int = field(default_factory=lambda: int(_env("CONCURRENCY", "6")))
+    concurrency: int = field(default_factory=lambda: int(_env("CONCURRENCY", "12")))
     # Stop starting new videos after this many minutes so the job can save before GitHub's 6h limit.
-    max_minutes: float = field(default_factory=lambda: float(_env("MAX_MINUTES", "300")))
+    max_minutes: float = field(default_factory=lambda: float(_env("MAX_MINUTES", "280")))
     max_media: int = field(default_factory=lambda: int(_env("MAX_MEDIA", "0")))  # 0 = no cap
     # Videos longer than this are still analysed, but flagged.
     expected_max_video_seconds: int = 120

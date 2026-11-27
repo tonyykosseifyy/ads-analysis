@@ -104,7 +104,7 @@ In this repo, go to **Settings → Secrets and variables → Actions**.
 - **Secrets:** `META_ACCESS_TOKEN`, `GEMINI_API_KEY`, and `GOOGLE_SERVICE_ACCOUNT_JSON` (paste the
   whole JSON file).
 - **Variables:** `SHEET_ID`. Optionally also `GEMINI_MODEL` (default `gemini-3.8-flash`) and
-  `CONCURRENCY` (default 6).
+  `CONCURRENCY` (default 12).
 
 ### 5. Gemini through Google Cloud (Vertex AI), set up 27/11/2026
 Billing runs through Google Cloud, so the **$300 Google Cloud credit** applies. It doesn't apply to an AI Studio key.
