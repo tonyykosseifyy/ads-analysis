@@ -154,13 +154,21 @@ def analyze_all(settings: Settings, meta: MetaClient, store: Store, ads: list[di
                 if owner:
                     store.alias(key, owner)
                     return "duplicates"
+            errors = []
             for model, analyzer in analyzers.items():
-                result = analyzer.analyze(path, context=_context(key, ads))
+                try:  # each model on its own, so one model being unavailable doesn't block the others
+                    result = analyzer.analyze(path, context=_context(key, ads))
+                except Exception as e:  # noqa: BLE001
+                    log.warning("%s failed on %s: %s", model, key, e)
+                    errors.append(f"{model}: {e}")
+                    continue
                 flags = []
                 if (result.get("duration_s") or 0) > settings.expected_max_video_seconds:
                     flags.append("longer_than_2_min")
                 store_for(model).save(key, {"model": model, "sha256": digest, "source": info,
                                             "role": ref.role, "flags": flags, "analysis": result})
+            if len(errors) == len(analyzers):
+                raise RuntimeError(" | ".join(errors))
             return "analysed"
         except Exception as e:  # noqa: BLE001 - one bad asset must not stop the run
             log.warning("FAILED %s: %s", key, e)

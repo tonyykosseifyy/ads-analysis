@@ -180,3 +180,19 @@ def test_pilot_runs_each_model_separately(env):
     assert rows[0]["gemini-4-argon | summary"].startswith("gemini-4-argon:")
     assert rows[0]["gemini-3.8-flash | summary"].startswith("gemini-3.8-flash:")
     assert not store.records  # pilot doesn't touch the main results
+
+
+def test_pilot_one_model_failing_does_not_block_the_other(env, monkeypatch):
+    class HalfBroken(FakeGemini):
+        def analyze(self, path, context=""):
+            if self.model == "gemini-4-argon":
+                raise RuntimeError("429 model not available on free tier")
+            return super().analyze(path, context)
+    monkeypatch.setattr(aca.gemini, "GeminiAnalyzer", HalfBroken)
+    meta = FakeMeta()
+    store = Store(env.data_dir)
+    ads, media = pipeline.collect_ads(meta, {"a1"})
+    stats = pipeline.analyze_all(env, meta, store, ads, media, ["gemini-4-argon", "gemini-3.8-flash"], fresh=True)
+    assert stats["analysed"] == 1 and stats["failed"] == 0
+    assert stats["pilot_stores"]["gemini-3.8-flash"].records
+    assert not stats["pilot_stores"]["gemini-4-argon"].records
