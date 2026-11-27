@@ -116,8 +116,13 @@ def _context(ref_key: str, ads: list[dict]) -> str:
 # ---------------------------------------------------------------------------
 # 3. Watch assets with Gemini
 # ---------------------------------------------------------------------------
+def _budget(settings: Settings):
+    from .budget import Budget
+    return Budget(settings.data_dir / "spend.json", settings.monthly_budget_usd)
+
+
 def analyze_all(settings: Settings, meta: MetaClient, store: Store, ads: list[dict], media: dict[str, MediaRef],
-                models: list[str], fresh: bool = False, dry_run: bool = False) -> dict:
+                models: list[str], fresh: bool = False, dry_run: bool = False, budget=None) -> dict:
     spend_by_key: dict[str, float] = {}
     for ad in ads:
         for k in ad["media_keys"]:
@@ -137,15 +142,20 @@ def analyze_all(settings: Settings, meta: MetaClient, store: Store, ads: list[di
         return stats
 
     from . import gemini
+    from .budget import BudgetExceeded
     from .gemini import ModelUnavailable
     unavailable: set[str] = set()
-    analyzers = {m: gemini.make_analyzer(settings, m) for m in models}
+    budget = budget or _budget(settings)
+    analyzers = {m: gemini.make_analyzer(settings, m, budget) for m in models}
+    stats["stopped_for_budget"] = 0
     started = time.time()
     settings.work_dir.mkdir(parents=True, exist_ok=True)
 
     def work(key: str) -> str:
         if (time.time() - started) / 60 > settings.max_minutes:
             return "stopped_for_time"
+        if budget.remaining() <= 0:
+            return "stopped_for_budget"
         ref = media[key]
         tmp = settings.work_dir / slug(key)
         tmp.mkdir(parents=True, exist_ok=True)
@@ -164,6 +174,8 @@ def analyze_all(settings: Settings, meta: MetaClient, store: Store, ads: list[di
                     continue
                 try:  # each model on its own, so one model being unavailable doesn't block the others
                     result = analyzer.analyze(path, context=_context(key, ads))
+                except BudgetExceeded:
+                    raise
                 except ModelUnavailable as e:
                     log.warning("%s — skipping it for the rest of this run", e)
                     unavailable.add(model)
@@ -181,6 +193,9 @@ def analyze_all(settings: Settings, meta: MetaClient, store: Store, ads: list[di
             if len(errors) == len(analyzers):
                 raise RuntimeError(" | ".join(errors))
             return "analysed"
+        except BudgetExceeded as e:
+            log.warning("Not watching %s: %s", key, e)
+            return "stopped_for_budget"
         except Exception as e:  # noqa: BLE001 - one bad asset must not stop the run
             log.warning("FAILED %s: %s", key, str(e)[:300])
             if not fresh:  # pilot failures must not count against the real run's retry budget
@@ -204,6 +219,10 @@ def analyze_all(settings: Settings, meta: MetaClient, store: Store, ads: list[di
             if i % 10 == 0 or i == len(todo):
                 log.info("progress %s/%s %s", i, len(todo), stats)
     stats["pilot_stores"] = pilot_stores
+    stats.update(budget.summary())
+    if stats["stopped_for_budget"]:
+        log.warning("Monthly Gemini cap of $%.2f reached: %s assets left for later (raise the cap or wait for next month)",
+                    settings.monthly_budget_usd, stats["stopped_for_budget"])
     return stats
 
 
@@ -390,7 +409,7 @@ def main(argv: list[str] | None = None) -> None:
         copy_analyzer = None
         if (s.gemini_api_key or s.gemini_backend == "vertex") and not args.metrics_only:
             from .gemini import make_analyzer
-            copy_analyzer = make_analyzer(s, models[0])
+            copy_analyzer = make_analyzer(s, models[0], _budget(s))
         extra.update(enrich(s, meta, ads, store, copy_analyzer))
         extra["AssetBreakdown"] = asset_breakdown(meta, ads)
         run["finished_at"] = now_iso()

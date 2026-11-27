@@ -17,13 +17,14 @@ class GeminiError(RuntimeError):
     pass
 
 
-def make_analyzer(settings, model: str) -> "GeminiAnalyzer":
+def make_analyzer(settings, model: str, budget=None) -> "GeminiAnalyzer":
     """Build the analyzer for the configured backend (Vertex AI or AI Studio key)."""
     settings.require_gemini()
     if settings.gemini_backend == "vertex":
-        return GeminiAnalyzer(None, model, vertex={"project": settings.gcp_project, "location": settings.gcp_location,
-                                                   "bucket": settings.gcs_bucket})
-    return GeminiAnalyzer(settings.gemini_api_key, model)
+        return GeminiAnalyzer(None, model, budget=budget,
+                              vertex={"project": settings.gcp_project, "location": settings.gcp_location,
+                                      "bucket": settings.gcs_bucket})
+    return GeminiAnalyzer(settings.gemini_api_key, model, budget=budget)
 
 
 class ModelUnavailable(GeminiError):
@@ -31,7 +32,8 @@ class ModelUnavailable(GeminiError):
 
 
 class GeminiAnalyzer:
-    def __init__(self, api_key: str | None, model: str, client=None, vertex: dict | None = None, bucket=None):
+    def __init__(self, api_key: str | None, model: str, client=None, vertex: dict | None = None, bucket=None,
+                 budget=None):
         """vertex={"project":..., "location":..., "bucket":...} routes calls through Vertex AI (Google Cloud
         billing, so Cloud credits apply). Videos are then passed as gs:// files from a private bucket instead
         of the AI Studio Files API, which Vertex doesn't have."""
@@ -47,6 +49,7 @@ class GeminiAnalyzer:
             bucket = storage.Client(project=vertex["project"]).bucket(vertex["bucket"])
         self.client = client
         self.bucket = bucket
+        self.budget = budget
         self.model = model
         self.prompt = PROMPT_PATH.read_text(encoding="utf-8")
 
@@ -86,9 +89,12 @@ class GeminiAnalyzer:
         return self._call([], prompt, schema, list(schema.get("properties", {})), label)
 
     def _call(self, parts: list, prompt: str, schema: dict, required: list[str], label: str) -> dict:
+        from .budget import BudgetExceeded
         last_err: Exception | None = None
         attempt = rate_limited = 0
         while attempt < 4 and rate_limited < 8:
+            if self.budget:
+                self.budget.check()  # raises BudgetExceeded: never retried
             use_schema = attempt < 2  # if the schema itself is rejected, fall back to prompt-only JSON
             try:
                 text = self._generate(parts, prompt, use_schema, schema)
@@ -97,6 +103,8 @@ class GeminiAnalyzer:
                 if missing:
                     raise GeminiError(f"Response missing fields: {missing}")
                 return result
+            except BudgetExceeded:
+                raise
             except Exception as e:  # noqa: BLE001 - retry any API/parse failure
                 last_err = e
                 msg = str(e)
@@ -139,6 +147,8 @@ class GeminiAnalyzer:
             prompt = prompt + "\n\nJSON schema to follow exactly:\n" + json.dumps(schema)
             config = types.GenerateContentConfig(temperature=0.2, response_mime_type="application/json")
         resp = self.client.models.generate_content(model=self.model, contents=[*parts, prompt], config=config)
+        if self.budget:
+            self.budget.record(self.model, getattr(resp, "usage_metadata", None))  # billed even if parsing fails
         if not getattr(resp, "text", None):
             raise GeminiError(f"Empty response (finish reason: {_finish_reason(resp)})")
         return resp.text

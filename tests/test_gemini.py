@@ -157,3 +157,41 @@ def test_make_analyzer_requires_the_right_settings():
         g.make_analyzer(Settings(gemini_backend="vertex", gcp_project="p", gcs_bucket=None), "m")
     with pytest.raises(SystemExit, match="GEMINI_API_KEY"):
         g.make_analyzer(Settings(gemini_backend="aistudio", gemini_api_key=None), "m")
+
+
+def test_budget_pricing_and_cap(tmp_path):
+    from datetime import date
+    from aca.budget import Budget, BudgetExceeded, price_for
+    assert price_for("gemini-3.8-flash", date(2026, 12, 15)) == (0.75, 3.75)
+    assert price_for("gemini-3.8-flash", date(2027, 1, 2)) == (1.50, 7.50)
+    assert price_for("gemini-4-argon", date(2026, 12, 2)) == (4.00, 20.00)
+    assert price_for("some-new-model") == (4.00, 20.00)  # unknown -> priced high, cap errs safe
+    b = Budget(tmp_path / "spend.json", 1.0)
+    cost = b.record("gemini-3.8-flash", SimpleNamespace(prompt_token_count=400_000, candidates_token_count=100_000,
+                                                        thoughts_token_count=0))
+    assert round(cost, 4) == round((400_000 * price_for("gemini-3.8-flash")[0] + 100_000 * price_for("gemini-3.8-flash")[1]) / 1e6, 4)
+    b.record("gemini-3.8-flash", {"prompt_token_count": 2_000_000, "candidates_token_count": 0})
+    with pytest.raises(BudgetExceeded):
+        b.check()
+    assert Budget(tmp_path / "spend.json", 1.0).month_usd == pytest.approx(b.month_usd)  # persisted across runs
+
+
+def test_gemini_records_usage_and_stops_at_cap(tmp_path):
+    from aca.budget import Budget, BudgetExceeded
+
+    class Models(FakeModels):
+        def generate_content(self, model, contents, config):
+            r = super().generate_content(model, contents, config)
+            r.usage_metadata = SimpleNamespace(prompt_token_count=1_000_000, candidates_token_count=0, thoughts_token_count=0)
+            return r
+
+    budget = Budget(tmp_path / "s.json", 1.0)
+    client = SimpleNamespace(files=FakeFiles(), models=Models([json.dumps(SAMPLE)] * 3))
+    a = g.GeminiAnalyzer("k", "gemini-3.8-flash", client=client, budget=budget)
+    f = tmp_path / "v.mp4"
+    f.write_bytes(b"x")
+    a.analyze(f)
+    assert budget.run_usd > 0
+    budget.record("gemini-3.8-flash", {"prompt_token_count": 5_000_000})
+    with pytest.raises(BudgetExceeded):
+        a.analyze(f)

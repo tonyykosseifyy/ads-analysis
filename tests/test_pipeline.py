@@ -85,11 +85,17 @@ class FakeMeta:
 
 class FakeGemini:
     calls = []
+    cost_per_video = 0.0
 
-    def __init__(self, key, model):
+    def __init__(self, key, model, budget=None, **kw):
         self.model = model
+        self.budget = budget
 
     def analyze(self, path, context=""):
+        if self.budget:
+            self.budget.check()
+            self.budget.record(self.model, {"prompt_token_count": int(FakeGemini.cost_per_video * 1_000_000 / 0.75),
+                                            "candidates_token_count": 0})
         FakeGemini.calls.append((self.model, path.name, context))
         out = json.loads(json.dumps(SAMPLE))
         out["one_line_summary"] = f"{self.model}:{path.name}"
@@ -100,6 +106,7 @@ class FakeGemini:
 def env(tmp_path, monkeypatch):
     monkeypatch.setattr(aca.gemini, "GeminiAnalyzer", FakeGemini)
     FakeGemini.calls = []
+    FakeGemini.cost_per_video = 0.0
     s = Settings(meta_access_token="t", gemini_api_key="k", gemini_model="m-flash",
                  google_service_account_json=None, sheet_id=None,
                  data_dir=tmp_path / "data", work_dir=tmp_path / "work", concurrency=3)
@@ -183,7 +190,7 @@ def test_pilot_runs_each_model_separately(env):
 
 
 def test_pilot_one_model_failing_does_not_block_the_other(env, monkeypatch):
-    class HalfBroken(FakeGemini):
+    class HalfBroken(FakeGemini):  # noqa: D401
         def analyze(self, path, context=""):
             if self.model == "gemini-4-argon":
                 raise RuntimeError("429 model not available on free tier")
@@ -266,3 +273,22 @@ def test_enrich_builds_every_new_tab(env):
     funnels = read("funnels")
     assert funnels and {r["funnel_stage"] for r in funnels} == {"cold (TOF)", "warm (MOF/BOF)"}
     assert (d / "daily.csv").exists() and (d / "hooktests.csv").exists()
+
+
+def test_monthly_cap_stops_new_videos_and_resumes_after_raise(env):
+    from datetime import date
+    FakeGemini.cost_per_video = 0.40           # each analysed video costs $0.40 (priced as gemini-3.8-flash input)
+    env.gemini_model = "gemini-3.8-flash"
+    env.monthly_budget_usd = 1.0               # room for ~2-3 videos
+    env.concurrency = 1                        # deterministic order
+    store, ads, media, stats = run(env, FakeMeta())
+    assert stats["analysed"] + stats["duplicates"] >= 2 and stats["stopped_for_budget"] >= 2
+    assert stats["gemini_usd_this_month"] >= 1.0 and stats["gemini_usd_this_month"] < 1.0 + 0.41
+    spend = json.loads((env.data_dir / "spend.json").read_text())
+    assert spend[date.today().isoformat()[:7]]["usd"] == round(stats["gemini_usd_this_month"], 4)
+    # nothing new watched until the cap is raised; the next run resumes where it stopped
+    _, _, _, again = run(env, FakeMeta())
+    assert again["analysed"] == 0 and again["stopped_for_budget"] >= 2
+    env.monthly_budget_usd = 10.0
+    _, _, _, resumed = run(env, FakeMeta())
+    assert resumed["analysed"] >= 2 and resumed["stopped_for_budget"] == 0

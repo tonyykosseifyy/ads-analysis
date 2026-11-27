@@ -31,6 +31,8 @@ class Settings:
     sheet_id: str | None = field(default_factory=lambda: _env("SHEET_ID"))
 
     # Only ads that spent at least this much are watched (metrics are still pulled for all).
+    # Hard cap on Gemini spend per calendar month (USD), counted by the app from Gemini's token usage.
+    monthly_budget_usd: float = field(default_factory=lambda: float(_env("GEMINI_MONTHLY_BUDGET_USD", "30") or 0))
     min_spend: float = field(default_factory=lambda: float(_env("MIN_SPEND", "0") or 0))
     concurrency: int = field(default_factory=lambda: int(_env("CONCURRENCY", "6")))
     # Stop starting new videos after this many minutes so the job can save before GitHub's 6h limit.

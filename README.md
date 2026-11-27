@@ -127,6 +127,9 @@ Go to **Actions → Analyze ads → Run workflow**.
 
 Local run: `pip install -r requirements.txt`, export the same variables, then `python -m aca.main --help`.
 
+## Spending cap
+The app adds up what Gemini costs from the token counts Gemini reports on every request. The running total for each month is kept in `data/spend.json`. When the month reaches **$30**, the app stops starting new videos and saves what it has done. That's the `monthly_budget_usd` field on the run form, or the repo variable `GEMINI_MONTHLY_BUDGET_USD`. The next run carries on from where it stopped once the cap is raised, or when the next month starts. A Google Cloud budget alert also emails you at 50%, 90% and 100% of $30, covering everything on the billing account.
+
 ## Cost
 
 Gemini bills about 280 tokens per second of video. On top of that, each asset gets a few thousand

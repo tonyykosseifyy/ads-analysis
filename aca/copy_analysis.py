@@ -78,7 +78,7 @@ def analyze_copies(ads: list[dict], analyzer, cache_dir: Path, concurrency: int 
                                titles="\n".join(c.get("headlines", [])) or "(none)")
         try:
             tags = analyzer.analyze_text(prompt, COPY_SCHEMA, label=f"copy {key}")
-        except Exception as e:  # noqa: BLE001 - copy tags are optional; a failure just leaves them blank
+        except Exception as e:  # noqa: BLE001 - copy tags are optional (and stop at the budget cap); blank on failure
             log.warning("Copy tagging failed for %s: %s", key, str(e)[:200])
             return key, None
         (cache_dir / f"{key}.json").write_text(json.dumps(tags, ensure_ascii=False, indent=1), encoding="utf-8")

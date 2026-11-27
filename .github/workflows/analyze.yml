@@ -25,6 +25,9 @@ on:
       concurrency:
         description: "Videos analysed at the same time (use 1 on Gemini's free tier)"
         default: "6"
+      monthly_budget_usd:
+        description: "Hard cap on Gemini spend this calendar month, USD (the app stops starting new videos at it)"
+        default: "30"
 
 concurrency:
   group: analyze-ads
@@ -52,6 +55,7 @@ jobs:
       GCS_BUCKET: gen-lang-client-0686021992-ad-videos
       CONCURRENCY: ${{ inputs.concurrency || vars.CONCURRENCY || '6' }}
       MAX_MINUTES: "300"
+      GEMINI_MONTHLY_BUDGET_USD: ${{ inputs.monthly_budget_usd || vars.GEMINI_MONTHLY_BUDGET_USD || '30' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
