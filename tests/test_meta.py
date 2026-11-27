@@ -66,13 +66,27 @@ def test_permission_error_raises():
         c.video_info("1")
 
 
-def test_batch_ad_lookup_falls_back_to_single_on_error():
-    c, _ = client([
-        (lambda me, u, p: "ids" in p, Resp(400, {"error": {"code": 100, "message": "Unsupported get request"}})),
-        (lambda me, u, p: u.endswith("/a1"), Resp(200, {"id": "a1"})),
-        (lambda me, u, p: u.endswith("/a2"), Resp(400, {"error": {"code": 100, "message": "deleted"}})),
+def test_ads_listed_from_account_with_all_statuses_then_missing_fetched_singly():
+    c, sess = client([
+        (lambda me, u, p: u.endswith("/act_123/ads"),
+         Resp(200, {"data": [{"id": "a1"}, {"id": "other"}],
+                    "paging": {"next": "https://graph.facebook.com/v24.0/act_123/ads?after=X&access_token=TOKEN"}})),
+        (lambda me, u, p: "after=X" in u, Resp(200, {"data": [{"id": "a2"}]})),
+        (lambda me, u, p: u.endswith("/a3"), Resp(200, {"id": "a3"})),
+        (lambda me, u, p: u.endswith("/a4"), Resp(400, {"error": {"code": 100, "message": "deleted"}})),
     ])
-    assert c.ads_by_ids(["a1", "a2"]) == {"a1": {"id": "a1"}}
+    assert c.ads_by_ids(["a1", "a2", "a3", "a4"]) == {"a1": {"id": "a1"}, "a2": {"id": "a2"}, "a3": {"id": "a3"}}
+    listing = sess.calls[0][2]
+    assert "ARCHIVED" in listing["filtering"] and "DELETED" in listing["filtering"]
+    assert not any("ids" in call[2] for call in sess.calls)
+
+
+def test_parameter_errors_are_not_retried_even_on_500():
+    c, sess = client([(lambda me, u, p: True,
+                       Resp(500, {"error": {"code": 100, "message": "The ids query parameter is deprecated"}}))])
+    with pytest.raises(m.MetaError, match="deprecated"):
+        c.video_info("1")
+    assert len(sess.calls) == 1
 
 
 def test_image_hash_lookup_sends_json_array():

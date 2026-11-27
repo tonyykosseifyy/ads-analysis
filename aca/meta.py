@@ -54,8 +54,10 @@ class MetaClient:
             body = _safe_json(resp)
             err = body.get("error", {}) if isinstance(body, dict) else {}
             code = err.get("code")
-            # 4/17/32/613/80004 = rate limits; 1/2 = transient; 5xx = server
-            if code in (1, 2, 4, 17, 32, 613, 80000, 80004) or resp.status_code >= 500:
+            # 4/17/32/613/8000x = rate limits; 1/2 = transient. Anything else (bad parameter, permission,
+            # expired token) will fail the same way again, so it is raised straight away.
+            transient = code in (1, 2, 4, 17, 32, 613, 80000, 80004) or (resp.status_code >= 500 and code in (None, 1, 2))
+            if transient:
                 wait = min(300, 15 * (2 ** attempt))
                 log.warning("Meta API busy (%s %s), retrying in %ss", code, err.get("message"), wait)
                 time.sleep(wait)
@@ -101,20 +103,33 @@ class MetaClient:
             raise MetaError("Insights report did not finish in time")
         return list(self.paginate(f"{run_id}/insights", limit=500))
 
+    ALL_STATUSES = ["ACTIVE", "PAUSED", "DELETED", "ARCHIVED", "PENDING_REVIEW", "DISAPPROVED", "PREAPPROVED",
+                    "PENDING_BILLING_INFO", "CAMPAIGN_PAUSED", "ADSET_PAUSED", "IN_PROCESS", "WITH_ISSUES"]
+
     def ads_by_ids(self, ad_ids: Iterable[str]) -> dict[str, dict]:
+        """Creative + names for the given ads.
+
+        Lists the account's ads (every status, incl. archived/deleted) page by page, then looks up
+        any ad still missing one by one. (The batch `?ids=` lookup was removed by Meta in v26.)
+        """
+        wanted = set(ad_ids)
         out: dict[str, dict] = {}
-        ids = list(dict.fromkeys(ad_ids))
-        for i in range(0, len(ids), 50):
-            chunk = ids[i:i + 50]
+        try:
+            for ad in self.paginate(f"act_{self.s.meta_ad_account_id}/ads", fields=AD_FIELDS, limit=50,
+                                    filtering=json.dumps([{"field": "effective_status", "operator": "IN",
+                                                           "value": self.ALL_STATUSES}])):
+                if ad.get("id") in wanted:
+                    out[ad["id"]] = ad
+        except MetaError as e:
+            log.warning("Listing ads failed part-way (%s); looking up the rest one by one", e)
+        missing = [i for i in wanted if i not in out]
+        if missing:
+            log.info("%s ads not in the account listing; fetching individually", len(missing))
+        for ad_id in missing:
             try:
-                out.update(self.get("", ids=",".join(chunk), fields=AD_FIELDS))
-            except MetaError as e:  # one bad/deleted id fails the batch -> fall back to one by one
-                log.warning("Batch ad lookup failed (%s); retrying individually", e)
-                for ad_id in chunk:
-                    try:
-                        out[ad_id] = self.get(ad_id, fields=AD_FIELDS)
-                    except MetaError as e2:
-                        log.warning("Ad %s unavailable: %s", ad_id, e2)
+                out[ad_id] = self.get(ad_id, fields=AD_FIELDS)
+            except MetaError as e2:
+                log.warning("Ad %s unavailable: %s", ad_id, e2)
         return out
 
     def video_asset_breakdown(self, ad_id: str) -> list[dict]:

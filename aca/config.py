@@ -15,7 +15,7 @@ def _env(name: str, default: str | None = None) -> str | None:
 class Settings:
     meta_access_token: str | None = field(default_factory=lambda: _env("META_ACCESS_TOKEN"))
     meta_ad_account_id: str = field(default_factory=lambda: _env("META_AD_ACCOUNT_ID", "1136851577945373"))
-    meta_api_version: str = field(default_factory=lambda: _env("META_API_VERSION", "v24.0"))
+    meta_api_version: str = field(default_factory=lambda: _env("META_API_VERSION", "v26.0"))
 
     gemini_api_key: str | None = field(default_factory=lambda: _env("GEMINI_API_KEY"))
     gemini_model: str = field(default_factory=lambda: _env("GEMINI_MODEL", "gemini-3.8-flash"))
