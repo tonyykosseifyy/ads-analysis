@@ -56,7 +56,7 @@ download video/image ──► Gemini (watches video + audio) ──► data/ana
 | **Creatives** | unique video/image | Results added up across every ad that used it, plus **Motion class** and **concept**. This is the tab to compare creatives on |
 | **HookTests** | version within a concept | Hook variations of the same video side by side, ranked by CPA |
 | **Funnels** | month × product × market × funnel stage | Impressions → clicks → landing page → ATC → checkout → purchase, with the conversion rate at each step |
-| **Breakdowns** | ad × audience slice | Results by age, gender, age+gender, placement, region and new/engaged/existing customers, tagged with the creative's format, hook, angle and language so they can be pivoted. Read these in aggregate: per-ad slices are small |
+| **Breakdowns** | ad × audience slice | Results by age, gender, age+gender, placement, region and new/engaged/existing customers, tagged with the creative's format, hook, angle and language so they can be pivoted. Read these in aggregate: per-ad slices are small. Meta gives spend and reach by region but no purchases |
 | **AssetBreakdown** | video inside a rotating ad | Meta's own per-video split |
 | **Pilot / Runs / Failures** | | Model comparison, run history, and assets that couldn't be watched |
 
