@@ -112,4 +112,4 @@ def test_high_demand_503_backs_off_and_recovers(tmp_path, monkeypatch):
     f = tmp_path / "v.mp4"
     f.write_bytes(b"x")
     assert a.analyze(f)["asset_type"] == "video"
-    assert waits[:5] == [30, 60, 90, 120, 120]
+    assert [w for w in waits if w >= 30] == [30, 60, 90, 120, 120]  # ignores the 4s upload polls
