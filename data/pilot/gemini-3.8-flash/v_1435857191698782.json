@@ -1,6 +1,6 @@
 {
  "media_key": "v_1435857191698782",
- "analyzed_at": "2026-11-27T14:10:30+00:00",
+ "analyzed_at": "2026-11-27T17:02:07+00:00",
  "model": "gemini-3.8-flash",
  "sha256": "df756e182a48469e680f663786a94bd4f455d35eeae7e2920ed22fa381e96061",
  "source": {
@@ -14,16 +14,16 @@
  "flags": [],
  "analysis": {
   "asset_type": "video",
-  "duration_s": 45.64,
+  "duration_s": 45.6,
   "aspect_ratio": "9:16",
-  "one_line_summary": "A creator demonstrates how she gets a smooth, bouncy blowout at home in 15 minutes using the Wavytalk thermal brush.",
-  "full_description": "A UGC-style tutorial and transformation video where a young woman with long brunette hair shows her hair transformation. She starts with a before-and-after comparison of frizzy, straight hair versus a bouncy, voluminous blowout. She demonstrates using the Wavytalk thermal round brush (Blowout Boost) on mid-lengths, ends, and bangs, showing a laptop clock proving the entire process took only 15 minutes (from 6:53 to 7:08). She highlights the front volume and finishes by presenting the brush to the camera.",
+  "one_line_summary": "A creator demonstrates how she gets a bouncy salon blowout at home in 15 minutes using the Wavytalk thermal brush.",
+  "full_description": "A beauty UGC creator shows a dramatic before-and-after comparison of her frizzy hair versus a smooth, bouncy blowout. She reveals her secret is the Wavytalk thermal round brush, demonstrates step-by-step how to glide and curl sections, uses a laptop clock to prove it only took 15 minutes (6:53 to 7:08), styles her front curtain bangs for maximum volume, and finishes with a full showcase of her shiny blowout while holding the tool.",
   "language": {
    "spoken_languages": [
     "en"
    ],
    "primary_spoken_language": "en",
-   "arabic_dialect": "",
+   "arabic_dialect": "none",
    "approx_share_pct": {
     "ar": 0,
     "en": 100,
@@ -37,61 +37,77 @@
   "transcript": [
    {
     "start_s": 0.0,
-    "end_s": 3.7,
-    "speaker": "voiceover",
+    "end_s": 3.0,
+    "speaker": "creator",
     "language": "en",
     "text_original": "If you want to go from this to this, then hear me out.",
     "text_english": "If you want to go from this to this, then hear me out."
    },
    {
     "start_s": 4.1,
-    "end_s": 10.3,
-    "speaker": "voiceover",
+    "end_s": 10.0,
+    "speaker": "creator",
     "language": "en",
-    "text_original": "I've been using the Wavytalk thermal brush, and it's honestly made styling my hair so much easier.",
-    "text_english": "I've been using the Wavytalk thermal brush, and it's honestly made styling my hair so much easier."
+    "text_original": "I've been using the Wavytalk thermal brush and it's honestly made styling my hair so much easier.",
+    "text_english": "I've been using the Wavytalk thermal brush and it's honestly made styling my hair so much easier."
    },
    {
-    "start_s": 10.4,
-    "end_s": 14.5,
-    "speaker": "voiceover",
+    "start_s": 10.1,
+    "end_s": 13.0,
+    "speaker": "creator",
     "language": "en",
-    "text_original": "Literally just take a section, glide it through, and look at that.",
-    "text_english": "Literally just take a section, glide it through, and look at that."
+    "text_original": "Literally just take a section, glide it through,",
+    "text_english": "Literally just take a section, glide it through,"
    },
    {
-    "start_s": 14.6,
-    "end_s": 21.8,
-    "speaker": "voiceover",
+    "start_s": 13.1,
+    "end_s": 19.0,
+    "speaker": "creator",
     "language": "en",
-    "text_original": "It gives me that smooth bouncy salon blowout look in just a few minutes, and the best part is I can do it myself at home.",
-    "text_english": "It gives me that smooth bouncy salon blowout look in just a few minutes, and the best part is I can do it myself at home."
+    "text_original": "and look at that, it gives me that smooth bouncy salon blowout look in just a few minutes.",
+    "text_english": "and look at that, it gives me that smooth bouncy salon blowout look in just a few minutes."
    },
    {
-    "start_s": 30.1,
-    "end_s": 35.6,
-    "speaker": "voiceover",
+    "start_s": 19.1,
+    "end_s": 22.0,
+    "speaker": "creator",
     "language": "en",
-    "text_original": "The front pieces are the most important part, they make the biggest difference and add so much volume.",
-    "text_english": "The front pieces are the most important part, they make the biggest difference and add so much volume."
+    "text_original": "And the best part is I can do it myself at home.",
+    "text_english": "And the best part is I can do it myself at home."
    },
    {
-    "start_s": 35.7,
-    "end_s": 45.4,
-    "speaker": "voiceover",
+    "start_s": 30.0,
+    "end_s": 35.0,
+    "speaker": "creator",
     "language": "en",
-    "text_original": "I genuinely don't think I'll ever stress about styling my hair again, and if you've been wanting that salon blowout look at home without spending forever getting ready, you need to try this.",
-    "text_english": "I genuinely don't think I'll ever stress about styling my hair again, and if you've been wanting that salon blowout look at home without spending forever getting ready, you need to try this."
+    "text_original": "The front pieces are the most important part. They make the biggest difference and add so much volume.",
+    "text_english": "The front pieces are the most important part. They make the biggest difference and add so much volume."
+   },
+   {
+    "start_s": 35.1,
+    "end_s": 38.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I genuinely don't think I'll ever stress about styling my hair again.",
+    "text_english": "I genuinely don't think I'll ever stress about styling my hair again."
+   },
+   {
+    "start_s": 38.6,
+    "end_s": 45.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And if you've been wanting that salon blowout look at home without spending forever getting ready, you need to try this.",
+    "text_english": "And if you've been wanting that salon blowout look at home without spending forever getting ready, you need to try this."
    }
   ],
-  "transcript_full_original": "If you want to go from this to this, then hear me out. I've been using the Wavytalk thermal brush, and it's honestly made styling my hair so much easier. Literally just take a section, glide it through, and look at that. It gives me that smooth bouncy salon blowout look in just a few minutes, and the best part is I can do it myself at home. The front pieces are the most important part, they make the biggest difference and add so much volume. I genuinely don't think I'll ever stress about styling my hair again, and if you've been wanting that salon blowout look at home without spending forever getting ready, you need to try this.",
-  "transcript_full_english": "If you want to go from this to this, then hear me out. I've been using the Wavytalk thermal brush, and it's honestly made styling my hair so much easier. Literally just take a section, glide it through, and look at that. It gives me that smooth bouncy salon blowout look in just a few minutes, and the best part is I can do it myself at home. The front pieces are the most important part, they make the biggest difference and add so much volume. I genuinely don't think I'll ever stress about styling my hair again, and if you've been wanting that salon blowout look at home without spending forever getting ready, you need to try this.",
-  "word_count": 105,
+  "transcript_full_original": "If you want to go from this to this, then hear me out. I've been using the Wavytalk thermal brush and it's honestly made styling my hair so much easier. Literally just take a section, glide it through, and look at that, it gives me that smooth bouncy salon blowout look in just a few minutes. And the best part is I can do it myself at home. The front pieces are the most important part. They make the biggest difference and add so much volume. I genuinely don't think I'll ever stress about styling my hair again. And if you've been wanting that salon blowout look at home without spending forever getting ready, you need to try this.",
+  "transcript_full_english": "If you want to go from this to this, then hear me out. I've been using the Wavytalk thermal brush and it's honestly made styling my hair so much easier. Literally just take a section, glide it through, and look at that, it gives me that smooth bouncy salon blowout look in just a few minutes. And the best part is I can do it myself at home. The front pieces are the most important part. They make the biggest difference and add so much volume. I genuinely don't think I'll ever stress about styling my hair again. And if you've been wanting that salon blowout look at home without spending forever getting ready, you need to try this.",
+  "word_count": 113,
   "speech_starts_at_s": 0.0,
   "on_screen_text": [
    {
     "start_s": 0.0,
-    "end_s": 4.5,
+    "end_s": 4.1,
     "text": "My secret to always having good hair",
     "role": "hook"
    }
@@ -101,133 +117,110 @@
     "start_s": 0.0,
     "end_s": 1.2,
     "shot_type": "medium close-up",
-    "visual": "Young woman in a pink shirt touching her natural, slightly frizzy hair.",
-    "action": "Showing the 'before' state of her hair.",
+    "visual": "Creator facing camera showing frizzy, brushed-out hair before, quick cut to bouncy voluminous blowout on one side",
+    "action": "Touches hair showing unstyled state, then cut to styled blowout",
     "product_visible": false
    },
    {
     "start_s": 1.2,
-    "end_s": 2.2,
+    "end_s": 4.1,
+    "shot_type": "medium shot, back view",
+    "visual": "Creator facing away from camera showing frizzy ends from behind, quick cut to bouncy glossy curls",
+    "action": "Runs fingers through frizzy hair, transitions to flipping voluminous styled blowout",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 6.2,
     "shot_type": "medium close-up",
-    "visual": "Young woman flaunting styled, voluminous blowout hair.",
-    "action": "Showing the styled 'after' state of her hair.",
-    "product_visible": false
-   },
-   {
-    "start_s": 2.2,
-    "end_s": 3.6,
-    "shot_type": "medium shot from behind",
-    "visual": "Back of woman's head showing natural, unstyled texture.",
-    "action": "Running fingers through unstyled hair.",
-    "product_visible": false
-   },
-   {
-    "start_s": 3.6,
-    "end_s": 4.6,
-    "shot_type": "medium shot from behind",
-    "visual": "Back of woman's head showing smooth, curled blowout result.",
-    "action": "Showing off the shiny, bouncy curls from behind.",
-    "product_visible": false
-   },
-   {
-    "start_s": 4.6,
-    "end_s": 5.8,
-    "shot_type": "medium close-up",
-    "visual": "Woman brushing through her straight hair with a paddle brush.",
-    "action": "Detangling hair before heat styling.",
-    "product_visible": false
-   },
-   {
-    "start_s": 5.8,
-    "end_s": 10.3,
-    "shot_type": "close-up",
-    "visual": "Woman curling a section of hair around the cream-colored Wavytalk thermal brush.",
-    "action": "Twisting and rolling the brush down a strand to create a curl.",
+    "visual": "Creator brushing a section of straight dry hair with a flat brush, then introduces the pink Wavytalk thermal brush",
+    "action": "Brushes hair and brings thermal brush to hair",
     "product_visible": true
    },
    {
-    "start_s": 10.3,
+    "start_s": 6.2,
     "end_s": 15.5,
     "shot_type": "close-up",
-    "visual": "Gliding the brush through a section and releasing a perfect spiral bounce.",
-    "action": "Releasing the hair and holding up the curled ribbon of hair.",
+    "visual": "Close-up of hair strands wrapped around the heated barrel and pulled through, revealing defined curls",
+    "action": "Glides brush down, twirls, releases bouncy spiral curl",
     "product_visible": true
    },
    {
     "start_s": 15.5,
-    "end_s": 16.9,
+    "end_s": 17.0,
     "shot_type": "medium close-up",
-    "visual": "Woman holds up her MacBook showing lock screen time 6:53.",
-    "action": "Displaying start time to demonstrate quick routine.",
+    "visual": "Creator holds up a MacBook screen displaying the lock screen time 6:53",
+    "action": "Shows time to establish start time of styling routine",
     "product_visible": false
    },
    {
-    "start_s": 16.9,
+    "start_s": 17.0,
     "end_s": 29.8,
     "shot_type": "close-up",
-    "visual": "Montage of curling various sections around the head with the thermal brush.",
-    "action": "Wrapping hair, gliding brush, and releasing bouncy curls.",
+    "visual": "Close-up styling sequence showing multiple curls being formed and released with the thermal brush",
+    "action": "Wraps hair around brush, holds, and slides down to form spiral ringlets",
     "product_visible": true
    },
    {
     "start_s": 29.8,
-    "end_s": 35.6,
-    "shot_type": "medium shot",
-    "visual": "Woman styling her front curtain bangs backwards and upwards with the brush.",
-    "action": "Rolling bangs back over the barrel to create crown volume and flicking hair back.",
+    "end_s": 35.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator wraps front curtain bangs backwards over the thermal brush barrel",
+    "action": "Heats bangs, pulls backward, releases and tousles hair for huge root volume",
     "product_visible": true
    },
    {
-    "start_s": 35.6,
+    "start_s": 35.0,
     "end_s": 38.6,
-    "shot_type": "medium shot from behind",
-    "visual": "Turning head and showing back of hair full of volume and waves.",
-    "action": "Tossing hair to display movement.",
+    "shot_type": "medium shot, back view",
+    "visual": "Back view of head, shaking voluminous bouncy curls",
+    "action": "Shakes out hair to show volume and bounce from behind",
     "product_visible": false
    },
    {
     "start_s": 38.6,
-    "end_s": 39.8,
+    "end_s": 40.2,
     "shot_type": "medium close-up",
-    "visual": "Woman holds up laptop lock screen showing 7:08.",
-    "action": "Pointing to timestamp proving styling only took 15 minutes.",
+    "visual": "Creator holds MacBook screen pointing at lock screen time 7:08 (showing 15 minutes elapsed)",
+    "action": "Points finger at the time on screen to prove quick styling time",
     "product_visible": false
    },
    {
-    "start_s": 39.8,
-    "end_s": 42.6,
-    "shot_type": "medium close-up",
-    "visual": "Full view of completed blowout, shaking and admiring hair.",
-    "action": "Admiring the final bouncy blowout result.",
+    "start_s": 40.2,
+    "end_s": 42.5,
+    "shot_type": "medium shot, back view",
+    "visual": "Back view showing full shiny blowout curls",
+    "action": "Tosses hair side to side",
     "product_visible": false
    },
    {
-    "start_s": 42.6,
-    "end_s": 45.64,
+    "start_s": 42.5,
+    "end_s": 45.6,
     "shot_type": "medium close-up",
-    "visual": "Woman holding the Wavytalk thermal brush in front of camera and waving goodbye.",
-    "action": "Displaying product proudly to the camera and giving a friendly wave.",
+    "visual": "Creator holding the Wavytalk thermal brush next to her face, smiling and waving goodbye",
+    "action": "Poses with the product and waves to camera",
     "product_visible": true
    }
   ],
   "hook": {
-   "first_frame": "Young woman in a pink collared shirt with natural unstyled hair and text overlay 'My secret to always having good hair'.",
-   "visual_0_3s": "Rapid before-and-after cut comparing unstyled frizzy hair to voluminous blowout curls from front and back angles.",
+   "first_frame": "Creator facing camera in a pink shirt, holding hands up to her unstyled frizzy hair with text 'My secret to always having good hair'",
+   "visual_0_3s": "Fast jump cut comparison showing frizzy hair transformed into bouncy blowout both from the front and back",
    "spoken_0_3s": "If you want to go from this to this, then hear me out.",
    "text_0_3s": "My secret to always having good hair",
    "hook_type": "before_after",
    "hook_type_secondary": "result_first",
-   "pattern_interrupt": "Fast side-by-side transition cuts contrasting unstyled flat hair directly against glamorous salon-quality curls."
+   "pattern_interrupt": "Instant jump cut from frizzy before to bouncy blowout within the first second, paired with back-of-head before/after."
   },
   "structure": {
    "format": "tutorial_demo",
    "narrative_beats": [
-    "Hook: rapid before-and-after contrast showing transformation",
-    "Introduction: reveals the Wavytalk thermal brush as the secret weapon",
-    "Demonstration: step-by-step glide and twist technique",
-    "Proof of speed: laptop timestamps showing 6:53 start and 7:08 finish (15 mins)",
-    "Technique tip: styling front fringe/bangs for maximum volume",
-    "Final result showcase & call to action to try it"
+    "Hook: rapid before-and-after from frizzy to blowout.",
+    "Product introduction: Wavytalk thermal brush.",
+    "Step-by-step demonstration: gliding through sections and curling.",
+    "Time proof: showing laptop clock at 6:53 start time.",
+    "Tutorial tip: focusing on the front pieces for face-framing volume.",
+    "Time proof verification: showing laptop clock at 7:08 (15 minutes total).",
+    "Final result & CTA: showing complete blowout and recommending the tool."
    ],
    "main_angle": "salon_result_at_home",
    "secondary_angles": [
@@ -236,31 +229,31 @@
     "easy_for_beginners"
    ],
    "key_claims": [
-    "Gives a smooth bouncy salon blowout at home",
-    "Takes just 15 minutes to style whole head (proven by timestamps 6:53 to 7:08)",
-    "Effortless to glide and style sections without stress"
+    "Gives smooth bouncy salon blowout look in just a few minutes",
+    "Can do it yourself at home without salon visits",
+    "Full blowout completed in only 15 minutes",
+    "Front pieces technique creates massive volume"
    ],
    "pain_points": [
-    "Spending forever styling hair in the morning",
-    "Frizzy or flat unstyled hair",
-    "Difficulty replicating salon blowout volume by oneself"
+    "Frizzy unmanageable hair",
+    "Spending too much time or money at salons",
+    "Spending forever getting ready",
+    "Stress about styling hair"
    ],
    "objections_handled": [
-    "Takes too long to do a full blowout (refuted by 15-minute clock proof)",
-    "Hard to do by yourself at home (shown through simple one-handed glide technique)"
+    "Takes too long: demonstrated with timestamped laptop clock showing 15 minutes total.",
+    "Hard to do alone: demonstrates effortless glide-through technique."
    ],
-   "social_proof": [
-    "Real-time visual proof of transformation and time taken"
-   ],
-   "comparison_to": "Expensive, time-consuming salon blowouts"
+   "social_proof": [],
+   "comparison_to": "Professional salon blowouts"
   },
   "product": {
    "products_shown": [
-    "Wavytalk Thermal Brush (Blowout Boost)"
+    "Wavytalk Thermal Brush"
    ],
    "first_seen_s": 5.8,
-   "first_used_on_hair_s": 5.8,
-   "final_result_shown_s": 1.2,
+   "first_used_on_hair_s": 6.2,
+   "final_result_shown_s": 1.0,
    "demo_clarity": "clear_step_by_step",
    "before_after_shown": true
   },
@@ -269,36 +262,35 @@
    "price_mentioned": "",
    "discount_code": "",
    "urgency": "",
-   "cta_spoken": "You need to try this",
+   "cta_spoken": "you need to try this.",
    "cta_on_screen": "",
-   "cta_at_s": 43.5
+   "cta_at_s": 44.0
   },
   "talent": {
    "people_count": 1,
    "talent_type": "creator_influencer",
    "name_if_shown": "",
    "age_range": "20-25",
-   "hair_before": "Long brunette hair with lighter brown ends, naturally straight with mild frizz and lack of volume",
-   "hair_after": "Voluminous 90s-style salon blowout with soft curls and bouncy curtain bangs",
+   "hair_before": "Long, frizzy, voluminous, unstyled brunette hair with lighter ends",
+   "hair_after": "Smooth, glossy, bouncy blowout curls with high volume crown and curtain bangs",
    "setting": "bedroom",
    "faces_camera": true,
-   "energy_tone": "Warm, confident, and enthusiastic"
+   "energy_tone": "relatable, confident, friendly"
   },
   "audio_and_edit": {
    "audio_type": "voiceover",
-   "music_description": "Soft, modern acoustic lo-fi beat playing under clear narrated voiceover",
+   "music_description": "Soft chill instrumental background music underneath clean vocal voiceover",
    "captions_burned_in": false,
    "production_style": "edited_ugc",
-   "cut_count": 14,
-   "avg_shot_length_s": 3.26,
+   "cut_count": 12,
+   "avg_shot_length_s": 3.8,
    "pacing": "medium",
    "effects": [
-    "Jump cuts",
-    "Text animation",
-    "Time-lapse clock proof"
+    "rapid before-after cuts",
+    "stylized font title overlay"
    ],
-   "ending": "Creator holds thermal brush smiling and waving to the camera."
+   "ending": "Creator holds the Wavytalk thermal brush next to her styled hair and waves goodbye to the camera."
   },
-  "notes": "Ad leverages the viral 'laptop clock' proof technique (showing 6:53 AM/PM to 7:08 AM/PM) to visually prove that a full salon-style blowout can be achieved in exactly 15 minutes at home."
+  "notes": "English voiceover UGC video demonstrating the Wavytalk thermal styling brush. Uses real-time lockscreen timestamps (6:53 to 7:08) as an effective proof point that styling takes only 15 minutes."
  }
 }

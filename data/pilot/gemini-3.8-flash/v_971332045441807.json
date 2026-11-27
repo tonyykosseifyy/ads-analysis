@@ -1,6 +1,6 @@
 {
  "media_key": "v_971332045441807",
- "analyzed_at": "2026-11-27T14:09:48+00:00",
+ "analyzed_at": "2026-11-27T17:01:36+00:00",
  "model": "gemini-3.8-flash",
  "sha256": "cacd85ef267651c623971b1d98de9ca45e3c1e32268a66ce3e3b6b8bee402832",
  "source": {
@@ -15,8 +15,8 @@
   "asset_type": "video",
   "duration_s": 40.0,
   "aspect_ratio": "9:16",
-  "one_line_summary": "Creator with curly/frizzy hair demonstrates using the Wavytalk Blowout Boost thermal round brush to achieve a smooth blowout in under 10 minutes.",
-  "full_description": "A creator demonstrates the Wavytalk Blowout Boost heated round brush on her dark, naturally curly and frizzy hair. She begins by styling her hair at the crown and bangs, explaining that it is the ideal tool for curly or frizzy hair. She styles section by section while talking about how fast and low-maintenance blowouts are compared to keeping hair tied up. Within under 10 minutes, she contrasts her styled, bouncy blowout with her untreated frizzy texture, fluffing the final voluminous result.",
+  "one_line_summary": "A creator demonstrates how the Wavytalk Blowout Boost thermal brush quickly transforms curly, frizzy hair into a bouncy salon blowout at home.",
+  "full_description": "A young female creator with curly brunette hair demonstrates the Wavytalk Blowout Boost heated round brush in a bedroom setting. She starts by calling out viewers with curly or frizzy hair while revealing freshly smoothed bangs. Throughout the video, she demonstrates wrapping and gliding sections of her hair around the blue thermal brush, contrasting her unstyled frizzy hair with the shiny, bouncy blowout results. She explains how the tool saves time and took less than 10 minutes to transform her hair after days in a bun, ending by running her hands through the full, voluminous finished hairstyle.",
   "language": {
    "spoken_languages": [
     "en"
@@ -36,80 +36,112 @@
   "transcript": [
    {
     "start_s": 0.0,
-    "end_s": 3.4,
+    "end_s": 1.7,
     "speaker": "creator",
     "language": "en",
-    "text_original": "If you have curly or frizzy hair, I'm gonna show you exactly the tool that you need",
-    "text_english": "If you have curly or frizzy hair, I'm gonna show you exactly the tool that you need"
+    "text_original": "If you have curly or frizzy hair,",
+    "text_english": "If you have curly or frizzy hair,"
    },
    {
-    "start_s": 3.4,
-    "end_s": 6.3,
+    "start_s": 1.7,
+    "end_s": 4.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm gonna show you exactly the tool that you need",
+    "text_english": "I'm gonna show you exactly the tool that you need"
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 6.4,
     "speaker": "creator",
     "language": "en",
     "text_original": "to get the perfect blowout.",
     "text_english": "to get the perfect blowout."
    },
    {
-    "start_s": 6.3,
+    "start_s": 6.4,
     "end_s": 9.2,
     "speaker": "creator",
     "language": "en",
-    "text_original": "This is Wavytalk Blowout Boost.",
-    "text_english": "This is Wavytalk Blowout Boost."
+    "text_original": "This is Wavytalk's Blowout Boost.",
+    "text_english": "This is Wavytalk's Blowout Boost."
    },
    {
     "start_s": 9.2,
-    "end_s": 13.5,
+    "end_s": 13.4,
     "speaker": "creator",
     "language": "en",
     "text_original": "It is literally the perfect tool to get a nice and easy blowout.",
     "text_english": "It is literally the perfect tool to get a nice and easy blowout."
    },
    {
-    "start_s": 13.5,
-    "end_s": 19.3,
+    "start_s": 13.4,
+    "end_s": 16.8,
     "speaker": "creator",
     "language": "en",
-    "text_original": "And all I want is to finally have my hair looking nice. It's been up in a bun for like three days now,",
-    "text_english": "And all I want is to finally have my hair looking nice. It's been up in a bun for like three days now,"
+    "text_original": "And all I want is to finally have my hair looking nice.",
+    "text_english": "And all I want is to finally have my hair looking nice."
    },
    {
-    "start_s": 19.3,
-    "end_s": 23.9,
+    "start_s": 16.8,
+    "end_s": 19.4,
     "speaker": "creator",
     "language": "en",
-    "text_original": "but blowouts are so much easier to do, just ten times easier to maintain.",
-    "text_english": "but blowouts are so much easier to do, just ten times easier to maintain."
+    "text_original": "It's been up in a bun for like three days now.",
+    "text_english": "It's been up in a bun for like three days now."
    },
    {
-    "start_s": 23.9,
-    "end_s": 30.5,
+    "start_s": 19.4,
+    "end_s": 22.8,
     "speaker": "creator",
     "language": "en",
-    "text_original": "It's been less than ten minutes and I already got my hair from this crazy frizzy mess",
-    "text_english": "It's been less than ten minutes and I already got my hair from this crazy frizzy mess"
+    "text_original": "But blowouts are so much easier to do,",
+    "text_english": "But blowouts are so much easier to do,"
    },
    {
-    "start_s": 30.5,
-    "end_s": 34.4,
+    "start_s": 22.8,
+    "end_s": 26.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "just 10 times easier to maintain.",
+    "text_english": "just 10 times easier to maintain."
+   },
+   {
+    "start_s": 26.3,
+    "end_s": 30.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's been less than 10 minutes and I already got my hair from this crazy frizzy mess",
+    "text_english": "It's been less than 10 minutes and I already got my hair from this crazy frizzy mess"
+   },
+   {
+    "start_s": 30.1,
+    "end_s": 34.3,
     "speaker": "creator",
     "language": "en",
     "text_original": "to this super cute and sleek blowout.",
     "text_english": "to this super cute and sleek blowout."
    },
    {
-    "start_s": 34.4,
+    "start_s": 34.3,
+    "end_s": 37.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It is such a time saver and a perfect tool",
+    "text_english": "It is such a time saver and a perfect tool"
+   },
+   {
+    "start_s": 37.3,
     "end_s": 40.0,
     "speaker": "creator",
     "language": "en",
-    "text_original": "It is such a time saver and a perfect tool that just makes things ten times easier.",
-    "text_english": "It is such a time saver and a perfect tool that just makes things ten times easier."
+    "text_original": "that just makes things 10 times easier.",
+    "text_english": "that just makes things 10 times easier."
    }
   ],
-  "transcript_full_original": "If you have curly or frizzy hair, I'm gonna show you exactly the tool that you need to get the perfect blowout. This is Wavytalk Blowout Boost. It is literally the perfect tool to get a nice and easy blowout. And all I want is to finally have my hair looking nice. It's been up in a bun for like three days now, but blowouts are so much easier to do, just ten times easier to maintain. It's been less than ten minutes and I already got my hair from this crazy frizzy mess to this super cute and sleek blowout. It is such a time saver and a perfect tool that just makes things ten times easier.",
-  "transcript_full_english": "If you have curly or frizzy hair, I'm gonna show you exactly the tool that you need to get the perfect blowout. This is Wavytalk Blowout Boost. It is literally the perfect tool to get a nice and easy blowout. And all I want is to finally have my hair looking nice. It's been up in a bun for like three days now, but blowouts are so much easier to do, just ten times easier to maintain. It's been less than ten minutes and I already got my hair from this crazy frizzy mess to this super cute and sleek blowout. It is such a time saver and a perfect tool that just makes things ten times easier.",
-  "word_count": 105,
+  "transcript_full_original": "If you have curly or frizzy hair, I'm gonna show you exactly the tool that you need to get the perfect blowout. This is Wavytalk's Blowout Boost. It is literally the perfect tool to get a nice and easy blowout. And all I want is to finally have my hair looking nice. It's been up in a bun for like three days now. But blowouts are so much easier to do, just 10 times easier to maintain. It's been less than 10 minutes and I already got my hair from this crazy frizzy mess to this super cute and sleek blowout. It is such a time saver and a perfect tool that just makes things 10 times easier.",
+  "transcript_full_english": "If you have curly or frizzy hair, I'm gonna show you exactly the tool that you need to get the perfect blowout. This is Wavytalk's Blowout Boost. It is literally the perfect tool to get a nice and easy blowout. And all I want is to finally have my hair looking nice. It's been up in a bun for like three days now. But blowouts are so much easier to do, just 10 times easier to maintain. It's been less than 10 minutes and I already got my hair from this crazy frizzy mess to this super cute and sleek blowout. It is such a time saver and a perfect tool that just makes things 10 times easier.",
+  "word_count": 115,
   "speech_starts_at_s": 0.0,
   "on_screen_text": [
    {
@@ -120,78 +152,72 @@
    },
    {
     "start_s": 1.7,
-    "end_s": 4.5,
+    "end_s": 4.1,
     "text": "I'm gonna show you exactly the tool that you need",
     "role": "caption_of_speech"
    },
    {
-    "start_s": 4.5,
-    "end_s": 6.3,
+    "start_s": 4.1,
+    "end_s": 6.4,
     "text": "to get the perfect blowout",
     "role": "caption_of_speech"
    },
    {
-    "start_s": 6.3,
-    "end_s": 8.9,
-    "text": "this is Wavyalk Blowout Boost",
+    "start_s": 6.4,
+    "end_s": 9.2,
+    "text": "this is Wavytalk Blowout Boost",
     "role": "caption_of_speech"
    },
    {
-    "start_s": 8.9,
-    "end_s": 13.5,
+    "start_s": 9.2,
+    "end_s": 13.4,
     "text": "it is literally the perfect tool to get a nice and easy blowout",
     "role": "caption_of_speech"
    },
    {
-    "start_s": 13.5,
-    "end_s": 16.9,
+    "start_s": 13.4,
+    "end_s": 16.8,
     "text": "and all I want is to finally have my hair looking nice",
     "role": "caption_of_speech"
    },
    {
-    "start_s": 16.9,
-    "end_s": 19.3,
+    "start_s": 16.8,
+    "end_s": 19.4,
     "text": "it's been up in a bun for like three days now",
     "role": "caption_of_speech"
    },
    {
-    "start_s": 19.3,
+    "start_s": 19.4,
     "end_s": 22.8,
     "text": "but blowouts are so much easier to do",
     "role": "caption_of_speech"
    },
    {
     "start_s": 22.8,
-    "end_s": 26.2,
+    "end_s": 26.3,
     "text": "just 10 times easier to maintain",
     "role": "caption_of_speech"
    },
    {
-    "start_s": 26.2,
-    "end_s": 28.5,
-    "text": "it's been less than 10 minutes",
-    "role": "caption_of_speech"
-   },
-   {
-    "start_s": 28.5,
-    "end_s": 31.8,
+    "start_s": 26.3,
+    "end_s": 30.1,
     "text": "and I already got my hair from this crazy frizzy mess",
     "role": "caption_of_speech"
    },
    {
-    "start_s": 31.8,
-    "end_s": 34.4,
+    "start_s": 30.1,
+    "end_s": 34.3,
     "text": "to this super cute and sleek blowout",
     "role": "caption_of_speech"
    },
    {
-    "start_s": 34.4,
-    "end_s": 37.8,
+    "start_s": 34.3,
+    "end_s": 37.3,
     "text": "it is such a time saver and a perfect tool",
     "role": "caption_of_speech"
    },
    {
-    "start_s": 37.8,
+    "start_s": 37.3,
     "end_s": 40.0,
     "text": "that just makes things 10 times easier",
     "role": "caption_of_speech"
@@ -200,125 +226,135 @@
   "scenes": [
    {
     "start_s": 0.0,
-    "end_s": 2.0,
-    "shot_type": "medium close-up",
-    "visual": "Young woman looking into the camera while rolling her front section of hair in a baby blue Wavytalk Blowout Boost heated round brush.",
-    "action": "She curls her hair around the heated brush at the top of her head.",
+    "end_s": 1.8,
+    "shot_type": "medium selfie",
+    "visual": "Creator facing camera holding the blue Wavytalk thermal brush in her styled front bangs.",
+    "action": "Creator unrolls the brush from her front section of hair and looks at camera.",
     "product_visible": true
    },
    {
-    "start_s": 2.0,
-    "end_s": 6.3,
-    "shot_type": "medium close-up",
-    "visual": "Creator showing the freshly styled front bangs and running her hand over them.",
-    "action": "She releases the hair, flips her bangs forward, and gestures to how sleek they look.",
+    "start_s": 1.8,
+    "end_s": 6.5,
+    "shot_type": "medium selfie",
+    "visual": "Creator touches and adjusts her sleek, smooth front bangs.",
+    "action": "Creator fluffs and flips the styled front curtain bang towards camera.",
     "product_visible": false
    },
    {
-    "start_s": 6.3,
-    "end_s": 12.0,
-    "shot_type": "medium close-up",
-    "visual": "Creator holding the blue Wavytalk Blowout Boost brush, wrapping a side strand around the barrel.",
-    "action": "She rolls a section of hair near her face with the brush, naming the tool.",
+    "start_s": 6.5,
+    "end_s": 13.2,
+    "shot_type": "medium selfie",
+    "visual": "Top half of creator's hair is clipped up with a claw clip while she holds the Blowout Boost.",
+    "action": "Creator rolls and slowly spins a strand around the thermal brush barrel to curl and smooth.",
     "product_visible": true
    },
    {
-    "start_s": 12.0,
-    "end_s": 16.5,
-    "shot_type": "medium close-up",
-    "visual": "Creator brushing through the section and smoothing it downwards.",
-    "action": "She glides the heated brush through mid-lengths and ends to create a curl.",
+    "start_s": 13.2,
+    "end_s": 17.0,
+    "shot_type": "medium selfie",
+    "visual": "Creator styling another section on the side of her head.",
+    "action": "Creator pulls the heated round brush through her hair to give it body and bounce.",
     "product_visible": true
    },
    {
-    "start_s": 16.5,
-    "end_s": 19.3,
-    "shot_type": "medium close-up",
-    "visual": "Creator talking directly to camera, gesturing with her hands, wearing a hair claw clip on top.",
-    "action": "She explains that her hair was in a bun for 3 days.",
+    "start_s": 17.0,
+    "end_s": 19.5,
+    "shot_type": "medium selfie",
+    "visual": "Creator speaking directly to camera with top hair still clipped up.",
+    "action": "Creator gestures with her open hand while talking about having had her hair in a bun.",
     "product_visible": false
    },
    {
-    "start_s": 19.3,
+    "start_s": 19.5,
     "end_s": 23.5,
-    "shot_type": "medium close-up",
-    "visual": "Creator using the brush at the roots and mid-lengths on the opposite side.",
-    "action": "She wraps hair around the barrel and pulls through to blow it out.",
+    "shot_type": "medium selfie",
+    "visual": "Creator curling the top crown layer backwards.",
+    "action": "Creator wraps the top section over the heated barrel and twists it outward for volume.",
     "product_visible": true
    },
    {
     "start_s": 23.5,
-    "end_s": 27.5,
-    "shot_type": "medium close-up",
-    "visual": "Creator looking at camera, admiring the bounce and volume of the completed curls.",
-    "action": "She shakes her hair slightly and looks pleased.",
+    "end_s": 26.5,
+    "shot_type": "medium selfie",
+    "visual": "Creator showcases one fully finished, voluminous blowout side.",
+    "action": "Creator tilts head and smiles, showing the bouncy curl definition.",
     "product_visible": false
    },
    {
-    "start_s": 27.5,
-    "end_s": 34.4,
-    "shot_type": "medium close-up",
-    "visual": "Creator comparing the unstyled frizzy side/back to the styled sleek, voluminous side.",
-    "action": "She gestures to the frizzy section, touches her styled front curl, and runs fingers through her sleek blowout.",
+    "start_s": 26.5,
+    "end_s": 30.0,
+    "shot_type": "medium selfie",
+    "visual": "Creator holding and shaking the unstyled side of her hair.",
+    "action": "Creator shakes out the frizzy, untreated curly side to show the contrast.",
     "product_visible": false
    },
    {
-    "start_s": 34.4,
+    "start_s": 30.0,
+    "end_s": 34.2,
+    "shot_type": "medium selfie",
+    "visual": "Creator turning to the styled blowout side of her hair.",
+    "action": "Creator runs fingers through the sleek, polished blowout side.",
+    "product_visible": false
+   },
+   {
+    "start_s": 34.2,
     "end_s": 37.0,
-    "shot_type": "medium close-up",
-    "visual": "Quick cut of creator retouching a side curl with the brush.",
-    "action": "She glides the brush through the side lock.",
+    "shot_type": "medium selfie",
+    "visual": "Creator with thermal brush at the side of her face.",
+    "action": "Creator does a quick glide with the brush on a front section.",
     "product_visible": true
    },
    {
     "start_s": 37.0,
     "end_s": 40.0,
-    "shot_type": "medium close-up",
-    "visual": "Creator fluffing and running both hands through the crown of her voluminous finished blowout.",
-    "action": "She fluffs her roots and shows off the full blowout result smiling.",
+    "shot_type": "medium selfie",
+    "visual": "Creator with fully completed bouncy blowout.",
+    "action": "Creator shakes and fluffs both sides of her hair with both hands, smiling into the camera.",
     "product_visible": false
    }
   ],
   "hook": {
-   "first_frame": "Creator facing camera while holding the blue Wavytalk Blowout Boost wrapped in her dark hair at the crown.",
-   "visual_0_3s": "Creator unwrapping and brushing her bangs with the heated round brush.",
+   "first_frame": "Creator looking directly at the camera with the light blue thermal brush rolled at the top of her head.",
+   "visual_0_3s": "Creator unwinding the heated round brush to reveal a perfectly smooth, curled front section, then flipping it over her forehead.",
    "spoken_0_3s": "If you have curly or frizzy hair, I'm gonna show you exactly the tool that you need",
    "text_0_3s": "if you have curly or frizzy hair",
    "hook_type": "problem_callout",
    "hook_type_secondary": "result_first",
-   "pattern_interrupt": "Calling out curly and frizzy hair immediately while demonstrating effortless styling on thick, textured hair."
+   "pattern_interrupt": "Immediate product release reveal showing instant shine and smoothness from curly roots."
   },
   "structure": {
-   "format": "talking_head_ugc",
+   "format": "tutorial_demo",
    "narrative_beats": [
-    "Audience callout targeting curly/frizzy hair owners",
-    "Product introduction by name (Wavytalk Blowout Boost)",
-    "Relatable lifestyle pain point (hair in messy bun for 3 days)",
-    "Demonstration of ease and quickness (under 10 minutes)",
-    "Side-by-side comparison of frizzy mess vs. sleek blowout result",
-    "Final result showcase and benefit summary"
+    "Audience callout targeting curly/frizzy hair with instant bang reveal",
+    "Product introduction and statement of core benefit",
+    "Relatable problem shared: messy hair trapped in a bun for days",
+    "Step-by-step styling clips showing ease of rolling and curling",
+    "Direct side-by-side comparison of natural frizzy side vs polished blowout side",
+    "Final result showcase with volume fluff"
    ],
    "main_angle": "frizz_or_curly_solution",
    "secondary_angles": [
+    "salon_result_at_home",
     "saves_time",
-    "volume_and_bounce",
-    "salon_result_at_home"
+    "easy_for_beginners"
    ],
    "key_claims": [
-    "Takes less than 10 minutes",
-    "Transforms crazy frizzy hair into a sleek blowout",
-    "10 times easier to maintain than other styles"
+    "Perfect tool to get a nice and easy blowout",
+    "Much easier to do and 10 times easier to maintain",
+    "Took less than 10 minutes from crazy frizzy mess to super cute and sleek blowout",
+    "Major time saver"
    ],
    "pain_points": [
-    "Curly and frizzy hair being hard to manage",
-    "Leaving hair in a messy bun for days due to lack of time"
+    "Curly, frizzy, messy hair",
+    "Keeping hair in a bun for multiple days because styling is too difficult/time-consuming",
+    "Blowouts taking too long or being difficult to maintain"
    ],
    "objections_handled": [
-    "Blowouts take too long: she claims it took under 10 minutes",
-    "Difficult to do at home: brush makes it fast and easy"
+    "Takes too long: Addressed by stating it takes under 10 minutes",
+    "Hard to use on thick/curly hair: Demonstrated live going smoothly through hair"
    ],
    "social_proof": [],
-   "comparison_to": "Leaving hair tied up in a messy bun"
+   "comparison_to": "Traditional difficult blowout routines or messy unstyled hair"
   },
   "product": {
    "products_shown": [
@@ -326,7 +362,7 @@
    ],
    "first_seen_s": 0.0,
    "first_used_on_hair_s": 0.0,
-   "final_result_shown_s": 23.5,
+   "final_result_shown_s": 37.0,
    "demo_clarity": "clear_step_by_step",
    "before_after_shown": true
   },
@@ -344,25 +380,25 @@
    "talent_type": "creator_influencer",
    "name_if_shown": "",
    "age_range": "18-24",
-   "hair_before": "Naturally dark, curly, thick and frizzy hair",
-   "hair_after": "Smooth, shiny, voluminous blowout with flipped ends",
+   "hair_before": "Brunette, thick, curly and frizzy medium-length hair",
+   "hair_after": "Voluminous, smooth, bouncy blowout with defined curls at the ends",
    "setting": "bedroom",
    "faces_camera": true,
-   "energy_tone": "relatable, upbeat, casual"
+   "energy_tone": "relatable, energetic, enthusiastic, authentic"
   },
   "audio_and_edit": {
    "audio_type": "talking",
-   "music_description": "No prominent background music; direct spoken creator audio with ambient styling sounds.",
+   "music_description": "None, natural speaking audio with direct room acoustics",
    "captions_burned_in": true,
    "production_style": "phone_ugc",
-   "cut_count": 9,
-   "avg_shot_length_s": 4.0,
+   "cut_count": 10,
+   "avg_shot_length_s": 3.6,
    "pacing": "medium",
    "effects": [
-    "jump cuts between styling steps"
+    "jump cuts"
    ],
-   "ending": "Creator fluffs her styled hair at the roots with both hands while looking into the camera."
+   "ending": "Creator fluffing hair with both hands and smiling admiringly at the completed blowout result."
   },
-  "notes": "Direct-response UGC video formatted for TikTok/Reels/Meta ads. Note that the automatic captions spell the brand 'Wavyalk' in the caption overlay at 00:07."
+  "notes": "English UGC creative repurposed by WavyTalk Lebanon for social campaigns. Video clearly demonstrates half-head contrast between natural frizzy curl and polished thermal-brush blowout."
  }
 }
