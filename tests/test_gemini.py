@@ -93,3 +93,23 @@ def test_rate_limits_wait_the_suggested_delay_without_using_attempts(tmp_path, m
     assert a.analyze(f)["asset_type"] == "video"
     assert 38.0 in waits
     assert client.models.configs[-1].response_json_schema is not None  # still on the first real attempt
+
+
+def test_daily_quota_used_up_stops_immediately(tmp_path):
+    a, client = make([RuntimeError("429 RESOURCE_EXHAUSTED limit: 20, description: Generate content requests per day limit exceeded on Free Tier")])
+    f = tmp_path / "v.mp4"
+    f.write_bytes(b"x")
+    with pytest.raises(g.ModelUnavailable, match="daily"):
+        a.analyze(f)
+    assert len(client.models.configs) == 1
+
+
+def test_high_demand_503_backs_off_and_recovers(tmp_path, monkeypatch):
+    waits = []
+    monkeypatch.setattr(g.time, "sleep", lambda s: waits.append(s))
+    busy = RuntimeError("503 UNAVAILABLE This model is currently experiencing high demand")
+    a, _ = make([busy, busy, busy, busy, busy, json.dumps(SAMPLE)])
+    f = tmp_path / "v.mp4"
+    f.write_bytes(b"x")
+    assert a.analyze(f)["asset_type"] == "video"
+    assert waits[:5] == [30, 60, 90, 120, 120]

@@ -52,9 +52,14 @@ class GeminiAnalyzer:
                     msg = str(e)
                     if "limit: 0" in msg:  # the key's plan doesn't include this model: retrying can't help
                         raise ModelUnavailable(f"{self.model} is not available on this API key's plan") from e
+                    if "per day" in msg.lower() or "PerDay" in msg:  # daily cap used up: waiting minutes won't help
+                        raise ModelUnavailable(f"{self.model}: daily request quota used up on this API key") from e
                     if "429" in msg or "RESOURCE_EXHAUSTED" in msg:
                         rate_limited += 1  # rate limits don't use up the normal attempts
                         wait = _retry_delay(msg) or 30
+                    elif "503" in msg or "UNAVAILABLE" in msg:  # Google-side "high demand": back off longer
+                        rate_limited += 1
+                        wait = min(120, 30 * rate_limited)
                     else:
                         attempt += 1
                         wait = 10 * attempt
