@@ -1,0 +1,329 @@
+{
+ "media_key": "v_1604922577907296",
+ "analyzed_at": "2026-11-27T14:10:59+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "8257ce1bb755914882561891f2331b4449c6e2d6bb27a6ae16daaab298ad42d1",
+ "source": {
+  "kind": "video",
+  "id": "1604922577907296",
+  "errors": [
+   "1604922577907296: 400 (#10) Application does not have permission for this action"
+  ],
+  "video_id": "1331396555210625",
+  "length_s": 39.078,
+  "permalink": "/122152625727061607/videos/1331396555210625?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 38.2,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Lebanese creator demonstrates how the Wavytalk Airflow Curler straightens and curls hair using cool air to set long-lasting waves.",
+  "full_description": "A Lebanese female creator films a selfie-style GRWM hair tutorial in her bedroom. She starts by revealing a freshly released bouncy curl, stating 'now we're talking'. She then sections her curly hair, demos using the pale pink Wavytalk Airflow Curler (2-in-1 straightener and curler), explaining that its external cool air vents protect from burning and lock the curls in place. After curling all sections, she shakes them out into soft beach waves and delivers a direct call-to-action with her promo code ANGELZ10.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 50,
+    "en": 50,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "ar",
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "اوكي، هلق صرنا عم نحكي.",
+    "text_english": "Okay, now we're talking."
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 3.7,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "يلا نعمل شعري سوا.",
+    "text_english": "Let's do my hair together."
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 7.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "I know usually I have very curly hair, بس the first step is protect then properly straighten.",
+    "text_english": "I know usually I have very curly hair, but the first step is protect then properly straighten."
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 10.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "فكرة هيدا اسمه Airflow Curler من Wavytalk.",
+    "text_english": "By the way, this is called the Airflow Curler from Wavytalk."
+   },
+   {
+    "start_s": 10.1,
+    "end_s": 15.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بيستعمل as both a straightener and a curling iron وما بيحرق",
+    "text_english": "It is used as both a straightener and a curling iron, and it doesn't burn"
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 18.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "لأنه بيطلّع هواء من برّا.",
+    "text_english": "because it blows air from the outside."
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 22.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وبحس الـ process مبينة قديه smooth وقديه easy to do.",
+    "text_english": "And I feel the process is clearly so smooth and so easy to do."
+   },
+   {
+    "start_s": 22.3,
+    "end_s": 25.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "يعني basically perfect curls, perfect hair in no time.",
+    "text_english": "I mean basically perfect curls, perfect hair in no time."
+   },
+   {
+    "start_s": 25.8,
+    "end_s": 29.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وعا فكرة الهواء يلي بيطلّعه بيساعد يثبّت الـ curl لأنه الهواء بارد.",
+    "text_english": "And by the way, the air it blows out helps set the curl because it's cold air."
+   },
+   {
+    "start_s": 29.4,
+    "end_s": 32.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So you have hair that lasts long and looks ideal.",
+    "text_english": "So you have hair that lasts long and looks ideal."
+   },
+   {
+    "start_s": 32.2,
+    "end_s": 34.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "صراحة I went for beach waves اليوم.",
+    "text_english": "Honestly, I went for beach waves today."
+   },
+   {
+    "start_s": 34.6,
+    "end_s": 38.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "فا shop your Airflow Curler using code ANGELZ10 for an extra discount.",
+    "text_english": "So shop your Airflow Curler using code ANGELZ10 for an extra discount."
+   }
+  ],
+  "transcript_full_original": "اوكي، هلق صرنا عم نحكي. يلا نعمل شعري سوا. I know usually I have very curly hair, بس the first step is protect then properly straighten. فكرة هيدا اسمه Airflow Curler من Wavytalk. بيستعمل as both a straightener and a curling iron وما بيحرق لأنه بيطلّع هواء من برّا. وبحس الـ process مبينة قديه smooth وقديه easy to do. يعني basically perfect curls, perfect hair in no time. وعا فكرة الهواء يلي بيطلّعه بيساعد يثبّت الـ curl لأنه الهواء بارد. So you have hair that lasts long and looks ideal. صراحة I went for beach waves اليوم. فا shop your Airflow Curler using code ANGELZ10 for an extra discount.",
+  "transcript_full_english": "Okay, now we're talking. Let's do my hair together. I know usually I have very curly hair, but the first step is protect then properly straighten. By the way, this is called the Airflow Curler from Wavytalk. It is used as both a straightener and a curling iron, and it doesn't burn because it blows air from the outside. And I feel the process is clearly so smooth and so easy to do. I mean basically perfect curls, perfect hair in no time. And by the way, the air it blows out helps set the curl because it's cold air. So you have hair that lasts long and looks ideal. Honestly, I went for beach waves today. So shop your Airflow Curler using code ANGELZ10 for an extra discount.",
+  "word_count": 96,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 38.2,
+    "text": "يلا نعمل شعري؟\nANGELZ10 at\nwavytalk.lb",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "shot_type": "medium close-up",
+    "visual": "Female creator sitting in her room holding a newly formed spiral curl, admiring it.",
+    "action": "She drops the curl to show its bounce and looks into the camera smiling.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 4.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator showing her natural hair volume before styling, shaking it out.",
+    "action": "She shakes her hair, then starts sectioning a strand behind her ear.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 6.3,
+    "shot_type": "close-up",
+    "visual": "Close-up of the pale pink Wavytalk Airflow Curler in creator's hand.",
+    "action": "Creator holds up the tool facing the camera, showing the airflow holes and power button.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.3,
+    "end_s": 8.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator clamping a strand of hair with the styler.",
+    "action": "She glides the straightener down a section to smooth it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.1,
+    "end_s": 9.9,
+    "shot_type": "close-up",
+    "visual": "Creator opening the styler plates near the camera.",
+    "action": "She opens the clamp to demonstrate the inner ceramic plate and outer airflow vents.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.9,
+    "end_s": 18.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator clamping hair and twisting the tool 360 degrees.",
+    "action": "She slowly pulls the hair through the barrel, pointing at the barrel with her finger to indicate the cool air coming out.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 22.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator releasing the curl and admiring the bouncy ringlet.",
+    "action": "She twirls the curl around her finger and smiles brightly at the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 26.2,
+    "shot_type": "medium close-up",
+    "visual": "Side angle of styled bouncy waves on the lower half of her hair.",
+    "action": "She turns her head to show the uniform spiral curls on the side of her head.",
+    "product_visible": false
+   },
+   {
+    "start_s": 26.2,
+    "end_s": 29.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the top crown section of her hair.",
+    "action": "She glides the curler away from her face and lets the top curl fall, twisting it with her fingers.",
+    "product_visible": true
+   },
+   {
+    "start_s": 29.5,
+    "end_s": 34.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator shaking out all the curls with both hands into voluminous loose waves.",
+    "action": "She runs her fingers through her roots and displays the finished beach waves.",
+    "product_visible": false
+   },
+   {
+    "start_s": 34.6,
+    "end_s": 38.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the Wavytalk Airflow Curler next to her face.",
+    "action": "She shows the styler, gives a wink and points towards the camera to shop with code ANGELZ10.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding a bouncy, defined curl in her hand with on-screen Arabic text and discount code.",
+   "visual_0_3s": "Creator dropping a freshly released spiral curl and shaking out her hair.",
+   "spoken_0_3s": "اوكي، هلق صرنا عم نحكي. يلا نعمل شعري سوا.",
+   "text_0_3s": "يلا نعمل شعري؟\nANGELZ10 at\nwavytalk.lb",
+   "hook_type": "result_first",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Instant curl drop in the first second followed immediately by shaking out her messy bun/hair."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Result sneak peek of a bouncy curl",
+    "Introduction to GRWM hair session",
+    "Tool reveal and 2-in-1 value proposition (straightener + curler)",
+    "Cool air safety and setting benefit explained while demoing",
+    "Full hair transformation into beach waves",
+    "CTA with creator discount code"
+   ],
+   "main_angle": "replaces_multiple_tools",
+   "secondary_angles": [
+    "less_heat_damage",
+    "salon_result_at_home",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Acts as both a straightener and a curling iron",
+    "Cool air prevents heat burn and locks curl in place",
+    "Produces long-lasting curls quickly and smoothly"
+   ],
+   "pain_points": [
+    "Managing naturally curly/frizzy hair",
+    "Heat damage or burning fingers with regular hot irons",
+    "Curls that fall flat quickly"
+   ],
+   "objections_handled": [
+    "Doesn't burn because cool air blows on the outer shell",
+    "Curls hold shape all day due to immediate cold shot setting"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional single-function straighteners or curling irons"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Airflow Curler / Whirlwind Curl"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 6.3,
+   "final_result_shown_s": 32.2,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Discount code ANGELZ10 for an extra discount",
+   "price_mentioned": "",
+   "discount_code": "ANGELZ10",
+   "urgency": "",
+   "cta_spoken": "Shop your Airflow Curler using code ANGELZ10 for an extra discount",
+   "cta_on_screen": "ANGELZ10 at wavytalk.lb",
+   "cta_at_s": 34.6
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Natural curly/wavy brown medium bob pinned up in a top bun",
+   "hair_after": "Voluminous, shiny textured beach waves",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "friendly, upbeat, conversational"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No background music, original dialogue only",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 10,
+   "avg_shot_length_s": 3.8,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator holding the curler beside her face, winking and smiling at the camera."
+  },
+  "notes": "The creator refers to the product as the 'Airflow Curler from Wavytalk', corresponding to the Whirlwind Curl / Airflow 2-in-1 model in the product catalog."
+ }
+}

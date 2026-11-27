@@ -1,0 +1,203 @@
+{
+ "media_key": "v_1011665428356906",
+ "analyzed_at": "2026-11-27T14:09:39+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "02704d47851cc53d4fc3caa0b077fa460debabe7c5c48a64da5cfe43737d5456",
+ "source": {
+  "kind": "video",
+  "id": "1011665428356906",
+  "video_id": "1325650689004873",
+  "length_s": 21.409,
+  "permalink": "/23849366283980795/videos/1325650689004873/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 20.9,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A young woman demonstrates styling her hair with the blue WavyTalk Blowout Boost thermal brush, creating voluminous, bouncy blowout curls.",
+  "full_description": "A silent UGC tutorial and demo video set to background music. The creator starts by showing the light blue WavyTalk Blowout Boost thermal round brush and her bouncy styled ends. She demonstrates curling sections by wrapping hair around the heated barrel and twirling it out, showing the resulting shiny bouncy curls and face-framing layers. Finally, she fluffs her hair, shows the back view of the full voluminous blowout, and poses holding the tool.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "text": "Wavytalk Blowout Boost",
+    "role": "brand"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "shot_type": "medium close-up",
+    "visual": "Young woman holding up the baby-blue WavyTalk thermal round brush in front of the camera.",
+    "action": "She presents the brush to the camera before turning to show her styled hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 5.0,
+    "shot_type": "close-up",
+    "visual": "Close-up of styled, glossy, bouncy ends curled under with typed text overlay 'Wavytalk Blowout Boost'.",
+    "action": "She tilts her head, admiring the smoothness and curl bounce on the bottom layer.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 7.3,
+    "shot_type": "close-up",
+    "visual": "Creator using the blue thermal brush on a strand of dark hair.",
+    "action": "She brushes and twirls the hair around the thermal brush barrel to create an outward flick/curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 9.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator inspecting the bouncy waves and curtain bangs framing her face.",
+    "action": "She turns her head slightly to examine the curl structure and volume.",
+    "product_visible": false
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 12.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling an upper layer of hair around the crown.",
+    "action": "She twists the heated round brush through the upper layer to create lift and defined curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 14.7,
+    "shot_type": "close-up",
+    "visual": "Styling face-framing bangs with the thermal brush.",
+    "action": "She curls the front section away from her face, releasing a spiral curtain curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.7,
+    "end_s": 17.5,
+    "shot_type": "medium shot",
+    "visual": "Creator showing off her finished voluminous blowout hairstyle.",
+    "action": "She shakes her head and flips her curls side to side, showing high shine and bounce.",
+    "product_visible": false
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 19.8,
+    "shot_type": "medium shot (back view)",
+    "visual": "Creator running her manicured hands through her hair from the back.",
+    "action": "She displays the voluminous, layered curls covering her back and shoulders.",
+    "product_visible": false
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 20.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing camera again, holding the WavyTalk Blowout Boost brush beside her face.",
+    "action": "She poses and pouts next to the tool to conclude the video.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the blue WavyTalk heated round brush directly in front of the lens.",
+   "visual_0_3s": "Creator shows the tool and turns her head to display ultra-smooth, glossy curled hair.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Wavytalk Blowout Boost",
+   "hook_type": "result_first",
+   "hook_type_secondary": "product_reveal",
+   "pattern_interrupt": "Instant demonstration of finished shiny blowout curl paired with rapid typing product overlay."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Product reveal and initial curl result peek",
+    "Step-by-step curling demo on different hair sections (bottom, crown, curtain bangs)",
+    "Hair shake and reveal of full voluminous blowout results",
+    "360 back view showing volume and layered curls",
+    "Final hero pose holding the tool"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Creates smooth, bouncy blowout curls with high shine and volume"
+   ],
+   "pain_points": [
+    "Flat, lifeless hair lacking volume and shape",
+    "Difficulty achieving salon-quality blowout curls at home"
+   ],
+   "objections_handled": [
+    "Demonstrates that the brush slides smoothly without tangling or snagging hair"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush (Blue)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 5.0,
+   "final_result_shown_s": 14.7,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Dark brown, medium-length, pre-straightened/semi-styled hair ready for curling",
+   "hair_after": "Voluminous, shiny 90s-style blowout with bouncy curled-under and outward flipped layers",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "aesthetic, stylish, smooth"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Smooth, rhythmic R&B / pop backing track",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 2.3,
+   "pacing": "fast",
+   "effects": [
+    "Typewriter text animation overlay"
+   ],
+   "ending": "Creator poses with pout holding the blue brush next to her face"
+  },
+  "notes": "Classic aesthetic silent UGC styling video focused entirely on visual payoff, hair shine, bounce, and tool ease of use. No spoken dialogue or explicit verbal CTA."
+ }
+}
