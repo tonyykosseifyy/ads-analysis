@@ -9,7 +9,7 @@ Watch from the first frame to the last frame, including the ending (ads can run 
 - Transcribe every spoken word VERBATIM, in the order spoken, split into short segments with start/end timestamps.
 - Write each language in its own script, exactly as spoken:
   - Arabic (including Lebanese dialect) in Arabic script, keeping dialect words and spelling as pronounced (e.g. "شو", "هيك", "كتير", "بدّك") — do NOT convert to Modern Standard Arabic and do NOT correct grammar.
-  - English and French in Latin script.
+  - English and French in Latin script — including single English/French words dropped inside an Arabic sentence (e.g. "fer", "lisse", "brushing", "volume", "styling", "blowout"): never transliterate them into Arabic letters.
   - Keep code-switching exactly where it happens, mid-sentence included (e.g. "هيدا الـ brush بيعمل blowout بـ ten minutes").
   - Brand / product names in Latin script as the brand writes them (WavyTalk, Blowout Boost, Whirlwind Curl...).
 - Tag each segment with its language: "ar" (Arabic, any dialect), "en", "fr", or "mixed" when one segment mixes languages.
