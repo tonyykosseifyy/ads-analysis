@@ -134,8 +134,9 @@ def analyze_all(settings: Settings, meta: MetaClient, store: Store, ads: list[di
             log.info("would watch %s  ($%.2f)", k, spend_by_key.get(k, 0))
         return stats
 
-    from .gemini import GeminiAnalyzer
+    from .gemini import GeminiAnalyzer, ModelUnavailable
     settings.require("gemini_api_key")
+    unavailable: set[str] = set()
     analyzers = {m: GeminiAnalyzer(settings.gemini_api_key, m) for m in models}
     started = time.time()
     settings.work_dir.mkdir(parents=True, exist_ok=True)
@@ -156,8 +157,16 @@ def analyze_all(settings: Settings, meta: MetaClient, store: Store, ads: list[di
                     return "duplicates"
             errors = []
             for model, analyzer in analyzers.items():
+                if model in unavailable:
+                    errors.append(f"{model}: not available on this API key's plan")
+                    continue
                 try:  # each model on its own, so one model being unavailable doesn't block the others
                     result = analyzer.analyze(path, context=_context(key, ads))
+                except ModelUnavailable as e:
+                    log.warning("%s — skipping it for the rest of this run", e)
+                    unavailable.add(model)
+                    errors.append(f"{model}: {e}")
+                    continue
                 except Exception as e:  # noqa: BLE001
                     log.warning("%s failed on %s: %s", model, key, e)
                     errors.append(f"{model}: {e}")

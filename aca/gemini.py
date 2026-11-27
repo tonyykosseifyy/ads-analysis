@@ -17,6 +17,10 @@ class GeminiError(RuntimeError):
     pass
 
 
+class ModelUnavailable(GeminiError):
+    """The API key's plan has no quota at all for this model (e.g. flagship on the free tier)."""
+
+
 class GeminiAnalyzer:
     def __init__(self, api_key: str, model: str, client=None):
         if client is None:
@@ -33,7 +37,8 @@ class GeminiAnalyzer:
             uploaded = self._wait_active(uploaded)
             prompt = self.prompt + (f"\n\n## Context from the ad account (not visible in the asset)\n{context}" if context else "")
             last_err: Exception | None = None
-            for attempt in range(4):
+            attempt = rate_limited = 0
+            while attempt < 4 and rate_limited < 8:
                 use_schema = attempt < 2  # if the schema itself is rejected, fall back to prompt-only JSON
                 try:
                     text = self._generate(uploaded, prompt, use_schema)
@@ -44,8 +49,17 @@ class GeminiAnalyzer:
                     return result
                 except Exception as e:  # noqa: BLE001 - retry any API/parse failure
                     last_err = e
-                    wait = 10 * (attempt + 1)
-                    log.warning("Gemini attempt %s failed for %s: %s (retry in %ss)", attempt + 1, path.name, e, wait)
+                    msg = str(e)
+                    if "limit: 0" in msg:  # the key's plan doesn't include this model: retrying can't help
+                        raise ModelUnavailable(f"{self.model} is not available on this API key's plan") from e
+                    if "429" in msg or "RESOURCE_EXHAUSTED" in msg:
+                        rate_limited += 1  # rate limits don't use up the normal attempts
+                        wait = _retry_delay(msg) or 30
+                    else:
+                        attempt += 1
+                        wait = 10 * attempt
+                    log.warning("Gemini %s for %s: %s (retry in %ss)", "rate-limited" if "429" in msg else "failed",
+                                path.name, msg[:160], wait)
                     time.sleep(wait)
             raise GeminiError(f"Gemini failed for {path.name}: {last_err}")
         finally:
@@ -78,6 +92,13 @@ class GeminiAnalyzer:
         if not getattr(resp, "text", None):
             raise GeminiError(f"Empty response (finish reason: {_finish_reason(resp)})")
         return resp.text
+
+
+def _retry_delay(msg: str) -> float | None:
+    """Google's 429s say how long to wait, e.g. "'retryDelay': '37s'" or "Please retry in 36.8s"."""
+    import re
+    m = re.search(r"retryDelay'?:\s*'?(\d+(?:\.\d+)?)s", msg) or re.search(r"retry in (\d+(?:\.\d+)?)s", msg)
+    return min(120.0, float(m.group(1)) + 1) if m else None
 
 
 def _state(f) -> str:

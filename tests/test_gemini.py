@@ -72,3 +72,24 @@ def test_incomplete_json_is_rejected_and_file_still_deleted(tmp_path):
     with pytest.raises(g.GeminiError):
         a.analyze(f)
     assert client.files.deleted == ["files/abc"]
+
+
+def test_model_with_zero_quota_fails_fast(tmp_path):
+    a, client = make([RuntimeError("429 RESOURCE_EXHAUSTED ... limit: 0, model: gemini-4-argon")])
+    f = tmp_path / "v.mp4"
+    f.write_bytes(b"x")
+    with pytest.raises(g.ModelUnavailable):
+        a.analyze(f)
+    assert len(client.models.configs) == 1
+
+
+def test_rate_limits_wait_the_suggested_delay_without_using_attempts(tmp_path, monkeypatch):
+    waits = []
+    monkeypatch.setattr(g.time, "sleep", lambda s: waits.append(s))
+    rl = RuntimeError("429 RESOURCE_EXHAUSTED limit: 5 ... 'retryDelay': '37s'")
+    a, client = make([rl, rl, rl, rl, rl, json.dumps(SAMPLE)])
+    f = tmp_path / "v.mp4"
+    f.write_bytes(b"x")
+    assert a.analyze(f)["asset_type"] == "video"
+    assert 38.0 in waits
+    assert client.models.configs[-1].response_json_schema is not None  # still on the first real attempt
