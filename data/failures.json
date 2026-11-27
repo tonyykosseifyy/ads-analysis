@@ -1,0 +1,52 @@
+{
+ "v_1011665428356906": {
+  "attempts": 1,
+  "last_at": "2026-11-27T12:03:34+00:00",
+  "reason": "gemini-4-argon: Gemini failed for v_1011665428356906.mp4: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-4-argon, description:"
+ },
+ "v_1435857191698782": {
+  "attempts": 1,
+  "last_at": "2026-11-27T12:06:04+00:00",
+  "reason": "gemini-4-argon: Gemini failed for v_1435857191698782.mp4: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-4-argon, des"
+ },
+ "v_1514336283399725": {
+  "attempts": 1,
+  "last_at": "2026-11-27T12:02:38+00:00",
+  "reason": "gemini-4-argon: Gemini failed for v_1514336283399725.mp4: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-4-argon, des"
+ },
+ "v_1604922577907296": {
+  "attempts": 1,
+  "last_at": "2026-11-27T12:13:25+00:00",
+  "reason": "gemini-4-argon: Gemini failed for v_1604922577907296.mp4: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-4-argon, des"
+ },
+ "v_2011594469562119": {
+  "attempts": 1,
+  "last_at": "2026-11-27T12:07:16+00:00",
+  "reason": "gemini-4-argon: Gemini failed for v_2011594469562119.mp4: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-4-argon, des"
+ },
+ "v_2149539462492911": {
+  "attempts": 1,
+  "last_at": "2026-11-27T12:13:15+00:00",
+  "reason": "gemini-4-argon: Gemini failed for v_2149539462492911.mp4: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-4-argon, des"
+ },
+ "v_2471976273244905": {
+  "attempts": 1,
+  "last_at": "2026-11-27T12:03:43+00:00",
+  "reason": "gemini-4-argon: Gemini failed for v_2471976273244905.mp4: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-4-argon, des"
+ },
+ "v_928674400010108": {
+  "attempts": 1,
+  "last_at": "2026-11-27T12:12:08+00:00",
+  "reason": "gemini-4-argon: Gemini failed for v_928674400010108.mp4: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-4-argon, description: "
+ },
+ "v_936132575523941": {
+  "attempts": 1,
+  "last_at": "2026-11-27T12:02:43+00:00",
+  "reason": "gemini-4-argon: Gemini failed for v_936132575523941.mp4: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-4-argon, desc"
+ },
+ "v_971332045441807": {
+  "attempts": 1,
+  "last_at": "2026-11-27T12:02:19+00:00",
+  "reason": "gemini-4-argon: Gemini failed for v_971332045441807.mp4: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-4-argon, desc"
+ }
+}
