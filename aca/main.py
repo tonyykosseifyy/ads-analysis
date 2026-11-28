@@ -80,7 +80,12 @@ def download_media(meta: MetaClient, ref: MediaRef, work: Path) -> tuple[Path, d
                 v = meta.video_info(vid)
             except MetaError as e:
                 info.setdefault("errors", []).append(f"{vid}: {e}")
-                continue
+                v = {}
+            if not v.get("source") and hasattr(meta, "video_info_as_page"):
+                # Page videos: Meta gives the file link only to the Page's own token
+                v = meta.video_info_as_page(vid) or v
+                if not v.get("source") and not any(e.startswith(f"{vid}:") for e in info.get("errors", [])):
+                    info.setdefault("errors", []).append(f"{vid}: no file link (not owned by our Pages or ad account)")
             if v.get("source"):
                 info.update(video_id=vid, length_s=v.get("length"), permalink=v.get("permalink_url"))
                 dest = work / f"{slug(ref.key)}.mp4"

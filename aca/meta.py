@@ -57,6 +57,8 @@ class MetaClient:
         self._strikes = 0
         self._videos: dict[str, tuple[float, dict]] = {}
         self._images: dict[str, str] = {}
+        self._page_lock = threading.Lock()
+        self._page_tokens: list[str] | None = None
 
     # ---- low level -------------------------------------------------------
     RATE_LIMIT_CODES = (4, 17, 32, 613, 80000, 80001, 80002, 80003, 80004, 80005, 80006, 80008, 80009, 80014)
@@ -93,7 +95,7 @@ class MetaClient:
         url = path_or_url if path_or_url.startswith("http") else f"{self.s.graph_base}/{path_or_url.lstrip('/')}"
         params = dict(params or {})
         if "access_token=" not in url:
-            params["access_token"] = self.s.meta_access_token
+            params.setdefault("access_token", self.s.meta_access_token)
         attempt = limited = 0
         while attempt < retries and limited < 12:
             self._wait_if_blocked()
@@ -259,6 +261,32 @@ class MetaClient:
         v = self.get(video_id, fields=self.VIDEO_FIELDS)
         self._videos[video_id] = (time.time(), v)
         return v
+
+    def page_tokens(self) -> list[str]:
+        """Access tokens of the Pages this system user manages (needs pages_show_list). Meta only hands out a
+        Page video's file link to the Page itself, not to the business token."""
+        with self._page_lock:
+            if self._page_tokens is None:
+                try:
+                    rows = list(self.paginate("me/accounts", fields="id,name,access_token", limit=100))
+                    self._page_tokens = [r["access_token"] for r in rows if r.get("access_token")]
+                    log.info("Page tokens available for: %s", ", ".join(r.get("name", r["id"]) for r in rows) or "none")
+                except MetaError as e:
+                    log.warning("Could not get Page tokens (%s); Page-owned videos can't be downloaded", e)
+                    self._page_tokens = []
+            return self._page_tokens
+
+    def video_info_as_page(self, video_id: str) -> dict:
+        """The video's details asked as each of our Pages in turn; {} if none of them owns it."""
+        for tok in self.page_tokens():
+            try:
+                v = self._request("GET", video_id, {"fields": self.VIDEO_FIELDS, "access_token": tok})
+            except MetaError:
+                continue
+            if v.get("source"):
+                self._videos[video_id] = (time.time(), v)
+                return v
+        return {}
 
     def image_urls(self, hashes: list[str]) -> dict[str, str]:
         out = {h: self._images[h] for h in hashes if self._images.get(h)}

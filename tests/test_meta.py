@@ -147,3 +147,16 @@ def test_prefetch_lists_account_videos_and_images_so_no_per_file_calls(clock):
     clock.now += 46 * 60  # file links expire: an old entry is fetched again
     sess.script.append((lambda me, u, p: u.endswith("/v1"), Resp(200, {"id": "v1", "source": "https://cdn/v1b.mp4"})))
     assert c.video_info("v1")["source"] == "https://cdn/v1b.mp4"
+
+
+def test_page_video_file_link_comes_from_the_page_token(clock):
+    c, sess = client([
+        (lambda me, u, p: u.endswith("/me/accounts"),
+         Resp(200, {"data": [{"id": "P1", "name": "Wavytalk Lb", "access_token": "PAGETOKEN"}]})),
+        (lambda me, u, p: u.endswith("/777") and p.get("access_token") == "PAGETOKEN",
+         Resp(200, {"id": "777", "source": "https://cdn/777.mp4"})),
+        (lambda me, u, p: u.endswith("/777"), Resp(200, {"id": "777"})),  # business token: no file link
+    ])
+    assert "source" not in c.video_info("777")
+    assert c.video_info_as_page("777")["source"] == "https://cdn/777.mp4"
+    assert c.video_info("777")["source"] == "https://cdn/777.mp4"  # cached for the download
