@@ -148,6 +148,16 @@ def test_failed_assets_stop_after_three_attempts(env):
     assert stats["queued"] == 0
 
 
+def test_retry_failed_watches_only_failed_assets_even_past_the_retry_limit(env):
+    meta = FakeMeta()
+    for _ in range(3):
+        run(env, meta)
+    store = Store(env.data_dir)
+    _, _, _, stats = run(env, meta, only_keys=set(store.failures))
+    assert stats["queued"] == 1  # only the failed placement video, though it already used its 3 attempts
+    assert stats["analysed"] == 0 and stats["failed"] == 1
+
+
 def test_min_spend_and_max_media(env):
     env.min_spend = 45
     _, _, _, stats = run(env, FakeMeta(), dry_run=True)

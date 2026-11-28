@@ -6,9 +6,9 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "run = watch new ads + refresh | pilot = compare models on the ad ids below | dry-run = list only | metrics-only"
+        description: "run = watch new ads + refresh | retry-failed = only the assets that failed before | pilot = compare models on the ad ids below | dry-run = list only | metrics-only"
         type: choice
-        options: [run, pilot, dry-run, metrics-only]
+        options: [run, retry-failed, pilot, dry-run, metrics-only]
         default: run
       ad_ids:
         description: "Pilot / limited run: comma-separated ad ids"
@@ -80,6 +80,7 @@ jobs:
             pilot)        ARGS+=(--pilot --ad-ids "${{ inputs.ad_ids }}" --models "${{ inputs.models }}") ;;
             dry-run)      ARGS+=(--dry-run) ;;
             metrics-only) ARGS+=(--metrics-only) ;;
+            retry-failed) ARGS+=(--retry-failed) ;;
           esac
           python -m aca.main "${ARGS[@]}"
 

@@ -134,7 +134,9 @@ def _budget(settings: Settings):
 
 
 def analyze_all(settings: Settings, meta: MetaClient, store: Store, ads: list[dict], media: dict[str, MediaRef],
-                models: list[str], fresh: bool = False, dry_run: bool = False, budget=None) -> dict:
+                models: list[str], fresh: bool = False, dry_run: bool = False, budget=None,
+                only_keys: set[str] | None = None) -> dict:
+    """only_keys: watch just these assets (e.g. the ones that failed before), even past their retry limit."""
     spend_by_key: dict[str, float] = {}
     for ad in ads:
         for k in ad["media_keys"]:
@@ -143,7 +145,8 @@ def analyze_all(settings: Settings, meta: MetaClient, store: Store, ads: list[di
     todo = [k for k in sorted(media, key=lambda k: -spend_by_key.get(k, 0))
             if spend_by_key.get(k, 0) >= settings.min_spend
             and (fresh or not store.is_done(k))
-            and (fresh or not store.should_skip_failed(k))]
+            and (fresh or only_keys is not None or not store.should_skip_failed(k))
+            and (only_keys is None or k in only_keys)]
     if settings.max_media:
         todo = todo[: settings.max_media]
     stats = {"queued": len(todo), "analysed": 0, "duplicates": 0, "failed": 0, "stopped_for_time": 0}
@@ -374,6 +377,8 @@ def main(argv: list[str] | None = None) -> None:
     p.add_argument("--pilot", action="store_true", help="re-watch the given ads with each model into data/pilot/")
     p.add_argument("--dry-run", action="store_true")
     p.add_argument("--metrics-only", action="store_true")
+    p.add_argument("--retry-failed", action="store_true",
+                   help="watch only the assets that failed before (e.g. after fixing token permissions)")
     p.add_argument("--max-media", type=int, default=None)
     p.add_argument("--min-spend", type=float, default=None)
     args = p.parse_args(argv)
@@ -389,7 +394,8 @@ def main(argv: list[str] | None = None) -> None:
     if args.pilot and not only:
         raise SystemExit("--pilot needs --ad-ids")
 
-    run = {"started_at": now_iso(), "mode": "pilot" if args.pilot else ("metrics" if args.metrics_only else "run"),
+    run = {"started_at": now_iso(), "mode": "pilot" if args.pilot else ("metrics" if args.metrics_only else
+                                                        ("retry-failed" if args.retry_failed else "run")),
            "models": ",".join(models)}
     meta = MetaClient(s)
     store = Store(s.data_dir)
@@ -413,7 +419,10 @@ def main(argv: list[str] | None = None) -> None:
         return
 
     if not args.metrics_only:
-        stats = analyze_all(s, meta, store, ads, media, models, dry_run=args.dry_run)
+        retry = set(store.failures) if args.retry_failed else None
+        if retry is not None:
+            log.info("Retrying only the %s assets that failed before", len(retry))
+        stats = analyze_all(s, meta, store, ads, media, models, dry_run=args.dry_run, only_keys=retry)
         stats.pop("pilot_stores", None)
         run.update(stats)
     if only:
