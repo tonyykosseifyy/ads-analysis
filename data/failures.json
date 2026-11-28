@@ -1,332 +1,332 @@
 {
  "ig_17920017153222621": {
-  "attempts": 3,
-  "last_at": "2026-11-28T08:12:24+00:00",
+  "attempts": 4,
+  "last_at": "2026-11-28T10:10:48+00:00",
   "reason": "Instagram fallback 17920017153222621 failed (400 Unsupported get request. Object with ID '17920017153222621' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "ig_18136788616708011": {
-  "attempts": 3,
-  "last_at": "2026-11-28T08:12:24+00:00",
+  "attempts": 4,
+  "last_at": "2026-11-28T10:10:48+00:00",
   "reason": "Instagram fallback 18136788616708011 failed (400 Unsupported get request. Object with ID '18136788616708011' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1002423502847478": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 17897007219570448 failed (400 Unsupported get request. Object with ID '17897007219570448' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1025222996697466": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 17966978940113704 failed (400 Unsupported get request. Object with ID '17966978940113704' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1054985010602803": {
-  "attempts": 3,
-  "last_at": "2026-11-28T08:12:24+00:00",
+  "attempts": 4,
+  "last_at": "2026-11-28T10:10:48+00:00",
   "reason": "Instagram fallback 17911377606445520 failed (400 Unsupported get request. Object with ID '17911377606445520' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: 1054985010602803: 400 (#283) This endpoint requires the 'pages_read_engagement' permission or the 'Page Public Content Access' feature. Refer to https://developers.facebook.com/docs/apps/r"
  },
  "v_1056551426823092": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 18113148575512319 failed (400 Unsupported get request. Object with ID '18113148575512319' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1062667836278910": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 18105775252872736 failed (400 Unsupported get request. Object with ID '18105775252872736' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1119626354061481": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 18114284104956545 failed (400 Unsupported get request. Object with ID '18114284104956545' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1122236116902323": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 17911377606445520 failed (400 Unsupported get request. Object with ID '17911377606445520' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: 1122236116902323: 400 (#283) This endpoint requires the 'pages_read_engagement' permission or the 'Page Public Content Access' feature. Refer to https://developers.facebook.com/docs/apps/r"
  },
  "v_1155230753457151": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 17900949132283267 failed (400 Unsupported get request. Object with ID '17900949132283267' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1241434844567802": {
-  "attempts": 3,
-  "last_at": "2026-11-28T08:12:24+00:00",
+  "attempts": 4,
+  "last_at": "2026-11-28T10:10:48+00:00",
   "reason": "Instagram fallback 17906204775292732 failed (400 Unsupported get request. Object with ID '17906204775292732' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: 1241434844567802: 400 (#283) This endpoint requires the 'pages_read_engagement' permission or the 'Page Public Content Access' feature. Refer to https://developers.facebook.com/docs/apps/r"
  },
  "v_1312791690183291": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 18131541634561649 failed (400 Unsupported get request. Object with ID '18131541634561649' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1322121663458614": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 18088425478800841 failed (400 Unsupported get request. Object with ID '18088425478800841' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1353010220093006": {
-  "attempts": 3,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 4,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 18088043342417039 failed (400 Unsupported get request. Object with ID '18088043342417039' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: 1353010220093006: 400 (#10) Application does not have permission for this action"
  },
  "v_1358727479727108": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 18013426868731179 failed (400 Unsupported get request. Object with ID '18013426868731179' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1376083620609762": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 18109805186017378 failed (400 Unsupported get request. Object with ID '18109805186017378' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1384858640094259": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 18170284843419531 failed (400 Unsupported get request. Object with ID '18170284843419531' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1406781844902723": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 17931685719367016 failed (400 Unsupported get request. Object with ID '17931685719367016' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1416592957097191": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:48+00:00",
   "reason": "Instagram fallback 18124200817836898 failed (400 Unsupported get request. Object with ID '18124200817836898' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: 1416592957097191: 400 (#283) This endpoint requires the 'pages_read_engagement' permission or the 'Page Public Content Access' feature. Refer to https://developers.facebook.com/docs/apps/r"
  },
  "v_1418520736106666": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 17888093145325720 failed (400 Unsupported get request. Object with ID '17888093145325720' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1425824026253793": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 18533444629076718 failed (400 Unsupported get request. Object with ID '18533444629076718' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1426747372375081": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 17962061250213952 failed (400 Unsupported get request. Object with ID '17962061250213952' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1438117741572811": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 17878762377528561 failed (400 Unsupported get request. Object with ID '17878762377528561' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1459454192686295": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 17972670533938207 failed (400 Unsupported get request. Object with ID '17972670533938207' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1461293495502564": {
-  "attempts": 3,
-  "last_at": "2026-11-28T08:12:24+00:00",
+  "attempts": 4,
+  "last_at": "2026-11-28T10:10:48+00:00",
   "reason": "Instagram fallback 18088425478800841 failed (400 Unsupported get request. Object with ID '18088425478800841' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1470531280892521": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 18391768024089179 failed (400 Unsupported get request. Object with ID '18391768024089179' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1473012924714706": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 17918621085445158 failed (400 Unsupported get request. Object with ID '17918621085445158' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1541731453964566": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 18109911073834358 failed (400 Unsupported get request. Object with ID '18109911073834358' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1558619845772406": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 18115420192895749 failed (400 Unsupported get request. Object with ID '18115420192895749' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1578658553604407": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 18575289346066177 failed (400 Unsupported get request. Object with ID '18575289346066177' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1584199246698052": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 18107073562948796 failed (400 Unsupported get request. Object with ID '18107073562948796' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1624671586105171": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 17913757518288844 failed (400 Unsupported get request. Object with ID '17913757518288844' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1669284621216992": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 18110663744615360 failed (400 Unsupported get request. Object with ID '18110663744615360' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1672643793884848": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 18328974514269603 failed (400 Unsupported get request. Object with ID '18328974514269603' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1692541252542092": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:24+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 18497074117100475 failed (400 Unsupported get request. Object with ID '18497074117100475' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1707756077006963": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 17931685719367016 failed (400 Unsupported get request. Object with ID '17931685719367016' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1726654188408239": {
-  "attempts": 3,
-  "last_at": "2026-11-28T08:12:24+00:00",
+  "attempts": 4,
+  "last_at": "2026-11-28T10:10:48+00:00",
   "reason": "Instagram fallback 17897007219570448 failed (400 Unsupported get request. Object with ID '17897007219570448' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1754921119135737": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 18179066452432550 failed (400 Unsupported get request. Object with ID '18179066452432550' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1933738867245307": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 18161709778423293 failed (400 Unsupported get request. Object with ID '18161709778423293' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_1990415511601249": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 18127748683640127 failed (400 Unsupported get request. Object with ID '18127748683640127' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: 1990415511601249: 400 (#283) This endpoint requires the 'pages_read_engagement' permission or the 'Page Public Content Access' feature. Refer to https://developers.facebook.com/docs/apps/r"
  },
  "v_2023760608483149": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 18384484426090177 failed (400 Unsupported get request. Object with ID '18384484426090177' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_2031970907528644": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 18115259020694039 failed (400 Unsupported get request. Object with ID '18115259020694039' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_2087505125465346": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 18040660934639346 failed (400 Unsupported get request. Object with ID '18040660934639346' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_2091985394951164": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 18105450802726072 failed (400 Unsupported get request. Object with ID '18105450802726072' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_2107496003466717": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 18196636120376937 failed (400 Unsupported get request. Object with ID '18196636120376937' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_2137548136807634": {
-  "attempts": 3,
-  "last_at": "2026-11-28T08:12:24+00:00",
+  "attempts": 4,
+  "last_at": "2026-11-28T10:10:48+00:00",
   "reason": "Instagram fallback 18105547661287920 failed (400 Unsupported get request. Object with ID '18105547661287920' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: 2137548136807634: 400 (#10) Application does not have permission for this action"
  },
  "v_2189215228581644": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 18088528919346913 failed (400 Unsupported get request. Object with ID '18088528919346913' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_2212923229504690": {
-  "attempts": 3,
-  "last_at": "2026-11-28T08:12:24+00:00",
+  "attempts": 4,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 18088785992437823 failed (400 Unsupported get request. Object with ID '18088785992437823' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_2251602518989428": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 18120827803635822 failed (400 Unsupported get request. Object with ID '18120827803635822' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_2284083215713642": {
-  "attempts": 3,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 4,
+  "last_at": "2026-11-28T10:10:48+00:00",
   "reason": "Instagram fallback 17972670533938207 failed (400 Unsupported get request. Object with ID '17972670533938207' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_25411085438545626": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:24+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 18088425478800841 failed (400 Unsupported get request. Object with ID '18088425478800841' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_2545706415882285": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 18088425478800841 failed (400 Unsupported get request. Object with ID '18088425478800841' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_27275813975392891": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 18074088074420175 failed (400 Unsupported get request. Object with ID '18074088074420175' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_29141571328867319": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 17958811230254083 failed (400 Unsupported get request. Object with ID '17958811230254083' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_3058352717838238": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 18122261458890911 failed (400 Unsupported get request. Object with ID '18122261458890911' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_35989750304002745": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 18086800658454685 failed (400 Unsupported get request. Object with ID '18086800658454685' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_36554268877553466": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:51+00:00",
   "reason": "video file not available to this token: "
  },
  "v_3676247799180361": {
-  "attempts": 3,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 4,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 18088043342417039 failed (400 Unsupported get request. Object with ID '18088043342417039' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: 3676247799180361: 400 (#10) Application does not have permission for this action"
  },
  "v_4009838039324794": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 18078313916347943 failed (400 Unsupported get request. Object with ID '18078313916347943' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: 4009838039324794: 400 (#10) Application does not have permission for this action"
  },
  "v_4127596257382471": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 18105672317190320 failed (400 Unsupported get request. Object with ID '18105672317190320' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_4450965471793977": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 18027581075666874 failed (400 Unsupported get request. Object with ID '18027581075666874' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_683431291261226": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 18163098259376412 failed (400 Unsupported get request. Object with ID '18163098259376412' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_850410100948002": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:50+00:00",
   "reason": "Instagram fallback 18139698253538243 failed (400 Unsupported get request. Object with ID '18139698253538243' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_859587909924845": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 18069554924367460 failed (400 Unsupported get request. Object with ID '18069554924367460' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_939111832443203": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 18084216005154612 failed (400 Unsupported get request. Object with ID '18084216005154612' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  },
  "v_984086394359005": {
-  "attempts": 2,
-  "last_at": "2026-11-28T08:12:25+00:00",
+  "attempts": 3,
+  "last_at": "2026-11-28T10:10:49+00:00",
   "reason": "Instagram fallback 18109611613917510 failed (400 Unsupported get request. Object with ID '18109611613917510' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api); video errors: "
  }
 }
