@@ -1,0 +1,180 @@
+{
+ "media_key": "v_27275813975392891",
+ "analyzed_at": "2026-11-28T10:23:00+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "26d714019e237642806b9064cc46274e18044a958d8afb564338f42dc2138390",
+ "source": {
+  "kind": "video",
+  "id": "27275813975392891",
+  "video_id": "27275813975392891",
+  "length_s": 19.5,
+  "permalink": "/122156392911058569/videos/27275813975392891"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 19.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A studio demonstration showing three different styling options—tight curls, beachy waves, and sleek straight hair—using an Airflow Styler.",
+  "full_description": "In a clean studio setup with a solid lilac/purple backdrop and white table, a woman demonstrates 3 versatile hair styling techniques using a pink Airflow Styler. She first shows how to create tight curls by twisting and gliding downward. Next, she demonstrates creating loose beachy waves on another hair section. Finally, she demonstrates using the tool as a straightener for a sleek finish.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.9,
+    "text": "3 ways to use our Airflow Styler:",
+    "role": "hook"
+   },
+   {
+    "start_s": 1.9,
+    "end_s": 5.3,
+    "text": "1. Tight curls 🌀",
+    "role": "benefit"
+   },
+   {
+    "start_s": 5.3,
+    "end_s": 13.0,
+    "text": "2. Beachy waves 🌊",
+    "role": "benefit"
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 19.5,
+    "text": "3. Sleek, straighten 🪄",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.9,
+    "shot_type": "medium shot",
+    "visual": "A young woman sitting at a white desk against a solid purple studio backdrop holding a pink airflow styling tool clamped on her hair strand.",
+    "action": "She smiles into the camera while preparing to twist the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.9,
+    "end_s": 5.3,
+    "shot_type": "medium shot",
+    "visual": "Woman demonstrating tight curls technique.",
+    "action": "She rotates the styler vertically and slowly glides down, releasing a defined spiral curl and checking it sideways.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.3,
+    "end_s": 13.0,
+    "shot_type": "medium shot",
+    "visual": "Woman demonstrating beachy waves technique.",
+    "action": "She clamps another hair section, rotates horizontally and glides down, creating a soft beachy wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 19.5,
+    "shot_type": "medium shot",
+    "visual": "Woman demonstrating hair straightening technique.",
+    "action": "She clamps near the roots and glides straight down without twisting to leave the strand flat and sleek, then poses smiling.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Model in a black top holding the pink Airflow Styler against a purple background with the text '3 ways to use our Airflow Styler:'.",
+   "visual_0_3s": "Model holds the hair tool clamped into her hair and prepares to curl as the text outlines the 3-in-1 styling promise.",
+   "spoken_0_3s": "",
+   "text_0_3s": "3 ways to use our Airflow Styler:",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "product_reveal",
+   "pattern_interrupt": "Clean studio aesthetic with contrasting lavender background and immediate multi-use demonstration."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Hook: Promise of 3 styling methods using one tool",
+    "Technique 1: Demonstration of creating tight curls",
+    "Technique 2: Demonstration of creating beachy waves",
+    "Technique 3: Demonstration of sleek straightening"
+   ],
+   "main_angle": "replaces_multiple_tools",
+   "secondary_angles": [
+    "easy_for_beginners",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "One Airflow Styler can achieve tight curls, beachy waves, and sleek straight hair."
+   ],
+   "pain_points": [
+    "Needing multiple bulky tools to achieve different hairstyles."
+   ],
+   "objections_handled": [
+    "Can it straighten as well as curl? (Demonstrated it straightens seamlessly)."
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Airflow Styler"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 4.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "model",
+   "name_if_shown": "",
+   "age_range": "20-30",
+   "hair_before": "Straight blonde ombré hair",
+   "hair_after": "Sections styled in tight curls, beachy waves, and sleek straight",
+   "setting": "Purple studio background with white table",
+   "faces_camera": true,
+   "energy_tone": "Calm, chic, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Female vocal R&B/pop song with lyrics ('If the time is right, I know we could ride out boy, in another life...').",
+   "captions_burned_in": false,
+   "production_style": "professional_studio",
+   "cut_count": 2,
+   "avg_shot_length_s": 6.5,
+   "pacing": "medium",
+   "effects": [
+    "On-screen numbered text overlays",
+    "Jump cuts between hairstyles"
+   ],
+   "ending": "Model finishes gliding the tool down a straightened hair strand and turns her head to smile off-camera."
+  },
+  "notes": "Short-form silent demonstration video emphasizing product versatility across curling, waving, and straightening."
+ }
+}

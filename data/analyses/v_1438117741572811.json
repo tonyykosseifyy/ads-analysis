@@ -1,0 +1,132 @@
+{
+ "media_key": "v_1438117741572811",
+ "analyzed_at": "2026-11-28T10:23:07+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "07ba1c46e433f3e34dfeefa5a9d0581e50161af3f4811c2779ab4963f3730bb6",
+ "source": {
+  "kind": "video",
+  "id": "1438117741572811",
+  "video_id": "1438117741572811",
+  "length_s": 19.7,
+  "permalink": "/122156392911058569/videos/1438117741572811"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 19.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates styling voluminous curtain bangs using a pink thermal round brush and models the bouncy blowout result.",
+  "full_description": "The video opens with a creator in a striped pajama shirt holding a pink heated thermal round brush already wound into her front bangs at forehead level. Over the next twelve seconds, she slowly rotates and glides the heated brush through her fringe, unrolling it downwards. Once the hair is released, she sets the tool down and uses her fingers to part, shape, and fluff her face-framing curtain bangs. She then checks her bouncy, voluminous blowout hair, touching the curls and posing confidently toward the camera set to background music.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 12.5,
+    "shot_type": "medium close-up",
+    "visual": "A young woman facing the camera with her auburn hair curled, holding a pink thermal round brush rolled into her bangs.",
+    "action": "She slowly rolls and pulls the heated round brush through her front fringe down across her face until the hair slips free.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.5,
+    "end_s": 19.5,
+    "shot_type": "medium close-up",
+    "visual": "The woman with her bangs released, standing in her bedroom setting with soft lighting.",
+    "action": "She fluffs and parts her curtain bangs with her fingers, tossing her hair slightly, checking her finished look and posing.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding a pink thermal brush wrapped around her front fringe across her forehead.",
+   "visual_0_3s": "Creator looks directly at camera holding the heated round brush tightly rolled in her bangs before slowly unrolling it.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "The tool is already coiled directly around her bangs on the very first frame, inviting anticipation of the curl release."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Visual hook: Heated thermal brush wrapped in front fringe",
+    "Demonstration of gliding the brush through bangs to create curtain shape",
+    "Final reveal: Fluffing and shaping the curtain bangs to frame the face",
+    "Satisfied posing with the completed bouncy blowout"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Creates smooth, bouncy curtain bangs effortlessly"
+   ],
+   "pain_points": [
+    "Flat bangs that are difficult to shape without a salon blowout"
+   ],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 12.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Chestnut brown/auburn hair already curled into a blowout, with front bangs pinned/rolled around the thermal brush.",
+   "hair_after": "Voluminous, face-framing curtain bangs with bouncy, polished salon-quality waves.",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "aesthetic, relaxed, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Slowed R&B/pop female vocal track ('Hate that I made you love me...').",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 0,
+   "avg_shot_length_s": 19.5,
+   "pacing": "slow",
+   "effects": [],
+   "ending": "Creator playfully winks and gestures to her hair while posing for the camera."
+  },
+  "notes": "Single continuous take video demonstration focusing specifically on styling the front curtain bangs using a thermal styling brush."
+ }
+}

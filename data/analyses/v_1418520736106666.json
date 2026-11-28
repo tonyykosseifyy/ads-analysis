@@ -1,0 +1,229 @@
+{
+ "media_key": "v_1418520736106666",
+ "analyzed_at": "2026-11-28T10:23:40+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "fb19d7bbf10c3a59370cac99611feba6b5c27e3cc15e731b1dedd8be0872f767",
+ "source": {
+  "kind": "video",
+  "id": "1418520736106666",
+  "video_id": "1418520736106666",
+  "length_s": 37.741,
+  "permalink": "/122156392911058569/videos/1418520736106666"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 37.38,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates how to create bouncy waves using the Wavytalk Blowout Boost thermal round brush.",
+  "full_description": "A Lebanese creator with voluminous brunette hair demonstrates how to style waves using the pink Wavytalk Blowout Boost thermal brush. She isolates a straight strand of hair, wraps it around the heated round barrel, rolls up, twists it down smoothly to reveal a defined bouncy curl, and praises the tool's volume and versatility.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 65,
+    "en": 35,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Guys، بدي فرجيكن كيف فيكن يطلعلكن هيدول الـ waves",
+    "text_english": "Guys, I want to show you how you can get these waves"
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 6.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "كمان بالـ Wavytalk Blowout Boost.",
+    "text_english": "also with the Wavytalk Blowout Boost."
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 9.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "باخد هيدي الـ straight section،",
+    "text_english": "I take this straight section,"
+   },
+   {
+    "start_s": 9.2,
+    "end_s": 13.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "باخد الخصلة بحطها هيك، بوطيها علآخر،",
+    "text_english": "I take the strand, place it like this, bring it down all the way,"
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 15.6,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "برجع بطلع،",
+    "text_english": "then roll back up,"
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 25.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بعدين بفتح من هون و I twist و I twist كل الوقت.",
+    "text_english": "then I release from here and I twist and I twist all the way."
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 30.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "ليكوا قديه الـ curl بيطلع elegant!",
+    "text_english": "Look at how elegant the curl turns out!"
+   },
+   {
+    "start_s": 30.8,
+    "end_s": 34.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Obsessed! لأنه كمان بيعطينا volume كتير حلو، بيعطينا shape تاني.",
+    "text_english": "Obsessed! Because it also gives us really nice volume, gives a different shape."
+   },
+   {
+    "start_s": 34.8,
+    "end_s": 37.38,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This brush can do it all!",
+    "text_english": "This brush can do it all!"
+   }
+  ],
+  "transcript_full_original": "Guys، بدي فرجيكن كيف فيكن يطلعلكن هيدول الـ waves كمان بالـ Wavytalk Blowout Boost. باخد هيدي الـ straight section، باخد الخصلة بحطها هيك، بوطيها علآخر، برجع بطلع، بعدين بفتح من هون و I twist و I twist كل الوقت. ليكوا قديه الـ curl بيطلع elegant! Obsessed! لأنه كمان بيعطينا volume كتير حلو، بيعطينا shape تاني. This brush can do it all!",
+  "transcript_full_english": "Guys, I want to show you how you can get these waves also with the Wavytalk Blowout Boost. I take this straight section, I take the strand, place it like this, bring it down all the way, then roll back up, then I release from here and I twist and I twist all the way. Look at how elegant the curl turns out! Obsessed! Because it also gives us really nice volume, gives a different shape. This brush can do it all!",
+  "word_count": 61,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator faces camera showing her styled wavy hair and pulls the pink Wavytalk tool into frame.",
+    "action": "Creator talks directly to camera and holds up the thermal brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 26.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator grabs an uncurled strand of hair and demonstrates the winding and twisting method with the brush.",
+    "action": "Wraps hair around brush, rolls upward, then twists while gliding downward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 30.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator inspects and holds the freshly curled strand to show the definition.",
+    "action": "Touches and displays the newly curled ringlet.",
+    "product_visible": false
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 37.38,
+    "shot_type": "medium close-up",
+    "visual": "Creator tosses her voluminous hair and holds up the Wavytalk brush next to her face.",
+    "action": "Fluffs hair to showcase volume, points at the thermal brush and delivers final line.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing finished voluminous wave hairstyle.",
+   "visual_0_3s": "Creator touches hair to highlight wave results while speaking.",
+   "spoken_0_3s": "Guys بدي فرجيكن كيف فيكن يطلعلكن هيدول الـ waves",
+   "text_0_3s": "",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Direct casual address displaying finished hairstyle before demonstrating technique."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook displaying final wavy blowout look",
+    "Product reveal and tutorial goal",
+    "Live step-by-step styling technique on one strand",
+    "Result reveal of the curl",
+    "Summary endorsement of volume and versatility"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "easy_for_beginners",
+    "replaces_multiple_tools"
+   ],
+   "key_claims": [
+    "Produces elegant waves and curls",
+    "Delivers noticeable volume",
+    "Versatile all-in-one brush styling"
+   ],
+   "pain_points": [
+    "Difficulty creating curling wand waves with a thermal brush"
+   ],
+   "objections_handled": [
+    "Round brushes are only for straight blowouts"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 4.5,
+   "first_used_on_hair_s": 9.8,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Brunette, straight to wavy textured section",
+   "hair_after": "Voluminous, styled bouncy brunette waves",
+   "setting": "Living room / home interior",
+   "faces_camera": true,
+   "energy_tone": "Enthusiastic and instructional"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No background music, clean natural speech audio.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 3,
+   "avg_shot_length_s": 9.3,
+   "pacing": "medium",
+   "effects": [],
+   "ending": "Creator holds the heated brush facing camera and concludes speaking."
+  },
+  "notes": "Natural single-take style UGC video without on-screen graphic overlays, focusing purely on technique demonstration."
+ }
+}

@@ -1,0 +1,209 @@
+{
+ "media_key": "v_1578658553604407",
+ "analyzed_at": "2026-11-28T10:23:14+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "25ea1cbda3437f66fb7dc6efb83a63170f5aa626547fb4f035f437eb373540a3",
+ "source": {
+  "kind": "video",
+  "id": "1578658553604407",
+  "video_id": "1578658553604407",
+  "length_s": 18.566,
+  "permalink": "/122156392911058569/videos/1578658553604407"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 18.89,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates a blowout hack using a pink thermal round brush and velcro rollers for bouncy salon volume.",
+  "full_description": "The video starts with the end result: a young woman with voluminous, glossy layered hair posing and shaking her blowout. The video cuts to her starting with straight hair, sectioning it, and wrapping sections around a heated pink thermal round brush. She rolls each warm section into velcro rollers to lock in bounce, clips them, brushes her bangs, and sets the front. She shows her full head set in rollers before cutting back to the final bouncy, voluminous blowout results while music plays in the background.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 18.89,
+    "text": "POV: you find a blowout hack thats better than the real thing",
+    "role": "hook"
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 8.7,
+    "text": "✨ VOLUME ✨",
+    "role": "benefit"
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 12.0,
+    "text": "Set with rollers for more volume and longer hold",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "shot_type": "medium close-up",
+    "visual": "Young woman in a bathroom showing off a completed bouncy, layered blowout.",
+    "action": "She looks into the camera, turns sideways, and flips her hair forward and back.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 4.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator preparing her hair with straight base texture.",
+    "action": "She clips the top half of her hair up in a topknot clip.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 7.4,
+    "shot_type": "close-up",
+    "visual": "Heated pink thermal round styling brush.",
+    "action": "Creator wraps a section of bottom hair around the heated barrel and twists it outward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 9.1,
+    "shot_type": "medium close-up",
+    "visual": "Freshly curled section of hair released from the brush.",
+    "action": "She lets go of the warm curled section, revealing a smooth curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.1,
+    "end_s": 11.9,
+    "shot_type": "close-up",
+    "visual": "Velcro roller application.",
+    "action": "She rolls the warm strand into a black velcro roller and secures it with a metal bobby pin.",
+    "product_visible": false
+   },
+   {
+    "start_s": 11.9,
+    "end_s": 14.5,
+    "shot_type": "medium close-up",
+    "visual": "Top section and bangs styling.",
+    "action": "Creator uses the thermal brush to curl bangs forward and rolls them up into a roller.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 16.5,
+    "shot_type": "medium close-up",
+    "visual": "All rollers set in hair.",
+    "action": "Model frames her face with her hands and smiles at the camera with a full head of rollers.",
+    "product_visible": false
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 18.89,
+    "shot_type": "medium close-up",
+    "visual": "Final blowout result revealed.",
+    "action": "She turns around, flips her voluminous bouncy hair, and smiles at the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing the camera showcasing full, glamorous blowout hair with overlay text.",
+   "visual_0_3s": "Creator flaunting finished bouncy layered blowout hair, running fingers through it.",
+   "spoken_0_3s": "",
+   "text_0_3s": "POV: you find a blowout hack thats better than the real thing",
+   "hook_type": "result_first",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Instant visual showcase of salon-quality voluminous hair paired with a bold hack claim."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Result reveal teaser",
+    "Step-by-step curling with thermal heated round brush",
+    "Setting sections in velcro rollers for long-lasting volume",
+    "Full roller set showcase",
+    "Final bouncy blowout result"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Blowout hack that is better than the real thing",
+    "Rollers provide extra volume and longer hold"
+   ],
+   "pain_points": [
+    "Blowouts losing volume quickly",
+    "Traditional round brush and hair dryer blowouts being difficult to coordinate"
+   ],
+   "objections_handled": [
+    "Hold and volume longevity (fixed by setting warm hair in rollers)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional salon blowout / hair dryer blowout"
+  },
+  "product": {
+   "products_shown": [
+    "Thermal round brush"
+   ],
+   "first_seen_s": 4.1,
+   "first_used_on_hair_s": 4.1,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20s",
+   "hair_before": "Medium-long, straight to wavy, light brown/blonde highlighted layered hair",
+   "hair_after": "Voluminous, bouncy layered blowout with flipped ends",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "confident, stylish, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "R&B / hip hop vocal track ('Confident baby...')",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 2.36,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts",
+    "text stickers"
+   ],
+   "ending": "Final hair flip showcasing volume and bounce with a smile."
+  },
+  "notes": "Video relies purely on aesthetic visual proof, music trend, and step-by-step roller hack demonstration without voiceover."
+ }
+}

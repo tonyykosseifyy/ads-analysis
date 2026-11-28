@@ -1,0 +1,216 @@
+{
+ "media_key": "v_939111832443203",
+ "analyzed_at": "2026-11-28T10:22:38+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "3e55dd17272921364eadc8d36403b45aaed77cbde4cdfa1aa7d053148637963e",
+ "source": {
+  "kind": "video",
+  "id": "939111832443203",
+  "video_id": "939111832443203",
+  "length_s": 46.233,
+  "permalink": "/122156392911058569/videos/939111832443203"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 45.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator times her styling routine with the Wavytalk Airflow tool, proving she can curl her entire hair in just 12 minutes.",
+  "full_description": "A young woman shows a tablet displaying the time (12:01 PM) and announces a challenge to see how long it takes to curl her long dark hair using the pink Wavytalk Airflow styler. The video cuts to a musical montage demonstrating her wrapping strands around the tool and pulling through to create bouncy ribbon curls. At 12:13 PM, she shows the tablet screen again, proving it took exactly 12 minutes, and fluffs her bouncy, voluminous finished curls enthusiastically.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 70,
+    "en": 25,
+    "fr": 5
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Okay so guys، شعري منّو معمول",
+    "text_english": "Okay so guys, my hair is not styled"
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 5.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "هلا الساعة 12 ودقيقة",
+    "text_english": "now the time is 12:01"
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 9.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "So بدنا نشوف قدي بدّي وقت كرمال اعمل كل شعري بالـ Wavytalk Airflow.",
+    "text_english": "So we want to see how much time it takes me to do all my hair with the Wavytalk Airflow."
+   },
+   {
+    "start_s": 31.8,
+    "end_s": 34.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "خلصت كل شعري، الساعة douze treize",
+    "text_english": "I finished all my hair, it's 12:13"
+   },
+   {
+    "start_s": 34.5,
+    "end_s": 37.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "حتى فيكن تشوفوا فوق",
+    "text_english": "you can even see it up above"
+   },
+   {
+    "start_s": 37.0,
+    "end_s": 45.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "فا literally it took me twelve minutes تا خلص كل شعري وعملوا curls حلوين كتير.",
+    "text_english": "So literally it took me twelve minutes to finish all my hair and make really pretty curls."
+   }
+  ],
+  "transcript_full_original": "Okay so guys، شعري منّو معمول هلا الساعة 12 ودقيقة So بدنا نشوف قدي بدّي وقت كرمال اعمل كل شعري بالـ Wavytalk Airflow. خلصت كل شعري، الساعة douze treize حتى فيكن تشوفوا فوق فا literally it took me twelve minutes تا خلص كل شعري وعملوا curls حلوين كتير.",
+  "transcript_full_english": "Okay so guys, my hair is not styled, now the time is 12:01. So we want to see how much time it takes me to do all my hair with the Wavytalk Airflow. I finished all my hair, it's 12:13, you can even see it up above. So literally it took me twelve minutes to finish all my hair and make really pretty curls.",
+  "word_count": 48,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.8,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting at her desk holding up a tablet displaying the clock showing 12:01:42 Beirut time.",
+    "action": "Creator talks to camera, pointing at the tablet screen to establish the challenge start time.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 9.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator puts down tablet and holds up the pink Wavytalk Airflow styler.",
+    "action": "Creator presents the tool and states the goal of curling all her hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 31.8,
+    "shot_type": "medium shot montage",
+    "visual": "Quick sequence of clips showing creator curling sections of hair on both sides using the pink Airflow tool.",
+    "action": "Creator clamps, twists, and pulls hair sections through the styler, releasing tight spiral curls, timed to upbeat music.",
+    "product_visible": true
+   },
+   {
+    "start_s": 31.8,
+    "end_s": 37.0,
+    "shot_type": "close-up / medium shot",
+    "visual": "Creator holding the tablet showing 12:13 PM, then zooming slightly to highlight the digital clock.",
+    "action": "Creator points out the time proof on the tablet screen.",
+    "product_visible": false
+   },
+   {
+    "start_s": 37.0,
+    "end_s": 45.5,
+    "shot_type": "medium shot",
+    "visual": "Creator showing finished hair, shaking out her bouncy curls with her fingers.",
+    "action": "Creator fluffs and showcases the voluminous, defined curls while talking directly to camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera holding a large tablet showing the clock set to 12:01.",
+   "visual_0_3s": "Creator talking to camera holding a tablet clock, showing her unstyled natural hair.",
+   "spoken_0_3s": "Okay so guys، شعري منّو معمول هلا الساعة 12 ودقيقة",
+   "text_0_3s": "",
+   "hook_type": "curiosity_gap",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Showing a live digital clock on a large tablet screen to set up a timed styling challenge."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Challenge setup and timestamp verification (12:01)",
+    "Product introduction (Wavytalk Airflow)",
+    "Fast-paced styling demonstration montage to music",
+    "Timestamp proof verification (12:13 - 12 minutes later)",
+    "Final curl reveal and satisfaction reaction"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "easy_for_beginners",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Can curl entire long hair in just 12 minutes",
+    "Leaves hair with defined, bouncy curls"
+   ],
+   "pain_points": [
+    "Curling hair usually takes too long"
+   ],
+   "objections_handled": [
+    "Proves speed by displaying before and after digital clock timestamps"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Airflow Styler"
+   ],
+   "first_seen_s": 6.8,
+   "first_used_on_hair_s": 9.8,
+   "final_result_shown_s": 32.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, dark brown, straight/slightly wavy, unstyled",
+   "hair_after": "Voluminous, defined ribbon curls with healthy shine",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Upbeat, energetic, relatable, proof-driven"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Energetic, rhythmic electronic pop beat during the styling montage",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 12,
+   "avg_shot_length_s": 3.8,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts",
+    "music sync"
+   ],
+   "ending": "Creator smiling, shaking and admiring her bouncy curls on camera"
+  },
+  "notes": "Classic stopwatch/timed UGC framework used to demonstrate speed and efficiency of the Wavytalk Airflow styler."
+ }
+}

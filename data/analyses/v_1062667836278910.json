@@ -1,0 +1,138 @@
+{
+ "media_key": "v_1062667836278910",
+ "analyzed_at": "2026-11-28T10:23:25+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "2d9b3d8e18eda56ac2907a208784b93b1a8645e764b298b461adcc63f5a54943",
+ "source": {
+  "kind": "video",
+  "id": "1062667836278910",
+  "video_id": "1062667836278910",
+  "length_s": 21.1,
+  "permalink": "/122156392911058569/videos/1062667836278910"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 20.65,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A young woman unwinds a pink Wavytalk thermal round brush from her bangs to reveal a bouncy, shiny blowout.",
+  "full_description": "A young woman with layered dark hair sits in front of the camera with her front fringe wrapped around a pink Wavytalk thermal round brush. She rolls the heated brush out to reveal a smooth, bouncy curl, sets the brush on the table showing its digital display, and fluffs and styles her voluminous layers to the beat of background music while posing playfully.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.2,
+    "shot_type": "medium close-up",
+    "visual": "A young woman in a polka-dot dress seated indoors facing the camera, unwinding a pink Wavytalk thermal round brush from her bangs.",
+    "action": "She carefully rolls the brush backward and lifts it out of her hair, creating a defined curl in her front bangs.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.2,
+    "end_s": 11.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling her bangs and setting down the styling tool.",
+    "action": "She fluffs and parts her curtain bangs with her fingers and places the pink heated round brush onto the desk in front of her.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 20.65,
+    "shot_type": "medium close-up",
+    "visual": "Creator admiring and showing off her complete blowout hairstyle.",
+    "action": "She touches her voluminous layers, adjusts her hair, makes playful facial expressions, and rests her chin on her hand while admiring the finished hair look.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator looking into the camera with her front hair wrapped around a pink Wavytalk thermal brush.",
+   "visual_0_3s": "Creator rolls the pink thermal brush out of her bangs, pulling it up and back to reveal a bouncy wave.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "result_first",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "Immediate physical unwrapping and reveal of a perfectly curled bang from a heated brush."
+  },
+  "structure": {
+   "format": "grwm_lifestyle",
+   "narrative_beats": [
+    "Unwinding thermal brush from bangs",
+    "Curtain bang reveal and finger fluffing",
+    "Resting the product on the table",
+    "Flaunting the full bouncy voluminous blowout"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Achieve voluminous, bouncy 90s blowout hair at home with a thermal round brush"
+   ],
+   "pain_points": [],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Round Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 5.2,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Pre-styled layered blowout with the front fringe section wrapped in a thermal brush",
+   "hair_after": "Voluminous, shiny, dark layered blowout with curled-under ends and curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, playful, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Mellow R&B pop song with female vocals singing 'hate that I made you love me'",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 0,
+   "avg_shot_length_s": 20.65,
+   "pacing": "slow",
+   "effects": [],
+   "ending": "Creator rests her chin on her hand while posing with a slight pout to the camera"
+  },
+  "notes": "Single continuous take phone UGC video demonstrating the final styling touch and aesthetic result of using a heated round brush."
+ }
+}

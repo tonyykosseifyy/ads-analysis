@@ -1,0 +1,175 @@
+{
+ "media_key": "v_1358727479727108",
+ "analyzed_at": "2026-11-28T10:22:45+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "af2159377e7618b3ec80b516fceb561d83e8099f1435bced8fe98a17323aa357",
+ "source": {
+  "kind": "video",
+  "id": "1358727479727108",
+  "video_id": "1358727479727108",
+  "length_s": 16.6,
+  "permalink": "/122156392911058569/videos/1358727479727108"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 16.27,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates how to achieve a soft salon blowout at home using the pink Wavytalk Thermal Brush Blowout Boost.",
+  "full_description": "A tutorial-style UGC video featuring a young woman in a black silk robe styling her dark hair with a pink Wavytalk Blowout Boost thermal round brush. The video starts with a result-first hook displaying her bouncy, voluminous blowout. It then cuts to a step-by-step styling demonstration showing her curling sections inward, rolling through mid-lengths, and lifting front bangs backward for volume. She finishes by posing with the finished hairstyle alongside the tool.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "text": "soft blowout tutorial 🤍",
+    "role": "hook"
+   },
+   {
+    "start_s": 14.1,
+    "end_s": 16.27,
+    "text": "wavy talk thermal brush blowout boost 🤍",
+    "role": "brand"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "shot_type": "medium close-up",
+    "visual": "Glamorous creator with finished, voluminous dark wavy blowout running her hand through her hair in front of a bathroom mirror.",
+    "action": "Creator runs fingers through styled bouncy hair to showcase the result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 6.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator sections the side of her hair (clipping the top away) and introduces the pink thermal brush.",
+    "action": "Creator places the brush under a section of hair, twisting and curling it downward to curl the ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.3,
+    "end_s": 10.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling another mid-section strand using the heated round brush.",
+    "action": "Creator rolls the brush through the section, turning the barrel to create smooth bends and curls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.7,
+    "end_s": 14.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator takes the crown/front bangs section and rolls it upward and back over the top of her head.",
+    "action": "Creator rolls the brush back from roots to ends for crown volume and release.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.0,
+    "end_s": 16.27,
+    "shot_type": "medium close-up",
+    "visual": "Creator posing with finished voluminous blowout, holding the pink thermal brush next to her face.",
+    "action": "Creator models the final hair result while holding the brush up.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator running her fingers through full, silky, voluminous dark hair wearing a black robe.",
+   "visual_0_3s": "Showcase of gorgeous blowout hair result followed immediately by the start of the styling process.",
+   "spoken_0_3s": "",
+   "text_0_3s": "soft blowout tutorial 🤍",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Instant glimpse of shiny, salon-grade bouncy blowout with high glam makeup."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Result reveal / Hook",
+    "Sectioning and curling lower sections",
+    "Curling crown / bangs section for volume",
+    "Final result showcase with product"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Creates a soft, voluminous salon blowout"
+   ],
+   "pain_points": [
+    "Difficulty getting salon blowout volume and curved ends at home"
+   ],
+   "objections_handled": [
+    "Too complicated to use (demonstrates effortless, intuitive curling motion)"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush Blowout Boost"
+   ],
+   "first_seen_s": 2.5,
+   "first_used_on_hair_s": 2.8,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Dark brown, straight/slightly wavy, long",
+   "hair_after": "Voluminous, bouncy, soft curled blowout ends",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "aesthetic and calm"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Slow, mellow R&B/pop vocal track with female vocals.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 3.25,
+   "pacing": "medium",
+   "effects": [
+    "text overlay"
+   ],
+   "ending": "Creator posing with finished hair while holding the pink Wavytalk brush next to her cheek."
+  },
+  "notes": "Short aesthetic UGC beauty tutorial video focusing completely on visual demonstration and end results without spoken voiceover."
+ }
+}

@@ -1,0 +1,156 @@
+{
+ "media_key": "v_2023760608483149",
+ "analyzed_at": "2026-11-28T10:23:36+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "7e903b8e66fa9e5fd0f0dd58dbdd26a6766b529d592bbfb23f9f0d330612a0ae",
+ "source": {
+  "kind": "video",
+  "id": "2023760608483149",
+  "video_id": "2023760608483149",
+  "length_s": 26.49,
+  "permalink": "/122156392911058569/videos/2023760608483149"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 26,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Silent UGC-style demo of a creator styling voluminous layered hair using a pink thermal round brush to a trending song.",
+  "full_description": "A young woman demonstrates how she styles her dark layered hair using a pink heated round brush. She rolls different sections, including sides, back, and bangs, showing the smooth, curled results. She concludes by fluffing her voluminous hair and presenting the tool to the camera.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 6.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator rolling an upper side strand around the heated round brush.",
+    "action": "Wraps hair around brush, holds, and releases to reveal a smooth wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.5,
+    "end_s": 13,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling the lower side sections with the thermal brush.",
+    "action": "Twists and slides brush through hair ends, then shows the bouncy result.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13,
+    "end_s": 16.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styles front bangs, then turns to show back of styled hair.",
+    "action": "Runs thermal brush through bangs, turns around to display volume and layers at the back.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 22,
+    "shot_type": "medium close-up",
+    "visual": "Creator working on the root volume and top layers.",
+    "action": "Lifts roots and curls front hair sections backward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22,
+    "end_s": 26,
+    "shot_type": "medium close-up",
+    "visual": "Final styled blowout look.",
+    "action": "Rakes fingers through bouncy curls, poses, and holds the pink thermal brush toward camera.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator actively twisting hair around a pink thermal brush.",
+   "visual_0_3s": "Close-up action of hair wrapped around hot round brush.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "trend_or_sound",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Instant demonstration of hair wrapping without intro talk."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "In-progress styling demo of side layers",
+    "Styling front and bangs sections",
+    "Showing back hair results",
+    "Final look showcase and product display"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Creates smooth blowout curls and volume"
+   ],
+   "pain_points": [
+    "Flat, lifeless hair"
+   ],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk thermal round brush"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": 0,
+   "final_result_shown_s": 22,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long dark brown layered hair, mostly smooth",
+   "hair_after": "Voluminous, bouncy layered blowout curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Casual, stylish, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Pop R&B English trending vocal track.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 5.2,
+   "pacing": "medium",
+   "effects": [],
+   "ending": "Creator poses with the styling tool in hand."
+  },
+  "notes": "Music-only aesthetic transformation reel without voiceover or text overlays."
+ }
+}

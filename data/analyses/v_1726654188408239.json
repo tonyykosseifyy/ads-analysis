@@ -1,0 +1,186 @@
+{
+ "media_key": "v_1726654188408239",
+ "analyzed_at": "2026-11-28T10:22:32+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "d26bbaacbaec772027a8d1e15808a6839b72a3e6bd6ca09b9bb33363e41a47af",
+ "source": {
+  "kind": "video",
+  "id": "1726654188408239",
+  "video_id": "1726654188408239",
+  "length_s": 23.166,
+  "permalink": "/122156392911058569/videos/1726654188408239"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 22.9,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates achieving a voluminous layered blowout using the Wavytalk thermal round brush and a velcro roller, set to music.",
+  "full_description": "A vertical UGC tutorial video featuring a young woman demonstrating how she styles her hair with the Wavytalk thermal round brush (Blowout Boost). She teases the look, shows a close-up of the device with its digital temperature screen and LED indicator, and then styles her curtain bangs and side layers before placing a blue velcro roller at the crown. After setting, she unwraps the roller and finger-parts her hair, revealing bouncy, salon-finish blowout layers and blowing a kiss to the camera. There is no spoken audio; the video is set to an upbeat pop vocal track.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0.0,
+    "en": 0.0,
+    "fr": 0.0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting indoors with pre-styled layered hair holding the Wavytalk thermal brush near her head",
+    "action": "Creator poses expressively, mouthing along to music while holding up the thermal styling brush",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 4.0,
+    "shot_type": "close-up",
+    "visual": "Close-up of the Wavytalk thermal brush handle showing digital temperature display (220°C) and glowing blue LED",
+    "action": "Creator holds the brush handle towards the camera to showcase the branding and heat setting",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.0,
+    "end_s": 7.5,
+    "shot_type": "medium shot",
+    "visual": "Creator styling her front bangs/fringe with the thermal brush",
+    "action": "Creator rolls the front section around the heated barrel upwards and backwards to create lift and curl",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 9.0,
+    "shot_type": "medium shot",
+    "visual": "Creator setting front hair section with a hair roller",
+    "action": "Creator secures the warm front section into a blue velcro roller at the top of her head",
+    "product_visible": false
+   },
+   {
+    "start_s": 9.0,
+    "end_s": 11.5,
+    "shot_type": "medium shot",
+    "visual": "Creator curling the side length of her hair with the thermal brush",
+    "action": "Creator wraps and glides the thermal round brush through her side hair to define an inward flick",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 14.5,
+    "shot_type": "medium shot",
+    "visual": "Creator admiring the bounce of the styled side layers",
+    "action": "Creator pats and arranges the bouncy inward layers while holding the thermal brush",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 18.0,
+    "shot_type": "medium shot",
+    "visual": "Creator removing the velcro roller",
+    "action": "Creator unwinds the blue velcro roller from her fringe, separates the bangs with fingers, and shakes her head",
+    "product_visible": false
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 22.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator showing the finished blowout result",
+    "action": "Creator fluffs and shakes her hair, poses confidently, and leans forward to blow a kiss to the camera",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator posing with already bouncy, voluminous blowout layers holding the Wavytalk thermal brush",
+   "visual_0_3s": "Creator flaunts bouncy styled hair holding the tool, followed by an immediate close-up of the heated brush",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "result_first",
+   "hook_type_secondary": "product_reveal",
+   "pattern_interrupt": "Quick cut to an extreme close-up of the glowing digital tool handle"
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Finished hair teaser and tool showcase",
+    "Close-up of device temperature controls",
+    "Curtain bang styling demonstration",
+    "Roller placement for extra volume",
+    "Side strand shaping demo",
+    "Roller removal and finger styling",
+    "Final bouncy layered blowout reveal"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Creates smooth, bouncy salon-style layered blowout curls easily at home"
+   ],
+   "pain_points": [
+    "Difficulty achieving bouncy blowout volume at home using traditional round brush and blow dryer combos"
+   ],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": "Traditional salon blowout"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 4.0,
+   "final_result_shown_s": 18.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Brunette, layered medium-to-long hair, partially styled",
+   "hair_after": "Voluminous, shiny, curved 90s-style layered blowout with curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, playful, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Upbeat pop dance track with female vocals singing 'feels like nobody else high... I'll show you what it feels like'",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 2.86,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts",
+    "close-up insert shot"
+   ],
+   "ending": "Creator leans in close to the camera, smiles, and blows a kiss"
+  },
+  "notes": "Non-verbal UGC aesthetic video. The video relies entirely on visual demonstration, music lip-syncing, and result showcase without on-screen text or spoken audio."
+ }
+}

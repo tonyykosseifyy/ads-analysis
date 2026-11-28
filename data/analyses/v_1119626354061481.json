@@ -1,0 +1,174 @@
+{
+ "media_key": "v_1119626354061481",
+ "analyzed_at": "2026-11-28T10:21:58+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "1a781725e1b1c8e95b2ee729398135c989827d55ffcfa3a990245c7220378bb5",
+ "source": {
+  "kind": "video",
+  "id": "1119626354061481",
+  "video_id": "1119626354061481",
+  "length_s": 12.766,
+  "permalink": "/122156392911058569/videos/1119626354061481"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 13.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A young woman demonstrates the process of using the Wavytalk thermal round brush followed by the voluminous, bouncy blowout result.",
+  "full_description": "In a bedroom setting, a young woman films a viral 'process vs result' format video. First, under the text 'The process VS...', she shows clips of her curling and wrapping sections of her long brunette and blonde-highlighted hair around the pink thermal blowout brush. At second 00:06, the video cuts to 'The result', where she displays her finished, glossy, voluminous layered blowout while running her fingers through it and posing for the camera to trending music.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.5,
+    "text": "The process VS...",
+    "role": "hook"
+   },
+   {
+    "start_s": 6.5,
+    "end_s": 13.0,
+    "text": "The result",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.5,
+    "shot_type": "medium shot",
+    "visual": "A young woman facing the camera curling the upper crown section of her hair with a pink thermal round brush.",
+    "action": "She wraps hair around the hot round brush barrel while holding the hair taut.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.5,
+    "end_s": 3.2,
+    "shot_type": "medium shot",
+    "visual": "Close-up cut of curling another section near the side/front.",
+    "action": "She twists the barrel through her hair strands, pulling it through to create a curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 4.5,
+    "shot_type": "medium shot",
+    "visual": "She styles the bang/face-framing section backwards.",
+    "action": "She glides the brush backward through the top face-framing layer.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 6.5,
+    "shot_type": "medium shot",
+    "visual": "Hair section pinned up with a styling clip, twirling a curl off the barrel.",
+    "action": "She rolls a curled strand off the brush and shows the bouncy curled strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.5,
+    "end_s": 13.0,
+    "shot_type": "medium shot",
+    "visual": "The finished blowout result. Her hair has smooth voluminous curls and bouncy blowout layers.",
+    "action": "She runs her fingers through her voluminous hair, shaking it out, adjusting her front fringe, and posing to show the shine and bounce.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "A young woman styling her long hair with a pink thermal styling brush with on-screen text 'The process VS...'",
+   "visual_0_3s": "Dynamic quick cuts of hair being wrapped and rolled around the heated round brush.",
+   "spoken_0_3s": "",
+   "text_0_3s": "The process VS...",
+   "hook_type": "trend_or_sound",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Fast-paced styling clips contrasting against the anticipated 'result' reveal."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Process showcase showing multiple sections being styled with the thermal brush",
+    "Beat drop transition to the finished result",
+    "Flaunting the glossy, voluminous salon-grade blowout result"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Delivers voluminous salon-quality blowout results at home"
+   ],
+   "pain_points": [
+    "Difficulty achieving bouncy blowout curls at home without a salon visit"
+   ],
+   "objections_handled": [
+    "Demonstrates how straightforward the styling process is"
+   ],
+   "social_proof": [],
+   "comparison_to": "salon blowout"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 6.5,
+   "demo_clarity": "partial",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, fine-to-medium brown hair with warm blonde balayage, straight/slightly wavy",
+   "hair_after": "Voluminous, bouncy salon-style blowout with face-framing curls and shine",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident and aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Trending upbeat pop/dance beat tailored for 'process vs result' TikTok transitions",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 2.6,
+   "pacing": "fast",
+   "effects": [
+    "beat sync cut"
+   ],
+   "ending": "Creator proudly shakes and plays with her voluminous blowout while smiling into the camera"
+  },
+  "notes": "Ad utilizes the viral 'Process vs Result' TikTok/Reels template format synced to trending background audio without voiceover or spoken dialogue."
+ }
+}

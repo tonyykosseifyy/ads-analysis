@@ -1,0 +1,254 @@
+{
+ "media_key": "v_1672643793884848",
+ "analyzed_at": "2026-11-28T10:22:44+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "fc09c96478211c20be67d47d4d51181a4e8206839f91e392ca8159585390bb41",
+ "source": {
+  "kind": "video",
+  "id": "1672643793884848",
+  "video_id": "1672643793884848",
+  "length_s": 90.066,
+  "permalink": "/122156392911058569/videos/1672643793884848"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 90.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates step-by-step how she curls her long hair into bouncy curls using the pink Wavytalk Airflow Styler.",
+  "full_description": "A creator starts with a quick hook revealing a bouncy curl and reacting with amazement under the caption 'your sign to get the wavytalk airflow styler:'. The video cuts to her before state with straight hair, showing her prep routine with Wavytalk Smooth Barrier serum. She powers on the pink Wavytalk Airflow Styler, adjusts heat and fan settings, and curls sections step-by-step around the barrel with cooling airflow. She repeatedly reacts to the defined spiral results before brushing them out into full, voluminous curls from front and back angles.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "text": "your sign to get the wavytalk airflow styler:",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "shot_type": "medium shot",
+    "visual": "Creator holding a freshly curled strand alongside the pink Wavytalk Airflow Styler with text overlay.",
+    "action": "She drops the curled strand, opens her mouth in amazed shock, and glances at the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 4.8,
+    "shot_type": "medium shot",
+    "visual": "Creator with straight, unstyled hair wearing a beige cardigan in a bedroom.",
+    "action": "She runs her fingers through her hair to show the 'before' baseline texture.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 7.8,
+    "shot_type": "close-up",
+    "visual": "A purple bottle of Wavytalk Smooth Barrier Heat Protectant Serum.",
+    "action": "She presents the serum bottle to the camera and dispenses product into her hands.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 8.9,
+    "shot_type": "medium shot",
+    "visual": "Creator applying hair product.",
+    "action": "She works the heat protectant serum evenly through the lengths and ends of her hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.9,
+    "end_s": 13.5,
+    "shot_type": "close-up",
+    "visual": "Pink Wavytalk Airflow Styler held vertically toward the camera.",
+    "action": "She powers the tool on, showing the digital temperature display reaching 320°F and the airflow ventilation vents.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 22.8,
+    "shot_type": "medium shot",
+    "visual": "Creator clamping and wrapping a section of hair into the airflow styler.",
+    "action": "She glides the airflow styler down the strand slowly, twisting the barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 26.8,
+    "shot_type": "medium shot",
+    "visual": "The newly curled ringlet releases from the barrel.",
+    "action": "She covers her mouth in excitement and twirls the spiral curl with her finger.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.8,
+    "end_s": 39.5,
+    "shot_type": "medium shot",
+    "visual": "Creator styling upper layers and front framing sections.",
+    "action": "She glides the styler downward, wrapping sections and releasing defined spiral ribbons.",
+    "product_visible": true
+   },
+   {
+    "start_s": 39.5,
+    "end_s": 51.5,
+    "shot_type": "medium shot",
+    "visual": "Curling opposite side and crown sections.",
+    "action": "She curls back and crown sections, twisting the iron away from her face.",
+    "product_visible": true
+   },
+   {
+    "start_s": 51.5,
+    "end_s": 58.5,
+    "shot_type": "medium shot",
+    "visual": "Close-up reaction cut showcasing the front face-framing curl.",
+    "action": "She holds the face-framing curl, smiling and admiring the definition.",
+    "product_visible": true
+   },
+   {
+    "start_s": 58.5,
+    "end_s": 66.0,
+    "shot_type": "medium shot",
+    "visual": "Creator curling the final top layers.",
+    "action": "She wraps the last crown strand, pulls it through, and lets the final curl drop.",
+    "product_visible": true
+   },
+   {
+    "start_s": 66.0,
+    "end_s": 75.0,
+    "shot_type": "medium shot",
+    "visual": "All hair completely curled in tight bouncy ribbons.",
+    "action": "She runs her fingers through the curls, shaking them loose to create natural volume.",
+    "product_visible": false
+   },
+   {
+    "start_s": 75.0,
+    "end_s": 84.5,
+    "shot_type": "medium shot from behind",
+    "visual": "Back view of creator's head and back.",
+    "action": "She shakes her head and fluffs her hair from behind, demonstrating bouncy, glossy curls with 360-degree volume.",
+    "product_visible": false
+   },
+   {
+    "start_s": 84.5,
+    "end_s": 90.0,
+    "shot_type": "medium shot",
+    "visual": "Final styled result facing the camera.",
+    "action": "She poses, smiles, shakes out the voluminous curls, and waves goodbye.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding a bouncy curl next to the pink Wavytalk Airflow Styler with the text 'your sign to get the wavytalk airflow styler:'.",
+   "visual_0_3s": "She releases a tight, glossy curl, gasping in shock at how perfect it looks before transitioning to the styling demo.",
+   "spoken_0_3s": "",
+   "text_0_3s": "your sign to get the wavytalk airflow styler:",
+   "hook_type": "result_first",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Immediate reveal of a salon-grade ringlet with an exaggerated amazed reaction face."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook showing immediate jaw-dropping curl result",
+    "Before baseline shot with straight unstyled hair",
+    "Prep step with heat protectant serum",
+    "Tool overview and feature showcase (powering on, heat settings, airflow vents)",
+    "Detailed step-by-step curling technique on multiple sections",
+    "Breakout and fluffing of curls",
+    "360-degree final reveal from back and front"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners",
+    "less_heat_damage"
+   ],
+   "key_claims": [
+    "Produces bouncy, defined curls effortlessly",
+    "Airflow technology sets curls quickly with cooling air",
+    "Provides high volume and shine"
+   ],
+   "pain_points": [
+    "Curls falling flat quickly",
+    "Complicated curling irons that burn hair",
+    "Difficulty getting salon-quality bouncy waves at home"
+   ],
+   "objections_handled": [
+    "Heat damage (demonstrates heat protectant serum and cool airflow setting)"
+   ],
+   "social_proof": [
+    "Visual proof through flawless live curl drops and 360-degree hair transformation"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Airflow Styler",
+    "Wavytalk Smooth Barrier Heat Protectant Serum"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 13.5,
+   "final_result_shown_s": 66.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, fine-to-medium brunette straight hair with slight natural wave",
+   "hair_after": "Voluminous, bouncy, glossy Hollywood-style curls with high body",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Playful, confident, and amazed"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Mid-tempo soulful R&B/pop vocal track with sensual lyrics ('Step into my bedroom honey...').",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 13,
+   "avg_shot_length_s": 6.9,
+   "pacing": "medium",
+   "effects": [
+    "text overlay",
+    "digital display close-up",
+    "hair flip transitions"
+   ],
+   "ending": "Creator smiles, fluffs her bouncy curls toward the camera, and waves goodbye."
+  },
+  "notes": "Ad is completely non-verbal UGC video reliant entirely on aesthetic transformation visuals, product handling, and trending soundtrack vibes."
+ }
+}

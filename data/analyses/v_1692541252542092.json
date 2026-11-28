@@ -1,0 +1,452 @@
+{
+ "media_key": "v_1692541252542092",
+ "analyzed_at": "2026-11-28T10:22:55+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "efdf6a36550c351c1566300a075cd5f1c256bf64a26c37a558d949204780d0ea",
+ "source": {
+  "kind": "video",
+  "id": "1692541252542092",
+  "video_id": "1692541252542092",
+  "length_s": 81.533,
+  "permalink": "/122156392911058569/videos/1692541252542092"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 81.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator demos the WavyTalk Blowout Boost thermal brush, showing step-by-step how she achieves a salon blowout at home in 15 minutes.",
+  "full_description": "A young woman talks to camera wearing a pink floral milkmaid top, explaining how she transformed her thick, curly hair into a bouncy salon blowout at home. She shows the WavyTalk packaging, accessories (pink brush, hair clips), and demonstrates using the thermal round brush on sections of her hair and bangs. She highlights key benefits including quick 15-minute styling, salon results, and the 30-day return policy, ending with the polished final look.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 65,
+    "en": 33,
+    "fr": 2
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "كيف حولت شعري من هيك لهيك",
+    "text_english": "How I transformed my hair from this to this"
+   },
+   {
+    "start_s": 2.5,
+    "end_s": 4.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I did my hair with WavyTalk.",
+    "text_english": "I did my hair with WavyTalk."
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 7.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "My favorite tool to use to transform my hair in minutes.",
+    "text_english": "My favorite tool to use to transform my hair in minutes."
+   },
+   {
+    "start_s": 7.9,
+    "end_s": 10.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بيجي معها a pink brush and hair clips.",
+    "text_english": "It comes with a pink brush and hair clips."
+   },
+   {
+    "start_s": 10.8,
+    "end_s": 12.8,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "منقسم شعرنا ومنبلش.",
+    "text_english": "We section our hair and start."
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 16.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وبدياكم تعرفوا إنه أنا شعري نوعه كثيف وcurly.",
+    "text_english": "And I want you to know that my hair type is thick and curly."
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 20.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Works like magic.",
+    "text_english": "Works like magic."
+   },
+   {
+    "start_s": 20.1,
+    "end_s": 22.8,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "شوفوا من أول مرة كيف طلعت.",
+    "text_english": "Look at how it turned out from the first pass."
+   },
+   {
+    "start_s": 22.9,
+    "end_s": 26.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "You get the blowout effect اللي بتعملوه عند الحلاق، بس بالبيت.",
+    "text_english": "You get the blowout effect that you get at the salon, but at home."
+   },
+   {
+    "start_s": 26.2,
+    "end_s": 32.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "WavyTalk من أكتر الـ tools اللي هينوا عليّ حياتي، لأنه أنا كتير بتعذب بشعري، وكتير بياخد وقت عند الحلاق.",
+    "text_english": "WavyTalk is one of the tools that made my life so easy, because I struggle a lot with my hair and it takes so much time at the salon."
+   },
+   {
+    "start_s": 38.8,
+    "end_s": 43.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "واللي بحبه فيه كمان، إنه فيكم تعملوا رأسين، إنه الرأسين is curly.",
+    "text_english": "And what I also love about it is that you can do the ends, make the ends curly."
+   },
+   {
+    "start_s": 51.5,
+    "end_s": 54.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "أهم شي وآخر شي الغرة.",
+    "text_english": "The most important and final part is the bangs."
+   },
+   {
+    "start_s": 55.6,
+    "end_s": 58.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "منزبطه شوي بالفرشاي.",
+    "text_english": "We touch it up a bit with the brush."
+   },
+   {
+    "start_s": 58.1,
+    "end_s": 60.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Voilà! This is the hair with WavyTalk.",
+    "text_english": "Voilà! This is the hair with WavyTalk."
+   },
+   {
+    "start_s": 61.2,
+    "end_s": 63.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Silky smooth.",
+    "text_english": "Silky smooth."
+   },
+   {
+    "start_s": 63.1,
+    "end_s": 65.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أخد معي in total 15 minutes.",
+    "text_english": "It took me in total 15 minutes."
+   },
+   {
+    "start_s": 65.6,
+    "end_s": 70.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Check out WavyTalk on their Instagram page وعندهم كذا hair tool فيكم تستفيدوا منهم.",
+    "text_english": "Check out WavyTalk on their Instagram page, and they have multiple hair tools that you can benefit from."
+   },
+   {
+    "start_s": 70.1,
+    "end_s": 73.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "عندهم 30 days return، so فيكم تردوه إذا ما عجبكم.",
+    "text_english": "They have a 30-day return, so you can return it if you don't like it."
+   },
+   {
+    "start_s": 73.9,
+    "end_s": 77.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وللصراحة this is a must-have for every girl on the run.",
+    "text_english": "And honestly, this is a must-have for every girl on the run."
+   }
+  ],
+  "transcript_full_original": "كيف حولت شعري من هيك لهيك I did my hair with WavyTalk. My favorite tool to use to transform my hair in minutes. بيجي معها a pink brush and hair clips. منقسم شعرنا ومنبلش. وبدياكم تعرفوا إنه أنا شعري نوعه كثيف وcurly. Works like magic. شوفوا من أول مرة كيف طلعت. You get the blowout effect اللي بتعملوه عند الحلاق، بس بالبيت. WavyTalk من أكتر الـ tools اللي هينوا عليّ حياتي، لأنه أنا كتير بتعذب بشعري، وكتير بياخد وقت عند الحلاق. واللي بحبه فيه كمان، إنه فيكم تعملوا رأسين، إنه الرأسين is curly. أهم شي وآخر شي الغرة. منزبطه شوي بالفرشاي. Voilà! This is the hair with WavyTalk. Silky smooth. أخد معي in total 15 minutes. Check out WavyTalk on their Instagram page وعندهم كذا hair tool فيكم تستفيدوا منهم. عندهم 30 days return، so فيكم تردوه إذا ما عجبكم. وللصراحة this is a must-have for every girl on the run.",
+  "transcript_full_english": "How I transformed my hair from this to this I did my hair with WavyTalk. My favorite tool to use to transform my hair in minutes. It comes with a pink brush and hair clips. We section our hair and start. And I want you to know that my hair type is thick and curly. Works like magic. Look at how it turned out from the first pass. You get the blowout effect that you get at the salon, but at home. WavyTalk is one of the tools that made my life so easy, because I struggle a lot with my hair and it takes so much time at the salon. And what I also love about it is that you can do the ends, make the ends curly. The most important and final part is the bangs. We touch it up a bit with the brush. Voilà! This is the hair with WavyTalk. Silky smooth. It took me in total 15 minutes. Check out WavyTalk on their Instagram page, and they have multiple hair tools that you can benefit from. They have a 30-day return, so you can return it if you don't like it. And honestly, this is a must-have for every girl on the run.",
+  "word_count": 139,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "text": "The blowout I used to go to the salon for... now at home!",
+    "role": "hook"
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 7.5,
+    "text": "My new favorite hair tool",
+    "role": "benefit"
+   },
+   {
+    "start_s": 17.0,
+    "end_s": 20.0,
+    "text": "Works like magic",
+    "role": "benefit"
+   },
+   {
+    "start_s": 20.2,
+    "end_s": 22.6,
+    "text": "Look at the difference",
+    "role": "benefit"
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 25.5,
+    "text": "Salon blowout at home.",
+    "role": "benefit"
+   },
+   {
+    "start_s": 59.8,
+    "end_s": 61.8,
+    "text": "The WavyTalk Glow Up",
+    "role": "benefit"
+   },
+   {
+    "start_s": 62.0,
+    "end_s": 63.5,
+    "text": "Silky.",
+    "role": "benefit"
+   },
+   {
+    "start_s": 63.8,
+    "end_s": 66.0,
+    "text": "Full blowout in just 15 mins",
+    "role": "benefit"
+   },
+   {
+    "start_s": 66.2,
+    "end_s": 69.0,
+    "text": "Check @wavytalk.lb",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator pointing at her hair before styling, showing natural slightly frizzy texture, then finger snapping to transition",
+    "action": "Creator gestures to hair before and talks about transformation",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 4.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds up the white and pink WavyTalk Blowout Boost box",
+    "action": "Creator introduces WavyTalk box to camera",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 7.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the pink thermal brush tool in front of chest",
+    "action": "Creator showcases the heated round brush tool",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 10.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the included pink paddle brush and two black hair clips",
+    "action": "Creator demonstrates included free accessories",
+    "product_visible": false
+   },
+   {
+    "start_s": 10.7,
+    "end_s": 16.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator sections her hair and prepares the thermal brush",
+    "action": "Creator sections hair and explains her thick, curly hair type",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 22.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator curls and brushes through one front section and shows the smooth curled end",
+    "action": "Creator showcases one finished styled strand next to straight/natural hair",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 33.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator talks holding the tool while showing styled lower sections",
+    "action": "Creator praises how much time and salon visits it saves her",
+    "product_visible": true
+   },
+   {
+    "start_s": 33.5,
+    "end_s": 51.0,
+    "shot_type": "medium close-up",
+    "visual": "Demonstration sequence styling side and crown sections, twisting the barrel outward and inward",
+    "action": "Creator demonstrates rolling the tool through mid-lengths and curving the ends",
+    "product_visible": true
+   },
+   {
+    "start_s": 51.0,
+    "end_s": 55.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator rolls the bangs backward over the top of the thermal brush",
+    "action": "Creator styles bangs / face-framing curtain fringe for volume",
+    "product_visible": true
+   },
+   {
+    "start_s": 55.0,
+    "end_s": 58.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator gently combs through styled bangs and roots with pink brush",
+    "action": "Creator brushes and blends the finished blowout",
+    "product_visible": false
+   },
+   {
+    "start_s": 58.0,
+    "end_s": 65.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator shows off full finished voluminous blowout from both sides",
+    "action": "Creator admires results, flips hair, states it took 15 minutes",
+    "product_visible": false
+   },
+   {
+    "start_s": 65.5,
+    "end_s": 77.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the tool and box again, sharing account handle and 30-day return policy",
+    "action": "Creator calls to action to check Instagram page and highlights return policy",
+    "product_visible": true
+   },
+   {
+    "start_s": 77.5,
+    "end_s": 81.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator runs hands through bouncy, shiny styled hair with a proud smile",
+    "action": "Creator shows final hair movement and looks into camera",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing natural hair with cursive text 'The blowout I used to go to the salon for... now at home!'",
+   "visual_0_3s": "Creator points to her hair before styling, snaps her fingers, and reveals the WavyTalk box",
+   "spoken_0_3s": "كيف حولت شعري من هيك لهيك",
+   "text_0_3s": "The blowout I used to go to the salon for... now at home!",
+   "hook_type": "before_after",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Rapid snap transition from natural hair straight to the product box."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Hook showing hair before and promising salon blowout at home",
+    "Unboxing and accessory showcase (brush and clips)",
+    "Hair type qualification (thick and curly)",
+    "Step-by-step tutorial showing individual section results",
+    "Highlighting ease of styling and curling ends",
+    "Bangs and finishing styling",
+    "Final result showcase with time disclosure (15 mins)",
+    "Call to action and risk reversal (30-day return policy)"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "frizz_or_curly_solution",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Transform hair in minutes",
+    "Full blowout in just 15 minutes",
+    "Works on thick and curly hair",
+    "Provides salon-quality blowout at home",
+    "Comes with free brush and clips",
+    "30-day return policy"
+   ],
+   "pain_points": [
+    "Spending too much time and money going to the salon",
+    "Struggling with thick curly unmanageable hair at home"
+   ],
+   "objections_handled": [
+    "Will it work on thick/curly hair? Creator explicitly notes her hair is thick and curly and shows it working effortlessly.",
+    "What if I don't like it? 30-day return guarantee mentioned."
+   ],
+   "social_proof": [],
+   "comparison_to": "hair salon blowouts"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 2.2,
+   "first_used_on_hair_s": 16.5,
+   "final_result_shown_s": 58.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Comes with included brush and hair clips, 30 days return policy",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Check out WavyTalk on their Instagram page",
+   "cta_on_screen": "Check @wavytalk.lb",
+   "cta_at_s": 65.6
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Medium-to-long brunette, slightly frizzy, straight-to-wavy unstyled texture",
+   "hair_after": "Voluminous, smooth, shiny blowout with flipped inward/bouncy curled ends and styled curtain fringe",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, warm, authentic, friendly"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat lo-fi pop background music",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 17,
+   "avg_shot_length_s": 4.8,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts",
+    "elegant cursive typography text overlays",
+    "snap transition"
+   ],
+   "ending": "Creator plays with her finished blowout and poses warmly to the camera"
+  },
+  "notes": "Targeted at Lebanese consumers via @wavytalk.lb. High quality UGC combining demonstration with clear value proposition and risk reversal."
+ }
+}

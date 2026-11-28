@@ -27,8 +27,8 @@
    "ctas": []
   },
   "metrics": {
-   "spend": 1373.05,
-   "impressions": 306069,
+   "spend": 1373.08,
+   "impressions": 306075,
    "reach": 24716,
    "frequency": 12.38,
    "cpm": 4.49,
@@ -843,21 +843,21 @@
   },
   "metrics": {
    "spend": 835.48,
-   "impressions": 231900,
+   "impressions": 231908,
    "reach": 84986,
    "frequency": 2.73,
    "cpm": 3.6,
    "link_clicks": 4478,
    "link_ctr_pct": 1.93,
    "cpc_link": 0.19,
-   "video_3s_views": 73231,
-   "thruplays": 13974,
+   "video_3s_views": 73234,
+   "thruplays": 13975,
    "hook_rate_pct": 31.58,
    "hold_rate_pct": 19.08,
-   "p25": 19831,
-   "p50": 10234,
-   "p75": 6691,
-   "p100": 4140,
+   "p25": 19832,
+   "p50": 10235,
+   "p75": 6692,
+   "p100": 4141,
    "avg_watch_s": 4.0,
    "landing_page_views": 4265,
    "add_to_cart": 232,
@@ -1842,12 +1842,12 @@
    ]
   },
   "metrics": {
-   "spend": 493.53,
-   "impressions": 70742,
+   "spend": 493.74,
+   "impressions": 70784,
    "reach": 18313,
-   "frequency": 3.86,
+   "frequency": 3.87,
    "cpm": 6.98,
-   "link_clicks": 1230,
+   "link_clicks": 1231,
    "link_ctr_pct": 1.74,
    "cpc_link": 0.4,
    "video_3s_views": 0,
@@ -1862,12 +1862,12 @@
    "landing_page_views": 953,
    "add_to_cart": 178,
    "initiate_checkout": 84,
-   "purchases": 19,
-   "purchase_value": 1919.85,
+   "purchases": 20,
+   "purchase_value": 2004.45,
    "cost_per_atc": 2.77,
    "cost_per_ic": 5.88,
-   "cpa": 25.98,
-   "roas": 3.89,
+   "cpa": 24.69,
+   "roas": 4.06,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-28"
   },
@@ -1916,7 +1916,7 @@
   "created_time": "2026-03-17T16:05:34+0200",
   "creative_id": "1663457748425828",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "It’s giving lifted roots, silky shine, and that fresh blowout bounce 😌\nMeet the Blowout Boost 💗 Smooth, volumize, and cut your styling time in half with dual-heat plates + ionic tech.\nSalon results at home, in minutes. Your turn ✨"
@@ -1987,7 +1987,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23853286846850795",
    "post_link": "https://www.facebook.com/803246616207248_1461293495502564",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1461293495502564"
   }
  },
  {
@@ -2764,22 +2764,22 @@
    ]
   },
   "metrics": {
-   "spend": 375.87,
-   "impressions": 79261,
-   "reach": 48665,
+   "spend": 376.17,
+   "impressions": 79294,
+   "reach": 48689,
    "frequency": 1.63,
    "cpm": 4.74,
    "link_clicks": 1397,
    "link_ctr_pct": 1.76,
    "cpc_link": 0.27,
-   "video_3s_views": 18735,
-   "thruplays": 8133,
-   "hook_rate_pct": 23.64,
-   "hold_rate_pct": 43.41,
-   "p25": 8139,
-   "p50": 5566,
-   "p75": 3747,
-   "p100": 2556,
+   "video_3s_views": 18739,
+   "thruplays": 8136,
+   "hook_rate_pct": 23.63,
+   "hold_rate_pct": 43.42,
+   "p25": 8142,
+   "p50": 5568,
+   "p75": 3748,
+   "p100": 2557,
    "avg_watch_s": 6.0,
    "landing_page_views": 1150,
    "add_to_cart": 90,
@@ -2787,8 +2787,8 @@
    "purchases": 11,
    "purchase_value": 1078.88,
    "cost_per_atc": 4.18,
-   "cost_per_ic": 10.44,
-   "cpa": 34.17,
+   "cost_per_ic": 10.45,
+   "cpa": 34.2,
    "roas": 2.87,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-28"
@@ -3873,14 +3873,14 @@
    ]
   },
   "metrics": {
-   "spend": 239.19,
-   "impressions": 51596,
-   "reach": 17972,
-   "frequency": 2.87,
+   "spend": 239.46,
+   "impressions": 51647,
+   "reach": 18039,
+   "frequency": 2.86,
    "cpm": 4.64,
-   "link_clicks": 392,
-   "link_ctr_pct": 0.76,
-   "cpc_link": 0.61,
+   "link_clicks": 396,
+   "link_ctr_pct": 0.77,
+   "cpc_link": 0.6,
    "video_3s_views": 0,
    "thruplays": 0,
    "hook_rate_pct": 0.0,
@@ -3896,9 +3896,9 @@
    "purchases": 11,
    "purchase_value": 1282.0,
    "cost_per_atc": 2.63,
-   "cost_per_ic": 8.86,
-   "cpa": 21.74,
-   "roas": 5.36,
+   "cost_per_ic": 8.87,
+   "cpa": 21.77,
+   "roas": 5.35,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-28"
   },
@@ -5145,19 +5145,19 @@
    ]
   },
   "metrics": {
-   "spend": 174.26,
-   "impressions": 59867,
+   "spend": 174.27,
+   "impressions": 59871,
    "reach": 23639,
    "frequency": 2.53,
    "cpm": 2.91,
    "link_clicks": 1394,
    "link_ctr_pct": 2.33,
    "cpc_link": 0.13,
-   "video_3s_views": 11060,
+   "video_3s_views": 11061,
    "thruplays": 2050,
    "hook_rate_pct": 18.47,
-   "hold_rate_pct": 18.54,
-   "p25": 8171,
+   "hold_rate_pct": 18.53,
+   "p25": 8172,
    "p50": 3734,
    "p75": 2416,
    "p100": 1809,
@@ -5245,20 +5245,20 @@
    ]
   },
   "metrics": {
-   "spend": 173.0,
-   "impressions": 32540,
-   "reach": 18176,
+   "spend": 173.18,
+   "impressions": 32566,
+   "reach": 18186,
    "frequency": 1.79,
    "cpm": 5.32,
-   "link_clicks": 376,
+   "link_clicks": 377,
    "link_ctr_pct": 1.16,
    "cpc_link": 0.46,
-   "video_3s_views": 7622,
-   "thruplays": 2352,
+   "video_3s_views": 7627,
+   "thruplays": 2354,
    "hook_rate_pct": 23.42,
    "hold_rate_pct": 30.86,
-   "p25": 3041,
-   "p50": 1979,
+   "p25": 3043,
+   "p50": 1981,
    "p75": 1333,
    "p100": 407,
    "avg_watch_s": 4.0,
@@ -5267,10 +5267,10 @@
    "initiate_checkout": 24,
    "purchases": 7,
    "purchase_value": 592.89,
-   "cost_per_atc": 3.93,
-   "cost_per_ic": 7.21,
-   "cpa": 24.71,
-   "roas": 3.43,
+   "cost_per_atc": 3.94,
+   "cost_per_ic": 7.22,
+   "cpa": 24.74,
+   "roas": 3.42,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-28"
   },
@@ -7742,19 +7742,19 @@
    ]
   },
   "metrics": {
-   "spend": 116.33,
-   "impressions": 15406,
-   "reach": 9755,
+   "spend": 116.43,
+   "impressions": 15421,
+   "reach": 9778,
    "frequency": 1.58,
    "cpm": 7.55,
    "link_clicks": 176,
    "link_ctr_pct": 1.14,
    "cpc_link": 0.66,
-   "video_3s_views": 3807,
-   "thruplays": 1058,
-   "hook_rate_pct": 24.71,
-   "hold_rate_pct": 27.79,
-   "p25": 1278,
+   "video_3s_views": 3813,
+   "thruplays": 1059,
+   "hook_rate_pct": 24.73,
+   "hold_rate_pct": 27.77,
+   "p25": 1279,
    "p50": 667,
    "p75": 543,
    "p100": 243,
@@ -7765,8 +7765,8 @@
    "purchases": 4,
    "purchase_value": 337.8,
    "cost_per_atc": 3.64,
-   "cost_per_ic": 8.31,
-   "cpa": 29.08,
+   "cost_per_ic": 8.32,
+   "cpa": 29.11,
    "roas": 2.9,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-28"
@@ -8117,19 +8117,19 @@
    ]
   },
   "metrics": {
-   "spend": 113.51,
-   "impressions": 29515,
+   "spend": 113.52,
+   "impressions": 29519,
    "reach": 15538,
    "frequency": 1.9,
    "cpm": 3.85,
    "link_clicks": 423,
    "link_ctr_pct": 1.43,
    "cpc_link": 0.27,
-   "video_3s_views": 8146,
+   "video_3s_views": 8148,
    "thruplays": 1545,
    "hook_rate_pct": 27.6,
-   "hold_rate_pct": 18.97,
-   "p25": 3570,
+   "hold_rate_pct": 18.96,
+   "p25": 3571,
    "p50": 1645,
    "p75": 983,
    "p100": 616,
@@ -8392,7 +8392,7 @@
   },
   "metrics": {
    "spend": 110.88,
-   "impressions": 16701,
+   "impressions": 16702,
    "reach": 4103,
    "frequency": 4.07,
    "cpm": 6.64,
@@ -8710,7 +8710,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23859168560350795",
    "post_link": "https://www.facebook.com/803246616207248_2284083215713642",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/2284083215713642"
   }
  },
  {
@@ -9821,7 +9821,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23859168526940795",
    "post_link": "https://www.facebook.com/803246616207248_1726654188408239",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1726654188408239"
   }
  },
  {
@@ -10772,7 +10772,7 @@
   },
   "metrics": {
    "spend": 91.98,
-   "impressions": 23174,
+   "impressions": 23175,
    "reach": 11618,
    "frequency": 1.99,
    "cpm": 3.97,
@@ -18057,7 +18057,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858307792630795",
    "post_link": "https://www.facebook.com/803246616207248_2212923229504690",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/2212923229504690"
   }
  },
  {
@@ -23916,13 +23916,13 @@
    ]
   },
   "metrics": {
-   "spend": 39.94,
-   "impressions": 5708,
+   "spend": 39.98,
+   "impressions": 5721,
    "reach": 2528,
    "frequency": 2.26,
-   "cpm": 7.0,
+   "cpm": 6.99,
    "link_clicks": 66,
-   "link_ctr_pct": 1.16,
+   "link_ctr_pct": 1.15,
    "cpc_link": 0.61,
    "video_3s_views": 0,
    "thruplays": 0,
@@ -23938,9 +23938,9 @@
    "initiate_checkout": 4,
    "purchases": 1,
    "purchase_value": 66.6,
-   "cost_per_atc": 7.99,
-   "cost_per_ic": 9.98,
-   "cpa": 39.94,
+   "cost_per_atc": 8.0,
+   "cost_per_ic": 9.99,
+   "cpa": 39.98,
    "roas": 1.67,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-28"
@@ -29436,8 +29436,8 @@
    ]
   },
   "metrics": {
-   "spend": 31.26,
-   "impressions": 3858,
+   "spend": 31.28,
+   "impressions": 3860,
    "reach": 2545,
    "frequency": 1.52,
    "cpm": 8.1,
@@ -29446,7 +29446,7 @@
    "cpc_link": 0.55,
    "video_3s_views": 705,
    "thruplays": 185,
-   "hook_rate_pct": 18.27,
+   "hook_rate_pct": 18.26,
    "hold_rate_pct": 26.24,
    "p25": 237,
    "p50": 133,
@@ -29459,8 +29459,8 @@
    "purchases": 2,
    "purchase_value": 133.2,
    "cost_per_atc": 4.47,
-   "cost_per_ic": 15.63,
-   "cpa": 15.63,
+   "cost_per_ic": 15.64,
+   "cpa": 15.64,
    "roas": 4.26,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-28"
@@ -34242,7 +34242,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23859167932900795",
    "post_link": "https://www.facebook.com/803246616207248_1692541252542092",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1692541252542092"
   }
  },
  {
@@ -35182,7 +35182,7 @@
   "created_time": "2025-12-07T18:57:46+0200",
   "creative_id": "1169587511494120",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "It’s giving… lifted roots, silky shine, and that fresh blowout bounce 😌\n\nMeet the Blowout Boost: dual-heat plates + ionic tech that smooths, adds shine, cuts styling time in half with max volume and minimal effort. 💨💗\n\nAvailable now at the WavyTalk Lebanon Store! Your turn, try it and thank us later 🎀 #wavytalk #hair #hairtools #wavytalklebanon #grwm"
@@ -35247,7 +35247,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23851071267850795",
    "post_link": "https://www.facebook.com/803246616207248_25411085438545626",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1461293495502564"
   }
  },
  {
@@ -38479,17 +38479,17 @@
   },
   "metrics": {
    "spend": 20.44,
-   "impressions": 2714,
-   "reach": 647,
-   "frequency": 4.19,
+   "impressions": 2715,
+   "reach": 649,
+   "frequency": 4.18,
    "cpm": 7.53,
    "link_clicks": 37,
    "link_ctr_pct": 1.36,
    "cpc_link": 0.55,
-   "video_3s_views": 517,
+   "video_3s_views": 518,
    "thruplays": 229,
-   "hook_rate_pct": 19.05,
-   "hold_rate_pct": 44.29,
+   "hook_rate_pct": 19.08,
+   "hold_rate_pct": 44.21,
    "p25": 228,
    "p50": 86,
    "p75": 45,
@@ -39947,17 +39947,17 @@
    ]
   },
   "metrics": {
-   "spend": 19.15,
-   "impressions": 2069,
-   "reach": 1495,
-   "frequency": 1.38,
-   "cpm": 9.26,
+   "spend": 19.33,
+   "impressions": 2085,
+   "reach": 1501,
+   "frequency": 1.39,
+   "cpm": 9.27,
    "link_clicks": 27,
-   "link_ctr_pct": 1.3,
-   "cpc_link": 0.71,
+   "link_ctr_pct": 1.29,
+   "cpc_link": 0.72,
    "video_3s_views": 439,
    "thruplays": 79,
-   "hook_rate_pct": 21.22,
+   "hook_rate_pct": 21.06,
    "hold_rate_pct": 18.0,
    "p25": 185,
    "p50": 104,
@@ -39969,10 +39969,10 @@
    "initiate_checkout": 3,
    "purchases": 1,
    "purchase_value": 130.0,
-   "cost_per_atc": 3.83,
-   "cost_per_ic": 6.38,
-   "cpa": 19.15,
-   "roas": 6.79,
+   "cost_per_atc": 3.87,
+   "cost_per_ic": 6.44,
+   "cpa": 19.33,
+   "roas": 6.73,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-28"
   },
@@ -40037,17 +40037,17 @@
    ]
   },
   "metrics": {
-   "spend": 19.13,
-   "impressions": 2545,
-   "reach": 1860,
+   "spend": 19.17,
+   "impressions": 2558,
+   "reach": 1862,
    "frequency": 1.37,
-   "cpm": 7.52,
+   "cpm": 7.49,
    "link_clicks": 32,
-   "link_ctr_pct": 1.26,
+   "link_ctr_pct": 1.25,
    "cpc_link": 0.6,
    "video_3s_views": 618,
    "thruplays": 164,
-   "hook_rate_pct": 24.28,
+   "hook_rate_pct": 24.16,
    "hold_rate_pct": 26.54,
    "p25": 278,
    "p50": 176,
@@ -40059,7 +40059,7 @@
    "initiate_checkout": 0,
    "purchases": 0,
    "purchase_value": 0.0,
-   "cost_per_atc": 9.56,
+   "cost_per_atc": 9.59,
    "cost_per_ic": null,
    "cpa": null,
    "roas": 0.0,
@@ -40093,6 +40093,106 @@
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860153716010795",
    "post_link": "https://www.facebook.com/803246616207248_122156125515058569",
    "video_link": "https://www.facebook.com/23849366283980795/videos/1676897253843525/?idorvanity=23849366283980795"
+  }
+ },
+ {
+  "ad_id": "23860153367730795",
+  "ad_name": "Blowout Boost - silent fall hair - US Video",
+  "campaign_id": "23859418885870795",
+  "adset_id": "23860153367740795",
+  "campaign_name": "Prospecting Testing",
+  "adset_name": "Pack #100 - Blowout Boost - US Videos - 19/11/2026",
+  "creative": {
+   "id": "1451375044725756",
+   "effective_object_story_id": "803246616207248_122156125443058569",
+   "effective_instagram_media_id": "17965347929998820"
+  },
+  "status": "ACTIVE",
+  "created_time": "2026-11-25T13:28:51+0200",
+  "creative_id": "1451375044725756",
+  "market": "LB",
+  "product": "Blowout Boost",
+  "copy": {
+   "primary_texts": [
+    "fall weather = blowout season 🍁☕️\n\nCooler days mean big, bouncy, '70s-inspired volume that actually holds.\n\nShe pins the top up, rolls each section around the Blowout Boost, and lets the curls fall loose. Then she lifts the crown for height and sweeps the curtain bangs away from her face.\n\nThe result is soft, swoopy and very cozy-chic 🤎\n\nGet your blowout boost today!",
+    "3 years later, this brush still surprises me every time I use it 🤍\n\nThe secret to a salon-quality blowout at home? The Blowout Boost. Get yours for $69.",
+    "The secret to effortless, bouncy curls? The Blowout Boost. This game-changing tool creates a fresh salon blowout look without leaving your bathroom!\n\nOnly $69 - try risk-free: pay when it arrives.",
+    "Say goodbye to bad hair days! 🤍 Get salon-quality curls at home with the Blowout Boost. Wrap, hold, and drop for a big, glossy curl that looks like you just stepped out of the salon.\n\n$69 - pay when it's delivered!",
+    "Still using my trusty 3-year-old brush 🤍. Wrap, hold, drop - effortless glossy curls every time! Yours for just $69 (pay at door).",
+    "You only pay when it's at your door! Get the Blowout Boost for $69 and achieve salon-quality curls without leaving home."
+   ],
+   "headlines": [
+    "Fall Weather = Blowout Season",
+    "Still gets it done after 3 years",
+    "The blowout brush that never fades",
+    "3 years in, still my go-to curl tool",
+    "Get salon-quality curls at home",
+    "Achieve a fresh salon blowout look"
+   ],
+   "landing_urls": [
+    "https://wavytalk-lb.com/products/blowout-boost?variant=47146859430026"
+   ],
+   "ctas": [
+    "SHOP_NOW"
+   ]
+  },
+  "metrics": {
+   "spend": 19.1,
+   "impressions": 3363,
+   "reach": 2532,
+   "frequency": 1.33,
+   "cpm": 5.68,
+   "link_clicks": 30,
+   "link_ctr_pct": 0.89,
+   "cpc_link": 0.64,
+   "video_3s_views": 721,
+   "thruplays": 119,
+   "hook_rate_pct": 21.44,
+   "hold_rate_pct": 16.5,
+   "p25": 694,
+   "p50": 310,
+   "p75": 180,
+   "p100": 122,
+   "avg_watch_s": 2.0,
+   "landing_page_views": 18,
+   "add_to_cart": 0,
+   "initiate_checkout": 0,
+   "purchases": 0,
+   "purchase_value": 0.0,
+   "cost_per_atc": null,
+   "cost_per_ic": null,
+   "cpa": null,
+   "roas": 0.0,
+   "date_start": "2025-10-07",
+   "date_stop": "2026-11-28"
+  },
+  "media_keys": [
+   "v_1112209421815242"
+  ],
+  "rotating": false,
+  "context": {
+   "campaign_role": "testing",
+   "funnel_stage": "cold (TOF)",
+   "objective": "OUTCOME_SALES",
+   "budget_type": "ABO",
+   "optimization_goal": "OFFSITE_CONVERSIONS",
+   "bid_strategy": "LOWEST_COST_WITHOUT_CAP",
+   "audience_type": "broad",
+   "advantage_audience": true,
+   "age_range": "18-65",
+   "genders": "all",
+   "countries": "LB",
+   "interests": "",
+   "included_audiences": "",
+   "excluded_audiences": "Purchasers 180 days | Web Visitors 30 | Klaviyo purchasers last 180 days",
+   "excludes_web_visitors": true,
+   "market_from_targeting": "LB"
+  },
+  "creator": "",
+  "links": {
+   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860153367730795",
+   "post_link": "https://www.facebook.com/803246616207248_122156125443058569",
+   "video_link": "https://www.facebook.com/23849366283980795/videos/1676292030545572/?idorvanity=23849366283980795"
   }
  },
  {
@@ -40137,29 +40237,29 @@
    ]
   },
   "metrics": {
-   "spend": 19.03,
-   "impressions": 3505,
-   "reach": 2982,
+   "spend": 19.09,
+   "impressions": 3520,
+   "reach": 2990,
    "frequency": 1.18,
-   "cpm": 5.43,
+   "cpm": 5.42,
    "link_clicks": 34,
    "link_ctr_pct": 0.97,
    "cpc_link": 0.56,
-   "video_3s_views": 1084,
-   "thruplays": 253,
-   "hook_rate_pct": 30.93,
-   "hold_rate_pct": 23.34,
-   "p25": 663,
-   "p50": 235,
-   "p75": 170,
-   "p100": 130,
+   "video_3s_views": 1089,
+   "thruplays": 255,
+   "hook_rate_pct": 30.94,
+   "hold_rate_pct": 23.42,
+   "p25": 666,
+   "p50": 237,
+   "p75": 172,
+   "p100": 131,
    "avg_watch_s": 5.0,
    "landing_page_views": 24,
    "add_to_cart": 2,
    "initiate_checkout": 0,
    "purchases": 0,
    "purchase_value": 0.0,
-   "cost_per_atc": 9.52,
+   "cost_per_atc": 9.54,
    "cost_per_ic": null,
    "cpa": null,
    "roas": 0.0,
@@ -40237,17 +40337,17 @@
    ]
   },
   "metrics": {
-   "spend": 19.0,
-   "impressions": 2413,
-   "reach": 1760,
+   "spend": 19.07,
+   "impressions": 2422,
+   "reach": 1763,
    "frequency": 1.37,
    "cpm": 7.87,
    "link_clicks": 26,
-   "link_ctr_pct": 1.08,
+   "link_ctr_pct": 1.07,
    "cpc_link": 0.73,
    "video_3s_views": 535,
    "thruplays": 88,
-   "hook_rate_pct": 22.17,
+   "hook_rate_pct": 22.09,
    "hold_rate_pct": 16.45,
    "p25": 94,
    "p50": 34,
@@ -40259,10 +40359,10 @@
    "initiate_checkout": 2,
    "purchases": 2,
    "purchase_value": 133.2,
-   "cost_per_atc": 6.33,
-   "cost_per_ic": 9.5,
-   "cpa": 9.5,
-   "roas": 7.01,
+   "cost_per_atc": 6.36,
+   "cost_per_ic": 9.54,
+   "cpa": 9.54,
+   "roas": 6.98,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-28"
   },
@@ -40388,6 +40488,106 @@
   }
  },
  {
+  "ad_id": "23860153630680795",
+  "ad_name": "Steambrush - Straight hair >> - US Video",
+  "campaign_id": "23859418885870795",
+  "adset_id": "23860153630690795",
+  "campaign_name": "Prospecting Testing",
+  "adset_name": "Pack #106 - Steambrush - US Videos - 24/11/2026",
+  "creative": {
+   "id": "1608990420550475",
+   "effective_object_story_id": "803246616207248_122156125449058569",
+   "effective_instagram_media_id": "18115639867891735"
+  },
+  "status": "ACTIVE",
+  "created_time": "2026-11-25T13:28:51+0200",
+  "creative_id": "1608990420550475",
+  "market": "LB",
+  "product": "Steambrush Pro",
+  "copy": {
+   "primary_texts": [
+    "Straight hair >>> and this was a LOT of hair to straighten 🧡\n\nShe started with waist-length, crimped, frizzy ginger curls. Pinning the top up in two little buns, she glided the Steambrush Pro 2.0 through section by section, and the curls turned into glass-like, swishy, poker-straight length.\n\nThe steam keeps it soft and shiny the whole way down, even on hair this long.\n\nIf you've been saving straight-hair inspo, this is how you actually get it ✨\n\nGet your Steambrush Pro today!",
+    "3 years later, this brush still surprises me every time I use it 🤍\n\nThe secret to a salon-quality blowout at home? The Blowout Boost. Get yours for $69.",
+    "The secret to effortless, bouncy curls? The Blowout Boost. This game-changing tool creates a fresh salon blowout look without leaving your bathroom!\n\nOnly $69 - try risk-free: pay when it arrives.",
+    "Say goodbye to bad hair days! 🤍 Get salon-quality curls at home with the Blowout Boost. Wrap, hold, and drop for a big, glossy curl that looks like you just stepped out of the salon.\n\n$69 - pay when it's delivered!",
+    "Still using my trusty 3-year-old brush 🤍. Wrap, hold, drop - effortless glossy curls every time! Yours for just $69 (pay at door).",
+    "You only pay when it's at your door! Get the Blowout Boost for $69 and achieve salon-quality curls without leaving home."
+   ],
+   "headlines": [
+    "Waist-Length Curls to Glass Hair",
+    "Still gets it done after 3 years",
+    "The blowout brush that never fades",
+    "3 years in, still my go-to curl tool",
+    "Get salon-quality curls at home",
+    "Achieve a fresh salon blowout look"
+   ],
+   "landing_urls": [
+    "https://wavytalk-lb.com/products/steamline-pro?variant=47456669663370"
+   ],
+   "ctas": [
+    "SHOP_NOW"
+   ]
+  },
+  "metrics": {
+   "spend": 18.98,
+   "impressions": 2954,
+   "reach": 2349,
+   "frequency": 1.26,
+   "cpm": 6.43,
+   "link_clicks": 28,
+   "link_ctr_pct": 0.95,
+   "cpc_link": 0.68,
+   "video_3s_views": 867,
+   "thruplays": 323,
+   "hook_rate_pct": 29.35,
+   "hold_rate_pct": 37.25,
+   "p25": 662,
+   "p50": 412,
+   "p75": 341,
+   "p100": 158,
+   "avg_watch_s": 4.0,
+   "landing_page_views": 22,
+   "add_to_cart": 0,
+   "initiate_checkout": 0,
+   "purchases": 0,
+   "purchase_value": 0.0,
+   "cost_per_atc": null,
+   "cost_per_ic": null,
+   "cpa": null,
+   "roas": 0.0,
+   "date_start": "2025-10-07",
+   "date_stop": "2026-11-28"
+  },
+  "media_keys": [
+   "v_3740510972777668"
+  ],
+  "rotating": false,
+  "context": {
+   "campaign_role": "testing",
+   "funnel_stage": "cold (TOF)",
+   "objective": "OUTCOME_SALES",
+   "budget_type": "ABO",
+   "optimization_goal": "OFFSITE_CONVERSIONS",
+   "bid_strategy": "LOWEST_COST_WITHOUT_CAP",
+   "audience_type": "broad",
+   "advantage_audience": true,
+   "age_range": "18-65",
+   "genders": "all",
+   "countries": "LB",
+   "interests": "",
+   "included_audiences": "",
+   "excluded_audiences": "Purchasers 180 days | Web Visitors 30 | Klaviyo purchasers last 180 days",
+   "excludes_web_visitors": true,
+   "market_from_targeting": "LB"
+  },
+  "creator": "",
+  "links": {
+   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860153630680795",
+   "post_link": "https://www.facebook.com/803246616207248_122156125449058569",
+   "video_link": "https://www.facebook.com/23849366283980795/videos/1544392231055557/?idorvanity=23849366283980795"
+  }
+ },
+ {
   "ad_id": "23859942249460795",
   "ad_name": "Blowout Boost - Easy Blowout hair - US Video",
   "campaign_id": "23859418885870795",
@@ -40488,106 +40688,6 @@
   }
  },
  {
-  "ad_id": "23860153367730795",
-  "ad_name": "Blowout Boost - silent fall hair - US Video",
-  "campaign_id": "23859418885870795",
-  "adset_id": "23860153367740795",
-  "campaign_name": "Prospecting Testing",
-  "adset_name": "Pack #100 - Blowout Boost - US Videos - 19/11/2026",
-  "creative": {
-   "id": "1451375044725756",
-   "effective_object_story_id": "803246616207248_122156125443058569",
-   "effective_instagram_media_id": "17965347929998820"
-  },
-  "status": "ACTIVE",
-  "created_time": "2026-11-25T13:28:51+0200",
-  "creative_id": "1451375044725756",
-  "market": "LB",
-  "product": "Blowout Boost",
-  "copy": {
-   "primary_texts": [
-    "fall weather = blowout season 🍁☕️\n\nCooler days mean big, bouncy, '70s-inspired volume that actually holds.\n\nShe pins the top up, rolls each section around the Blowout Boost, and lets the curls fall loose. Then she lifts the crown for height and sweeps the curtain bangs away from her face.\n\nThe result is soft, swoopy and very cozy-chic 🤎\n\nGet your blowout boost today!",
-    "3 years later, this brush still surprises me every time I use it 🤍\n\nThe secret to a salon-quality blowout at home? The Blowout Boost. Get yours for $69.",
-    "The secret to effortless, bouncy curls? The Blowout Boost. This game-changing tool creates a fresh salon blowout look without leaving your bathroom!\n\nOnly $69 - try risk-free: pay when it arrives.",
-    "Say goodbye to bad hair days! 🤍 Get salon-quality curls at home with the Blowout Boost. Wrap, hold, and drop for a big, glossy curl that looks like you just stepped out of the salon.\n\n$69 - pay when it's delivered!",
-    "Still using my trusty 3-year-old brush 🤍. Wrap, hold, drop - effortless glossy curls every time! Yours for just $69 (pay at door).",
-    "You only pay when it's at your door! Get the Blowout Boost for $69 and achieve salon-quality curls without leaving home."
-   ],
-   "headlines": [
-    "Fall Weather = Blowout Season",
-    "Still gets it done after 3 years",
-    "The blowout brush that never fades",
-    "3 years in, still my go-to curl tool",
-    "Get salon-quality curls at home",
-    "Achieve a fresh salon blowout look"
-   ],
-   "landing_urls": [
-    "https://wavytalk-lb.com/products/blowout-boost?variant=47146859430026"
-   ],
-   "ctas": [
-    "SHOP_NOW"
-   ]
-  },
-  "metrics": {
-   "spend": 18.95,
-   "impressions": 3348,
-   "reach": 2527,
-   "frequency": 1.32,
-   "cpm": 5.66,
-   "link_clicks": 30,
-   "link_ctr_pct": 0.9,
-   "cpc_link": 0.63,
-   "video_3s_views": 721,
-   "thruplays": 119,
-   "hook_rate_pct": 21.54,
-   "hold_rate_pct": 16.5,
-   "p25": 694,
-   "p50": 310,
-   "p75": 180,
-   "p100": 122,
-   "avg_watch_s": 2.0,
-   "landing_page_views": 18,
-   "add_to_cart": 0,
-   "initiate_checkout": 0,
-   "purchases": 0,
-   "purchase_value": 0.0,
-   "cost_per_atc": null,
-   "cost_per_ic": null,
-   "cpa": null,
-   "roas": 0.0,
-   "date_start": "2025-10-07",
-   "date_stop": "2026-11-28"
-  },
-  "media_keys": [
-   "v_1112209421815242"
-  ],
-  "rotating": false,
-  "context": {
-   "campaign_role": "testing",
-   "funnel_stage": "cold (TOF)",
-   "objective": "OUTCOME_SALES",
-   "budget_type": "ABO",
-   "optimization_goal": "OFFSITE_CONVERSIONS",
-   "bid_strategy": "LOWEST_COST_WITHOUT_CAP",
-   "audience_type": "broad",
-   "advantage_audience": true,
-   "age_range": "18-65",
-   "genders": "all",
-   "countries": "LB",
-   "interests": "",
-   "included_audiences": "",
-   "excluded_audiences": "Purchasers 180 days | Web Visitors 30 | Klaviyo purchasers last 180 days",
-   "excludes_web_visitors": true,
-   "market_from_targeting": "LB"
-  },
-  "creator": "",
-  "links": {
-   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860153367730795",
-   "post_link": "https://www.facebook.com/803246616207248_122156125443058569",
-   "video_link": "https://www.facebook.com/23849366283980795/videos/1676292030545572/?idorvanity=23849366283980795"
-  }
- },
- {
   "ad_id": "23860153504260795",
   "ad_name": "Blowout Boost - fall is for blowouts - US Video",
   "campaign_id": "23859418885870795",
@@ -40629,20 +40729,20 @@
    ]
   },
   "metrics": {
-   "spend": 18.88,
-   "impressions": 2307,
-   "reach": 1763,
+   "spend": 18.95,
+   "impressions": 2317,
+   "reach": 1775,
    "frequency": 1.31,
    "cpm": 8.18,
    "link_clicks": 18,
    "link_ctr_pct": 0.78,
    "cpc_link": 1.05,
-   "video_3s_views": 480,
+   "video_3s_views": 483,
    "thruplays": 70,
-   "hook_rate_pct": 20.81,
-   "hold_rate_pct": 14.58,
-   "p25": 365,
-   "p50": 196,
+   "hook_rate_pct": 20.85,
+   "hold_rate_pct": 14.49,
+   "p25": 368,
+   "p50": 197,
    "p75": 132,
    "p100": 70,
    "avg_watch_s": 3.0,
@@ -40651,7 +40751,7 @@
    "initiate_checkout": 0,
    "purchases": 0,
    "purchase_value": 0.0,
-   "cost_per_atc": 18.88,
+   "cost_per_atc": 18.95,
    "cost_per_ic": null,
    "cpa": null,
    "roas": 0.0,
@@ -40688,103 +40788,93 @@
   }
  },
  {
-  "ad_id": "23860153630680795",
-  "ad_name": "Steambrush - Straight hair >> - US Video",
-  "campaign_id": "23859418885870795",
-  "adset_id": "23860153630690795",
-  "campaign_name": "Prospecting Testing",
-  "adset_name": "Pack #106 - Steambrush - US Videos - 24/11/2026",
+  "ad_id": "23860136182570795",
+  "ad_name": "Blowout Boost - Black Friday - Static 2",
+  "campaign_id": "23859136155560795",
+  "adset_id": "23859411570250795",
+  "campaign_name": "Retargeting",
+  "adset_name": "Pack #4 - 17/10/26 - Blowout Boost",
   "creative": {
-   "id": "1608990420550475",
-   "effective_object_story_id": "803246616207248_122156125449058569",
-   "effective_instagram_media_id": "18115639867891735"
+   "id": "1785779476054121",
+   "effective_object_story_id": "803246616207248_122155900383058569",
+   "effective_instagram_media_id": "18018805952971641"
   },
   "status": "ACTIVE",
-  "created_time": "2026-11-25T13:28:51+0200",
-  "creative_id": "1608990420550475",
+  "created_time": "2026-11-23T21:57:09+0200",
+  "creative_id": "1785779476054121",
   "market": "LB",
-  "product": "Steambrush Pro",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
-    "Straight hair >>> and this was a LOT of hair to straighten 🧡\n\nShe started with waist-length, crimped, frizzy ginger curls. Pinning the top up in two little buns, she glided the Steambrush Pro 2.0 through section by section, and the curls turned into glass-like, swishy, poker-straight length.\n\nThe steam keeps it soft and shiny the whole way down, even on hair this long.\n\nIf you've been saving straight-hair inspo, this is how you actually get it ✨\n\nGet your Steambrush Pro today!",
-    "3 years later, this brush still surprises me every time I use it 🤍\n\nThe secret to a salon-quality blowout at home? The Blowout Boost. Get yours for $69.",
-    "The secret to effortless, bouncy curls? The Blowout Boost. This game-changing tool creates a fresh salon blowout look without leaving your bathroom!\n\nOnly $69 - try risk-free: pay when it arrives.",
-    "Say goodbye to bad hair days! 🤍 Get salon-quality curls at home with the Blowout Boost. Wrap, hold, and drop for a big, glossy curl that looks like you just stepped out of the salon.\n\n$69 - pay when it's delivered!",
-    "Still using my trusty 3-year-old brush 🤍. Wrap, hold, drop - effortless glossy curls every time! Yours for just $69 (pay at door).",
-    "You only pay when it's at your door! Get the Blowout Boost for $69 and achieve salon-quality curls without leaving home."
+    "Blowoit Boost now at $62.1 for Black Friday 🎀\n\nSale ends soon, order today!"
    ],
    "headlines": [
-    "Waist-Length Curls to Glass Hair",
-    "Still gets it done after 3 years",
-    "The blowout brush that never fades",
-    "3 years in, still my go-to curl tool",
-    "Get salon-quality curls at home",
-    "Achieve a fresh salon blowout look"
+    "Blowout Boost | 30% OFF"
    ],
    "landing_urls": [
-    "https://wavytalk-lb.com/products/steamline-pro?variant=47456669663370"
+    "https://wavytalk-lb.com/products/blowout-boost?variant=47146859430026"
    ],
    "ctas": [
     "SHOP_NOW"
    ]
   },
   "metrics": {
-   "spend": 18.88,
-   "impressions": 2940,
-   "reach": 2344,
-   "frequency": 1.25,
-   "cpm": 6.42,
-   "link_clicks": 28,
-   "link_ctr_pct": 0.95,
-   "cpc_link": 0.67,
-   "video_3s_views": 865,
-   "thruplays": 323,
-   "hook_rate_pct": 29.42,
-   "hold_rate_pct": 37.34,
-   "p25": 662,
-   "p50": 412,
-   "p75": 341,
-   "p100": 158,
-   "avg_watch_s": 4.0,
-   "landing_page_views": 22,
-   "add_to_cart": 0,
-   "initiate_checkout": 0,
-   "purchases": 0,
-   "purchase_value": 0.0,
-   "cost_per_atc": null,
-   "cost_per_ic": null,
-   "cpa": null,
-   "roas": 0.0,
+   "spend": 18.8,
+   "impressions": 2542,
+   "reach": 1416,
+   "frequency": 1.8,
+   "cpm": 7.4,
+   "link_clicks": 63,
+   "link_ctr_pct": 2.48,
+   "cpc_link": 0.3,
+   "video_3s_views": 0,
+   "thruplays": 0,
+   "hook_rate_pct": 0.0,
+   "hold_rate_pct": null,
+   "p25": 0,
+   "p50": 0,
+   "p75": 0,
+   "p100": 0,
+   "avg_watch_s": 0,
+   "landing_page_views": 57,
+   "add_to_cart": 14,
+   "initiate_checkout": 7,
+   "purchases": 2,
+   "purchase_value": 133.2,
+   "cost_per_atc": 1.34,
+   "cost_per_ic": 2.69,
+   "cpa": 9.4,
+   "roas": 7.09,
    "date_start": "2025-10-07",
    "date_stop": "2026-11-28"
   },
   "media_keys": [
-   "v_3740510972777668"
+   "i_058144a48c0e690ccf8767ef76d9ceb9"
   ],
   "rotating": false,
   "context": {
-   "campaign_role": "testing",
-   "funnel_stage": "cold (TOF)",
+   "campaign_role": "retargeting",
+   "funnel_stage": "warm (MOF/BOF)",
    "objective": "OUTCOME_SALES",
-   "budget_type": "ABO",
+   "budget_type": "CBO",
    "optimization_goal": "OFFSITE_CONVERSIONS",
-   "bid_strategy": "LOWEST_COST_WITHOUT_CAP",
-   "audience_type": "broad",
-   "advantage_audience": true,
+   "bid_strategy": "",
+   "audience_type": "warm_custom_audience",
+   "advantage_audience": false,
    "age_range": "18-65",
    "genders": "all",
    "countries": "LB",
    "interests": "",
-   "included_audiences": "",
-   "excluded_audiences": "Purchasers 180 days | Web Visitors 30 | Klaviyo purchasers last 180 days",
-   "excludes_web_visitors": true,
+   "included_audiences": "ATC 90 | IC 90 | Web Visitors 30",
+   "excluded_audiences": "Purchasers 180 days | Klaviyo purchasers last 180 days",
+   "excludes_web_visitors": false,
    "market_from_targeting": "LB"
   },
   "creator": "",
   "links": {
-   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860153630680795",
-   "post_link": "https://www.facebook.com/803246616207248_122156125449058569",
-   "video_link": "https://www.facebook.com/23849366283980795/videos/1544392231055557/?idorvanity=23849366283980795"
+   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860136182570795",
+   "post_link": "https://www.facebook.com/803246616207248_122155900383058569",
+   "video_link": ""
   }
  },
  {
@@ -40965,96 +41055,6 @@
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23859526256500795",
    "post_link": "https://www.facebook.com/803246616207248_122151354327058569",
    "video_link": "https://www.facebook.com/23849366283980795/videos/28803681672576177/?idorvanity=23849366283980795"
-  }
- },
- {
-  "ad_id": "23860136182570795",
-  "ad_name": "Blowout Boost - Black Friday - Static 2",
-  "campaign_id": "23859136155560795",
-  "adset_id": "23859411570250795",
-  "campaign_name": "Retargeting",
-  "adset_name": "Pack #4 - 17/10/26 - Blowout Boost",
-  "creative": {
-   "id": "1785779476054121",
-   "effective_object_story_id": "803246616207248_122155900383058569",
-   "effective_instagram_media_id": "18018805952971641"
-  },
-  "status": "ACTIVE",
-  "created_time": "2026-11-23T21:57:09+0200",
-  "creative_id": "1785779476054121",
-  "market": "LB",
-  "product": "Blowout Boost",
-  "copy": {
-   "primary_texts": [
-    "Blowoit Boost now at $62.1 for Black Friday 🎀\n\nSale ends soon, order today!"
-   ],
-   "headlines": [
-    "Blowout Boost | 30% OFF"
-   ],
-   "landing_urls": [
-    "https://wavytalk-lb.com/products/blowout-boost?variant=47146859430026"
-   ],
-   "ctas": [
-    "SHOP_NOW"
-   ]
-  },
-  "metrics": {
-   "spend": 18.76,
-   "impressions": 2531,
-   "reach": 1416,
-   "frequency": 1.79,
-   "cpm": 7.41,
-   "link_clicks": 63,
-   "link_ctr_pct": 2.49,
-   "cpc_link": 0.3,
-   "video_3s_views": 0,
-   "thruplays": 0,
-   "hook_rate_pct": 0.0,
-   "hold_rate_pct": null,
-   "p25": 0,
-   "p50": 0,
-   "p75": 0,
-   "p100": 0,
-   "avg_watch_s": 0,
-   "landing_page_views": 57,
-   "add_to_cart": 14,
-   "initiate_checkout": 7,
-   "purchases": 2,
-   "purchase_value": 133.2,
-   "cost_per_atc": 1.34,
-   "cost_per_ic": 2.68,
-   "cpa": 9.38,
-   "roas": 7.1,
-   "date_start": "2025-10-07",
-   "date_stop": "2026-11-28"
-  },
-  "media_keys": [
-   "i_058144a48c0e690ccf8767ef76d9ceb9"
-  ],
-  "rotating": false,
-  "context": {
-   "campaign_role": "retargeting",
-   "funnel_stage": "warm (MOF/BOF)",
-   "objective": "OUTCOME_SALES",
-   "budget_type": "CBO",
-   "optimization_goal": "OFFSITE_CONVERSIONS",
-   "bid_strategy": "",
-   "audience_type": "warm_custom_audience",
-   "advantage_audience": false,
-   "age_range": "18-65",
-   "genders": "all",
-   "countries": "LB",
-   "interests": "",
-   "included_audiences": "ATC 90 | IC 90 | Web Visitors 30",
-   "excluded_audiences": "Purchasers 180 days | Klaviyo purchasers last 180 days",
-   "excludes_web_visitors": false,
-   "market_from_targeting": "LB"
-  },
-  "creator": "",
-  "links": {
-   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860136182570795",
-   "post_link": "https://www.facebook.com/803246616207248_122155900383058569",
-   "video_link": ""
   }
  },
  {
@@ -41618,6 +41618,106 @@
   }
  },
  {
+  "ad_id": "23860153421440795",
+  "ad_name": "Steambrush - frizzy & Curly-haired Girls - US Video",
+  "campaign_id": "23859418885870795",
+  "adset_id": "23860153421430795",
+  "campaign_name": "Prospecting Testing",
+  "adset_name": "Pack #101 - Steambrush - US Videos - 19/11/2026",
+  "creative": {
+   "id": "1515700213738185",
+   "effective_object_story_id": "803246616207248_122156125497058569",
+   "effective_instagram_media_id": "18092244536280420"
+  },
+  "status": "ACTIVE",
+  "created_time": "2026-11-25T13:28:51+0200",
+  "creative_id": "1515700213738185",
+  "market": "LB",
+  "product": "Steambrush Pro",
+  "copy": {
+   "primary_texts": [
+    "Frizzy and curly-haired girls, this one's for you 💗\n\nShe has very thick, very long, wavy-curly hair, and she was nervous it wouldn't work. Then the Steambrush Pro 2.0 glided right through.\n\n💨 Steam locks in moisture, so hair comes out super soft\n🪮 Comb teeth get close to the scalp without burning\n✨ Comb straight through for sleek, straight hair, or use the included heat glove to bend the ends for a blowout look\n\nThick hair, tamed in style 🤍\n\nGet your Steambrush Pro today!",
+    "3 years later, this brush still surprises me every time I use it 🤍\n\nThe secret to a salon-quality blowout at home? The Blowout Boost. Get yours for $69.",
+    "The secret to effortless, bouncy curls? The Blowout Boost. This game-changing tool creates a fresh salon blowout look without leaving your bathroom!\n\nOnly $69 - try risk-free: pay when it arrives.",
+    "Say goodbye to bad hair days! 🤍 Get salon-quality curls at home with the Blowout Boost. Wrap, hold, and drop for a big, glossy curl that looks like you just stepped out of the salon.\n\n$69 - pay when it's delivered!",
+    "Still using my trusty 3-year-old brush 🤍. Wrap, hold, drop - effortless glossy curls every time! Yours for just $69 (pay at door).",
+    "You only pay when it's at your door! Get the Blowout Boost for $69 and achieve salon-quality curls without leaving home."
+   ],
+   "headlines": [
+    "Thick, Frizzy Curls, Finally Tamed",
+    "Still gets it done after 3 years",
+    "The blowout brush that never fades",
+    "3 years in, still my go-to curl tool",
+    "Get salon-quality curls at home",
+    "Achieve a fresh salon blowout look"
+   ],
+   "landing_urls": [
+    "https://wavytalk-lb.com/products/steamline-pro?variant=47456669663370"
+   ],
+   "ctas": [
+    "SHOP_NOW"
+   ]
+  },
+  "metrics": {
+   "spend": 18.36,
+   "impressions": 2693,
+   "reach": 1887,
+   "frequency": 1.43,
+   "cpm": 6.82,
+   "link_clicks": 18,
+   "link_ctr_pct": 0.67,
+   "cpc_link": 1.02,
+   "video_3s_views": 466,
+   "thruplays": 187,
+   "hook_rate_pct": 17.3,
+   "hold_rate_pct": 40.13,
+   "p25": 242,
+   "p50": 143,
+   "p75": 99,
+   "p100": 56,
+   "avg_watch_s": 3.0,
+   "landing_page_views": 14,
+   "add_to_cart": 1,
+   "initiate_checkout": 0,
+   "purchases": 0,
+   "purchase_value": 0.0,
+   "cost_per_atc": 18.36,
+   "cost_per_ic": null,
+   "cpa": null,
+   "roas": 0.0,
+   "date_start": "2025-10-07",
+   "date_stop": "2026-11-28"
+  },
+  "media_keys": [
+   "v_1922562672485908"
+  ],
+  "rotating": false,
+  "context": {
+   "campaign_role": "testing",
+   "funnel_stage": "cold (TOF)",
+   "objective": "OUTCOME_SALES",
+   "budget_type": "ABO",
+   "optimization_goal": "OFFSITE_CONVERSIONS",
+   "bid_strategy": "LOWEST_COST_WITHOUT_CAP",
+   "audience_type": "broad",
+   "advantage_audience": true,
+   "age_range": "18-65",
+   "genders": "all",
+   "countries": "LB",
+   "interests": "",
+   "included_audiences": "",
+   "excluded_audiences": "Purchasers 180 days | Web Visitors 30 | Klaviyo purchasers last 180 days",
+   "excludes_web_visitors": true,
+   "market_from_targeting": "LB"
+  },
+  "creator": "",
+  "links": {
+   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860153421440795",
+   "post_link": "https://www.facebook.com/803246616207248_122156125497058569",
+   "video_link": "https://www.facebook.com/23849366283980795/videos/1707616220958795/?idorvanity=23849366283980795"
+  }
+ },
+ {
   "ad_id": "23859326383360795",
   "ad_name": "Blowout Boost - You need to use this technique if your blowout keep falling flat - Silent - Gaelle Habshi",
   "campaign_id": "23859326181800795",
@@ -41892,106 +41992,6 @@
   }
  },
  {
-  "ad_id": "23860153421440795",
-  "ad_name": "Steambrush - frizzy & Curly-haired Girls - US Video",
-  "campaign_id": "23859418885870795",
-  "adset_id": "23860153421430795",
-  "campaign_name": "Prospecting Testing",
-  "adset_name": "Pack #101 - Steambrush - US Videos - 19/11/2026",
-  "creative": {
-   "id": "1515700213738185",
-   "effective_object_story_id": "803246616207248_122156125497058569",
-   "effective_instagram_media_id": "18092244536280420"
-  },
-  "status": "ACTIVE",
-  "created_time": "2026-11-25T13:28:51+0200",
-  "creative_id": "1515700213738185",
-  "market": "LB",
-  "product": "Steambrush Pro",
-  "copy": {
-   "primary_texts": [
-    "Frizzy and curly-haired girls, this one's for you 💗\n\nShe has very thick, very long, wavy-curly hair, and she was nervous it wouldn't work. Then the Steambrush Pro 2.0 glided right through.\n\n💨 Steam locks in moisture, so hair comes out super soft\n🪮 Comb teeth get close to the scalp without burning\n✨ Comb straight through for sleek, straight hair, or use the included heat glove to bend the ends for a blowout look\n\nThick hair, tamed in style 🤍\n\nGet your Steambrush Pro today!",
-    "3 years later, this brush still surprises me every time I use it 🤍\n\nThe secret to a salon-quality blowout at home? The Blowout Boost. Get yours for $69.",
-    "The secret to effortless, bouncy curls? The Blowout Boost. This game-changing tool creates a fresh salon blowout look without leaving your bathroom!\n\nOnly $69 - try risk-free: pay when it arrives.",
-    "Say goodbye to bad hair days! 🤍 Get salon-quality curls at home with the Blowout Boost. Wrap, hold, and drop for a big, glossy curl that looks like you just stepped out of the salon.\n\n$69 - pay when it's delivered!",
-    "Still using my trusty 3-year-old brush 🤍. Wrap, hold, drop - effortless glossy curls every time! Yours for just $69 (pay at door).",
-    "You only pay when it's at your door! Get the Blowout Boost for $69 and achieve salon-quality curls without leaving home."
-   ],
-   "headlines": [
-    "Thick, Frizzy Curls, Finally Tamed",
-    "Still gets it done after 3 years",
-    "The blowout brush that never fades",
-    "3 years in, still my go-to curl tool",
-    "Get salon-quality curls at home",
-    "Achieve a fresh salon blowout look"
-   ],
-   "landing_urls": [
-    "https://wavytalk-lb.com/products/steamline-pro?variant=47456669663370"
-   ],
-   "ctas": [
-    "SHOP_NOW"
-   ]
-  },
-  "metrics": {
-   "spend": 18.18,
-   "impressions": 2677,
-   "reach": 1879,
-   "frequency": 1.42,
-   "cpm": 6.79,
-   "link_clicks": 18,
-   "link_ctr_pct": 0.67,
-   "cpc_link": 1.01,
-   "video_3s_views": 466,
-   "thruplays": 187,
-   "hook_rate_pct": 17.41,
-   "hold_rate_pct": 40.13,
-   "p25": 242,
-   "p50": 143,
-   "p75": 99,
-   "p100": 56,
-   "avg_watch_s": 3.0,
-   "landing_page_views": 14,
-   "add_to_cart": 1,
-   "initiate_checkout": 0,
-   "purchases": 0,
-   "purchase_value": 0.0,
-   "cost_per_atc": 18.18,
-   "cost_per_ic": null,
-   "cpa": null,
-   "roas": 0.0,
-   "date_start": "2025-10-07",
-   "date_stop": "2026-11-28"
-  },
-  "media_keys": [
-   "v_1922562672485908"
-  ],
-  "rotating": false,
-  "context": {
-   "campaign_role": "testing",
-   "funnel_stage": "cold (TOF)",
-   "objective": "OUTCOME_SALES",
-   "budget_type": "ABO",
-   "optimization_goal": "OFFSITE_CONVERSIONS",
-   "bid_strategy": "LOWEST_COST_WITHOUT_CAP",
-   "audience_type": "broad",
-   "advantage_audience": true,
-   "age_range": "18-65",
-   "genders": "all",
-   "countries": "LB",
-   "interests": "",
-   "included_audiences": "",
-   "excluded_audiences": "Purchasers 180 days | Web Visitors 30 | Klaviyo purchasers last 180 days",
-   "excludes_web_visitors": true,
-   "market_from_targeting": "LB"
-  },
-  "creator": "",
-  "links": {
-   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860153421440795",
-   "post_link": "https://www.facebook.com/803246616207248_122156125497058569",
-   "video_link": "https://www.facebook.com/23849366283980795/videos/1707616220958795/?idorvanity=23849366283980795"
-  }
- },
- {
   "ad_id": "23852319467170795",
   "ad_name": "Video 12 US Influencer",
   "campaign_id": "23852238345900795",
@@ -42131,10 +42131,10 @@
    "link_clicks": 39,
    "link_ctr_pct": 1.76,
    "cpc_link": 0.47,
-   "video_3s_views": 408,
+   "video_3s_views": 409,
    "thruplays": 87,
-   "hook_rate_pct": 18.42,
-   "hold_rate_pct": 21.32,
+   "hook_rate_pct": 18.47,
+   "hold_rate_pct": 21.27,
    "p25": 88,
    "p50": 51,
    "p75": 36,
@@ -42538,7 +42538,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23855704478660795",
    "post_link": "https://www.facebook.com/1090120994193834_984086394359005",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122119313253324078/videos/984086394359005"
   }
  },
  {
@@ -42832,7 +42832,7 @@
   "created_time": "2025-11-17T11:12:09+0200",
   "creative_id": "1179715097688657",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "She understood the assignment.\nSmooth, shine, repeat 🔁"
@@ -42897,7 +42897,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23850561242680795",
    "post_link": "https://www.facebook.com/803246616207248_859587909924845",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/859587909924845"
   }
  },
  {
@@ -46019,6 +46019,96 @@
   }
  },
  {
+  "ad_id": "23860136273810795",
+  "ad_name": "Whirlwind - Black Friday - Static 2",
+  "campaign_id": "23859136155560795",
+  "adset_id": "23859642258160795",
+  "campaign_name": "Retargeting",
+  "adset_name": "Pack #6 - Whirlwind - US Videos - 20/10/2026",
+  "creative": {
+   "id": "1069366266173738",
+   "effective_object_story_id": "803246616207248_122155908747058569",
+   "effective_instagram_media_id": "18117898970332219"
+  },
+  "status": "ACTIVE",
+  "created_time": "2026-11-23T22:25:05+0200",
+  "creative_id": "1069366266173738",
+  "market": "LB",
+  "product": "Whirlwind Curl",
+  "copy": {
+   "primary_texts": [
+    "The quickest route to big, bouncy curls is this one tool 🌀\n\nHere’s the cheat code: clip the top up, twist the Whirlwind Curl as you glide down, and let the cool air do its thing. As you style, 104 tiny vents blow cool air around each curl to lock the shape in, so you can use less heat and still get curls that hold.\n\nCustomers say their curls last for days. Pick your heat setting, and your curls come out soft, shiny and full of bounce.\n\nGet yours this Black Friday before the sale ends!"
+   ],
+   "headlines": [
+    "Whirlwind Curl | $71.1 Black Friday Sale"
+   ],
+   "landing_urls": [
+    "https://wavytalk-lb.com/products/whirlwind-curl?variant=47829258993802"
+   ],
+   "ctas": [
+    "SHOP_NOW"
+   ]
+  },
+  "metrics": {
+   "spend": 15.24,
+   "impressions": 2151,
+   "reach": 1064,
+   "frequency": 2.02,
+   "cpm": 7.09,
+   "link_clicks": 31,
+   "link_ctr_pct": 1.44,
+   "cpc_link": 0.49,
+   "video_3s_views": 0,
+   "thruplays": 0,
+   "hook_rate_pct": 0.0,
+   "hold_rate_pct": null,
+   "p25": 0,
+   "p50": 0,
+   "p75": 0,
+   "p100": 0,
+   "avg_watch_s": 0,
+   "landing_page_views": 26,
+   "add_to_cart": 3,
+   "initiate_checkout": 2,
+   "purchases": 0,
+   "purchase_value": 0.0,
+   "cost_per_atc": 5.08,
+   "cost_per_ic": 7.62,
+   "cpa": null,
+   "roas": 0.0,
+   "date_start": "2025-10-07",
+   "date_stop": "2026-11-28"
+  },
+  "media_keys": [
+   "i_a7900084abac8ab8c19d7a8c1579b749"
+  ],
+  "rotating": false,
+  "context": {
+   "campaign_role": "retargeting",
+   "funnel_stage": "warm (MOF/BOF)",
+   "objective": "OUTCOME_SALES",
+   "budget_type": "CBO",
+   "optimization_goal": "OFFSITE_CONVERSIONS",
+   "bid_strategy": "",
+   "audience_type": "warm_custom_audience",
+   "advantage_audience": false,
+   "age_range": "18-65",
+   "genders": "all",
+   "countries": "LB",
+   "interests": "",
+   "included_audiences": "ATC 90 | IC 90 | Web Visitors 30",
+   "excluded_audiences": "Purchasers 180 days | Klaviyo purchasers last 180 days",
+   "excludes_web_visitors": false,
+   "market_from_targeting": "LB"
+  },
+  "creator": "",
+  "links": {
+   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860136273810795",
+   "post_link": "https://www.facebook.com/803246616207248_122155908747058569",
+   "video_link": ""
+  }
+ },
+ {
   "ad_id": "23852190159860795",
   "ad_name": "US Video 12",
   "campaign_id": "23852189403630795",
@@ -46106,96 +46196,6 @@
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23852190159860795",
    "post_link": "https://www.facebook.com/803246616207248_122118783231058569",
    "video_link": "https://www.facebook.com/23849366283980795/videos/1201714972047882/?idorvanity=23849366283980795"
-  }
- },
- {
-  "ad_id": "23860136273810795",
-  "ad_name": "Whirlwind - Black Friday - Static 2",
-  "campaign_id": "23859136155560795",
-  "adset_id": "23859642258160795",
-  "campaign_name": "Retargeting",
-  "adset_name": "Pack #6 - Whirlwind - US Videos - 20/10/2026",
-  "creative": {
-   "id": "1069366266173738",
-   "effective_object_story_id": "803246616207248_122155908747058569",
-   "effective_instagram_media_id": "18117898970332219"
-  },
-  "status": "ACTIVE",
-  "created_time": "2026-11-23T22:25:05+0200",
-  "creative_id": "1069366266173738",
-  "market": "LB",
-  "product": "Whirlwind Curl",
-  "copy": {
-   "primary_texts": [
-    "The quickest route to big, bouncy curls is this one tool 🌀\n\nHere’s the cheat code: clip the top up, twist the Whirlwind Curl as you glide down, and let the cool air do its thing. As you style, 104 tiny vents blow cool air around each curl to lock the shape in, so you can use less heat and still get curls that hold.\n\nCustomers say their curls last for days. Pick your heat setting, and your curls come out soft, shiny and full of bounce.\n\nGet yours this Black Friday before the sale ends!"
-   ],
-   "headlines": [
-    "Whirlwind Curl | $71.1 Black Friday Sale"
-   ],
-   "landing_urls": [
-    "https://wavytalk-lb.com/products/whirlwind-curl?variant=47829258993802"
-   ],
-   "ctas": [
-    "SHOP_NOW"
-   ]
-  },
-  "metrics": {
-   "spend": 15.21,
-   "impressions": 2146,
-   "reach": 1064,
-   "frequency": 2.02,
-   "cpm": 7.09,
-   "link_clicks": 31,
-   "link_ctr_pct": 1.44,
-   "cpc_link": 0.49,
-   "video_3s_views": 0,
-   "thruplays": 0,
-   "hook_rate_pct": 0.0,
-   "hold_rate_pct": null,
-   "p25": 0,
-   "p50": 0,
-   "p75": 0,
-   "p100": 0,
-   "avg_watch_s": 0,
-   "landing_page_views": 26,
-   "add_to_cart": 3,
-   "initiate_checkout": 2,
-   "purchases": 0,
-   "purchase_value": 0.0,
-   "cost_per_atc": 5.07,
-   "cost_per_ic": 7.61,
-   "cpa": null,
-   "roas": 0.0,
-   "date_start": "2025-10-07",
-   "date_stop": "2026-11-28"
-  },
-  "media_keys": [
-   "i_a7900084abac8ab8c19d7a8c1579b749"
-  ],
-  "rotating": false,
-  "context": {
-   "campaign_role": "retargeting",
-   "funnel_stage": "warm (MOF/BOF)",
-   "objective": "OUTCOME_SALES",
-   "budget_type": "CBO",
-   "optimization_goal": "OFFSITE_CONVERSIONS",
-   "bid_strategy": "",
-   "audience_type": "warm_custom_audience",
-   "advantage_audience": false,
-   "age_range": "18-65",
-   "genders": "all",
-   "countries": "LB",
-   "interests": "",
-   "included_audiences": "ATC 90 | IC 90 | Web Visitors 30",
-   "excluded_audiences": "Purchasers 180 days | Klaviyo purchasers last 180 days",
-   "excludes_web_visitors": false,
-   "market_from_targeting": "LB"
-  },
-  "creator": "",
-  "links": {
-   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860136273810795",
-   "post_link": "https://www.facebook.com/803246616207248_122155908747058569",
-   "video_link": ""
   }
  },
  {
@@ -47697,7 +47697,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23859168363800795",
    "post_link": "https://www.facebook.com/803246616207248_1119626354061481",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1119626354061481"
   }
  },
  {
@@ -49924,7 +49924,7 @@
   "created_time": "2026-10-23T11:46:55+0300",
   "creative_id": "1809131670415046",
   "market": "LB",
-  "product": "unknown",
+  "product": "Power Wave",
   "copy": {
    "primary_texts": [
     "last few days of summer🫶🏻"
@@ -49989,7 +49989,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23859551499130795",
    "post_link": "https://www.facebook.com/803246616207248_1473012924714706",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1473012924714706"
   }
  },
  {
@@ -50367,7 +50367,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23859168483150795",
    "post_link": "https://www.facebook.com/803246616207248_1565224411378699",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1406781844902723"
   }
  },
  {
@@ -50659,7 +50659,7 @@
   "created_time": "2026-10-23T11:46:55+0300",
   "creative_id": "2257128191533665",
   "market": "LB",
-  "product": "unknown",
+  "product": "Steambrush Pro",
   "copy": {
    "primary_texts": [
     "quickest and safest straightener💞"
@@ -50724,7 +50724,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23859551402840795",
    "post_link": "https://www.facebook.com/803246616207248_1426747372375081",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1426747372375081"
   }
  },
  {
@@ -52294,7 +52294,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23850628774110795",
    "post_link": "https://www.facebook.com/803246616207248_683431291261226",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/683431291261226"
   }
  },
  {
@@ -52753,7 +52753,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23859036575760795",
    "post_link": "https://www.facebook.com/803246616207248_3058352717838238",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/3058352717838238"
   }
  },
  {
@@ -53418,7 +53418,7 @@
   "created_time": "2026-08-22T14:16:18+0300",
   "creative_id": "3275376299326679",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "90’s style💞"
@@ -53483,7 +53483,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858838566520795",
    "post_link": "https://www.facebook.com/803246616207248_1002423502847478",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1726654188408239"
   }
  },
  {
@@ -53502,7 +53502,7 @@
   "created_time": "2026-05-25T22:36:13+0300",
   "creative_id": "1319669250095378",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "in depth tutorial💇‍♀️ #wavytalklebanon #wavytalk #hair #hairtools"
@@ -53567,7 +53567,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23855983048590795",
    "post_link": "https://www.facebook.com/803246616207248_35989750304002745",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122152625727061607/videos/26845939455062942?idorvanity=23849366283980795"
   }
  },
  {
@@ -54226,7 +54226,7 @@
   "created_time": "2026-05-20T15:58:44+0300",
   "creative_id": "1889895028381578",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "nothing makes a GRWM better than a fresh blowout with the WavyTalk Blowout Boost💞 #wavytalklebanon #wavytalk #hair #hairtools #grwm"
@@ -54291,7 +54291,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23855703958990795",
    "post_link": "https://www.facebook.com/803246616207248_2251602518989428",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122152625727061607/videos/2164560077719461?idorvanity=23849366283980795"
   }
  },
  {
@@ -54471,7 +54471,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23854194241400795",
    "post_link": "https://www.facebook.com/803246616207248_1541731453964566",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1541731453964566"
   }
  },
  {
@@ -54762,7 +54762,7 @@
   "created_time": "2026-05-20T16:07:10+0300",
   "creative_id": "967591909355825",
   "market": "JO",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "No words needed, just results…✨\n\nThe blowout boost doing what it does best 😍\n\n#wavytalk #wavytalkjordan #hairtools #blowoutboost"
@@ -54827,7 +54827,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23855704430710795",
    "post_link": "https://www.facebook.com/1090120994193834_2031970907528644",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122119313253324078/videos/2031970907528644"
   }
  },
  {
@@ -54846,7 +54846,7 @@
   "created_time": "2026-06-08T06:53:50+0300",
   "creative_id": "1827268898250186",
   "market": "LB",
-  "product": "unknown",
+  "product": "Whirlwind Curl",
   "copy": {
    "primary_texts": [
     "look at those curls✨ #wavytalklebanon #wavytalk #hair #hairtools"
@@ -54911,7 +54911,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23856734789280795",
    "post_link": "https://www.facebook.com/803246616207248_1672643793884848",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1672643793884848"
   }
  },
  {
@@ -54995,7 +54995,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23854797652750795",
    "post_link": "https://www.facebook.com/803246616207248_2545706415882285",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1461293495502564"
   }
  },
  {
@@ -55106,7 +55106,7 @@
   "created_time": "2026-05-20T16:11:45+0300",
   "creative_id": "1964261784207893",
   "market": "JO",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "Everyone’s been gate keeping this 🤫\n\n10 minutes. That’s all it takes\n\nFull blowout at home with the Wavytalk blowout boost.. ✨\n\n#wavytalk #wavytalkjordan #blowoutboost #hairtools"
@@ -55171,7 +55171,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23855704557140795",
    "post_link": "https://www.facebook.com/1090120994193834_2189215228581644",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122119313253324078/videos/2189215228581644"
   }
  },
  {
@@ -55349,7 +55349,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23855704352560795",
    "post_link": "https://www.facebook.com/803246616207248_1470531280892521",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1470531280892521"
   }
  },
  {
@@ -55658,13 +55658,13 @@
   },
   "metrics": {
    "spend": 7.5,
-   "impressions": 859,
-   "reach": 537,
+   "impressions": 860,
+   "reach": 538,
    "frequency": 1.6,
-   "cpm": 8.73,
-   "link_clicks": 15,
-   "link_ctr_pct": 1.75,
-   "cpc_link": 0.5,
+   "cpm": 8.72,
+   "link_clicks": 16,
+   "link_ctr_pct": 1.86,
+   "cpc_link": 0.47,
    "video_3s_views": 0,
    "thruplays": 0,
    "hook_rate_pct": 0.0,
@@ -56073,6 +56073,96 @@
   }
  },
  {
+  "ad_id": "23860136253440795",
+  "ad_name": "Whirlwind - Black Friday - Static",
+  "campaign_id": "23859136155560795",
+  "adset_id": "23859642258160795",
+  "campaign_name": "Retargeting",
+  "adset_name": "Pack #6 - Whirlwind - US Videos - 20/10/2026",
+  "creative": {
+   "id": "2401076927347704",
+   "effective_object_story_id": "803246616207248_122155908861058569",
+   "effective_instagram_media_id": "18388536040232338"
+  },
+  "status": "ACTIVE",
+  "created_time": "2026-11-23T22:25:15+0200",
+  "creative_id": "2401076927347704",
+  "market": "LB",
+  "product": "Whirlwind Curl",
+  "copy": {
+   "primary_texts": [
+    "The quickest route to big, bouncy curls is this one tool 🌀\n\nHere’s the cheat code: clip the top up, twist the Whirlwind Curl as you glide down, and let the cool air do its thing. As you style, 104 tiny vents blow cool air around each curl to lock the shape in, so you can use less heat and still get curls that hold.\n\nCustomers say their curls last for days. Pick your heat setting, and your curls come out soft, shiny and full of bounce.\n\nGet yours this Black Friday before the sale ends!"
+   ],
+   "headlines": [
+    "Whirlwind Curl | Now on Sale for Black Friday"
+   ],
+   "landing_urls": [
+    "https://wavytalk-lb.com/products/whirlwind-curl?variant=47829258993802"
+   ],
+   "ctas": [
+    "SHOP_NOW"
+   ]
+  },
+  "metrics": {
+   "spend": 7.07,
+   "impressions": 1118,
+   "reach": 746,
+   "frequency": 1.5,
+   "cpm": 6.32,
+   "link_clicks": 15,
+   "link_ctr_pct": 1.34,
+   "cpc_link": 0.47,
+   "video_3s_views": 0,
+   "thruplays": 0,
+   "hook_rate_pct": 0.0,
+   "hold_rate_pct": null,
+   "p25": 0,
+   "p50": 0,
+   "p75": 0,
+   "p100": 0,
+   "avg_watch_s": 0,
+   "landing_page_views": 13,
+   "add_to_cart": 0,
+   "initiate_checkout": 1,
+   "purchases": 1,
+   "purchase_value": 66.6,
+   "cost_per_atc": null,
+   "cost_per_ic": 7.07,
+   "cpa": 7.07,
+   "roas": 9.42,
+   "date_start": "2025-10-07",
+   "date_stop": "2026-11-28"
+  },
+  "media_keys": [
+   "i_11310ad57ef7f994eb2c9ed5ac5204d0"
+  ],
+  "rotating": false,
+  "context": {
+   "campaign_role": "retargeting",
+   "funnel_stage": "warm (MOF/BOF)",
+   "objective": "OUTCOME_SALES",
+   "budget_type": "CBO",
+   "optimization_goal": "OFFSITE_CONVERSIONS",
+   "bid_strategy": "",
+   "audience_type": "warm_custom_audience",
+   "advantage_audience": false,
+   "age_range": "18-65",
+   "genders": "all",
+   "countries": "LB",
+   "interests": "",
+   "included_audiences": "ATC 90 | IC 90 | Web Visitors 30",
+   "excluded_audiences": "Purchasers 180 days | Klaviyo purchasers last 180 days",
+   "excludes_web_visitors": false,
+   "market_from_targeting": "LB"
+  },
+  "creator": "",
+  "links": {
+   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860136253440795",
+   "post_link": "https://www.facebook.com/803246616207248_122155908861058569",
+   "video_link": ""
+  }
+ },
+ {
   "ad_id": "23860022084360795",
   "ad_name": "Blowout Boost - blowout marra byezbat 10 la2 - rein shreif Khoury - LB Video",
   "campaign_id": "23859418885870795",
@@ -56283,7 +56373,7 @@
   "created_time": "2026-06-02T18:41:12+0300",
   "creative_id": "1381216853824348",
   "market": "LB",
-  "product": "unknown",
+  "product": "Whirlwind Curl",
   "copy": {
    "primary_texts": [
     "⏱️⏱️⏱️⏱️ #wavytalklebanon #wavytalk #hair #hairtools"
@@ -56348,97 +56438,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23856426026810795",
    "post_link": "https://www.facebook.com/803246616207248_939111832443203",
-   "video_link": ""
-  }
- },
- {
-  "ad_id": "23860136253440795",
-  "ad_name": "Whirlwind - Black Friday - Static",
-  "campaign_id": "23859136155560795",
-  "adset_id": "23859642258160795",
-  "campaign_name": "Retargeting",
-  "adset_name": "Pack #6 - Whirlwind - US Videos - 20/10/2026",
-  "creative": {
-   "id": "2401076927347704",
-   "effective_object_story_id": "803246616207248_122155908861058569",
-   "effective_instagram_media_id": "18388536040232338"
-  },
-  "status": "ACTIVE",
-  "created_time": "2026-11-23T22:25:15+0200",
-  "creative_id": "2401076927347704",
-  "market": "LB",
-  "product": "Whirlwind Curl",
-  "copy": {
-   "primary_texts": [
-    "The quickest route to big, bouncy curls is this one tool 🌀\n\nHere’s the cheat code: clip the top up, twist the Whirlwind Curl as you glide down, and let the cool air do its thing. As you style, 104 tiny vents blow cool air around each curl to lock the shape in, so you can use less heat and still get curls that hold.\n\nCustomers say their curls last for days. Pick your heat setting, and your curls come out soft, shiny and full of bounce.\n\nGet yours this Black Friday before the sale ends!"
-   ],
-   "headlines": [
-    "Whirlwind Curl | Now on Sale for Black Friday"
-   ],
-   "landing_urls": [
-    "https://wavytalk-lb.com/products/whirlwind-curl?variant=47829258993802"
-   ],
-   "ctas": [
-    "SHOP_NOW"
-   ]
-  },
-  "metrics": {
-   "spend": 6.89,
-   "impressions": 1116,
-   "reach": 746,
-   "frequency": 1.5,
-   "cpm": 6.17,
-   "link_clicks": 15,
-   "link_ctr_pct": 1.34,
-   "cpc_link": 0.46,
-   "video_3s_views": 0,
-   "thruplays": 0,
-   "hook_rate_pct": 0.0,
-   "hold_rate_pct": null,
-   "p25": 0,
-   "p50": 0,
-   "p75": 0,
-   "p100": 0,
-   "avg_watch_s": 0,
-   "landing_page_views": 13,
-   "add_to_cart": 0,
-   "initiate_checkout": 1,
-   "purchases": 1,
-   "purchase_value": 66.6,
-   "cost_per_atc": null,
-   "cost_per_ic": 6.89,
-   "cpa": 6.89,
-   "roas": 9.67,
-   "date_start": "2025-10-07",
-   "date_stop": "2026-11-28"
-  },
-  "media_keys": [
-   "i_11310ad57ef7f994eb2c9ed5ac5204d0"
-  ],
-  "rotating": false,
-  "context": {
-   "campaign_role": "retargeting",
-   "funnel_stage": "warm (MOF/BOF)",
-   "objective": "OUTCOME_SALES",
-   "budget_type": "CBO",
-   "optimization_goal": "OFFSITE_CONVERSIONS",
-   "bid_strategy": "",
-   "audience_type": "warm_custom_audience",
-   "advantage_audience": false,
-   "age_range": "18-65",
-   "genders": "all",
-   "countries": "LB",
-   "interests": "",
-   "included_audiences": "ATC 90 | IC 90 | Web Visitors 30",
-   "excluded_audiences": "Purchasers 180 days | Klaviyo purchasers last 180 days",
-   "excludes_web_visitors": false,
-   "market_from_targeting": "LB"
-  },
-  "creator": "",
-  "links": {
-   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860136253440795",
-   "post_link": "https://www.facebook.com/803246616207248_122155908861058569",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/939111832443203"
   }
  },
  {
@@ -57457,7 +57457,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23859551346490795",
    "post_link": "https://www.facebook.com/803246616207248_1624671586105171",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1624671586105171"
   }
  },
  {
@@ -58132,7 +58132,7 @@
   "created_time": "2026-08-19T21:56:42+0300",
   "creative_id": "4471243519689093",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "even on short hair💞"
@@ -58197,7 +58197,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858810960320795",
    "post_link": "https://www.facebook.com/803246616207248_1707756077006963",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1406781844902723"
   }
  },
  {
@@ -58659,6 +58659,106 @@
   }
  },
  {
+  "ad_id": "23860116109260795",
+  "ad_name": "Blowout Boost - Awal marra baaml blowout bl bet - Malak Hussein - LB Video",
+  "campaign_id": "23859418885870795",
+  "adset_id": "23860116109250795",
+  "campaign_name": "Prospecting Testing",
+  "adset_name": "Pack #94 - Blowout Boost - Malak Hussein - LB Videos - 21/11/2026",
+  "creative": {
+   "id": "1779146626521256",
+   "effective_object_story_id": "803246616207248_122155591797058569",
+   "effective_instagram_media_id": "17994083648860402"
+  },
+  "status": "ACTIVE",
+  "created_time": "2026-11-21T14:21:19+0200",
+  "creative_id": "1779146626521256",
+  "market": "LB",
+  "product": "Blowout Boost",
+  "copy": {
+   "primary_texts": [
+    "My first-ever blowout at home, and it came out THIS pretty and bouncy 😍\n\nI really didn't expect it. One brush, my own bathroom, and the kind of volume I usually pay a salon for.\n\nThe Blowout Boost made it easy, even as a beginner:\n✔️ Choose the heat that suits your hair\n✔️ Divide it into sections\n✔️ Roll the ends as you go\n\nThat gives you lifted roots, a smooth finish and soft, bouncy ends, all in the time that works for you 💕\n\nGet it now through the link!",
+    "3 years later, this brush still surprises me every time I use it 🤍\n\nThe secret to a salon-quality blowout at home? The Blowout Boost. Get yours for $69.",
+    "The secret to effortless, bouncy curls? The Blowout Boost. This game-changing tool creates a fresh salon blowout look without leaving your bathroom!\n\nOnly $69 - try risk-free: pay when it arrives.",
+    "Say goodbye to bad hair days! 🤍 Get salon-quality curls at home with the Blowout Boost. Wrap, hold, and drop for a big, glossy curl that looks like you just stepped out of the salon.\n\n$69 - pay when it's delivered!",
+    "Still using my trusty 3-year-old brush 🤍. Wrap, hold, drop - effortless glossy curls every time! Yours for just $69 (pay at door).",
+    "You only pay when it's at your door! Get the Blowout Boost for $69 and achieve salon-quality curls without leaving home."
+   ],
+   "headlines": [
+    "My First Home Blowout, This Bouncy",
+    "Still gets it done after 3 years",
+    "The blowout brush that never fades",
+    "3 years in, still my go-to curl tool",
+    "Get salon-quality curls at home",
+    "Achieve a fresh salon blowout look"
+   ],
+   "landing_urls": [
+    "https://wavytalk-lb.com/products/blowout-boost?variant=47146859430026"
+   ],
+   "ctas": [
+    "SHOP_NOW"
+   ]
+  },
+  "metrics": {
+   "spend": 4.94,
+   "impressions": 658,
+   "reach": 537,
+   "frequency": 1.23,
+   "cpm": 7.51,
+   "link_clicks": 10,
+   "link_ctr_pct": 1.52,
+   "cpc_link": 0.49,
+   "video_3s_views": 112,
+   "thruplays": 26,
+   "hook_rate_pct": 17.02,
+   "hold_rate_pct": 23.21,
+   "p25": 32,
+   "p50": 18,
+   "p75": 7,
+   "p100": 0,
+   "avg_watch_s": 3.0,
+   "landing_page_views": 9,
+   "add_to_cart": 0,
+   "initiate_checkout": 0,
+   "purchases": 0,
+   "purchase_value": 0.0,
+   "cost_per_atc": null,
+   "cost_per_ic": null,
+   "cpa": null,
+   "roas": 0.0,
+   "date_start": "2025-10-07",
+   "date_stop": "2026-11-28"
+  },
+  "media_keys": [
+   "v_2377517166345466"
+  ],
+  "rotating": false,
+  "context": {
+   "campaign_role": "testing",
+   "funnel_stage": "cold (TOF)",
+   "objective": "OUTCOME_SALES",
+   "budget_type": "ABO",
+   "optimization_goal": "OFFSITE_CONVERSIONS",
+   "bid_strategy": "LOWEST_COST_WITHOUT_CAP",
+   "audience_type": "broad",
+   "advantage_audience": true,
+   "age_range": "18-65",
+   "genders": "all",
+   "countries": "LB",
+   "interests": "",
+   "included_audiences": "",
+   "excluded_audiences": "Purchasers 180 days | Web Visitors 30 | Klaviyo purchasers last 180 days",
+   "excludes_web_visitors": true,
+   "market_from_targeting": "LB"
+  },
+  "creator": "Malak Hussein",
+  "links": {
+   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860116109260795",
+   "post_link": "https://www.facebook.com/803246616207248_122155591797058569",
+   "video_link": "https://www.facebook.com/23849366283980795/videos/2065593327440271/?idorvanity=23849366283980795"
+  }
+ },
+ {
   "ad_id": "23851735099230795",
   "ad_name": "UGC 2",
   "campaign_id": "23851734829560795",
@@ -58959,7 +59059,7 @@
   "created_time": "2026-08-01T10:53:25+0300",
   "creative_id": "4072372799583680",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "Soft blowout tutorial 🤍"
@@ -59024,107 +59124,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858501746130795",
    "post_link": "https://www.facebook.com/803246616207248_1358727479727108",
-   "video_link": ""
-  }
- },
- {
-  "ad_id": "23860116109260795",
-  "ad_name": "Blowout Boost - Awal marra baaml blowout bl bet - Malak Hussein - LB Video",
-  "campaign_id": "23859418885870795",
-  "adset_id": "23860116109250795",
-  "campaign_name": "Prospecting Testing",
-  "adset_name": "Pack #94 - Blowout Boost - Malak Hussein - LB Videos - 21/11/2026",
-  "creative": {
-   "id": "1779146626521256",
-   "effective_object_story_id": "803246616207248_122155591797058569",
-   "effective_instagram_media_id": "17994083648860402"
-  },
-  "status": "ACTIVE",
-  "created_time": "2026-11-21T14:21:19+0200",
-  "creative_id": "1779146626521256",
-  "market": "LB",
-  "product": "Blowout Boost",
-  "copy": {
-   "primary_texts": [
-    "My first-ever blowout at home, and it came out THIS pretty and bouncy 😍\n\nI really didn't expect it. One brush, my own bathroom, and the kind of volume I usually pay a salon for.\n\nThe Blowout Boost made it easy, even as a beginner:\n✔️ Choose the heat that suits your hair\n✔️ Divide it into sections\n✔️ Roll the ends as you go\n\nThat gives you lifted roots, a smooth finish and soft, bouncy ends, all in the time that works for you 💕\n\nGet it now through the link!",
-    "3 years later, this brush still surprises me every time I use it 🤍\n\nThe secret to a salon-quality blowout at home? The Blowout Boost. Get yours for $69.",
-    "The secret to effortless, bouncy curls? The Blowout Boost. This game-changing tool creates a fresh salon blowout look without leaving your bathroom!\n\nOnly $69 - try risk-free: pay when it arrives.",
-    "Say goodbye to bad hair days! 🤍 Get salon-quality curls at home with the Blowout Boost. Wrap, hold, and drop for a big, glossy curl that looks like you just stepped out of the salon.\n\n$69 - pay when it's delivered!",
-    "Still using my trusty 3-year-old brush 🤍. Wrap, hold, drop - effortless glossy curls every time! Yours for just $69 (pay at door).",
-    "You only pay when it's at your door! Get the Blowout Boost for $69 and achieve salon-quality curls without leaving home."
-   ],
-   "headlines": [
-    "My First Home Blowout, This Bouncy",
-    "Still gets it done after 3 years",
-    "The blowout brush that never fades",
-    "3 years in, still my go-to curl tool",
-    "Get salon-quality curls at home",
-    "Achieve a fresh salon blowout look"
-   ],
-   "landing_urls": [
-    "https://wavytalk-lb.com/products/blowout-boost?variant=47146859430026"
-   ],
-   "ctas": [
-    "SHOP_NOW"
-   ]
-  },
-  "metrics": {
-   "spend": 4.84,
-   "impressions": 657,
-   "reach": 535,
-   "frequency": 1.23,
-   "cpm": 7.37,
-   "link_clicks": 10,
-   "link_ctr_pct": 1.52,
-   "cpc_link": 0.48,
-   "video_3s_views": 112,
-   "thruplays": 26,
-   "hook_rate_pct": 17.05,
-   "hold_rate_pct": 23.21,
-   "p25": 32,
-   "p50": 18,
-   "p75": 7,
-   "p100": 0,
-   "avg_watch_s": 3.0,
-   "landing_page_views": 9,
-   "add_to_cart": 0,
-   "initiate_checkout": 0,
-   "purchases": 0,
-   "purchase_value": 0.0,
-   "cost_per_atc": null,
-   "cost_per_ic": null,
-   "cpa": null,
-   "roas": 0.0,
-   "date_start": "2025-10-07",
-   "date_stop": "2026-11-28"
-  },
-  "media_keys": [
-   "v_2377517166345466"
-  ],
-  "rotating": false,
-  "context": {
-   "campaign_role": "testing",
-   "funnel_stage": "cold (TOF)",
-   "objective": "OUTCOME_SALES",
-   "budget_type": "ABO",
-   "optimization_goal": "OFFSITE_CONVERSIONS",
-   "bid_strategy": "LOWEST_COST_WITHOUT_CAP",
-   "audience_type": "broad",
-   "advantage_audience": true,
-   "age_range": "18-65",
-   "genders": "all",
-   "countries": "LB",
-   "interests": "",
-   "included_audiences": "",
-   "excluded_audiences": "Purchasers 180 days | Web Visitors 30 | Klaviyo purchasers last 180 days",
-   "excludes_web_visitors": true,
-   "market_from_targeting": "LB"
-  },
-  "creator": "Malak Hussein",
-  "links": {
-   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860116109260795",
-   "post_link": "https://www.facebook.com/803246616207248_122155591797058569",
-   "video_link": "https://www.facebook.com/23849366283980795/videos/2065593327440271/?idorvanity=23849366283980795"
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1358727479727108"
   }
  },
  {
@@ -59802,7 +59802,7 @@
   "created_time": "2026-05-28T19:02:02+0300",
   "creative_id": "2074648096422379",
   "market": "LB",
-  "product": "unknown",
+  "product": "Whirlwind Curl",
   "copy": {
    "primary_texts": [
     "One tool, endless hair days ✨\nThe WavyTalk Airflow is literally the definition of doing the most with the least effort. Whether you want a sleek blowout, soft bouncy curls, or that effortless voluminous finish, this tool does it all without needing to switch between 10 different products. The airflow technology helps style your hair while reducing frizz and giving that smooth salon-like finish at home. Perfect for busy mornings, last minute plans, or those days when you want your hair to look expensive with minimal effort 🤍 3 styles, 1 tool, and a routine that suddenly became way easier. #WavyTalk #AirflowStyler #HairTok #BlowoutHair #easyhairroutine"
@@ -59867,7 +59867,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23856126487100795",
    "post_link": "https://www.facebook.com/803246616207248_27275813975392891",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/27275813975392891"
   }
  },
  {
@@ -59980,7 +59980,7 @@
   "created_time": "2026-08-01T00:00:43+0300",
   "creative_id": "1706186533838440",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "our two best selling products🩷"
@@ -60045,7 +60045,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858501616090795",
    "post_link": "https://www.facebook.com/803246616207248_1558619845772406",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1558619845772406"
   }
  },
  {
@@ -60075,7 +60075,7 @@
   },
   "metrics": {
    "spend": 4.35,
-   "impressions": 4722,
+   "impressions": 4723,
    "reach": 3391,
    "frequency": 1.39,
    "cpm": 0.92,
@@ -60084,7 +60084,7 @@
    "cpc_link": null,
    "video_3s_views": 2191,
    "thruplays": 580,
-   "hook_rate_pct": 46.4,
+   "hook_rate_pct": 46.39,
    "hold_rate_pct": 26.47,
    "p25": 1387,
    "p50": 651,
@@ -60129,7 +60129,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23859551373390795",
    "post_link": "https://www.facebook.com/803246616207248_29141571328867319",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/29141571328867319"
   }
  },
  {
@@ -60340,7 +60340,7 @@
   "created_time": "2026-06-03T18:02:11+0300",
   "creative_id": "878161335317049",
   "market": "JO",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "The Blowout Boost crew…All in one place🤍\n\n#wavytalkjordan #wavytalk #hairessentials #blowoutboost #goodhairdays"
@@ -60405,7 +60405,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23856466804240795",
    "post_link": "https://www.facebook.com/1090120994193834_1025222996697466",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122119313253324078/videos/1025222996697466"
   }
  },
  {
@@ -60424,7 +60424,7 @@
   "created_time": "2026-08-07T18:14:03+0300",
   "creative_id": "1949681875742857",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "best volume💞"
@@ -60489,7 +60489,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858617895220795",
    "post_link": "https://www.facebook.com/803246616207248_1062667836278910",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1062667836278910"
   }
  },
  {
@@ -60698,7 +60698,7 @@
   "created_time": "2026-09-07T08:25:32+0300",
   "creative_id": "1446267957317583",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "must do✨"
@@ -60763,7 +60763,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858982979530795",
    "post_link": "https://www.facebook.com/803246616207248_1459454192686295",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/2284083215713642"
   }
  },
  {
@@ -61146,7 +61146,7 @@
   "created_time": "2026-09-04T21:03:58+0300",
   "creative_id": "1066386793040305",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "obsessed 🤩"
@@ -61211,7 +61211,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858963600660795",
    "post_link": "https://www.facebook.com/803246616207248_1438117741572811",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1438117741572811"
   }
  },
  {
@@ -61394,6 +61394,96 @@
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23859499276510795",
    "post_link": "https://www.facebook.com/803246616207248_122135222541058569",
    "video_link": "https://www.facebook.com/23849366283980795/videos/4469627753294408/?idorvanity=23849366283980795"
+  }
+ },
+ {
+  "ad_id": "23860136145100795",
+  "ad_name": "Blowout Boost - Samar Zinati Hook 3 - LB Video",
+  "campaign_id": "23859136155560795",
+  "adset_id": "23859411570250795",
+  "campaign_name": "Retargeting",
+  "adset_name": "Pack #4 - 17/10/26 - Blowout Boost",
+  "creative": {
+   "id": "1680252530347388",
+   "effective_object_story_id": "803246616207248_122155900401058569",
+   "effective_instagram_media_id": "17920206519535894"
+  },
+  "status": "ACTIVE",
+  "created_time": "2026-11-23T21:57:15+0200",
+  "creative_id": "1680252530347388",
+  "market": "LB",
+  "product": "Blowout Boost",
+  "copy": {
+   "primary_texts": [
+    "The Blowout Boost brings the bounce back to your blowout, fast 🎀\n\nMost blowouts fall flat because the roots never get lifted.\n\nThis thermal brush fixes that in one move: lift at the roots, hold, glide, flip.\nIt’s ready in 30 seconds, and ionic tech leaves every section glossy and smooth.\n\nFuller, bouncier hair without adding time to your morning ✨\n\nOrder today!"
+   ],
+   "headlines": [
+    "From flat to volume roots"
+   ],
+   "landing_urls": [
+    "https://wavytalk-lb.com/products/blowout-boost?variant=47146859430026"
+   ],
+   "ctas": [
+    "SHOP_NOW"
+   ]
+  },
+  "metrics": {
+   "spend": 3.27,
+   "impressions": 342,
+   "reach": 237,
+   "frequency": 1.44,
+   "cpm": 9.56,
+   "link_clicks": 2,
+   "link_ctr_pct": 0.58,
+   "cpc_link": 1.64,
+   "video_3s_views": 82,
+   "thruplays": 42,
+   "hook_rate_pct": 23.98,
+   "hold_rate_pct": 51.22,
+   "p25": 42,
+   "p50": 18,
+   "p75": 12,
+   "p100": 0,
+   "avg_watch_s": 6.0,
+   "landing_page_views": 2,
+   "add_to_cart": 0,
+   "initiate_checkout": 0,
+   "purchases": 0,
+   "purchase_value": 0.0,
+   "cost_per_atc": null,
+   "cost_per_ic": null,
+   "cpa": null,
+   "roas": 0.0,
+   "date_start": "2025-10-07",
+   "date_stop": "2026-11-28"
+  },
+  "media_keys": [
+   "v_1601870821969281"
+  ],
+  "rotating": false,
+  "context": {
+   "campaign_role": "retargeting",
+   "funnel_stage": "warm (MOF/BOF)",
+   "objective": "OUTCOME_SALES",
+   "budget_type": "CBO",
+   "optimization_goal": "OFFSITE_CONVERSIONS",
+   "bid_strategy": "",
+   "audience_type": "warm_custom_audience",
+   "advantage_audience": false,
+   "age_range": "18-65",
+   "genders": "all",
+   "countries": "LB",
+   "interests": "",
+   "included_audiences": "ATC 90 | IC 90 | Web Visitors 30",
+   "excluded_audiences": "Purchasers 180 days | Klaviyo purchasers last 180 days",
+   "excludes_web_visitors": false,
+   "market_from_targeting": "LB"
+  },
+  "creator": "",
+  "links": {
+   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860136145100795",
+   "post_link": "https://www.facebook.com/803246616207248_122155900401058569",
+   "video_link": "https://www.facebook.com/23849366283980795/videos/1119252387421432/?idorvanity=23849366283980795"
   }
  },
  {
@@ -61675,96 +61765,6 @@
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23856858663840795",
    "post_link": "https://www.facebook.com/803246616207248_122135248233058569",
    "video_link": "https://www.facebook.com/23849366283980795/videos/1607347510868537/?idorvanity=23849366283980795"
-  }
- },
- {
-  "ad_id": "23860136145100795",
-  "ad_name": "Blowout Boost - Samar Zinati Hook 3 - LB Video",
-  "campaign_id": "23859136155560795",
-  "adset_id": "23859411570250795",
-  "campaign_name": "Retargeting",
-  "adset_name": "Pack #4 - 17/10/26 - Blowout Boost",
-  "creative": {
-   "id": "1680252530347388",
-   "effective_object_story_id": "803246616207248_122155900401058569",
-   "effective_instagram_media_id": "17920206519535894"
-  },
-  "status": "ACTIVE",
-  "created_time": "2026-11-23T21:57:15+0200",
-  "creative_id": "1680252530347388",
-  "market": "LB",
-  "product": "Blowout Boost",
-  "copy": {
-   "primary_texts": [
-    "The Blowout Boost brings the bounce back to your blowout, fast 🎀\n\nMost blowouts fall flat because the roots never get lifted.\n\nThis thermal brush fixes that in one move: lift at the roots, hold, glide, flip.\nIt’s ready in 30 seconds, and ionic tech leaves every section glossy and smooth.\n\nFuller, bouncier hair without adding time to your morning ✨\n\nOrder today!"
-   ],
-   "headlines": [
-    "From flat to volume roots"
-   ],
-   "landing_urls": [
-    "https://wavytalk-lb.com/products/blowout-boost?variant=47146859430026"
-   ],
-   "ctas": [
-    "SHOP_NOW"
-   ]
-  },
-  "metrics": {
-   "spend": 3.16,
-   "impressions": 341,
-   "reach": 236,
-   "frequency": 1.44,
-   "cpm": 9.27,
-   "link_clicks": 2,
-   "link_ctr_pct": 0.59,
-   "cpc_link": 1.58,
-   "video_3s_views": 82,
-   "thruplays": 42,
-   "hook_rate_pct": 24.05,
-   "hold_rate_pct": 51.22,
-   "p25": 42,
-   "p50": 18,
-   "p75": 12,
-   "p100": 0,
-   "avg_watch_s": 6.0,
-   "landing_page_views": 2,
-   "add_to_cart": 0,
-   "initiate_checkout": 0,
-   "purchases": 0,
-   "purchase_value": 0.0,
-   "cost_per_atc": null,
-   "cost_per_ic": null,
-   "cpa": null,
-   "roas": 0.0,
-   "date_start": "2025-10-07",
-   "date_stop": "2026-11-28"
-  },
-  "media_keys": [
-   "v_1601870821969281"
-  ],
-  "rotating": false,
-  "context": {
-   "campaign_role": "retargeting",
-   "funnel_stage": "warm (MOF/BOF)",
-   "objective": "OUTCOME_SALES",
-   "budget_type": "CBO",
-   "optimization_goal": "OFFSITE_CONVERSIONS",
-   "bid_strategy": "",
-   "audience_type": "warm_custom_audience",
-   "advantage_audience": false,
-   "age_range": "18-65",
-   "genders": "all",
-   "countries": "LB",
-   "interests": "",
-   "included_audiences": "ATC 90 | IC 90 | Web Visitors 30",
-   "excluded_audiences": "Purchasers 180 days | Klaviyo purchasers last 180 days",
-   "excludes_web_visitors": false,
-   "market_from_targeting": "LB"
-  },
-  "creator": "",
-  "links": {
-   "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23860136145100795",
-   "post_link": "https://www.facebook.com/803246616207248_122155900401058569",
-   "video_link": "https://www.facebook.com/23849366283980795/videos/1119252387421432/?idorvanity=23849366283980795"
   }
  },
  {
@@ -62338,7 +62338,7 @@
   "created_time": "2026-03-19T15:28:24+0200",
   "creative_id": "2192386558170329",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "If you want a blowout look in just 10 minutes…✨\nyou need this Wavytalk brush.\n\nSo easy. So good 🤍\nMakes mornings sooo much easier.\n\n#wavytalklebanon #wavytalk #blowout #blowoutboost #hairtools"
@@ -62403,7 +62403,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23853349609380795",
    "post_link": "https://www.facebook.com/803246616207248_1933738867245307",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1933738867245307"
   }
  },
  {
@@ -63790,7 +63790,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23851203036210795",
    "post_link": "https://www.facebook.com/803246616207248_2091985394951164",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/2091985394951164"
   }
  },
  {
@@ -65182,7 +65182,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23857665555650795",
    "post_link": "https://www.facebook.com/803246616207248_1322121663458614",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1461293495502564"
   }
  },
  {
@@ -65558,7 +65558,7 @@
   "created_time": "2026-08-12T12:06:17+0300",
   "creative_id": "3289979974670377",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "a gem 💎💞"
@@ -65623,7 +65623,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858700235980795",
    "post_link": "https://www.facebook.com/803246616207248_1578658553604407",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1578658553604407"
   }
  },
  {
@@ -65642,7 +65642,7 @@
   "created_time": "2026-08-19T21:52:45+0300",
   "creative_id": "1932721780742317",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "the easiest and fastest way to style your hair at home💞"
@@ -65707,7 +65707,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858810908000795",
    "post_link": "https://www.facebook.com/803246616207248_1376083620609762",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1376083620609762"
   }
  },
  {
@@ -66369,7 +66369,7 @@
   "created_time": "2026-03-19T15:38:49+0200",
   "creative_id": "1464703775037677",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "The goal? Soft, effortless waves ✨\nThe tool? Blowout Boost.\n\nNo salon.\nNo struggle.\nJust brush… and done.\n\nIt’s really that easy 🤍 #wavytalk #blowoutboost #wavytalklebanon #grwm #hair"
@@ -66434,7 +66434,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23853349830370795",
    "post_link": "https://www.facebook.com/803246616207248_1418520736106666",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1418520736106666"
   }
  },
  {
@@ -66453,7 +66453,7 @@
   "created_time": "2026-07-31T23:21:42+0300",
   "creative_id": "1614335593578424",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "The blowout boost never fails to amaze me💞"
@@ -66518,7 +66518,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858501540300795",
    "post_link": "https://www.facebook.com/803246616207248_4450965471793977",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/4450965471793977"
   }
  },
  {
@@ -66537,7 +66537,7 @@
   "created_time": "2026-08-14T21:50:47+0300",
   "creative_id": "2147770412844154",
   "market": "LB",
-  "product": "unknown",
+  "product": "Whirlwind Curl",
   "copy": {
    "primary_texts": [
     "the best way to use the Airflow curler😍"
@@ -66602,7 +66602,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858746333690795",
    "post_link": "https://www.facebook.com/803246616207248_1584199246698052",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1584199246698052"
   }
  },
  {
@@ -66621,7 +66621,7 @@
   "created_time": "2026-07-31T23:23:37+0300",
   "creative_id": "2747531298977662",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "Hairdresser approved ✅"
@@ -66686,7 +66686,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858501612400795",
    "post_link": "https://www.facebook.com/803246616207248_1056551426823092",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122152625727061607/videos/1409899557617960?idorvanity=23849366283980795"
   }
  },
  {
@@ -66795,7 +66795,7 @@
   "created_time": "2026-03-19T15:24:30+0200",
   "creative_id": "1365776955585764",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "Final touchups before heading out ✨\nFeaturing our favorite Wavytalk brush 🤍\n\nSo easy. So good.\n\n#wavytalklebanon #wavytalk #blowoutboost #hairtools #hairroutine"
@@ -66860,7 +66860,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23853349419410795",
    "post_link": "https://www.facebook.com/803246616207248_2023760608483149",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/2023760608483149"
   }
  },
  {
@@ -67224,7 +67224,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23859551551190795",
    "post_link": "https://www.facebook.com/803246616207248_2107496003466717",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/2107496003466717"
   }
  },
  {
@@ -67768,7 +67768,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23857963751580795",
    "post_link": "https://www.facebook.com/803246616207248_2545706415882285",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1461293495502564"
   }
  },
  {
@@ -68326,7 +68326,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23858058694840795",
    "post_link": "https://www.facebook.com/803246616207248_2545706415882285",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1461293495502564"
   }
  },
  {
@@ -68628,7 +68628,7 @@
   "created_time": "2026-10-23T11:46:55+0300",
   "creative_id": "1103563279076524",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "ohhh we have to be dramatic it’s the best thermal brush out there"
@@ -68693,7 +68693,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23859551062220795",
    "post_link": "https://www.facebook.com/803246616207248_1669284621216992",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1669284621216992"
   }
  },
  {
@@ -68712,7 +68712,7 @@
   "created_time": "2026-10-23T11:46:55+0300",
   "creative_id": "1764738154639365",
   "market": "LB",
-  "product": "unknown",
+  "product": "Power Wave",
   "copy": {
    "primary_texts": [
     "who says it’s only for summer?✨💞"
@@ -68777,7 +68777,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23859551426520795",
    "post_link": "https://www.facebook.com/803246616207248_2087505125465346",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/2087505125465346"
   }
  },
  {
@@ -68796,7 +68796,7 @@
   "created_time": "2026-10-23T11:46:55+0300",
   "creative_id": "1114516077601763",
   "market": "LB",
-  "product": "unknown",
+  "product": "Power Wave",
   "copy": {
    "primary_texts": [
     "our tips💞"
@@ -68861,7 +68861,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23859551528150795",
    "post_link": "https://www.facebook.com/803246616207248_4127596257382471",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/4127596257382471"
   }
  },
  {
@@ -68973,7 +68973,7 @@
   "created_time": "2026-06-02T19:22:01+0300",
   "creative_id": "2185063102255894",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "which one is your fav??\n #wavytalklebanon #wavytalk #hair #hairtools"
@@ -69038,7 +69038,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23856426058160795",
    "post_link": "https://www.facebook.com/803246616207248_1155230753457151",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1155230753457151"
   }
  },
  {
@@ -69147,7 +69147,7 @@
   "created_time": "2026-05-20T15:55:11+0300",
   "creative_id": "1289651346615861",
   "market": "LB",
-  "product": "unknown",
+  "product": "Whirlwind Curl",
   "copy": {
    "primary_texts": [
     "this is your sign💞 #wavytalklebanon #wavytalk #hair #hairtools"
@@ -69212,7 +69212,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23855703923740795",
    "post_link": "https://www.facebook.com/803246616207248_1312791690183291",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1312791690183291"
   }
  },
  {
@@ -69231,7 +69231,7 @@
   "created_time": "2026-10-23T11:46:35+0300",
   "creative_id": "1088145940662418",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "our favorite💞"
@@ -69296,7 +69296,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23859551457860795",
    "post_link": "https://www.facebook.com/803246616207248_1754921119135737",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1754921119135737"
   }
  },
  {
@@ -69315,7 +69315,7 @@
   "created_time": "2026-06-02T18:42:04+0300",
   "creative_id": "1283403120484631",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "15 minutes at home? yesss!! #wavytalklebanon #wavytalk #hair #hairtools"
@@ -69380,7 +69380,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23856426043530795",
    "post_link": "https://www.facebook.com/803246616207248_1384858640094259",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1384858640094259"
   }
  },
  {
@@ -69864,7 +69864,7 @@
   "created_time": "2026-05-28T18:58:27+0300",
   "creative_id": "2079085662640234",
   "market": "LB",
-  "product": "unknown",
+  "product": "Blowout Boost",
   "copy": {
    "primary_texts": [
     "this is the magic wand✨✨ #wavytalklebanon #wavytalk #hair #hairtools #blowoutboost"
@@ -69929,7 +69929,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23856126443360795",
    "post_link": "https://www.facebook.com/803246616207248_1425824026253793",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/1425824026253793"
   }
  },
  {
@@ -69948,7 +69948,7 @@
   "created_time": "2026-05-28T18:59:44+0300",
   "creative_id": "1430201492198864",
   "market": "LB",
-  "product": "unknown",
+  "product": "Whirlwind Curl",
   "copy": {
    "primary_texts": [
     "fav 10 mins of the day💞 #wavytalklebanon #wavytalk #hair #hairtools"
@@ -70013,7 +70013,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23856126468110795",
    "post_link": "https://www.facebook.com/803246616207248_850410100948002",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/122156392911058569/videos/850410100948002"
   }
  },
  {
@@ -70567,7 +70567,7 @@
   "links": {
    "ads_manager_link": "https://adsmanager.facebook.com/adsmanager/manage/ads?act=1136851577945373&selected_ad_ids=23856858354140795",
    "post_link": "https://www.facebook.com/803246616207248_122135247555058569",
-   "video_link": ""
+   "video_link": "https://www.facebook.com/23849366283980795/videos/2077357189786172/?idorvanity=23849366283980795"
   }
  }
 ]

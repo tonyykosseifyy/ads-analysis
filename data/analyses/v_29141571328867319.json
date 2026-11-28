@@ -1,0 +1,142 @@
+{
+ "media_key": "v_29141571328867319",
+ "analyzed_at": "2026-11-28T10:23:06+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "3860b53146a02a8c6331f84d9ec180269005c08201e8663ede22b536335d49d0",
+ "source": {
+  "kind": "video",
+  "id": "29141571328867319",
+  "video_id": "29141571328867319",
+  "length_s": 27.733,
+  "permalink": "/122156392911058569/videos/29141571328867319"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 27.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates curling and styling her front bangs into a sleek swoop using a pink flat iron, finishing with a full bouncy curled ponytail look.",
+  "full_description": "A vertical social media beauty video set to an R&B track. A young woman in a beige robe clamps a wide front hair section with a light-pink flat iron, rotates it, and glides it down to form a smooth spiral curl. She then uses a fine comb to shape her front hair into a sculpted, retro side swoop while perfecting the curl. Finally, she poses and turns to showcase her complete glamorous half-up ponytail with voluminous bouncy curls, styled baby hairs, and blows a kiss to the camera.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 9.0,
+    "shot_type": "close-up",
+    "visual": "Young woman in a waffle robe clamping her front hair strand with a light pink styling iron, twisting it around the plates, and pulling it downwards.",
+    "action": "Curling a wide front section of hair with the heated iron.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.0,
+    "end_s": 18.5,
+    "shot_type": "close-up",
+    "visual": "The finished spiral curl falls into place. The creator takes a fine-tooth comb to sweep and smooth the front roots into a clean side-swoop.",
+    "action": "Combing the styled front hair and shaping the side swoop curl.",
+    "product_visible": false
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 27.5,
+    "shot_type": "medium shot",
+    "visual": "Creator touches and displays her finished half-up ponytail, turns her head to show the curl definition from the back and side, and smiles at the camera.",
+    "action": "Showing off the finished hairstyle, turning around, and blowing a kiss.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator looking into camera/mirror while clamping a thick section of front hair into a pink flat iron.",
+   "visual_0_3s": "Creator rotating the pink styling tool and beginning to glide it through her hair.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "Immediate, satisfying close-up hair styling action right at the start."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Curling bang section with the styling iron",
+    "Combing and sculpting the side-swoop fringe",
+    "Full hair reveal and posing with finished curls"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Creates defined, shiny ribbon curls",
+    "Easy to style polished retro swoop bangs"
+   ],
+   "pain_points": [
+    "Struggling to curl front bangs smoothly without harsh kinks"
+   ],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Pink flat iron / styler"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 18.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Dark brown hair tied in a high half-up ponytail with curled ends, front fringe straight and ready for styling",
+   "hair_after": "Voluminous curled ponytail with glossy sculpted retro side bangs and styled edges",
+   "setting": "bedroom doorway",
+   "faces_camera": true,
+   "energy_tone": "confident, aesthetic, calm"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Mid-tempo R&B track with smooth male vocals singing love lyrics",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 2,
+   "avg_shot_length_s": 9.17,
+   "pacing": "medium",
+   "effects": [
+    "straight cut transitions"
+   ],
+   "ending": "Creator blows a kiss towards the camera while showing the finished hairstyle."
+  },
+  "notes": "No spoken audio or text overlays present; video relies entirely on visual demonstration and background music."
+ }
+}

@@ -1,0 +1,258 @@
+{
+ "media_key": "v_1425824026253793",
+ "analyzed_at": "2026-11-28T10:24:07+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "a67049c6ffa038e117e35c0823be1b44a10d1b9208f28b8fbe2aff10a736ba61",
+ "source": {
+  "kind": "video",
+  "id": "1425824026253793",
+  "video_id": "1425824026253793",
+  "length_s": 60.793,
+  "permalink": "/122156392911058569/videos/1425824026253793"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 60.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Blonde creator demonstrates how to achieve a voluminous 90s blowout using the Wavytalk thermal blowout brush.",
+  "full_description": "A blonde female creator answers frequently asked follower questions about her voluminous hair routine. She introduces the pink Wavytalk thermal blowout brush ('Blowout Boost'), shows her 'before' hair, sections her hair, and demonstrates how to roll and glide the thermal brush through sections to achieve bouncy ends and lifted crown volume for an event. She finishes by showcasing the final bouncy 90s blowout result.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Cam, how did you do your hair? Cam, how'd you get so much volume? How'd you blow out your hair? How do you do this? How do you do that?",
+    "text_english": "Cam, how did you do your hair? Cam, how'd you get so much volume? How'd you blow out your hair? How do you do this? How do you do that?"
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 6.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let me show you.",
+    "text_english": "Let me show you."
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 14.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I have an event tonight. The goal is 90s blowout. I am going to be using my Wavytalk Blowout Boost.",
+    "text_english": "I have an event tonight. The goal is 90s blowout. I am going to be using my Wavytalk Blowout Boost."
+   },
+   {
+    "start_s": 14.6,
+    "end_s": 20.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This thing... It does have five different heat settings. Let me show you how I'm gonna do it.",
+    "text_english": "This thing... It does have five different heat settings. Let me show you how I'm gonna do it."
+   },
+   {
+    "start_s": 20.1,
+    "end_s": 23.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Before. Let's go.",
+    "text_english": "Before. Let's go."
+   },
+   {
+    "start_s": 23.6,
+    "end_s": 34.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You need to section. I like to hold it on the outside and glide it through like this.",
+    "text_english": "You need to section. I like to hold it on the outside and glide it through like this."
+   },
+   {
+    "start_s": 55.0,
+    "end_s": 58.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is the final blowout.",
+    "text_english": "This is the final blowout."
+   },
+   {
+    "start_s": 58.3,
+    "end_s": 60.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Just saying. Anywho, bye!",
+    "text_english": "Just saying. Anywho, bye!"
+   }
+  ],
+  "transcript_full_original": "Cam, how did you do your hair? Cam, how'd you get so much volume? How'd you blow out your hair? How do you do this? How do you do that? Let me show you. I have an event tonight. The goal is 90s blowout. I am going to be using my Wavytalk Blowout Boost. This thing... It does have five different heat settings. Let me show you how I'm gonna do it. Before. Let's go. You need to section. I like to hold it on the outside and glide it through like this. This is the final blowout. Just saying. Anywho, bye!",
+  "transcript_full_english": "Cam, how did you do your hair? Cam, how'd you get so much volume? How'd you blow out your hair? How do you do this? How do you do that? Let me show you. I have an event tonight. The goal is 90s blowout. I am going to be using my Wavytalk Blowout Boost. This thing... It does have five different heat settings. Let me show you how I'm gonna do it. Before. Let's go. You need to section. I like to hold it on the outside and glide it through like this. This is the final blowout. Just saying. Anywho, bye!",
+  "word_count": 94,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.7,
+    "text": "Blowout Tutorial",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.8,
+    "shot_type": "medium close-up",
+    "visual": "Blonde creator with styled, bouncy hair posing and talking to the camera in her bathroom.",
+    "action": "Creator gestures excitedly and acts out viewer comments asking about her hair volume.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 6.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds up the pink Wavytalk thermal round brush to camera.",
+    "action": "She presents the brush directly to the lens.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.9,
+    "end_s": 19.8,
+    "shot_type": "medium shot",
+    "visual": "Creator in black tank top holding the thermal brush and pointing to heat buttons.",
+    "action": "She explains she is going to an event, wants a 90s blowout, kisses her fingers, and displays the device settings.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.9,
+    "end_s": 23.5,
+    "shot_type": "medium shot",
+    "visual": "Creator shows her hair in its pre-styled state.",
+    "action": "She turns around 360 degrees to show the full length and unstyled texture of her hair before styling.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.6,
+    "end_s": 39.8,
+    "shot_type": "medium shot",
+    "visual": "Creator clips up the top section with a claw clip and styles lower strand.",
+    "action": "She guides the heated barrel brush under and through a section of hair, twisting at the end, and gives a chef's kiss.",
+    "product_visible": true
+   },
+   {
+    "start_s": 39.9,
+    "end_s": 54.8,
+    "shot_type": "medium shot",
+    "visual": "Creator unclips top sections and styles bangs and top layers.",
+    "action": "She rolls the brush backward and upward through the crown and front bangs to maximize volume, then runs fingers through hair to show lift.",
+    "product_visible": true
+   },
+   {
+    "start_s": 54.9,
+    "end_s": 60.8,
+    "shot_type": "medium close-up",
+    "visual": "Finished blowout look with big 90s volume and flipped layers.",
+    "action": "Creator holds up the tool, admires her finished bouncy blowout, smiles, says goodbye, and leans down to turn off recording.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator shaking her finished, voluminous blonde blowout hair at the camera with text 'Blowout Tutorial'.",
+   "visual_0_3s": "Creator shakes her bouncy hair smiling and mouthing common audience questions.",
+   "spoken_0_3s": "Cam, how did you do your hair? Cam, how'd you get so much volume?",
+   "text_0_3s": "Blowout Tutorial",
+   "hook_type": "result_first",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Starts with the striking, voluminous finished result right in the opening frame while parodying follower questions."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Result hook answering frequent follower questions",
+    "Product introduction and key feature callout (5 heat settings)",
+    "Before hair check",
+    "Step-by-step styling demo (sectioning, rolling ends, crown lifting)",
+    "Final result reveal and sign-off"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Achieves a voluminous 90s blowout",
+    "Has 5 different heat settings",
+    "Glides easily through hair"
+   ],
+   "pain_points": [
+    "Flat, lifeless hair lacking volume and shape",
+    "Difficulty recreating a salon 90s blowout at home"
+   ],
+   "objections_handled": [
+    "Complicated technique (creator demonstrates simple sectioning and gliding motion)"
+   ],
+   "social_proof": [
+    "Inundated with questions from followers asking how she gets so much volume"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 4.9,
+   "first_used_on_hair_s": 26.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "Cam",
+   "age_range": "20-25",
+   "hair_before": "Long, fine-to-medium blonde hair with slight wave and flatter crown",
+   "hair_after": "Ultra-voluminous, bouncy 90s style blowout with curled-under ends and lift",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "bubbly, upbeat, energetic, relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Upbeat pop / R&B track with female vocals playing under voice and during demo montages",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 12,
+   "avg_shot_length_s": 5.1,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator smiles, shows product next to her finished blowout, and signs off saying 'Anywho, bye!'"
+  },
+  "notes": "Original English UGC ad showing the Wavytalk Blowout Boost thermal round brush styling process."
+ }
+}

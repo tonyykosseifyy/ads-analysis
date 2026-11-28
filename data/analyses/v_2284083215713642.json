@@ -1,0 +1,230 @@
+{
+ "media_key": "v_2284083215713642",
+ "analyzed_at": "2026-11-28T10:22:22+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "59ca70c33384e73991d98a1bd9cb67d9ead42c8018e10712c26800cebf80c681",
+ "source": {
+  "kind": "video",
+  "id": "2284083215713642",
+  "video_id": "2284083215713642",
+  "length_s": 26.866,
+  "permalink": "/122156392911058569/videos/2284083215713642"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 26.6,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A hands-only step-by-step tutorial showing how to clean trapped hair and residue from the WavyTalk thermal brush using trending audio.",
+  "full_description": "The video provides a simple maintenance routine for the WavyTalk thermal brush. It begins with an aesthetic overhead shot of two WavyTalk brushes on a bed with a claw clip and scrunchie. The video zooms in on a dirty brush covered in trapped hair and product grime while the trending Blade Runner 2049 voice audio plays ('You look lonely. I can fix that'). A creator's hands demonstrate Step 1: removing hair with a small rake comb, Step 2: wiping down residue with a warm damp cloth, and an optional step: cleaning between bristles with a soapy toothbrush. The video ends showing the sparkling clean brush looking brand new next to its blue counterpart.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 2.2,
+    "end_s": 4.1,
+    "speaker": "audio clip (trending sound)",
+    "language": "en",
+    "text_original": "You look lonely.",
+    "text_english": "You look lonely."
+   },
+   {
+    "start_s": 4.2,
+    "end_s": 5.8,
+    "speaker": "audio clip (trending sound)",
+    "language": "en",
+    "text_original": "I can fix that.",
+    "text_english": "I can fix that."
+   }
+  ],
+  "transcript_full_original": "You look lonely. I can fix that.",
+  "transcript_full_english": "You look lonely. I can fix that.",
+  "word_count": 7,
+  "speech_starts_at_s": 2.2,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "text": "How to Clean Your Thermal Brush ✨",
+    "role": "hook"
+   },
+   {
+    "start_s": 5.6,
+    "end_s": 9.5,
+    "text": "Step 1: Remove hair with a small brush or comb",
+    "role": "other"
+   },
+   {
+    "start_s": 9.6,
+    "end_s": 13.5,
+    "text": "Step 2: Remove residue with warm, damp cloth",
+    "role": "other"
+   },
+   {
+    "start_s": 13.6,
+    "end_s": 18.5,
+    "text": "Optional: Use a toothbrush with warm water & soap to remove residue",
+    "role": "other"
+   },
+   {
+    "start_s": 22.5,
+    "end_s": 26.6,
+    "text": "Now you're ready to make some hair magic! 🪄",
+    "role": "other"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "shot_type": "flat lay / top-down product shot",
+    "visual": "Aesthetic flat lay on white duvet featuring two WavyTalk thermal brushes (blue and white), a pink claw clip, a purple scrunchie, and a small cleaning tool.",
+    "action": "Camera hovers above the setup as text overlay introduces the cleaning tutorial.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 5.6,
+    "shot_type": "extreme close-up",
+    "visual": "Close-up of the dirty white WavyTalk thermal brush barrel full of tangled hair strands and buildup.",
+    "action": "Hand tilts and rotates the dirty brush to prominently show the trapped hair as the audio says 'You look lonely. I can fix that.'",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.6,
+    "end_s": 9.5,
+    "shot_type": "close-up",
+    "visual": "Hand holding the brush while using a small black rake comb tool.",
+    "action": "Raking the comb through the bristles to pull out trapped hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 13.5,
+    "shot_type": "close-up",
+    "visual": "Hand holding a damp white cloth against the barrel.",
+    "action": "Wiping residue and dust off the ceramic surface and between bristles with the damp cloth.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 18.5,
+    "shot_type": "close-up",
+    "visual": "Hand using a pink toothbrush on the brush head.",
+    "action": "Scrubbing gently along the barrel between bristle rows to remove stubborn buildup.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 22.5,
+    "shot_type": "close-up",
+    "visual": "Clean, immaculate white WavyTalk brush with yellow sparkle sticker animations.",
+    "action": "Rotating the completely clean brush to show before-and-after contrast.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.5,
+    "end_s": 26.6,
+    "shot_type": "medium close-up / flat lay",
+    "visual": "Holding white and blue brushes together, then placing the blue brush down onto the bed.",
+    "action": "Displaying both clean brushes side by side and laying them down.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Flat lay of two WavyTalk thermal brushes and hair accessories on white bedding with the caption 'How to Clean Your Thermal Brush ✨'.",
+   "visual_0_3s": "Overhead view of the hair tools transitions quickly into a close-up of a hair-filled, dirty brush barrel.",
+   "spoken_0_3s": "Dialogue starts at 2.2s: 'You look lonely.'",
+   "text_0_3s": "How to Clean Your Thermal Brush ✨",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "problem_callout",
+   "pattern_interrupt": "Sudden cut to a dirty, hair-clogged brush barrel paired with the viral Blade Runner meme audio line."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Hook / problem display: showing how dirty a thermal brush gets after regular use.",
+    "Step 1: Hair extraction with a cleaning comb.",
+    "Step 2: Surface wipe-down with damp cloth.",
+    "Optional deep clean: Toothbrush scrubbing for residue.",
+    "Result reveal: Spotless brush shown off with sparkle graphics and paired with second brush."
+   ],
+   "main_angle": "other",
+   "secondary_angles": [
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Thermal brushes can be easily cleaned with simple household tools."
+   ],
+   "pain_points": [
+    "Trapped hair strands and product buildup inside thermal round brushes",
+    "Not knowing how to clean electrical styling tools safely without damaging them"
+   ],
+   "objections_handled": [
+    "Cleaning a thermal brush seems tricky or tedious"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": 18.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "hands_only",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "bedroom",
+   "faces_camera": false,
+   "energy_tone": "calm, instructional, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Trending TikTok audio snippet featuring dialogue from Blade Runner 2049 ('You look lonely... I can fix that') set over slow synth music.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 3.8,
+   "pacing": "medium",
+   "effects": [
+    "animated sparkle stickers",
+    "text overlay steps"
+   ],
+   "ending": "Placing the baby blue thermal brush next to the white thermal brush and accessories on the white bedsheet."
+  },
+  "notes": "Instructional organic/paid maintenance tutorial asset meant to build post-purchase confidence and reduce return/durability concerns by showing thermal brush cleaning care."
+ }
+}

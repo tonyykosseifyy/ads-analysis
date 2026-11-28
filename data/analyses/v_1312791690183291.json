@@ -1,0 +1,317 @@
+{
+ "media_key": "v_1312791690183291",
+ "analyzed_at": "2026-11-28T10:23:54+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "9a8f74fdc515a3f5dfe8d36619bd3fa799a8022b82c0fc07443b7c6933e1092f",
+ "source": {
+  "kind": "video",
+  "id": "1312791690183291",
+  "video_id": "1312791690183291",
+  "length_s": 36.078,
+  "permalink": "/122156392911058569/videos/1312791690183291"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 35.7,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates why traditional flat irons fail at curling hair compared to the Wavytalk Whirlwind Curl airflow styler.",
+  "full_description": "The creator opens by stating that traditional flat irons suck for curling, demonstrating a creased, uneven curl using an old black straightener. She then introduces the Wavytalk Whirlwind Curl, demonstrating how to curl hair effortlessly with smooth gliding and cool airflow vents that lock the curl in place. She showcases the shiny, bouncy final result, close-ups of the tool's airflow vents and digital temperature display, and concludes by tossing aside the old straightener and recommending the Whirlwind Curl.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Traditional flat irons suck for curling.",
+    "text_english": "Traditional flat irons suck for curling."
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 6.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Like, what even is this? They're uneven, creasing, and won't even last all day.",
+    "text_english": "Like, what even is this? They're uneven, creasing, and won't even last all day."
+   },
+   {
+    "start_s": 6.1,
+    "end_s": 8.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "But that's why we use airflow stylers like the Whirlwind Curl.",
+    "text_english": "But that's why we use airflow stylers like the Whirlwind Curl."
+   },
+   {
+    "start_s": 8.8,
+    "end_s": 17.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The Whirlwind Curl was designed to make curling with a flat iron easy to learn and use, create even and consistent curls, as well as volume and movement in the hair.",
+    "text_english": "The Whirlwind Curl was designed to make curling with a flat iron easy to learn and use, create even and consistent curls, as well as volume and movement in the hair."
+   },
+   {
+    "start_s": 17.6,
+    "end_s": 19.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And don't forget that shine!",
+    "text_english": "And don't forget that shine!"
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 24.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The cool air blowing out of the vents helps set your curls, locking in your style all day.",
+    "text_english": "The cool air blowing out of the vents helps set your curls, locking in your style all day."
+   },
+   {
+    "start_s": 24.1,
+    "end_s": 29.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And with five temperature settings, three airflow speeds, and a curved barrel,",
+    "text_english": "And with five temperature settings, three airflow speeds, and a curved barrel,"
+   },
+   {
+    "start_s": 29.8,
+    "end_s": 32.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "this might just be the most versatile flat iron on the market.",
+    "text_english": "this might just be the most versatile flat iron on the market."
+   },
+   {
+    "start_s": 32.5,
+    "end_s": 35.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So ditch this old thing, and try the Whirlwind Curl instead.",
+    "text_english": "So ditch this old thing, and try the Whirlwind Curl instead."
+   }
+  ],
+  "transcript_full_original": "Traditional flat irons suck for curling. Like, what even is this? They're uneven, creasing, and won't even last all day. But that's why we use airflow stylers like the Whirlwind Curl. The Whirlwind Curl was designed to make curling with a flat iron easy to learn and use, create even and consistent curls, as well as volume and movement in the hair. And don't forget that shine! The cool air blowing out of the vents helps set your curls, locking in your style all day. And with five temperature settings, three airflow speeds, and a curved barrel, this might just be the most versatile flat iron on the market. So ditch this old thing, and try the Whirlwind Curl instead.",
+  "transcript_full_english": "Traditional flat irons suck for curling. Like, what even is this? They're uneven, creasing, and won't even last all day. But that's why we use airflow stylers like the Whirlwind Curl. The Whirlwind Curl was designed to make curling with a flat iron easy to learn and use, create even and consistent curls, as well as volume and movement in the hair. And don't forget that shine! The cool air blowing out of the vents helps set your curls, locking in your style all day. And with five temperature settings, three airflow speeds, and a curved barrel, this might just be the most versatile flat iron on the market. So ditch this old thing, and try the Whirlwind Curl instead.",
+  "word_count": 105,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "medium shot",
+    "visual": "A young woman attempting to curl straight blonde hair with an ordinary black flat iron, looking annoyed.",
+    "action": "Creator holds the black flat iron and explains how traditional irons fail at curling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 5.6,
+    "shot_type": "close-up",
+    "visual": "Close-up of hair clamped in the traditional flat iron pulling through, creating a kinked, creased strand.",
+    "action": "Showing the poor result from the traditional flat iron.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.6,
+    "end_s": 6.6,
+    "shot_type": "medium shot",
+    "visual": "Creator holding the old iron looking frustrated.",
+    "action": "Reacting negatively to the creased curl result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.6,
+    "end_s": 8.8,
+    "shot_type": "medium shot",
+    "visual": "Creator holds up the light pink Wavytalk Whirlwind Curl tool.",
+    "action": "Introducing the Wavytalk Whirlwind Curl styler with a cheerful smile.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.8,
+    "end_s": 14.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator smoothly twisting and gliding the pink Whirlwind Curl down a section of hair.",
+    "action": "Demonstrating how easily the tool curls hair evenly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 17.6,
+    "shot_type": "close-up",
+    "visual": "Curling another front strand of hair around the rounded vented barrel.",
+    "action": "Gliding the styler down to reveal a smooth wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.6,
+    "end_s": 19.8,
+    "shot_type": "medium shot",
+    "visual": "Creator smiling with full bouncy curls styled, framing her face and running hands near hair.",
+    "action": "Showing off the shiny, voluminous curl results.",
+    "product_visible": false
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 21.8,
+    "shot_type": "extreme close-up",
+    "visual": "Macro shot of the pink barrel showing perforated cool air vents.",
+    "action": "Highlighting the cooling air vent technology.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.8,
+    "end_s": 23.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator gliding the styler through a curl section while cool air vents operate.",
+    "action": "Demonstrating curl setting in motion.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.8,
+    "end_s": 25.0,
+    "shot_type": "medium shot",
+    "visual": "Creator smiling directly at camera with finished hairstyle.",
+    "action": "Talent looking satisfied with her curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 25.0,
+    "end_s": 27.6,
+    "shot_type": "close-up",
+    "visual": "Hands adjusting the digital temperature screen on the handle, reading 320°F then 360°F with fan icon.",
+    "action": "Displaying digital controls and settings.",
+    "product_visible": true
+   },
+   {
+    "start_s": 27.6,
+    "end_s": 29.8,
+    "shot_type": "close-up",
+    "visual": "Front view of the opened tool showing black heating plates and pink perforated outer casing.",
+    "action": "Demonstrating the curved barrel and clamp mechanism.",
+    "product_visible": true
+   },
+   {
+    "start_s": 29.8,
+    "end_s": 32.5,
+    "shot_type": "medium shot",
+    "visual": "Creator holding the Whirlwind Curl while speaking to camera.",
+    "action": "Expressing how versatile the tool is.",
+    "product_visible": true
+   },
+   {
+    "start_s": 32.5,
+    "end_s": 35.7,
+    "shot_type": "medium shot",
+    "visual": "Creator holding the old black straightener and the Whirlwind Curl, throwing the old straightener away.",
+    "action": "Ditching the old straightener and giving a closing endorsement for the Whirlwind Curl.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator struggling with a standard flat iron in her hair.",
+   "visual_0_3s": "Creator looks frustrated trying to curl hair with an old black flat iron, then shows the creased, uneven curl result.",
+   "spoken_0_3s": "Traditional flat irons suck for curling. Like, what even is this?",
+   "text_0_3s": "",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Blunt negative statement 'Traditional flat irons suck for curling' paired with immediate close-up proof of creased hair."
+  },
+  "structure": {
+   "format": "comparison",
+   "narrative_beats": [
+    "Problem callout: flat irons create creased, uneven curls that don't last",
+    "Solution introduction: Wavytalk Whirlwind Curl airflow styler",
+    "Feature breakdown: easy gliding, airflow vents for curl setting, temperature control",
+    "Final transformation reveal: shiny, bouncy curls",
+    "Direct comparison and call to action: throw away old iron and switch to Whirlwind Curl"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "salon_result_at_home",
+    "replaces_multiple_tools"
+   ],
+   "key_claims": [
+    "Makes curling with a flat iron easy to learn and use",
+    "Creates even, consistent curls with volume and movement",
+    "Cool air blowing out of vents sets curls and locks style all day",
+    "5 temperature settings and 3 airflow speeds with curved barrel",
+    "Versatile flat iron that curls and straightens"
+   ],
+   "pain_points": [
+    "Traditional flat irons crease hair when curling",
+    "Curls from regular flat irons look uneven and drop quickly",
+    "Curling with traditional straighteners is difficult to master"
+   ],
+   "objections_handled": [
+    "Curling with a straightener is too hard: designed specifically to be easy to learn and use",
+    "Curls drop quickly: cool air vents lock style in place all day"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional standard flat iron straightener"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Whirlwind Curl"
+   ],
+   "first_seen_s": 6.6,
+   "first_used_on_hair_s": 8.8,
+   "final_result_shown_s": 17.6,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "So ditch this old thing, and try the Whirlwind Curl instead.",
+   "cta_on_screen": "",
+   "cta_at_s": 32.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20s",
+   "hair_before": "Straight, long bleached-blonde/dark-root hair",
+   "hair_after": "Voluminous, shiny, defined waves and curls",
+   "setting": "studio",
+   "faces_camera": true,
+   "energy_tone": "engaging, confident, friendly"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Upbeat, energetic electronic pop background instrumental",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 13,
+   "avg_shot_length_s": 2.7,
+   "pacing": "fast",
+   "effects": [
+    "macro close-ups",
+    "sound effects (woosh/sparkle)"
+   ],
+   "ending": "Talent tosses the old straightener away off-camera and smiles presenting the Wavytalk Whirlwind Curl."
+  },
+  "notes": "Original English brand/creator creative for the Wavytalk Whirlwind Curl airflow flat iron styler."
+ }
+}

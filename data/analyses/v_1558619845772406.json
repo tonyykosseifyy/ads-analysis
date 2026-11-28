@@ -1,0 +1,210 @@
+{
+ "media_key": "v_1558619845772406",
+ "analyzed_at": "2026-11-28T10:22:52+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "16cd0467b6b1181d33edd192bca42938e13ca22f7c703e48bb768c1cba0cac06",
+ "source": {
+  "kind": "video",
+  "id": "1558619845772406",
+  "video_id": "1558619845772406",
+  "length_s": 16.65,
+  "permalink": "/122156392911058569/videos/1558619845772406"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 16.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates how to achieve a bouncy salon blowout at home using the Wavytalk Blowout Boost thermal brush.",
+  "full_description": "A beauty creator wearing smart glasses demonstrates her blowout routine to trending background music. She teases the final voluminous result upfront before showing quick step-by-step clips of styling her hair with a flat iron and the Wavytalk Blowout Boost thermal round brush, setting bangs in a velcro roller, and gliding the heated round brush through her layered ends. The ad concludes with a glam showcase of her finished glossy, bouncy blowout.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 16.5,
+    "text": "This is how I get THE BEST Blowout",
+    "role": "hook"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 16.5,
+    "text": "Using the Wavytalk Blowout Boost",
+    "role": "brand"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing camera wearing smart glasses, holding the Wavytalk Blowout Boost brush near her hair with a roller pinned at the crown.",
+    "action": "Holds tool and looks directly into the lens.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 2.1,
+    "shot_type": "close-up",
+    "visual": "Close-up glam shot of the creator showing the completed voluminous, curled-in blowout result.",
+    "action": "Smiles and tilts head to show bouncy curtain bangs and layered hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 3.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator using a pink flat iron combined with a detangling hair brush.",
+    "action": "Chases the flat iron with a paddle brush down a long section of hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 5.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator using the Wavytalk Blowout Boost thermal round brush on her top front section.",
+    "action": "Rolls the heated brush up towards the crown to create lift and curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 6.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator setting the front bang section in a roller.",
+    "action": "Secures the roller on top of her head with a clip.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.3,
+    "end_s": 7.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator presenting both hair tools side-by-side to the camera.",
+    "action": "Holds the Wavytalk Blowout Boost thermal brush in one hand and the pink straightener in the other.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 13.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling the lower lengths and ends of her hair using the Wavytalk Blowout Boost.",
+    "action": "Twists and glides the thermal round brush through hair sections, creating inward flips and bounce.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.1,
+    "end_s": 14.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator adjusting her glasses and posing with the styled blowout.",
+    "action": "Pouts, adjusts frame of glasses, and checks hair in camera reflection.",
+    "product_visible": false
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 16.5,
+    "shot_type": "close-up",
+    "visual": "Glam shot of the completed glossy blowout with face-framing layers.",
+    "action": "Smiles warmly and poses displaying voluminous hairstyle.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator wearing glasses with hair in a roller holding the Wavytalk Blowout Boost with overlay text: 'This is how I get THE BEST Blowout'",
+   "visual_0_3s": "Fast cut from prep look holding the tool to a quick flash of the glamorous final blowout result.",
+   "spoken_0_3s": "",
+   "text_0_3s": "This is how I get THE BEST Blowout / Using the Wavytalk Blowout Boost",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Rapid 1-second flash of the stunning final hair result immediately after the opening frame."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook with bold claim and quick flash of the final blowout result",
+    "Straightening and prepping base sections",
+    "Using thermal round brush to build volume at the crown and bangs",
+    "Setting front section with roller",
+    "Curling ends with Wavytalk Blowout Boost",
+    "Final look showcase and glam reveal"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Gives the best blowout result",
+    "Creates smooth, bouncy salon volume at home"
+   ],
+   "pain_points": [
+    "Flat hair lacking volume",
+    "Difficulty achieving bouncy blowout curls at home"
+   ],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 3.8,
+   "final_result_shown_s": 1.2,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Brunette, long, slightly pre-straightened / in progress",
+   "hair_after": "Brunette, voluminous 90s-style layered blowout with turned-in ends and bouncy curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident and aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat R&B/pop vocal track with lyrics 'Baby girl you are so pretty...'",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 2.06,
+   "pacing": "fast",
+   "effects": [
+    "text overlays",
+    "jump cuts synced to music"
+   ],
+   "ending": "Smiles directly at the camera showcasing finished bouncy blowout."
+  },
+  "notes": "Ad is music-only without spoken voiceover. Persistent top and bottom text overlays identify the tutorial goal and product model."
+ }
+}

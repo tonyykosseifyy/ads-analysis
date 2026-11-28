@@ -1,0 +1,464 @@
+{
+ "media_key": "v_1461293495502564",
+ "analyzed_at": "2026-11-28T10:22:46+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "d77cde2ea9275b38f5c8b6bd94470a4e8c6a180ca2ba79a84bc61e3b63c97e53",
+ "source": {
+  "kind": "video",
+  "id": "1461293495502564",
+  "video_id": "1461293495502564",
+  "length_s": 99.056,
+  "permalink": "/122156392911058569/videos/1461293495502564"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 99.14,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A curly-haired Lebanese creator demonstrates the Wavytalk thermal round brush to transform her curls into a smooth, voluminous blowout.",
+  "full_description": "A young Lebanese woman with long curly hair presents a half-styled comparison, showing how quickly the Wavytalk thermal round brush smoothed one side of her hair. She shares that Wavytalk has arrived from the US to Lebanon, shows a quick 'before' photo of her full curly hair, and walks through prepping with heat protectant, detangling, sectioning with clips, and styling large chunks of hair. She curls the ends inward, shows the quick blowout effect, styles her curtain bangs, and displays the final voluminous, silky salon blowout result.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 50,
+    "en": 50,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This took me like 2 minutes.",
+    "text_english": "This took me like 2 minutes."
+   },
+   {
+    "start_s": 2.3,
+    "end_s": 6.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Wavytalk إجا من US على لبنان and it literally transformed my hair.",
+    "text_english": "Wavytalk came from the US to Lebanon and it literally transformed my hair."
+   },
+   {
+    "start_s": 6.7,
+    "end_s": 7.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This was my hair before,",
+    "text_english": "This was my hair before,"
+   },
+   {
+    "start_s": 7.9,
+    "end_s": 11.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and this is my hair after, in 10 minutes.",
+    "text_english": "and this is my hair after, in 10 minutes."
+   },
+   {
+    "start_s": 11.9,
+    "end_s": 16.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "I'm gonna show you quickly. حشيل كل الـ products عن شعري, did untangle my hair وحارجع.",
+    "text_english": "I'm gonna show you quickly. I'll remove all the products from my hair, untangle my hair, and come back."
+   },
+   {
+    "start_s": 16.3,
+    "end_s": 20.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "والصراحة كتير غريب شكلي, I haven't seen myself with this hair for years.",
+    "text_english": "Honestly, I look very strange, I haven't seen myself with this hair for years."
+   },
+   {
+    "start_s": 20.9,
+    "end_s": 23.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أول شي heat protectant.",
+    "text_english": "First thing, heat protectant."
+   },
+   {
+    "start_s": 23.4,
+    "end_s": 27.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Now I'm gonna brush my hair مع هالـ brush البعتولي ياها.",
+    "text_english": "Now I'm gonna brush my hair with this brush they sent me."
+   },
+   {
+    "start_s": 27.3,
+    "end_s": 30.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I've seen this go viral on like curly girl TikTok.",
+    "text_english": "I've seen this go viral on like curly girl TikTok."
+   },
+   {
+    "start_s": 30.7,
+    "end_s": 35.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "إجا هو والـ clips. We gonna section our hair.",
+    "text_english": "It came with these clips. We are going to section our hair."
+   },
+   {
+    "start_s": 35.2,
+    "end_s": 39.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So I turned it on, it's already heated up, you can even see the temperature here.",
+    "text_english": "So I turned it on, it's already heated up, you can even see the temperature here."
+   },
+   {
+    "start_s": 39.9,
+    "end_s": 47.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "I saw girls take like a big chunk of their hair وكل شي بيعملوه بس إنه بياخدو الـ brush وبيعملو هيك it's like done. فهيدا اللي حنعملو هلق.",
+    "text_english": "I saw girls take like a big chunk of their hair and all they do is take the brush, do this, and it's like done. So that's what we're going to do now."
+   },
+   {
+    "start_s": 50.8,
+    "end_s": 56.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Okay guys, I just took a big chunk and you can already see الفرق. We're actually gonna do it properly.",
+    "text_english": "Okay guys, I just took a big chunk and you can already see the difference. We're actually gonna do it properly."
+   },
+   {
+    "start_s": 57.0,
+    "end_s": 63.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "So I see girls doing this, بس يوصلو على الـ ends they like turn it around.",
+    "text_english": "So I see girls doing this, once they reach the ends they like turn it around."
+   },
+   {
+    "start_s": 65.0,
+    "end_s": 68.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Guys, this took me like 2 minutes, بعد ما عملت شي.",
+    "text_english": "Guys, this took me like 2 minutes, I haven't even done anything yet."
+   },
+   {
+    "start_s": 68.4,
+    "end_s": 73.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "رح أعمل تاني ميلة and the top section, حارجعلكم with my bangs.",
+    "text_english": "I will do the other side and the top section, I'll come back to you with my bangs."
+   },
+   {
+    "start_s": 76.5,
+    "end_s": 77.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay.",
+    "text_english": "Okay."
+   },
+   {
+    "start_s": 81.8,
+    "end_s": 83.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is the after.",
+    "text_english": "This is the after."
+   },
+   {
+    "start_s": 87.0,
+    "end_s": 90.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Wavytalk, I owe you so much!",
+    "text_english": "Wavytalk, I owe you so much!"
+   },
+   {
+    "start_s": 90.7,
+    "end_s": 91.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Just look at this.",
+    "text_english": "Just look at this."
+   },
+   {
+    "start_s": 91.9,
+    "end_s": 93.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is crazy.",
+    "text_english": "This is crazy."
+   },
+   {
+    "start_s": 93.4,
+    "end_s": 98.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "عنجد مش عم بمزح, my hair literally feels like silk.",
+    "text_english": "Seriously I'm not kidding, my hair literally feels like silk."
+   }
+  ],
+  "transcript_full_original": "This took me like 2 minutes. Wavytalk إجا من US على لبنان and it literally transformed my hair. This was my hair before, and this is my hair after, in 10 minutes. I'm gonna show you quickly. حشيل كل الـ products عن شعري, did untangle my hair وحارجع. والصراحة كتير غريب شكلي, I haven't seen myself with this hair for years. أول شي heat protectant. Now I'm gonna brush my hair مع هالـ brush البعتولي ياها. I've seen this go viral on like curly girl TikTok. إجا هو والـ clips. We gonna section our hair. So I turned it on, it's already heated up, you can even see the temperature here. I saw girls take like a big chunk of their hair وكل شي بيعملوه بس إنه بياخدو الـ brush وبيعملو هيك it's like done. فهيدا اللي حنعملو هلق. Okay guys, I just took a big chunk and you can already see الفرق. We're actually gonna do it properly. So I see girls doing this, بس يوصلو على الـ ends they like turn it around. Guys, this took me like 2 minutes, بعد ما عملت شي. رح أعمل تاني ميلة and the top section, حارجعلكم with my bangs. Okay. This is the after. Wavytalk, I owe you so much! Just look at this. This is crazy. عنجد مش عم بمزح, my hair literally feels like silk.",
+  "transcript_full_english": "This took me like 2 minutes. Wavytalk came from the US to Lebanon and it literally transformed my hair. This was my hair before, and this is my hair after, in 10 minutes. I'm gonna show you quickly. I'll remove all the products from my hair, untangle my hair, and come back. Honestly, I look very strange, I haven't seen myself with this hair for years. First thing, heat protectant. Now I'm gonna brush my hair with this brush they sent me. I've seen this go viral on like curly girl TikTok. It came with these clips. We are going to section our hair. So I turned it on, it's already heated up, you can even see the temperature here. I saw girls take like a big chunk of their hair and all they do is take the brush, do this, and it's like done. So that's what we're going to do now. Okay guys, I just took a big chunk and you can already see the difference. We're actually gonna do it properly. So I see girls doing this, once they reach the ends they like turn it around. Guys, this took me like 2 minutes, I haven't even done anything yet. I will do the other side and the top section, I'll come back to you with my bangs. Okay. This is the after. Wavytalk, I owe you so much! Just look at this. This is crazy. Seriously I'm not kidding, my hair literally feels like silk.",
+  "word_count": 218,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator pointing at her blown-out hair on one side versus curly hair on the other side.",
+    "action": "Creator talks directly to camera pointing out the half-and-half hair contrast.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 6.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the Wavytalk thermal round brush in her hand, fully styled blowout.",
+    "action": "Creator shows the pink Wavytalk brush and talks about it coming to Lebanon.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.7,
+    "end_s": 7.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator showing her natural curly hair from an earlier clip.",
+    "action": "Creator gestures with hands showing the 'before' curly texture.",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 11.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator showing her smooth, styled blowout hair after.",
+    "action": "Creator fluffs and moves her smooth, bouncy blown-out hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 11.8,
+    "end_s": 16.2,
+    "shot_type": "close-up selfie",
+    "visual": "Creator with wet/brushed natural curly hair looking at camera.",
+    "action": "Creator explains she is going to restart from scratch to show the process.",
+    "product_visible": false
+   },
+   {
+    "start_s": 16.2,
+    "end_s": 20.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator in room smiling, showing off her curly hair.",
+    "action": "Creator talks about how unfamiliar she looks with non-curly hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 23.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator applying heat protectant spray to her hair.",
+    "action": "Creator sprays heat protectant along the length of her curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 23.3,
+    "end_s": 30.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushing through her hair with a wide pink paddle detangling brush.",
+    "action": "Creator detangles her hair and talks about curly girl TikTok.",
+    "product_visible": false
+   },
+   {
+    "start_s": 30.6,
+    "end_s": 35.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding black alligator hair styling clips.",
+    "action": "Creator displays the clips and sections her hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 35.1,
+    "end_s": 47.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the Wavytalk thermal round brush up to camera showing digital temp display.",
+    "action": "Creator explains temperature setting and how simple the brush technique is.",
+    "product_visible": true
+   },
+   {
+    "start_s": 47.6,
+    "end_s": 50.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator running the Wavytalk thermal brush through a large section of hair.",
+    "action": "Creator glides the heated brush through her curls and rolls it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 50.8,
+    "end_s": 56.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator showing the partially straightened strand vs adjacent curly strands.",
+    "action": "Creator points out the difference after just one pass.",
+    "product_visible": false
+   },
+   {
+    "start_s": 56.6,
+    "end_s": 64.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator demonstrates rolling technique at the hair ends using the heated brush.",
+    "action": "Creator twists the brush at the ends to give a soft curl/flip.",
+    "product_visible": true
+   },
+   {
+    "start_s": 64.9,
+    "end_s": 68.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding up a perfectly bouncy, smooth curl section.",
+    "action": "Creator points to the curl and remarks that it only took 2 minutes.",
+    "product_visible": false
+   },
+   {
+    "start_s": 68.3,
+    "end_s": 73.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the rest of her bottom sections with the thermal brush.",
+    "action": "Creator rolls the brush through sections and promises to show bangs next.",
+    "product_visible": true
+   },
+   {
+    "start_s": 73.5,
+    "end_s": 77.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling front curtain bangs/top section upwards with the thermal brush.",
+    "action": "Creator rolls the brush upwards through bangs and releases into face.",
+    "product_visible": true
+   },
+   {
+    "start_s": 77.5,
+    "end_s": 81.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator shaking out her styled hair and parting curtain bangs.",
+    "action": "Creator parts hair and flips it back to reveal the full voluminous blowout.",
+    "product_visible": false
+   },
+   {
+    "start_s": 81.8,
+    "end_s": 91.8,
+    "shot_type": "close-up selfie",
+    "visual": "High-angle selfie shots showing smooth texture, shine, and soft curls.",
+    "action": "Creator runs fingers through styled blowout and smiles admiringly.",
+    "product_visible": false
+   },
+   {
+    "start_s": 91.8,
+    "end_s": 99.14,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing camera showing both sides of silky blowout.",
+    "action": "Creator touches hair, saying it feels like silk.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera with half her hair curled naturally and the other half styled into a sleek blowout.",
+   "visual_0_3s": "Creator pointing at her styled blowout side comparing it to her natural curly hair side.",
+   "spoken_0_3s": "This took me like 2 minutes.",
+   "text_0_3s": "",
+   "hook_type": "before_after",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Split comparison visible directly on head: half wild curly hair, half flawless salon blowout."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Half-and-half contrast hook showing fast 2-minute result",
+    "Brand announcement that Wavytalk is now available in Lebanon",
+    "Before/after contrast clips showing natural curls vs finished blowout",
+    "Step-by-step styling routine: heat protectant, detangle, section",
+    "Demonstration of thermal brush operation and roll technique",
+    "Styling front bangs upwards for volume",
+    "Final reveal, reaction, and testimonial praising silkiness"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "saves_time",
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Transformed curly hair into a blowout in 10 minutes",
+    "Takes big chunks effortlessly",
+    "Leaves hair feeling like silk"
+   ],
+   "pain_points": [
+    "Curly hair takes forever to style",
+    "Struggling to achieve salon blowout at home"
+   ],
+   "objections_handled": [
+    "Will it work on thick curly hair?",
+    "Is it difficult to use?"
+   ],
+   "social_proof": [
+    "Mentioned going viral on curly girl TikTok"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Round Brush",
+    "detangling brush",
+    "hair clips"
+   ],
+   "first_seen_s": 2.2,
+   "first_used_on_hair_s": 47.6,
+   "final_result_shown_s": 7.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Naturally curly, long, dark brunette/black hair",
+   "hair_after": "Silky, smooth, voluminous bouncy blowout with soft curled ends and curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "friendly, authentic, amazed"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No background music; direct creator dialogue and ambient styling sounds.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 19,
+   "avg_shot_length_s": 5.2,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator running her hands through her finished silky hair admiring the result."
+  },
+  "notes": "Classic organic-style UGC tutorial ad that works exceptionally well on TikTok and Instagram Reels for hair tools. The creator's dramatic natural curl pattern makes the thermal brush blowout demo high-impact."
+ }
+}

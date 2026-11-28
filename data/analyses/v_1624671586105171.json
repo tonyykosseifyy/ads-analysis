@@ -1,0 +1,236 @@
+{
+ "media_key": "v_1624671586105171",
+ "analyzed_at": "2026-11-28T10:22:56+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "2954b3c94b3b917346fbeb731736114c4f306a8599050a96dbd9297e3aeaafdb",
+ "source": {
+  "kind": "video",
+  "id": "1624671586105171",
+  "video_id": "1624671586105171",
+  "length_s": 12.7,
+  "permalink": "/122156392911058569/videos/1624671586105171"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 12.63,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Fast-paced UGC montage of women using a thermal round brush to create voluminous, Victoria's Secret-inspired blowout curls.",
+  "full_description": "The ad features three different creators styling and showing off voluminous blowout hair using a pink-and-beige thermal heated round brush. Throughout the video, a static text overlay reads 'The secret to Victoria's Secret-inspired hair 🪶' over a viral trending audio clip discussing 'Who's Victoria?' set to an electronic beat. The video cuts rapidly between scenes of the creators curling sections of hair with the tool, using hair rollers, and tossing their voluminous, glossy finished styles.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 2.2,
+    "end_s": 3.4,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Victoria? Victoria who?",
+    "text_english": "Victoria? Victoria who?"
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 4.3,
+    "speaker": "second person",
+    "language": "en",
+    "text_original": "Who's Victoria?",
+    "text_english": "Who's Victoria?"
+   },
+   {
+    "start_s": 4.3,
+    "end_s": 5.4,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Who's Victoria?",
+    "text_english": "Who's Victoria?"
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 6.5,
+    "speaker": "second person",
+    "language": "en",
+    "text_original": "I don't know her.",
+    "text_english": "I don't know her."
+   },
+   {
+    "start_s": 6.5,
+    "end_s": 7.8,
+    "speaker": "second person",
+    "language": "en",
+    "text_original": "Is she a real person?",
+    "text_english": "Is she a real person?"
+   }
+  ],
+  "transcript_full_original": "Victoria? Victoria who? Who's Victoria? Who's Victoria? I don't know her. Is she a real person?",
+  "transcript_full_english": "Victoria? Victoria who? Who's Victoria? Who's Victoria? I don't know her. Is she a real person?",
+  "word_count": 14,
+  "speech_starts_at_s": 2.2,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 12.63,
+    "text": "The secret to Victoria's Secret-inspired hair 🪶",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.0,
+    "shot_type": "medium close-up selfie",
+    "visual": "Creator 1 in a beige Henley shirt styling a strand of dark hair with a pink thermal round brush.",
+    "action": "Wraps hair around heated round brush and glides it down.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 2.5,
+    "shot_type": "close-up selfie",
+    "visual": "Creator 2 in a blue top running the round thermal brush through the ends of her shoulder-length dark hair.",
+    "action": "Brushes and curls the hair ends inward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.5,
+    "end_s": 5.5,
+    "shot_type": "medium close-up selfie",
+    "visual": "Creator 1 with styling rollers pinned in hair, smiling at camera.",
+    "action": "Touches a released bouncy curled strand of hair and smiles playfully.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 6.7,
+    "shot_type": "medium shot selfie",
+    "visual": "Creator 3 with voluminous, glossy dark curls wearing a cream top.",
+    "action": "Turns head to display the thick, bouncy blowout curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.7,
+    "end_s": 7.8,
+    "shot_type": "close-up selfie",
+    "visual": "Creator 2 brushing and curling the ends of her hair using the pink heated round brush.",
+    "action": "Twists the brush around the front hair section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 8.8,
+    "shot_type": "medium shot selfie",
+    "visual": "Creator 1 showing finished full blowout.",
+    "action": "Fluffs and shakes out her voluminous blowout hair with both hands.",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.8,
+    "end_s": 9.9,
+    "shot_type": "medium shot selfie",
+    "visual": "Creator 3 posing with full, shiny curled hair.",
+    "action": "Tilts head and smiles softly toward the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 9.9,
+    "end_s": 12.63,
+    "shot_type": "medium close-up selfie",
+    "visual": "Creator 2 with bouncy styled shoulder-length bob hair.",
+    "action": "Flips hair, runs hand through it, and looks into the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator pulling a heated round brush through a strand of dark hair with on-screen text claiming Victoria's Secret-inspired hair.",
+   "visual_0_3s": "Fast cuts of creators styling and showcasing smooth, curled hair sections using the thermal brush.",
+   "spoken_0_3s": "Victoria? Victoria who?",
+   "text_0_3s": "The secret to Victoria's Secret-inspired hair 🪶",
+   "hook_type": "trend_or_sound",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Promising the iconic 'Victoria's Secret' look paired with a viral sound bite and rapid glamour transformations."
+  },
+  "structure": {
+   "format": "product_showcase",
+   "narrative_beats": [
+    "Hook with aspirational Victoria's Secret hair claim",
+    "Quick multi-creator styling demos using the thermal brush and rollers",
+    "Series of high-glam result reveals showing bouncy, voluminous hair"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "social_proof_popularity"
+   ],
+   "key_claims": [
+    "Achieve Victoria's Secret inspired voluminous blowout hair easily"
+   ],
+   "pain_points": [
+    "Flat, lifeless hair lacking salon-grade volume and bounce"
+   ],
+   "objections_handled": [],
+   "social_proof": [
+    "Three diverse creators showing glossy, salon-quality results"
+   ],
+   "comparison_to": "Victoria's Secret runway model hair"
+  },
+  "product": {
+   "products_shown": [
+    "Thermal blowout heated round brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 5.5,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 3,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-30",
+   "hair_before": "Dark, straight to slightly wavy hair",
+   "hair_after": "Voluminous, shiny, bouncy blowout curls",
+   "setting": "bathroom / bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, glamorous, trendy"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Rhythmic house/electronic beat underneath a trending pop culture voice audio asking 'Who's Victoria?'.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 1.58,
+   "pacing": "fast",
+   "effects": [
+    "quick jump cuts",
+    "persistent headline text overlay"
+   ],
+   "ending": "Creator running her hand through her bouncy blowout and looking confidently at the camera."
+  },
+  "notes": "Relies entirely on aesthetic UGC visuals, trending audio, and high aspirational desire ('Victoria's Secret hair') without traditional direct response CTA cards or voiceover selling."
+ }
+}

@@ -1,0 +1,166 @@
+{
+ "media_key": "v_1754921119135737",
+ "analyzed_at": "2026-11-28T10:23:50+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "7f6abd10f1c0223b1663b8c5f8a9d6ec00f0394bb82e8c10f380f9d95885eaac",
+ "source": {
+  "kind": "video",
+  "id": "1754921119135737",
+  "video_id": "1754921119135737",
+  "length_s": 14.815,
+  "permalink": "/122156392911058569/videos/1754921119135737"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 14.77,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator showcases the Wavytalk Thermal Brush and flaunts her voluminous layered blowout results to trending music.",
+  "full_description": "A creator demonstrates the pink Wavytalk Thermal Brush in a bedroom setting. She introduces the tool up close to the camera showing the bristles and digital temperature screen, briefly brushes through and curls her front fringe and layered strands, and then showcases her finished, voluminous, bouncy salon-style blowout while posing to trending hip-hop music.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "text": "Reasons to get The Wavytalk Thermal Brush:",
+    "role": "hook"
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 14.77,
+    "text": "These hair results:",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "shot_type": "medium close-up",
+    "visual": "A young blonde woman holds the pink Wavytalk Thermal Brush right in front of the lens, showing the barrel and controls, before lowering it slightly to pose and pout.",
+    "action": "Creator turns on and holds up the thermal styling brush for the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 5.5,
+    "shot_type": "medium shot",
+    "visual": "Creator sits facing the camera in her bedroom, rolling her front bang section through the thermal brush barrel.",
+    "action": "She brushes and rolls her front hair section inward/downward to shape her fringe.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 9.5,
+    "shot_type": "medium shot",
+    "visual": "Creator sections the top part of her hair with a hair clip and prepares a side layer with the thermal brush.",
+    "action": "She brushes through a section of her hair with the heated brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 14.77,
+    "shot_type": "medium close-up",
+    "visual": "Creator displays her fully styled blowout, tossing and fluffing her layered hair, running her fingers through it and blowing a kiss to the camera.",
+    "action": "She poses and shows off the hair volume and curl definition from multiple angles.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink Wavytalk thermal brush directly in front of the camera with on-screen text overlay.",
+   "visual_0_3s": "Close-up product display transitioning to creator smiling and holding the tool in her bedroom.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Reasons to get The Wavytalk Thermal Brush:",
+   "hook_type": "result_first",
+   "hook_type_secondary": "product_reveal",
+   "pattern_interrupt": "Immediate high-contrast presentation of the heated barrel tool with a punchy 'reasons to get' text hook."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Product presentation hook stating reasons to get the tool",
+    "Quick styling demonstration on front bangs and side sections",
+    "Glamour showcase of the final bouncy blowout hair results"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Delivers voluminous, salon-quality blowout results at home easily"
+   ],
+   "pain_points": [
+    "Difficulty achieving a bouncy blowout with traditional round brushes and blow dryers"
+   ],
+   "objections_handled": [
+    "Ease of styling bangs and long layers without tangling"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 2.8,
+   "final_result_shown_s": 2.8,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Pre-styled long blonde layered blowout hair",
+   "hair_after": "Voluminous, bouncy layered blowout hair with soft curved ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident and aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat trending hip-hop / trap track with female vocals and heavy bass beat.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 3,
+   "avg_shot_length_s": 3.69,
+   "pacing": "medium",
+   "effects": [
+    "text overlay cuts synced to beat"
+   ],
+   "ending": "Creator playfully blows kisses with both hands to the camera with fully styled hair."
+  },
+  "notes": "Ad relies entirely on aesthetic lifestyle visuals, hair transformation allure, and trending audio without any voiceover or spoken dialogue."
+ }
+}

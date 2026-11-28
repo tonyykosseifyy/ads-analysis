@@ -1,0 +1,234 @@
+{
+ "media_key": "v_1541731453964566",
+ "analyzed_at": "2026-11-28T10:22:59+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "e1722394d186fdbbc5abe0f102837c96e2177c2ea7be0ba23d33f8da7830f39d",
+ "source": {
+  "kind": "video",
+  "id": "1541731453964566",
+  "video_id": "1541731453964566",
+  "length_s": 25.331,
+  "permalink": "/122156392911058569/videos/1541731453964566"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 24.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A redhead creator transforms her frizzy voluminous hair into defined, glossy 1970s-style bouncy curls using a pink curling iron.",
+  "full_description": "The video starts with a young woman sporting wild, frizzy ginger hair holding a pale pink multi-functional styling tool with the caption 'Spring Hairstyle with 70's big curls 🌼'. Set to a cover of 'You're So Vain', the video rapidly cuts through her styling routine: sectioning her hair with clips, curling sections with the tool, inspecting the resulting bouncy ringlets, unpinning the top crown, and styling the front bangs. The video concludes with a glamour reveal in warm golden hour sunlight, showing full, lustrous, retro 70s curls.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "text": "Spring Hairstyle with 70's big curls 🌼",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "shot_type": "medium shot",
+    "visual": "Creator with huge frizzy ginger hair holding a pink curling styler.",
+    "action": "Creator poses playfully holding the hair tool and looking at the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 3.0,
+    "shot_type": "medium close-up",
+    "visual": "Hair sectioned and pinned; curling iron gliding down a strand.",
+    "action": "Creator glides the pink styler down a front section of hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 4.0,
+    "shot_type": "close-up",
+    "visual": "Creator unclipping a section of her brushed-out frizzy hair.",
+    "action": "Creator unpins a hair clip from her scalp.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.0,
+    "end_s": 5.1,
+    "shot_type": "medium shot",
+    "visual": "Curling another section with the tool.",
+    "action": "Creator wraps and rotates the pink styler through her hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.1,
+    "end_s": 6.1,
+    "shot_type": "close-up",
+    "visual": "Creator inspecting a freshly created smooth curl.",
+    "action": "Creator touches and releases the newly curled coil.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.1,
+    "end_s": 8.7,
+    "shot_type": "medium shot",
+    "visual": "Curling another section near the side.",
+    "action": "Creator clamp-curls another strand with the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 9.9,
+    "shot_type": "medium shot",
+    "visual": "Creator twirling and admiring a completed curl.",
+    "action": "Creator checks out a bouncy curl and winks/smirks at the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 9.9,
+    "end_s": 11.0,
+    "shot_type": "close-up",
+    "visual": "Checking curls at the back.",
+    "action": "Creator fluffs and examines curls behind her ear.",
+    "product_visible": false
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 12.0,
+    "shot_type": "medium shot",
+    "visual": "Releasing the top section of hair.",
+    "action": "Creator takes down the top bun of frizzy hair to style the crown.",
+    "product_visible": false
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 13.0,
+    "shot_type": "medium close-up",
+    "visual": "Curling front crown section.",
+    "action": "Creator clamps the tool over top front hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 15.0,
+    "shot_type": "medium close-up",
+    "visual": "Tossing and shaking curls.",
+    "action": "Creator shakes out freshly curled sections with a happy smile.",
+    "product_visible": false
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 18.5,
+    "shot_type": "close-up",
+    "visual": "Curling the final front curtain bangs in sunlight.",
+    "action": "Creator rolls the tool through the front piece towards the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 24.8,
+    "shot_type": "medium shot",
+    "visual": "Golden hour sunlight hitting the finished hairstyle.",
+    "action": "Creator poses, smiles, shakes, and touches her voluminous, shiny 70s curls.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator with enormous frizzy ginger hair holding a pink styling tool with text overlay 'Spring Hairstyle with 70's big curls 🌼'.",
+   "visual_0_3s": "Creator shows her wild frizzy ginger hair and brandishes the pink styling iron, then cuts to the curling process.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Spring Hairstyle with 70's big curls 🌼",
+   "hook_type": "curiosity_gap",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Extreme volume of bushy, frizzy hair contrasting with the promises of neat retro curls."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Visual hook displaying frizzy hair before styling",
+    "Fast-cut step-by-step curling demo section by section",
+    "Progress checks showing smooth, defined ringlets",
+    "Glamorous final result reveal in natural sunlight"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Easily creates voluminous 70s-style bouncy curls from frizzy hair"
+   ],
+   "pain_points": [
+    "Unruly, frizzy, brushed-out hair texture"
+   ],
+   "objections_handled": [
+    "Works effectively even on very frizzy, thick, textured hair"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Whirlwind Curl"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 2.1,
+   "final_result_shown_s": 18.5,
+   "demo_clarity": "partial",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Huge, fluffy, frizzy, brushed-out ginger/red hair",
+   "hair_after": "Glossy, defined, bouncy retro 1970s-style curls",
+   "setting": "Indoor room by a window with natural golden hour lighting",
+   "faces_camera": true,
+   "energy_tone": "Playful, retro, aesthetic, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Female acoustic cover of 'You're So Vain' by Carly Simon",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 12,
+   "avg_shot_length_s": 2.1,
+   "pacing": "fast",
+   "effects": [
+    "Jump cuts",
+    "Golden hour sunlight flare"
+   ],
+   "ending": "Creator smiling and fluffing her finished curls in the sunlight"
+  },
+  "notes": "No voiceover or spoken dialogue; relies on aesthetic transformation, visual demonstration of the tool on frizzy hair, and trending background music."
+ }
+}

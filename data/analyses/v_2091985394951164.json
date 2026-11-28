@@ -1,0 +1,342 @@
+{
+ "media_key": "v_2091985394951164",
+ "analyzed_at": "2026-11-28T10:23:57+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "b8e44cbd195929f7c69e74ac8660d6345f736c18d0c9c643e18a71c41ed70078",
+ "source": {
+  "kind": "video",
+  "id": "2091985394951164",
+  "video_id": "2091985394951164",
+  "length_s": 74.21,
+  "permalink": "/122156392911058569/videos/2091985394951164"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 73.56,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Lebanese creator demonstrates the WavyTalk heated round brush on her long dark hair, showing an easy step-by-step at-home blowout.",
+  "full_description": "A creator speaks directly to the camera holding the WavyTalk thermal blowout round brush, announcing that WavyTalk is now available in Lebanon. She shows the accessories included (clips, paddle brush), sections her long dark hair, and runs the heated brush through strands to demonstrate straightening and curling the ends. She reacts with excitement to how quick and easy it is, demonstrates half her head done, and reveals the final voluminous bouncy blowout result.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 75,
+    "en": 25,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "ar",
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 1.7,
+    "end_s": 4.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Guys بدي جرب هيدا الـ tool معكن كرمال أعمل blowout.",
+    "text_english": "Guys, I want to try this tool with you to do a blowout."
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 6.8,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "ديجا صار super سخن.",
+    "text_english": "It's already gotten super hot."
+   },
+   {
+    "start_s": 6.9,
+    "end_s": 11.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بيجي معو هيدول، وكمان brush. It's so cute.",
+    "text_english": "It comes with these [clips], and also a brush. It's so cute."
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 15.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "حسب ما عرفت I section my hair هيك.",
+    "text_english": "From what I understood, I section my hair like this."
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 19.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "بنحطها هون، وبنحطها هيك وبننزل.",
+    "text_english": "We put it here, place it like this and glide down."
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 27.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "It's so easy! ما بدا شي!",
+    "text_english": "It's so easy! It takes no effort!"
+   },
+   {
+    "start_s": 28.0,
+    "end_s": 30.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "إذا عن جد بتزبط...",
+    "text_english": "If it actually works..."
+   },
+   {
+    "start_s": 32.2,
+    "end_s": 33.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Oh my god!",
+    "text_english": "Oh my god!"
+   },
+   {
+    "start_s": 34.0,
+    "end_s": 37.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Guys عم تشوفوا الفرق؟ Slide وحدة وعملتون هيك!",
+    "text_english": "Guys, are you seeing the difference? Just one slide and it made it like this!"
+   },
+   {
+    "start_s": 38.0,
+    "end_s": 42.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "خليني أجرب أعمل curl تحت. I guess هيك بيعملوا curl يعني.",
+    "text_english": "Let me try to curl the bottom. I guess this is how they curl it."
+   },
+   {
+    "start_s": 43.5,
+    "end_s": 45.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "No way! Guys, wow!",
+    "text_english": "No way! Guys, wow!"
+   },
+   {
+    "start_s": 46.2,
+    "end_s": 48.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "عملت half my hair، ليكوا شو حلو!",
+    "text_english": "I did half my hair, look how pretty!"
+   },
+   {
+    "start_s": 49.0,
+    "end_s": 51.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "بعمل هيك... بعدين هيك.",
+    "text_english": "I do this... then like this."
+   },
+   {
+    "start_s": 53.0,
+    "end_s": 54.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at my curls!",
+    "text_english": "Look at my curls!"
+   },
+   {
+    "start_s": 57.0,
+    "end_s": 62.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "I'm obsessed كيف طلع شعري!",
+    "text_english": "I'm obsessed with how my hair turned out!"
+   },
+   {
+    "start_s": 63.0,
+    "end_s": 66.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "هيدا فيكن تجيبوا منو من عند Wavytalk، كتير سريع...",
+    "text_english": "You can get this from Wavytalk, it's very fast..."
+   },
+   {
+    "start_s": 67.0,
+    "end_s": 71.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "It's so easy to use وعن جد عن جد بنصحكن كلكن فيه. I love it so much.",
+    "text_english": "It's so easy to use and really, really I recommend it to all of you. I love it so much."
+   },
+   {
+    "start_s": 71.2,
+    "end_s": 72.8,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "حصير دايماً أعمل شعري فيه.",
+    "text_english": "I'll always be doing my hair with it."
+   }
+  ],
+  "transcript_full_original": "Guys بدي جرب هيدا الـ tool معكن كرمال أعمل blowout. ديجا صار super سخن. بيجي معو هيدول، وكمان brush. It's so cute. حسب ما عرفت I section my hair هيك. بنحطها هون، وبنحطها هيك وبننزل. It's so easy! ما بدا شي! إذا عن جد بتزبط... Oh my god! Guys عم تشوفوا الفرق؟ Slide وحدة وعملتون هيك! خليني أجرب أعمل curl تحت. I guess هيك بيعملوا curl يعني. No way! Guys, wow! عملت half my hair، ليكوا شو حلو! بعمل هيك... بعدين هيك. Look at my curls! I'm obsessed كيف طلع شعري! هيدا فيكن تجيبوا منو من عند Wavytalk، كتير سريع... It's so easy to use وعن جد عن جد بنصحكن كلكن فيه. I love it so much. حصير دايماً أعمل شعري فيه.",
+  "transcript_full_english": "Guys, I want to try this tool with you to do a blowout. It's already gotten super hot. It comes with these, and also a brush. It's so cute. From what I understood, I section my hair like this. We put it here, place it like this and glide down. It's so easy! It takes no effort! If it actually works... Oh my god! Guys, are you seeing the difference? Just one slide and it made it like this! Let me try to curl the bottom. I guess this is how they curl it. No way! Guys, wow! I did half my hair, look how pretty! I do this... then like this. Look at my curls! I'm obsessed with how my hair turned out! You can get this from Wavytalk, it's very fast... It's so easy to use and really, really I recommend it to all of you. I love it so much. I'll always be doing my hair with it.",
+  "word_count": 128,
+  "speech_starts_at_s": 1.7,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "text": "صار في Wavytalk بلبنان",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 12.0,
+    "shot_type": "medium close-up",
+    "visual": "Young woman facing camera holding pink WavyTalk thermal brush, styling clips, and pink paddle brush.",
+    "action": "Creator announces trying out the tool and shows the packaged accessories.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 15.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator clips the top portion of her long dark hair to section it.",
+    "action": "Creator sections hair and prepares a bottom section for styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 15.8,
+    "end_s": 27.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator positions the heated round brush at the root and slides it downwards along the hair strand.",
+    "action": "First pass demo smoothing the hair strand and reacting in amazement.",
+    "product_visible": true
+   },
+   {
+    "start_s": 27.8,
+    "end_s": 37.8,
+    "shot_type": "close-up",
+    "visual": "Close-up of brush smoothing the strand again, followed by creator touching the silky straight result.",
+    "action": "Creator checks the smooth section and comments on how one slide straightened it completely.",
+    "product_visible": true
+   },
+   {
+    "start_s": 37.8,
+    "end_s": 45.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator twists the brush at the hair ends to create a bouncy curled-under blowout flick.",
+    "action": "Creator shows the curled end result, gasping in shock and delight.",
+    "product_visible": true
+   },
+   {
+    "start_s": 45.8,
+    "end_s": 56.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator demonstrates one half completed with bouncy blowout curls while doing final touches with the brush.",
+    "action": "Creator demonstrates half-done results and shakes her curls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 56.5,
+    "end_s": 73.56,
+    "shot_type": "medium shot",
+    "visual": "Full finished hair result shown from front and angles, shiny voluminous bouncy waves.",
+    "action": "Creator shakes out hair, holds up brush, praises the ease and speed, and delivers closing recommendation.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink heated brush with on-screen text 'صار في Wavytalk بلبنان'.",
+   "visual_0_3s": "Creator talking to camera holding the WavyTalk styling tool in a bright room.",
+   "spoken_0_3s": "Guys بدي جرب هيدا الـ tool معكن...",
+   "text_0_3s": "صار في Wavytalk بلبنان",
+   "hook_type": "product_reveal",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Text banner announcing brand availability in Lebanon while holding tool ready for first try."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Availability announcement & tool unbox overview",
+    "First pass test and immediate shock at smoothness",
+    "Curling ends test",
+    "Half-head comparison and final result reveal",
+    "Final review and strong recommendation"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "saves_time",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Takes one slide to smooth and straighten",
+    "Heats up super quickly",
+    "Creates salon-worthy curled blowout ends effortlessly",
+    "Very fast and easy to use"
+   ],
+   "pain_points": [
+    "Blowouts are traditionally difficult or time-consuming at home"
+   ],
+   "objections_handled": [
+    "Whether it works on thick dark hair with just one pass",
+    "Whether it's complicated to use"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional salon blowouts / multi-step styling"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Thermal Heated Round Brush",
+    "Sectioning hair clips",
+    "Pink paddle brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 16.0,
+   "final_result_shown_s": 57.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "هيدا فيكن تجيبوا منو من عند Wavytalk",
+   "cta_on_screen": "",
+   "cta_at_s": 63.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, dark brown / black wavy hair with natural texture",
+   "hair_after": "Silky, smooth, voluminous 90s blowout with bouncy flipped ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, candid, and surprised"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "Subtle upbeat ambient background track beneath spoken audio",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 11,
+   "avg_shot_length_s": 6.69,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between styling steps"
+   ],
+   "ending": "Creator tosses her voluminous finished blowout hair to the side smiling at the camera"
+  },
+  "notes": "Clear localized UGC ad targeting the Lebanese market announcing local availability of WavyTalk styling tools."
+ }
+}

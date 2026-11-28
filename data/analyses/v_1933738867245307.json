@@ -1,0 +1,168 @@
+{
+ "media_key": "v_1933738867245307",
+ "analyzed_at": "2026-11-28T10:23:14+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "5d4aef337f8acdcb9b7bb92bc182e211e1b4dfe361d5f4ede36eb506241384e5",
+ "source": {
+  "kind": "video",
+  "id": "1933738867245307",
+  "video_id": "1933738867245307",
+  "length_s": 9.331,
+  "permalink": "/122156392911058569/videos/1933738867245307"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 8.24,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A young woman showcases her 10-minute voluminous blowout results using the pink Wavytalk thermal round brush over trending background music.",
+  "full_description": "A creator demonstrates the Wavytalk thermal round brush styling tool while trending music plays in the background. The video opens with her fluffing out her voluminous, styled dark hair. It quickly cuts to brief clips of her styling her bangs and curling the ends of her hair with the pink thermal brush, followed by a close-up of the device displaying the power light and temperature screen. She finishes by shaking out her voluminous hair and posing with the tool. On-screen text promotes getting a salon blowout look in 10 minutes.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 8.24,
+    "text": "If you want a blowout look in just 10 minutes...\n\nYou NEED this Wavytalk brush",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "medium close-up",
+    "visual": "Young woman in a white fuzzy sweater tossing and running her fingers through her voluminous styled hair while holding the pink Wavytalk thermal brush.",
+    "action": "Tossing hair and posing toward the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 3.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator rolling her front bangs straight down with the pink Wavytalk thermal round brush.",
+    "action": "Curling bangs with the heated thermal brush and releasing.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.5,
+    "end_s": 4.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling the ends of a side section of her hair around the thermal brush barrel.",
+    "action": "Twisting and gliding the brush through the bottom strands.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 5.8,
+    "shot_type": "close-up",
+    "visual": "Close-up shot of the handle and barrel base of the pink Wavytalk brush showing the lit blue 'ION' indicator and buttons.",
+    "action": "Holding the brush towards the camera lens to show device details.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 8.24,
+    "shot_type": "medium close-up",
+    "visual": "Creator shaking out and posing her full, voluminous blowout result, smiling confidently while holding the brush.",
+    "action": "Running hand through hair and posing.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator tossing her bouncy blowout hair while holding the pink Wavytalk brush with text overlay stating 'If you want a blowout look in just 10 minutes...'.",
+   "visual_0_3s": "Creator fluffs her hair with one hand and holds the pink thermal brush in the other, immediately cutting to styling bangs.",
+   "spoken_0_3s": "",
+   "text_0_3s": "If you want a blowout look in just 10 minutes...\n\nYou NEED this Wavytalk brush",
+   "hook_type": "result_first",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Immediate display of gorgeous, bouncy voluminous blowout results combined with quick-cut styling demo clips."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Result reveal / Hook with bouncy voluminous hair",
+    "Quick demo of styling bangs and ends",
+    "Product close-up showing ionic feature",
+    "Final result showcase / confidence pose"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Achieve a blowout look in just 10 minutes"
+   ],
+   "pain_points": [
+    "Traditional blowouts take too long or require salon appointments"
+   ],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Round Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 1.8,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Dark brown, smooth blowout",
+   "hair_after": "Dark brown, layered, voluminous blowout with flipped ends and curled bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Female vocal R&B/pop track singing lyrics: 'The man that I love set me down last night...'",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 1.65,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Cut mid-pose as creator flips her hair."
+  },
+  "notes": "Ad is driven by music and text overlay hook with zero spoken audio, relying on aesthetic visual proof of bouncy hair and quick demo cuts."
+ }
+}

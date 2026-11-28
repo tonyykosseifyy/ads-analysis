@@ -1,0 +1,330 @@
+{
+ "media_key": "v_4450965471793977",
+ "analyzed_at": "2026-11-28T10:23:50+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "4d2a0d6246c35aad30418da631591ad1bb7496a56cd1cca9bd52d2d37c41b694",
+ "source": {
+  "kind": "video",
+  "id": "4450965471793977",
+  "video_id": "4450965471793977",
+  "length_s": 78.733,
+  "permalink": "/122156392911058569/videos/4450965471793977"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 78.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Lebanese creator tests the viral WavyTalk thermal brush at home, achieving a salon-quality 15-minute blowout.",
+  "full_description": "A young Lebanese woman in a casual green t-shirt tests the viral WavyTalk heated round styling brush to see if a blowout suits her face and hair. She mentions wanting to test if it lives up to the TikTok hype. She demonstrates sectioning and styling her hair with the brush, showing how to roll and pull through the ends. She shows intermediate comparisons and is amazed by the bounce and curl. Finally, she displays the full completed blowout with incredible volume, praising it as better than salon results and emphasizing that it only took 15 minutes.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 60,
+    "en": 40,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en",
+    "ar"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "عم نبّش عالـ hairstyle اللي أكتر شي بتلبق لوجهي، ولشعري، فاليوم حنجرّب الـ blowout.",
+    "text_english": "I'm searching for the hairstyle that suits my face and my hair best, so today we're going to try the blowout."
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 11.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "الكل بيقول إنّه you can't go wrong مع blowout، يعني بيعطي هيدا الـ clean look وكمان it goes مع كل ضهرة.",
+    "text_english": "Everyone says that you can't go wrong with a blowout; it gives that clean look and also goes with every outing."
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 15.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "فخلينا نشوف إذا بيزبط على my hair.",
+    "text_english": "So let's see if it works on my hair."
+   },
+   {
+    "start_s": 15.5,
+    "end_s": 23.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "حاستعمل هالـ brush شفتها على TikTok، it has been going viral for a while، شفتها من brand اسمها WavyTalk، خلينا نشوف إذا حتزبط على شعري.",
+    "text_english": "I'm going to use this brush I saw on TikTok, it has been going viral for a while, from a brand called WavyTalk. Let's see if it works on my hair."
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 29.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بس ليكو الفرق. عبالي شوف إذا it's worth the hype أو لأ، إنه it's just a trend.",
+    "text_english": "Just look at the difference. I want to see if it's worth the hype or if it's just a trend."
+   },
+   {
+    "start_s": 29.5,
+    "end_s": 36.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "They turn it once وبيحلقوه، بالآخر تنزل هيك.",
+    "text_english": "They turn it once and guide it through, and at the end it drops like this."
+   },
+   {
+    "start_s": 36.5,
+    "end_s": 41.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "عن جد guys ليكو the curve! I'm obsessed! عن جد تخيلوا كل شعري هيك.",
+    "text_english": "Seriously guys, look at the curve! I'm obsessed! Imagine all my hair like this."
+   },
+   {
+    "start_s": 41.0,
+    "end_s": 48.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "I honestly think كتير طالعين حلوين. Oh my God! ليكو الـ volume وليكو الـ curls! كتير natural.",
+    "text_english": "I honestly think they turned out so nice. Oh my God! Look at the volume and look at the curls! Very natural."
+   },
+   {
+    "start_s": 48.0,
+    "end_s": 58.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "It's the best blowout at home you can have، حتى it's even better than the one you can get at the hairdresser. Guys, I love it so much. I think it suits my face so well.",
+    "text_english": "It's the best blowout at home you can have, it's even better than the one you can get at the hairdresser. Guys, I love it so much. I think it suits my face so well."
+   },
+   {
+    "start_s": 58.5,
+    "end_s": 65.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وguys اللي فاجأني أكتر شي إنه I was able to do it literally guys بـ 15 minutes! ما عم بمزح!",
+    "text_english": "And guys, what surprised me most is that I was able to do it literally guys in 15 minutes! I'm not kidding!"
+   },
+   {
+    "start_s": 65.0,
+    "end_s": 75.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "This product is really good, approved from my end، لأنه عن جد Oh my God عن جد الـ blowout اللي أعطاني ياه بـ 15 minutes at home...",
+    "text_english": "This product is really good, approved from my end, because seriously, Oh my God, the blowout it gave me in 15 minutes at home..."
+   },
+   {
+    "start_s": 75.0,
+    "end_s": 78.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Wow! I love it, I'm obsessed with this product.",
+    "text_english": "Wow! I love it, I'm obsessed with this product."
+   }
+  ],
+  "transcript_full_original": "عم نبّش عالـ hairstyle اللي أكتر شي بتلبق لوجهي، ولشعري، فاليوم حنجرّب الـ blowout. الكل بيقول إنّه you can't go wrong مع blowout، يعني بيعطي هيدا الـ clean look وكمان it goes مع كل ضهرة. فخلينا نشوف إذا بيزبط على my hair. حاستعمل هالـ brush شفتها على TikTok، it has been going viral for a while، شفتها من brand اسمها WavyTalk، خلينا نشوف إذا حتزبط على شعري. بس ليكو الفرق. عبالي شوف إذا it's worth the hype أو لأ، إنه it's just a trend. They turn it once وبيحلقوه، بالآخر تنزل هيك. عن جد guys ليكو the curve! I'm obsessed! عن جد تخيلوا كل شعري هيك. I honestly think كتير طالعين حلوين. Oh my God! ليكو الـ volume وليكو الـ curls! كتير natural. It's the best blowout at home you can have، حتى it's even better than the one you can get at the hairdresser. Guys, I love it so much. I think it suits my face so well. وguys اللي فاجأني أكتر شي إنه I was able to do it literally guys بـ 15 minutes! ما عم بمزح! This product is really good, approved from my end، لأنه عن جد Oh my God عن جد الـ blowout اللي أعطاني ياه بـ 15 minutes at home... Wow! I love it, I'm obsessed with this product.",
+  "transcript_full_english": "I'm searching for the hairstyle that suits my face and my hair best, so today we're going to try the blowout. Everyone says that you can't go wrong with a blowout; it gives that clean look and also goes with every outing. So let's see if it works on my hair. I'm going to use this brush I saw on TikTok, it has been going viral for a while, from a brand called WavyTalk. Let's see if it works on my hair. Just look at the difference. I want to see if it's worth the hype or if it's just a trend. They turn it once and guide it through, and at the end it drops like this. Seriously guys, look at the curve! I'm obsessed! Imagine all my hair like this. I honestly think they turned out so nice. Oh my God! Look at the volume and look at the curls! Very natural. It's the best blowout at home you can have, it's even better than the one you can get at the hairdresser. Guys, I love it so much. I think it suits my face so well. And guys, what surprised me most is that I was able to do it literally guys in 15 minutes! I'm not kidding! This product is really good, approved from my end, because seriously, Oh my God, the blowout it gave me in 15 minutes at home... Wow! I love it, I'm obsessed with this product.",
+  "word_count": 204,
+  "speech_starts_at_s": 0.1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.8,
+    "text": "15-Min Blowout At Home",
+    "role": "hook"
+   },
+   {
+    "start_s": 0.1,
+    "end_s": 78.5,
+    "text": "Burned-in word-by-word Lebanese Arabic and English subtitles throughout the video",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.5,
+    "shot_type": "medium_shot",
+    "visual": "Creator facing camera talking with natural unstyled wavy hair.",
+    "action": "Creator gestures while explaining her search for the perfect blowout hairstyle.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.5,
+    "end_s": 4.8,
+    "shot_type": "overlay_image",
+    "visual": "Photo overlay of model with voluminous brunette blowout appears over creator.",
+    "action": "Shows reference blowout photo that she wants to achieve.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 15.5,
+    "shot_type": "medium_shot",
+    "visual": "Creator has top half of hair clipped up, holding and sectioning lower strands with thermal brush in hand.",
+    "action": "Explaining the universal appeal of blowouts while starting to prep styling.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.5,
+    "end_s": 23.5,
+    "shot_type": "close_up",
+    "visual": "Creator holds up the pink WavyTalk thermal barrel brush directly to the camera.",
+    "action": "Shows the brush and introduces the viral WavyTalk brand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 29.5,
+    "shot_type": "medium_shot",
+    "visual": "Creator shows difference on styled side versus unstyled side.",
+    "action": "Combing and styling a front section with the heated brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 29.5,
+    "end_s": 36.5,
+    "shot_type": "close_up",
+    "visual": "Close-up of hair wrapped once around the heated barrel and pulled slowly through to the end.",
+    "action": "Creator demonstrates the exact curling and gliding technique.",
+    "product_visible": true
+   },
+   {
+    "start_s": 36.5,
+    "end_s": 41.0,
+    "shot_type": "medium_shot",
+    "visual": "Creator releases hair and shows the bouncy curled strand.",
+    "action": "Touches the curved strand excitedly while holding brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 41.0,
+    "end_s": 58.5,
+    "shot_type": "medium_shot",
+    "visual": "Creator reveals full completed blowout, both sides fully styled with massive volume and curls.",
+    "action": "Fluffs hair, shows off bounce and soft curved layers from both sides.",
+    "product_visible": false
+   },
+   {
+    "start_s": 58.5,
+    "end_s": 65.0,
+    "shot_type": "medium_shot",
+    "visual": "Creator holding the WavyTalk brush again while speaking enthusiastically.",
+    "action": "Expresses shock that the full head styling only took 15 minutes.",
+    "product_visible": true
+   },
+   {
+    "start_s": 65.0,
+    "end_s": 78.5,
+    "shot_type": "medium_close_up",
+    "visual": "Creator holds the pink thermal brush next to her face, smiling and showcasing results.",
+    "action": "Gives her final approval and reiterates how obsessed she is with the product.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera with natural unstyled wavy hair and headline text '15-Min Blowout At Home'.",
+   "visual_0_3s": "Creator talking casually to camera with bold top caption overlay and animated spoken subtitles.",
+   "spoken_0_3s": "عم نبّش عالـ hairstyle اللي أكتر شي بتلبق لوجهي",
+   "text_0_3s": "15-Min Blowout At Home",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Inspiration photo pop-up cut at 3.5s breaking the initial selfie talking head."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: Desiring a flattering blowout style and seeing if home styling works",
+    "Introduction of viral TikTok tool: WavyTalk thermal brush",
+    "Step-by-step technique demo: Wrapping once and pulling through",
+    "Mid-way result reaction: Praising the instant curve and bounce",
+    "Full reveal: Displaying voluminous, shiny blowout",
+    "Benefit highlight: Better than hairdresser and took only 15 minutes",
+    "Final endorsement & approval"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "volume_and_bounce",
+    "social_proof_popularity"
+   ],
+   "key_claims": [
+    "Gives salon-quality blowout at home",
+    "Better than the hairdresser result",
+    "Takes only 15 minutes to style full hair",
+    "Creates natural volume, curves, and curls"
+   ],
+   "pain_points": [
+    "Difficulty getting salon blowout results at home",
+    "Styling hair takes too long",
+    "Styling tools don't live up to the viral hype"
+   ],
+   "objections_handled": [
+    "Is it worth the hype or just a social media trend? (Confirmed it works even better than expected)",
+    "Is it difficult to use? (Demonstrates how quick and simple one turn is)"
+   ],
+   "social_proof": [
+    "Mentioning it has been going viral on TikTok for a while"
+   ],
+   "comparison_to": "hairdresser salon blowout"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Thermal Heated Blowout Brush"
+   ],
+   "first_seen_s": 4.8,
+   "first_used_on_hair_s": 5.5,
+   "final_result_shown_s": 41.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, dark brunette, natural frizzy/wavy texture",
+   "hair_after": "Voluminous, shiny, bouncy salon-style blowout with flipped curved ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, relatable, candid"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "None, natural creator voice audio only",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 8.7,
+   "pacing": "medium",
+   "effects": [
+    "photo pop-up overlay",
+    "speed cuts between styling steps",
+    "dynamic highlighted subtitles"
+   ],
+   "ending": "Creator smiling directly into camera holding the product and expressing she is obsessed."
+  },
+  "notes": "Classic organic-style UGC product review ad. Features the pink WavyTalk thermal brush. Emphasizes speed (15 minutes) and salon comparison."
+ }
+}

@@ -1,0 +1,301 @@
+{
+ "media_key": "v_1155230753457151",
+ "analyzed_at": "2026-11-28T10:23:52+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "44b4285ce87349c7a464ac8eff6d1b1790b91b88109dbc9f8770c2398ae04091",
+ "source": {
+  "kind": "video",
+  "id": "1155230753457151",
+  "video_id": "1155230753457151",
+  "length_s": 78.3,
+  "permalink": "/122156392911058569/videos/1155230753457151"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 78.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator compares and demonstrates the Wavytalk Airflow Styler (curling and straightening) versus the Wavytalk Blowout Boost thermal round brush.",
+  "full_description": "A young brunette woman stands in front of the camera holding two pink Wavytalk hair styling tools: the Blowout Boost round brush and the Airflow styler. She explains the key differences between the two, noting that the Blowout Boost gives blowout results while the Airflow can curl, wave, or straighten. She demonstrates curling a strand with the Airflow and its cool-air setting feature, then straightens another strand with it. Next, she tests the Blowout Boost thermal brush on another strand to show the bouncy blowout end curl. She finishes by showing both styles side by side.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 70,
+    "en": 25,
+    "fr": 5
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بدي فرجيكن الـ difference بين هيدا الـ tool وهيدا الـ tool.",
+    "text_english": "I want to show you the difference between this tool and this tool."
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 6.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "هيدا الـ Wavytalk Blowout Boost، وهيدا الـ Wavytalk Airflow.",
+    "text_english": "This is the Wavytalk Blowout Boost, and this is the Wavytalk Airflow."
+   },
+   {
+    "start_s": 6.1,
+    "end_s": 8.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "So أول شي هيدا بيعمل blowouts،",
+    "text_english": "So first thing, this one creates blowouts,"
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 11.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "هيدا بيعمل wavy، curly، وكمان straight.",
+    "text_english": "this one does wavy, curly, and also straight."
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 13.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "So هيدول الـ difference بيناتن.",
+    "text_english": "So these are the differences between them."
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 19.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "فيكم تضووا هيدي كرمال يسقع، so بس تكونوا عم تعملوا الـ curl دغري it's set in place، وكمان ما بقى بتفك.",
+    "text_english": "You can turn this on to cool it down, so when you are doing the curl, it's immediately set in place and won't drop."
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 29.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بتحطوها inside، بتسكروا، وبتعملوا twist.",
+    "text_english": "You place it inside, close it, and do a twist."
+   },
+   {
+    "start_s": 35.5,
+    "end_s": 39.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "So الـ Wavytalk Airflow بيعملكن هيك curls.",
+    "text_english": "So the Wavytalk Airflow gives you curls like this."
+   },
+   {
+    "start_s": 39.0,
+    "end_s": 42.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "كمان الـ Airflow فيكن، بيعملكن lisser.",
+    "text_english": "Also the Airflow can, it straightens for you."
+   },
+   {
+    "start_s": 42.6,
+    "end_s": 52.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "So باخدا من فوق، I lock، وبضلني نازلة straight، وصارت super straight.",
+    "text_english": "So I take it from the top, I lock, and I glide straight down, and it became super straight."
+   },
+   {
+    "start_s": 52.8,
+    "end_s": 59.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "So هيدا هو الـ Wavytalk Airflow.",
+    "text_english": "So this is the Wavytalk Airflow."
+   },
+   {
+    "start_s": 60.0,
+    "end_s": 68.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "كرمال الـ Blowout Boost، I twist من فوق، بنزل...",
+    "text_english": "For the Blowout Boost, I twist from the top, I glide down..."
+   },
+   {
+    "start_s": 70.0,
+    "end_s": 72.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وهلا بيطلعلي curl من تحت.",
+    "text_english": "And now I get a curl at the bottom."
+   },
+   {
+    "start_s": 72.8,
+    "end_s": 78.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "So هيدا الـ difference بيناتن، هيدا بيعملي blowout وهيدا بيعملي curls أو straight hair.",
+    "text_english": "So this is the difference between them: this one gives me a blowout, and this one gives me curls or straight hair."
+   }
+  ],
+  "transcript_full_original": "بدي فرجيكن الـ difference بين هيدا الـ tool وهيدا الـ tool. هيدا الـ Wavytalk Blowout Boost، وهيدا الـ Wavytalk Airflow. So أول شي هيدا بيعمل blowouts، هيدا بيعمل wavy، curly، وكمان straight. So هيدول الـ difference بيناتن. فيكم تضووا هيدي كرمال يسقع، so بس تكونوا عم تعملوا الـ curl دغري it's set in place، وكمان ما بقى بتفك. بتحطوها inside، بتسكروا، وبتعملوا twist. So الـ Wavytalk Airflow بيعملكن هيك curls. كمان الـ Airflow فيكن، بيعملكن lisser. So باخدا من فوق، I lock، وبضلني نازلة straight، وصارت super straight. So هيدا هو الـ Wavytalk Airflow. كرمال الـ Blowout Boost، I twist من فوق، بنزل... وهلا بيطلعلي curl من تحت. So هيدا الـ difference بيناتن، هيدا بيعملي blowout وهيدا بيعملي curls أو straight hair.",
+  "transcript_full_english": "I want to show you the difference between this tool and this tool. This is the Wavytalk Blowout Boost, and this is the Wavytalk Airflow. So first thing, this one creates blowouts, this one does wavy, curly, and also straight. So these are the differences between them. You can turn this on to cool it down, so when you are doing the curl, it's immediately set in place and won't drop. You place it inside, close it, and do a twist. So the Wavytalk Airflow gives you curls like this. Also the Airflow can, it straightens for you. So I take it from the top, I lock, and I glide straight down, and it became super straight. So this is the Wavytalk Airflow. For the Blowout Boost, I twist from the top, I glide down... And now I get a curl at the bottom. So this is the difference between them: this one gives me a blowout, and this one gives me curls or straight hair.",
+  "word_count": 133,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 13.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding both pink Wavytalk hair tools looking directly at the camera.",
+    "action": "She introduces both devices, comparing their functions.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 35.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator demonstrating the Wavytalk Airflow.",
+    "action": "She clamps a strand, turns the tool, and glides it down to form a defined curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 35.5,
+    "end_s": 40.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator showing the fresh bouncy curl created by the Airflow tool.",
+    "action": "She twirls the curl with her fingers.",
+    "product_visible": true
+   },
+   {
+    "start_s": 40.0,
+    "end_s": 52.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator using the Wavytalk Airflow as a straightener.",
+    "action": "She clamps another section and pulls straight down to straighten the hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 52.5,
+    "end_s": 60.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator touching her straightened hair and showing the result.",
+    "action": "She smooths down the straight section and holds up the Airflow tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 60.0,
+    "end_s": 72.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator using the Wavytalk Blowout Boost round brush.",
+    "action": "She wraps hair around the barrel and pulls down, revealing a blowout flicked curl at the end.",
+    "product_visible": true
+   },
+   {
+    "start_s": 72.8,
+    "end_s": 78.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding both tools in her hands, showing both hair styles.",
+    "action": "She touches her hair and concludes the comparison between both tools.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding two pink hair styling tools in front of the camera.",
+   "visual_0_3s": "Creator presenting both Wavytalk tools side by side in her hands.",
+   "spoken_0_3s": "بدي فرجيكن الـ difference بين هيدا الـ tool وهيدا الـ tool.",
+   "text_0_3s": "",
+   "hook_type": "curiosity_gap",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Immediate head-to-head comparison between two trending hair stylers shown right at frame one."
+  },
+  "structure": {
+   "format": "comparison",
+   "narrative_beats": [
+    "Introduction: comparing Wavytalk Blowout Boost vs Wavytalk Airflow",
+    "Feature highlight: Airflow cool air setting lock",
+    "Airflow Demo 1: Curling demonstration",
+    "Airflow Demo 2: Straightening demonstration",
+    "Blowout Boost Demo: Round brush blowout curl demonstration",
+    "Recap & side-by-side conclusion"
+   ],
+   "main_angle": "replaces_multiple_tools",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Wavytalk Airflow can curl, wave, and straighten hair",
+    "Airflow cold air locks curls in place immediately so they don't fall out",
+    "Wavytalk Blowout Boost creates voluminous blowouts with curled ends"
+   ],
+   "pain_points": [
+    "Curls dropping or falling out quickly",
+    "Not knowing which styling tool suits one's hair styling routine"
+   ],
+   "objections_handled": [
+    "Can one tool both straighten and curl? (Yes, Airflow does both)",
+    "Will the curls last? (The cool airflow locks them instantly)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Wavytalk Airflow vs Wavytalk Blowout Boost"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost",
+    "Wavytalk Airflow 360 Styler"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 20.0,
+   "final_result_shown_s": 36.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, dark brown, naturally straight/smooth",
+   "hair_after": "Half side styled in curls/straight with Airflow, other half styled with Blowout Boost",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "friendly, informative, and engaging"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle, low-volume background instrumental acoustic guitar/chill pop track",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 9.75,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between demos"
+   ],
+   "ending": "Creator smiling and touching hair holding both devices, video cuts cleanly."
+  },
+  "notes": "Authentic UGC comparison ad targeting consumers trying to decide between the Wavytalk Airflow multi-styler and the Blowout Boost thermal round brush."
+ }
+}

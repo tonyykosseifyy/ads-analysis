@@ -1,0 +1,228 @@
+{
+ "media_key": "v_1473012924714706",
+ "analyzed_at": "2026-11-28T10:22:07+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "533c6f66da630c0e8b5b2b4e8f4f82715aeddd2b24ca8249e3d3c66f20f6eaf6",
+ "source": {
+  "kind": "video",
+  "id": "1473012924714706",
+  "video_id": "1473012924714706",
+  "length_s": 15.766,
+  "permalink": "/122156392911058569/videos/1473012924714706"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 15.7,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A beauty creator demonstrates how to achieve glossy beach waves in 10 minutes using the Wavytalk Power Wave styling tool.",
+  "full_description": "The video starts with a quick before-and-after transition of a young brunette woman showcasing straight hair before instantly revealing deep, shiny beach waves. She introduces the pink Wavytalk Power Wave iron, demonstrates how she clamps sections of her hair down the shaft, shows close-up B-roll of the temperature settings (320°F) and the M-shaped ceramic heating plates with ionic blue light, and concludes by flaunting the finished voluminous wave hairstyle.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "text": "these beachy waves for summer>>",
+    "role": "hook"
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 3.8,
+    "text": "wavytalk power wave",
+    "role": "brand"
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 7.5,
+    "text": "so easy to use and takes me 10 minutes!!",
+    "role": "benefit"
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 9.5,
+    "text": "I use it at 320 degrees for 6 seconds",
+    "role": "benefit"
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 13.5,
+    "text": "M shaped curler for the perfect wave",
+    "role": "benefit"
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 15.7,
+    "text": "final result🤍",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.0,
+    "shot_type": "medium close-up",
+    "visual": "Young woman in a white strapless top posing in a bright bathroom with straight, unstyled brunette hair.",
+    "action": "She looks into the camera, about to transition.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 2.8,
+    "shot_type": "medium close-up",
+    "visual": "Instant jump-cut transition showing her with textured, deep beach waves on one side.",
+    "action": "She touches her wavy hair and poses for the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 3.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding up the pink Wavytalk Power Wave styling tool beside her face.",
+    "action": "She presents the tool towards the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 7.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator working on a section of hair parted with a hair clip.",
+    "action": "She clamps the pink waver onto a section of hair near the scalp, holds, releases, and clamps down the strand to create a seamless wave pattern.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 9.5,
+    "shot_type": "close-up",
+    "visual": "Hands holding the device close to the camera against bathroom tile background.",
+    "action": "Thumb adjusts the buttons next to the digital LED display indicating 'ION 320°F'.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 11.8,
+    "shot_type": "close-up",
+    "visual": "Front-angle POV of the opened waver plates.",
+    "action": "She clamps and opens the iron to show the curved M-shaped plate profile and the internal blue ionic light.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.8,
+    "end_s": 13.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator applying the waver to another strand around ear level.",
+    "action": "She clamps the iron onto hair and pulls it through gently.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 15.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator fully styled with glossy, deep mermaid beach waves framing her shoulders.",
+    "action": "She turns her head slightly and poses gracefully, admiring the finished hairstyle.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator looking directly at the camera with straight hair and text 'these beachy waves for summer>>'.",
+   "visual_0_3s": "Rapid visual jump transition from straight hair to glamorous beach waves, followed by presenting the pink styling tool.",
+   "spoken_0_3s": "",
+   "text_0_3s": "these beachy waves for summer>>",
+   "hook_type": "before_after",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Instant jump cut from straight hair to voluminous waves within the first second."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Immediate before/after transition hook showing summer beach waves",
+    "Tool introduction and ease of use claim (10 minutes)",
+    "How-to demonstration of clamping sections",
+    "Tool feature highlights (temperature settings and M-shaped curved plates with ionic tech)",
+    "Final look showcase"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "saves_time",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Creates beachy waves in 10 minutes",
+    "So easy to use",
+    "Heats to 320 degrees in 6 seconds",
+    "M-shaped curler creates the perfect wave"
+   ],
+   "pain_points": [
+    "Curling hair takes too long",
+    "Traditional curling irons take skill or leave creases"
+   ],
+   "objections_handled": [
+    "Shows exact temperature and hold time (320°F for 6s) to ensure safe, frizz-free styling"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Power Wave"
+   ],
+   "first_seen_s": 2.8,
+   "first_used_on_hair_s": 3.8,
+   "final_result_shown_s": 1.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, dark brown, straight/sleek texture",
+   "hair_after": "Long, glossy, uniform S-wave beachy waves",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "Aesthetic, trendy, effortless, glamorous"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Slow, atmospheric R&B beat with pitched vocal chops repeating lyrics like 'Inside' and 'Bye bye'.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 2.6,
+   "pacing": "fast",
+   "effects": [
+    "jump-cut transformation transition"
+   ],
+   "ending": "Posing facing the mirror with full wavy hair and on-screen caption 'final result🤍'."
+  },
+  "notes": "Fast-paced visual aesthetic UGC video focusing on quick styling for summer waves without voiceover, relying purely on text overlays, trending music, and high visual appeal."
+ }
+}

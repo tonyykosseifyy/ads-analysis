@@ -1,0 +1,190 @@
+{
+ "media_key": "v_683431291261226",
+ "analyzed_at": "2026-11-28T10:22:05+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "91e56654a0df29a236f0545e466476d95263b8b8035c9c91e4c55883d1fde52a",
+ "source": {
+  "kind": "video",
+  "id": "683431291261226",
+  "video_id": "683431291261226",
+  "length_s": 20.866,
+  "permalink": "/122156392911058569/videos/683431291261226"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 20.92,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Two friends demonstrate styling smooth, voluminous waves using a pink thermal round brush in a pink studio setting.",
+  "full_description": "The video opens with a young woman in a pink top holding up a pink thermal styling brush against a solid pink studio background. It cuts to a close-up of a strand of hair wrapped around the heated barrel, followed by a wide shot of her friend using the brush to style her hair. The two pose happily holding the tool together. A quick shot shows hair being brushed with an ergonomic pink detangling paddle brush. Both women then shake out and flaunt their freshly styled, voluminous wavy blowouts, touch each other's hair admiringly, take selfies on a phone, and end the video embracing in a cheerful hug.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "shot_type": "medium shot",
+    "visual": "A young woman wearing a pink crop top poses smiling holding the pink thermal round brush upright in front of a bright pink studio background.",
+    "action": "She rests her chin delicately on her hand above the brush, smiling at the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 2.6,
+    "shot_type": "close-up",
+    "visual": "Extreme close-up of dark hair wrapped around the heated barrel of the thermal round brush.",
+    "action": "Hands hold tension on the hair strand wrapped around the bristles.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.6,
+    "end_s": 7.3,
+    "shot_type": "medium full shot",
+    "visual": "Two women standing against the pink backdrop. The woman on the left in a white shirt is curling the hair of the woman in the pink top.",
+    "action": "The friend curls a top section of hair with the thermal brush while the model playfully mimics holding a fan or styling pose, smiling and laughing together.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 9.5,
+    "shot_type": "medium shot",
+    "visual": "Both women lean in together smiling at the camera while holding up the pink thermal brush like a microphone.",
+    "action": "They laugh, lean heads together, and raise the styling tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 10.5,
+    "shot_type": "close-up",
+    "visual": "Close-up of long, straight-to-wavy dark hair being brushed through with a pink flexible open-vent brush.",
+    "action": "A hand pulls the hairbrush smoothly through the ends of the hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.5,
+    "end_s": 13.0,
+    "shot_type": "medium shot",
+    "visual": "Both women showcase their finished hairstyles with bouncy waves and volume.",
+    "action": "They run their fingers through their hair, fluffing it up and smiling confidently at the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 15.2,
+    "shot_type": "medium shot",
+    "visual": "The two friends face each other against the pink studio wall.",
+    "action": "They touch and inspect each other's soft, styled hair admiringly while talking and laughing.",
+    "product_visible": false
+   },
+   {
+    "start_s": 15.2,
+    "end_s": 18.9,
+    "shot_type": "medium shot",
+    "visual": "The woman in pink holds a smartphone outward in selfie mode to take pictures with her friend.",
+    "action": "They strike playful selfie poses, touching their styled hair and raising their hands in excitement.",
+    "product_visible": false
+   },
+   {
+    "start_s": 18.9,
+    "end_s": 20.92,
+    "shot_type": "medium shot",
+    "visual": "Both women smile broadly and hug each other warmly.",
+    "action": "They embrace tightly, celebrating their finished hair looks before the video ends.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Model in pink crop top holding the pink thermal round brush upright against a hot pink backdrop.",
+   "visual_0_3s": "Model introduces the heated tool, cuts immediately to hair wrapped on the barrel, then to her friend styling her hair.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "product_reveal",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "Vibrant monochrome magenta pink backdrop and playful energy between two models."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Introduction of the pink thermal styling brush",
+    "Quick demo of curling and shaping hair with a friend",
+    "Brushing through and revealing the final bouncy blowout waves",
+    "Joyful celebration, taking selfies, and embracing"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Creates smooth, voluminous blowout waves easily"
+   ],
+   "pain_points": [],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Thermal Round Styling Brush",
+    "Flexible Vented Detangling Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 1.1,
+   "final_result_shown_s": 10.5,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 2,
+   "talent_type": "model",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, dark brown, slightly wavy/straight",
+   "hair_after": "Bouncy, soft blowout waves with glossy finish and volume",
+   "setting": "studio",
+   "faces_camera": true,
+   "energy_tone": "cheerful, playful, energetic, friendly"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Upbeat indie-pop song with female vocals and a steady beat",
+   "captions_burned_in": false,
+   "production_style": "professional_studio",
+   "cut_count": 8,
+   "avg_shot_length_s": 2.3,
+   "pacing": "fast",
+   "effects": [
+    "studio lighting",
+    "clean cuts synced to rhythm"
+   ],
+   "ending": "The two models hug tightly with broad smiles against the pink background."
+  },
+  "notes": "A silent studio lifestyle commercial emphasizing the aesthetic appeal, ease of styling, and social fun of doing hair together."
+ }
+}

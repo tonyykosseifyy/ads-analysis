@@ -1,0 +1,188 @@
+{
+ "media_key": "v_2107496003466717",
+ "analyzed_at": "2026-11-28T10:23:34+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "16e89edb5d26528a74d18e511c9fff12dd264e64cc73ea2be6174e8af7b3a585",
+ "source": {
+  "kind": "video",
+  "id": "2107496003466717",
+  "video_id": "2107496003466717",
+  "length_s": 26.133,
+  "permalink": "/122156392911058569/videos/2107496003466717"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 25.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A curly-haired creator demonstrates drying and defining her natural curls using the pink Wavytalk hair dryer with a diffuser attachment.",
+  "full_description": "The video features a young creator with dark, naturally curly hair demonstrating how she styles her hair using a light pink Wavytalk hair dryer equipped with a diffuser nozzle. Set to background music without spoken dialogue, she shows the tool and its control buttons, diffuses her wet curls both upright and upside down to maximize volume, and presents the finished result of bouncy, frizz-free, defined curls before blowing a kiss to the camera.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "shot_type": "medium close-up",
+    "visual": "Young woman with curly hair seated in front of a mirror holding a pink Wavytalk dryer with a diffuser attachment next to her head.",
+    "action": "Presents the hair dryer to the camera and touches the diffuser.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 4.5,
+    "shot_type": "close-up",
+    "visual": "Close-up of the diffuser attachment bowl and prongs, then tilting down to the handle.",
+    "action": "Demonstrates the prongs of the diffuser with her manicured nails, then presses the power and temperature control buttons on the pink handle.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 6.8,
+    "shot_type": "medium shot",
+    "visual": "Creator styling her damp curls on the right side of her head.",
+    "action": "Places wet curls into the diffuser bowl and lifts towards the scalp.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 10.4,
+    "shot_type": "medium shot",
+    "visual": "Creator bending forward, hair flipped upside down.",
+    "action": "Diffuses upside down from underneath the hair mass and across the roots to boost volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.4,
+    "end_s": 18.5,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting upright continuing to diffuse various sections of curly hair.",
+    "action": "Cups sections of curls into the bowl, holding it steady at root level and alternating sides.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 21.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator with completely dry, high-volume defined curls.",
+    "action": "Puts both hands in her hair, fluffing roots and admiring the defined curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 21.6,
+    "end_s": 23.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the pink Wavytalk hair dryer with diffuser in front of her chest.",
+    "action": "Smiles and shows the tool responsible for the finished curls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.0,
+    "end_s": 25.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator admiring her hair and posing for the camera.",
+    "action": "Shakes and fluffs her voluminous curls, looks directly into the lens, and blows a kiss.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink diffuser hair dryer next to her face and curly hair, staring into camera.",
+   "visual_0_3s": "Creator shows the pink hair dryer with diffuser attachment and points out the diffuser prongs.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "product_reveal",
+   "hook_type_secondary": "none",
+   "pattern_interrupt": "Aesthetic close-up display of the diffuser attachment bowl and click of the illuminated buttons."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Tool introduction and feature close-up (diffuser and controls)",
+    "Step-by-step diffusing technique on wet hair (side and upside down)",
+    "Full final reveal of defined, bouncy, frizz-free curls",
+    "Posing and sign-off gesture"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Defines natural curls",
+    "Adds volume when diffusing upside down",
+    "Leaves hair bouncy and frizz-free"
+   ],
+   "pain_points": [
+    "Flat or undefined natural curls",
+    "Frizz while blow-drying curly hair",
+    "Slow drying time for thick curly hair"
+   ],
+   "objections_handled": [
+    "Shows ease of use with clear cupping and diffusing technique"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Ionic Hair Dryer with Diffuser (Pink)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 4.5,
+   "final_result_shown_s": 18.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Wet/damp natural 3B/3C dark brunette curls",
+   "hair_after": "Dry, voluminous, highly defined and bouncy curly hair",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, calm, and aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "R&B / lo-fi pop instrumental track with rhythmic beats",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 3.6,
+   "pacing": "medium",
+   "effects": [
+    "hard cuts between styling angles"
+   ],
+   "ending": "Creator fluffs her curls and blows a kiss directly to the camera."
+  },
+  "notes": "The video contains no spoken words, voiceover, or text overlays. It relies purely on visual demonstration of curl styling using the diffuser attachment."
+ }
+}

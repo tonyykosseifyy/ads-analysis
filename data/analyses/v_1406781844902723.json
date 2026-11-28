@@ -1,0 +1,204 @@
+{
+ "media_key": "v_1406781844902723",
+ "analyzed_at": "2026-11-28T10:22:05+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "7f361b2511aa785ad2da76be8941f85aa3e1843bf5d9cc5927264833fdbc542c",
+ "source": {
+  "kind": "video",
+  "id": "1406781844902723",
+  "video_id": "1406781844902723",
+  "length_s": 28.141,
+  "permalink": "/122156392911058569/videos/1406781844902723"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 27.4,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates unboxing and styling natural curls into a bouncy blowout using the Wavytalk Blowout Boost thermal brush.",
+  "full_description": "The video starts with a result teaser of a woman showing a bouncy curled section of her dark hair with the pink Wavytalk Blowout Boost thermal brush. She then showcases the branded box, unboxes the heated round brush and accompanying hair clips, displays her natural curly, frizzy hair before styling, turns on the brush displaying the digital temperature readout, and styles sections into high-volume blowout curls. It concludes with her showing off the full voluminous, glossy result in the mirror.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator in a pink sweater holding the pink thermal brush in her hair with an expressive surprised expression, posing with smooth curls on one side.",
+    "action": "Creator poses with the styling tool resting in her curled hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.5,
+    "end_s": 5.5,
+    "shot_type": "mirror selfie medium shot",
+    "visual": "Creator holding her smartphone to film herself in the mirror, brushing through her styled, voluminous hair.",
+    "action": "Brushes top section of hair upward to showcase volume and bounce.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 7.5,
+    "shot_type": "medium shot",
+    "visual": "Creator holding up the pink Wavytalk Blowout Boost retail box toward the mirror.",
+    "action": "Displays the product packaging to the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 10.5,
+    "shot_type": "close-up",
+    "visual": "Hands opening the pink box, removing the pink thermal brush and peeling off protective plastic wrapping.",
+    "action": "Unboxing the Wavytalk thermal brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.5,
+    "end_s": 12.5,
+    "shot_type": "close-up",
+    "visual": "Hands opening a small white accessory box containing black styling sectioning clips.",
+    "action": "Creator unboxes styling clips.",
+    "product_visible": false
+   },
+   {
+    "start_s": 12.5,
+    "end_s": 15.5,
+    "shot_type": "mirror selfie medium shot",
+    "visual": "Creator shakes out her natural curly/frizzy unstyled hair and clips the top section away.",
+    "action": "Shows natural 'before' hair texture and sections it off.",
+    "product_visible": false
+   },
+   {
+    "start_s": 15.5,
+    "end_s": 17.5,
+    "shot_type": "close-up",
+    "visual": "Pink thermal brush powered on, showing digital temperature display illuminated at 220°C and bristles.",
+    "action": "Creator holds up the heated brush and touches the cool-touch tip.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 21.5,
+    "shot_type": "mirror selfie medium shot",
+    "visual": "Creator wrapping a strand of curly hair around the thermal brush barrel.",
+    "action": "Glides and twists the thermal brush through hair to smooth and curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.5,
+    "end_s": 23.5,
+    "shot_type": "mirror selfie medium shot",
+    "visual": "Creator styling the front fringe and bangs inward with the brush.",
+    "action": "Rolls bangs inward with the thermal brush for a bouncy finish.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 27.4,
+    "shot_type": "mirror selfie medium shot",
+    "visual": "Finished hairstyle: big, voluminous, bouncy salon-style blowout.",
+    "action": "Creator runs fingers through her hair, flips curls, and poses smiling with hands under her chin.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator posing with an animated expression holding the pink thermal brush in her curled hair.",
+   "visual_0_3s": "Result teaser of bouncy curled hair being held with the thermal brush.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "result_first",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "Expressive facial gesture and instant glimpse of bouncy styled hair."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Result preview hook",
+    "Product box showcase & unboxing",
+    "Before condition showing natural curly/frizzy hair",
+    "Tool heating and demonstration of styling technique",
+    "Full final result reveal and posing"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "frizz_or_curly_solution",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Transforms curly/frizzy hair into a bouncy salon blowout",
+    "Provides instant volume and smooth curls"
+   ],
+   "pain_points": [
+    "Frizzy, unmanageable curls",
+    "Complicated blowout routines with round brush and dryer"
+   ],
+   "objections_handled": [
+    "Works effectively on thick, naturally curly hair"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Ionic Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 2.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Shoulder-length naturally curly and frizzy dark hair",
+   "hair_after": "Voluminous, smooth 90s blowout with bouncy rolled curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, playful, stylish"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Trending upbeat R&B/hip-hop music track with rhythmic beats and vocal lyrics.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 3.0,
+   "pacing": "medium",
+   "effects": [
+    "mirror reflection framing"
+   ],
+   "ending": "Creator smiles warmly and poses showing off bouncy styled hair."
+  },
+  "notes": "No spoken dialogue or on-screen text overlays; the video relies completely on music synchronization and visual demonstration of unboxing and styling naturally curly hair."
+ }
+}

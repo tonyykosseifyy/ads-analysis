@@ -1,0 +1,242 @@
+{
+ "media_key": "v_1426747372375081",
+ "analyzed_at": "2026-11-28T10:22:04+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "2fceca8371dad67b4ce995a2586bbce33da34709faadfaa6faf71fef391bae67",
+ "source": {
+  "kind": "video",
+  "id": "1426747372375081",
+  "video_id": "1426747372375081",
+  "length_s": 42.266,
+  "permalink": "/122156392911058569/videos/1426747372375081"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 41.64,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Silent ASMR demo showing a woman straightening her extremely long, textured hair with a pink Wavytalk steam straightening brush.",
+  "full_description": "A silent UGC-style demo video showcasing the pink Wavytalk steam straightening brush and heat protectant spray. A young woman with extremely long, crimped/textured dark brown hair stands in a tiled bathroom with her back to the camera. The video shows the preparation steps—filling the brush's water tank, selecting heat settings, sectioning hair, and applying Wavytalk heat protectant spray—followed by smooth, slow single-pass brush strokes using a heat-resistant glove. The result is ultra-straight, glossy, glass-like hair flowing down her back.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 41.64,
+    "text": "@shiny_locks",
+    "role": "brand"
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 2.0,
+    "text": "WAVYTALK PRO",
+    "role": "brand"
+   },
+   {
+    "start_s": 10.0,
+    "end_s": 12.0,
+    "text": "WAVYTALK Smooth Barrier Heat Protectant Spray",
+    "role": "brand"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "shot_type": "medium shot",
+    "visual": "A woman seen from behind in a tiled bathroom holding a pink straightening brush next to her long, crimped wavy brown hair.",
+    "action": "Standing in front of the mirror displaying her natural textured hair length.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 3.7,
+    "shot_type": "close-up",
+    "visual": "Hands opening the silicone plug on the detachable water reservoir and filling it with water using a dropper bottle.",
+    "action": "Filling the steam brush water tank.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 5.9,
+    "shot_type": "close-up",
+    "visual": "The pink Wavytalk brush handle with temperature LED indicators lighting up, moving up to the comb teeth and steam nozzles.",
+    "action": "Demonstrating heating indicator lights and showing the bristle layout.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.9,
+    "end_s": 9.8,
+    "shot_type": "medium shot",
+    "visual": "Back view of the woman gathering the top half of her hair and clipping it up with a pink scrunchie.",
+    "action": "Sectioning long hair in preparation for straightening.",
+    "product_visible": false
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 12.8,
+    "shot_type": "close-up",
+    "visual": "Hands holding a dark purple bottle of Wavytalk Smooth Barrier Heat Protectant Spray, then spraying it along the length of hair.",
+    "action": "Spraying heat protectant on the lower hair section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 17.0,
+    "shot_type": "close-up",
+    "visual": "Macro view of the pink brush teeth gliding through a hair section, turning crimped wavy hair into silky straight strands instantly.",
+    "action": "First pass of the steam brush on hair, demonstrating instant straightening and shine.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.0,
+    "end_s": 24.8,
+    "shot_type": "medium shot",
+    "visual": "Back view of the creator pulling the brush slowly from root to tip of the underside hair section using a gloved guiding hand.",
+    "action": "Brushing down full length of the section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.8,
+    "end_s": 29.8,
+    "shot_type": "medium shot",
+    "visual": "Creator releases the first straightened section to compare it against the crimped wavy unstraightened hair, then clips up more hair.",
+    "action": "Displaying contrast between straightened and natural texture before moving to the next section.",
+    "product_visible": false
+   },
+   {
+    "start_s": 29.8,
+    "end_s": 34.6,
+    "shot_type": "medium shot",
+    "visual": "Creator glides the heated brush through another side section of hair.",
+    "action": "Straightening the side section from roots to tips.",
+    "product_visible": true
+   },
+   {
+    "start_s": 34.6,
+    "end_s": 39.5,
+    "shot_type": "medium shot",
+    "visual": "Creator doing a final pass over the full length of her completely straightened hair.",
+    "action": "Smoothing down the full length of the hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 39.5,
+    "end_s": 41.64,
+    "shot_type": "medium shot",
+    "visual": "Creator runs both gloved and ungloved hands through her smooth, glossy, waist-length pin-straight hair, shaking it to catch the light.",
+    "action": "Showcasing final shiny, silky, straight hair result.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing away from camera holding the pink straightener brush against voluminous, crimped wavy hair reaching past her waist.",
+   "visual_0_3s": "Shows the contrast of the textured hair and the tool, immediately followed by close-up product prep.",
+   "spoken_0_3s": "",
+   "text_0_3s": "@shiny_locks",
+   "hook_type": "before_after",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Rapid jump cut from massive frizzy hair to water tank filling macro shot with crisp ASMR sound design."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Initial problem showcase (extremely long, frizzy, crimped hair)",
+    "Product setup & feature showcase (filling steam tank, temperature display)",
+    "Hair prep (sectioning, heat protectant application)",
+    "First pass satisfaction / demo (instant transformation from crimped to pin-straight)",
+    "Progress and before/after comparison mid-styling",
+    "Final result reveal (smooth, liquid glass shine finish)"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "easy_for_beginners",
+    "saves_time"
+   ],
+   "key_claims": [
+    "Straightens coarse crimped texture in a single pass",
+    "Provides glass-like shine without frizz",
+    "Gentle steam infusion during straightening"
+   ],
+   "pain_points": [
+    "Frizzy, unmanageable, wavy/crimped texture",
+    "Difficulty straightening very long hair",
+    "Heat damage and lack of shine"
+   ],
+   "objections_handled": [
+    "Can it handle extremely long, dense, textured hair? (Yes, shown on waist-length hair)",
+    "Does it cause burns? (Heat-resistant glove is used; safety bristle tips shown)"
+   ],
+   "social_proof": [
+    "Visual proof of instant single-pass transformation",
+    "Watermark handle @shiny_locks"
+   ],
+   "comparison_to": "Traditional flat irons that take longer and flatten hair without steam hydration"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Pro Steam Straightening Brush",
+    "Wavytalk Smooth Barrier Heat Protectant Spray"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 12.8,
+   "final_result_shown_s": 35.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "shiny_locks",
+   "age_range": "20-29",
+   "hair_before": "Waist-length, dark brown, dense, crimped, frizzy wavy texture",
+   "hair_after": "Ultra-sleek, glossy, pin-straight brown hair",
+   "setting": "bathroom",
+   "faces_camera": false,
+   "energy_tone": "Satisfying, calm, ASMR aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "asmr_product_sound",
+   "music_description": "Soft background instrumental music accompanied by crisp ASMR clicks, water pouring, spray sounds, and hair gliding audio.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 2.97,
+   "pacing": "medium",
+   "effects": [
+    "macro close-ups",
+    "speed ramping"
+   ],
+   "ending": "Talent tosses and runs hands through her silky straightened hair to demonstrate shine and fluidity."
+  },
+  "notes": "Silent aesthetic UGC demonstration video repurposed from creator @shiny_locks. Highly satisfying visual demonstration highlighting steam straightening technology on challenging, very long textured hair."
+ }
+}

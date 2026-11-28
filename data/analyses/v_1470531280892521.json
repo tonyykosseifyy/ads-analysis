@@ -1,0 +1,377 @@
+{
+ "media_key": "v_1470531280892521",
+ "analyzed_at": "2026-11-28T10:24:10+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "5892b502c1f10f3ef2d213ae7376fd80c5b1d48e0f33548e2b615bd3f1af852e",
+ "source": {
+  "kind": "video",
+  "id": "1470531280892521",
+  "video_id": "1470531280892521",
+  "length_s": 141.733,
+  "permalink": "/122156392911058569/videos/1470531280892521"
+ },
+ "role": "primary",
+ "flags": [
+  "longer_than_2_min"
+ ],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 141.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demos the upgraded Wavytalk Airflow Styler, comparing it to the older model and highlighting its cool air technology and long-lasting curls.",
+  "full_description": "A creator opens with a shocked reaction after releasing a freshly styled bouncy curl. She introduces the new and improved Wavytalk Airflow styler, compares its larger size and redesigned handle against the original version, and shows the digital temperature display heating up instantly. She explains how the internal plates curl while external airflow instantly cools and locks the hair in place without heat retention or tugging. She curls sections of her hair in real-time, showcasing smooth gliding and tight definition, shakes out the bottom layer, finishes styling the rest, and reveals the final voluminous brushed-out result from both front and back before recommending the tool and directing viewers to the link below.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 4.1,
+    "end_s": 7.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Wavytalk came out with a new and improved airflow styler.",
+    "text_english": "Wavytalk came out with a new and improved airflow styler."
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 14.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Just to compare, this is the old one and this is the brand new one. The size is bigger and the handle is way bigger too, which is just easier for styling.",
+    "text_english": "Just to compare, this is the old one and this is the brand new one. The size is bigger and the handle is way bigger too, which is just easier for styling."
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 19.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look how fast this heats up. Literally seconds.",
+    "text_english": "Look how fast this heats up. Literally seconds."
+   },
+   {
+    "start_s": 19.7,
+    "end_s": 33.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So if you don't know how this works, the flat iron is inside, and when you're curling and using it as a curl, the hair around is hitting this cool air that's coming out here, which cools the curl, so you don't have to wait for it to cool and it stays in a tighter curl.",
+    "text_english": "So if you don't know how this works, the flat iron is inside, and when you're curling and using it as a curl, the hair around is hitting this cool air that's coming out here, which cools the curl, so you don't have to wait for it to cool and it stays in a tighter curl."
+   },
+   {
+    "start_s": 44.9,
+    "end_s": 48.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "See that curl that I just got in seconds? And it is completely cooled down.",
+    "text_english": "See that curl that I just got in seconds? And it is completely cooled down."
+   },
+   {
+    "start_s": 49.0,
+    "end_s": 52.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay, put my hair up so I can kind of do my bottom section and top.",
+    "text_english": "Okay, put my hair up so I can kind of do my bottom section and top."
+   },
+   {
+    "start_s": 101.4,
+    "end_s": 104.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You're joking. Look at that curl.",
+    "text_english": "You're joking. Look at that curl."
+   },
+   {
+    "start_s": 105.1,
+    "end_s": 115.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And the way that my hair just glides through this one, it's literally like butter. The old one did get a little stuck sometimes. They updated this one so your hair just glides right through and it's so much easier and it's not pulling on your hair.",
+    "text_english": "And the way that my hair just glides through this one, it's literally like butter. The old one did get a little stuck sometimes. They updated this one so your hair just glides right through and it's so much easier and it's not pulling on your hair."
+   },
+   {
+    "start_s": 116.3,
+    "end_s": 124.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look how easy it's just gliding through. I am hardly pulling it and it's not tugging at all. Wow.",
+    "text_english": "Look how easy it's just gliding through. I am hardly pulling it and it's not tugging at all. Wow."
+   },
+   {
+    "start_s": 133.5,
+    "end_s": 134.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Are you kidding me?",
+    "text_english": "Are you kidding me?"
+   },
+   {
+    "start_s": 135.0,
+    "end_s": 137.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The bottom is looking so good. We're going to do the top and then we'll be done.",
+    "text_english": "The bottom is looking so good. We're going to do the top and then we'll be done."
+   },
+   {
+    "start_s": 147.2,
+    "end_s": 156.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And here are the final results all brushed out. I am just obsessed every single time with this tool. It just works so well and holds that curl super good. Like look at those curls.",
+    "text_english": "And here are the final results all brushed out. I am just obsessed every single time with this tool. It just works so well and holds that curl super good. Like look at those curls."
+   },
+   {
+    "start_s": 203.4,
+    "end_s": 215.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you want easy curls like this, I really do recommend getting the new Airflow from Wavytalk. Super easy to use, super quick, and your curls are literally cooled in seconds. It just allows for your curls to hold way longer throughout the day.",
+    "text_english": "If you want easy curls like this, I really do recommend getting the new Airflow from Wavytalk. Super easy to use, super quick, and your curls are literally cooled in seconds. It just allows for your curls to hold way longer throughout the day."
+   },
+   {
+    "start_s": 215.6,
+    "end_s": 221.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm going to link this down below if you want to get it. But yeah, I really really do recommend this tool. Bye guys!",
+    "text_english": "I'm going to link this down below if you want to get it. But yeah, I really really do recommend this tool. Bye guys!"
+   }
+  ],
+  "transcript_full_original": "Wavytalk came out with a new and improved airflow styler. Just to compare, this is the old one and this is the brand new one. The size is bigger and the handle is way bigger too, which is just easier for styling. Look how fast this heats up. Literally seconds. So if you don't know how this works, the flat iron is inside, and when you're curling and using it as a curl, the hair around is hitting this cool air that's coming out here, which cools the curl, so you don't have to wait for it to cool and it stays in a tighter curl. See that curl that I just got in seconds? And it is completely cooled down. Okay, put my hair up so I can kind of do my bottom section and top. You're joking. Look at that curl. And the way that my hair just glides through this one, it's literally like butter. The old one did get a little stuck sometimes. They updated this one so your hair just glides right through and it's so much easier and it's not pulling on your hair. Look how easy it's just gliding through. I am hardly pulling it and it's not tugging at all. Wow. Are you kidding me? The bottom is looking so good. We're going to do the top and then we'll be done. And here are the final results all brushed out. I am just obsessed every single time with this tool. It just works so well and holds that curl super good. Like look at those curls. If you want easy curls like this, I really do recommend getting the new Airflow from Wavytalk. Super easy to use, super quick, and your curls are literally cooled in seconds. It just allows for your curls to hold way longer throughout the day. I'm going to link this down below if you want to get it. But yeah, I really really do recommend this tool. Bye guys!",
+  "transcript_full_english": "Wavytalk came out with a new and improved airflow styler. Just to compare, this is the old one and this is the brand new one. The size is bigger and the handle is way bigger too, which is just easier for styling. Look how fast this heats up. Literally seconds. So if you don't know how this works, the flat iron is inside, and when you're curling and using it as a curl, the hair around is hitting this cool air that's coming out here, which cools the curl, so you don't have to wait for it to cool and it stays in a tighter curl. See that curl that I just got in seconds? And it is completely cooled down. Okay, put my hair up so I can kind of do my bottom section and top. You're joking. Look at that curl. And the way that my hair just glides through this one, it's literally like butter. The old one did get a little stuck sometimes. They updated this one so your hair just glides right through and it's so much easier and it's not pulling on your hair. Look how easy it's just gliding through. I am hardly pulling it and it's not tugging at all. Wow. Are you kidding me? The bottom is looking so good. We're going to do the top and then we'll be done. And here are the final results all brushed out. I am just obsessed every single time with this tool. It just works so well and holds that curl super good. Like look at those curls. If you want easy curls like this, I really do recommend getting the new Airflow from Wavytalk. Super easy to use, super quick, and your curls are literally cooled in seconds. It just allows for your curls to hold way longer throughout the day. I'm going to link this down below if you want to get it. But yeah, I really really do recommend this tool. Bye guys!",
+  "word_count": 332,
+  "speech_starts_at_s": 4.1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator in her bedroom releases a strand of hair from the styler, revealing a perfect bouncy curl, and gasps in shock with her hand covering her mouth.",
+    "action": "Unwinding hair and reacting in amazement.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.9,
+    "end_s": 7.2,
+    "shot_type": "medium shot",
+    "visual": "Creator faces the camera holding the pink Wavytalk Airflow Styler.",
+    "action": "Introducing the upgraded styler to the audience.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.2,
+    "end_s": 14.9,
+    "shot_type": "close-up",
+    "visual": "Creator holds the original and new models side by side to compare sizing, plates, and handles.",
+    "action": "Comparing the two versions side by side.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.9,
+    "end_s": 19.4,
+    "shot_type": "close-up",
+    "visual": "Close-up of the styler's digital screen showing the rapid temperature readout heating up in seconds.",
+    "action": "Demonstrating fast heat-up time.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.4,
+    "end_s": 33.3,
+    "shot_type": "medium shot",
+    "visual": "Creator points to the plates and airflow vents, gesturing how cool air flows across the exterior.",
+    "action": "Explaining the mechanism of airflow technology.",
+    "product_visible": true
+   },
+   {
+    "start_s": 33.3,
+    "end_s": 44.8,
+    "shot_type": "medium shot",
+    "visual": "Creator clamps a hair section near root, rotates tool, and glides it down smoothly.",
+    "action": "Curling a hair strand in real-time.",
+    "product_visible": true
+   },
+   {
+    "start_s": 44.8,
+    "end_s": 48.9,
+    "shot_type": "medium shot",
+    "visual": "Creator releases the curl, holds it to feel that it is completely cool to touch.",
+    "action": "Examining and touching the cool curl.",
+    "product_visible": false
+   },
+   {
+    "start_s": 48.9,
+    "end_s": 51.9,
+    "shot_type": "medium shot",
+    "visual": "Creator clips the top portion of her hair up to section off the bottom half.",
+    "action": "Sectioning hair for styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 51.9,
+    "end_s": 104.5,
+    "shot_type": "medium shot",
+    "visual": "Creator curls another side section, releases it, and expresses disbelief at how clean the curl looks.",
+    "action": "Curling strand and reacting enthusiastically.",
+    "product_visible": true
+   },
+   {
+    "start_s": 104.5,
+    "end_s": 115.8,
+    "shot_type": "medium shot",
+    "visual": "Creator holds the styler, explaining how it glides effortlessly like butter without snagging or pulling.",
+    "action": "Describing glide quality vs previous iteration.",
+    "product_visible": true
+   },
+   {
+    "start_s": 115.8,
+    "end_s": 134.9,
+    "shot_type": "medium shot",
+    "visual": "Creator demonstrates another seamless pass through hair without tension or pulling, dropping another defined curl.",
+    "action": "Curling smoothly and admiring curl drop.",
+    "product_visible": true
+   },
+   {
+    "start_s": 134.9,
+    "end_s": 137.9,
+    "shot_type": "medium shot",
+    "visual": "Creator fluffs and shows off completed bottom section of curls.",
+    "action": "Fluffing and inspecting bottom curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 137.9,
+    "end_s": 146.9,
+    "shot_type": "medium shot",
+    "visual": "Quick montage of creator styling top crown sections and dropping curls.",
+    "action": "Curling top layer of hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 146.9,
+    "end_s": 157.0,
+    "shot_type": "medium shot",
+    "visual": "Creator displays full finished hairstyle brushed out into soft, voluminous waves.",
+    "action": "Showcasing final look to camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 157.0,
+    "end_s": 203.2,
+    "shot_type": "medium shot",
+    "visual": "Creator turns around, showing full back of head and shaking curls to demonstrate movement and volume.",
+    "action": "Showing 360-degree hair results.",
+    "product_visible": false
+   },
+   {
+    "start_s": 203.2,
+    "end_s": 221.8,
+    "shot_type": "medium shot",
+    "visual": "Creator holds up tool while giving final summary and call to action to check the link below.",
+    "action": "Holding product, delivering CTA and waving goodbye.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator releasing hair from a pink hot styling tool, revealing an instant defined spiral curl.",
+   "visual_0_3s": "Creator finishes releasing the curl and looks into the mirror / camera with wide eyes and open-mouthed astonishment, putting her hand over her mouth.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "reaction",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Dramatic silent gasp of surprise at the immediate curl result."
+  },
+  "structure": {
+   "format": "review_testimonial",
+   "narrative_beats": [
+    "Reaction hook showcasing immediate spiral curl",
+    "Product reveal and direct comparison to previous version",
+    "Demonstration of fast heating and explanation of cool air setting tech",
+    "Step-by-step curling demonstration highlighting butter-smooth glide",
+    "Sectioning and styling entire head",
+    "Final brushed-out result reveal from front and back",
+    "Closing summary and CTA to link below"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "easy_for_beginners",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Heats up in literally seconds",
+    "Cool airflow locks curls instantly so you don't wait for hair to cool",
+    "Upgraded design glides like butter with zero snagging or pulling",
+    "Curls hold significantly longer throughout the day"
+   ],
+   "pain_points": [
+    "Curling irons pulling or tugging on hair",
+    "Curls falling flat quickly without cool blast",
+    "Waiting a long time for tools to heat up"
+   ],
+   "objections_handled": [
+    "Hair catching or snagging (addressed with upgraded smoother plates and larger handle)",
+    "Difficulty holding curls (handled by built-in cool air vents)"
+   ],
+   "social_proof": [
+    "Direct comparison to the popular previous generation model"
+   ],
+   "comparison_to": "Previous version of Wavytalk Airflow styler"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Airflow Styler / Whirlwind Curl"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 147.2,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "I'm going to link this down below if you want to get it.",
+   "cta_on_screen": "",
+   "cta_at_s": 215.6
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Straight, highlighted brunette with blonde face-framing pieces",
+   "hair_after": "Voluminous, shiny, bouncy brushed-out curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, authentic, impressed"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "None, pure creator spoken audio with tool and hair sound effects.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 11,
+   "avg_shot_length_s": 12.8,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator smiles, waves to camera, and signs off with 'Bye guys!'"
+  },
+  "notes": "Natural and relatable authentic UGC product review highlighting product updates (ergonomics, smooth gliding, rapid heating, instant cold air setting)."
+ }
+}

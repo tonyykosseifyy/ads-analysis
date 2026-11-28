@@ -1,0 +1,170 @@
+{
+ "media_key": "v_850410100948002",
+ "analyzed_at": "2026-11-28T10:24:08+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "d96451369d744494a1391e9dc69206f676b65bde363839948a666bad42afe186",
+ "source": {
+  "kind": "video",
+  "id": "850410100948002",
+  "video_id": "850410100948002",
+  "length_s": 15.1,
+  "permalink": "/122156392911058569/videos/850410100948002"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 15.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A young woman curls her long dark hair using a pink air-curling styling tool in double speed to French pop music.",
+  "full_description": "A silent UGC tutorial demonstration where a young woman demonstrates curling her long dark brown hair using a pink multi-styler curling iron tool at 2x speed. Set to an upbeat French pop track, the video shows her curling the left sections, includes a close-up of the hair gliding through the barrel, curls the right sections, and finishes by showing off bouncy, shiny waves.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 15.0,
+    "text": "curl my hair with me in 2x speed ✨💖💇‍♀️",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "medium shot",
+    "visual": "Young woman in a black t-shirt seated in front of a mirror/camera, wrapping a front strand around a pink styling tool.",
+    "action": "Wraps hair around the styler barrel and pulls downward to curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 3.2,
+    "shot_type": "close-up",
+    "visual": "Tight shot focusing on the pink styler barrel with vents clamped and gliding down the hair strand.",
+    "action": "Glides the tool smoothly through hair to set the curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 7.0,
+    "shot_type": "medium shot",
+    "visual": "Creator working on lower section on the left side.",
+    "action": "Clamps, twists and releases a freshly formed curl, checking the result.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 12.2,
+    "shot_type": "medium shot",
+    "visual": "Creator curling the right side of her hair.",
+    "action": "Takes a section on the right, winds it around the tool, and glides it down in double speed.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.2,
+    "end_s": 15.0,
+    "shot_type": "medium shot",
+    "visual": "Creator finished styling, presenting both sides of her curled hair.",
+    "action": "Sets the tool down, frames her face and hair with red-manicured hands, fluffs the curls, and smiles happily.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink curling iron to her hair, looking slightly off-camera with text overlay 'curl my hair with me in 2x speed ✨💖💇‍♀️'.",
+   "visual_0_3s": "Fast-paced demonstration of wrapping and gliding the styler through dark hair.",
+   "spoken_0_3s": "",
+   "text_0_3s": "curl my hair with me in 2x speed ✨💖💇‍♀️",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "Quick close-up cut of the iron gliding along hair within the first 2 seconds."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Invitation hook (curl my hair with me in 2x speed)",
+    "Demonstration of curling left side with close-up detail",
+    "Demonstration of curling right side",
+    "Final hairstyle reveal and celebratory pose"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "easy_for_beginners",
+    "saves_time",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Quick and easy curling at home"
+   ],
+   "pain_points": [
+    "Curling hair takes too long or is difficult"
+   ],
+   "objections_handled": [
+    "Demonstrates smooth glide without hair catching or burning"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Pink airflow curling iron / multi-styler"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 12.2,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, thick dark brown hair, mostly uncurled/wavy",
+   "hair_after": "Voluminous, shiny defined waves/curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relaxed, playful, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat French hip-hop/pop song with rhythmic beats and male vocals.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 3.0,
+   "pacing": "fast",
+   "effects": [
+    "speed ramping / 2x playback speed"
+   ],
+   "ending": "Smiles at camera, fluffs finished waves, and poses framing her face."
+  },
+  "notes": "No spoken dialogue or brand watermarks visible on the iron, typical organic GRWM-style UGC asset."
+ }
+}

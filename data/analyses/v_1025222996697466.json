@@ -1,0 +1,115 @@
+{
+ "media_key": "v_1025222996697466",
+ "analyzed_at": "2026-11-28T10:23:06+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "da590107ad87fc81ac29e12882a1470e0f7c4fb7ead4bf299ffe74705e314e9f",
+ "source": {
+  "kind": "video",
+  "id": "1025222996697466",
+  "video_id": "1025222996697466",
+  "length_s": 10.3,
+  "permalink": "/122119313253324078/videos/1025222996697466"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 9.84,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Aesthetic overhead showcase of the pink WavyTalk thermal brush set laid out on a bed with background music.",
+  "full_description": "A top-down aesthetic product display video showing the pink WavyTalk thermal round brush, its packaging box, two black sectioning clips, and a matching pink detangling paddle brush arranged on a white duvet/bedsheet, accompanied by slow R&B background music.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 9.84,
+    "shot_type": "overhead b-roll",
+    "visual": "Top-down view of the pink WavyTalk thermal brush, packaging box, paddle brush, and styling clips on white bedding",
+    "action": "Camera slowly tilts down and pans across the product arrangement",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Overhead view of the pink WavyTalk thermal brush set arranged on a white bed sheet next to its box",
+   "visual_0_3s": "Slow downward tilt across the pink styling tool and accessories",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "product_reveal",
+   "hook_type_secondary": "none",
+   "pattern_interrupt": "Clean aesthetic unboxed flat lay of hair styling tools"
+  },
+  "structure": {
+   "format": "product_showcase",
+   "narrative_beats": [
+    "Aesthetic close-up pan of the WavyTalk thermal brush and included accessories"
+   ],
+   "main_angle": "other",
+   "secondary_angles": [],
+   "key_claims": [],
+   "pain_points": [],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Thermal Brush",
+    "WavyTalk Paddle Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "bedroom",
+   "faces_camera": false,
+   "energy_tone": "calm"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Slow R&B song with soulful female vocals",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 0,
+   "avg_shot_length_s": 9.84,
+   "pacing": "slow",
+   "effects": [],
+   "ending": "Video cuts out while still panning across the brush and power cord"
+  },
+  "notes": "Short aesthetic product video without speech, text overlay, or hair demonstration."
+ }
+}

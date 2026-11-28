@@ -1,0 +1,183 @@
+{
+ "media_key": "v_2031970907528644",
+ "analyzed_at": "2026-11-28T10:22:41+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "3863297bd0ba930abb76d29f5fffbf0933798969d3a9aa517248664591c159b3",
+ "source": {
+  "kind": "video",
+  "id": "2031970907528644",
+  "video_id": "2031970907528644",
+  "length_s": 37.166,
+  "permalink": "/122119313253324078/videos/2031970907528644"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 36.67,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A young woman demonstrates styling her naturally curly hair into a voluminous, bouncy blowout using a thermal heated round brush.",
+  "full_description": "The video starts with a quick hook showing the creator tossing her finished bouncy blowout, followed immediately by a cut showing her unstyled, naturally curly hair. She pins her hair up and demonstrates how to use the thermal round brush section by section, curling strands under and outward to create defined, smooth curls with salon-like volume. The ad ends with her showing off the full, glossy final result.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator flips and shakes her voluminous, finished blowout hair towards the camera.",
+    "action": "Showing off the final bouncy blowout result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 3.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator running fingers through her natural, curly and frizzy hair.",
+    "action": "Displaying the 'before' natural hair state.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 7.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the heated round brush to a bottom section of hair with the top pinned up.",
+    "action": "Brushing and rolling the hair section around the heated barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 13.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the right side sections with the thermal brush.",
+    "action": "Slowly rotating and twisting the thermal brush through hair strands.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.7,
+    "end_s": 16.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator releases a curled section, smiles at the camera, and admires the curl.",
+    "action": "Reacting positively to the defined curl bounce.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 28.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator working on the mid and top crown layers of hair with the heated brush.",
+    "action": "Rolling hair upwards around the barrel and smoothly unwrapping it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 31.7,
+    "shot_type": "close-up",
+    "visual": "Creator curling her front curtain bangs forward and upward using the round brush.",
+    "action": "Styling face-framing pieces for maximum lift and volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 31.7,
+    "end_s": 36.67,
+    "shot_type": "medium close-up",
+    "visual": "Creator shaking her finished, glossy, bouncy blowout hair and smiling into the camera.",
+    "action": "Displaying the completed hairstyle from multiple angles.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator shaking her finished, voluminous blowout hair side to side.",
+   "visual_0_3s": "Rapid cut between the glamorous finished blowout and her natural, unstyled curly hair.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "result_first",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Instant visual jump cut from voluminous, styled hair to messy natural curls."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: flash of final bouncy blowout",
+    "Contrast: showing curly, unstyled hair",
+    "Step-by-step styling lower and middle sections",
+    "Styling front bangs and crown volume",
+    "Final transformation reveal and hair flip"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "frizz_or_curly_solution",
+    "easy_for_beginners"
+   ],
+   "key_claims": [],
+   "pain_points": [
+    "Frizzy or unruly curls that require salon blowout effort",
+    "Difficulty getting curl and volume at home"
+   ],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Round Brush"
+   ],
+   "first_seen_s": 3.2,
+   "first_used_on_hair_s": 3.5,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Brunette, naturally curly, frizzy, medium length",
+   "hair_after": "Smooth, glossy, bouncy blowout with curled ends and curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "effortless, aesthetic, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Aesthetic R&B track with female vocals singing 'Run fast from a day job... never going back...'",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 4.58,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator fluffing and tossing her finished hair, posing and smiling at the camera."
+  },
+  "notes": "Aesthetic, silent UGC demo video relying entirely on visual contrast and clear demonstration of the thermal round brush transforming curly hair into a salon-style blowout set to a trending soundtrack."
+ }
+}

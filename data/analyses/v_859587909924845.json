@@ -1,0 +1,188 @@
+{
+ "media_key": "v_859587909924845",
+ "analyzed_at": "2026-11-28T10:22:02+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "347687599d8cbbc1efc97366b3a6c62b8e6851a2ee67302b6784c16645910f1a",
+ "source": {
+  "kind": "video",
+  "id": "859587909924845",
+  "video_id": "859587909924845",
+  "length_s": 15.233,
+  "permalink": "/122156392911058569/videos/859587909924845"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 14.9,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Studio showcase of a model demonstrating and displaying bouncy blowout curls using the pink Wavytalk thermal brush.",
+  "full_description": "A young woman wearing a white ribbed crop top and denim jeans poses against a bright pink studio background. She parts her hair with a tail comb, brushes it, shows the pink Wavytalk thermal round brush, demonstrates styling a section, and spends the remainder of the clip posing and tossing her shiny, voluminous blowout curls in front of a wind machine.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "shot_type": "close-up",
+    "visual": "Back and crown of woman's dark hair against a bright pink backdrop.",
+    "action": "Sectioning and parting hair cleanly with a black rat-tail comb.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 2.0,
+    "shot_type": "medium shot",
+    "visual": "Young woman in a white crop top and jeans against pink studio backdrop.",
+    "action": "Smiling, dancing playfully, holding the black comb.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 2.8,
+    "shot_type": "close-up",
+    "visual": "A strand of dark hair being brushed.",
+    "action": "Combing through a section of hair with a pink vented brush.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 3.7,
+    "shot_type": "medium shot",
+    "visual": "Model holding up a pink Wavytalk thermal round brush toward the camera.",
+    "action": "Presenting the styling tool with both hands.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 4.8,
+    "shot_type": "close-up",
+    "visual": "Close-up shot of the pink Wavytalk thermal brush barrel and handle in hands.",
+    "action": "Displaying product details and barrel design.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 6.6,
+    "shot_type": "medium shot",
+    "visual": "Model sectioning hair and curling it with the pink thermal brush.",
+    "action": "Curling and rolling a front side section around the brush barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.6,
+    "end_s": 8.3,
+    "shot_type": "medium shot",
+    "visual": "Model touching her finished, voluminous, curled blowout hair.",
+    "action": "Running her hands through her styled hair, smiling at camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.3,
+    "end_s": 9.7,
+    "shot_type": "close-up",
+    "visual": "Close-up of hair strands and curls blowing gently.",
+    "action": "Smiling as studio wind moves her glossy curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 9.7,
+    "end_s": 14.9,
+    "shot_type": "medium shot",
+    "visual": "Model posing, laughing, flipping hair from side to side against pink backdrop.",
+    "action": "Showcasing bounce, movement, and shine of the finished blowout.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Close-up of hand parting brunette hair with a black rat-tail comb against vibrant pink backdrop.",
+   "visual_0_3s": "Fast montage of hair parting, playful movement, and detangling hair with a paddle brush.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "other",
+   "hook_type_secondary": "product_reveal",
+   "pattern_interrupt": "High-contrast bright magenta pink background paired with energetic quick cuts and studio lighting."
+  },
+  "structure": {
+   "format": "product_showcase",
+   "narrative_beats": [
+    "Preparation and parting",
+    "Product reveal",
+    "Styling demonstration",
+    "Finished blowout showcase and hair flipping"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Creates smooth, voluminous, bouncy salon-style curls"
+   ],
+   "pain_points": [],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush"
+   ],
+   "first_seen_s": 2.8,
+   "first_used_on_hair_s": 4.8,
+   "final_result_shown_s": 6.6,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "model",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, dark brown, naturally straight/smooth",
+   "hair_after": "Long, glossy brunette blowout with defined bouncy outward curls and volume",
+   "setting": "studio",
+   "faces_camera": true,
+   "energy_tone": "Upbeat, playful, radiant, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Rhythmic upbeat pop/R&B track featuring female vocals",
+   "captions_burned_in": false,
+   "production_style": "professional_studio",
+   "cut_count": 8,
+   "avg_shot_length_s": 1.66,
+   "pacing": "fast",
+   "effects": [
+    "wind machine",
+    "studio lighting"
+   ],
+   "ending": "Model joyfully tossing her curled hair and smiling to the side"
+  },
+  "notes": "No voiceover or on-screen captions; relies entirely on aesthetic visual appeal, vibrant solid studio backdrop, and finished hair results."
+ }
+}

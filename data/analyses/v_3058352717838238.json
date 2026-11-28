@@ -1,0 +1,287 @@
+{
+ "media_key": "v_3058352717838238",
+ "analyzed_at": "2026-11-28T10:22:29+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "57df6537a72a2f27a1d78d252c2db1b13e078b406b2ffe46da34c928d74a799b",
+ "source": {
+  "kind": "video",
+  "id": "3058352717838238",
+  "video_id": "3058352717838238",
+  "length_s": 44,
+  "permalink": "/122156392911058569/videos/3058352717838238"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 43.6,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demos the Wavytalk hair crimper, alternating between her voice and a TTS voiceover highlighting key features like the timer, blue light, and heat protection.",
+  "full_description": "A beauty creator sits in front of the camera in her bedroom, demonstrating the Wavytalk crimper on her long dark hair. The audio alternates between her talking on camera and an alternating voiceover track explaining product features such as the timer beep, ventilation holes to reduce heat damage and burnt smell, S-barrel design, blue light technology for shine, and scalp burn protection. She shows off the final beach wave style from the front and back, noting it only took 20 minutes, and concludes with a call to action to buy it while on sale.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.8,
+    "end_s": 6.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is my favorite hair style, and it just happens to be super easy and quick to do, like 100% beginner friendly.",
+    "text_english": "This is my favorite hair style, and it just happens to be super easy and quick to do, like 100% beginner friendly."
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 10.9,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I love the timer feature because it beeps every time you need to move on to the next section.",
+    "text_english": "I love the timer feature because it beeps every time you need to move on to the next section."
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 17.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And with this crimper, your hair is not going to smell like burnt. It has a little ventilation design so your hair is going to air out, and it's also going to reduce heat damage.",
+    "text_english": "And with this crimper, your hair is not going to smell like burnt. It has a little ventilation design so your hair is going to air out, and it's also going to reduce heat damage."
+   },
+   {
+    "start_s": 17.9,
+    "end_s": 23.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "It has an S-barrel so it creates those voluminous, effortless beach waves, and they could last up to a week.",
+    "text_english": "It has an S-barrel so it creates those voluminous, effortless beach waves, and they could last up to a week."
+   },
+   {
+    "start_s": 23.4,
+    "end_s": 27.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And this blue light technology that leaves my hair so shiny, even with no hair products.",
+    "text_english": "And this blue light technology that leaves my hair so shiny, even with no hair products."
+   },
+   {
+    "start_s": 27.7,
+    "end_s": 32.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "With this design, you could get really close to the scalp without having to worry about burning yourself.",
+    "text_english": "With this design, you could get really close to the scalp without having to worry about burning yourself."
+   },
+   {
+    "start_s": 32.6,
+    "end_s": 38.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I have really long hair and it still didn't take me any longer than like 20 minutes. This is what the back looks like.",
+    "text_english": "I have really long hair and it still didn't take me any longer than like 20 minutes. This is what the back looks like."
+   },
+   {
+    "start_s": 38.8,
+    "end_s": 43.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Seriously such a good crimper. I'm going to have it linked down below. Make sure you grab it while it's still on sale.",
+    "text_english": "Seriously such a good crimper. I'm going to have it linked down below. Make sure you grab it while it's still on sale."
+   }
+  ],
+  "transcript_full_original": "This is my favorite hair style, and it just happens to be super easy and quick to do, like 100% beginner friendly. I love the timer feature because it beeps every time you need to move on to the next section. And with this crimper, your hair is not going to smell like burnt. It has a little ventilation design so your hair is going to air out, and it's also going to reduce heat damage. It has an S-barrel so it creates those voluminous, effortless beach waves, and they could last up to a week. And this blue light technology that leaves my hair so shiny, even with no hair products. With this design, you could get really close to the scalp without having to worry about burning yourself. I have really long hair and it still didn't take me any longer than like 20 minutes. This is what the back looks like. Seriously such a good crimper. I'm going to have it linked down below. Make sure you grab it while it's still on sale.",
+  "transcript_full_english": "This is my favorite hair style, and it just happens to be super easy and quick to do, like 100% beginner friendly. I love the timer feature because it beeps every time you need to move on to the next section. And with this crimper, your hair is not going to smell like burnt. It has a little ventilation design so your hair is going to air out, and it's also going to reduce heat damage. It has an S-barrel so it creates those voluminous, effortless beach waves, and they could last up to a week. And this blue light technology that leaves my hair so shiny, even with no hair products. With this design, you could get really close to the scalp without having to worry about burning yourself. I have really long hair and it still didn't take me any longer than like 20 minutes. This is what the back looks like. Seriously such a good crimper. I'm going to have it linked down below. Make sure you grab it while it's still on sale.",
+  "word_count": 182,
+  "speech_starts_at_s": 0.8,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.8,
+    "text": "Reasons why I love my\nWavytalk Crimper 🧚🏼‍♀️",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.8,
+    "shot_type": "medium shot",
+    "visual": "Creator sits facing camera holding the pink Wavytalk crimper with already styled wavy hair and top section pinned with a white flower clip.",
+    "action": "Creator talks directly to camera while holding and showing the crimping tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 10.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator clamping a section of hair with the Wavytalk crimper.",
+    "action": "Clamping down on hair strand and waiting for the beep before releasing down the section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 14.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the tool up, pointing to the ventilation holes on the exterior casing.",
+    "action": "Explaining the ventilation feature to prevent burnt smell and heat damage.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.7,
+    "end_s": 23.3,
+    "shot_type": "medium shot",
+    "visual": "Creator crimping another section of hair near the mid-lengths and ends, blue light glowing from the tool.",
+    "action": "Clamping hair with the S-barrel design tool, showing the blue light indicator.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.3,
+    "end_s": 27.6,
+    "shot_type": "medium shot",
+    "visual": "Creator holding up a freshly crimped, shiny wavy section to the camera.",
+    "action": "Showing off the shiny texture created by the blue light technology without hair products.",
+    "product_visible": true
+   },
+   {
+    "start_s": 27.6,
+    "end_s": 32.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator placing the crimper close to her scalp on a top hair section.",
+    "action": "Crimping roots to demonstrate safety and no risk of burning the scalp.",
+    "product_visible": true
+   },
+   {
+    "start_s": 32.5,
+    "end_s": 36.3,
+    "shot_type": "medium shot",
+    "visual": "Creator shakes out full head of finished voluminous waves with both hands.",
+    "action": "Fluffing hair and smiling at camera while talking about the 20-minute styling time.",
+    "product_visible": false
+   },
+   {
+    "start_s": 36.3,
+    "end_s": 38.7,
+    "shot_type": "medium shot from behind",
+    "visual": "Creator turns around showing the back of her long, thick wavy hair.",
+    "action": "Running fingers through back of hair to display full styling coverage.",
+    "product_visible": false
+   },
+   {
+    "start_s": 38.7,
+    "end_s": 43.6,
+    "shot_type": "medium shot",
+    "visual": "Creator facing camera again, holding the pink Wavytalk crimper in one hand and pointing down with the other.",
+    "action": "Holding up product, delivering the call to action to buy through the link while on sale.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink Wavytalk crimper with full beach waves hair and text 'Reasons why I love my Wavytalk Crimper 🧚🏼‍♀️'",
+   "visual_0_3s": "Creator sitting in bedroom, holding the crimper toward the camera, flaunting gorgeous long wavy hair.",
+   "spoken_0_3s": "This is my favorite hair style, and it just happens to be super easy...",
+   "text_0_3s": "Reasons why I love my Wavytalk Crimper 🧚🏼‍♀️",
+   "hook_type": "result_first",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Immediate showcase of finished gorgeous hair paired with listicle hook overlay text."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: reasons why creator loves the tool and result showcase",
+    "Feature 1: timer beep for easy sectioning and beginner friendliness",
+    "Feature 2: ventilation design prevents burning smell and reduces heat damage",
+    "Feature 3: S-barrel creates lasting effortless beach waves",
+    "Feature 4: blue light technology creates shine without products",
+    "Feature 5: anti-scald design safe near roots",
+    "Result proof: fast 20-minute styling time, front and back reveal",
+    "CTA: buy link below while on sale"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "saves_time",
+    "less_heat_damage",
+    "volume_and_bounce",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "100% beginner friendly",
+    "Beeps when to move to next section",
+    "Ventilation design prevents burnt smell and reduces heat damage",
+    "S-barrel waves last up to a week",
+    "Blue light technology leaves hair shiny with no product",
+    "Safe to get close to scalp without burning",
+    "Takes only 20 minutes on very long hair"
+   ],
+   "pain_points": [
+    "Hair smelling burnt after heat styling",
+    "Heat damage from styling tools",
+    "Not knowing how long to clamp sections",
+    "Burning scalp or ears with hot tools",
+    "Taking too long to style long thick hair"
+   ],
+   "objections_handled": [
+    "Will it damage or smell burnt? (Ventilation design reduces damage and burnt smell)",
+    "Is it hard to use? (Built-in timer beeps for next section)",
+    "Does it take too long? (Finished entire long head in 20 minutes)",
+    "Will it burn my scalp? (Designed to safely reach close to roots)"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Hair Crimper"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 6.8,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "On sale",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "while it's still on sale",
+   "cta_spoken": "I'm going to have it linked down below. Make sure you grab it while it's still on sale.",
+   "cta_on_screen": "",
+   "cta_at_s": 39.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20s",
+   "hair_before": "Dark brown/black long wavy hair (already partially styled)",
+   "hair_after": "Deep voluminous textured beach waves",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "casual, upbeat and convincing UGC style"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Soft low-volume background instrumental beat",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 4.8,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between demonstrated features"
+   ],
+   "ending": "Creator holding the tool smiling and gesturing to link down below"
+  },
+  "notes": "Voice track uniquely alternates every other sentence between the creator speaking directly to camera and an AI text-to-speech female voice reading feature descriptions."
+ }
+}

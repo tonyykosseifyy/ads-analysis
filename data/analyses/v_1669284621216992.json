@@ -1,0 +1,312 @@
+{
+ "media_key": "v_1669284621216992",
+ "analyzed_at": "2026-11-28T10:23:36+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "ba996ea3606d9a0fb9f9b41417914da299aa3dc8171207ea8e291e52d7b88710",
+ "source": {
+  "kind": "video",
+  "id": "1669284621216992",
+  "video_id": "1669284621216992",
+  "length_s": 47.066,
+  "permalink": "/122156392911058569/videos/1669284621216992"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 47.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates a step-by-step blowout styling routine using the Wavytalk thermal brush with an AI voiceover.",
+  "full_description": "A beauty creator with styled dark hair shows her final blowout result before breaking down a step-by-step tutorial on how to use the pink Wavytalk thermal ionic heated round brush. An AI TTS female voiceover narrates the process, detailing heat protectant prep, gliding through sections, curling ends in alternating directions for layered hair, styling the front money piece bangs, and showcasing the final voluminous result with a TikTok Shop call to action.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Not to be dramatic, but my life changed when I learned to use this thermal brush.",
+    "text_english": "Not to be dramatic, but my life changed when I learned to use this thermal brush."
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 9.9,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Let me put you girls on. This is Wavytalk's thermal brush, an ion heated brush that goes through your hair like so.",
+    "text_english": "Let me put you girls on. This is Wavytalk's thermal brush, an ion heated brush that goes through your hair like so."
+   },
+   {
+    "start_s": 10.0,
+    "end_s": 13.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Frizzy, curly, big, thin, it works.",
+    "text_english": "Frizzy, curly, big, thin, it works."
+   },
+   {
+    "start_s": 13.6,
+    "end_s": 15.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "And this is what I do to get the best results.",
+    "text_english": "And this is what I do to get the best results."
+   },
+   {
+    "start_s": 15.9,
+    "end_s": 18.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Make sure that my hair is completely dry.",
+    "text_english": "Make sure that my hair is completely dry."
+   },
+   {
+    "start_s": 18.1,
+    "end_s": 19.9,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Put some heat protectant on first.",
+    "text_english": "Put some heat protectant on first."
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 22.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Grab a brushed out section of hair.",
+    "text_english": "Grab a brushed out section of hair."
+   },
+   {
+    "start_s": 22.1,
+    "end_s": 26.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Gliding the brush through once, and the second time I curl the ends.",
+    "text_english": "Gliding the brush through once, and the second time I curl the ends."
+   },
+   {
+    "start_s": 26.3,
+    "end_s": 32.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Since I have layers, I do some curled in and some curled out to get a bigger voluminous effect.",
+    "text_english": "Since I have layers, I do some curled in and some curled out to get a bigger voluminous effect."
+   },
+   {
+    "start_s": 32.1,
+    "end_s": 37.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "For my money piece, I definitely brush inwards and outwards to get bigger volume.",
+    "text_english": "For my money piece, I definitely brush inwards and outwards to get bigger volume."
+   },
+   {
+    "start_s": 37.9,
+    "end_s": 42.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Just look at these results, just so big, so voluminous, and it's soft, dainty.",
+    "text_english": "Just look at these results, just so big, so voluminous, and it's soft, dainty."
+   },
+   {
+    "start_s": 42.7,
+    "end_s": 44.9,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "And my curls actually stay.",
+    "text_english": "And my curls actually stay."
+   },
+   {
+    "start_s": 45.0,
+    "end_s": 47.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Get yours now through TikTok Shop.",
+    "text_english": "Get yours now through TikTok Shop."
+   }
+  ],
+  "transcript_full_original": "Not to be dramatic, but my life changed when I learned to use this thermal brush. Let me put you girls on. This is Wavytalk's thermal brush, an ion heated brush that goes through your hair like so. Frizzy, curly, big, thin, it works. And this is what I do to get the best results. Make sure that my hair is completely dry. Put some heat protectant on first. Grab a brushed out section of hair. Gliding the brush through once, and the second time I curl the ends. Since I have layers, I do some curled in and some curled out to get a bigger voluminous effect. For my money piece, I definitely brush inwards and outwards to get bigger volume. Just look at these results, just so big, so voluminous, and it's soft, dainty. And my curls actually stay. Get yours now through TikTok Shop.",
+  "transcript_full_english": "Not to be dramatic, but my life changed when I learned to use this thermal brush. Let me put you girls on. This is Wavytalk's thermal brush, an ion heated brush that goes through your hair like so. Frizzy, curly, big, thin, it works. And this is what I do to get the best results. Make sure that my hair is completely dry. Put some heat protectant on first. Grab a brushed out section of hair. Gliding the brush through once, and the second time I curl the ends. Since I have layers, I do some curled in and some curled out to get a bigger voluminous effect. For my money piece, I definitely brush inwards and outwards to get bigger volume. Just look at these results, just so big, so voluminous, and it's soft, dainty. And my curls actually stay. Get yours now through TikTok Shop.",
+  "word_count": 149,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.0,
+    "text": "The Thermal brush Step by step Tutorial",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.0,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting in a bedroom holding the pink thermal brush in front of her face with bangs pulled down over her eyes.",
+    "action": "She reveals her face and styled blowout hair by lowering the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 3.0,
+    "shot_type": "medium shot",
+    "visual": "Creator showing off her finished bouncy, voluminous blowout and smiling, holding the brush.",
+    "action": "She poses and tilts the brush towards the camera displaying the digital temperature readout.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 15.0,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the lower section of her dark hair with the thermal round brush.",
+    "action": "She glides the brush through the section and rotates it to wrap and curl the end, releasing a glossy curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 26.0,
+    "shot_type": "medium shot",
+    "visual": "Creator demonstrating styling on a side section of hair with the top hair clipped up.",
+    "action": "She brushes straight through from roots to mids once, then rolls the ends upward around the barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.0,
+    "end_s": 32.0,
+    "shot_type": "medium shot",
+    "visual": "Creator curling another layer in the opposite direction.",
+    "action": "She twists the brush outward to curl the ends out for multi-directional volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 32.0,
+    "end_s": 38.0,
+    "shot_type": "medium shot",
+    "visual": "Creator detangling front money piece with a paddle brush then wrapping it onto the thermal brush.",
+    "action": "She rolls the thermal brush through her front bangs inwards and outwards to achieve crown volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 38.0,
+    "end_s": 44.0,
+    "shot_type": "medium shot",
+    "visual": "Creator shaking out her styled hair and running fingers through it.",
+    "action": "She shows off the soft, bouncy, finished blowout curls framing her face.",
+    "product_visible": false
+   },
+   {
+    "start_s": 44.0,
+    "end_s": 47.0,
+    "shot_type": "medium shot",
+    "visual": "Creator smiling while holding the Wavytalk thermal brush next to her styled hair.",
+    "action": "She gestures toward the camera and poses with the product.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator sits facing camera holding the pink thermal brush horizontally across her face with hair draped forward.",
+   "visual_0_3s": "Fast reveal of creator's finished voluminous blowout and glowing makeup as she lowers the brush.",
+   "spoken_0_3s": "Not to be dramatic, but my life changed when I learned to use this thermal brush.",
+   "text_0_3s": "The Thermal brush Step by step Tutorial",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Starts with hair covering her face and product masking her eyes, creating an unexpected peek-a-boo reveal into a finished glam look."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Bold claim hook about tool changing her life with quick result preview",
+    "Product introduction and universal hair type reassurance",
+    "Step-by-step technique breakdown (prep, glide, curl ends, alternate directions)",
+    "Crown and front money piece styling demo",
+    "Final result showcase and curl longevity claim",
+    "Call to action to purchase"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "salon_result_at_home",
+    "frizz_or_curly_solution"
+   ],
+   "key_claims": [
+    "Works on frizzy, curly, big, and thin hair",
+    "Gives bigger, voluminous, soft results",
+    "Curls actually stay"
+   ],
+   "pain_points": [
+    "Difficulty getting salon-style blowout curls at home",
+    "Curls falling flat or not lasting",
+    "Flat bangs and money piece"
+   ],
+   "objections_handled": [
+    "Works across various hair textures including frizzy and thin hair",
+    "Addresses hair health by emphasizing completely dry hair and heat protectant prep"
+   ],
+   "social_proof": [
+    "Viral TikTok style phrasing ('let me put you girls on')",
+    "Live visual demonstration of bouncy results"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 3.0,
+   "final_result_shown_s": 1.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Get yours now through TikTok Shop.",
+   "cta_on_screen": "",
+   "cta_at_s": 45.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Dark brown/black medium-length layered hair, dry and prepped",
+   "hair_after": "Voluminous, glossy 90s-style bouncy blowout with curled ends and curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, instructional, glamorous"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Upbeat, chill lo-fi pop instrumental track playing quietly in the background.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 5.88,
+   "pacing": "medium",
+   "effects": [
+    "Text pop-in animation",
+    "jump cuts between styling steps"
+   ],
+   "ending": "Creator smiles, poses with the product in hand, and gazes at the camera."
+  },
+  "notes": "TikTok UGC tutorial style ad repurposed for paid social. Audio uses a popular automated text-to-speech voice commonly found on TikTok."
+ }
+}

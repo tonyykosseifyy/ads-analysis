@@ -1,0 +1,465 @@
+{
+ "media_key": "v_2212923229504690",
+ "analyzed_at": "2026-11-28T10:22:33+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "df052014ec732ef1beed3cb5079a54b74cbeeeb84e35e654ffef961db8b0e2b7",
+ "source": {
+  "kind": "video",
+  "id": "2212923229504690",
+  "video_id": "2212923229504690",
+  "length_s": 40.5,
+  "permalink": "/122156392911058569/videos/2212923229504690"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 40.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A young woman demonstrates achieving a salon-quality blowout at home using the viral Wavytalk thermal blowout brush.",
+  "full_description": "A creator starts by showing off her styled blowout hair, explaining that it was effortless to achieve. She introduces the Wavytalk thermal blowout brush (along with clips, a paddle brush, and manual), demonstrates how she sections and brushes her hair, curls her bangs, and shows off her voluminous final look while mentioning she won't need to visit her hairdresser anytime soon.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This took way less effort than it looks.",
+    "text_english": "This took way less effort than it looks."
+   },
+   {
+    "start_s": 1.9,
+    "end_s": 4.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I got my hands on the viral Wavytalk blowout brush,",
+    "text_english": "I got my hands on the viral Wavytalk blowout brush,"
+   },
+   {
+    "start_s": 4.6,
+    "end_s": 6.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and honestly the color was my favorite thing about this.",
+    "text_english": "and honestly the color was my favorite thing about this."
+   },
+   {
+    "start_s": 6.4,
+    "end_s": 9.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It also came with a mini blowout tutorial which I needed.",
+    "text_english": "It also came with a mini blowout tutorial which I needed."
+   },
+   {
+    "start_s": 9.3,
+    "end_s": 12.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "At the beginning I was still figuring out the best way to use it,",
+    "text_english": "At the beginning I was still figuring out the best way to use it,"
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 15.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and it only took a few tries to really get the hang of it.",
+    "text_english": "and it only took a few tries to really get the hang of it."
+   },
+   {
+    "start_s": 15.1,
+    "end_s": 17.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And once I did, styling my hair became so much easier.",
+    "text_english": "And once I did, styling my hair became so much easier."
+   },
+   {
+    "start_s": 17.9,
+    "end_s": 20.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It genuinely exceeded my expectations.",
+    "text_english": "It genuinely exceeded my expectations."
+   },
+   {
+    "start_s": 20.2,
+    "end_s": 22.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Surprisingly, my hair never got stuck on the brush,",
+    "text_english": "Surprisingly, my hair never got stuck on the brush,"
+   },
+   {
+    "start_s": 22.5,
+    "end_s": 24.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and I was so happy with the results!",
+    "text_english": "and I was so happy with the results!"
+   },
+   {
+    "start_s": 24.6,
+    "end_s": 27.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "My favorite part was the bangs because I never could style them at home.",
+    "text_english": "My favorite part was the bangs because I never could style them at home."
+   },
+   {
+    "start_s": 27.9,
+    "end_s": 31.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So bad news for my hairdresser because he will not be seeing me anytime soon.",
+    "text_english": "So bad news for my hairdresser because he will not be seeing me anytime soon."
+   },
+   {
+    "start_s": 31.3,
+    "end_s": 34.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Anyways, that's the final look. I hope you liked it!",
+    "text_english": "Anyways, that's the final look. I hope you liked it!"
+   }
+  ],
+  "transcript_full_original": "This took way less effort than it looks. I got my hands on the viral Wavytalk blowout brush, and honestly the color was my favorite thing about this. It also came with a mini blowout tutorial which I needed. At the beginning I was still figuring out the best way to use it, and it only took a few tries to really get the hang of it. And once I did, styling my hair became so much easier. It genuinely exceeded my expectations. Surprisingly, my hair never got stuck on the brush, and I was so happy with the results! My favorite part was the bangs because I never could style them at home. So bad news for my hairdresser because he will not be seeing me anytime soon. Anyways, that's the final look. I hope you liked it!",
+  "transcript_full_english": "This took way less effort than it looks. I got my hands on the viral Wavytalk blowout brush, and honestly the color was my favorite thing about this. It also came with a mini blowout tutorial which I needed. At the beginning I was still figuring out the best way to use it, and it only took a few tries to really get the hang of it. And once I did, styling my hair became so much easier. It genuinely exceeded my expectations. Surprisingly, my hair never got stuck on the brush, and I was so happy with the results! My favorite part was the bangs because I never could style them at home. So bad news for my hairdresser because he will not be seeing me anytime soon. Anyways, that's the final look. I hope you liked it!",
+  "word_count": 128,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "text": "This took way less effort than it looks",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.9,
+    "end_s": 4.5,
+    "text": "I got my hands on the viral wavytalk blowout brush",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.6,
+    "end_s": 6.3,
+    "text": "and honestly the color was my favorite thing about this.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.4,
+    "end_s": 9.2,
+    "text": "It also came with a mini blowout tutorial which I needed.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.3,
+    "end_s": 12.7,
+    "text": "At the beginning I was still figuring out the best way to use it",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 15.0,
+    "text": "and it only took a few tries to really get the hang of it.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.1,
+    "end_s": 17.8,
+    "text": "And once I did, styling my hair became so much easier.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.9,
+    "end_s": 20.1,
+    "text": "It genuinely exceeded my expectations.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.2,
+    "end_s": 22.4,
+    "text": "Surprisingly my hair never got stuck on the brush,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.5,
+    "end_s": 24.5,
+    "text": "and I was soo happy with the results!",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 24.6,
+    "end_s": 27.8,
+    "text": "My favorite part was the bangs because I never could style them at home.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 27.9,
+    "end_s": 31.2,
+    "text": "So bad news for my hairdresser because he will not be seeing me anytime soon.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 31.3,
+    "end_s": 34.3,
+    "text": "Anyways thats the final look I hope you liked it !!!",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 34.8,
+    "end_s": 37.0,
+    "text": "@wavytalk ur the best.",
+    "role": "brand"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "shot_type": "selfie",
+    "visual": "Creator showing her fully styled blowout hair, smiling and touching her hair",
+    "action": "Posing and presenting the finished hair result",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 3.8,
+    "shot_type": "medium shot",
+    "visual": "Creator holding up the pink Wavytalk thermal brush and its purple box",
+    "action": "Showing the product enthusiastically to camera",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.9,
+    "end_s": 4.7,
+    "shot_type": "close-up",
+    "visual": "Close up of hair styling clips included with the tool",
+    "action": "Holding styling clips in hand",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 5.8,
+    "shot_type": "close-up",
+    "visual": "Close up of pink ventilated hair brush",
+    "action": "Holding paddle brush toward camera",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.9,
+    "end_s": 7.4,
+    "shot_type": "close-up",
+    "visual": "Paper styling instruction manual with picture steps",
+    "action": "Flipping and showing the tutorial manual",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 9.3,
+    "shot_type": "medium shot",
+    "visual": "Creator clipping up top half of her hair with a claw clip",
+    "action": "Sectioning hair to prepare for styling",
+    "product_visible": false
+   },
+   {
+    "start_s": 9.4,
+    "end_s": 11.4,
+    "shot_type": "close-up",
+    "visual": "Wavytalk brush digital temperature display turning on and peeling protective film",
+    "action": "Turning on device and showing LED display temperature reading",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 14.8,
+    "shot_type": "medium shot",
+    "visual": "Creator brushing and curling a section of hair with the thermal brush",
+    "action": "Testing and curling a strand of hair",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.9,
+    "end_s": 17.8,
+    "shot_type": "medium shot",
+    "visual": "Creator detangling a section of hair using the paddle brush",
+    "action": "Brushing out straight hair section",
+    "product_visible": false
+   },
+   {
+    "start_s": 17.9,
+    "end_s": 20.1,
+    "shot_type": "medium shot",
+    "visual": "Creator curling top section of hair over the crown using the thermal brush",
+    "action": "Rolling hair around thermal barrel",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.2,
+    "end_s": 24.5,
+    "shot_type": "medium shot",
+    "visual": "Creator wrapping and gliding hair along brush barrel",
+    "action": "Curling lower sections of hair and releasing soft curls",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.6,
+    "end_s": 27.8,
+    "shot_type": "medium shot",
+    "visual": "Creator styling curtain bangs inward with the brush",
+    "action": "Curling bangs and striking a cute pose",
+    "product_visible": true
+   },
+   {
+    "start_s": 27.9,
+    "end_s": 31.2,
+    "shot_type": "medium shot",
+    "visual": "Creator fluffing out hair with hands and smiling",
+    "action": "Running hands through styled bouncy hair",
+    "product_visible": false
+   },
+   {
+    "start_s": 31.3,
+    "end_s": 34.5,
+    "shot_type": "selfie",
+    "visual": "Creator showing final voluminous wavy hair look from front",
+    "action": "Posing and checking hair in viewfinder",
+    "product_visible": false
+   },
+   {
+    "start_s": 34.6,
+    "end_s": 36.8,
+    "shot_type": "medium shot",
+    "visual": "Creator turned around showing the back of her styled hair held with claw clip",
+    "action": "Showing back bounce and curl definition",
+    "product_visible": false
+   },
+   {
+    "start_s": 36.9,
+    "end_s": 38.5,
+    "shot_type": "selfie",
+    "visual": "Creator smiling excitedly and posing with hair",
+    "action": "Beaming at camera and showing hair movement",
+    "product_visible": false
+   },
+   {
+    "start_s": 38.6,
+    "end_s": 40.0,
+    "shot_type": "mirror selfie",
+    "visual": "Creator taking a mirror selfie showing full hair and outfit",
+    "action": "Posing in front of mirror with phone",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator looking into camera with gorgeous bouncy blowout hair",
+   "visual_0_3s": "Creator showcasing finished voluminous bouncy curls while touching hair",
+   "spoken_0_3s": "This took way less effort than it looks. I got my hands",
+   "text_0_3s": "This took way less effort than it looks",
+   "hook_type": "result_first",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Immediate presentation of gorgeous salon-quality blowout results in frame 1"
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Result reveal hook",
+    "Product introduction and accessories unboxing",
+    "Initial learning curve acknowledgment",
+    "Step-by-step styling demonstration",
+    "Key benefit highlight: no snagging or hair getting stuck",
+    "Bangs styling success",
+    "Cost/hairdresser replacement benefit",
+    "Final hair display"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "easy_for_beginners",
+    "saves_time",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Effortless styling",
+    "Exceeded expectations",
+    "Hair never gets stuck or tangled on brush",
+    "Easy to style bangs at home",
+    "Replaces trips to the hairdresser"
+   ],
+   "pain_points": [
+    "Difficulty styling hair and bangs at home",
+    "Hair getting caught or tangled in thermal brushes",
+    "Salon blowouts are expensive and time-consuming"
+   ],
+   "objections_handled": [
+    "Tangles/snagging",
+    "Difficulty of use for beginners"
+   ],
+   "social_proof": [
+    "Viral popularity mentioned ('viral Wavytalk blowout brush')"
+   ],
+   "comparison_to": "Hairdresser / salon blowout"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Blowout Brush"
+   ],
+   "first_seen_s": 2.2,
+   "first_used_on_hair_s": 11.5,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long dark brunette straight/slightly wavy hair",
+   "hair_after": "Voluminous blowout with defined bouncy outward curls and styled curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, friendly, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Lofi upbeat background pop tune",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 16,
+   "avg_shot_length_s": 2.35,
+   "pacing": "fast",
+   "effects": [
+    "burned-in animated captions",
+    "speed cut transitions"
+   ],
+   "ending": "Mirror selfie showcasing the full hairstyle and outfit"
+  },
+  "notes": "Organic-style UGC creator review praising the ease of use, styling of bangs, and lack of hair snagging with the Wavytalk thermal blowout brush."
+ }
+}

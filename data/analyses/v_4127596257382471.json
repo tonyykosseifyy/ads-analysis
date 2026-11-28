@@ -1,0 +1,386 @@
+{
+ "media_key": "v_4127596257382471",
+ "analyzed_at": "2026-11-28T10:24:04+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "bc4a3a88b95ff5b3d3ba7e19f4fcdf2c335c59c0a9223c9dddbc3591e4c2508e",
+ "source": {
+  "kind": "video",
+  "id": "4127596257382471",
+  "video_id": "4127596257382471",
+  "length_s": 62.966,
+  "permalink": "/122156392911058569/videos/4127596257382471"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 62.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A blonde creator shares a tutorial and dos/don'ts for achieving soft, beachy mermaid waves with the Wavytalk Power Waver.",
+  "full_description": "A creator with very long blonde hair demonstrates how to properly angle and use the pink Wavytalk Power Waver to achieve soft, beachy waves instead of stiff crimps. She explains key mistakes like holding the crimper flat horizontally, shows how tilting it down each section creates cascading waves, and highlights product features including the timer beep and adjustable heat/timer settings before concluding with styling tips and a call to action.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay listen up. Stop waving your hair like this, and start doing it like this.",
+    "text_english": "Okay listen up. Stop waving your hair like this, and start doing it like this."
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 7.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Don't worry, I'm here to share all my tips and tricks for getting this beachy mermaid hair using the Wavytalk Power Waver.",
+    "text_english": "Don't worry, I'm here to share all my tips and tricks for getting this beachy mermaid hair using the Wavytalk Power Waver."
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 9.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay quick pause, this is what not to do.",
+    "text_english": "Okay quick pause, this is what not to do."
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 13.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Don't go straight in with the crimper because that's how you end up with stiff waves instead of soft ones.",
+    "text_english": "Don't go straight in with the crimper because that's how you end up with stiff waves instead of soft ones."
+   },
+   {
+    "start_s": 13.6,
+    "end_s": 16.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Instead, angle the tool slightly as you move down each section.",
+    "text_english": "Instead, angle the tool slightly as you move down each section."
+   },
+   {
+    "start_s": 16.7,
+    "end_s": 20.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "That little tilt is what creates that effortless cascading wave, way more beachy, way more I woke up like this.",
+    "text_english": "That little tilt is what creates that effortless cascading wave, way more beachy, way more I woke up like this."
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 27.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I love this crimper because it basically does all the thinking for you. It beeps when it's ready, so there's no guessing, no overdoing it, just the perfect wave every time.",
+    "text_english": "I love this crimper because it basically does all the thinking for you. It beeps when it's ready, so there's no guessing, no overdoing it, just the perfect wave every time."
+   },
+   {
+    "start_s": 27.2,
+    "end_s": 32.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now for the front pieces, I do the same thing, but I gently pull down on the end so they don't get too curly.",
+    "text_english": "Now for the front pieces, I do the same thing, but I gently pull down on the end so they don't get too curly."
+   },
+   {
+    "start_s": 32.2,
+    "end_s": 36.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Then for the top section, I hold the crimper straight up and down to avoid any weird kinks at the root.",
+    "text_english": "Then for the top section, I hold the crimper straight up and down to avoid any weird kinks at the root."
+   },
+   {
+    "start_s": 36.3,
+    "end_s": 41.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Again, slightly angle your front piece pulling down on the ends, and hold the crimper straight up and down on the top section.",
+    "text_english": "Again, slightly angle your front piece pulling down on the ends, and hold the crimper straight up and down on the top section."
+   },
+   {
+    "start_s": 41.2,
+    "end_s": 47.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Another little hack: don't fully brush these waves out, that's how you get the frizz. You want to keep them a little messy, a little piecey.",
+    "text_english": "Another little hack: don't fully brush these waves out, that's how you get the frizz. You want to keep them a little messy, a little piecey."
+   },
+   {
+    "start_s": 47.1,
+    "end_s": 51.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I usually will lightly backbrush the ends for extra volume and that undone look.",
+    "text_english": "I usually will lightly backbrush the ends for extra volume and that undone look."
+   },
+   {
+    "start_s": 51.3,
+    "end_s": 57.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The Wavytalk Power Waver is also great because you can adjust the temperature and timer depending on your hair type, which makes it super customizable.",
+    "text_english": "The Wavytalk Power Waver is also great because you can adjust the temperature and timer depending on your hair type, which makes it super customizable."
+   },
+   {
+    "start_s": 57.2,
+    "end_s": 62.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay now grab the Wavytalk Power Waver for yourself, try this technique, you'll never go back.",
+    "text_english": "Okay now grab the Wavytalk Power Waver for yourself, try this technique, you'll never go back."
+   }
+  ],
+  "transcript_full_original": "Okay listen up. Stop waving your hair like this, and start doing it like this. Don't worry, I'm here to share all my tips and tricks for getting this beachy mermaid hair using the Wavytalk Power Waver. Okay quick pause, this is what not to do. Don't go straight in with the crimper because that's how you end up with stiff waves instead of soft ones. Instead, angle the tool slightly as you move down each section. That little tilt is what creates that effortless cascading wave, way more beachy, way more I woke up like this. I love this crimper because it basically does all the thinking for you. It beeps when it's ready, so there's no guessing, no overdoing it, just the perfect wave every time. Now for the front pieces, I do the same thing, but I gently pull down on the end so they don't get too curly. Then for the top section, I hold the crimper straight up and down to avoid any weird kinks at the root. Again, slightly angle your front piece pulling down on the ends, and hold the crimper straight up and down on the top section. Another little hack: don't fully brush these waves out, that's how you get the frizz. You want to keep them a little messy, a little piecey. I usually will lightly backbrush the ends for extra volume and that undone look. The Wavytalk Power Waver is also great because you can adjust the temperature and timer depending on your hair type, which makes it super customizable. Okay now grab the Wavytalk Power Waver for yourself, try this technique, you'll never go back.",
+  "transcript_full_english": "Okay listen up. Stop waving your hair like this, and start doing it like this. Don't worry, I'm here to share all my tips and tricks for getting this beachy mermaid hair using the Wavytalk Power Waver. Okay quick pause, this is what not to do. Don't go straight in with the crimper because that's how you end up with stiff waves instead of soft ones. Instead, angle the tool slightly as you move down each section. That little tilt is what creates that effortless cascading wave, way more beachy, way more I woke up like this. I love this crimper because it basically does all the thinking for you. It beeps when it's ready, so there's no guessing, no overdoing it, just the perfect wave every time. Now for the front pieces, I do the same thing, but I gently pull down on the end so they don't get too curly. Then for the top section, I hold the crimper straight up and down to avoid any weird kinks at the root. Again, slightly angle your front piece pulling down on the ends, and hold the crimper straight up and down on the top section. Another little hack: don't fully brush these waves out, that's how you get the frizz. You want to keep them a little messy, a little piecey. I usually will lightly backbrush the ends for extra volume and that undone look. The Wavytalk Power Waver is also great because you can adjust the temperature and timer depending on your hair type, which makes it super customizable. Okay now grab the Wavytalk Power Waver for yourself, try this technique, you'll never go back.",
+  "word_count": 224,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.6,
+    "end_s": 1.7,
+    "text": "❌",
+    "role": "hook"
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 2.7,
+    "text": "✅",
+    "role": "hook"
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 7.4,
+    "text": "beachy 🌊 MERMAID 🧜‍♀️ hair Wavytalk Power Waver",
+    "role": "brand"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 62.5,
+    "text": "Synchronized burned-in subtitles of spoken audio",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.6,
+    "shot_type": "medium shot",
+    "visual": "Blonde creator sitting on bed demonstrating incorrect horizontal clamping with pink waver, red X icon overlay",
+    "action": "Creator holds the tool straight horizontal on a section of hair",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.6,
+    "end_s": 4.6,
+    "shot_type": "medium shot",
+    "visual": "Creator demonstrating angled positioning of the waver, green checkmark overlay",
+    "action": "Creator angles the waver diagonally and stamps down the strand",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.6,
+    "end_s": 7.5,
+    "shot_type": "medium shot",
+    "visual": "Creator shakes out her hair, then holds up the pink Wavytalk Power Waver to the camera with stylized text sticker",
+    "action": "Displays the dual barrels of the crimper to the camera",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 13.5,
+    "shot_type": "medium shot",
+    "visual": "Creator explains what not to do, clamping straight horizontally across the strand",
+    "action": "Sections hair and clamps the waver perpendicularly to demonstrate stiff results",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 20.7,
+    "shot_type": "medium shot",
+    "visual": "Creator shows the correct tilted angle technique moving down the section",
+    "action": "Tilts the tool down each portion of hair, revealing soft flowing waves",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.7,
+    "end_s": 27.0,
+    "shot_type": "medium shot",
+    "visual": "Creator styles back section, clamping and waiting for the beep, showing perfectly formed wave pattern",
+    "action": "Clamps hair strand and lifts finished wavy strand towards camera",
+    "product_visible": true
+   },
+   {
+    "start_s": 27.0,
+    "end_s": 32.1,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the front framing pieces, gently pulling down the ends",
+    "action": "Angles the tool on front hair pieces and gently glides/pulls the strand through",
+    "product_visible": true
+   },
+   {
+    "start_s": 32.1,
+    "end_s": 35.9,
+    "shot_type": "medium shot",
+    "visual": "Creator holding tool vertically at the crown / top root area",
+    "action": "Holds crimper straight up and down close to the scalp",
+    "product_visible": true
+   },
+   {
+    "start_s": 35.9,
+    "end_s": 41.1,
+    "shot_type": "medium shot",
+    "visual": "Creator repeats the technique on the other side of her face",
+    "action": "Angling front section and clamping top section vertically",
+    "product_visible": true
+   },
+   {
+    "start_s": 41.1,
+    "end_s": 47.0,
+    "shot_type": "medium shot",
+    "visual": "Creator sprays hair texturizer/dry shampoo into root and grabs a flat cushion paddle brush",
+    "action": "Sprays root, then gently brushes strands without combing all the way through",
+    "product_visible": false
+   },
+   {
+    "start_s": 47.0,
+    "end_s": 51.2,
+    "shot_type": "medium shot",
+    "visual": "Creator lightly backcombing / backbrushing the bottom ends with brush",
+    "action": "Backbrushes ends to create textured volume",
+    "product_visible": false
+   },
+   {
+    "start_s": 51.2,
+    "end_s": 57.1,
+    "shot_type": "close-up b-roll",
+    "visual": "Close-up of the digital LCD display on the pink Wavytalk Power Waver showing temperature (380°F to 420°F) and timer settings (5s to 6s)",
+    "action": "Finger toggles the side button to change heat and timer",
+    "product_visible": true
+   },
+   {
+    "start_s": 57.1,
+    "end_s": 60.5,
+    "shot_type": "medium shot",
+    "visual": "Creator shaking out and fluffing her full head of voluminous, beachy mermaid waves",
+    "action": "Runs fingers through wavy hair, smiling at camera",
+    "product_visible": false
+   },
+   {
+    "start_s": 60.5,
+    "end_s": 62.5,
+    "shot_type": "close-up b-roll",
+    "visual": "Close-up b-roll shot of the Wavytalk Power Waver barrels and body on a wooden table",
+    "action": "Static product beauty shot",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Blonde creator sitting on bed holding pink crimper horizontally across her long blonde hair.",
+   "visual_0_3s": "Comparison cut showing wrong way (clamping horizontally with red X) vs right way (angled clamping with green checkmark).",
+   "spoken_0_3s": "Okay listen up. Stop waving your hair like this, and start doing it like this.",
+   "text_0_3s": "❌ / ✅",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Rapid split between 'Stop waving like this (❌)' and 'Start doing it like this (✅)' creates instant curiosity and mistake correction."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Mistake callout vs correct technique hook",
+    "Product introduction (Wavytalk Power Waver)",
+    "Common mistake detailed: horizontal placement gives stiff waves",
+    "Step-by-step technique: angle the tool, pull front ends, vertical on roots",
+    "Automatic timer beep feature highlight",
+    "Styling & texturizing hack: do not brush completely, backbrush ends",
+    "Customizable settings showcase (temperature & timer)",
+    "Final look showcase and CTA"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Angling tool creates effortless cascading beachy waves",
+    "Automatic beep eliminates guesswork and prevents heat overexposure",
+    "Adjustable temperature and timer tailored for any hair type",
+    "Avoids weird root kinks and stiff waves"
+   ],
+   "pain_points": [
+    "Ending up with stiff crimps instead of soft beachy waves",
+    "Getting harsh kinks at the scalp root",
+    "Causing frizz by over-brushing crimped hair"
+   ],
+   "objections_handled": [
+    "Worrying about burning or over-processing hair (solved by auto beep timer)",
+    "Waves looking unnatural or crimped instead of mermaid beach waves"
+   ],
+   "social_proof": [],
+   "comparison_to": "Regular crimping technique"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Power Waver"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 57.1,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Okay now grab the Wavytalk Power Waver for yourself, try this technique, you'll never go back.",
+   "cta_on_screen": "",
+   "cta_at_s": 57.2
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Straight, ultra-long blonde hair",
+   "hair_after": "Voluminous, textured cascading beach mermaid waves",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "friendly, informative, authoritative beauty advice"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle upbeat lo-fi instrumental bed beneath a crisp studio voiceover",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 4.5,
+   "pacing": "fast",
+   "effects": [
+    "Text overlays",
+    "Emoji stickers",
+    "Digital display close-up cutaways"
+   ],
+   "ending": "Close-up hero shot of the pink Wavytalk Power Waver resting on a surface as voiceover finishes CTA"
+  },
+  "notes": "Ad is in English from an American or international creator, featuring the pink Wavytalk Power Waver dual-barrel crimper with digital temperature and timer display."
+ }
+}

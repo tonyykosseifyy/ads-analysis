@@ -1,0 +1,246 @@
+{
+ "media_key": "v_984086394359005",
+ "analyzed_at": "2026-11-28T10:22:07+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "dce2a929cb7ee8fd8c96ae76e7826a3ed233ab37b913ab8943876dc6dcfdfea7",
+ "source": {
+  "kind": "video",
+  "id": "984086394359005",
+  "video_id": "984086394359005",
+  "length_s": 39.9,
+  "permalink": "/122119313253324078/videos/984086394359005"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 39.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A red-haired creator times herself styling her voluminous, frizzy curls with a thermal blowout brush in under 25 minutes.",
+  "full_description": "The video shows a timed 'Speed Styling' challenge where a young woman with very puffy, frizzy, ginger curly hair times how fast she can transform her hair using a thermal blowout round brush. Starting the stopwatch on an iPad, she detangles her hair and works through sections, showing the timer at 1m27s, 2m32s, 7m41s, 14m26s, and 19m10s. By 24 minutes and 25 seconds, she finishes with shiny, smooth, voluminous blowout waves, smiling and flipping her finished hair to an upbeat soundtrack.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "text": "Speed Styling\n«how fast can I style my hair»",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "shot_type": "medium shot",
+    "visual": "Creator in kitchen holding her big puffy hair up with overlay challenge text.",
+    "action": "Creator grabs her hair and steps towards the table holding an iPad.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 3.6,
+    "shot_type": "close-up",
+    "visual": "iPad stopwatch screen.",
+    "action": "She taps start on the stopwatch, hitting 00:00.93 and pulls a funny face at the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.6,
+    "end_s": 6.3,
+    "shot_type": "medium shot",
+    "visual": "Creator detangling hair.",
+    "action": "She vigorously brushes through her massive voluminous curls with a paddle detangling brush.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.3,
+    "end_s": 7.0,
+    "shot_type": "close-up",
+    "visual": "iPad stopwatch showing 01:27.11.",
+    "action": "She shows the iPad timer after detangling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 12.6,
+    "shot_type": "medium close-up",
+    "visual": "Thermal round brush styling lower section.",
+    "action": "She glides the heated round brush down a section, curls the end, and shows the bouncy curl with a satisfied smile.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.6,
+    "end_s": 13.8,
+    "shot_type": "close-up",
+    "visual": "iPad stopwatch showing 02:32.68.",
+    "action": "She flashes the tablet timer while holding the thermal brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.8,
+    "end_s": 18.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling upper front section.",
+    "action": "She rolls a strand around the barrel, releases it into a smooth curl, and inspects it in front of camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.7,
+    "end_s": 22.8,
+    "shot_type": "medium shot",
+    "visual": "Mid-process styling with timer in background at 07:41.24.",
+    "action": "She demonstrates rolling and brushing sections, tossing a smooth styled strand over her shoulder.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 24.8,
+    "shot_type": "close-up",
+    "visual": "Stopwatch on tablet at 14:26.36.",
+    "action": "Camera zooms in on the iPad stopwatch on the table.",
+    "product_visible": false
+   },
+   {
+    "start_s": 24.8,
+    "end_s": 29.2,
+    "shot_type": "medium shot",
+    "visual": "Half-styled hair comparison.",
+    "action": "Half her hair is sleek and curled while the other half is wild and frizzy; she demonstrates curling the frizzy half with the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 29.2,
+    "end_s": 30.8,
+    "shot_type": "medium close-up",
+    "visual": "iPad stopwatch showing 19:10.67.",
+    "action": "She briefly shows the timer updating to over 19 minutes.",
+    "product_visible": false
+   },
+   {
+    "start_s": 30.8,
+    "end_s": 31.8,
+    "shot_type": "close-up",
+    "visual": "Finishing top strands.",
+    "action": "She brushes through the final top section and covers the lens with her hand for a transition.",
+    "product_visible": true
+   },
+   {
+    "start_s": 31.8,
+    "end_s": 34.7,
+    "shot_type": "medium shot",
+    "visual": "Final completed hairstyle revealed.",
+    "action": "She reveals fully styled voluminous bouncy curls, beaming and holding up the iPad showing final time of 24:25.47.",
+    "product_visible": false
+   },
+   {
+    "start_s": 34.7,
+    "end_s": 39.8,
+    "shot_type": "close-up to medium shot",
+    "visual": "Glamour poses showing finished hair.",
+    "action": "She runs her fingers through the glossy, bouncy blowout curls, smiling warmly at the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding her wild, tangled red afro/curly hair with hook text 'Speed Styling «how fast can I style my hair»'.",
+   "visual_0_3s": "She starts an iPad stopwatch timer to test how quickly she can transform her unruly frizzy hair.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Speed Styling\n«how fast can I style my hair»",
+   "hook_type": "curiosity_gap",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "Starting a real-time stopwatch challenge combined with extreme frizzy hair visual."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Speed challenge setup with stopwatch and untamed frizzy hair",
+    "Detangling hair and starting the thermal brush process",
+    "Progress check-ins showing instant curl definition and elapsed time",
+    "Side-by-side contrast of half-styled vs. natural frizzy side",
+    "Final timer stop at 24:25 and gorgeous bouncy blowout result"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "volume_and_bounce",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Full blowout transformation on thick curly hair takes under 25 minutes"
+   ],
+   "pain_points": [
+    "Thick, frizzy, unruly curly hair takes too long to style and blowout",
+    "Difficulty getting smooth salon curls at home"
+   ],
+   "objections_handled": [
+    "Will this tool work on extremely frizzy/curly hair?",
+    "Does it take too long to do a full head?"
+   ],
+   "social_proof": [],
+   "comparison_to": "Natural frizzy texture shown directly side-by-side during the demo"
+  },
+  "product": {
+   "products_shown": [
+    "Thermal Blowout Round Brush"
+   ],
+   "first_seen_s": 6.8,
+   "first_used_on_hair_s": 7.0,
+   "final_result_shown_s": 31.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, thick, frizzy, unruly ginger/copper red curls",
+   "hair_after": "Silky, shiny, bouncy salon-style blowout curls with defined ends",
+   "setting": "kitchen",
+   "faces_camera": true,
+   "energy_tone": "Playful, energetic, relatable, satisfied"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Energetic, fast-paced acoustic pop cover of ABBA's 'Mamma Mia'",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 2.8,
+   "pacing": "fast",
+   "effects": [
+    "Hand-to-lens transition",
+    "Time-lapse cuts synced to music beat"
+   ],
+   "ending": "Talent running fingers through finished blowout hair, smiling at camera as music ends."
+  },
+  "notes": "Classic organic-style UGC format using a stopwatch / speed challenge to visually prove how fast and effective the heated blowout brush is on difficult, voluminous curly hair."
+ }
+}
