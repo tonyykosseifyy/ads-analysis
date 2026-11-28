@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import json
 import logging
+import threading
 import time
 from pathlib import Path
 from typing import Any, Iterable, Iterator
@@ -49,30 +50,80 @@ class MetaClient:
         settings.require("meta_access_token")
         self.s = settings
         self.http = session or requests.Session()
+        # Meta's rate limits are per app / ad account, not per thread: one shared pause for every worker,
+        # so blocked workers wait together instead of each retrying (every retry counts as a call).
+        self._lock = threading.Lock()
+        self._blocked_until = 0.0
+        self._strikes = 0
+        self._videos: dict[str, tuple[float, dict]] = {}
+        self._images: dict[str, str] = {}
 
     # ---- low level -------------------------------------------------------
+    RATE_LIMIT_CODES = (4, 17, 32, 613, 80000, 80001, 80002, 80003, 80004, 80005, 80006, 80008, 80009, 80014)
+    USAGE_HEADERS = ("x-app-usage", "x-ad-account-usage", "x-business-use-case-usage")
+
+    def _wait_if_blocked(self) -> None:
+        while True:
+            with self._lock:
+                left = self._blocked_until - time.time()
+            if left <= 0:
+                return
+            time.sleep(min(left, 30))
+
+    def _block(self, seconds: float, why: str) -> None:
+        with self._lock:
+            until = time.time() + seconds
+            if until > self._blocked_until:
+                self._blocked_until = until
+                log.warning("Meta rate limit (%s): pausing all Meta calls for %.0fs", why, seconds)
+
+    def _check_usage(self, resp: requests.Response) -> None:
+        """Slow down before Meta blocks us: its usage headers give the % of the hourly allowance used."""
+        top = 0.0
+        for h in self.USAGE_HEADERS:
+            raw = (getattr(resp, "headers", None) or {}).get(h)
+            if raw:
+                top = max(top, _max_usage(raw))
+        if top >= 95:
+            self._block(300, f"{top:.0f}% of allowance used")
+        elif top >= 85:
+            self._block(30, f"{top:.0f}% of allowance used")
+
     def _request(self, method: str, path_or_url: str, params: dict | None = None, retries: int = 5) -> dict:
         url = path_or_url if path_or_url.startswith("http") else f"{self.s.graph_base}/{path_or_url.lstrip('/')}"
         params = dict(params or {})
         if "access_token=" not in url:
             params["access_token"] = self.s.meta_access_token
-        for attempt in range(retries):
+        attempt = limited = 0
+        while attempt < retries and limited < 12:
+            self._wait_if_blocked()
             resp = self.http.request(method, url, params=params, timeout=120)
+            self._check_usage(resp)
             if resp.status_code == 200:
+                with self._lock:
+                    self._strikes = 0
                 return resp.json()
             body = _safe_json(resp)
             err = body.get("error", {}) if isinstance(body, dict) else {}
             code = err.get("code")
-            # 4/17/32/613/8000x = rate limits; 1/2 = transient. Anything else (bad parameter, permission,
-            # expired token) will fail the same way again, so it is raised straight away.
-            transient = code in (1, 2, 4, 17, 32, 613, 80000, 80004) or (resp.status_code >= 500 and code in (None, 1, 2))
-            if transient:
+            if code in self.RATE_LIMIT_CODES:
+                # Shared pause that grows while Meta keeps refusing: 1, 2, 4, 8, then 15 min.
+                with self._lock:
+                    self._strikes += 1
+                    strikes = self._strikes
+                self._block(min(900, 60 * 2 ** min(strikes - 1, 4)), f"#{code} {err.get('message')}")
+                limited += 1
+                continue
+            # 1/2 = transient. Anything else (bad parameter, permission, expired token) will fail the same
+            # way again, so it is raised straight away.
+            if code in (1, 2) or (resp.status_code >= 500 and code is None):
                 wait = min(300, 15 * (2 ** attempt))
-                log.warning("Meta API busy (%s %s), retrying in %ss", code, err.get("message"), wait)
+                log.warning("Meta API error (%s %s), retrying in %ss", code, err.get("message"), wait)
                 time.sleep(wait)
+                attempt += 1
                 continue
             raise MetaError(f"{resp.status_code} {err.get('message') or resp.text[:300]}")
-        raise MetaError(f"Gave up after {retries} retries: {url}")
+        raise MetaError(f"Gave up after repeated Meta errors/rate limits: {url.split('?')[0]}")
 
     def get(self, path: str, **params: Any) -> dict:
         return self._request("GET", path, params)
@@ -179,15 +230,46 @@ class MetaClient:
             return []
 
     # ---- media -----------------------------------------------------------
-    def video_info(self, video_id: str) -> dict:
-        return self.get(video_id, fields="id,source,length,permalink_url,title")
+    VIDEO_FIELDS = "id,source,length,permalink_url,title"
+    SOURCE_MAX_AGE = 45 * 60  # Meta's file links are signed and expire; refetch older ones
+
+    def prefetch_media(self) -> None:
+        """Get every video and image of the ad account in a few paged calls (100 per call) instead of one
+        call per file, which is what ran into Meta's hourly request limit."""
+        act = f"act_{self.s.meta_ad_account_id}"
+        try:
+            now = time.time()
+            for v in self.paginate(f"{act}/advideos", fields=self.VIDEO_FIELDS, limit=100):
+                self._videos[v["id"]] = (now, v)
+            log.info("Prefetched %s account videos", len(self._videos))
+        except MetaError as e:
+            log.warning("Could not list account videos (%s); falling back to one call per video", e)
+        try:
+            for r in self.paginate(f"{act}/adimages", fields="hash,url,permalink_url", limit=200):
+                if r.get("hash"):
+                    self._images[r["hash"]] = r.get("url") or r.get("permalink_url")
+            log.info("Prefetched %s account images", len(self._images))
+        except MetaError as e:
+            log.warning("Could not list account images (%s); falling back to one call per image", e)
+
+    def video_info(self, video_id: str, fresh: bool = False) -> dict:
+        hit = self._videos.get(video_id)
+        if hit and not fresh and hit[1].get("source") and time.time() - hit[0] < self.SOURCE_MAX_AGE:
+            return hit[1]
+        v = self.get(video_id, fields=self.VIDEO_FIELDS)
+        self._videos[video_id] = (time.time(), v)
+        return v
 
     def image_urls(self, hashes: list[str]) -> dict[str, str]:
-        if not hashes:
-            return {}
+        out = {h: self._images[h] for h in hashes if self._images.get(h)}
+        rest = [h for h in hashes if h not in out]
+        if not rest:
+            return out
         rows = self.get(f"act_{self.s.meta_ad_account_id}/adimages",
-                        hashes=json.dumps(hashes), fields="hash,url,permalink_url")
-        return {r["hash"]: (r.get("url") or r.get("permalink_url")) for r in rows.get("data", [])}
+                        hashes=json.dumps(rest), fields="hash,url,permalink_url")
+        for r in rows.get("data", []):
+            out[r["hash"]] = r.get("url") or r.get("permalink_url")
+        return out
 
     def ig_media(self, media_id: str) -> dict:
         return self.get(media_id, fields="id,media_type,media_url,thumbnail_url,permalink")
@@ -204,6 +286,30 @@ class MetaClient:
                         raise MetaError(f"File larger than {max_bytes // 1024 // 1024} MB: {url[:80]}")
                     fh.write(chunk)
         return dest
+
+
+def _max_usage(raw: str) -> float:
+    """Highest percentage in a Meta usage header (app usage is flat; ad-account / BUC usage are nested)."""
+    try:
+        data = json.loads(raw)
+    except ValueError:
+        return 0.0
+    best = 0.0
+
+    def walk(x: Any) -> None:
+        nonlocal best
+        if isinstance(x, dict):
+            for k, v in x.items():
+                if k in ("call_count", "total_time", "total_cputime", "acc_id_util_pct") and isinstance(v, (int, float)):
+                    best = max(best, float(v))
+                else:
+                    walk(v)
+        elif isinstance(x, list):
+            for v in x:
+                walk(v)
+
+    walk(data)
+    return best
 
 
 def _safe_json(resp: requests.Response) -> Any:

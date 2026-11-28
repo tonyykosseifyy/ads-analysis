@@ -6,9 +6,10 @@ from aca.config import Settings
 
 
 class Resp:
-    def __init__(self, status, body):
+    def __init__(self, status, body, headers=None):
         self.status_code, self._body = status, body
         self.text = str(body)
+        self.headers = headers or {}
 
     def json(self):
         return self._body
@@ -26,9 +27,25 @@ class FakeSession:
         raise AssertionError(f"unexpected {method} {url} {params}")
 
 
+class Clock:
+    """Fake time: sleeping advances it instantly, and the sleeps are recorded."""
+    def __init__(self):
+        self.now, self.slept = 1_000_000.0, []
+
+    def time(self):
+        return self.now
+
+    def sleep(self, s):
+        self.slept.append(s)
+        self.now += s
+
+
 @pytest.fixture(autouse=True)
-def no_sleep(monkeypatch):
-    monkeypatch.setattr(m.time, "sleep", lambda s: None)
+def clock(monkeypatch):
+    c = Clock()
+    monkeypatch.setattr(m.time, "sleep", c.sleep)
+    monkeypatch.setattr(m.time, "time", c.time)
+    return c
 
 
 def client(script):
@@ -94,3 +111,39 @@ def test_image_hash_lookup_sends_json_array():
                        Resp(200, {"data": [{"hash": "h1", "url": "https://cdn/h1.jpg"}]}))])
     assert c.image_urls(["h1"]) == {"h1": "https://cdn/h1.jpg"}
     assert sess.calls[0][2]["hashes"] == '["h1"]'
+
+
+def test_app_rate_limit_pauses_all_calls_then_resumes(clock):
+    c, sess = client([(lambda me, u, p: u.endswith("/555"),
+                       [Resp(400, {"error": {"code": 4, "message": "Application request limit reached"}}),
+                        Resp(400, {"error": {"code": 4, "message": "Application request limit reached"}}),
+                        Resp(200, {"id": "555", "source": "https://cdn/x.mp4"})])])
+    assert c.video_info("555")["source"] == "https://cdn/x.mp4"
+    assert sum(clock.slept) >= 60 + 120  # shared pause grows: 1 min, then 2 min
+    assert len(sess.calls) == 3
+
+
+def test_usage_header_near_limit_slows_down_before_being_blocked(clock):
+    c, _ = client([(lambda me, u, p: u.endswith("/1"),
+                    Resp(200, {"id": "1"}, {"x-app-usage": '{"call_count": 97, "total_time": 10, "total_cputime": 5}'})),
+                   (lambda me, u, p: u.endswith("/2"), Resp(200, {"id": "2"}))])
+    c.get("1")
+    c.get("2")
+    assert sum(clock.slept) >= 300
+    assert m._max_usage('{"123": [{"call_count": 40, "total_time": 91}]}') == 91
+
+
+def test_prefetch_lists_account_videos_and_images_so_no_per_file_calls(clock):
+    c, sess = client([
+        (lambda me, u, p: u.endswith("/act_123/advideos"),
+         Resp(200, {"data": [{"id": "v1", "source": "https://cdn/v1.mp4", "length": 30}]})),
+        (lambda me, u, p: u.endswith("/act_123/adimages"), Resp(200, {"data": [{"hash": "h1", "url": "https://cdn/h1.jpg"}]})),
+    ])
+    c.prefetch_media()
+    n = len(sess.calls)
+    assert c.video_info("v1")["source"] == "https://cdn/v1.mp4"
+    assert c.image_urls(["h1"]) == {"h1": "https://cdn/h1.jpg"}
+    assert len(sess.calls) == n  # served from the prefetch
+    clock.now += 46 * 60  # file links expire: an old entry is fetched again
+    sess.script.append((lambda me, u, p: u.endswith("/v1"), Resp(200, {"id": "v1", "source": "https://cdn/v1b.mp4"})))
+    assert c.video_info("v1")["source"] == "https://cdn/v1b.mp4"

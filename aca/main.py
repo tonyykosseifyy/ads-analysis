@@ -16,6 +16,8 @@ import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
+import requests
+
 from .config import Settings
 from .meta import MetaClient, MetaError
 from .parse import MediaRef, ad_copy, market_for, metrics_from_insight, product_for, resolve_media
@@ -81,7 +83,15 @@ def download_media(meta: MetaClient, ref: MediaRef, work: Path) -> tuple[Path, d
                 continue
             if v.get("source"):
                 info.update(video_id=vid, length_s=v.get("length"), permalink=v.get("permalink_url"))
-                return meta.download(v["source"], work / f"{slug(ref.key)}.mp4"), info
+                dest = work / f"{slug(ref.key)}.mp4"
+                try:
+                    return meta.download(v["source"], dest), info
+                except requests.HTTPError:
+                    # the signed file link may have expired since it was listed: ask for a new one
+                    v = meta.video_info(vid, fresh=True)
+                    if v.get("source"):
+                        return meta.download(v["source"], dest), info
+                    raise
         if not ref.ig_fallback:
             raise MetaError("video file not available to this token: " + "; ".join(info.get("errors", [])))
         ig_id = ref.ig_fallback
@@ -152,6 +162,8 @@ def analyze_all(settings: Settings, meta: MetaClient, store: Store, ads: list[di
     stats["stopped_for_budget"] = 0
     started = PROCESS_START
     settings.work_dir.mkdir(parents=True, exist_ok=True)
+    if todo and hasattr(meta, "prefetch_media"):
+        meta.prefetch_media()
 
     def work(key: str) -> str:
         if (time.time() - started) / 60 > settings.max_minutes:
