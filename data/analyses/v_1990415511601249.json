@@ -1,0 +1,287 @@
+{
+ "media_key": "v_1990415511601249",
+ "analyzed_at": "2026-11-28T11:53:13+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "c03ee69be632b1adc9579d87d43ed792dc93a7de4f1058671af01ce466675db3",
+ "source": {
+  "kind": "video",
+  "id": "1990415511601249",
+  "source": "manual file"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 29.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A festival GRWM lifestyle video where the creator uses the Wavytalk Blowout Boost thermal brush to finish her hair styling before heading to the festival.",
+  "full_description": "The video opens as an Aegis Festival GRWM transition reel. The creator checks off her outfit, boots, and makeup with loading progress bar overlays. When she claims she is 'Ready', a glitchy red warning screen interrupts with 'READY WHO? YOUR HAIR!!'. She then presents the pink Wavytalk Blowout Boost thermal brush, turns it on to show the digital temperature display, combs her hair, and curls sections with the thermal round brush to create voluminous, bouncy waves. After inspecting and showing off her styled hair from the front and back, she grabs her festival tote bag and heads outdoors to the festival at night.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 0.9,
+    "text": "Aegis Festival Day #1\nGRWM",
+    "role": "hook"
+   },
+   {
+    "start_s": 0.9,
+    "end_s": 1.8,
+    "text": "Outfit ✅",
+    "role": "other"
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 2.8,
+    "text": "Shoes ✅",
+    "role": "other"
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 3.8,
+    "text": "Make up ✅",
+    "role": "other"
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 4.9,
+    "text": "Ready ✅",
+    "role": "other"
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 6.6,
+    "text": "READY WHO?\nWarning\nYOUR HAIR!!",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 0.9,
+    "shot_type": "medium full shot",
+    "visual": "Creator standing in her room tossing festival clothes onto the floor",
+    "action": "Creator prepares festival outfit",
+    "product_visible": false
+   },
+   {
+    "start_s": 0.9,
+    "end_s": 1.8,
+    "shot_type": "medium shot",
+    "visual": "Creator holding up a sequined crochet top",
+    "action": "Showing outfit piece to camera",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 2.8,
+    "shot_type": "full shot",
+    "visual": "Creator wearing the top and denim skirt, kicking her boot towards the camera",
+    "action": "Displaying shoes",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 3.8,
+    "shot_type": "close-up",
+    "visual": "Creator applying makeup powder with a brush wearing a headband",
+    "action": "Applying makeup",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 4.9,
+    "shot_type": "medium shot",
+    "visual": "Creator framing her face with hands posing as 'Ready'",
+    "action": "Posing completed makeup and outfit",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 6.6,
+    "shot_type": "medium shot with graphic overlay",
+    "visual": "Glitch effect with computer warning pop-up box and red warning tint",
+    "action": "Warning interrupt highlighting unstyled hair",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.6,
+    "end_s": 7.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the pink Wavytalk thermal brush next to her face and smiling",
+    "action": "Introducing product to camera",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.7,
+    "end_s": 9.4,
+    "shot_type": "close-up product shot",
+    "visual": "Hand holding the Wavytalk Blowout Boost thermal brush showing the digital LCD screen lighting up and product packaging in background",
+    "action": "Powering on device and displaying temperature",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.4,
+    "end_s": 10.6,
+    "shot_type": "back view medium shot",
+    "visual": "Creator brushing the back of her long dark hair with a paddle brush",
+    "action": "Detangling hair before heat styling",
+    "product_visible": false
+   },
+   {
+    "start_s": 10.6,
+    "end_s": 15.5,
+    "shot_type": "medium shot",
+    "visual": "Creator rolling a strand of hair around the heated barrel and unwinding it into a defined curl",
+    "action": "Curling hair strand with Wavytalk Blowout Boost",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.5,
+    "end_s": 17.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator smiling excitedly at the fresh curl and gesturing towards it",
+    "action": "Admiring curl result",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.0,
+    "end_s": 20.8,
+    "shot_type": "side profile mirror shot",
+    "visual": "Creator styling upper front layers using the thermal brush",
+    "action": "Styling front section and smoothing ends",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 24.9,
+    "shot_type": "medium shot front and back",
+    "visual": "Creator running fingers through bouncy blowout curls, then turning to showcase the voluminous back",
+    "action": "Revealing full final hairstyle",
+    "product_visible": false
+   },
+   {
+    "start_s": 24.9,
+    "end_s": 26.6,
+    "shot_type": "medium shot",
+    "visual": "Creator holding an Aegis festival tote bag and fluffing her styled hair in mirror",
+    "action": "Showing festival accessories",
+    "product_visible": false
+   },
+   {
+    "start_s": 26.6,
+    "end_s": 29.5,
+    "shot_type": "POV and outdoor medium shot",
+    "visual": "POV walking outside holding water bottle, followed by creator dancing and posing at the festival at night",
+    "action": "Enjoying the festival with styled hair",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator standing in her bedroom holding clothes with a GRWM sticker overlay for Aegis Festival Day #1",
+   "visual_0_3s": "Fast montage of getting ready steps: outfit, boots, and makeup",
+   "spoken_0_3s": "",
+   "text_0_3s": "Aegis Festival Day #1 GRWM / Outfit ✅ / Shoes ✅",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Glitch transition with Windows pop-up warning sound/graphic reading 'READY WHO? Warning YOUR HAIR!!' at 0:05"
+  },
+  "structure": {
+   "format": "grwm_lifestyle",
+   "narrative_beats": [
+    "GRWM festival preparation checklist (outfit, shoes, makeup)",
+    "Pattern interrupt warning that hair is not done",
+    "Product showcase and power-on temperature display",
+    "Demo styling hair with heated thermal brush",
+    "Reaction and reveal of finished voluminous curls",
+    "Lifestyle payoff at the festival event"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "easy_for_beginners",
+    "volume_and_bounce",
+    "travel_or_on_the_go"
+   ],
+   "key_claims": [
+    "Creates quick salon-quality blowout waves for event styling",
+    "Easy glide thermal round brush with ionic technology"
+   ],
+   "pain_points": [
+    "Incomplete look when outfit and makeup are ready but hair is flat and messy"
+   ],
+   "objections_handled": [
+    "Can it curl long thick hair quickly and neatly without tangling?"
+   ],
+   "social_proof": [
+    "Creator's visible delight and glossy finished curls"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 6.6,
+   "first_used_on_hair_s": 10.6,
+   "final_result_shown_s": 20.8,
+   "demo_clarity": "partial",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, dark brown, slightly straight with unstyled, flat ends",
+   "hair_after": "Voluminous, shiny blowout curls with curled ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "upbeat, trendy, energetic, playful"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat dance/pop music track with female vocals ('I love it and I do it all again...') and a warning alert sound effect at the glitch transition",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 12,
+   "avg_shot_length_s": 2.46,
+   "pacing": "fast",
+   "effects": [
+    "text overlay animation",
+    "progress bar graphics",
+    "glitch transition",
+    "warning pop-up graphic",
+    "color filter tint"
+   ],
+   "ending": "Creator smiling and posing outdoors at night at the Aegis Festival"
+  },
+  "notes": "Music-only UGC lifestyle ad framed as an event 'GRWM' (Get Ready With Me). Relies on visual storytelling and beat-synced editing rather than voiceover or price incentives."
+ }
+}

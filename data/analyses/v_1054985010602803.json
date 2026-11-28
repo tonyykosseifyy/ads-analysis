@@ -1,0 +1,676 @@
+{
+ "media_key": "v_1054985010602803",
+ "analyzed_at": "2026-11-28T11:53:37+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "da3208b26e11a375e7d1053107934875fffde14aafefd74e8243614da7876f1d",
+ "source": {
+  "kind": "video",
+  "id": "1054985010602803",
+  "source": "manual file"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 81.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator addresses hate comments about her previously poorly styled hair, introducing and demonstrating the Wavytalk Blowout Boost thermal brush step-by-step to achieve bouncy curls.",
+  "full_description": "A young female creator in her bedroom talks to the camera about over 3,000 people criticizing her hair in a previous video. She explains her struggle with traditional blowdryers and round brushes, then unboxes and demonstrates the Wavytalk Blowout Boost thermal brush. She styles her hair section by section, demonstrating how easy and silent it is, and finishes by showing off bouncy, glossy blowout curls while posing to music.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Levantine (Lebanese)",
+   "approx_share_pct": {
+    "ar": 88,
+    "en": 12,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "ar",
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "يعني أكثر من",
+    "text_english": "I mean more than"
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 2.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "3000 شخص",
+    "text_english": "3,000 people"
+   },
+   {
+    "start_s": 2.6,
+    "end_s": 4.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "انتقدوا شعري؟!",
+    "text_english": "criticized my hair?!"
+   },
+   {
+    "start_s": 5.7,
+    "end_s": 8.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "يعني بفهمكم للصراحة شوي",
+    "text_english": "I mean to be honest I kind of understand you"
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 12.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بدي أعترف لكم أنا مشكلتي ما بعرف أعمل blow out",
+    "text_english": "I have to admit to you, my problem is I don't know how to do a blowout"
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 16.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "بالسشوار القديم مع المشاطة كل واحدة بتيجي بإيد",
+    "text_english": "with the old hairdryer and round brush, each in one hand"
+   },
+   {
+    "start_s": 16.8,
+    "end_s": 18.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "ما بعرف كيف",
+    "text_english": "I don't know how"
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 20.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "فشوفوا الحل اللي لقيته لأعمل blow out بالبيت",
+    "text_english": "So look at the solution I found to do a blowout at home"
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 22.3,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "ورح جربها معكم",
+    "text_english": "and I'm going to try it with you"
+   },
+   {
+    "start_s": 22.4,
+    "end_s": 25.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "هيدي الـ Wavytalk ionic thermal brush",
+    "text_english": "This is the Wavytalk ionic thermal brush"
+   },
+   {
+    "start_s": 25.2,
+    "end_s": 28.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وبيجي مع الـ thermal brush مشاطة وهاو الـ clips",
+    "text_english": "and it comes with the thermal brush a comb and these clips"
+   },
+   {
+    "start_s": 28.7,
+    "end_s": 31.6,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "رح بلش بالشعر اللي وراء",
+    "text_english": "I will start with the hair in the back"
+   },
+   {
+    "start_s": 34.6,
+    "end_s": 37.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "شوفوا شو حلوة، guys هاي أول تجربة",
+    "text_english": "Look how pretty, guys this is the first try"
+   },
+   {
+    "start_s": 37.4,
+    "end_s": 40.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "صراحة أجمل شيء إنه ما إلها صوت",
+    "text_english": "Honestly the best thing is that it has no sound"
+   },
+   {
+    "start_s": 40.2,
+    "end_s": 42.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is so relaxing",
+    "text_english": "This is so relaxing"
+   },
+   {
+    "start_s": 42.1,
+    "end_s": 44.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "شو حلوين، look! حبيتهم, I love them",
+    "text_english": "So pretty, look! I loved them, I love them"
+   },
+   {
+    "start_s": 45.4,
+    "end_s": 49.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "حطيته على low heat وعم جرب أكثر من طريقة to curl",
+    "text_english": "I put it on low heat and I'm trying more than one way to curl"
+   },
+   {
+    "start_s": 49.8,
+    "end_s": 52.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Oh nice! شو حلو!",
+    "text_english": "Oh nice! So pretty!"
+   },
+   {
+    "start_s": 53.0,
+    "end_s": 56.4,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "هيدا الشيء كثير سهل، أنا ما بعرف ليه كنت معقدة حياتي",
+    "text_english": "This thing is so easy, I don't know why I was complicating my life"
+   },
+   {
+    "start_s": 57.5,
+    "end_s": 59.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "خلص أنا صرت expert شوفوا كيف",
+    "text_english": "That's it, I've become an expert, look how"
+   },
+   {
+    "start_s": 60.0,
+    "end_s": 63.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بتنزلوا أول شيء straight بعدين بتلفوها",
+    "text_english": "You go down first straight, then you wrap it"
+   },
+   {
+    "start_s": 63.4,
+    "end_s": 66.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "كل ما بدكم إياها تكون curly أكثر، كل ما بتلفوها أكثر",
+    "text_english": "The curlier you want it to be, the more you wrap it"
+   },
+   {
+    "start_s": 67.8,
+    "end_s": 69.2,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "ليكو شو حلوين",
+    "text_english": "Look how pretty they are"
+   },
+   {
+    "start_s": 69.3,
+    "end_s": 72.8,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "ظل في الشعر اللي قدام، راح أفرق على جنب وأعملهم",
+    "text_english": "Only the front hair is left, I'm going to part it to the side and do them"
+   },
+   {
+    "start_s": 74.4,
+    "end_s": 77.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "شوفوا الـ final look، عن جد شو حلو!",
+    "text_english": "Look at the final look, honestly so pretty!"
+   }
+  ],
+  "transcript_full_original": "يعني أكثر من 3000 شخص انتقدوا شعري؟! يعني بفهمكم للصراحة شوي بدي أعترف لكم أنا مشكلتي ما بعرف أعمل blow out بالسشوار القديم مع المشاطة كل واحدة بتيجي بإيد، ما بعرف كيف فشوفوا الحل اللي لقيته لأعمل blow out بالبيت ورح جربها معكم. هيدي الـ Wavytalk ionic thermal brush وبيجي مع الـ thermal brush مشاطة وهاو الـ clips رح بلش بالشعر اللي وراء شوفوا شو حلوة، guys هاي أول تجربة صراحة أجمل شيء إنه ما إلها صوت This is so relaxing شو حلوين، look! حبيتهم, I love them حطيته على low heat وعم جرب أكثر من طريقة to curl Oh nice! شو حلو! هيدا الشيء كثير سهل، أنا ما بعرف ليه كنت معقدة حياتي خلص أنا صرت expert شوفوا كيف بتنزلوا أول شيء straight بعدين بتلفوها كل ما بدكم إياها تكون curly أكثر، كل ما بتلفوها أكثر ليكو شو حلوين ظل في الشعر اللي قدام، راح أفرق على جنب وأعملهم شوفوا الـ final look، عن جد شو حلو!",
+  "transcript_full_english": "I mean more than 3,000 people criticized my hair?! I mean to be honest I kind of understand you. I have to admit to you, my problem is I don't know how to do a blowout with the old hairdryer and round brush, each in one hand, I don't know how. So look at the solution I found to do a blowout at home, and I'm going to try it with you. This is the Wavytalk ionic thermal brush, and it comes with the thermal brush a comb and these clips. I will start with the hair in the back. Look how pretty, guys this is the first try. Honestly the best thing is that it has no sound. This is so relaxing. So pretty, look! I loved them, I love them. I put it on low heat and I'm trying more than one way to curl. Oh nice! So pretty! This thing is so easy, I don't know why I was complicating my life. That's it, I've become an expert, look how: you go down first straight, then you wrap it. The curlier you want it to be, the more you wrap it. Look how pretty they are. Only the front hair is left, I'm going to part it to the side and do them. Look at the final look, honestly so pretty!",
+  "word_count": 139,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "text": "يعني أكثر من",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 2.5,
+    "text": "3000 شخص",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 4.5,
+    "text": "S\nالشعر\n3,970 Reply",
+    "role": "hook"
+   },
+   {
+    "start_s": 2.6,
+    "end_s": 4.5,
+    "text": "انتقدو شعري؟!!",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.6,
+    "end_s": 5.6,
+    "text": "?!",
+    "role": "hook"
+   },
+   {
+    "start_s": 5.7,
+    "end_s": 7.1,
+    "text": "يعني بفهمكن",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.1,
+    "end_s": 8.1,
+    "text": "للصراحة شوي",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 11.2,
+    "text": "بدي اعترفلكن أنا مشكلتي",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 12.8,
+    "text": "ما بعرف اعمل Blow out",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 14.2,
+    "text": "بالسشوار القديم",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.2,
+    "end_s": 15.2,
+    "text": "مع المشاطة",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.2,
+    "end_s": 16.5,
+    "text": "كل وحده بتيجي بإيد",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.8,
+    "end_s": 18.0,
+    "text": "ما بعرف كيف",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 19.3,
+    "text": "فشوفوا الحل اللي لقيته",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.3,
+    "end_s": 20.8,
+    "text": "لأعمل Blow out بالبيت",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 22.3,
+    "text": "ورح جربها معكم",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.4,
+    "end_s": 25.1,
+    "text": "هايدي ال WAVY TALK Ionic Thermal brush",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.2,
+    "end_s": 26.5,
+    "text": "وبيجي مع ال Thermal brush",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 27.4,
+    "text": "مشاطة",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 27.4,
+    "end_s": 28.5,
+    "text": "وهاو الملاقط",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 28.7,
+    "end_s": 31.6,
+    "text": "رح بلش بالشعر اللي ورا",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 34.6,
+    "end_s": 36.1,
+    "text": "شوفوا شو حلوة",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 36.1,
+    "end_s": 37.1,
+    "text": "هاي أول تجربة",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 37.4,
+    "end_s": 40.0,
+    "text": "صراحة أجمل شيء إنه ما إلها صوت",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 40.2,
+    "end_s": 42.1,
+    "text": "استعمالها مريح نفسياً",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 42.1,
+    "end_s": 43.1,
+    "text": "شو حلوين",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 43.1,
+    "end_s": 44.0,
+    "text": "شوفو",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 44.0,
+    "end_s": 44.9,
+    "text": "حبيتهم",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 45.4,
+    "end_s": 47.0,
+    "text": "حرارة منخفضة",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 47.0,
+    "end_s": 48.5,
+    "text": "وعم جرب أكثر من طريقة",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 48.5,
+    "end_s": 49.3,
+    "text": "لأعمل كيرلي",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 49.8,
+    "end_s": 51.5,
+    "text": "Oh niiice 🤭 شو حلوو!!",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 53.0,
+    "end_s": 54.5,
+    "text": "هذا الشيء كتير سهل",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 54.5,
+    "end_s": 56.4,
+    "text": "معقدة حياتي",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 57.5,
+    "end_s": 59.9,
+    "text": "خلاص أنا صرت خبيرة شوفوا كيف",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 60.0,
+    "end_s": 61.8,
+    "text": "بتنزلها أول شيء",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 61.8,
+    "end_s": 63.3,
+    "text": "بعدين بتلفوها",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 63.4,
+    "end_s": 65.2,
+    "text": "كل ما بدكم إياها تكون",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 65.2,
+    "end_s": 66.8,
+    "text": "كيرلي أكثر كل ما بتلفوها أكثر",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 67.8,
+    "end_s": 69.2,
+    "text": "ليكو شو حلوين",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 69.3,
+    "end_s": 70.8,
+    "text": "ظل في الشعر اللي قدام",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 70.8,
+    "end_s": 72.8,
+    "text": "راح أفرق على جنب وأعملهم",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 74.4,
+    "end_s": 75.8,
+    "text": "شوفوا الفاينل لوك",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 75.8,
+    "end_s": 77.0,
+    "text": "عن جد شو حلو!!",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 9.5,
+    "shot_type": "medium shot",
+    "visual": "Female creator in a navy blue top in her bedroom reacting with playful shock to a negative comment overlay.",
+    "action": "Talking directly to camera, showing a TikTok comment with SpongeBob meme criticizing her hair, then laughing while showing a polaroid photo of her previous hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 17.8,
+    "shot_type": "medium shot",
+    "visual": "Creator holding up a traditional black and red blowdryer.",
+    "action": "Explaining her struggle with coordinating a hairdryer and a round brush at the same time.",
+    "product_visible": false
+   },
+   {
+    "start_s": 17.8,
+    "end_s": 28.5,
+    "shot_type": "medium shot / product reveal",
+    "visual": "Creator holding the Wavytalk Blowout Boost box, then unboxing the thermal brush, pink detangling brush, and clips.",
+    "action": "Shows the packaging, holds up the tool to the camera, and introduces accessories.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 37.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator sectioning hair and curling a bottom strand with the thermal brush.",
+    "action": "Pins her hair up, rolls a strand into the brush, releases it, and inspects the curl with amazement.",
+    "product_visible": true
+   },
+   {
+    "start_s": 37.1,
+    "end_s": 45.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the other side of her lower hair.",
+    "action": "Demonstrates curling smoothly, highlighting that it makes zero motor noise, then shows the bouncy curls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 45.1,
+    "end_s": 57.0,
+    "shot_type": "medium shot",
+    "visual": "Creator working on middle layers of hair on low heat setting.",
+    "action": "Curling another section, laughing in excitement at the result, talking about how effortless it is.",
+    "product_visible": true
+   },
+   {
+    "start_s": 57.0,
+    "end_s": 67.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator demonstrating curling technique on upper hair layer.",
+    "action": "Explains pulling straight first, then rolling up to get volume and curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 67.5,
+    "end_s": 73.9,
+    "shot_type": "medium shot",
+    "visual": "Creator inspecting styled hair, then sectioning front bangs.",
+    "action": "Shows finished mid-lengths, parts front bangs, and curls them outward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 73.9,
+    "end_s": 81.8,
+    "shot_type": "medium shot / glam showcase",
+    "visual": "Creator flaunting her finished blowout hairstyle.",
+    "action": "Raking fingers through her hair, flipping hair, posing, smiling, and turning around to energetic music.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera talking with animated hands in a bedroom.",
+   "visual_0_3s": "Creator talking with expressive reaction, followed by a TikTok comment popup showing a SpongeBob meme criticizing her hair.",
+   "spoken_0_3s": "يعني أكثر من 3000 شخص انتقدوا شعري؟! (I mean more than 3,000 people criticized my hair?!)",
+   "text_0_3s": "يعني أكثر من 3000 شخص انتقدو شعري؟!!",
+   "hook_type": "reaction",
+   "hook_type_secondary": "story",
+   "pattern_interrupt": "A visual TikTok hate comment sticker pops up with dramatic sound effect, followed by a photo of her bad hair day."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook addressing viral criticism / bad hair day comment",
+    "Agreed problem: cannot coordinate standard hairdryer + round brush",
+    "Solution presentation: Wavytalk Blowout Boost unboxing",
+    "First attempt & immediate reaction to silent operation",
+    "Step-by-step technique breakdown (straight pull then roll)",
+    "Final transformation glam showcase"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "easy_for_beginners",
+    "quiet_or_gentle",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Replaces the awkward coordination of hairdryer and round brush",
+    "Silent operation / relaxing to use",
+    "Easy blowout at home on low heat without complications"
+   ],
+   "pain_points": [
+    "Difficulty managing a hair dryer in one hand and round brush in another",
+    "Getting roasted in comments for frizzy or unstyled hair",
+    "Overcomplicating hair routines"
+   ],
+   "objections_handled": [
+    "Too complicated to use: shows it is simple even on first try",
+    "Loud blowdryer noise: points out it has no motor sound",
+    "Heat damage: mentions using low heat setting"
+   ],
+   "social_proof": [
+    "Addresses real TikTok comments criticizing hair to establish relatability"
+   ],
+   "comparison_to": "Traditional hair dryer combined with separate round brush"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Ionic Thermal Brush"
+   ],
+   "first_seen_s": 18.2,
+   "first_used_on_hair_s": 31.8,
+   "final_result_shown_s": 74.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Dark brown/black, medium-to-long, straight with slight frizz/fuzz",
+   "hair_after": "Voluminous, shiny, bouncy blowout curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, energetic, candid, cheerful"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Soft light background beat during demo, transitioning to upbeat Arabic pop music during the final glam reveal",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 5.8,
+   "pacing": "medium",
+   "effects": [
+    "comment sticker overlay",
+    "polaroid photo overlay with emoji sticker",
+    "comedic sound effects (whoosh, gasp sound)",
+    "burned-in Arabic subtitle typography"
+   ],
+   "ending": "Creator twirls and waves goodbye to the camera while showing her voluminous styled hair."
+  },
+  "notes": "Authentic creator story-driven UGC starting from a real/relatable hate comment about her styling skills, serving as an organic problem-solution setup for the Wavytalk thermal brush."
+ }
+}
