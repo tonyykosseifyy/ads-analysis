@@ -1,0 +1,209 @@
+{
+ "media_key": "v_1631871388291281",
+ "analyzed_at": "2026-11-28T00:11:36+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "2a23bd3852528ef5fe2bb5b02bacdc3264cb6b09d27e6fd72e8f8250cd3f8bb0",
+ "source": {
+  "kind": "video",
+  "id": "1631871388291281",
+  "video_id": "1678762800433807",
+  "length_s": 19.598,
+  "permalink": "/23849366283980795/videos/1678762800433807/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 19.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates achieving a 90s Rachel Green layered blowout in under 5 minutes using a thermal round brush.",
+  "full_description": "The video starts with the creator pointing to an image overlay of Jennifer Aniston as Rachel Green from Friends, hooked with the text 'Rachel Green Hair In under 5 mins'. She then shows the pink and bronze thermal round brush (Blowout Boost) and demonstrates rolling her face-framing front layers and side layers inward to achieve bouncy, flipped-under volume. The video concludes with her fluffing her hair and admiring the styled, voluminous final look to a trending remix of 'I'm Every Woman'.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.3,
+    "speaker": "audio_clip",
+    "language": "en",
+    "text_original": "Well, I was gonna, but I uh accidentally read something else.",
+    "text_english": "Well, I was gonna, but I uh accidentally read something else."
+   },
+   {
+    "start_s": 3.3,
+    "end_s": 4.1,
+    "speaker": "second_audio_clip",
+    "language": "en",
+    "text_original": "What?",
+    "text_english": "What?"
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 5.3,
+    "speaker": "audio_clip",
+    "language": "en",
+    "text_original": "Vogue.",
+    "text_english": "Vogue."
+   }
+  ],
+  "transcript_full_original": "Well, I was gonna, but I uh accidentally read something else. What? Vogue.",
+  "transcript_full_english": "Well, I was gonna, but I uh accidentally read something else. What? Vogue.",
+  "word_count": 12,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "text": "Rachel Green |",
+    "role": "hook"
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 3.2,
+    "text": "Rachel Green Hair\nIn under 5 mins",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "shot_type": "medium shot",
+    "visual": "Creator pointing down toward an inset picture of Rachel Green (Jennifer Aniston in Friends).",
+    "action": "Creator poses and points down to the photo reference while text appears above.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 4.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds up the pink and bronze thermal round brush facing the camera.",
+    "action": "Creator presents the styling brush to the viewer.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.2,
+    "end_s": 9.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator sectioning and styling front face-framing strands with the thermal brush.",
+    "action": "Creator wraps front strand around the heated barrel and twists under, rolling down to create an inward flip.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.4,
+    "end_s": 15.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling side layer section with the thermal round brush.",
+    "action": "Creator smoothly glides the thermal brush down a side strand and curls the ends inward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.4,
+    "end_s": 19.8,
+    "shot_type": "medium shot",
+    "visual": "Creator showing off the finished voluminous layered hairstyle.",
+    "action": "Creator runs hands through her hair, shakes it out, and poses confidently with hands on hips.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator pointing down at an image cutout of Jennifer Aniston as Rachel Green with 'Rachel Green |' text overlay.",
+   "visual_0_3s": "Creator points at Rachel Green image, switches text to 'Rachel Green Hair In under 5 mins', and holds up the thermal brush.",
+   "spoken_0_3s": "Well, I was gonna, but I uh accidentally read something else.",
+   "text_0_3s": "Rachel Green Hair In under 5 mins",
+   "hook_type": "trend_or_sound",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Inset meme-style photo reference of Rachel Green combined with viral Devil Wears Prada sound clip."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Pop-culture hook referencing the Rachel Green blowout haircut",
+    "Product showcase",
+    "Step-by-step demonstration on front face-framing layers",
+    "Demonstration on side layers",
+    "Final hairstyle reveal and posing"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "saves_time",
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Rachel Green hair in under 5 minutes",
+    "Achieve 90s bouncy layered blowout at home"
+   ],
+   "pain_points": [
+    "Blowouts taking too much time",
+    "Difficulty recreating 90s layered volume at home"
+   ],
+   "objections_handled": [
+    "Fast and easy to do in under 5 minutes"
+   ],
+   "social_proof": [
+    "Trending iconic 90s Rachel Green haircut aesthetic"
+   ],
+   "comparison_to": "Iconic Rachel Green 90s layered salon blowout"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 2.1,
+   "first_used_on_hair_s": 4.5,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-28",
+   "hair_before": "Dark brown/black long layered hair with flipped-under curls",
+   "hair_after": "Voluminous, shiny 90s Rachel Green inward-curled layered blowout",
+   "setting": "living room",
+   "faces_camera": true,
+   "energy_tone": "confident, stylish, trendy"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Trending audio clip featuring dialogue from The Devil Wears Prada ('Well, I was gonna, but I accidentally read something else. What? Vogue.') transitioning into 'I'm Every Woman' by Chaka Khan.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 3.96,
+   "pacing": "fast",
+   "effects": [
+    "picture-in-picture image overlay",
+    "text overlay"
+   ],
+   "ending": "Creator stands with hands on hips, smiling and looking into the camera with voluminous layered hair."
+  },
+  "notes": "Short aesthetic TikTok/Reels style video using pop-culture reference (Rachel Green from Friends) and trending sound to demo the WavyTalk Blowout Boost thermal round brush without speaking."
+ }
+}

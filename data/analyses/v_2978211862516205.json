@@ -1,0 +1,207 @@
+{
+ "media_key": "v_2978211862516205",
+ "analyzed_at": "2026-11-28T00:09:55+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "531cfb1e70c29f55574b9ca456e037c9dfafc423a0e5cf10d587a94ad28a7857",
+ "source": {
+  "kind": "video",
+  "id": "2978211862516205",
+  "video_id": "2008916719802441",
+  "length_s": 51.199,
+  "permalink": "/23849366283980795/videos/2008916719802441/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 50.6,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Silent aesthetic UGC tutorial demonstrating how to achieve a bouncy salon blowout on naturally curly hair using the Wavytalk thermal round brush.",
+  "full_description": "The video starts with a young woman displaying her naturally curly dark hair before presenting the pink Wavytalk thermal brush (Blowout Boost) to the camera. She applies hair oil, combs through a section, and begins demonstrating step-by-step how she styles her hair into smooth, voluminous curls section by section. After curling the bottom, middle, and crown layers, she styles her curtain bangs and sets them with pin clips. Once she takes the clips down, she shakes out and fluffs a glossy, bouncy 90s-style blowout, smiling and blowing a kiss to the camera. The video has no speech and is set entirely to a viral acoustic music cover.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing camera in bedroom setting, fluffing her naturally curly dark hair.",
+    "action": "Creator shakes out and fluffs her hair with both hands to display the natural curly texture before styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 3.0,
+    "shot_type": "close-up",
+    "visual": "Creator holding the pink Wavytalk thermal round brush close to the lens.",
+    "action": "Creator displays the tool front and back, showcasing the barrel bristles and brand logo.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 7.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator clips the top of her hair up and holds a bottle of hair oil.",
+    "action": "Creator dispenses hair serum onto her hands, works it through the bottom hair section, and combs it smooth.",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 13.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator smoothing and curling the lower right section of hair with the thermal brush.",
+    "action": "Creator glides the thermal brush down the strand and rolls it under, revealing a sleek curl and pointing to it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 21.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the lower left section.",
+    "action": "Creator rolls the thermal brush through the left strand, inspects the smooth bouncy curl, and turns her head to check the volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 28.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator letting down middle sections of hair.",
+    "action": "Creator curls through the mid-layers on both sides, beveling ends inward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.0,
+    "end_s": 35.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the crown/top section.",
+    "action": "Creator lifts the top section vertically with the brush and curls it backward for maximum root lift.",
+    "product_visible": true
+   },
+   {
+    "start_s": 35.0,
+    "end_s": 41.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling front fringe/bangs.",
+    "action": "Creator curls curtain bangs forward and under, then rolls the side bangs up and secures them with styling pin clips.",
+    "product_visible": true
+   },
+   {
+    "start_s": 41.5,
+    "end_s": 44.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator with clips in hair.",
+    "action": "Creator removes the pin clips from her bangs and checks the curl shape.",
+    "product_visible": false
+   },
+   {
+    "start_s": 44.0,
+    "end_s": 50.6,
+    "shot_type": "medium close-up",
+    "visual": "Finished bouncy blowout result.",
+    "action": "Creator runs fingers through her voluminous hair, fluffs out the curls, models the final look, and blows a kiss to the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator looking directly at camera with natural voluminous curls, hands in her hair.",
+   "visual_0_3s": "Creator fluffs natural curls, then quickly presents the pink Wavytalk thermal brush to the camera.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "product_reveal",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "Rapid transition from natural messy curls directly to presenting the styling tool close-up to the camera."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Natural curly hair state showcase",
+    "Tool and prep product introduction",
+    "Bottom section styling and curling",
+    "Mid and top sections volume building",
+    "Bangs shaping and pin-curl setting",
+    "Clip removal and final bouncy blowout reveal"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "frizz_or_curly_solution",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Transforms frizzy curls into a sleek bouncy blowout",
+    "Creates 90s-style salon volume at home easily"
+   ],
+   "pain_points": [
+    "Frizzy or unruly curls",
+    "Difficulty managing and styling curtain bangs and layers",
+    "Complicated blowout routines using traditional dryer and brush"
+   ],
+   "objections_handled": [
+    "Does it work on natural curls? Yes, completely straightens and smooths them."
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional salon blowouts or blow-dry brush styling"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush (Pink)"
+   ],
+   "first_seen_s": 1.2,
+   "first_used_on_hair_s": 7.5,
+   "final_result_shown_s": 44.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Shoulder-length, thick, naturally curly dark brown hair with slight frizz",
+   "hair_after": "Ultra-glossy, bouncy, smooth 90s-style layered blowout with turned-in curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Aesthetic, calm, confident, and trendy"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Acoustic cover of 'Creep' by Radiohead ('You're just like an angel, your skin makes me cry...')",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 3.6,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts",
+    "aesthetic lighting"
+   ],
+   "ending": "Creator playfully fluffs her voluminous blowout, smiles, and blows a kiss to the camera."
+  },
+  "notes": "Organic TikTok/Reels style GRWM hair tutorial repurposed as a paid ad without voiceover or added ad overlay text. Relies completely on aesthetic visual proof of transforming curly hair into a bouncy salon blowout."
+ }
+}

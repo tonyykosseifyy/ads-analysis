@@ -1,0 +1,221 @@
+{
+ "media_key": "v_1362731331859878",
+ "analyzed_at": "2026-11-28T00:12:48+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "8affc57044887b38ccac8e7f867953e8ea8a8cf7c999ec47940cbf1698a99223",
+ "source": {
+  "kind": "video",
+  "id": "1362731331859878",
+  "video_id": "1367219631503029",
+  "length_s": 23.242,
+  "permalink": "/23849366283980795/videos/1367219631503029/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 22.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A fast-paced UGC montage of multiple women demonstrating the Wavytalk Blowout Boost thermal brush with a 32% discount offer.",
+  "full_description": "The video is an energetic UGC compilation set to an upbeat pop track. It begins with a creator showing off massive, glossy, voluminous blowout curls at home. It then cuts through several creators demonstrating and showcasing results using the Wavytalk Blowout Boost thermal round brush—including styling for busy moms, combining with rollers, and gliding through hair. The video ends with a '32% Discount' sticker badge overlaid as creators admire their finished hair.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "text": "Easiest Blowout At Home",
+    "role": "hook"
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 8.4,
+    "text": "Smooth frizz + big bouncy volume in minutes",
+    "role": "benefit"
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 11.2,
+    "text": "FAST blow out look for tired moms",
+    "role": "benefit"
+   },
+   {
+    "start_s": 11.3,
+    "end_s": 14.8,
+    "text": "Wavytalk Blowout Boost with rollers combo unlocked",
+    "role": "brand"
+   },
+   {
+    "start_s": 18.7,
+    "end_s": 22.8,
+    "text": "32% Discount",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "shot_type": "medium close-up",
+    "visual": "A young brunette woman runs her hands through her thick, voluminous curled blowout in her bedroom.",
+    "action": "Running fingers through hair to show volume and bounce.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 8.4,
+    "shot_type": "medium close-up",
+    "visual": "Same creator unpinning a section of styled hair to demonstrate the curl hold and smooth finish, briefly flashing the brush at the bottom of the frame.",
+    "action": "Unclipping hair section and showing silky curl definition.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 11.2,
+    "shot_type": "medium close-up",
+    "visual": "A pregnant creator sitting in a living room wrapping hair around the pink Wavytalk thermal brush and smiling.",
+    "action": "Releasing a curled section from the heated round brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.3,
+    "end_s": 14.8,
+    "shot_type": "medium close-up",
+    "visual": "A brunette woman in a floral pink sweater shaking out large, airy bouncy curls.",
+    "action": "Fluffing her voluminous hair facing the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 14.9,
+    "end_s": 18.6,
+    "shot_type": "close-up",
+    "visual": "An Asian creator in a denim shirt rolling out a section of hair using the purple Wavytalk heated brush, then showing smooth bouncy waves.",
+    "action": "Twirling hair out of the heated barrel brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.7,
+    "end_s": 20.8,
+    "shot_type": "medium close-up",
+    "visual": "First creator back on screen shaking out hair with a '32% Discount' sticker.",
+    "action": "Admiring her voluminous finished blowout.",
+    "product_visible": false
+   },
+   {
+    "start_s": 20.9,
+    "end_s": 22.8,
+    "shot_type": "medium close-up",
+    "visual": "Pregnant creator enthusiastically kisses the pink Wavytalk brush with the '32% Discount' graphic.",
+    "action": "Kissing the styling tool and smiling into camera.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator shaking out giant, bouncy blowout curls with text 'Easiest Blowout At Home'.",
+   "visual_0_3s": "Voluminous, shiny salon-grade curls fluffed up directly in front of camera.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Easiest Blowout At Home",
+   "hook_type": "result_first",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Immediate high-contrast glamour result shot of extremely thick, glossy hair moving in slow bounce."
+  },
+  "structure": {
+   "format": "product_showcase",
+   "narrative_beats": [
+    "Show-stopping blowout hair results",
+    "Key benefits callout (anti-frizz and volume)",
+    "Target demographic use cases (tired moms, roller combo, effortless styling)",
+    "Multiple user social proof clips",
+    "Discount offer closing graphic"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "saves_time",
+    "easy_for_beginners",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Easiest blowout at home",
+    "Smooth frizz + big bouncy volume in minutes",
+    "FAST blow out look for tired moms",
+    "32% Discount"
+   ],
+   "pain_points": [
+    "Frizzy unmanageable hair",
+    "Lack of volume",
+    "Lack of time for busy moms to do hair"
+   ],
+   "objections_handled": [
+    "Takes too long: demonstrated as achievable in minutes",
+    "Hard to master: demonstrated as easy rolling motion"
+   ],
+   "social_proof": [
+    "Multiple distinct real creators demonstrating and celebrating results"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 4.1,
+   "first_used_on_hair_s": 8.5,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "32% Discount",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 4,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20s-30s",
+   "hair_before": "Wavy / curly / pinned sections",
+   "hair_after": "Glossy, voluminous, bouncy salon-style blowout curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Upbeat, confident, satisfied, celebratory"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Energetic pop/R&B track with female vocals singing 'Don't walk away...'",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 3.8,
+   "pacing": "fast",
+   "effects": [
+    "Graphic text overlays",
+    "Animated sticker badge"
+   ],
+   "ending": "Creator playfully kissing the brush with the 32% Discount sticker on screen."
+  },
+  "notes": "Ad is a multi-creator UGC compilation without voiceover, relying on visual hair transformations, music pacing, and text overlay hooks with a promotional discount sticker at the end."
+ }
+}

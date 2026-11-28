@@ -1,0 +1,517 @@
+{
+ "media_key": "v_1159707649845727",
+ "analyzed_at": "2026-11-28T00:21:31+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "11cd379242c70788d063c9cf4b521a3f98cf2065bfce72631a7bd3dd8b3bd7bd",
+ "source": {
+  "kind": "video",
+  "id": "1159707649845727",
+  "video_id": "2322593691865866",
+  "length_s": 48.853,
+  "permalink": "/23849366283980795/videos/2322593691865866/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 48.7,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator demonstrates how to achieve three different hairstyles—flicked ends, soft waves, and a bouncy blowout—using the Wavytalk Blowout Boost thermal round brush.",
+  "full_description": "The creator opens with a split hook highlighting three different hair looks achieved with the same tool: flicked ends, soft waves, and bouncy blowout. She introduces the pink Wavytalk thermal round brush and provides a step-by-step styling tutorial for each style (brushing outward for flicked ends, wrapping vertically for soft waves, placing under roots and rolling inward for a bouncy blowout). She then shows a close-up of the digital handle featuring 5 heat settings, explaining how it protects hair from heat damage, before showing off the final voluminous bouncy result and highlighting the 30-day money-back guarantee.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 80,
+    "en": 20,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "ar",
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Flicked ends, soft waves, وبـ bouncy blowout",
+    "text_english": "Flicked ends, soft waves, and bouncy blowout"
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 4.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "فيك تعملين كِلن بنفس الـ tool.",
+    "text_english": "you can do them all with the same tool."
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 8.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "كل مرة بيطلع عبالي غير my hairstyle، hairstyle عبالي اعمله...",
+    "text_english": "Every time I feel like changing my hairstyle, whatever hairstyle I feel like doing..."
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 12.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "كرمال هيك، جربت Wavytalk.",
+    "text_english": "That's why I tried Wavytalk."
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 16.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "كرمال الـ flicked ends، بمرّق الـ brush لبرا، وبعملن outwards.",
+    "text_english": "For flicked ends, I run the brush outward, and curl them outwards."
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 23.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "والفرق إنه لما لفّ الـ brush، بقدر اعملهن بطريقة يطلعوا soft waves.",
+    "text_english": "And the difference is when I twist the brush, I can make them come out as soft waves."
+   },
+   {
+    "start_s": 23.0,
+    "end_s": 30.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "للـ bouncy blowout، بحطها تحت الـ roots، وبلفّ لجوا. بيطلع لي الـ bouncy look.",
+    "text_english": "For the bouncy blowout, I place it under the roots, and wrap inward. I get that bouncy look."
+   },
+   {
+    "start_s": 30.2,
+    "end_s": 34.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "فيها 5 heat settings، فبتقدري تنقي الـ temperature اللي بدك ياها واللي بتناسب لشعرك.",
+    "text_english": "It has 5 heat settings, so you can choose the temperature you want that suits your hair."
+   },
+   {
+    "start_s": 34.5,
+    "end_s": 42.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "ولأني كتير بحب اعمل hairstyles ولإحمي شعري قد ما فيي، بنقي أنا الـ heat اللي كمان بيناسب لشعري.",
+    "text_english": "And because I really love doing hairstyles and want to protect my hair as much as possible, I pick the heat that also suits my hair."
+   },
+   {
+    "start_s": 42.0,
+    "end_s": 46.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وهيك هيدا الـ tool عطيكن الحرية تعملوا الـ style يلي عبالكن ياه.",
+    "text_english": "And that's how this tool gives you the freedom to do whatever style you feel like."
+   },
+   {
+    "start_s": 46.0,
+    "end_s": 48.7,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "وإذا بدك تقدري تغيريه، فيكي ترجعيها بـ 30 يوم.",
+    "text_english": "And if you want to be able to change your mind, you can return it within 30 days."
+   }
+  ],
+  "transcript_full_original": "Flicked ends, soft waves, وبـ bouncy blowout، فيك تعملين كِلن بنفس الـ tool. كل مرة بيطلع عبالي غير my hairstyle، hairstyle عبالي اعمله... كرمال هيك، جربت Wavytalk. كرمال الـ flicked ends، بمرّق الـ brush لبرا، وبعملن outwards. والفرق إنه لما لفّ الـ brush، بقدر اعملهن بطريقة يطلعوا soft waves. للـ bouncy blowout، بحطها تحت الـ roots، وبلفّ لجوا. بيطلع لي الـ bouncy look. فيها 5 heat settings، فبتقدري تنقي الـ temperature اللي بدك ياها واللي بتناسب لشعرك. ولأني كتير بحب اعمل hairstyles ولإحمي شعري قد ما فيي، بنقي أنا الـ heat اللي كمان بيناسب لشعري. وهيك هيدا الـ tool عطيكن الحرية تعملوا الـ style يلي عبالكن ياه. وإذا بدك تقدري تغيريه، فيكي ترجعيها بـ 30 يوم.",
+  "transcript_full_english": "Flicked ends, soft waves, and bouncy blowout, you can do them all with the same tool. Every time I feel like changing my hairstyle, whatever hairstyle I feel like doing... That's why I tried Wavytalk. For flicked ends, I run the brush outward, and curl them outwards. And the difference is when I twist the brush, I can make them come out as soft waves. For the bouncy blowout, I place it under the roots, and wrap inward. I get that bouncy look. It has 5 heat settings, so you can choose the temperature you want that suits your hair. And because I really love doing hairstyles and want to protect my hair as much as possible, I pick the heat that also suits my hair. And that's how this tool gives you the freedom to do whatever style you feel like. And if you want to be able to change your mind, you can return it within 30 days.",
+  "word_count": 128,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 0.9,
+    "text": "FLICKED ENDS",
+    "role": "hook"
+   },
+   {
+    "start_s": 0.9,
+    "end_s": 1.8,
+    "text": "SOFT WAVES",
+    "role": "hook"
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 3.0,
+    "text": "BOUNCY BLOWOUT",
+    "role": "hook"
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 4.4,
+    "text": "يعملن كلن بنفس الـ TOOL",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 6.4,
+    "text": "عبالي غير MY HAIR STYLE",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.5,
+    "end_s": 8.5,
+    "text": "عبالي اعمله",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.6,
+    "end_s": 9.8,
+    "text": "كرمال هيك",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.9,
+    "end_s": 12.0,
+    "text": "جربت WAVYTALK",
+    "role": "brand"
+   },
+   {
+    "start_s": 12.1,
+    "end_s": 13.5,
+    "text": "ENDS",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.6,
+    "end_s": 15.0,
+    "text": "لبرا BRUSH",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.1,
+    "end_s": 16.5,
+    "text": "وبعملهم OUTWARDS",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.6,
+    "end_s": 17.8,
+    "text": "والفرق إنه",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.9,
+    "end_s": 19.3,
+    "text": "BRUSH",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.4,
+    "end_s": 20.8,
+    "text": "بقدر أعملهم",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.9,
+    "end_s": 22.3,
+    "text": "يطلعوا SOFT",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.4,
+    "end_s": 23.5,
+    "text": "WAVES",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.6,
+    "end_s": 25.5,
+    "text": "بحطها تحت الـ ROOTS",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.6,
+    "end_s": 27.5,
+    "text": "وبلف لجوا",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 27.6,
+    "end_s": 29.5,
+    "text": "بيطلع لي الـ",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 29.6,
+    "end_s": 31.0,
+    "text": "LOOK",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 31.1,
+    "end_s": 32.5,
+    "text": "فيها 5 HEAT SETTINGS",
+    "role": "benefit"
+   },
+   {
+    "start_s": 32.6,
+    "end_s": 33.6,
+    "text": "فبتقدري تنقي الـ TEMPERATURE",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 33.7,
+    "end_s": 34.8,
+    "text": "إياها واللي بتناسب",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 34.9,
+    "end_s": 36.0,
+    "text": "لشعرك.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 36.1,
+    "end_s": 37.0,
+    "text": "بحب اعمل HAIR STYLES",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 37.1,
+    "end_s": 38.0,
+    "text": "ولإحمي شعري",
+    "role": "benefit"
+   },
+   {
+    "start_s": 38.1,
+    "end_s": 39.0,
+    "text": "قد ما فيي",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 39.1,
+    "end_s": 40.5,
+    "text": "يلي HEAT",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 40.6,
+    "end_s": 42.0,
+    "text": "بيناسب لشعري",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 42.5,
+    "end_s": 43.8,
+    "text": "TOOL وهيك هيدا",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 43.9,
+    "end_s": 44.8,
+    "text": "الحرية تعملوا",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 44.9,
+    "end_s": 45.8,
+    "text": "يلي STYLE",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 45.9,
+    "end_s": 46.8,
+    "text": "عبالكن ياه.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 46.9,
+    "end_s": 47.7,
+    "text": "واذا بدك تقدري تغيريه",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 47.8,
+    "end_s": 48.3,
+    "text": "فيكي ترجعيها",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 48.4,
+    "end_s": 48.7,
+    "text": "بـ 30 يوم.",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "shot_type": "medium close-up with PIP inset",
+    "visual": "Creator standing facing camera with her finished styled dark brown hair, with a picture-in-picture box cycling through three styling results: flicked ends, soft waves, and bouncy blowout.",
+    "action": "Creator gestures with her hands as text labels change to showcase the multi-styling versatility of the tool.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 12.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator has her hair clipped up half-way and holds the pink Wavytalk Blowout Boost thermal round brush near her head.",
+    "action": "She speaks to camera, wrapping a strand around the brush to introduce the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 16.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator demonstrating styling the ends of her hair.",
+    "action": "She brushes through the strand pulling outward to create flicked ends, then shows the result.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 23.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator demonstrating soft waves technique.",
+    "action": "She wraps hair vertically along the thermal brush barrel, twists it, slides it down, and fluffs a smooth soft wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.0,
+    "end_s": 30.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator demonstrating bouncy blowout technique.",
+    "action": "She places the brush under the roots, curves inward down the section, curls the end inward, and reveals a bouncy inward curve.",
+    "product_visible": true
+   },
+   {
+    "start_s": 30.2,
+    "end_s": 34.5,
+    "shot_type": "close-up",
+    "visual": "Close-up shot of the pink Wavytalk thermal brush handle showing digital LED display with temperature readouts and control buttons.",
+    "action": "Creator points her red-manicured fingernail at the LED temperature display while explaining the 5 heat settings.",
+    "product_visible": true
+   },
+   {
+    "start_s": 34.5,
+    "end_s": 42.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling her hair with the brush again.",
+    "action": "She glides the heated brush through mid-lengths to ends while discussing hair health and choosing the right temperature.",
+    "product_visible": true
+   },
+   {
+    "start_s": 42.0,
+    "end_s": 46.0,
+    "shot_type": "medium shot",
+    "visual": "Creator with full hair down, showing off smooth, voluminous, wavy results.",
+    "action": "She fluffs her styled hair, smiling confidently and looking at camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 46.0,
+    "end_s": 48.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator posing with finished hair while holding up the pink Wavytalk thermal brush next to her face.",
+    "action": "She smiles at the camera, presents the brush to the lens, and mentions the 30-day return policy.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator smiling directly into camera wearing a grey knit sweater, with a PIP window showing 'FLICKED ENDS'.",
+   "visual_0_3s": "Fast cycling picture-in-picture window showing 3 different hair styling finishes (flicked ends, soft waves, bouncy blowout).",
+   "spoken_0_3s": "Flicked ends, soft waves, وبـ bouncy blowout، فيك تعملين كِلن بنفس الـ tool.",
+   "text_0_3s": "FLICKED ENDS / SOFT WAVES / BOUNCY BLOWOUT",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Rapid PIP inset switching between three distinct styling results within the first 3 seconds."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: Showcasing 3 diverse hairstyles created with 1 single tool",
+    "Product introduction: Pink Wavytalk thermal round brush",
+    "Technique 1: Flicked ends demo",
+    "Technique 2: Soft waves demo",
+    "Technique 3: Bouncy blowout demo",
+    "Feature callout: 5 heat settings and heat damage prevention",
+    "Result reveal: Final bouncy salon-grade volume",
+    "Risk reversal CTA: 30-day money-back guarantee"
+   ],
+   "main_angle": "replaces_multiple_tools",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "salon_result_at_home",
+    "less_heat_damage"
+   ],
+   "key_claims": [
+    "Can achieve flicked ends, soft waves, and bouncy blowout with one tool",
+    "5 adjustable heat settings tailored to hair type",
+    "Protects hair from excessive heat damage",
+    "30-day return window"
+   ],
+   "pain_points": [
+    "Needing multiple styling tools to achieve different hairstyles",
+    "Heat damage from styling tools",
+    "Struggling to achieve salon blowouts and wave finishes at home"
+   ],
+   "objections_handled": [
+    "Fear of damaging hair (addressed via 5 adjustable heat settings)",
+    "Risk of buying online (addressed via 30-day return policy)",
+    "Difficulty of styling (step-by-step clear demonstration of 3 looks)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional single-purpose hair styling tools"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 4.5,
+   "first_used_on_hair_s": 5.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "30-day return policy",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "وإذا بدك تقدري تغيريه، فيكي ترجعيها بـ 30 يوم.",
+   "cta_on_screen": "بـ 30 يوم.",
+   "cta_at_s": 46.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Long, dark brown, straight/naturally sleek",
+   "hair_after": "Voluminous, styled with soft bouncy waves and curved ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Warm, cheerful, upbeat, instructional"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat lo-fi pop instrumental playing quietly under the creator's voice",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 5.4,
+   "pacing": "fast",
+   "effects": [
+    "PIP (picture-in-picture) video overlays",
+    "dynamic word-by-word bold text captions"
+   ],
+   "ending": "Creator smiles at camera holding the pink Wavytalk tool next to her cheek with full bouncy blowout hairstyle."
+  },
+  "notes": "Clear multi-use tutorial UGC video tailored for Lebanese consumers. Features prominent Lebanese Arabic dialect with customary English beauty terminology (flicked ends, soft waves, bouncy blowout, brush, roots, heat settings, hairstyle). Highlights Wavytalk's 30-day money-back guarantee at the close."
+ }
+}

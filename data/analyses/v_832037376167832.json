@@ -1,0 +1,196 @@
+{
+ "media_key": "v_832037376167832",
+ "analyzed_at": "2026-11-28T00:26:24+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "80129d987433a7b4994ab21103f6943e83e82406b2a4b7d4a188b89edaf638fc",
+ "source": {
+  "kind": "video",
+  "id": "832037376167832",
+  "video_id": "916862031372030",
+  "length_s": 25.771,
+  "permalink": "/23849366283980795/videos/916862031372030/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 25.4,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A mother transforms her young daughter's thick curly hair into a sleek, bouncy salon-style blowout using the Wavytalk Thermal Brush.",
+  "full_description": "The video starts with a quick before-and-after hook showing a young girl's thick, curly dark hair transformed into a smooth, glossy blowout. A text overlay explains how to get the perfect blowout at home using the Wavytalk Thermal Brush. The mother is shown sectioning and gliding the heated round thermal brush through the girl's curls, visibly straightening and smoothing them in single passes with zero frizz. Multiple shots showcase the step-by-step styling process and conclude with the finished result: voluminous, glossy hair with soft curled ends and styled face-framing layers.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "text": "From this... How to get the perfect blowout at home💕",
+    "role": "hook"
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 2.8,
+    "text": "To this!",
+    "role": "benefit"
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 10.5,
+    "text": "using the Wavytalk Thermal Brush on my daughter's hair",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "medium close-up",
+    "visual": "Back and side profile of a young girl's head showing natural, tight, frizzy curls.",
+    "action": "Camera tilts slightly over curly hair as text introduces the blowout tutorial hook.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 2.8,
+    "shot_type": "medium close-up",
+    "visual": "Side profile of the girl with fully blown-out, sleek, straight hair with curled-in ends.",
+    "action": "Flash transition showing the final result preview ('To this!').",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 10.5,
+    "shot_type": "close-up",
+    "visual": "Mother using the pink Wavytalk thermal round brush on sectioned curly hair at the nape.",
+    "action": "The brush glides from root to tip, instantly smoothing curly hair into straight, sleek strands.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.5,
+    "end_s": 12.3,
+    "shot_type": "close-up",
+    "visual": "Back of the girl's head showing finished smooth, glossy sections.",
+    "action": "Camera pans down the silky, dark brown hair displaying shine and bounce.",
+    "product_visible": false
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 17.2,
+    "shot_type": "medium close-up",
+    "visual": "Side view of daughter resting her chin on her hand while mother styles another mid-layer section.",
+    "action": "Thermal brush rolls through a section of hair, pulling it smooth and rotating at the ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.2,
+    "end_s": 25.4,
+    "shot_type": "medium shot",
+    "visual": "Various angles showing the complete finished blowout from behind, top, and side profile.",
+    "action": "Hair moves with natural bounce, showing soft flipped ends, face-framing curtain bangs, and high shine.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Close-up of young girl's curly hair with text overlay 'From this... How to get the perfect blowout at home💕'",
+   "visual_0_3s": "Rapid 'From this' curly hair transitioning into 'To this' sleek blowout, followed by brush in action.",
+   "spoken_0_3s": "",
+   "text_0_3s": "From this... How to get the perfect blowout at home💕 / To this!",
+   "hook_type": "before_after",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Instant 1.8-second 'before' cut to 'after' showing extreme hair texture transformation."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Before and after teaser comparing frizzy curls to sleek blowout",
+    "Demonstration of the thermal brush smoothing curls in one stroke",
+    "In-progress styling showcasing ease of use on child's hair",
+    "Final 360 showcase of smooth, shiny, salon-quality blowout results"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Transforms thick curly hair into a perfect salon blowout at home",
+    "Smooths and straightens frizzy hair effortlessly in simple brush strokes"
+   ],
+   "pain_points": [
+    "Managing and styling unmanageable, frizzy, curly hair",
+    "Painful or time-consuming blowouts for kids with curls",
+    "Difficulty achieving smooth salon blowouts at home"
+   ],
+   "objections_handled": [
+    "Works effectively even on tight, thick curls",
+    "Gentle and quiet enough for a child without pulling or tugging"
+   ],
+   "social_proof": [
+    "Visual proof on genuine natural curly hair"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush"
+   ],
+   "first_seen_s": 2.8,
+   "first_used_on_hair_s": 2.8,
+   "final_result_shown_s": 1.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 2,
+   "talent_type": "everyday_customer",
+   "name_if_shown": "",
+   "age_range": "under 18",
+   "hair_before": "Thick, naturally curly, dark brunette/black hair with frizz",
+   "hair_after": "Ultra-sleek, smooth, shiny blowout with softly curled ends and styled front layers",
+   "setting": "bedroom",
+   "faces_camera": false,
+   "energy_tone": "calm, aesthetic, satisfying"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Melodic, gentle acoustic singing track ('One day when the white was...').",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 4.2,
+   "pacing": "medium",
+   "effects": [
+    "speed ramping",
+    "cut transitions"
+   ],
+   "ending": "Side profile showcase of the girl's shiny blowout and styled face-framing bangs."
+  },
+  "notes": "Video demonstrates the thermal heated styling round brush on natural curls, visually proving the smoothing and straightening capability without verbal dialogue."
+ }
+}

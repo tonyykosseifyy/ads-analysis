@@ -1,0 +1,346 @@
+{
+ "media_key": "v_1068098199608022",
+ "analyzed_at": "2026-11-28T00:10:16+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "8375208db029790783dddd88b66f9a69cb311d348f593964de06dfcf0b03c8d7",
+ "source": {
+  "kind": "video",
+  "id": "1068098199608022",
+  "video_id": "1843954013719209",
+  "length_s": 60.929,
+  "permalink": "/23849366283980795/videos/1843954013719209/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 60.33,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A mother uses the Wavytalk Steamline Pro straightening brush to quickly straighten her 3-year-old daughter's thick curly hair with minimal heat damage.",
+  "full_description": "The ad is a family UGC testimonial where a mother (Steph) straightens her young daughter's thick, coily curly hair in the bathroom using the Wavytalk Steamline Pro (Pro Steam straightener brush). The off-camera partner narrates the process, highlighting how fast it works in single passes, how the steam chamber hydrates curly hair and prevents heat damage, and how smoothly the child sat through the under-20-minute routine. It concludes with showing the child's long, silky straight hair and a call to action to buy the Steamline Pro.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Today we took our daughter's hair from this to this.",
+    "text_english": "Today we took our daughter's hair from this to this."
+   },
+   {
+    "start_s": 2.5,
+    "end_s": 7.4,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "We wanted to try out the Wavytalk Pro Steam straightener brush, so yeah y'all let's go ahead and get started.",
+    "text_english": "We wanted to try out the Wavytalk Pro Steam straightener brush, so yeah y'all let's go ahead and get started."
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 11.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "We put in some heat protector and just went section by section.",
+    "text_english": "We put in some heat protector and just went section by section."
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 17.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "And y'all, this straightener brush was playing no games. It was pretty much straight in like one stroke so we was like yeah this is going to be fast.",
+    "text_english": "And y'all, this straightener brush was playing no games. It was pretty much straight in like one stroke so we was like yeah this is going to be fast."
+   },
+   {
+    "start_s": 17.0,
+    "end_s": 24.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Because let me tell y'all, doing a three-year-old's hair is not for the weak. But honestly, she sat pretty still, we got her a snack and she was good, she was occupied.",
+    "text_english": "Because let me tell y'all, doing a three-year-old's hair is not for the weak. But honestly, she sat pretty still, we got her a snack and she was good, she was occupied."
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 32.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "And the good thing about this straightener is it does have steam technology, so not only does it boost the straightening process, but it deeply nourishes your hair and minimizes heat damage.",
+    "text_english": "And the good thing about this straightener is it does have steam technology, so not only does it boost the straightening process, but it deeply nourishes your hair and minimizes heat damage."
+   },
+   {
+    "start_s": 32.8,
+    "end_s": 40.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "And as y'all know, we all have super curly hair and we love our curls, so honestly the steam technology was a must because yeah y'all we can't do the heat damage.",
+    "text_english": "And as y'all know, we all have super curly hair and we love our curls, so honestly the steam technology was a must because yeah y'all we can't do the heat damage."
+   },
+   {
+    "start_s": 40.5,
+    "end_s": 46.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "And y'all could just see how well it's working and how quick Steph got through her hair. Y'all, this literally took probably less than 20 minutes.",
+    "text_english": "And y'all could just see how well it's working and how quick Steph got through her hair. Y'all, this literally took probably less than 20 minutes."
+   },
+   {
+    "start_s": 46.8,
+    "end_s": 53.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "So she just finished touching it up and boom, here are the results. Y'all, her hair is so long, oh my goodness.",
+    "text_english": "So she just finished touching it up and boom, here are the results. Y'all, her hair is so long, oh my goodness."
+   },
+   {
+    "start_s": 53.0,
+    "end_s": 56.1,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "And by the looks, I think she approves, too.",
+    "text_english": "And by the looks, I think she approves, too."
+   },
+   {
+    "start_s": 56.1,
+    "end_s": 60.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "With that all being said y'all, make sure that y'all go grab y'all Steamline Pro today!",
+    "text_english": "With that all being said y'all, make sure that y'all go grab y'all Steamline Pro today!"
+   }
+  ],
+  "transcript_full_original": "Today we took our daughter's hair from this to this. We wanted to try out the Wavytalk Pro Steam straightener brush, so yeah y'all let's go ahead and get started. We put in some heat protector and just went section by section. And y'all, this straightener brush was playing no games. It was pretty much straight in like one stroke so we was like yeah this is going to be fast. Because let me tell y'all, doing a three-year-old's hair is not for the weak. But honestly, she sat pretty still, we got her a snack and she was good, she was occupied. And the good thing about this straightener is it does have steam technology, so not only does it boost the straightening process, but it deeply nourishes your hair and minimizes heat damage. And as y'all know, we all have super curly hair and we love our curls, so honestly the steam technology was a must because yeah y'all we can't do the heat damage. And y'all could just see how well it's working and how quick Steph got through her hair. Y'all, this literally took probably less than 20 minutes. So she just finished touching it up and boom, here are the results. Y'all, her hair is so long, oh my goodness. And by the looks, I think she approves, too. With that all being said y'all, make sure that y'all go grab y'all Steamline Pro today!",
+  "transcript_full_english": "Today we took our daughter's hair from this to this. We wanted to try out the Wavytalk Pro Steam straightener brush, so yeah y'all let's go ahead and get started. We put in some heat protector and just went section by section. And y'all, this straightener brush was playing no games. It was pretty much straight in like one stroke so we was like yeah this is going to be fast. Because let me tell y'all, doing a three-year-old's hair is not for the weak. But honestly, she sat pretty still, we got her a snack and she was good, she was occupied. And the good thing about this straightener is it does have steam technology, so not only does it boost the straightening process, but it deeply nourishes your hair and minimizes heat damage. And as y'all know, we all have super curly hair and we love our curls, so honestly the steam technology was a must because yeah y'all we can't do the heat damage. And y'all could just see how well it's working and how quick Steph got through her hair. Y'all, this literally took probably less than 20 minutes. So she just finished touching it up and boom, here are the results. Y'all, her hair is so long, oh my goodness. And by the looks, I think she approves, too. With that all being said y'all, make sure that y'all go grab y'all Steamline Pro today!",
+  "word_count": 218,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.5,
+    "shot_type": "medium shot",
+    "visual": "Mother and young daughter standing at the bathroom sink; mother is brushing daughter's natural voluminous curly hair.",
+    "action": "Mother sections and pulls up daughter's puffy curly hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.5,
+    "end_s": 2.7,
+    "shot_type": "medium shot",
+    "visual": "Result preview from behind showing daughter's sleek, straightened brown hair.",
+    "action": "Showing the long, smooth straightened hair from the back.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.7,
+    "end_s": 3.7,
+    "shot_type": "medium shot",
+    "visual": "Mother holding up the pink Wavytalk Steamline Pro brush above daughter's head.",
+    "action": "Mother introduces the product to camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 5.9,
+    "shot_type": "close-up",
+    "visual": "POV close-up of hands holding the pink Wavytalk Steamline Pro showing temperature indicator lights and bristles.",
+    "action": "Demonstrating the device powered on.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.9,
+    "end_s": 8.7,
+    "shot_type": "medium shot",
+    "visual": "Mother brushing out daughter's sectioned hair with regular detangling brush.",
+    "action": "Mother preps the toddler's hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 14.3,
+    "shot_type": "close-up",
+    "visual": "Wavytalk Steamline Pro gliding down a thick section of daughter's curly hair, turning it pin-straight in one pass.",
+    "action": "Mother holds hair taut with heat-resistant glove and passes the heated brush down.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.3,
+    "end_s": 18.7,
+    "shot_type": "medium shot",
+    "visual": "Mother working on daughter's hair while daughter eats snacks from a pink bowl by the sink.",
+    "action": "Mother kisses daughter on the cheek and continues sectioning.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.7,
+    "end_s": 22.8,
+    "shot_type": "close-up",
+    "visual": "Close-up of the brush gliding down another section of dark curly hair.",
+    "action": "Straightening brush smooths the back sections of hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 26.6,
+    "shot_type": "medium shot",
+    "visual": "Toddler smiling and playing at the sink while mother straightens side sections.",
+    "action": "Mother continues running the brush through toddler's hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.6,
+    "end_s": 31.7,
+    "shot_type": "close-up",
+    "visual": "Hands filling the water reservoir tank of the straightener using a squeeze dropper bottle and snapping it into the tool.",
+    "action": "Demonstrating how to refill the steam water tank.",
+    "product_visible": true
+   },
+   {
+    "start_s": 31.7,
+    "end_s": 40.5,
+    "shot_type": "medium shot",
+    "visual": "Mother brushing the front and crown sections with the Steamline Pro while daughter plays.",
+    "action": "Smooth strokes along crown and front pieces.",
+    "product_visible": true
+   },
+   {
+    "start_s": 40.5,
+    "end_s": 48.7,
+    "shot_type": "medium shot",
+    "visual": "Finishing touches: mother runs the brush over the top layers as toddler plays with toy bottle.",
+    "action": "Final straightening passes.",
+    "product_visible": true
+   },
+   {
+    "start_s": 48.7,
+    "end_s": 52.8,
+    "shot_type": "medium shot",
+    "visual": "Showcasing final result: toddler's long, silky straight hair from the back.",
+    "action": "Mother's gloved hand lifts and runs through the straightened glossy hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 52.8,
+    "end_s": 58.7,
+    "shot_type": "medium shot",
+    "visual": "Mother hugs and lifts daughter up; daughter smiles broadly into mirror and waves.",
+    "action": "Mother and daughter cuddling and celebrating the new hairstyle.",
+    "product_visible": false
+   },
+   {
+    "start_s": 58.7,
+    "end_s": 60.3,
+    "shot_type": "close-up",
+    "visual": "POV close-up shot of the pink Wavytalk Steamline Pro held over the sink counter.",
+    "action": "Product showcase for call to action.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Mother standing behind daughter at the bathroom sink holding up thick curly hair.",
+   "visual_0_3s": "Rapid before-and-after cut from daughter's curly hair to fully straightened hair, then presenting the pink Wavytalk brush.",
+   "spoken_0_3s": "Today we took our daughter's hair from this to this.",
+   "text_0_3s": "",
+   "hook_type": "before_after",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Instant cut within 1.5 seconds showing drastic transformation from huge curly hair to sleek straight hair."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Before/after hook showcasing transformation",
+    "Product introduction and setup with heat protectant",
+    "First pass demonstration showing one-stroke efficiency",
+    "Relatable parenting challenge: doing a toddler's curly hair comfortably",
+    "Product deep dive: steam technology nourishes and prevents heat damage",
+    "Time claim: full hair done in under 20 minutes",
+    "Final result showcase and toddler's happy reaction",
+    "Final CTA to grab the Steamline Pro"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "saves_time",
+    "less_heat_damage",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Straightens in pretty much one stroke",
+    "Steam technology deeply nourishes hair and minimizes heat damage",
+    "Takes less than 20 minutes on thick toddler curls",
+    "Gentle enough for a 3-year-old"
+   ],
+   "pain_points": [
+    "Doing toddler hair is difficult and takes long",
+    "Fear of heat damage on natural curl pattern",
+    "Struggling with thick, tight curls"
+   ],
+   "objections_handled": [
+    "Will it damage natural curls? No, steam technology hydrates and protects curly patterns.",
+    "Does it take forever? Done in under 20 minutes.",
+    "Is it too painful or scary for kids? Toddler sat peacefully eating snacks."
+   ],
+   "social_proof": [
+    "Real parent testimonial and visible kid-friendly demonstration"
+   ],
+   "comparison_to": "Traditional hot irons or straighteners that cause heat damage"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steamline Pro"
+   ],
+   "first_seen_s": 2.7,
+   "first_used_on_hair_s": 8.7,
+   "final_result_shown_s": 1.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "today",
+   "cta_spoken": "Make sure that y'all go grab y'all Steamline Pro today!",
+   "cta_on_screen": "",
+   "cta_at_s": 56.1
+  },
+  "talent": {
+   "people_count": 2,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "Steph",
+   "age_range": "25-34 (mother) and toddler (3 years old)",
+   "hair_before": "Very thick, voluminous, dark brown curly hair (3C/4A type curl pattern)",
+   "hair_after": "Silky, shiny, long bone-straight brown hair",
+   "setting": "bathroom",
+   "faces_camera": false,
+   "energy_tone": "Warm, relatable, family-oriented, enthusiastic"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle, upbeat background R&B instrumental / beat under voiceover",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 4.3,
+   "pacing": "fast",
+   "effects": [
+    "Jump cuts",
+    "Before/after transition"
+   ],
+   "ending": "Close-up hero shot of the Wavytalk Steamline Pro tool with verbal CTA"
+  },
+  "notes": "Native English family UGC creator video repurposed for international/regional paid social ads featuring the Wavytalk Steamline Pro straightening brush."
+ }
+}

@@ -1,0 +1,168 @@
+{
+ "media_key": "v_1285869796897001",
+ "analyzed_at": "2026-11-28T00:14:25+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "14335367cbd757e60fe9373411a7578b122e359509df39b2d97d7f4314b95521",
+ "source": {
+  "kind": "video",
+  "id": "1285869796897001",
+  "video_id": "1055040747376795",
+  "length_s": 20.735,
+  "permalink": "/23849366283980795/videos/1055040747376795/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 20.9,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Silent styling demo where a creator uses a pink heated round brush to create a bouncy, 90s-inspired flipped blowout.",
+  "full_description": "A creator in a pink top demonstrates how to style a 90s blowout bob with flicked ends and voluminous curtain bangs using a pink thermal round brush (WavyTalk Blowout Boost). The video is set to a trending R&B song with no spoken dialogue or on-screen captions, showcasing quick styling passes on the bangs, crown, and ends, concluding with her posing and fluffing the finished hairstyle.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.1,
+    "shot_type": "medium close-up",
+    "visual": "Young woman in a pink top holding the pink thermal round brush horizontally over her bangs.",
+    "action": "She brushes her front bangs inward towards her face and pulls the brush down slowly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 7.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the side bangs section.",
+    "action": "She glides the heated brush through the front side fringe outwards and releases it with a flick, then runs her fingers through it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 10.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator focusing on the side lengths of her dark hair.",
+    "action": "She twists the heated round brush outward to enhance the flip at the ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.3,
+    "end_s": 13.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator working on the crown volume.",
+    "action": "She places the brush under the crown section, lifts it up and backward, and lets the hair drop into place.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 15.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator perfecting her front framing layer.",
+    "action": "She passes the thermal brush through the side bang once more to smooth it down.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 20.9,
+    "shot_type": "medium close-up",
+    "visual": "Finished blowout look with bouncy curled ends and voluminous side-swept bangs.",
+    "action": "She sets the tool down, poses for the camera, runs her hand through her hair, and shakes her curls.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink heated round brush directly in front of her forehead/eyes styling bangs.",
+   "visual_0_3s": "Creator rolling and pulling down the heated brush across her bangs looking straight into the lens.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "trend_or_sound",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Close-up action framing where the tool initially blocks her eyes before revealing her face as the brush is pulled down."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Immediate action: rolling the bangs with the thermal brush",
+    "Styling side bangs and outer flips",
+    "Lifting crown for maximum root volume",
+    "Final result showcase and hair shake"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Creates bouncy 90s flipped ends effortlessly",
+    "Smooths bangs and provides crown volume"
+   ],
+   "pain_points": [
+    "Flat, lifeless hair",
+    "Difficulty styling bangs and flipped ends with regular tools"
+   ],
+   "objections_handled": [
+    "Shows hair easily gliding through the bristles without tangling"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost (Thermal Round Brush)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 15.6,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Dark brown/black lob, already mostly styled and smooth",
+   "hair_after": "Voluminous, shiny 90s lob blowout with bouncy outward flipped ends and framed side bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Glam, relaxed, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Mid-tempo soulful R&B track with vocals ('Hey baby, baby... mind if I take you home with me')",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 3.5,
+   "pacing": "medium",
+   "effects": [],
+   "ending": "Creator tilts head, shakes hair, and reaches forward toward the camera to stop recording."
+  },
+  "notes": "Video relies entirely on aesthetic visual appeal and trending audio rather than spoken selling points or on-screen copy."
+ }
+}

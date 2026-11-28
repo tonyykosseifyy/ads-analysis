@@ -1,0 +1,391 @@
+{
+ "media_key": "v_27930057629916767",
+ "analyzed_at": "2026-11-28T00:08:37+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "c4bf916a4ace8cd158989ab09ccf67ae9e88e372217e46edcb96c7380d314874",
+ "source": {
+  "kind": "video",
+  "id": "27930057629916767",
+  "video_id": "2255827851871043",
+  "length_s": 90.23,
+  "permalink": "/122152625727061607/videos/2255827851871043?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 89.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A curly-haired creator demonstrates how the Wavytalk Blowout Boost straightens and styles her thick curly hair into a voluminous blowout in 10 minutes.",
+  "full_description": "A young brunette woman with naturally thick curly hair demonstrates the Wavytalk Blowout Boost heated round brush tool. She shows a side-by-side comparison on her own hair—one side styled smooth and bouncy, the other curly/puffy. She explains in Lebanese Arabic and English code-switching how it saves time on lazy days when managing curly hair is difficult, demonstrating the tool step-by-step through different sections of hair before revealing the final Victoria's Secret style blowout result.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 55.0,
+    "en": 45.0,
+    "fr": 0.0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "إذا شعرك curly أو wavy متلي خليني أعرفك عن هالتول رح يغيرلك شعرك in 10 minutes.",
+    "text_english": "If your hair is curly or wavy like mine, let me introduce you to this tool that will change your hair in 10 minutes."
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 11.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you want to achieve the perfect blowout, you have to use Wavytalk Blowout Boost.",
+    "text_english": "If you want to achieve the perfect blowout, you have to use Wavytalk Blowout Boost."
+   },
+   {
+    "start_s": 11.3,
+    "end_s": 18.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أكيد كلكم بتعرفوا how much I love my curly hair بس sometimes blowouts are just easier to manage on my lazy days.",
+    "text_english": "I'm sure you all know how much I love my curly hair, but sometimes blowouts are just easier to manage on my lazy days."
+   },
+   {
+    "start_s": 19.0,
+    "end_s": 27.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "يعني عن جد أعمل blowout بهالتول بياخدني وقت أقل من ما أعمل the proper hair care للشعر ليطلع حلو.",
+    "text_english": "I mean seriously, doing a blowout with this tool takes me less time than doing proper hair care for my hair to look nice."
+   },
+   {
+    "start_s": 27.3,
+    "end_s": 31.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And it's just so much easier to maintain and much more predictable sometimes.",
+    "text_english": "And it's just so much easier to maintain and much more predictable sometimes."
+   },
+   {
+    "start_s": 31.5,
+    "end_s": 39.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أنا كتير بحب شعري هيك وأظهر فيه، بس أوقات it's day three بيكون شعرك منكش وما بتعرفي كيف بدك تضبطيه، وكيف بدك تلحقي.",
+    "text_english": "I really love my hair like this and going out with it, but sometimes it's day three, your hair is puffy/messy and you don't know how to fix it or make it on time."
+   },
+   {
+    "start_s": 39.9,
+    "end_s": 44.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "باخد هالتول، 10 minutes بكون ready to go.",
+    "text_english": "I grab this tool, 10 minutes and I'm ready to go."
+   },
+   {
+    "start_s": 44.6,
+    "end_s": 46.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's as easy as that.",
+    "text_english": "It's as easy as that."
+   },
+   {
+    "start_s": 46.9,
+    "end_s": 51.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "بوقت هلقد قليل قدرت آخد شعري من هيك لهيك.",
+    "text_english": "In such a short time, I was able to take my hair from like this to like this."
+   },
+   {
+    "start_s": 51.6,
+    "end_s": 53.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I just need to brush my hair.",
+    "text_english": "I just need to brush my hair."
+   },
+   {
+    "start_s": 53.7,
+    "end_s": 56.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "يعني من بعد ما مشطت شعري، ليكوا قديه puffy.",
+    "text_english": "I mean after brushing my hair, look how puffy it is."
+   },
+   {
+    "start_s": 56.5,
+    "end_s": 63.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "عن جد سحر كيف فيي آخد شعري من هيك puffy، لهيك blowout in one pass.",
+    "text_english": "It's really magic how I can take my hair from this puffy to this blowout in one pass."
+   },
+   {
+    "start_s": 63.9,
+    "end_s": 69.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Yeah, and as a curly girl, this is literally my cheat code for when I feel lazy.",
+    "text_english": "Yeah, and as a curly girl, this is literally my cheat code for when I feel lazy."
+   },
+   {
+    "start_s": 70.0,
+    "end_s": 73.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "ليكوا، magic in real time.",
+    "text_english": "Look, magic in real time."
+   },
+   {
+    "start_s": 73.1,
+    "end_s": 78.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "And done! شعري راح من puffy لـ the perfect blowout in 10 minutes.",
+    "text_english": "And done! My hair went from puffy to the perfect blowout in 10 minutes."
+   },
+   {
+    "start_s": 78.5,
+    "end_s": 80.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "All thanks to Wavytalk.",
+    "text_english": "All thanks to Wavytalk."
+   },
+   {
+    "start_s": 80.6,
+    "end_s": 82.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Just look at the shine.",
+    "text_english": "Just look at the shine."
+   },
+   {
+    "start_s": 82.6,
+    "end_s": 85.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I can't get over how good this looks.",
+    "text_english": "I can't get over how good this looks."
+   },
+   {
+    "start_s": 85.1,
+    "end_s": 89.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "ما فيكم تقولو لي this isn't the perfect Victoria's Secret blowout.",
+    "text_english": "You can't tell me this isn't the perfect Victoria's Secret blowout."
+   }
+  ],
+  "transcript_full_original": "إذا شعرك curly أو wavy متلي خليني أعرفك عن هالتول رح يغيرلك شعرك in 10 minutes. If you want to achieve the perfect blowout, you have to use Wavytalk Blowout Boost. أكيد كلكم بتعرفوا how much I love my curly hair بس sometimes blowouts are just easier to manage on my lazy days. يعني عن جد أعمل blowout بهالتول بياخدني وقت أقل من ما أعمل the proper hair care للشعر ليطلع حلو. And it's just so much easier to maintain and much more predictable sometimes. أنا كتير بحب شعري هيك وأظهر فيه، بس أوقات it's day three بيكون شعرك منكش وما بتعرفي كيف بدك تضبطيه، وكيف بدك تلحقي. باخد هالتول، 10 minutes بكون ready to go. It's as easy as that. بوقت هلقد قليل قدرت آخد شعري من هيك لهيك. I just need to brush my hair. يعني من بعد ما مشطت شعري، ليكوا قديه puffy. عن جد سحر كيف فيي آخد شعري من هيك puffy، لهيك blowout in one pass. يعني as a curly girl, this is literally my cheat code for when I feel lazy. ليكوا، magic in real time. And done! شعري راح من puffy لـ the perfect blowout in 10 minutes. All thanks to Wavytalk. Just look at the shine. I can't get over how good this looks. ما فيكم تقولو لي this isn't the perfect Victoria's Secret blowout.",
+  "transcript_full_english": "If your hair is curly or wavy like mine, let me introduce you to this tool that will change your hair in 10 minutes. If you want to achieve the perfect blowout, you have to use Wavytalk Blowout Boost. I'm sure you all know how much I love my curly hair, but sometimes blowouts are just easier to manage on my lazy days. I mean seriously, doing a blowout with this tool takes me less time than doing proper hair care for my hair to look nice. And it's just so much easier to maintain and much more predictable sometimes. I really love my hair like this and going out with it, but sometimes it's day three, your hair is puffy/messy and you don't know how to fix it or make it on time. I grab this tool, 10 minutes and I'm ready to go. It's as easy as that. In such a short time, I was able to take my hair from like this to like this. I just need to brush my hair. I mean after brushing my hair, look how puffy it is. It's really magic how I can take my hair from this puffy to this blowout in one pass. Yeah, and as a curly girl, this is literally my cheat code for when I feel lazy. Look, magic in real time. And done! My hair went from puffy to the perfect blowout in 10 minutes. All thanks to Wavytalk. Just look at the shine. I can't get over how good this looks. You can't tell me this isn't the perfect Victoria's Secret blowout.",
+  "word_count": 218,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the pink Wavytalk Blowout Boost, showing one side already blown out and the other side still curly.",
+    "action": "Creator talks directly to camera while holding a strand of her styled hair next to the heated round brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 11.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator running the pink thermal brush through a section of hair on her styled side to demonstrate.",
+    "action": "Creator combs the brush smoothly through her hair and presents the product brand name.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.3,
+    "end_s": 18.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator demonstrating curling/smoothing motion with the thermal brush while talking to the camera.",
+    "action": "Creator brushes and curls her hair around the barrel, then touches her curls to explain her lazy day routine.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.0,
+    "end_s": 27.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator actively styling sections of her hair with the brush, twisting it through the ends.",
+    "action": "She styles the hair, pulls the brush through, and displays how fast and easy the process is.",
+    "product_visible": true
+   },
+   {
+    "start_s": 27.3,
+    "end_s": 31.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator looking up thoughtfully, then picking up the brush to resume styling.",
+    "action": "She talks about predictability and maintenance while brushing a section of hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 31.5,
+    "end_s": 46.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator working on the top and crown sections of her hair with the heated brush.",
+    "action": "She wraps the top section over the heated barrel to create root lift and a smooth curve, then lets it glide down.",
+    "product_visible": true
+   },
+   {
+    "start_s": 46.9,
+    "end_s": 51.0,
+    "shot_type": "medium close-up",
+    "visual": "Split visual comparison of her head: left side sleek blowout, right side natural curly curls.",
+    "action": "Creator gestures with both hands comparing the styled side to the untouched curly side.",
+    "product_visible": false
+   },
+   {
+    "start_s": 51.1,
+    "end_s": 56.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushes out the curly side using a paddle detangling brush, showing it transform into a large frizzy puffy texture.",
+    "action": "Creator brushes through her natural curls and gestures to how puffy and voluminous it becomes before styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 56.5,
+    "end_s": 73.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator takes the Wavytalk Blowout Boost to the puffy unstyled side and glides it through in real time.",
+    "action": "She runs the brush through a section of puffy hair in one pass, instantly smoothing and shaping it into a blowout curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 73.1,
+    "end_s": 78.4,
+    "shot_type": "medium shot",
+    "visual": "Full reveal of both sides completely styled with bouncy, voluminous blowout hair.",
+    "action": "Creator runs hands through both sides of her hair, smiling and showing off the full transformation.",
+    "product_visible": false
+   },
+   {
+    "start_s": 78.5,
+    "end_s": 80.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the pink Wavytalk tool next to her head, smiling.",
+    "action": "Creator showcases the tool in hand beside her finished hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 80.6,
+    "end_s": 85.0,
+    "shot_type": "close-up",
+    "visual": "Close-up selfie camera angles showing the shine, smoothness, and texture of the hair.",
+    "action": "Creator poses with hand on chin admiring the shine and finish of her hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 85.1,
+    "end_s": 89.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator smiling and fluffing her voluminous blowout in front of the camera.",
+    "action": "Creator shakes her hair, smiles confidently, and delivers the closing remark about Victoria's Secret blowout.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink heated brush with half her hair styled sleek and the other half thick natural curls.",
+   "visual_0_3s": "Creator holding hair strand next to the brush with an extreme half-and-half curly vs. blowout contrast.",
+   "spoken_0_3s": "إذا شعرك curly أو wavy متلي خليني أعرفك عن هالتول (If your hair is curly or wavy like mine, let me introduce you to this tool)",
+   "text_0_3s": "",
+   "hook_type": "before_after",
+   "hook_type_secondary": "problem_callout",
+   "pattern_interrupt": "Immediate visual split on the creator's head: one half full curly volume, the other half sleek salon blowout, creating an instant side-by-side transformation proof in the opening second."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Audience callout to curly/wavy girls with an immediate half-done hair contrast",
+    "Product introduction and bold promise (blowout in 10 minutes)",
+    "Relatable problem: loving curly hair but struggling with difficult day-3 curls and lazy days",
+    "Step-by-step demonstration smoothing puffy brushed-out curly hair in one pass",
+    "Final transformation reveal and Victoria's Secret blowout comparison"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "saves_time",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Transforms curly/wavy hair in 10 minutes",
+    "Creates the perfect blowout in one pass",
+    "Faster than a full curly hair wash/styling routine",
+    "Leaves hair with Victoria's Secret level shine and bounce"
+   ],
+   "pain_points": [
+    "Day-3 curly hair being messy and unpredictable",
+    "Curly hair routine taking too much time and effort",
+    "Struggling to style hair quickly when running late"
+   ],
+   "objections_handled": [
+    "Does it work on coarse/thick curly hair? (Shows it smoothing dense puffy hair in real time)",
+    "Is it complicated to use? (Demonstrates simple brushing motion in one pass)"
+   ],
+   "social_proof": [
+    "Victoria's Secret blowout aesthetic comparison"
+   ],
+   "comparison_to": "Full curly hair care routine"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 5.5,
+   "final_result_shown_s": 73.1,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Thick, dark brunette/black naturally curly and wavy hair (type 3A/3B curls)",
+   "hair_after": "Voluminous, shiny, salon-grade blowout with curled-under ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Enthusiastic, candid, relatable, and authentic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No background music; direct live creator vocal audio with ambient room sound and hair tool handling sounds.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 6.36,
+   "pacing": "medium",
+   "effects": [
+    "Jump cuts between styling stages",
+    "Camera angle switches for final result showcase"
+   ],
+   "ending": "Creator smiles, shakes out her finished bouncy blowout, and poses for the camera."
+  },
+  "notes": "Classic organic-style UGC testimonial for the Lebanese market. Strong natural demonstration of high-density curly hair being straightened with the thermal round brush without requiring flat-ironing."
+ }
+}

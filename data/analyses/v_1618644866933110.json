@@ -1,0 +1,214 @@
+{
+ "media_key": "v_1618644866933110",
+ "analyzed_at": "2026-11-28T00:20:20+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "5ab1fcd19a9ddf5ace6c305cb1df415e80489ae77e5b2b2923a1c3621ff7a5d8",
+ "source": {
+  "kind": "video",
+  "id": "1618644866933110",
+  "video_id": "1545889613811044",
+  "length_s": 12.457,
+  "permalink": "/23849366283980795/videos/1545889613811044/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 11.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Fast-paced UGC montage of diverse women using the WavyTalk thermal blowout brush to achieve bouncy, salon-quality hair at home.",
+  "full_description": "A high-energy UGC compilation ad featuring four different women demonstrating the WavyTalk thermal round brush on various hair types (straight, wavy, and coarse curly/textured hair). The video cuts quickly to the rhythm of upbeat music, showing close-up curling actions followed by each creator showing off their shiny, voluminous blowout results. It concludes with an end card stating 'Effortless Blowout for Everyone / No skills required, just perfect hair'.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "text": "WAVYTALK",
+    "role": "brand"
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 11.5,
+    "text": "Effortless Blowout for Everyone\nNo skills required, just perfect hair",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.3,
+    "shot_type": "close-up",
+    "visual": "A young woman unwrapping a sleek curled strand of brown hair from a purple WavyTalk thermal brush.",
+    "action": "Unwinding hair from the brush barrel to reveal a smooth curl, with 'WAVYTALK' brand text overlaid.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.3,
+    "end_s": 2.1,
+    "shot_type": "medium close-up",
+    "visual": "A woman with highlighted hair rotating a light pink WavyTalk thermal round brush at her bangs/crown.",
+    "action": "Twisting the brush through her hair to curl the front sections.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 3.0,
+    "shot_type": "medium close-up",
+    "visual": "A young woman with dark hair holding up a curled strand at her crown.",
+    "action": "Inspecting and showing the defined bounce of her hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 5.0,
+    "shot_type": "medium shot",
+    "visual": "A Black woman with coarse, curly natural hair running the purple thermal brush through a parted strand.",
+    "action": "Gliding the heated brush down a section, instantly smoothing it into a bouncy curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 6.1,
+    "shot_type": "medium close-up",
+    "visual": "The first brunette creator smiling and turning her head to showcase her glossy, bouncy blowout layers.",
+    "action": "Posing and flipping her styled hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.1,
+    "end_s": 7.1,
+    "shot_type": "medium shot",
+    "visual": "The creator with highlighted hair smiling into the camera with voluminous, bouncy curls.",
+    "action": "Fluffing her hair lightly and smiling with confidence.",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.1,
+    "end_s": 8.1,
+    "shot_type": "medium shot",
+    "visual": "The Black creator shaking and tossing her newly straightened, voluminous blowout.",
+    "action": "Head-banging and tossing her hair to display full volume and movement.",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.1,
+    "end_s": 9.8,
+    "shot_type": "medium close-up",
+    "visual": "The dark-haired creator touching her voluminous curtain layers, smiling happily, then swiping the brush towards the lens.",
+    "action": "Showing off styled curls, smiling, and transitioning by swiping the brush over the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 11.5,
+    "shot_type": "graphic / title card",
+    "visual": "Clean white background with centered black typography stating the brand value proposition.",
+    "action": "Displaying the end card message.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Close-up of a creator unwinding a glossy curled strand from the purple WavyTalk thermal brush with the bold brand logo centered.",
+   "visual_0_3s": "Rapid cuts of different women twirling and releasing perfectly styled hair from the thermal brush.",
+   "spoken_0_3s": "",
+   "text_0_3s": "WAVYTALK",
+   "hook_type": "result_first",
+   "hook_type_secondary": "social_proof",
+   "pattern_interrupt": "Immediate, rhythmic sync between visual curl releases and snappy electronic audio beats."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Instant visual hook: smooth curl release from the thermal brush",
+    "Rapid UGC montage across diverse hair textures demonstrating application",
+    "Showcase of bouncy, voluminous final results across multiple creators",
+    "Clean branded end card highlighting ease of use ('Effortless Blowout for Everyone')"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "easy_for_beginners",
+    "volume_and_bounce",
+    "social_proof_popularity"
+   ],
+   "key_claims": [
+    "Effortless blowout for everyone",
+    "No skills required, just perfect hair"
+   ],
+   "pain_points": [
+    "Difficulty achieving salon blowouts at home",
+    "Complicated styling tools that require skill"
+   ],
+   "objections_handled": [
+    "Works across multiple different hair types including textured 4C hair",
+    "No advanced hairstyling skill needed"
+   ],
+   "social_proof": [
+    "Multiple real creators showing effortless successful results"
+   ],
+   "comparison_to": "Traditional round brush and hairdryer blowout technique"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Thermal Round Brush (Blowout Boost)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 5.0,
+   "demo_clarity": "partial",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 4,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-30",
+   "hair_before": "Ranges from straight to wavy and natural coarse curls",
+   "hair_after": "Voluminous, shiny, bouncy blowout curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Upbeat, confident, satisfied, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Fast electronic pop/dance beat with rhythmic vocal chops synced to video cuts",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 1.4,
+   "pacing": "fast",
+   "effects": [
+    "beat cuts",
+    "swipe transition"
+   ],
+   "ending": "Clean minimalist white end card with brand statement"
+  },
+  "notes": "Fast-paced visual compilation ad without spoken dialogue, focusing purely on viral social proof, universal usability on different hair textures, and effortless salon-like blowout results."
+ }
+}

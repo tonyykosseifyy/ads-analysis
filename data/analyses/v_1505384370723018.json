@@ -1,0 +1,432 @@
+{
+ "media_key": "v_1505384370723018",
+ "analyzed_at": "2026-11-28T00:08:27+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "7fe702a12061acdebc9589d5c36b412a2e7e20f960518088b723ecdc762fc1bf",
+ "source": {
+  "kind": "video",
+  "id": "1505384370723018",
+  "video_id": "703802462797011",
+  "length_s": 26.3,
+  "permalink": "/23849366283980795/videos/703802462797011/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 25.26,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator explains how standard curling irons burn hair due to fixed heat and demonstrates the Wavytalk Blowout Boost thermal brush with adjustable temperatures.",
+  "full_description": "A female creator speaks directly to the camera about heat damage caused by standard irons with fixed temperatures. An exaggerated skit cutaway shows her panicking over dull, frizzy hair. She sits and introduces the Wavytalk Ionic Thermal Brush (Blowout Boost), explaining that it features five temperature settings tailored to different hair types. She demonstrates styling a strand of hair in front of a mirror and in a living room, highlighting safe daily use, added volume, and curls without damaging the hair. The video finishes with a call-to-action urging viewers to order via the link below with a floating graphic of the product and an arrow pointing down.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 55,
+    "en": 45,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "arabizi",
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "إذا مش قادرين تغيروا حرارة الـ fer تبعكن يعني على الأكيد عم تحرقوا شعركن",
+    "text_english": "If you can't adjust the temperature of your curling iron, it means you're definitely burning your hair."
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 6.3,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "عم بيطلع لونه باهت و دغري بينوبر",
+    "text_english": "It ends up looking dull and immediately gets frizzy."
+   },
+   {
+    "start_s": 6.3,
+    "end_s": 9.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أكيد، لأنه مش all hair types بيستعملوا ذات الحرارة",
+    "text_english": "Of course, because not all hair types use the same temperature."
+   },
+   {
+    "start_s": 9.1,
+    "end_s": 11.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "That's why Wavytalk made this ionic brush for you.",
+    "text_english": "That's why Wavytalk made this ionic brush for you."
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 13.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You choose one of the five temperature modes",
+    "text_english": "You choose one of the five temperature modes"
+   },
+   {
+    "start_s": 13.3,
+    "end_s": 14.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "حسب your hair type",
+    "text_english": "according to your hair type,"
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 17.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بتعملوا الـ style اللي بدكن ياه فيها",
+    "text_english": "and you create whatever style you want with it."
+   },
+   {
+    "start_s": 17.2,
+    "end_s": 20.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "It's safe for daily use and it adds volume لشعركن",
+    "text_english": "It's safe for daily use and it adds volume to your hair."
+   },
+   {
+    "start_s": 20.3,
+    "end_s": 22.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "الـ fer كتير بيأذيلكن شعركن",
+    "text_english": "Curling irons damage your hair a lot."
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 25.26,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "To get a daily blowout boost, order the ionic brush from the link below.",
+    "text_english": "To get a daily blowout boost, order the ionic brush from the link below."
+   }
+  ],
+  "transcript_full_original": "إذا مش قادرين تغيروا حرارة الـ fer تبعكن يعني على الأكيد عم تحرقوا شعركن. عم بيطلع لونه باهت و دغري بينوبر. أكيد، لأنه مش all hair types بيستعملوا ذات الحرارة. That's why Wavytalk made this ionic brush for you. You choose one of the five temperature modes حسب your hair type، بتعملوا الـ style اللي بدكن ياه فيها. It's safe for daily use and it adds volume لشعركن. الـ fer كتير بيأذيلكن شعركن. To get a daily blowout boost, order the ionic brush from the link below.",
+  "transcript_full_english": "If you can't adjust the temperature of your curling iron, it means you're definitely burning your hair. It ends up looking dull and immediately gets frizzy. Of course, because not all hair types use the same temperature. That's why Wavytalk made this ionic brush for you. You choose one of the five temperature modes according to your hair type, and you create whatever style you want with it. It's safe for daily use and it adds volume to your hair. Curling irons damage your hair a lot. To get a daily blowout boost, order the ionic brush from the link below.",
+  "word_count": 83,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.0,
+    "text": "eza msh edrin",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 2.0,
+    "text": "hararet l fer",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 3.0,
+    "text": "taaakon",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 4.1,
+    "text": "aam teher2o shaarkon",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 5.2,
+    "text": "lawno behit",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.2,
+    "end_s": 6.3,
+    "text": "w deghre b nawber",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.3,
+    "end_s": 7.4,
+    "text": "akid la2ano mch",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 9.1,
+    "text": "byest3mlo zet l 7arara",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.1,
+    "end_s": 10.3,
+    "text": "that's why wavytalk",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.3,
+    "end_s": 11.5,
+    "text": "made this ionic",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 12.5,
+    "text": "you choose one",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.5,
+    "end_s": 13.3,
+    "text": "of the 5",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.3,
+    "end_s": 14.8,
+    "text": "7asab your hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 16.0,
+    "text": "bt3mlo l style",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 17.2,
+    "text": "li badkon yeh fiya",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.2,
+    "end_s": 18.2,
+    "text": "daily use",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 19.3,
+    "text": "volume to your",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.3,
+    "end_s": 20.3,
+    "text": "hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.3,
+    "end_s": 22.0,
+    "text": "Fer ktir bye2zilkon",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 23.2,
+    "text": "daily blowout boost",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.2,
+    "end_s": 24.1,
+    "text": "order the Ionic",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 24.1,
+    "end_s": 25.26,
+    "text": "link below",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.1,
+    "shot_type": "medium shot",
+    "visual": "Creator in a white halter top and brown trousers standing in a modern living space talking directly to camera.",
+    "action": "Creator gestures with hands, delivering the hook about burning hair with standard irons.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 6.3,
+    "shot_type": "close-up",
+    "visual": "Creator holding her hands to her head in an exaggerated distressed expression, showing messy hair.",
+    "action": "Creator acts distressed and screams/panics about dull and frizzy hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.3,
+    "end_s": 9.1,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting comfortably on a red sofa in the living room.",
+    "action": "Explains that different hair types require different heat settings.",
+    "product_visible": false
+   },
+   {
+    "start_s": 9.1,
+    "end_s": 11.5,
+    "shot_type": "medium shot",
+    "visual": "Creator seated at a wooden table holding the pink WavyTalk Blowout Boost brush.",
+    "action": "Introduces the brush, showcasing it to the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 13.3,
+    "shot_type": "mirror shot",
+    "visual": "Creator seen through a mirror styling the top section of her hair with the brush, packaging visible on counter.",
+    "action": "Rolls the thermal brush through crown hair to demonstrate heating and styling.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.3,
+    "end_s": 14.8,
+    "shot_type": "medium shot",
+    "visual": "Creator standing near a decorative wooden shelf holding the tool.",
+    "action": "Points at the tool's temperature buttons.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 17.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator pulling the heated round brush down a strand of hair and twirling it.",
+    "action": "Releases the brush and admires the smooth, bouncy curl created.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.2,
+    "end_s": 20.3,
+    "shot_type": "medium shot",
+    "visual": "Creator standing by sheer window curtains holding the brush in hand.",
+    "action": "Flips hair to demonstrate volume and explains it is safe for daily styling.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.3,
+    "end_s": 22.0,
+    "shot_type": "medium shot",
+    "visual": "Creator standing in corner of the apartment gesturing emphatically.",
+    "action": "Explains that traditional curling irons cause severe hair damage.",
+    "product_visible": false
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 25.26,
+    "shot_type": "medium shot",
+    "visual": "Creator gesturing downward with both hands, with a floating 3D cutout of the pink brush and a red animated arrow pointing down.",
+    "action": "Directs viewers to tap the link below to order.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator stands in modern living room looking directly at camera with an earnest expression.",
+   "visual_0_3s": "Creator gestures with open palms towards the camera while speaking passionately.",
+   "spoken_0_3s": "إذا مش قادرين تغيروا حرارة الـ fer تبعكن يعني على الأكيد",
+   "text_0_3s": "eza msh edrin hararet l fer taaakon",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Sharp cut at 4.1s to an exaggerated comedy scream scene depicting ruined, frizzy hair."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Problem callout: fixed temperature irons burn hair and cause dullness/frizz",
+    "Exaggerated pain point skit (screaming at messy hair)",
+    "Educational explanation: hair types require custom heat",
+    "Product reveal: WavyTalk Blowout Boost ionic brush with 5 heat settings",
+    "Demo & benefits: quick curling, daily safety, volume boost",
+    "Call-to-action to order via link below"
+   ],
+   "main_angle": "less_heat_damage",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "frizz_or_curly_solution",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Fixed heat styling tools burn hair",
+    "Wavytalk has 5 temperature settings customizable by hair type",
+    "Ionic brush eliminates frizz and dullness",
+    "Safe for daily use without heat damage",
+    "Adds blowout volume to hair"
+   ],
+   "pain_points": [
+    "Burning hair with conventional curling irons",
+    "Dull hair color from heat damage",
+    "Immediate frizz and flyaways"
+   ],
+   "objections_handled": [
+    "Will it damage my hair if I use it every day? (Handled: safe for daily use)",
+    "Does it work on my specific hair type? (Handled: 5 heat settings for all hair types)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional fixed-temperature curling irons ('fer')"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 9.1,
+   "first_used_on_hair_s": 11.5,
+   "final_result_shown_s": 16.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "To get a daily blowout boost, order the ionic brush from the link below.",
+   "cta_on_screen": "order the Ionic link below",
+   "cta_at_s": 22.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-26",
+   "hair_before": "Brown, slightly messy / frizzy",
+   "hair_after": "Smooth, voluminous blowout curls",
+   "setting": "living_room",
+   "faces_camera": true,
+   "energy_tone": "energetic, engaging, and informative"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat, modern electronic pop background music",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 2.8,
+   "pacing": "fast",
+   "effects": [
+    "animated on-screen Arabizi/English captions",
+    "animated red arrow graphic",
+    "floating 3D cutout product graphic"
+   ],
+   "ending": "Creator smiling while pointing down with floating product visual and call to action."
+  },
+  "notes": "Ad targets Lebanese consumers with casual mixed Lebanese-Arabic and English, using Arabizi for subtitles, highlighting heat protection over standard curling irons."
+ }
+}

@@ -1,0 +1,150 @@
+{
+ "media_key": "i_e9bfad4f895c864699654ce8998bf49b",
+ "analyzed_at": "2026-11-28T01:15:29+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "8fb627ccd5c39c120edb35514cff73491c7b7e9a60c2b2196bca703a1db24037",
+ "source": {
+  "kind": "image",
+  "id": "e9bfad4f895c864699654ce8998bf49b"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "2:3",
+  "one_line_summary": "Festive holiday promotional image advertising a 15% discount on the WavyTalk Ionic Thermal Brush as a Christmas gift.",
+  "full_description": "A high-end holiday advertising visual showing a pink WavyTalk Ionic Thermal Brush (Blowout Boost) displayed inside an open pink satin-lined gift box. A gift tag reading 'To: Her' hangs from the handle, and a person's hand wearing a cozy cream cable-knit sweater holds the tool. The box rests on a velvet pillow over stacked pink gift-wrapped boxes adorned with ribbons and bows, placed in front of a warm glowing fireplace, Christmas garland, and a decorated tree. Text overlays at the top highlight 'WAVYTALK CHRISTMAS SALE', a '15% OFF IONIC THERMAL BRUSH' gold badge, and 'THE PERFECT GIFT FOR HER / MAKE HER HOLIDAY BEAUTIFUL.'",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK CHRISTMAS SALE",
+    "role": "hook"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "15% OFF IONIC THERMAL BRUSH",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "THE PERFECT GIFT FOR HER MAKE HER HOLIDAY BEAUTIFUL.",
+    "role": "hook"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "To: Her",
+    "role": "other"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "medium close-up product shot",
+    "visual": "A pink WavyTalk thermal styling brush placed in an open presentation gift box lined with champagne satin. A gift tag tied to the barrel reads 'To: Her'. A hand in a knit sweater gently touches the tool. The box sits atop a cream cushion and pink wrapped gift presents against a cozy fireplace and Christmas tree backdrop.",
+    "action": "Hand holding the thermal brush inside its open gift box.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Pink WavyTalk Ionic Thermal Brush nestled in a luxury gift box in front of a warm fireplace with holiday sale text overlay.",
+   "visual_0_3s": "Pink WavyTalk Ionic Thermal Brush nestled in a luxury gift box in front of a warm fireplace with holiday sale text overlay.",
+   "spoken_0_3s": "",
+   "text_0_3s": "WAVYTALK CHRISTMAS SALE / 15% OFF IONIC THERMAL BRUSH / THE PERFECT GIFT FOR HER MAKE HER HOLIDAY BEAUTIFUL.",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "none",
+   "pattern_interrupt": "Festive holiday visual with high-contrast warm hearth lighting and luxury gift-box packaging."
+  },
+  "structure": {
+   "format": "product_showcase",
+   "narrative_beats": [
+    "Christmas gift promotion announcing a 15% discount on the WavyTalk Ionic Thermal Brush."
+   ],
+   "main_angle": "gift_or_occasion",
+   "secondary_angles": [
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "15% off Ionic Thermal Brush",
+    "The perfect gift for her"
+   ],
+   "pain_points": [
+    "Holiday gift shopping dilemma"
+   ],
+   "objections_handled": [
+    "Price / gift suitability"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Ionic Thermal Brush"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "15% off Ionic Thermal Brush",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Christmas Sale",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "hands_only",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "living room with fireplace and Christmas tree",
+   "faces_camera": false,
+   "energy_tone": "warm and festive"
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "typography overlay",
+    "gradient banner"
+   ],
+   "ending": "Static image ad"
+  },
+  "notes": "Static image ad run for seasonal holiday / Christmas gifting campaign targeting buyers in Lebanon."
+ }
+}

@@ -1,0 +1,170 @@
+{
+ "media_key": "v_2245921245976760",
+ "analyzed_at": "2026-11-28T00:46:50+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "f05ecf10ee744af9d704ca80968ef108c82388e9c9de1b7a0c2fa37c6ef26349",
+ "source": {
+  "kind": "video",
+  "id": "2245921245976760",
+  "video_id": "1166408353003458",
+  "length_s": 14.44,
+  "permalink": "/23849366283980795/videos/1166408353003458/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 13.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates how quickly she achieves a salon-quality voluminous blowout using a thermal brush in just 10 minutes.",
+  "full_description": "The video starts with the creator showcasing her finished, bouncy blowout from the front and back, accompanied by text stating a 10-minute styling POV. It then cuts to a fast-paced tutorial showing her styling parted sections with the Wavytalk thermal brush (Blowout Boost) on the crown and sides, before finishing with the voluminous, glossy final result shown from both front and rear angles.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 13.5,
+    "text": "pov: you only have 10 minutes before you need to leave but you have a thermal brush",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "shot_type": "medium close-up",
+    "visual": "Young woman in a yellow knit top showing off a styled voluminous blowout, running hand through hair and turning her back to show bounce and shine.",
+    "action": "Creator turns around to present the finished hairstyle result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 5.4,
+    "shot_type": "medium shot",
+    "visual": "Top section of hair tied up with a satin scrunchie; creator rolls the pink thermal brush through the lower mid-lengths and ends.",
+    "action": "Creator styles the lower section of hair with the thermal round brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 7.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator positions the thermal brush at the roots/crown of her hair and pulls upwards to create lift.",
+    "action": "Creator lifts and curls the crown section over the brush barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 10.8,
+    "shot_type": "medium shot",
+    "visual": "Creator styles the side and face-framing pieces with the thermal brush.",
+    "action": "Creator pulls the brush through side layers and twists it outward for curled ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.8,
+    "end_s": 13.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator presents the completed blowout, looks at the camera, and turns back around showing full volume and bounce.",
+    "action": "Creator poses and rotates to show front and back finished hair.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera with glossy styled blowout and persistent text overlay: 'pov: you only have 10 minutes before you need to leave but you have a thermal brush'.",
+   "visual_0_3s": "Creator inspects and touches her styled hair, then turns around to show full back volume and curls.",
+   "spoken_0_3s": "",
+   "text_0_3s": "pov: you only have 10 minutes before you need to leave but you have a thermal brush",
+   "hook_type": "result_first",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Immediate display of gorgeous final hair result followed by a 180-degree back turn within the first 2 seconds."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Result first hook showcasing voluminous blowout",
+    "Quick demo showing styling lower layers with thermal brush",
+    "Demo showing crown volume creation and flicked ends",
+    "Final transformation reveal and hair movement from back and front"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Achieve full blowout in 10 minutes before leaving"
+   ],
+   "pain_points": [
+    "Running late / lack of time to style hair"
+   ],
+   "objections_handled": [
+    "Takes too long to style hair with traditional tools"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 2.8,
+   "first_used_on_hair_s": 3.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-25",
+   "hair_before": "Dark brown/black layered hair pinned up with scrunchie",
+   "hair_after": "Voluminous, shiny, curved blowout with bouncy ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relaxed, aesthetic, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Mellow chill hip-hop/R&B beat with kick drums and atmospheric keyboard notes",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 2.7,
+   "pacing": "medium",
+   "effects": [
+    "text overlay"
+   ],
+   "ending": "Creator turns back showing wavy bouncy hair from behind and cuts out."
+  },
+  "notes": "Relatable POV aesthetic UGC video emphasizing speed and volume without verbal dialogue."
+ }
+}

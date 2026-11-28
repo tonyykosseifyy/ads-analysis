@@ -1,0 +1,326 @@
+{
+ "media_key": "v_1293605789408156",
+ "analyzed_at": "2026-11-28T00:13:36+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "7716be9cca23f852abe0d466f2aab002a6f4150cab32535075cf2108fcd5744d",
+ "source": {
+  "kind": "video",
+  "id": "1293605789408156",
+  "video_id": "3288105108028756",
+  "length_s": 73.875,
+  "permalink": "/23849366283980795/videos/3288105108028756/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 73.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A curly-haired creator demos the Wavytalk Steamline Pro steam straightening brush, demonstrating how steam prevents heat damage and moisturizes curls while straightening.",
+  "full_description": "A young woman with long, voluminous, frizzy curly hair split in half (half tied up, demonstrating section by section) demonstrates how to use the white Wavytalk Steamline Pro (steam straightening brush). She addresses the common misconception that steam and curly hair do not mix, explaining how controlled steam moisturizes the hair follicle and prevents breakage compared to clamping hair between flat iron plates. Throughout the video, she demonstrates straightening thick frizzy hair into silky straight strands in single passes, curls the ends for volume, demonstrates on curtain bangs, shows how to fill the water reservoir, and explains tension technique while addressing wetness concerns, finishing by showing her fully straightened hair.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay, hear me out. But if you have never used steam to straighten your hair, you are seriously missing out.",
+    "text_english": "Okay, hear me out. But if you have never used steam to straighten your hair, you are seriously missing out."
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 11.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And I know what you're thinking. I know that you're thinking that steam and curly hair does not mix, but that is just not true.",
+    "text_english": "And I know what you're thinking. I know that you're thinking that steam and curly hair does not mix, but that is just not true."
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 17.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Using a fine amount of steam to help straighten your hair is actually really good for your hair follicles because it prevents over drying.",
+    "text_english": "Using a fine amount of steam to help straighten your hair is actually really good for your hair follicles because it prevents over drying."
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 20.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "When your hair is moisturized, it's a lot less likely to break off.",
+    "text_english": "When your hair is moisturized, it's a lot less likely to break off."
+   },
+   {
+    "start_s": 20.6,
+    "end_s": 28.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "We all know that straightening curly hair can be very damaging if not done correctly, and that's why I love to use a steam straightener on my curls to keep them healthy.",
+    "text_english": "We all know that straightening curly hair can be very damaging if not done correctly, and that's why I love to use a steam straightener on my curls to keep them healthy."
+   },
+   {
+    "start_s": 28.2,
+    "end_s": 32.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I use the Wavytalk Steamline Pro, and just look at that difference!",
+    "text_english": "I use the Wavytalk Steamline Pro, and just look at that difference!"
+   },
+   {
+    "start_s": 32.1,
+    "end_s": 36.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You fill up this little water tank before you straighten your hair, and then this tank will last you the entire time that you're straightening your hair.",
+    "text_english": "You fill up this little water tank before you straighten your hair, and then this tank will last you the entire time that you're straightening your hair."
+   },
+   {
+    "start_s": 36.8,
+    "end_s": 42.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I love the brush design and that I'm not damaging my hair by clamping it between two metal plates.",
+    "text_english": "I love the brush design and that I'm not damaging my hair by clamping it between two metal plates."
+   },
+   {
+    "start_s": 42.1,
+    "end_s": 47.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you want to get a little bit of volume at your ends, you can just flip the brush up to give yourself a little swoop at the ends.",
+    "text_english": "If you want to get a little bit of volume at your ends, you can just flip the brush up to give yourself a little swoop at the ends."
+   },
+   {
+    "start_s": 47.1,
+    "end_s": 51.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now let's do my long curtain bangs up top here.",
+    "text_english": "Now let's do my long curtain bangs up top here."
+   },
+   {
+    "start_s": 51.8,
+    "end_s": 55.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Oh my goodness.",
+    "text_english": "Oh my goodness."
+   },
+   {
+    "start_s": 55.6,
+    "end_s": 57.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It seriously works incredibly.",
+    "text_english": "It seriously works incredibly."
+   },
+   {
+    "start_s": 57.8,
+    "end_s": 64.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You want to add a little bit of tension when you use this brush, so I just use my opposite hand to hold down that section of hair.",
+    "text_english": "You want to add a little bit of tension when you use this brush, so I just use my opposite hand to hold down that section of hair."
+   },
+   {
+    "start_s": 64.9,
+    "end_s": 70.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And no, this brush does not make your hair wet. That's just the steam, and it evaporates in 5 seconds.",
+    "text_english": "And no, this brush does not make your hair wet. That's just the steam, and it evaporates in 5 seconds."
+   },
+   {
+    "start_s": 70.3,
+    "end_s": 73.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Do not knock adding steam to your straightening routine until you've tried it.",
+    "text_english": "Do not knock adding steam to your straightening routine until you've tried it."
+   }
+  ],
+  "transcript_full_original": "Okay, hear me out. But if you have never used steam to straighten your hair, you are seriously missing out. And I know what you're thinking. I know that you're thinking that steam and curly hair does not mix, but that is just not true. Using a fine amount of steam to help straighten your hair is actually really good for your hair follicles because it prevents over drying. When your hair is moisturized, it's a lot less likely to break off. We all know that straightening curly hair can be very damaging if not done correctly, and that's why I love to use a steam straightener on my curls to keep them healthy. I use the Wavytalk Steamline Pro, and just look at that difference! You fill up this little water tank before you straighten your hair, and then this tank will last you the entire time that you're straightening your hair. I love the brush design and that I'm not damaging my hair by clamping it between two metal plates. If you want to get a little bit of volume at your ends, you can just flip the brush up to give yourself a little swoop at the ends. Now let's do my long curtain bangs up top here. Oh my goodness. It seriously works incredibly. You want to add a little bit of tension when you use this brush, so I just use my opposite hand to hold down that section of hair. And no, this brush does not make your hair wet. That's just the steam, and it evaporates in 5 seconds. Do not knock adding steam to your straightening routine until you've tried it.",
+  "transcript_full_english": "Okay, hear me out. But if you have never used steam to straighten your hair, you are seriously missing out. And I know what you're thinking. I know that you're thinking that steam and curly hair does not mix, but that is just not true. Using a fine amount of steam to help straighten your hair is actually really good for your hair follicles because it prevents over drying. When your hair is moisturized, it's a lot less likely to break off. We all know that straightening curly hair can be very damaging if not done correctly, and that's why I love to use a steam straightener on my curls to keep them healthy. I use the Wavytalk Steamline Pro, and just look at that difference! You fill up this little water tank before you straighten your hair, and then this tank will last you the entire time that you're straightening your hair. I love the brush design and that I'm not damaging my hair by clamping it between two metal plates. If you want to get a little bit of volume at your ends, you can just flip the brush up to give yourself a little swoop at the ends. Now let's do my long curtain bangs up top here. Oh my goodness. It seriously works incredibly. You want to add a little bit of tension when you use this brush, so I just use my opposite hand to hold down that section of hair. And no, this brush does not make your hair wet. That's just the steam, and it evaporates in 5 seconds. Do not knock adding steam to your straightening routine until you've tried it.",
+  "word_count": 273,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 9.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator sits facing camera with half-up hair, holding Wavytalk Steamline Pro, and brushes through a section of frizzy curly hair.",
+    "action": "Creator talks into camera, takes the heated steam brush, and glides it down a frizzy section, instantly turning it pin-straight.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 12.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator gestures with both hands displaying the contrast between the straightened strand and the frizzy hair.",
+    "action": "She explains that the belief that steam and curly hair don't mix is a myth.",
+    "product_visible": false
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 27.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator passes the steam straightener slowly through another section of curly hair.",
+    "action": "Steam visibly emits from the back of the brush as she glides it down, explaining hair follicle hydration.",
+    "product_visible": true
+   },
+   {
+    "start_s": 27.9,
+    "end_s": 36.7,
+    "shot_type": "close-up",
+    "visual": "Creator holds the Wavytalk Steamline Pro up to the camera, pointing out the integrated transparent water reservoir.",
+    "action": "She explains how to fill the small tank and confirms it lasts the entire styling session.",
+    "product_visible": true
+   },
+   {
+    "start_s": 36.7,
+    "end_s": 47.0,
+    "shot_type": "medium close-up",
+    "visual": "Steam clouds emerge as she brushes down another thick hair strand and flips the ends.",
+    "action": "She glides the brush through the strand and rolls it outward at the bottom to give a voluminous swoop.",
+    "product_visible": true
+   },
+   {
+    "start_s": 47.0,
+    "end_s": 57.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator takes down the top curtain bang section and glides the steam brush from root to tip.",
+    "action": "She straightens her front bangs in one smooth motion, visibly shocked and delighted by the sleek result.",
+    "product_visible": true
+   },
+   {
+    "start_s": 57.5,
+    "end_s": 64.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator sections the other side of her head and demonstrates how she applies tension.",
+    "action": "She holds the ends with her opposite hand to maintain tension while brushing through the top layer.",
+    "product_visible": true
+   },
+   {
+    "start_s": 64.8,
+    "end_s": 70.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushes near the crown, steam visible behind the teeth of the brush.",
+    "action": "She clarifies that the brush does not leave hair wet because the steam evaporates within seconds.",
+    "product_visible": true
+   },
+   {
+    "start_s": 70.2,
+    "end_s": 73.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the tool beside her face, displaying her full, voluminous, silky straightened hair.",
+    "action": "She shakes her hair slightly and delivers the concluding statement.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera with half her hair in a messy bun, holding the white Wavytalk Steamline Pro while touching her frizzy hair.",
+   "visual_0_3s": "Creator addresses camera and immediately puts the steam brush to her frizzy curly hair section.",
+   "spoken_0_3s": "Okay, hear me out. But if you have never used steam to straighten your hair, you are seriously missing out.",
+   "text_0_3s": "",
+   "hook_type": "curiosity_gap",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "The sudden gliding of a steaming brush down thick frizzy hair that turns instantly silky straight in one second."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Provocative hook introducing steam for straightening hair",
+    "Tackling common objection that steam ruins curly hair",
+    "Scientific explanation of steam hydration vs dry heat damage",
+    "Feature walkthrough of water tank and brush design vs clamping plates",
+    "Technique tips: curling ends, doing bangs, and using tension",
+    "Addressing objection that steam leaves hair wet",
+    "Final look reveal with healthy, shiny straight hair"
+   ],
+   "main_angle": "less_heat_damage",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Steam prevents hair from over-drying and breaking",
+    "Brush design eliminates clamping hair between damaging flat iron metal plates",
+    "Single water tank fill lasts for the whole head",
+    "Leaves hair straight without making it wet (evaporates in 5 seconds)"
+   ],
+   "pain_points": [
+    "Straightening curly hair causes severe heat damage and dryness",
+    "Flat iron clamping squashes and breaks brittle curly strands",
+    "Fear that moisture/steam will make hair curl or stay wet"
+   ],
+   "objections_handled": [
+    "Steam and curly hair don't mix: Debunked by showing proper hydration prevents frizz and breakage",
+    "Does steam make your hair wet: Clarifies that fine steam evaporates in 5 seconds",
+    "Will the water tank run out mid-session: One fill lasts the entire session"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional flat iron straighteners that clamp hair between two metal plates"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steamline Pro"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 2.0,
+   "final_result_shown_s": 71.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Do not knock adding steam to your straightening routine until you've tried it.",
+   "cta_on_screen": "",
+   "cta_at_s": 70.3
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-28",
+   "hair_before": "Thick, dark brunette frizzy textured curls",
+   "hair_after": "Silky, shiny, smooth blowout-straight with flipped ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, informative, persuasive and relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No background music; raw natural talking audio with ambient steam brush sounds",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 10,
+   "avg_shot_length_s": 7.35,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between hair sections"
+   ],
+   "ending": "Creator smiling directly into camera while gesturing with her finished straightened hair and holding the product"
+  },
+  "notes": "Native English UGC ad repurposed for the Lebanese/regional market. Product shown on device and spoken in video as Wavytalk Steamline Pro (commercialized locally as Steambrush Pro / Steamline Pro)."
+ }
+}

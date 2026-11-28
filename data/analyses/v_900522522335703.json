@@ -1,0 +1,465 @@
+{
+ "media_key": "v_900522522335703",
+ "analyzed_at": "2026-11-28T00:09:21+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "9a4549adaa3598737275281af7399df72ea2f37ce901caec14f9a24e30a5b519",
+ "source": {
+  "kind": "video",
+  "id": "900522522335703",
+  "video_id": "1379768613350927",
+  "length_s": 105.533,
+  "permalink": "/23849366283980795/videos/1379768613350927/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 105.7,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator tests the Wavytalk Steam Straightener brush on her thick, curly, voluminous hair, timing the process to achieve sleek straight hair in 16 minutes.",
+  "full_description": "A creator with very thick, voluminous curly dark hair tests the Wavytalk Steam Straightening Brush. She explains her skepticism given her hair texture, fills the water tank using the applicator, starts a phone timer, and straightens her hair section by section with single passes. She shows progress updates at 5 minutes and 11 minutes, demonstrates flipping the ends and doing her bangs, and concludes the full style in 16 minutes and 14 seconds, showing off the silky, smooth, hydrated final result.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's straighten my hair with a steam straightener.",
+    "text_english": "Let's straighten my hair with a steam straightener."
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 7.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I've heard nothing but great reviews on this, but I was a little skeptical cuz you can clearly see my texture.",
+    "text_english": "I've heard nothing but great reviews on this, but I was a little skeptical cuz you can clearly see my texture."
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 10.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So let's put it to the test and see if it works on thick curly hair.",
+    "text_english": "So let's put it to the test and see if it works on thick curly hair."
+   },
+   {
+    "start_s": 10.4,
+    "end_s": 17.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Honestly when I first heard about this tool I thought it was kind of counterproductive, especially because humidity and water tends to obviously curl the hair.",
+    "text_english": "Honestly when I first heard about this tool I thought it was kind of counterproductive, especially because humidity and water tends to obviously curl the hair."
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 22.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Apparently the steam is supposed to hydrate the hair, reduce breakage, and overall it's supposed to be healthier than a regular straightener.",
+    "text_english": "Apparently the steam is supposed to hydrate the hair, reduce breakage, and overall it's supposed to be healthier than a regular straightener."
+   },
+   {
+    "start_s": 23.3,
+    "end_s": 27.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It comes with this little applicator to then put water in this tank, and let's go ahead and time this.",
+    "text_english": "It comes with this little applicator to then put water in this tank, and let's go ahead and time this."
+   },
+   {
+    "start_s": 27.8,
+    "end_s": 29.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "First strand.",
+    "text_english": "First strand."
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 34.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay wait, you guys see that?",
+    "text_english": "Okay wait, you guys see that?"
+   },
+   {
+    "start_s": 34.9,
+    "end_s": 37.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "That actually is working really well.",
+    "text_english": "That actually is working really well."
+   },
+   {
+    "start_s": 37.6,
+    "end_s": 40.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's try this again with a thicker section.",
+    "text_english": "Let's try this again with a thicker section."
+   },
+   {
+    "start_s": 40.8,
+    "end_s": 44.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is crazy cuz it's just one pass.",
+    "text_english": "This is crazy cuz it's just one pass."
+   },
+   {
+    "start_s": 45.4,
+    "end_s": 48.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Why am I shocked? I've clearly done this three times now.",
+    "text_english": "Why am I shocked? I've clearly done this three times now."
+   },
+   {
+    "start_s": 48.8,
+    "end_s": 54.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now I'm gonna try with a way thicker section cuz I just wanted to test it out and see if that works.",
+    "text_english": "Now I'm gonna try with a way thicker section cuz I just wanted to test it out and see if that works."
+   },
+   {
+    "start_s": 54.2,
+    "end_s": 57.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "That was such a big chunk! Oh my gosh.",
+    "text_english": "That was such a big chunk! Oh my gosh."
+   },
+   {
+    "start_s": 59.8,
+    "end_s": 63.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Insane cuz I'm done the bottom half in 5 minutes.",
+    "text_english": "Insane cuz I'm done the bottom half in 5 minutes."
+   },
+   {
+    "start_s": 63.8,
+    "end_s": 67.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay it's been 11 minutes and we're at the halfway point now.",
+    "text_english": "Okay it's been 11 minutes and we're at the halfway point now."
+   },
+   {
+    "start_s": 67.2,
+    "end_s": 70.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "When it comes to the end you just want to flip the hair back.",
+    "text_english": "When it comes to the end you just want to flip the hair back."
+   },
+   {
+    "start_s": 70.8,
+    "end_s": 73.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And same thing when it comes to the bangs.",
+    "text_english": "And same thing when it comes to the bangs."
+   },
+   {
+    "start_s": 73.5,
+    "end_s": 77.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This took me exactly 16 minutes and 14 seconds to complete the hair.",
+    "text_english": "This took me exactly 16 minutes and 14 seconds to complete the hair."
+   },
+   {
+    "start_s": 77.8,
+    "end_s": 82.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And honestly that is super fast, especially cuz I was talking.",
+    "text_english": "And honestly that is super fast, especially cuz I was talking."
+   },
+   {
+    "start_s": 82.2,
+    "end_s": 88.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I was so skeptical of this product and I have to say I'm super shocked with the results because it looks beautiful.",
+    "text_english": "I was so skeptical of this product and I have to say I'm super shocked with the results because it looks beautiful."
+   },
+   {
+    "start_s": 88.0,
+    "end_s": 93.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "My hair feels way more softer and smoother than when I just use a regular straightener.",
+    "text_english": "My hair feels way more softer and smoother than when I just use a regular straightener."
+   },
+   {
+    "start_s": 93.4,
+    "end_s": 95.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And I know that I'm gonna be using it again.",
+    "text_english": "And I know that I'm gonna be using it again."
+   },
+   {
+    "start_s": 95.8,
+    "end_s": 99.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "But the real test is to see how long this would last,",
+    "text_english": "But the real test is to see how long this would last,"
+   },
+   {
+    "start_s": 99.5,
+    "end_s": 101.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and whether or not my hair is going to turn curly by the end of this day.",
+    "text_english": "and whether or not my hair is going to turn curly by the end of this day."
+   },
+   {
+    "start_s": 101.9,
+    "end_s": 103.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let me know if you guys would want a video on that.",
+    "text_english": "Let me know if you guys would want a video on that."
+   },
+   {
+    "start_s": 103.8,
+    "end_s": 105.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And let me know what you guys think and if you would try this out as well.",
+    "text_english": "And let me know what you guys think and if you would try this out as well."
+   }
+  ],
+  "transcript_full_original": "Let's straighten my hair with a steam straightener. I've heard nothing but great reviews on this, but I was a little skeptical cuz you can clearly see my texture. So let's put it to the test and see if it works on thick curly hair. Honestly when I first heard about this tool I thought it was kind of counterproductive, especially because humidity and water tends to obviously curl the hair. Apparently the steam is supposed to hydrate the hair, reduce breakage, and overall it's supposed to be healthier than a regular straightener. It comes with this little applicator to then put water in this tank, and let's go ahead and time this. First strand. Okay wait, you guys see that? That actually is working really well. Let's try this again with a thicker section. This is crazy cuz it's just one pass. Why am I shocked? I've clearly done this three times now. Now I'm gonna try with a way thicker section cuz I just wanted to test it out and see if that works. That was such a big chunk! Oh my gosh. Insane cuz I'm done the bottom half in 5 minutes. Okay it's been 11 minutes and we're at the halfway point now. When it comes to the end you just want to flip the hair back. And same thing when it comes to the bangs. This took me exactly 16 minutes and 14 seconds to complete the hair. And honestly that is super fast, especially cuz I was talking. I was so skeptical of this product and I have to say I'm super shocked with the results because it looks beautiful. My hair feels way more softer and smoother than when I just use a regular straightener. And I know that I'm gonna be using it again. But the real test is to see how long this would last, and whether or not my hair is going to turn curly by the end of this day. Let me know if you guys would want a video on that. And let me know what you guys think and if you would try this out as well.",
+  "transcript_full_english": "Let's straighten my hair with a steam straightener. I've heard nothing but great reviews on this, but I was a little skeptical cuz you can clearly see my texture. So let's put it to the test and see if it works on thick curly hair. Honestly when I first heard about this tool I thought it was kind of counterproductive, especially because humidity and water tends to obviously curl the hair. Apparently the steam is supposed to hydrate the hair, reduce breakage, and overall it's supposed to be healthier than a regular straightener. It comes with this little applicator to then put water in this tank, and let's go ahead and time this. First strand. Okay wait, you guys see that? That actually is working really well. Let's try this again with a thicker section. This is crazy cuz it's just one pass. Why am I shocked? I've clearly done this three times now. Now I'm gonna try with a way thicker section cuz I just wanted to test it out and see if that works. That was such a big chunk! Oh my gosh. Insane cuz I'm done the bottom half in 5 minutes. Okay it's been 11 minutes and we're at the halfway point now. When it comes to the end you just want to flip the hair back. And same thing when it comes to the bangs. This took me exactly 16 minutes and 14 seconds to complete the hair. And honestly that is super fast, especially cuz I was talking. I was so skeptical of this product and I have to say I'm super shocked with the results because it looks beautiful. My hair feels way more softer and smoother than when I just use a regular straightener. And I know that I'm gonna be using it again. But the real test is to see how long this would last, and whether or not my hair is going to turn curly by the end of this day. Let me know if you guys would want a video on that. And let me know what you guys think and if you would try this out as well.",
+  "word_count": 319,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.8,
+    "text": "straightening my hair with steam..",
+    "role": "hook"
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 105.7,
+    "text": "word-by-word synchronized subtitles",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 9.8,
+    "shot_type": "medium shot",
+    "visual": "Creator stands in her room holding up her massive curly thick frizzy hair, then shows the pink Wavytalk steam brush.",
+    "action": "Creator talks directly to camera, showing hair volume, holding the brush and examining the water tank.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 23.3,
+    "shot_type": "medium shot",
+    "visual": "Creator clips the top portion of her hair up and sprays heat protectant / sectioning spray.",
+    "action": "Creator sections hair and explains the supposed benefits of steam straightening vs conventional heat tools.",
+    "product_visible": false
+   },
+   {
+    "start_s": 23.3,
+    "end_s": 27.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the pink steam straightener in one hand and the small plastic water dropper in the other.",
+    "action": "She explains the water applicator and shows her phone stopwatch resetting to zero.",
+    "product_visible": true
+   },
+   {
+    "start_s": 27.5,
+    "end_s": 37.0,
+    "shot_type": "medium shot",
+    "visual": "Wearing a heat glove, creator runs the steaming brush down a section of hair.",
+    "action": "In one pass the section becomes pin straight, shiny and smooth; creator reacts with genuine surprise.",
+    "product_visible": true
+   },
+   {
+    "start_s": 37.0,
+    "end_s": 48.6,
+    "shot_type": "medium shot",
+    "visual": "Creator takes a thicker strand of hair and glides the brush through.",
+    "action": "Demonstrates one pass efficiency and shows smooth results against remaining frizzy curly hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 48.6,
+    "end_s": 57.5,
+    "shot_type": "medium shot",
+    "visual": "Creator takes a huge thick section of hair and passes the steam brush down it.",
+    "action": "She glides the brush slowly, showing how even large chunks straighten perfectly in a single motion.",
+    "product_visible": true
+   },
+   {
+    "start_s": 57.5,
+    "end_s": 59.8,
+    "shot_type": "close-up",
+    "visual": "Close-up of hair bristles combing through wavy damp textured hair, steam emitting gently.",
+    "action": "Brush combs smoothly through the length of hair leaving straight sleek texture.",
+    "product_visible": true
+   },
+   {
+    "start_s": 59.8,
+    "end_s": 63.8,
+    "shot_type": "medium shot",
+    "visual": "Creator holds up phone showing stopwatch at 05:07.13.",
+    "action": "She shares that the entire bottom half took only 5 minutes.",
+    "product_visible": false
+   },
+   {
+    "start_s": 63.8,
+    "end_s": 67.0,
+    "shot_type": "medium shot",
+    "visual": "Creator holds up phone showing stopwatch at 11:01.88.",
+    "action": "Shows progress at 11 minutes halfway through the head.",
+    "product_visible": false
+   },
+   {
+    "start_s": 67.0,
+    "end_s": 73.2,
+    "shot_type": "medium shot",
+    "visual": "Creator styles top front section and crown/bangs.",
+    "action": "She demonstrates placing the brush at the roots and flipping backwards for volume and smooth direction.",
+    "product_visible": true
+   },
+   {
+    "start_s": 73.2,
+    "end_s": 77.5,
+    "shot_type": "medium shot",
+    "visual": "Creator shows phone timer stopped at 16:14.21.",
+    "action": "Shows exact styling time: 16 minutes and 14 seconds.",
+    "product_visible": false
+   },
+   {
+    "start_s": 77.5,
+    "end_s": 105.7,
+    "shot_type": "medium shot",
+    "visual": "Creator runs hands through glossy, completely straightened long dark hair.",
+    "action": "She reviews the results, compares softness to flat irons, holds up the tool, and asks audience for their thoughts.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holds up huge poofy curly dark hair with both hands, text reads 'straightening my hair with steam..'",
+   "visual_0_3s": "Creator displaying extreme volume, frizzy curls, then introducing the sleek pink steam brush device.",
+   "spoken_0_3s": "Let's straighten my hair with a steam straightener.",
+   "text_0_3s": "straightening my hair with steam..",
+   "hook_type": "curiosity_gap",
+   "hook_type_secondary": "problem_callout",
+   "pattern_interrupt": "Visual contrast of huge voluminous frizzy hair paired with the promise of steam straightening."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook displaying massive natural curly texture and introducing the steam straightener",
+    "Addressing skepticism (counter-intuitive idea of adding steam/water to curl-prone hair)",
+    "Product prep: explaining water tank & starting stopwatch timer",
+    "Step-by-step trial: first strand 1-pass test with immediate shocking result",
+    "Stress test: testing thicker and very thick sections with single pass",
+    "Time milestones: showing stopwatch at 5 mins, 11 mins, and finished at 16 mins",
+    "Technique tips: how to flip ends and straighten bangs/crown",
+    "Final result showcase: soft, glossy, smooth salon finish",
+    "Engagement CTA: asking viewers if they want a wear test video"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "saves_time",
+    "less_heat_damage",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Straightens very thick curly hair in one pass",
+    "Hydrates hair and reduces heat breakage compared to regular straighteners",
+    "Entire head completed in just 16 minutes and 14 seconds",
+    "Leaves hair noticeably softer and smoother"
+   ],
+   "pain_points": [
+    "Thick curly hair taking forever to straighten",
+    "Heat damage and breakage from traditional flat irons",
+    "Frizz and reversion caused by humidity"
+   ],
+   "objections_handled": [
+    "Will steam make hair frizzier/curlier? (Handled: the steam hydrates while heat seals it straight without frizz)",
+    "Does it work on very thick or large chunks of hair? (Demonstrated on small, medium, and huge sections successfully)"
+   ],
+   "social_proof": [
+    "Creator mentions hearing nothing but great reviews before trying it"
+   ],
+   "comparison_to": "Regular flat iron / traditional straighteners"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steambrush Pro"
+   ],
+   "first_seen_s": 1.8,
+   "first_used_on_hair_s": 28.0,
+   "final_result_shown_s": 76.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Let me know if you guys would want a video on that, and let me know what you guys think and if you would try this out as well.",
+   "cta_on_screen": "",
+   "cta_at_s": 101.9
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Thick, long, dark brown/black textured wavy/curly and voluminous/frizzy",
+   "hair_after": "Ultra-sleek, pin-straight, shiny and soft dark hair",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Engaging, conversational, genuine, pleasantly surprised"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Soft upbeat modern lo-fi instrumental playing gently under the creator's voice",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 18,
+   "avg_shot_length_s": 5.87,
+   "pacing": "medium",
+   "effects": [
+    "burned-in animated subtitle words",
+    "speed ramp / cutaways for styling duration"
+   ],
+   "ending": "Creator smiles, clasping hands together and asking viewers for comments and feedback."
+  },
+  "notes": "Original creator video featuring the Wavytalk Steam Straightening Brush used for international paid social campaigns in the Middle East (LB/JO)."
+ }
+}

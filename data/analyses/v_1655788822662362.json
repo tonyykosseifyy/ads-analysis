@@ -1,0 +1,395 @@
+{
+ "media_key": "v_1655788822662362",
+ "analyzed_at": "2026-11-28T00:15:06+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "20bdab9977ab1c8f4f4662f289715f30a466268800f2af78a9d94a200a4b9dce",
+ "source": {
+  "kind": "video",
+  "id": "1655788822662362",
+  "video_id": "4502589310024539",
+  "length_s": 45.633,
+  "permalink": "/23849366283980795/videos/4502589310024539/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 45.4,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese university student explains her daily hair struggle before class and demonstrates styling her hair quickly with the WavyTalk thermal blowout brush.",
+  "full_description": "A young female creator in a room holds a mini clip-on lapel mic and speaks in Lebanese Arabic mixed with English about how she hates leaving home for university with messy hair and always ran late trying to style it. She introduces the WavyTalk thermal round brush (Blowout Boost), showing how it completely transformed her routine. She demonstrates sectioning a strand of her long straight brown hair, wrapping it around the heated barrel, and revealing a smooth bouncy curl. She continues styling the rest of her hair, shows the finished voluminous blowout done in just 15 minutes, and highlights the Back to School discount and 30-day return guarantee.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 80,
+    "en": 20,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "arabizi",
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "أنا صراحة ما بحب أظهر من البيت وشعري مش زابط، وخصوصي إذا رايحة عالجامعة.",
+    "text_english": "Honestly, I don't like leaving the house with my hair not done, especially if I'm heading to university."
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 11.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وأسوأ شي بس جرب أعمل شعراتي وكون already مأخرة، وياخد كتير وقت وما يزبط من أول أول مرة.",
+    "text_english": "And the worst thing is when I try to do my hair while already being late, taking so much time and it doesn't turn out right from the very first time."
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 14.2,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "فبالآخر يا بتأخر ع صفوفي أو بربط شعراتي.",
+    "text_english": "So in the end, either I'm late to my classes or I tie my hair up."
+   },
+   {
+    "start_s": 14.2,
+    "end_s": 20.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بس recently لقيت tool من WavyTalk وغيرلي كل my routine. رح فرجيكن قديش سريع و easy to use.",
+    "text_english": "But recently I found a tool from WavyTalk and it changed my entire routine. I'll show you how fast and easy to use it is."
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 28.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "كل يلي بعمله هو إنه باخد خصلة صغيرة وبلفها، بنطرها شوي ومن بعدها بتركها. وشوفوا قديه results حلوة.",
+    "text_english": "All I do is take a small section, wrap it, wait a bit, and then release it. And look how nice the results are."
+   },
+   {
+    "start_s": 29.0,
+    "end_s": 34.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وهلأ حكفي على كل my hair لفرجيكن قديه results حلوة و easy to use.",
+    "text_english": "And now I will continue on all my hair to show you how nice the results are and easy to use."
+   },
+   {
+    "start_s": 34.8,
+    "end_s": 38.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وهيك طلعوا! Literally أخدوا معي 15 minutes.",
+    "text_english": "And this is how it turned out! Literally took me 15 minutes."
+   },
+   {
+    "start_s": 38.8,
+    "end_s": 45.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "والـ brush مش بس عليها back to school discount، في كمان 30 days return. إذا ما حبيتي results you can turn it back.",
+    "text_english": "And the brush not only has a back-to-school discount, there is also a 30-day return. If you don't like the results, you can return it."
+   }
+  ],
+  "transcript_full_original": "أنا صراحة ما بحب أظهر من البيت وشعري مش زابط، وخصوصي إذا رايحة عالجامعة. وأسوأ شي بس جرب أعمل شعراتي وكون already مأخرة، وياخد كتير وقت وما يزبط من أول أول مرة. فبالآخر يا بتأخر ع صفوفي أو بربط شعراتي. بس recently لقيت tool من WavyTalk وغيرلي كل my routine. رح فرجيكن قديش سريع و easy to use. كل يلي بعمله هو إنه باخد خصلة صغيرة وبلفها، بنطرها شوي ومن بعدها بتركها. وشوفوا قديه results حلوة. وهلأ حكفي على كل my hair لفرجيكن قديه results حلوة و easy to use. وهيك طلعوا! Literally أخدوا معي 15 minutes. والـ brush مش بس عليها back to school discount، في كمان 30 days return. إذا ما حبيتي results you can turn it back.",
+  "transcript_full_english": "Honestly, I don't like leaving the house with my hair not done, especially if I'm heading to university. And the worst thing is when I try to do my hair while already being late, taking so much time and it doesn't turn out right from the very first time. So in the end, either I'm late to my classes or I tie my hair up. But recently I found a tool from WavyTalk and it changed my entire routine. I'll show you how fast and easy to use it is. All I do is take a small section, wrap it, wait a bit, and then release it. And look how nice the results are. And now I will continue on all my hair to show you how nice the results are and easy to use. And this is how it turned out! Literally took me 15 minutes. And the brush not only has a back-to-school discount, there is also a 30-day return. If you don't like the results, you can return it.",
+  "word_count": 127,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 0.9,
+    "text": "ana saraha",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 0.9,
+    "end_s": 2.0,
+    "text": "Ma bhb odhar",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 3.1,
+    "text": "w sha3re mesh zabet",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.1,
+    "end_s": 3.9,
+    "text": "w khsouse",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.9,
+    "end_s": 4.9,
+    "text": "eza ray7a aal jem3a",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 5.8,
+    "text": "w aswa2 shi",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 7.4,
+    "text": "bas jarreb a3mel sha3rate",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 8.5,
+    "text": "m2akhra",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 9.5,
+    "text": "w yekhod ktir wa2et",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 10.4,
+    "text": "w ma yozbat men",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.4,
+    "end_s": 11.4,
+    "text": "awal awal marra",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.4,
+    "end_s": 12.3,
+    "text": "fa bel ekher ya",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 13.5,
+    "text": "bet2akhar aa sfoufe aw",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 14.5,
+    "text": "borbot shaarate",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 16.0,
+    "text": "Bas recently l2it tool",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 16.8,
+    "text": "men wavytalk",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.8,
+    "end_s": 18.0,
+    "text": "w ghayarle kel my routine",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 19.4,
+    "text": "rah farjikon addesh sari3",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.4,
+    "end_s": 20.8,
+    "text": "w easy to use",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 38.8,
+    "end_s": 39.8,
+    "text": "Wel brush mesh",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 39.8,
+    "end_s": 41.2,
+    "text": "3laya back to",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 41.2,
+    "end_s": 42.6,
+    "text": "fi kamen 30 days return",
+    "role": "benefit"
+   },
+   {
+    "start_s": 42.6,
+    "end_s": 43.6,
+    "text": "eza ma 7abayte",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 43.6,
+    "end_s": 45.4,
+    "text": "you can turn it back",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 14.2,
+    "shot_type": "medium shot",
+    "visual": "Young creator with long straight hair sitting in front of curtains holding a small lavalier microphone, gesturing while talking about being late for university.",
+    "action": "Creator talks directly to the camera about her struggle with doing hair in the morning.",
+    "product_visible": false
+   },
+   {
+    "start_s": 14.2,
+    "end_s": 20.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds up the pink WavyTalk thermal blowout brush to the camera, showing the barrel and digital temperature display.",
+    "action": "Creator introduces the tool and explains how it changed her routine.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 28.8,
+    "shot_type": "close-up",
+    "visual": "Creator demonstrates wrapping a front strand of hair around the heated round brush, holding it for a moment, and releasing a soft curl.",
+    "action": "Creator styles a strand of hair and inspects the smooth curled result with her hand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.8,
+    "end_s": 34.5,
+    "shot_type": "medium shot",
+    "visual": "Creator curls the lower sections of her long hair using the thermal brush.",
+    "action": "Creator rolls the brush upward through hair sections and smiles at the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 34.5,
+    "end_s": 38.6,
+    "shot_type": "medium shot",
+    "visual": "Creator displays the fully styled blowout result, fluffing and moving her long voluminous hair with both hands.",
+    "action": "Creator happily presents her finished look and states it only took 15 minutes.",
+    "product_visible": false
+   },
+   {
+    "start_s": 38.6,
+    "end_s": 45.4,
+    "shot_type": "medium shot",
+    "visual": "Creator holds the pink thermal brush in one hand and the microphone in the other, smiling and explaining the back-to-school discount and return policy.",
+    "action": "Creator delivers the closing offer and call-to-action.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding a lavalier microphone against neutral curtains, talking to camera with caption 'ana saraha'.",
+   "visual_0_3s": "Creator talking into a mini microphone with expressive hand gestures.",
+   "spoken_0_3s": "أنا صراحة ما بحب أظهر من البيت وشعري مش زابط",
+   "text_0_3s": "ana saraha / Ma bhb odhar / w sha3re mesh zabet",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "problem_callout",
+   "pattern_interrupt": "Relatable student dilemma opening ('never leaving home without done hair, especially for university')."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Relatable problem: wanting done hair for university but constantly running late and ending up tying it back",
+    "Product discovery: discovered WavyTalk tool that changed her morning routine",
+    "Live demonstration: showing how quickly and effortlessly it creates bouncy curls on a section",
+    "Styling process & final look: reveals full blowout achieved in just 15 minutes",
+    "Offer & risk reversal: Back to school discount plus 30-day money-back guarantee"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "easy_for_beginners",
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Changed my entire routine",
+    "Super fast and easy to use",
+    "Full blowout in literally 15 minutes"
+   ],
+   "pain_points": [
+    "Running late for university classes",
+    "Hair taking too long to style with conventional tools",
+    "Hair not turning out right on the first try",
+    "Ending up tying hair back in frustration"
+   ],
+   "objections_handled": [
+    "Takes too long in the morning (done in 15 minutes)",
+    "Difficult to use (simple roll and release technique)",
+    "What if it doesn't work for me (30 days return guarantee)"
+   ],
+   "social_proof": [],
+   "comparison_to": "traditional slow styling tools"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost"
+   ],
+   "first_seen_s": 14.5,
+   "first_used_on_hair_s": 21.0,
+   "final_result_shown_s": 34.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Back to School discount + 30 days return policy",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Back to School seasonal promotion",
+   "cta_spoken": "إذا ما حبيتي results you can turn it back",
+   "cta_on_screen": "you can turn it back",
+   "cta_at_s": 43.6
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, brunette, straight, unstyled natural hair",
+   "hair_after": "Voluminous, smooth blowout with soft bouncy curls at ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "friendly, conversational, authentic, energetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Soft cheerful upbeat pop acoustic background music",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 7.5,
+   "pacing": "medium",
+   "effects": [
+    "Arabizi lower-third dynamic captions",
+    "Jump cuts between speaking and demonstration"
+   ],
+   "ending": "Creator holding the thermal brush and microphone smiling into the camera"
+  },
+  "notes": "Targeted at Lebanese university students/young women looking for a quick morning hair routine before classes. Subtitles use Arabizi (Franco-Arab) matching Lebanese social media communication norms."
+ }
+}

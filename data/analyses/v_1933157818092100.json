@@ -1,0 +1,231 @@
+{
+ "media_key": "v_1933157818092100",
+ "analyzed_at": "2026-11-28T00:09:06+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "2ff2fa585d907e174c8062cf223ed853edaf8fb8f3aa8b3615f53d3adbb5708c",
+ "source": {
+  "kind": "video",
+  "id": "1933157818092100",
+  "video_id": "1541088284464060",
+  "length_s": 19.366,
+  "permalink": "/23849366283980795/videos/1541088284464060/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 19.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A red-haired creator demonstrates the WavyTalk Steambrush Pro by straightening thick, voluminous curly hair into sleek, glossy straight strands.",
+  "full_description": "The video opens with a quick flash hook: a young woman with very thick, voluminous curly ginger hair shakes it out, flashes a 1-second preview of the straight result, then poses with the pink WavyTalk Steambrush Pro. She ties up her hair, powers on the brush to 450°F, highlights the water reservoir and bristle steam vents, and glides the brush through her curly locks, straightening each section in a single pass. She finishes by running her fingers through her waist-length, silky straight hair and smiling at the camera.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.0,
+    "shot_type": "medium shot",
+    "visual": "Young woman with huge voluminous red curly hair shaking her hair at the camera.",
+    "action": "Fluffing and showing off her naturally curly voluminous hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 2.0,
+    "shot_type": "medium shot",
+    "visual": "Quick flash transition showing the creator with sleek, pin-straight hair.",
+    "action": "Demonstrating the final result as a tease in the hook.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 3.2,
+    "shot_type": "medium shot",
+    "visual": "Creator back with curly hair, holding the pink WavyTalk steam brush next to her face.",
+    "action": "Introducing the styling tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 4.1,
+    "shot_type": "medium shot",
+    "visual": "Creator gathering her hair into a top half-bun with a scrunchie.",
+    "action": "Sectioning hair for styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 5.0,
+    "shot_type": "close-up",
+    "visual": "Handle of the pink steam brush showing temperature indicator lights.",
+    "action": "Creator presses the power button to set temperature to 450°F.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 5.9,
+    "shot_type": "close-up",
+    "visual": "Clear water reservoir cartridge on the back of the brush.",
+    "action": "Highlighting the water chamber of the steam brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.9,
+    "end_s": 6.8,
+    "shot_type": "close-up",
+    "visual": "Bristles and steam comb head of the pink tool.",
+    "action": "Showing the brush comb teeth and steam openings.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 9.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator pulling the steam brush down a long curly section of hair.",
+    "action": "One-pass straightening showing immediate smooth straight transformation.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.1,
+    "end_s": 10.3,
+    "shot_type": "medium close-up",
+    "visual": "Smoothing over the section again to polish.",
+    "action": "Finishing the section with the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.3,
+    "end_s": 11.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushing through the root section near the crown.",
+    "action": "Straightening the hair close to the roots.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 13.0,
+    "shot_type": "medium shot",
+    "visual": "Creator letting down another strand of curly hair.",
+    "action": "Prepping the next section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 14.8,
+    "shot_type": "medium shot",
+    "visual": "Brushing through front side strands smoothly while smiling.",
+    "action": "Gliding brush down hair lengths with ease.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 19.0,
+    "shot_type": "medium shot",
+    "visual": "Creator showing fully straightened, silky red hair falling past her waist.",
+    "action": "Touching, tossing, and flipping her smooth straight hair, smiling happily.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator shaking massive curly red hair towards the camera.",
+   "visual_0_3s": "Rapid before/after flash cut: massive curls, instant cut to straight hair, then back to curls holding the pink tool.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "before_after",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Rapid 1-second flash of the final sleek straight result between the wild curly before state."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Shock value curly before state",
+    "Flash preview of sleek straight result",
+    "Tool introduction and feature close-up (water tank, temperature, bristles)",
+    "One-pass demo transforming curly section to straight",
+    "Final result showcase with hair flips"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "saves_time",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Straightens extremely curly, thick hair in one pass",
+    "Steam technology provides sleek, shiny, frizz-free finish"
+   ],
+   "pain_points": [
+    "Hard to manage, unruly thick curly hair",
+    "Time-consuming straightening routines"
+   ],
+   "objections_handled": [
+    "Does it work on very thick and coily/curly hair?",
+    "Will it leave hair frizzy?"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Steambrush Pro"
+   ],
+   "first_seen_s": 2.0,
+   "first_used_on_hair_s": 6.8,
+   "final_result_shown_s": 1.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Very long, dense, voluminous curly ginger/copper hair",
+   "hair_after": "Ultra-long, sleek, glossy pin-straight ginger/copper hair",
+   "setting": "Kitchen / domestic home interior",
+   "faces_camera": true,
+   "energy_tone": "Playful, confident, upbeat"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat pop remix of 'Heart of Glass' by Blondie",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 12,
+   "avg_shot_length_s": 1.5,
+   "pacing": "fast",
+   "effects": [
+    "quick flash cut hook",
+    "macro feature close-ups",
+    "beat sync edits"
+   ],
+   "ending": "Creator smiling broadly and tossing her long straight hair over her shoulder."
+  },
+  "notes": "Fast UGC demo optimized for TikTok/Reels using trending music with zero spoken audio or overlay text, letting the dramatic visual transformation on very long curly hair sell the tool."
+ }
+}

@@ -1,0 +1,293 @@
+{
+ "media_key": "v_1304043958553131",
+ "analyzed_at": "2026-11-28T00:31:38+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "5f1d4b2ac1e4a451ea9ab61ea3badde691292f24101071dcdb6d125fa72262d8",
+ "source": {
+  "kind": "video",
+  "id": "1304043958553131",
+  "video_id": "1747865273037567",
+  "length_s": 39.939,
+  "permalink": "/23849366283980795/videos/1747865273037567/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 39.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A woman demonstrates transforming flat, textured hair into bouncy salon curls using the Wavytalk Blowout Boost thermal round brush with pin curls.",
+  "full_description": "A tutorial-style UGC video where a creator shows how she styles her dark hair from flat and textured into voluminous, bouncy curls using the Wavytalk Blowout Boost thermal round brush. She details her technique: sectioning hair, setting the tool to the highest heat, gliding down while twisting the ends, and pinning each section into pin curls to cool. After releasing the clips, she shakes out and parts her hair to reveal glossy, voluminous, salon-quality waves.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Flat and lifeless? Yeah, I can fix that using the Wavytalk Blowout Boost.",
+    "text_english": "Flat and lifeless? Yeah, I can fix that using the Wavytalk Blowout Boost."
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 12.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I always work in small sections and on the highest heat setting, wrapping my hair gently around the heated bristles, pulling down, and then circling at the ends for that perfect bounce.",
+    "text_english": "I always work in small sections and on the highest heat setting, wrapping my hair gently around the heated bristles, pulling down, and then circling at the ends for that perfect bounce."
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 17.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "The ceramic barrel heats evenly so every pass leaves my hair smooth, shiny, and full of volume.",
+    "text_english": "The ceramic barrel heats evenly so every pass leaves my hair smooth, shiny, and full of volume."
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 24.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "After each section, I go ahead and pin curl the ends of my hair and just kind of let that sit while I work on the rest of my head.",
+    "text_english": "After each section, I go ahead and pin curl the ends of my hair and just kind of let that sit while I work on the rest of my head."
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 35.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Once I'm completed with my entire head, I go ahead and start removing the pin curls and gently start working my fingers through my hair and just styling my hair how I normally like to, which is a side part.",
+    "text_english": "Once I'm completed with my entire head, I go ahead and start removing the pin curls and gently start working my fingers through my hair and just styling my hair how I normally like to, which is a side part."
+   },
+   {
+    "start_s": 35.8,
+    "end_s": 39.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "And here's the final look: soft, bouncy, salon-worthy curls in minutes.",
+    "text_english": "And here's the final look: soft, bouncy, salon-worthy curls in minutes."
+   }
+  ],
+  "transcript_full_original": "Flat and lifeless? Yeah, I can fix that using the Wavytalk Blowout Boost. I always work in small sections and on the highest heat setting, wrapping my hair gently around the heated bristles, pulling down, and then circling at the ends for that perfect bounce. The ceramic barrel heats evenly so every pass leaves my hair smooth, shiny, and full of volume. After each section, I go ahead and pin curl the ends of my hair and just kind of let that sit while I work on the rest of my head. Once I'm completed with my entire head, I go ahead and start removing the pin curls and gently start working my fingers through my hair and just styling my hair how I normally like to, which is a side part. And here's the final look: soft, bouncy, salon-worthy curls in minutes.",
+  "transcript_full_english": "Flat and lifeless? Yeah, I can fix that using the Wavytalk Blowout Boost. I always work in small sections and on the highest heat setting, wrapping my hair gently around the heated bristles, pulling down, and then circling at the ends for that perfect bounce. The ceramic barrel heats evenly so every pass leaves my hair smooth, shiny, and full of volume. After each section, I go ahead and pin curl the ends of my hair and just kind of let that sit while I work on the rest of my head. Once I'm completed with my entire head, I go ahead and start removing the pin curls and gently start working my fingers through my hair and just styling my hair how I normally like to, which is a side part. And here's the final look: soft, bouncy, salon-worthy curls in minutes.",
+  "word_count": 137,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.7,
+    "shot_type": "medium close-up",
+    "visual": "A young Black woman holds up strands of dry, flat, crimped/textured black hair to show the 'before' state.",
+    "action": "She touches and shakes her hair looking into the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 2.7,
+    "shot_type": "medium close-up",
+    "visual": "Brief flash of the finished bouncy curled hairstyle.",
+    "action": "Creator smiles warmly showing the styled result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.7,
+    "end_s": 3.8,
+    "shot_type": "close-up / product shot",
+    "visual": "Pink Wavytalk Blowout Boost thermal round brush held in hand.",
+    "action": "Hand displays the styling tool showing the digital temperature display and barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 5.4,
+    "shot_type": "medium shot",
+    "visual": "Creator has her hair sectioned and clips holding back the rest of her hair.",
+    "action": "Brushing through a small bottom section with a paddle brush.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 7.4,
+    "shot_type": "close-up / macro",
+    "visual": "Close-up of the Wavytalk Blowout Boost digital display showing 390°F / 410°F setting.",
+    "action": "Thumb adjusts the buttons on the pink handle.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 12.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator running the heated brush through a strand of hair.",
+    "action": "Wrapping hair around the barrel, pulling downwards, and rolling the ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 14.6,
+    "shot_type": "close-up",
+    "visual": "The finished curled strand bouncing in her hand.",
+    "action": "She inspects and touches the freshly curled end.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.6,
+    "end_s": 16.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator pinning the curl to her head with a clip.",
+    "action": "She secures the curl with a silver pin clip.",
+    "product_visible": false
+   },
+   {
+    "start_s": 16.6,
+    "end_s": 20.8,
+    "shot_type": "medium close-up",
+    "visual": "Styling the front section and bangs with the thermal brush.",
+    "action": "Rolling front hair over the barrel towards her face.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 23.9,
+    "shot_type": "close-up",
+    "visual": "Creator holding the freshly curled front section.",
+    "action": "She looks admiringly at the smooth curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.9,
+    "end_s": 24.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator showing all sections pinned up in silver clips.",
+    "action": "She smiles into the camera with a full set of pin curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 24.9,
+    "end_s": 30.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator removing clips from the curled sections.",
+    "action": "She unclips each curl, turns her head to show the back curls falling loosely.",
+    "product_visible": false
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 35.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator raking fingers through the curls.",
+    "action": "Fluffing out curls at the roots and flipping her hair to a side part.",
+    "product_visible": false
+   },
+   {
+    "start_s": 35.8,
+    "end_s": 39.5,
+    "shot_type": "medium close-up",
+    "visual": "Final look: voluminous, glossy, bouncy curls.",
+    "action": "Creator poses and smiles proudly at the finished result.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator pulling at her dry, textured hair showing flat and lifeless texture.",
+   "visual_0_3s": "Creator shows flat hair, quickly transitions to a 1-second glimpse of bouncy curled hair, then shows the pink Wavytalk tool.",
+   "spoken_0_3s": "Flat and lifeless? Yeah, I can fix that using the Wavytalk Blowout Boost.",
+   "text_0_3s": "",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Quick flash transition from messy textured hair to fully styled bouncy hair at 00:01."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Problem presentation (flat, lifeless hair) followed by instant preview of styled hair",
+    "Product introduction (Wavytalk Blowout Boost)",
+    "Step-by-step technique: heat setting, small sections, tension glide, end curl",
+    "Pro-tip demonstration: pin curls to set shape",
+    "Take-down and finger styling",
+    "Final look showcase (soft, bouncy salon curls in minutes)"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "saves_time",
+    "frizz_or_curly_solution"
+   ],
+   "key_claims": [
+    "Fixes flat, lifeless hair",
+    "Ceramic barrel heats evenly",
+    "Leaves hair smooth, shiny, and full of volume",
+    "Delivers salon-worthy curls in minutes"
+   ],
+   "pain_points": [
+    "Flat, limp hair lacking body",
+    "Lifeless, frizzy or unstyled texture"
+   ],
+   "objections_handled": [
+    "Works on textured or coarse hair",
+    "Creates long-lasting bounce when paired with pin curls",
+    "Doesn't snag or pull hair"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 2.7,
+   "first_used_on_hair_s": 7.4,
+   "final_result_shown_s": 1.7,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Dark brown/black, textured, crimped/coarse, dry and flat",
+   "hair_after": "Smooth, glossy, bouncy, dark voluminous waves with side part",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Warm, confident, instructive"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle upbeat lo-fi pop instrumental track underneath the voiceover",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 13,
+   "avg_shot_length_s": 3.0,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts",
+    "macro product focus"
+   ],
+   "ending": "Creator smiles, tilting her head to showcase her voluminous bouncy curls."
+  },
+  "notes": "Native English UGC creative produced for Wavytalk thermal blowout brush, repurposed as an ad for Middle Eastern markets without on-screen Arabic text or subtitles."
+ }
+}

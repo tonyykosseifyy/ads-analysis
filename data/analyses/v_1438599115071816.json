@@ -1,0 +1,356 @@
+{
+ "media_key": "v_1438599115071816",
+ "analyzed_at": "2026-11-28T00:52:43+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "bfbb117015ea9fda8f044a9ec34bb1dbb9bf82cd58277b0dd411b1769260f3dd",
+ "source": {
+  "kind": "video",
+  "id": "1438599115071816",
+  "video_id": "1829047144778365",
+  "length_s": 62.111,
+  "permalink": "/23849366283980795/videos/1829047144778365/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 61.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator tests how fast she can achieve a salon-quality blowout at home using the WavyTalk Blowout Boost heated round brush.",
+  "full_description": "A creator wearing a blue buttoned dress times her blowout routine at home using the pink WavyTalk Blowout Boost thermal round brush. She starts by setting a timer on her wristwatch, then sections her long dark hair, showing step-by-step how she lifts at the roots, glides with light tension, and rolls out. After showing the first section result, she styles the rest of her hair, checks the watch timer, reveals the final voluminous bouncy hair, highlights the tool's 30-second heat-up time, and concludes with a 20% off offer and call to action.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 80,
+    "en": 20,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "قديه بتقولي بدي وقت لاعمل full blowout بالبيت؟ خليني فرجيكي.",
+    "text_english": "How long do you think I need to do a full blowout at home? Let me show you."
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 5.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أول شي حطينا الـ timer.",
+    "text_english": "First thing, we set the timer."
+   },
+   {
+    "start_s": 5.2,
+    "end_s": 11.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "رح بلش بالـ section يلي فوق لاعمل أكتر volume. باخد خصلة صغيرة، برفعها لفوق وبحط الـ brush تحت الـ roots.",
+    "text_english": "I'll start with the top section to get more volume. I take a small section, lift it up and place the brush under the roots."
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 19.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "لاعمل maximum volume، بضل مرق الـ brush directly لتحت، بلفها لورا تـ تلف الخصلة حولها، وبخليها كم ثانية عند الـ roots.",
+    "text_english": "To get maximum volume, I glide the brush directly down, roll it back so the hair wraps around it, and keep it a few seconds at the roots."
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 27.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وانا وعم مرق الـ brush، بحافظ على tension خفيفة، بمرقها شوي شوي عطول الخصلة وبلف، واخر شي لبرا قبل ما شيلها عن الخصلة.",
+    "text_english": "While gliding the brush, I maintain gentle tension, passing it slowly along the strand and rolling, and finally curling outward before releasing it."
+   },
+   {
+    "start_s": 27.2,
+    "end_s": 32.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "شوفوا الفرق قديه طلع حلو، الـ roots اخدوا lift، والخصلة صار فيها shape و bounce.",
+    "text_english": "Look at how nice the difference turned out, the roots got a lift, and the strand has shape and bounce."
+   },
+   {
+    "start_s": 32.8,
+    "end_s": 41.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وهلا رح استعمل نفس الـ technique على باقي شعري. بلف الـ brush ع الخصلة مع tension خفيفة، وباخد خصل صغيرة كرمال يبين شعري open و bouncy وفيه volume.",
+    "text_english": "And now I will use the same technique on the rest of my hair. I wrap the brush around the strand with gentle tension, taking small sections so my hair looks open, bouncy, and full of volume."
+   },
+   {
+    "start_s": 41.5,
+    "end_s": 43.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وهلا خلونا نوقف الـ timer.",
+    "text_english": "And now let's stop the timer."
+   },
+   {
+    "start_s": 43.6,
+    "end_s": 48.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "انتو بس شوفولي قديه طلع الـ result حلو! الـ tool يلي عم بستعملها هي WavyTalk Blowout Boost.",
+    "text_english": "Just look at how gorgeous the result turned out! The tool I'm using is the WavyTalk Blowout Boost."
+   },
+   {
+    "start_s": 48.7,
+    "end_s": 56.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "نقيتها لانها بتحمى بس بـ 30 ثانية، بقدر زبط شعري كله بنفس الـ brush، وهيدا اللي بيخليني خلص أسرع وبطريقة اسهل.",
+    "text_english": "I chose it because it heats up in just 30 seconds, I can do all my hair with the same brush, and this is what lets me finish faster and much easier."
+   },
+   {
+    "start_s": 56.6,
+    "end_s": 61.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "واذا انتي كمان بدك هيدا الـ volume بشعرك، اطلبي الـ WavyTalk Blowout Boost بـ 20% off.",
+    "text_english": "And if you also want this volume in your hair, order the WavyTalk Blowout Boost at 20% off."
+   }
+  ],
+  "transcript_full_original": "قديه بتقولي بدي وقت لاعمل full blowout بالبيت؟ خليني فرجيكي. أول شي حطينا الـ timer. رح بلش بالـ section يلي فوق لاعمل أكتر volume. باخد خصلة صغيرة، برفعها لفوق وبحط الـ brush تحت الـ roots. لاعمل maximum volume، بضل مرق الـ brush directly لتحت، بلفها لورا تـ تلف الخصلة حولها، وبخليها كم ثانية عند الـ roots. وانا وعم مرق الـ brush، بحافظ على tension خفيفة، بمرقها شوي شوي عطول الخصلة وبلف، واخر شي لبرا قبل ما شيلها عن الخصلة. شوفوا الفرق قديه طلع حلو، الـ roots اخدوا lift، والخصلة صار فيها shape و bounce. وهلا رح استعمل نفس الـ technique على باقي شعري. بلف الـ brush ع الخصلة مع tension خفيفة، وباخد خصل صغيرة كرمال يبين شعري open و bouncy وفيه volume. وهلا خلونا نوقف الـ timer. انتو بس شوفولي قديه طلع الـ result حلو! الـ tool يلي عم بستعملها هي WavyTalk Blowout Boost. نقيتها لانها بتحمى بس بـ 30 ثانية، بقدر زبط شعري كله بنفس الـ brush، وهيدا اللي بيخليني خلص أسرع وبطريقة اسهل. واذا انتي كمان بدك هيدا الـ volume بشعرك، اطلبي الـ WavyTalk Blowout Boost بـ 20% off.",
+  "transcript_full_english": "How long do you think I need to do a full blowout at home? Let me show you. First thing, we set the timer. I'll start with the top section to get more volume. I take a small section, lift it up and place the brush under the roots. To get maximum volume, I glide the brush directly down, roll it back so the hair wraps around it, and keep it a few seconds at the roots. While gliding the brush, I maintain gentle tension, passing it slowly along the strand and rolling, and finally curling outward before releasing it. Look at how nice the difference turned out, the roots got a lift, and the strand has shape and bounce. And now I will use the same technique on the rest of my hair. I wrap the brush around the strand with gentle tension, taking small sections so my hair looks open, bouncy, and full of volume. And now let's stop the timer. Just look at how gorgeous the result turned out! The tool I'm using is the WavyTalk Blowout Boost. I chose it because it heats up in just 30 seconds, I can do all my hair with the same brush, and this is what lets me finish faster and much easier. And if you also want this volume in your hair, order the WavyTalk Blowout Boost at 20% off.",
+  "word_count": 182,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 3.4,
+    "end_s": 5.2,
+    "text": "Styling time ✨",
+    "role": "hook"
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 8.9,
+    "text": "Lift & Roll Back",
+    "role": "benefit"
+   },
+   {
+    "start_s": 9.2,
+    "end_s": 11.5,
+    "text": "Gentle Tension",
+    "role": "benefit"
+   },
+   {
+    "start_s": 11.8,
+    "end_s": 26.5,
+    "text": "Glide Slowly & Roll Out",
+    "role": "benefit"
+   },
+   {
+    "start_s": 26.8,
+    "end_s": 29.5,
+    "text": "First Section Result",
+    "role": "benefit"
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 41.5,
+    "text": "Repeat the same Technique",
+    "role": "benefit"
+   },
+   {
+    "start_s": 42.8,
+    "end_s": 56.6,
+    "text": "Wavytalk Blowout Boost",
+    "role": "brand"
+   },
+   {
+    "start_s": 57.0,
+    "end_s": 61.8,
+    "text": "20% OFF\nShop Now",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "shot_type": "medium shot",
+    "visual": "Creator in blue dress holding the pink WavyTalk thermal brush curled in her hair, looking into the camera.",
+    "action": "Creator poses with brush rolled in hair as a hook asking how long a blowout takes.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 5.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator points to her gold wristwatch showing she is starting the timer.",
+    "action": "Points at watch and brushes through sectioned hair with a detangling paddle brush.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.2,
+    "end_s": 11.5,
+    "shot_type": "medium shot",
+    "visual": "Creator sections the crown area of her hair and positions the heated round brush at the roots.",
+    "action": "Lifts the hair section upwards and places the thermal brush right at the roots for root volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 26.8,
+    "shot_type": "medium shot",
+    "visual": "Creator rolling and gliding the thermal round brush down the strand of hair.",
+    "action": "Demonstrates slow gliding motion with gentle tension, rolling the brush outward at the ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.8,
+    "end_s": 32.8,
+    "shot_type": "medium shot",
+    "visual": "Creator showing the first styled curl/wave section against the rest of her natural hair.",
+    "action": "Flips and inspects the styled bouncy strand to display root lift and definition.",
+    "product_visible": true
+   },
+   {
+    "start_s": 32.8,
+    "end_s": 41.5,
+    "shot_type": "medium shot",
+    "visual": "Montage/continuation of styling remaining sections of hair with the heated brush.",
+    "action": "Repeats wrapping, rolling, and styling sections across the head.",
+    "product_visible": true
+   },
+   {
+    "start_s": 41.5,
+    "end_s": 43.6,
+    "shot_type": "close-up",
+    "visual": "Close-up shot of creator's wrist and gold watch next to pink flowers, showing styling time completed.",
+    "action": "Shows watch face to conclude the timed blowout challenge.",
+    "product_visible": true
+   },
+   {
+    "start_s": 43.6,
+    "end_s": 48.7,
+    "shot_type": "medium shot",
+    "visual": "Creator running her hands through full, styled, voluminous blowout hair.",
+    "action": "Fluffs hair, flips it, and shows bouncy 90s-style blowout finish.",
+    "product_visible": false
+   },
+   {
+    "start_s": 48.7,
+    "end_s": 52.0,
+    "shot_type": "close-up / product shot",
+    "visual": "Creator holds the pink WavyTalk Blowout Boost in front of her face, displaying the barrel and bristles.",
+    "action": "Presents the device directly to the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 52.0,
+    "end_s": 61.8,
+    "shot_type": "medium shot",
+    "visual": "Creator smiling, running fingers through hair, turning her head side to side to show complete volume.",
+    "action": "Shows off final hairstyle and delivers closing pitch and discount call-to-action.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator looking directly at the camera while holding the WavyTalk Blowout Boost brush wrapped around a hair section near her head.",
+   "visual_0_3s": "Creator demonstrates tool in hair, releases it, and points to her wristwatch to introduce a timed challenge.",
+   "spoken_0_3s": "قديه بتقولي بدي وقت لاعمل full blowout بالبيت؟ خليني فرجيكي.",
+   "text_0_3s": "",
+   "hook_type": "question",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Starts mid-styling with the brush rolled into the hair asking a timed challenge question."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Timed blowout challenge question hook",
+    "Timer start and initial prep",
+    "Step-by-step root lift and rolling tutorial with on-screen tips",
+    "First section results comparison",
+    "Full head completion",
+    "Timer stop and final blowout reveal",
+    "Product feature explanation (30s heat-up, all-in-one brush)",
+    "20% off discount and CTA to shop"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "volume_and_bounce",
+    "easy_for_beginners",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Full blowout at home easily and quickly",
+    "Heats up in only 30 seconds",
+    "Styles the entire hair using a single brush tool",
+    "Gives salon volume, root lift, and bouncy shape"
+   ],
+   "pain_points": [
+    "Blowouts taking too long at home",
+    "Difficulty getting salon-grade volume at the roots",
+    "Needing multiple tools to style hair"
+   ],
+   "objections_handled": [
+    "Is it complicated? (Breaks it down into simple lift, tension, and glide steps)",
+    "Does it take forever? (Demonstrates quick timed routine and fast 30s heating)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional salon blowout / multi-step styling"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 43.6,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "20% OFF",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "اطلبي الـ WavyTalk Blowout Boost بـ 20% off.",
+   "cta_on_screen": "Shop Now",
+   "cta_at_s": 57.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Long, dark brunette, natural straight/wavy texture",
+   "hair_after": "Voluminous, bouncy salon-style blowout with lifted roots and soft curved ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Warm, instructional, confident, and relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle upbeat ambient lifestyle background music under clear studio voiceover",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 6.87,
+   "pacing": "medium",
+   "effects": [
+    "Text overlays with styling steps",
+    "jump cuts between sections"
+   ],
+   "ending": "Creator smiles, running fingers through her styled hair with '20% OFF Shop Now' text overlay."
+  },
+  "notes": "Video demonstrates a timed challenge structure combined with clear step-by-step technique callouts (Lift & Roll Back, Gentle Tension, Glide Slowly & Roll Out) tailored for Lebanese Arabic speaking consumers."
+ }
+}

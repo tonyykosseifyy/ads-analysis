@@ -1,0 +1,322 @@
+{
+ "media_key": "v_1436756301464788",
+ "analyzed_at": "2026-11-28T00:11:05+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "1d31ae98faf607b8a31b42a8643f523a1da7d5eb8de54daa46498d1ccd9e5e77",
+ "source": {
+  "kind": "video",
+  "id": "1436756301464788",
+  "ig_media_id": "18079977941632290",
+  "permalink": "https://www.instagram.com/p/DXFb15XjDM1/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 59.2,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "A creator demonstrates the Wavytalk 2-in-1 airflow curling and straightening tool by comparing it against a traditional curling iron that fails to hold curls.",
+  "full_description": "The creator starts by using a traditional curling iron on one side of her hair, pointing out that it requires holding the curl to cool down and yet the curl quickly falls flat and gets damaged. She then presents the pink Wavytalk air styler (which replaces both her straightener and curling wand). She demonstrates smoothing a piece of hair with one pass and then curling a strand in a single pass. She explains how the cool air fan locks the curl immediately and prevents heat damage, giving smooth, shiny, long-lasting curls that hold for three days compared to the limp side done with the traditional tool.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Are you still using a traditional curling iron? It is definitely time to upgrade.",
+    "text_english": "Are you still using a traditional curling iron? It is definitely time to upgrade."
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 7.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I replaced both my flat iron and my curling iron with this single hot tool.",
+    "text_english": "I replaced both my flat iron and my curling iron with this single hot tool."
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 10.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It looks like a straightener, but it opens like a curling iron.",
+    "text_english": "It looks like a straightener, but it opens like a curling iron."
+   },
+   {
+    "start_s": 10.7,
+    "end_s": 15.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I rarely curl my hair just because the curls never last and it just causes so much damage to my hair.",
+    "text_english": "I rarely curl my hair just because the curls never last and it just causes so much damage to my hair."
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 21.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "When I do curl it, I always have to scrunch up the curl and hold it and wait for it to cool, and that just takes forever.",
+    "text_english": "When I do curl it, I always have to scrunch up the curl and hold it and wait for it to cool, and that just takes forever."
+   },
+   {
+    "start_s": 21.3,
+    "end_s": 23.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The curls are already coming undone.",
+    "text_english": "The curls are already coming undone."
+   },
+   {
+    "start_s": 23.9,
+    "end_s": 28.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm going to use the Wavytalk tool on the other side. Look how shiny and silky my hair looks in just one pass.",
+    "text_english": "I'm going to use the Wavytalk tool on the other side. Look how shiny and silky my hair looks in just one pass."
+   },
+   {
+    "start_s": 28.9,
+    "end_s": 33.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm going to take a section of hair, twist it around, and then run the straightener down the length of my hair.",
+    "text_english": "I'm going to take a section of hair, twist it around, and then run the straightener down the length of my hair."
+   },
+   {
+    "start_s": 33.7,
+    "end_s": 38.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And oh my goodness, I got the most perfect curl with just one pass.",
+    "text_english": "And oh my goodness, I got the most perfect curl with just one pass."
+   },
+   {
+    "start_s": 38.6,
+    "end_s": 45.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I am barely applying any heat to my hair, and the fan cools it immediately to not only set the curl, but to prevent heat damage.",
+    "text_english": "I am barely applying any heat to my hair, and the fan cools it immediately to not only set the curl, but to prevent heat damage."
+   },
+   {
+    "start_s": 45.4,
+    "end_s": 49.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The straightener also smooths your hair while curling it, making it look so shiny and healthy.",
+    "text_english": "The straightener also smooths your hair while curling it, making it look so shiny and healthy."
+   },
+   {
+    "start_s": 49.5,
+    "end_s": 54.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "At this point, I will need to recurl the other side of my hair because look how much it's straightened out already.",
+    "text_english": "At this point, I will need to recurl the other side of my hair because look how much it's straightened out already."
+   },
+   {
+    "start_s": 54.4,
+    "end_s": 58.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "These curls are holding so well and they actually lasted 3 days.",
+    "text_english": "These curls are holding so well and they actually lasted 3 days."
+   }
+  ],
+  "transcript_full_original": "Are you still using a traditional curling iron? It is definitely time to upgrade. I replaced both my flat iron and my curling iron with this single hot tool. It looks like a straightener, but it opens like a curling iron. I rarely curl my hair just because the curls never last and it just causes so much damage to my hair. When I do curl it, I always have to scrunch up the curl and hold it and wait for it to cool, and that just takes forever. The curls are already coming undone. I'm going to use the Wavytalk tool on the other side. Look how shiny and silky my hair looks in just one pass. I'm going to take a section of hair, twist it around, and then run the straightener down the length of my hair. And oh my goodness, I got the most perfect curl with just one pass. I am barely applying any heat to my hair, and the fan cools it immediately to not only set the curl, but to prevent heat damage. The straightener also smooths your hair while curling it, making it look so shiny and healthy. At this point, I will need to recurl the other side of my hair because look how much it's straightened out already. These curls are holding so well and they actually lasted 3 days.",
+  "transcript_full_english": "Are you still using a traditional curling iron? It is definitely time to upgrade. I replaced both my flat iron and my curling iron with this single hot tool. It looks like a straightener, but it opens like a curling iron. I rarely curl my hair just because the curls never last and it just causes so much damage to my hair. When I do curl it, I always have to scrunch up the curl and hold it and wait for it to cool, and that just takes forever. The curls are already coming undone. I'm going to use the Wavytalk tool on the other side. Look how shiny and silky my hair looks in just one pass. I'm going to take a section of hair, twist it around, and then run the straightener down the length of my hair. And oh my goodness, I got the most perfect curl with just one pass. I am barely applying any heat to my hair, and the fan cools it immediately to not only set the curl, but to prevent heat damage. The straightener also smooths your hair while curling it, making it look so shiny and healthy. At this point, I will need to recurl the other side of my hair because look how much it's straightened out already. These curls are holding so well and they actually lasted 3 days.",
+  "word_count": 218,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "shot_type": "medium close-up",
+    "visual": "Young brunette woman sitting indoors holding an old-fashioned curling iron, wrapping hair around it and making a skeptical face.",
+    "action": "Wraps hair around traditional iron, pulls it away, and expresses frustration.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 4.5,
+    "shot_type": "close-up",
+    "visual": "Hand holding a mint green flat iron.",
+    "action": "Opens and closes the flat iron plates.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 6.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding both the purple curling iron and green flat iron in her hands.",
+    "action": "Shows both old tools together.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.7,
+    "end_s": 10.7,
+    "shot_type": "close-up",
+    "visual": "Creator showing the pink Wavytalk airflow curling/straightening tool.",
+    "action": "Demonstrates pressing the clamp to open it like a curling iron, showing the plates and airflow vents.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.7,
+    "end_s": 15.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling the right side of her hair with the purple traditional curling iron.",
+    "action": "Releases the curl and watches it fall limp immediately.",
+    "product_visible": false
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 23.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling another strand, holding and scrunching it in her hand to cool it.",
+    "action": "Scrunching the warm curl, waiting, letting go to show it already unraveling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 23.9,
+    "end_s": 28.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator pulls the pink Wavytalk tool down a strand of hair to straighten it in one pass.",
+    "action": "Straightens hair section and runs fingers through the silky smooth result.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.9,
+    "end_s": 38.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator places the Wavytalk styler on a strand, twists it 360 degrees, and glides it down smoothly.",
+    "action": "Glides down the hair strand, releasing a defined bouncy spiral curl; reacts with an amazed facial expression.",
+    "product_visible": true
+   },
+   {
+    "start_s": 38.6,
+    "end_s": 45.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator curls another layer section using the Wavytalk styler.",
+    "action": "Slow glide through hair while pointing out the built-in fan cooling function.",
+    "product_visible": true
+   },
+   {
+    "start_s": 45.4,
+    "end_s": 49.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator running fingers through the finished curls on the left side.",
+    "action": "Gently separates and fluffs the shiny, defined curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 49.5,
+    "end_s": 59.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator comparing both sides: right side curled with traditional iron has dropped straight; left side curled with Wavytalk has bouncy, shiny curls.",
+    "action": "Points out the fallen curls on the traditional side and showcases the bouncy long-lasting curls on the Wavytalk side.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator wrapping hair on an old traditional curling wand looking frustrated.",
+   "visual_0_3s": "Creator using a clunky curling iron and then making an unimpressed face.",
+   "spoken_0_3s": "Are you still using a traditional curling iron? It is definitely time to upgrade.",
+   "text_0_3s": "",
+   "hook_type": "question",
+   "hook_type_secondary": "problem_callout",
+   "pattern_interrupt": "Calling out the viewer's current styling tool as outdated with a direct question and skeptical expression."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Problem callout: traditional curling irons cause damage and curls drop quickly",
+    "Product introduction: 2-in-1 tool replacing straightener and curler",
+    "Side-by-side demo: showing the hassle and fallen curl of the traditional tool",
+    "Application demo: single pass straightening and smooth 360 twist curling with Wavytalk",
+    "Feature explanation: cool air fan locks curl instantly and protects from heat damage",
+    "Side-by-side reveal: old iron side flattened completely, Wavytalk side holds for 3 days"
+   ],
+   "main_angle": "replaces_multiple_tools",
+   "secondary_angles": [
+    "less_heat_damage",
+    "saves_time",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Replaces both flat iron and curling iron",
+    "Opens like a curling iron, straightens like a flat iron",
+    "Shiny and silky hair in just one pass",
+    "Fan cools hair immediately to lock curl and avoid heat damage",
+    "Curls lasted 3 days"
+   ],
+   "pain_points": [
+    "Curls from traditional irons never last",
+    "Heat damage from conventional tools",
+    "Having to hold and scrunch curls while waiting for them to cool down"
+   ],
+   "objections_handled": [
+    "Will the curls fall out quickly? (No, fan sets them instantly and they last 3 days)",
+    "Is it complicated to curl with a straightener? (It has an iron clip and rounded barrel, making it easy)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional clamp curling iron and standard flat iron"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Whirlwind Curl / Airflow 2-in-1 Styler"
+   ],
+   "first_seen_s": 6.7,
+   "first_used_on_hair_s": 24.5,
+   "final_result_shown_s": 49.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Long, dark brown, straight/slightly wavy hair with subtle highlights",
+   "hair_after": "Voluminous, shiny spiral bouncy curls on one side, flat/undone curls on the other",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, informative, enthusiastic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat ambient background pop instrumental underneath clear voiceover",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 11,
+   "avg_shot_length_s": 5.4,
+   "pacing": "medium",
+   "effects": [],
+   "ending": "Creator proudly showing off her bouncy curls on the Wavytalk side while smiling at the camera."
+  },
+  "notes": "Ad distributed in Lebanon / Levant market showcasing the popular 360 airflow styler (Whirlwind Curl) using organic English UGC comparison format."
+ }
+}

@@ -1,0 +1,473 @@
+{
+ "media_key": "v_1042602795051456",
+ "analyzed_at": "2026-11-28T00:09:21+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "29bf81d54e5478fcc7e3558d3bc1e0a90a83c0cc6bf022244d964dafd1c6a7bc",
+ "source": {
+  "kind": "video",
+  "id": "1042602795051456",
+  "ig_media_id": "18087023789203796",
+  "permalink": "https://www.instagram.com/p/DcVpFu1sJ4m/"
+ },
+ "role": "primary",
+ "flags": [
+  "longer_than_2_min"
+ ],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 162.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator with thick, curly, frizzy hair tests the viral Wavytalk thermal round brush, demonstrating real-time passes and revealing a bouncy 10-minute blowout.",
+  "full_description": "A creator with extremely long, voluminous, curly and frizzy hair tests the viral Wavytalk thermal hot brush on camera. She explains her hair prep, shows a real-time pass on a section to demonstrate how smoothly it straightens and curls ends without snagging, compares the half-done versus unstyled side, styles her bangs, and does a final reveal of a voluminous 90s-style blowout completed in under 10 minutes. She compares it favorably to the Tymo brush for curling ends.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0.0,
+    "en": 100.0,
+    "fr": 0.0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's try the viral Wavytalk hot brush on my crazy hair.",
+    "text_english": "Let's try the viral Wavytalk hot brush on my crazy hair."
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 6.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "My entire For You page is this thing, so we have to try it on my hair.",
+    "text_english": "My entire For You page is this thing, so we have to try it on my hair."
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 11.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "My hair is naturally curly, so this is my hair after blow drying it and kind of combing with my fingers.",
+    "text_english": "My hair is naturally curly, so this is my hair after blow drying it and kind of combing with my fingers."
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 15.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "That makes it a little more tame, which I like doing before going in with a hot tool.",
+    "text_english": "That makes it a little more tame, which I like doing before going in with a hot tool."
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 18.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I wanted to do my first pass off camera just so I could get a hang of it,",
+    "text_english": "I wanted to do my first pass off camera just so I could get a hang of it,"
+   },
+   {
+    "start_s": 18.8,
+    "end_s": 22.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and this was two passes, and I am impressed.",
+    "text_english": "and this was two passes, and I am impressed."
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 24.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now let's do this one.",
+    "text_english": "Now let's do this one."
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 34.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm going to try to not cut this so you can see in real time how well it works.",
+    "text_english": "I'm going to try to not cut this so you can see in real time how well it works."
+   },
+   {
+    "start_s": 36.8,
+    "end_s": 41.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "That's pretty good for one pass, so let's go in with another pass.",
+    "text_english": "That's pretty good for one pass, so let's go in with another pass."
+   },
+   {
+    "start_s": 45.2,
+    "end_s": 49.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The hair actually moves pretty well through the brush.",
+    "text_english": "The hair actually moves pretty well through the brush."
+   },
+   {
+    "start_s": 52.5,
+    "end_s": 58.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I mean that's pretty good. I got to say I'm pretty impressed. This is with two passes and this is with nothing.",
+    "text_english": "I mean that's pretty good. I got to say I'm pretty impressed. This is with two passes and this is with nothing."
+   },
+   {
+    "start_s": 58.8,
+    "end_s": 63.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I want to see if I can get the ends curled a little bit more.",
+    "text_english": "I want to see if I can get the ends curled a little bit more."
+   },
+   {
+    "start_s": 65.0,
+    "end_s": 68.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Oh, I like that. That's pretty.",
+    "text_english": "Oh, I like that. That's pretty."
+   },
+   {
+    "start_s": 68.2,
+    "end_s": 71.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now we're going to take this piece. Let's see how it works.",
+    "text_english": "Now we're going to take this piece. Let's see how it works."
+   },
+   {
+    "start_s": 76.5,
+    "end_s": 84.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm actually surprised that it's getting all of my hair because the brush is kind of small and I have a lot of hair.",
+    "text_english": "I'm actually surprised that it's getting all of my hair because the brush is kind of small and I have a lot of hair."
+   },
+   {
+    "start_s": 85.5,
+    "end_s": 89.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I mean, one pass, that's pretty good. Okay, I think I see the hype with this tool.",
+    "text_english": "I mean, one pass, that's pretty good. Okay, I think I see the hype with this tool."
+   },
+   {
+    "start_s": 89.8,
+    "end_s": 92.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's try this whole piece.",
+    "text_english": "Let's try this whole piece."
+   },
+   {
+    "start_s": 93.0,
+    "end_s": 101.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm going to hold it taut by the roots, and then I'm just going to twist so that there's more tension.",
+    "text_english": "I'm going to hold it taut by the roots, and then I'm just going to twist so that there's more tension."
+   },
+   {
+    "start_s": 105.0,
+    "end_s": 106.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "That's pretty good.",
+    "text_english": "That's pretty good."
+   },
+   {
+    "start_s": 107.0,
+    "end_s": 115.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm actually shocked about how easily the hair is going through the comb. Obviously there's a little tension, but that's what you kind of want to get the hair straight.",
+    "text_english": "I'm actually shocked about how easily the hair is going through the comb. Obviously there's a little tension, but that's what you kind of want to get the hair straight."
+   },
+   {
+    "start_s": 116.5,
+    "end_s": 120.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Wow. I love the curl that this gives at the bottom.",
+    "text_english": "Wow. I love the curl that this gives at the bottom."
+   },
+   {
+    "start_s": 120.0,
+    "end_s": 121.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at that difference.",
+    "text_english": "Look at that difference."
+   },
+   {
+    "start_s": 122.0,
+    "end_s": 126.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's go in first and then flip it out like this.",
+    "text_english": "Let's go in first and then flip it out like this."
+   },
+   {
+    "start_s": 128.8,
+    "end_s": 130.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Oh yeah, that's good.",
+    "text_english": "Oh yeah, that's good."
+   },
+   {
+    "start_s": 130.8,
+    "end_s": 135.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now for the final reveal. I am in love with this.",
+    "text_english": "Now for the final reveal. I am in love with this."
+   },
+   {
+    "start_s": 135.2,
+    "end_s": 139.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Um, this is very hyped up for a reason. This is amazing.",
+    "text_english": "Um, this is very hyped up for a reason. This is amazing."
+   },
+   {
+    "start_s": 139.0,
+    "end_s": 146.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I have so much hair and this took less than 10 minutes, and the volume and shine is just amazing.",
+    "text_english": "I have so much hair and this took less than 10 minutes, and the volume and shine is just amazing."
+   },
+   {
+    "start_s": 146.0,
+    "end_s": 151.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you have trouble making curls at the end with the Tymo, I think you would absolutely love this tool.",
+    "text_english": "If you have trouble making curls at the end with the Tymo, I think you would absolutely love this tool."
+   },
+   {
+    "start_s": 151.8,
+    "end_s": 156.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It really helps get in there, and you can kind of just like work with it.",
+    "text_english": "It really helps get in there, and you can kind of just like work with it."
+   },
+   {
+    "start_s": 156.2,
+    "end_s": 162.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm not disappointed. This thing is definitely approved by me. I absolutely love how my hair came out.",
+    "text_english": "I'm not disappointed. This thing is definitely approved by me. I absolutely love how my hair came out."
+   }
+  ],
+  "transcript_full_original": "Let's try the viral Wavytalk hot brush on my crazy hair. My entire For You page is this thing, so we have to try it on my hair. My hair is naturally curly, so this is my hair after blow drying it and kind of combing with my fingers. That makes it a little more tame, which I like doing before going in with a hot tool. I wanted to do my first pass off camera just so I could get a hang of it, and this was two passes, and I am impressed. Now let's do this one. I'm going to try to not cut this so you can see in real time how well it works. That's pretty good for one pass, so let's go in with another pass. The hair actually moves pretty well through the brush. I mean that's pretty good. I got to say I'm pretty impressed. This is with two passes and this is with nothing. I want to see if I can get the ends curled a little bit more. Oh, I like that. That's pretty. Now we're going to take this piece. Let's see how it works. I'm actually surprised that it's getting all of my hair because the brush is kind of small and I have a lot of hair. I mean, one pass, that's pretty good. Okay, I think I see the hype with this tool. Let's try this whole piece. I'm going to hold it taut by the roots, and then I'm just going to twist so that there's more tension. That's pretty good. I'm actually shocked about how easily the hair is going through the comb. Obviously there's a little tension, but that's what you kind of want to get the hair straight. Wow. I love the curl that this gives at the bottom. Look at that difference. Let's go in first and then flip it out like this. Oh yeah, that's good. Now for the final reveal. I am in love with this. Um, this is very hyped up for a reason. This is amazing. I have so much hair and this took less than 10 minutes, and the volume and shine is just amazing. If you have trouble making curls at the end with the Tymo, I think you would absolutely love this tool. It really helps get in there, and you can kind of just like work with it. I'm not disappointed. This thing is definitely approved by me. I absolutely love how my hair came out.",
+  "transcript_full_english": "Let's try the viral Wavytalk hot brush on my crazy hair. My entire For You page is this thing, so we have to try it on my hair. My hair is naturally curly, so this is my hair after blow drying it and kind of combing with my fingers. That makes it a little more tame, which I like doing before going in with a hot tool. I wanted to do my first pass off camera just so I could get a hang of it, and this was two passes, and I am impressed. Now let's do this one. I'm going to try to not cut this so you can see in real time how well it works. That's pretty good for one pass, so let's go in with another pass. The hair actually moves pretty well through the brush. I mean that's pretty good. I got to say I'm pretty impressed. This is with two passes and this is with nothing. I want to see if I can get the ends curled a little bit more. Oh, I like that. That's pretty. Now we're going to take this piece. Let's see how it works. I'm actually surprised that it's getting all of my hair because the brush is kind of small and I have a lot of hair. I mean, one pass, that's pretty good. Okay, I think I see the hype with this tool. Let's try this whole piece. I'm going to hold it taut by the roots, and then I'm just going to twist so that there's more tension. That's pretty good. I'm actually shocked about how easily the hair is going through the comb. Obviously there's a little tension, but that's what you kind of want to get the hair straight. Wow. I love the curl that this gives at the bottom. Look at that difference. Let's go in first and then flip it out like this. Oh yeah, that's good. Now for the final reveal. I am in love with this. Um, this is very hyped up for a reason. This is amazing. I have so much hair and this took less than 10 minutes, and the volume and shine is just amazing. If you have trouble making curls at the end with the Tymo, I think you would absolutely love this tool. It really helps get in there, and you can kind of just like work with it. I'm not disappointed. This thing is definitely approved by me. I absolutely love how my hair came out.",
+  "word_count": 427,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.8,
+    "text": "10 minute perfect blowout!?",
+    "role": "hook"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 162.8,
+    "text": "Burned-in auto-captions transcribing creator's speech word for word",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.8,
+    "shot_type": "medium shot",
+    "visual": "Creator standing facing camera with huge, thick, frizzy wavy hair holding the Wavytalk thermal round brush.",
+    "action": "Creator talks to the camera, holding up the tool and introducing the test.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 15.6,
+    "shot_type": "medium shot",
+    "visual": "Creator with top half of hair clipped into a high messy bun, brushing out bottom section of her voluminous hair.",
+    "action": "Explains her hair type and prep routine before styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 23.5,
+    "shot_type": "medium shot",
+    "visual": "Creator showing one smooth, sleek section on her right side compared to the voluminous rough side.",
+    "action": "Points out the result of two passes done off-camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 51.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator placing the Wavytalk hot brush on a section and rolling it through.",
+    "action": "Glides the tool through her hair slowly in real time, demonstrating first and second pass smoothing and curled end.",
+    "product_visible": true
+   },
+   {
+    "start_s": 51.5,
+    "end_s": 58.5,
+    "shot_type": "medium shot",
+    "visual": "Creator displaying half smooth and half frizzy comparison.",
+    "action": "Gestures with her hands showing two passes versus unstyled side.",
+    "product_visible": false
+   },
+   {
+    "start_s": 58.5,
+    "end_s": 67.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling the ends with the brush.",
+    "action": "Twists the brush around the ends to achieve a bouncy flip.",
+    "product_visible": true
+   },
+   {
+    "start_s": 67.5,
+    "end_s": 88.5,
+    "shot_type": "medium shot",
+    "visual": "Creator working on another thick strand, brushing from crown downwards.",
+    "action": "Wraps hair over thermal barrel and pulls downward smoothly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 88.5,
+    "end_s": 121.5,
+    "shot_type": "medium shot",
+    "visual": "Creator taking a wider section, holding it taut at the roots and gliding down with tension.",
+    "action": "Demonstrates technique for straightening roots and curling ends, showing the stark before/after contrast.",
+    "product_visible": true
+   },
+   {
+    "start_s": 121.5,
+    "end_s": 130.5,
+    "shot_type": "medium close-up",
+    "visual": "Styling front curtain bangs / face framing pieces.",
+    "action": "Rolls the brush under her bangs and flips them back, shaking out bouncy bangs.",
+    "product_visible": true
+   },
+   {
+    "start_s": 130.5,
+    "end_s": 162.8,
+    "shot_type": "medium shot",
+    "visual": "Finished blowout reveal with bouncy, glossy, voluminous layers.",
+    "action": "Fluffs and shakes hair, holds up Wavytalk brush, reviews performance, compares to Tymo, and delivers verdict.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera holding the Wavytalk thermal brush next to huge, frizzy, voluminous curly hair with text '10 minute perfect blowout!?'",
+   "visual_0_3s": "Creator waving the Wavytalk hot brush in hand while talking directly to camera, showing dramatic contrast between tool and wild hair.",
+   "spoken_0_3s": "Let's try the viral Wavytalk hot brush on my crazy hair.",
+   "text_0_3s": "10 minute perfect blowout!?",
+   "hook_type": "curiosity_gap",
+   "hook_type_secondary": "problem_callout",
+   "pattern_interrupt": "Shockingly massive, frizzy curly hair creating extreme visual contrast with a sleek round hot brush."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Hook: viral trend test on extreme/difficult hair type",
+    "Preparation explanation and initial off-camera pass validation",
+    "Uncut real-time demonstration on a frizzy strand",
+    "Split comparison showing smoothed vs untouched half",
+    "Technique tips: tension at roots and curling ends",
+    "Bangs and face-framing demonstration",
+    "Final glamorous blowout reveal and speed claim (under 10 minutes)",
+    "Direct comparison to competitor (Tymo) and final endorsement"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "saves_time",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Smooths thick curly hair in just 1-2 passes",
+    "Creates perfect blowout in under 10 minutes on very thick hair",
+    "Hair glides smoothly without snagging or tangling",
+    "Easier to create flipped curls at the ends compared to flat straightening brushes"
+   ],
+   "pain_points": [
+    "Taming huge, unruly, frizzy curly hair takes forever",
+    "Tools pulling or tangling dense thick hair",
+    "Straightening brushes making hair too flat with no curl on ends"
+   ],
+   "objections_handled": [
+    "Brush barrel looks too small for thick hair (proves it handles thick sections effortlessly)",
+    "Will it pull or get tangled? (shows smooth gliding in real time)"
+   ],
+   "social_proof": [
+    "Mentions the tool is all over her TikTok For You Page"
+   ],
+   "comparison_to": "Tymo straightening brush"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Round Brush (Blowout Boost)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 24.0,
+   "final_result_shown_s": 130.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Very long, extremely thick, frizzy, rough wavy/curly texture with caramel balayage",
+   "hair_after": "Ultra-smooth, glossy, voluminous 90s blowout with bouncy flipped ends and curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "candid, enthusiastic, authentic, impressed"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No background music, crisp natural voice and tool sound",
+   "captions_burned_in": true,
+   "production_style": "phone_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 11.6,
+   "pacing": "medium",
+   "effects": [
+    "real-time demo pass",
+    "split half-hair contrast"
+   ],
+   "ending": "Creator flips her finished blowout hair smiling at camera while holding the tool"
+  },
+  "notes": "Classic organic TikTok viral UGC review repurposed as a top-of-funnel ad. High credibility due to creator's authentic long thick hair and real-time uncut styling pass."
+ }
+}

@@ -1,0 +1,558 @@
+{
+ "media_key": "v_1291993682581380",
+ "analyzed_at": "2026-11-28T00:09:44+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "16ed3b880f8865e117fd1db1902e794e81b3d39937ea226bdf7886b3f8adcc95",
+ "source": {
+  "kind": "video",
+  "id": "1291993682581380",
+  "video_id": "26845939455062942",
+  "length_s": 151.183,
+  "permalink": "/122152625727061607/videos/26845939455062942?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [
+  "longer_than_2_min"
+ ],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 151.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator gives a comprehensive, step-by-step blowout tutorial on very long curly hair using the Wavytalk Thermal Brush.",
+  "full_description": "A creator with waist-length, thick, frizzy/curly hair records an in-depth tutorial demonstrating how to properly style hair using the Wavytalk Thermal Brush. She explains sectioning techniques, warns to always detangle first with a regular paddle brush to prevent pulling hair, instructs on wrapping only once around the barrel to avoid getting hair tangled, and shares tips on smoothing mid-lengths without reapplying heat to already-styled ends to prevent heat damage. She demonstrates smoothing difficult sections around the temples, styles the crown bangs section upwards and back for maximum volume, and showcases the finished bouncy, salon-smooth blowout, highlighting that the tool is currently on sale.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's blowout this hair.",
+    "text_english": "Let's blowout this hair."
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 5.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And this is gonna be a super in-depth tutorial using my tried and true thermal brush.",
+    "text_english": "And this is gonna be a super in-depth tutorial using my tried and true thermal brush."
+   },
+   {
+    "start_s": 5.7,
+    "end_s": 8.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "First things first is sectioning. I always get asked how I do this.",
+    "text_english": "First things first is sectioning. I always get asked how I do this."
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 13.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And first section, I'm gonna go above my ears and meet my thumbs at the back of my head.",
+    "text_english": "And first section, I'm gonna go above my ears and meet my thumbs at the back of my head."
+   },
+   {
+    "start_s": 13.8,
+    "end_s": 17.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Grab that hair that's on the top and separate it with my other hand from the bottom.",
+    "text_english": "Grab that hair that's on the top and separate it with my other hand from the bottom."
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 21.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Take that hair and put it in a messy bun in a loose scrunchie.",
+    "text_english": "Take that hair and put it in a messy bun in a loose scrunchie."
+   },
+   {
+    "start_s": 21.9,
+    "end_s": 23.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now this is my first section.",
+    "text_english": "Now this is my first section."
+   },
+   {
+    "start_s": 23.7,
+    "end_s": 27.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And I'm gonna detangle starting from the bottom and working my way up to my roots.",
+    "text_english": "And I'm gonna detangle starting from the bottom and working my way up to my roots."
+   },
+   {
+    "start_s": 27.5,
+    "end_s": 30.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You cannot go in with your tool without detangling first.",
+    "text_english": "You cannot go in with your tool without detangling first."
+   },
+   {
+    "start_s": 30.3,
+    "end_s": 32.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Your hot tool is not meant to detangle your hair.",
+    "text_english": "Your hot tool is not meant to detangle your hair."
+   },
+   {
+    "start_s": 32.3,
+    "end_s": 35.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I highly recommend you do that if you don't wanna rip hair out of your head.",
+    "text_english": "I highly recommend you do that if you don't wanna rip hair out of your head."
+   },
+   {
+    "start_s": 35.6,
+    "end_s": 38.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's do this section right here so you can see how I do this.",
+    "text_english": "Let's do this section right here so you can see how I do this."
+   },
+   {
+    "start_s": 38.2,
+    "end_s": 41.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm going to take the brush and put it at the root.",
+    "text_english": "I'm going to take the brush and put it at the root."
+   },
+   {
+    "start_s": 42.0,
+    "end_s": 45.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Then I'm wrapping the hair around the brush only one time.",
+    "text_english": "Then I'm wrapping the hair around the brush only one time."
+   },
+   {
+    "start_s": 45.7,
+    "end_s": 52.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You do not wanna wrap more than that because you will get tangled, and there's just no point for that.",
+    "text_english": "You do not wanna wrap more than that because you will get tangled, and there's just no point for that."
+   },
+   {
+    "start_s": 52.8,
+    "end_s": 57.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now I'm just making my way down, and this is gonna help smooth out the hair.",
+    "text_english": "Now I'm just making my way down, and this is gonna help smooth out the hair."
+   },
+   {
+    "start_s": 58.2,
+    "end_s": 59.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And that is my first pass.",
+    "text_english": "And that is my first pass."
+   },
+   {
+    "start_s": 60.1,
+    "end_s": 63.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So take that same section and do the same thing again.",
+    "text_english": "So take that same section and do the same thing again."
+   },
+   {
+    "start_s": 63.5,
+    "end_s": 68.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Wrapping around one time and then making my way down slowly.",
+    "text_english": "Wrapping around one time and then making my way down slowly."
+   },
+   {
+    "start_s": 68.6,
+    "end_s": 71.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you have curlier hair than me, you might wanna go a little bit slower.",
+    "text_english": "If you have curlier hair than me, you might wanna go a little bit slower."
+   },
+   {
+    "start_s": 72.3,
+    "end_s": 79.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And now when I'm at the bottom of my hair, I'm gonna turn the brush and this is gonna give you that blowout look.",
+    "text_english": "And now when I'm at the bottom of my hair, I'm gonna turn the brush and this is gonna give you that blowout look."
+   },
+   {
+    "start_s": 80.5,
+    "end_s": 86.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Sometimes I'll take too big of a section that I still have a little bit of wave over here and I will never go through the entire section again.",
+    "text_english": "Sometimes I'll take too big of a section that I still have a little bit of wave over here and I will never go through the entire section again."
+   },
+   {
+    "start_s": 87.0,
+    "end_s": 89.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is key for avoiding unnecessary heat damage.",
+    "text_english": "This is key for avoiding unnecessary heat damage."
+   },
+   {
+    "start_s": 89.4,
+    "end_s": 92.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "My ends are already perfect, I don't need to go through them again.",
+    "text_english": "My ends are already perfect, I don't need to go through them again."
+   },
+   {
+    "start_s": 92.5,
+    "end_s": 97.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'll just take my brush and go through the mid section of my hair wherever it needs attention.",
+    "text_english": "I'll just take my brush and go through the mid section of my hair wherever it needs attention."
+   },
+   {
+    "start_s": 97.5,
+    "end_s": 99.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And I'll stop before I go to my ends.",
+    "text_english": "And I'll stop before I go to my ends."
+   },
+   {
+    "start_s": 99.6,
+    "end_s": 103.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It truly is little things like that that will help maintain the health of your hair while heat styling.",
+    "text_english": "It truly is little things like that that will help maintain the health of your hair while heat styling."
+   },
+   {
+    "start_s": 104.0,
+    "end_s": 105.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now let's finish my whole head.",
+    "text_english": "Now let's finish my whole head."
+   },
+   {
+    "start_s": 105.9,
+    "end_s": 109.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "First section done, another messy bun.",
+    "text_english": "First section done, another messy bun."
+   },
+   {
+    "start_s": 109.4,
+    "end_s": 113.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "For some reason the hair by my temples is always the most difficult with every hair tool.",
+    "text_english": "For some reason the hair by my temples is always the most difficult with every hair tool."
+   },
+   {
+    "start_s": 113.8,
+    "end_s": 117.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So if you're like me, I like to go above the hair first with the brush.",
+    "text_english": "So if you're like me, I like to go above the hair first with the brush."
+   },
+   {
+    "start_s": 118.0,
+    "end_s": 123.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And then to get it extra smooth, I like to go under the hair and I find that that really helps get it smooth.",
+    "text_english": "And then to get it extra smooth, I like to go under the hair and I find that that really helps get it smooth."
+   },
+   {
+    "start_s": 124.0,
+    "end_s": 128.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This brush is called the Wavytalk Thermal Brush if you are new here.",
+    "text_english": "This brush is called the Wavytalk Thermal Brush if you are new here."
+   },
+   {
+    "start_s": 128.3,
+    "end_s": 130.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And it is discounted for Cyber Monday.",
+    "text_english": "And it is discounted for Cyber Monday."
+   },
+   {
+    "start_s": 130.8,
+    "end_s": 132.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Finishing up the second section.",
+    "text_english": "Finishing up the second section."
+   },
+   {
+    "start_s": 133.0,
+    "end_s": 134.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's finish this hair.",
+    "text_english": "Let's finish this hair."
+   },
+   {
+    "start_s": 134.6,
+    "end_s": 136.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now for the front section.",
+    "text_english": "Now for the front section."
+   },
+   {
+    "start_s": 136.4,
+    "end_s": 140.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I go over like this and then I make my way all the way down.",
+    "text_english": "I go over like this and then I make my way all the way down."
+   },
+   {
+    "start_s": 140.4,
+    "end_s": 145.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And then I take the brush under and I go back like this to create volume.",
+    "text_english": "And then I take the brush under and I go back like this to create volume."
+   },
+   {
+    "start_s": 145.6,
+    "end_s": 149.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at this volume and that's my detailed tutorial on this hair.",
+    "text_english": "Look at this volume and that's my detailed tutorial on this hair."
+   },
+   {
+    "start_s": 149.4,
+    "end_s": 151.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I mean is this not a dream?",
+    "text_english": "I mean is this not a dream?"
+   }
+  ],
+  "transcript_full_original": "Let's blowout this hair. And this is gonna be a super in-depth tutorial using my tried and true thermal brush. First things first is sectioning. I always get asked how I do this. And first section, I'm gonna go above my ears and meet my thumbs at the back of my head. Grab that hair that's on the top and separate it with my other hand from the bottom. Take that hair and put it in a messy bun in a loose scrunchie. Now this is my first section. And I'm gonna detangle starting from the bottom and working my way up to my roots. You cannot go in with your tool without detangling first. Your hot tool is not meant to detangle your hair. I highly recommend you do that if you don't wanna rip hair out of your head. Let's do this section right here so you can see how I do this. I'm going to take the brush and put it at the root. Then I'm wrapping the hair around the brush only one time. You do not wanna wrap more than that because you will get tangled, and there's just no point for that. Now I'm just making my way down, and this is gonna help smooth out the hair. And that is my first pass. So take that same section and do the same thing again. Wrapping around one time and then making my way down slowly. If you have curlier hair than me, you might wanna go a little bit slower. And now when I'm at the bottom of my hair, I'm gonna turn the brush and this is gonna give you that blowout look. Sometimes I'll take too big of a section that I still have a little bit of wave over here and I will never go through the entire section again. This is key for avoiding unnecessary heat damage. My ends are already perfect, I don't need to go through them again. I'll just take my brush and go through the mid section of my hair wherever it needs attention. And I'll stop before I go to my ends. It truly is little things like that that will help maintain the health of your hair while heat styling. Now let's finish my whole head. First section done, another messy bun. For some reason the hair by my temples is always the most difficult with every hair tool. So if you're like me, I like to go above the hair first with the brush. And then to get it extra smooth, I like to go under the hair and I find that that really helps get it smooth. This brush is called the Wavytalk Thermal Brush if you are new here. And it is discounted for Cyber Monday. Finishing up the second section. Let's finish this hair. Now for the front section. I go over like this and then I make my way all the way down. And then I take the brush under and I go back like this to create volume. Look at this volume and that's my detailed tutorial on this hair. I mean is this not a dream?",
+  "transcript_full_english": "Let's blowout this hair. And this is gonna be a super in-depth tutorial using my tried and true thermal brush. First things first is sectioning. I always get asked how I do this. And first section, I'm gonna go above my ears and meet my thumbs at the back of my head. Grab that hair that's on the top and separate it with my other hand from the bottom. Take that hair and put it in a messy bun in a loose scrunchie. Now this is my first section. And I'm gonna detangle starting from the bottom and working my way up to my roots. You cannot go in with your tool without detangling first. Your hot tool is not meant to detangle your hair. I highly recommend you do that if you don't wanna rip hair out of your head. Let's do this section right here so you can see how I do this. I'm going to take the brush and put it at the root. Then I'm wrapping the hair around the brush only one time. You do not wanna wrap more than that because you will get tangled, and there's just no point for that. Now I'm just making my way down, and this is gonna help smooth out the hair. And that is my first pass. So take that same section and do the same thing again. Wrapping around one time and then making my way down slowly. If you have curlier hair than me, you might wanna go a little bit slower. And now when I'm at the bottom of my hair, I'm gonna turn the brush and this is gonna give you that blowout look. Sometimes I'll take too big of a section that I still have a little bit of wave over here and I will never go through the entire section again. This is key for avoiding unnecessary heat damage. My ends are already perfect, I don't need to go through them again. I'll just take my brush and go through the mid section of my hair wherever it needs attention. And I'll stop before I go to my ends. It truly is little things like that that will help maintain the health of your hair while heat styling. Now let's finish my whole head. First section done, another messy bun. For some reason the hair by my temples is always the most difficult with every hair tool. So if you're like me, I like to go above the hair first with the brush. And then to get it extra smooth, I like to go under the hair and I find that that really helps get it smooth. This brush is called the Wavytalk Thermal Brush if you are new here. And it is discounted for Cyber Monday. Finishing up the second section. Let's finish this hair. Now for the front section. I go over like this and then I make my way all the way down. And then I take the brush under and I go back like this to create volume. Look at this volume and that's my detailed tutorial on this hair. I mean is this not a dream?",
+  "word_count": 395,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 151.0,
+    "text": "Burned-in center subtitle captions matching speech word for word",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.5,
+    "shot_type": "medium shot",
+    "visual": "Creator sits facing camera showcasing huge mass of thick curly frizzy hair, holding up pink Wavytalk thermal brush.",
+    "action": "Creator talks directly to camera and introduces the in-depth blowout tutorial.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 22.0,
+    "shot_type": "medium shot",
+    "visual": "Creator sections her hair using fingers and ties top half into a bun with a pink scrunchie.",
+    "action": "Creator explains how she separates hair from ear to ear and buns the upper section.",
+    "product_visible": false
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 35.5,
+    "shot_type": "medium shot",
+    "visual": "Creator detangles bottom section with a blue brush, then points to the thermal brush.",
+    "action": "Creator detangles hair ends to roots and explains why you must detangle before heat styling.",
+    "product_visible": true
+   },
+   {
+    "start_s": 35.5,
+    "end_s": 59.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator places the thermal brush at the root, wraps hair once, and glides down slowly.",
+    "action": "Demonstrates first smoothing pass down a long strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 59.8,
+    "end_s": 79.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator performs second pass on the strand, twirling the brush at the ends.",
+    "action": "Demonstrates curling the ends to achieve a salon blowout look.",
+    "product_visible": true
+   },
+   {
+    "start_s": 79.5,
+    "end_s": 105.0,
+    "shot_type": "medium shot",
+    "visual": "Creator inspects styled section, re-straightens mid-lengths without touching ends.",
+    "action": "Explains how to prevent heat damage by only smoothing the wavy mid-length areas.",
+    "product_visible": true
+   },
+   {
+    "start_s": 105.0,
+    "end_s": 123.8,
+    "shot_type": "medium shot",
+    "visual": "Creator shows completed lower layer, ties it away, and styles temple area.",
+    "action": "Styles the difficult temple hair by brushing from above then smoothing from underneath.",
+    "product_visible": true
+   },
+   {
+    "start_s": 123.8,
+    "end_s": 133.0,
+    "shot_type": "medium shot",
+    "visual": "Half of creator's hair is sleek and silky while other half is still big and curly/frizzy.",
+    "action": "Creator holds the thermal brush horizontally and mentions the Cyber Monday discount.",
+    "product_visible": true
+   },
+   {
+    "start_s": 133.0,
+    "end_s": 145.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator rolls front crown section back and up over the brush barrel.",
+    "action": "Styles the top crown bang section backwards to build crown volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 145.5,
+    "end_s": 151.0,
+    "shot_type": "medium shot",
+    "visual": "Creator runs hands through glossy, voluminous, finished blowout hair.",
+    "action": "Admires results, flips hair, smiles to camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera with full, voluminous, thick curly frizzy hair wearing a black long sleeve shirt.",
+   "visual_0_3s": "Creator looks at camera, moves her head slightly showcasing dramatic hair texture and volume.",
+   "spoken_0_3s": "Let's blowout this hair. And this is gonna be a super in-depth tutorial...",
+   "text_0_3s": "Let's blowout this hair",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Showing extraordinarily thick, frizzy, long hair that immediately creates curiosity about whether a thermal brush can handle it."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: Introduce challenge of blowing out extremely thick/curly long hair",
+    "Step 1: Sectioning technique using fingers and bun",
+    "Rule 1: Detangling with paddle brush before applying heat",
+    "Step 2: Correct thermal brush technique - 1 wrap only",
+    "Pro tip: Preventing heat damage by selectively smoothing mid-lengths",
+    "Halfway side-by-side comparison",
+    "Step 3: Crown and front technique for mega volume",
+    "Final result reveal: silky, voluminous blowout"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "volume_and_bounce",
+    "less_heat_damage"
+   ],
+   "key_claims": [
+    "Wraps only one time to never get tangled",
+    "Smooths out thick coarse curls into silky blowout hair",
+    "Creates mega volume on crown section",
+    "Reduces heat damage with targeted passes"
+   ],
+   "pain_points": [
+    "Getting hair tangled in round thermal brushes",
+    "Heat damage from repeatedly ironing ends",
+    "Difficulty smoothing hairline/temples",
+    "Hair pulling when brushing with hot tools without detangling"
+   ],
+   "objections_handled": [
+    "Will it get stuck in my hair? (Explained: only wrap once around barrel)",
+    "Does it burn the ends? (Explained: avoid passing over ends repeatedly)",
+    "Can it handle extremely thick/curly hair? (Clear demo on very thick textured hair)"
+   ],
+   "social_proof": [
+    "I always get asked how I do this",
+    "my tried and true thermal brush"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush (Blowout Boost)"
+   ],
+   "first_seen_s": 3.8,
+   "first_used_on_hair_s": 38.5,
+   "final_result_shown_s": 146.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Discounted for Cyber Monday / on sale right now",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Cyber Monday sale",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Very long, dense, voluminous brunette curly/crimped frizzy hair",
+   "hair_after": "Ultra-sleek, glossy, salon-style blowout with bouncy curled ends and root volume",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "friendly, informative, authoritative, authentic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "none",
+   "captions_burned_in": true,
+   "production_style": "phone_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 10.8,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between sections"
+   ],
+   "ending": "Creator fluffing out voluminous finished blowout and smiling at the camera"
+  },
+  "notes": "Excellent educational organic-style UGC tutorial addressing common consumer fears (tangling, heat damage) while demonstrating the tool's performance on demanding long thick hair."
+ }
+}

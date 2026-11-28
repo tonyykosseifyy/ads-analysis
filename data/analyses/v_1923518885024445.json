@@ -1,0 +1,238 @@
+{
+ "media_key": "v_1923518885024445",
+ "analyzed_at": "2026-11-28T00:46:55+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "32459922d64c3a918026b35903163449d408e01fe7a1f1ddc2d8543946f7215a",
+ "source": {
+  "kind": "video",
+  "id": "1923518885024445",
+  "video_id": "1733691210958789",
+  "length_s": 29.7,
+  "permalink": "/23849366283980795/videos/1733691210958789/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 29.83,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Young brunette woman recreates Sabrina Carpenter's iconic Coachella blowout using the Wavytalk thermal round brush.",
+  "full_description": "A silent UGC video set to pop music featuring a young brunette woman styled after Sabrina Carpenter's Coachella blowout look. She shows a reference photo of Sabrina Carpenter, unboxes and holds the Wavytalk thermal round brush (Blowout Boost), and demonstrates curling and styling sections of her hair, including her curtain bangs. The video concludes with her running her hands through her voluminous, bouncy blowout hairstyle, accompanied by a 25% off promotional graphic and 'Order Now' sticker.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.0,
+    "text": "Iconic Coachella Hair: Sabrina Carpenter's Blowout",
+    "role": "hook"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 3.0,
+    "text": "25% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 3.0,
+    "text": "ORDER NOW",
+    "role": "cta"
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 29.83,
+    "text": "25% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 29.83,
+    "text": "ORDER NOW",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.0,
+    "shot_type": "medium close-up",
+    "visual": "Young woman in white tank top pointing upward to an inset photo of Sabrina Carpenter's blowout hair at Coachella.",
+    "action": "Creator gestures towards reference image while text overlay displays.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 2.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the purple and white Wavytalk Blowout Boost packaging box.",
+    "action": "Creator displays the product box to camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 3.2,
+    "shot_type": "close-up",
+    "visual": "Pink Wavytalk thermal round brush held in creator's hand.",
+    "action": "Creator presents the unboxed heated brush tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 6.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator rolling a strand of hair onto the heated barrel near her crown.",
+    "action": "Creator wraps hair around brush and unrolls it to create a curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 10.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator takes a section of hair from the top and curls it with the heated brush.",
+    "action": "Creator styles another hair strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 14.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator sliding the heated round brush down a section of hair to curl the ends.",
+    "action": "She glides the brush down and twirls it out to release a curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 16.6,
+    "shot_type": "close-up",
+    "visual": "Creator styling her front bangs forward using the thermal brush.",
+    "action": "She brushes her front fringe forwards and rolls under.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.6,
+    "end_s": 20.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling the side bang section outward and tossing hair back.",
+    "action": "She releases the side curtain bang and fluffs it with fingers.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.3,
+    "end_s": 25.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator detailing a front layer curl with the thermal round brush.",
+    "action": "Creator curls front strands away from face and checks the bounce.",
+    "product_visible": true
+   },
+   {
+    "start_s": 25.4,
+    "end_s": 29.83,
+    "shot_type": "medium close-up",
+    "visual": "Creator showcasing the completed voluminous blowout.",
+    "action": "She fluffs and runs her hands through her hair with a confident smile.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator pointing to an image of Sabrina Carpenter with on-screen text 'Iconic Coachella Hair: Sabrina Carpenter's Blowout'.",
+   "visual_0_3s": "Creator shows reference photo of celebrity hair, flashes the Wavytalk product box, and reveals the thermal brush tool.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Iconic Coachella Hair: Sabrina Carpenter's Blowout | 25% OFF | ORDER NOW",
+   "hook_type": "trend_or_sound",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Celebrity reference photo pop-up in top right corner paired with bold Coachella trend text."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Celebrity hair inspiration hook (Sabrina Carpenter Coachella blowout)",
+    "Product tool reveal",
+    "Step-by-step curling demo on different sections and bangs",
+    "Final bouncy blowout result reveal with discount offer"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Achieve Sabrina Carpenter Coachella-style blowout at home",
+    "Heated round brush creates curls and volume easily"
+   ],
+   "pain_points": [
+    "Difficulty recreating trending celebrity blowouts at home"
+   ],
+   "objections_handled": [
+    "Works on bangs and face-framing layers without tangling"
+   ],
+   "social_proof": [
+    "Recreating viral celebrity Coachella hair trend"
+   ],
+   "comparison_to": "Traditional salon blowout / celebrity stylist finish"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 1.0,
+   "first_used_on_hair_s": 3.2,
+   "final_result_shown_s": 25.4,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "25% OFF",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "ORDER NOW",
+   "cta_at_s": 0.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long straight-to-wavy brunette hair partially pinned up",
+   "hair_after": "Voluminous, bouncy blowout with styled curtain bangs and soft curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "aesthetic, trendy, effortless"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Upbeat pop / dance track with female vocals (remix of Madonna's 'La Isla Bonita')",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 3.31,
+   "pacing": "medium",
+   "effects": [
+    "image overlay",
+    "text stickers",
+    "smooth jump cuts"
+   ],
+   "ending": "Final beauty shot of creator fluffing voluminous blowout with promotional sticker badge overlay"
+  },
+  "notes": "Video contains zero spoken dialogue. Highlighting celebrity trend connection (Sabrina Carpenter Coachella hair) to promote the Wavytalk thermal round brush."
+ }
+}

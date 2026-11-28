@@ -1,0 +1,275 @@
+{
+ "media_key": "v_1477037227684693",
+ "analyzed_at": "2026-11-28T00:08:29+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "2e5cff581ed6f67002b8f8166707e319516bb4be9701f6fccebc43246cde492f",
+ "source": {
+  "kind": "video",
+  "id": "1477037227684693",
+  "video_id": "1460387009530517",
+  "length_s": 39.266,
+  "permalink": "/23849366283980795/videos/1460387009530517/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 39.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates how she styles her thick, curly hair into a smooth, bouncy blowout curl look using the Wavytalk Blowout Boost thermal brush.",
+  "full_description": "A creator with thick, natural curly dark hair demonstrates how she transforms her curls into a smooth, voluminous blowout using the Wavytalk Blowout Boost thermal heated round brush. She shows the tool up close, clips her hair into sections, glides the heated brush through her strands with curl rolls at the ends, reveals the final results with rollers taken down, and showcases bouncy, glossy salon-quality hair.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let me show you how I create these beautiful bouncy blowout curls with just one tool.",
+    "text_english": "Let me show you how I create these beautiful bouncy blowout curls with just one tool."
+   },
+   {
+    "start_s": 4.0,
+    "end_s": 9.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Here I'm using the Wavytalk Blowout Boost thermal brush, and it has become one of my favorites for quick and easy styling.",
+    "text_english": "Here I'm using the Wavytalk Blowout Boost thermal brush, and it has become one of my favorites for quick and easy styling."
+   },
+   {
+    "start_s": 10.3,
+    "end_s": 17.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I start sectioning my hair, then I work section by section, glide the brush through to create volume, bounce, and that soft blowout finish.",
+    "text_english": "I start sectioning my hair, then I work section by section, glide the brush through to create volume, bounce, and that soft blowout finish."
+   },
+   {
+    "start_s": 17.1,
+    "end_s": 24.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I love how easily it moves through my hair and how simple the whole process is. You don't need to spend hours styling each section.",
+    "text_english": "I love how easily it moves through my hair and how simple the whole process is. You don't need to spend hours styling each section."
+   },
+   {
+    "start_s": 24.4,
+    "end_s": 29.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And the negative ion technology helps reduce frizz, leaving my hair looking smoother and shinier.",
+    "text_english": "And the negative ion technology helps reduce frizz, leaving my hair looking smoother and shinier."
+   },
+   {
+    "start_s": 29.5,
+    "end_s": 36.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And just look at the results: shiny, healthy-looking hair with so much bounce and volume, all with that effortless salon-quality finish.",
+    "text_english": "And just look at the results: shiny, healthy-looking hair with so much bounce and volume, all with that effortless salon-quality finish."
+   },
+   {
+    "start_s": 36.4,
+    "end_s": 39.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you are looking for a quick blowout, you have to try...",
+    "text_english": "If you are looking for a quick blowout, you have to try..."
+   }
+  ],
+  "transcript_full_original": "Let me show you how I create these beautiful bouncy blowout curls with just one tool. Here I'm using the Wavytalk Blowout Boost thermal brush, and it has become one of my favorites for quick and easy styling. I start sectioning my hair, then I work section by section, glide the brush through to create volume, bounce, and that soft blowout finish. I love how easily it moves through my hair and how simple the whole process is. You don't need to spend hours styling each section. And the negative ion technology helps reduce frizz, leaving my hair looking smoother and shinier. And just look at the results: shiny, healthy-looking hair with so much bounce and volume, all with that effortless salon-quality finish. If you are looking for a quick blowout, you have to try...",
+  "transcript_full_english": "Let me show you how I create these beautiful bouncy blowout curls with just one tool. Here I'm using the Wavytalk Blowout Boost thermal brush, and it has become one of my favorites for quick and easy styling. I start sectioning my hair, then I work section by section, glide the brush through to create volume, bounce, and that soft blowout finish. I love how easily it moves through my hair and how simple the whole process is. You don't need to spend hours styling each section. And the negative ion technology helps reduce frizz, leaving my hair looking smoother and shinier. And just look at the results: shiny, healthy-looking hair with so much bounce and volume, all with that effortless salon-quality finish. If you are looking for a quick blowout, you have to try...",
+  "word_count": 133,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.8,
+    "text": "Wavytalk Blow Out",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator uncurling the front strand of her voluminous curly dark hair with the tool, revealing bouncy finished blowout curls in front while the rest is textured.",
+    "action": "Unwinding the tool from her hair and smiling at the camera displaying the finished curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 4.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator pinches and sections off the crown area of her hair.",
+    "action": "Sectioning hair on top of her head preparing for styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 6.8,
+    "shot_type": "close-up",
+    "visual": "Product close-up of pink Wavytalk Blowout Boost thermal round brush showing the digital temperature display at 370°F and barrel bristles.",
+    "action": "Holding the brush toward the camera to show the barrel and controls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 10.2,
+    "shot_type": "medium shot",
+    "visual": "Creator glides the pink thermal brush through a thick section of wavy hair.",
+    "action": "Brushing down slowly and curling under.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.2,
+    "end_s": 16.9,
+    "shot_type": "medium shot",
+    "visual": "Creator working section by section, winding long dark hair around the thermal brush barrel.",
+    "action": "Wrapping hair around the barrel, rolling it up, and releasing a smooth glossy wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.9,
+    "end_s": 24.3,
+    "shot_type": "medium shot",
+    "visual": "Creator continues gliding the thermal brush through sections of hair while wearing a Velcro roller on top.",
+    "action": "Curling and smoothing the strands from roots to ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.3,
+    "end_s": 29.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator removes the pink Velcro roller from her bangs and shakes out her voluminous hair.",
+    "action": "Taking out the roller and running fingers through her styled hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 29.4,
+    "end_s": 36.3,
+    "shot_type": "medium shot",
+    "visual": "Creator shows off the full, voluminous, silky blowout result from the front, sides, and turning her back to show hair length and texture.",
+    "action": "Running fingers through hair, flipping hair, and spinning around to show the back.",
+    "product_visible": false
+   },
+   {
+    "start_s": 36.3,
+    "end_s": 39.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator smiles, blows a kiss to the camera holding the Wavytalk thermal brush.",
+    "action": "Posing and holding the brush beside her head.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera unwinding the pink thermal brush from a front curl over her curly voluminous hair with text 'Wavytalk Blow Out'.",
+   "visual_0_3s": "Immediate curl release demonstration showing a shiny, bouncy blowout curl against textured hair.",
+   "spoken_0_3s": "Let me show you how I create these beautiful bouncy blowout curls with just one tool.",
+   "text_0_3s": "Wavytalk Blow Out",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Unwinding a smooth finished curl right through her natural curly hair in the first frame."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: Reveal of bouncy blowout curl using one tool",
+    "Product introduction: Close-up of Wavytalk Blowout Boost",
+    "Step-by-step tutorial: Sectioning and gliding through hair",
+    "Feature and benefit: Negative ion technology reduces frizz, saves time",
+    "Final transformation reveal: Shaking out roller and displaying full 360-degree voluminous bounce",
+    "Closing recommendation / Call to try"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "frizz_or_curly_solution",
+    "saves_time",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Creates bouncy blowout curls with just one tool",
+    "Quick and easy styling",
+    "Glides easily through hair to create volume and bounce",
+    "No need to spend hours styling",
+    "Negative ion technology helps reduce frizz",
+    "Effortless salon-quality finish"
+   ],
+   "pain_points": [
+    "Spending hours styling thick curly hair",
+    "Frizzy and unmanageable curls",
+    "Needing multiple tools to achieve a salon blowout"
+   ],
+   "objections_handled": [
+    "Can it handle thick curly hair? (Demonstrated on thick, voluminous wavy/curly hair effortlessly)",
+    "Does it cause frizz? (Handled via negative ion feature explanation and visible smooth finish)"
+   ],
+   "social_proof": [
+    "Creator personal endorsement ('become one of my favorites')"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 28.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "If you are looking for a quick blowout, you have to try...",
+   "cta_on_screen": "",
+   "cta_at_s": 36.4
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Thick, textured, dark brunette long naturally curly/wavy hair",
+   "hair_after": "Smooth, glossy, voluminous blowout with bouncy soft curls and shine",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Warm, confident, instructive, and enthusiastic"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Upbeat, rhythmic background pop track beneath the clear voiceover narration.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 4.3,
+   "pacing": "medium",
+   "effects": [
+    "text overlay",
+    "jump cuts between sections"
+   ],
+   "ending": "Creator holding the brush posing playfully, cut off slightly at the very end of the phrase."
+  },
+  "notes": "English voiceover UGC video licensed or sourced for Meta campaigns targeting the Middle East / Lebanon region. Highlights the Blowout Boost thermal round brush performance on textured curly hair."
+ }
+}

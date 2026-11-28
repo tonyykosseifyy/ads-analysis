@@ -1,0 +1,189 @@
+{
+ "media_key": "v_28507043908978243",
+ "analyzed_at": "2026-11-28T00:10:53+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "b1fda5a7b761f0cc3157cca8927cd92e92c8c847ead218d4eb6ec712c47b85d5",
+ "source": {
+  "kind": "video",
+  "id": "28507043908978243",
+  "video_id": "1122300813835815",
+  "length_s": 30.278,
+  "permalink": "/23849366283980795/videos/1122300813835815/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 29.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates a quick 15-minute bouncy blowout styling routine using the pink Wavytalk thermal round brush set to music.",
+  "full_description": "A silent aesthetic hair styling tutorial set to trending music. The video begins with the creator finishing a bouncy curl using the pink Wavytalk thermal round brush. She then showcases the device close up before demonstrating how she sections and curls the bottom layers, lifts the crown/bangs for volume, and frames the face. The video concludes with the finished voluminous salon-style blowout results as she fluffs her hair.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 29.8,
+    "text": "15 min hair routine",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "shot_type": "medium shot",
+    "visual": "Creator in a black robe against a vanity background unrolling the heated round brush from a side section of hair.",
+    "action": "Creator glides and releases the brush, revealing a bouncy curled curl, and smiles toward the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.5,
+    "end_s": 4.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds up the pink Wavytalk thermal round brush directly in front of the camera.",
+    "action": "Creator taps the heat-insulated safety tip of the brush to display the tool before styling.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 15.2,
+    "shot_type": "medium shot",
+    "visual": "Top hair section clipped up; creator works on lower mid-length hair.",
+    "action": "Creator wraps strands around the heated thermal barrel, rotates it smoothly, and pulls downward to create soft, defined waves.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.2,
+    "end_s": 18.5,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the upper side section of her reddish-brown hair.",
+    "action": "Wraps hair over the barrel, slowly gliding to curl the ends outward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 23.0,
+    "shot_type": "medium shot",
+    "visual": "Top section of hair unclipped at the crown.",
+    "action": "Creator places the brush under the crown/bangs section and rolls upward and back to create root volume and lift.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.0,
+    "end_s": 25.5,
+    "shot_type": "medium shot",
+    "visual": "Front face-framing layer.",
+    "action": "Creator curls the face-framing bangs away from her face with the thermal brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 29.8,
+    "shot_type": "medium shot",
+    "visual": "Completed blowout styling with full volume and flipped ends.",
+    "action": "Creator runs fingers lightly through her voluminous curls, poses, and smiles into the lens.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator actively releasing a freshly styled blowout curl from the pink thermal round brush.",
+   "visual_0_3s": "Immediate visual payoff of a bouncy salon blowout curl dropping from the brush, followed by displaying the tool.",
+   "spoken_0_3s": "",
+   "text_0_3s": "15 min hair routine",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Instant curl drop in the very first second paired with an upbeat hip-hop beat."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Result-first hook showing effortless curl drop",
+    "Product showcase close-up",
+    "Step-by-step sectioning and styling demonstration",
+    "Root lift technique at the crown",
+    "Final aesthetic blowout results"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Achieves full salon blowout routine in just 15 minutes"
+   ],
+   "pain_points": [
+    "Lengthy blow dry routine",
+    "Difficulty managing round brush and blow dryer together"
+   ],
+   "objections_handled": [
+    "Ease of handling demonstrated effortlessly by one person at home"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Round Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 25.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Chestnut brown / reddish dyed hair, pre-straightened/smooth, ready for styling",
+   "hair_after": "Voluminous 90s blowout with bouncy inward and outward curls and root lift",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Aesthetic, calm, confident, effortless"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "R&B / hip hop track featuring vocal samples and beats ('Bad girl...')",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 4.97,
+   "pacing": "medium",
+   "effects": [
+    "Minimal jump cuts between hair sections",
+    "Aesthetic soft filter"
+   ],
+   "ending": "Creator admires finished blowout look in camera and smiles."
+  },
+  "notes": "Ad links to Power Wave in ad account setup, but features the Wavytalk Thermal Round Brush (Blowout Boost) in the creative."
+ }
+}

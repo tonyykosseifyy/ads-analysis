@@ -1,0 +1,180 @@
+{
+ "media_key": "v_29251455917828212",
+ "analyzed_at": "2026-11-28T00:14:53+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "7af82b8d28324efc2deacbd0661a75040469e1ec06421d18037936a6f588424c",
+ "source": {
+  "kind": "video",
+  "id": "29251455917828212",
+  "video_id": "2701281530297683",
+  "length_s": 57.033,
+  "permalink": "/23849366283980795/videos/2701281530297683/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 56.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator shows off a voluminous bouncy blowout, then demonstrates step-by-step styling with the pink thermal blowout brush set to music.",
+  "full_description": "The video opens with a result-first hook displaying a creator showing off her glossy, bouncy blowout with face-framing layers and flipped ends. It then cuts to a step-by-step hair tutorial set to a trending music track. She sections her hair, glides the pink thermal round brush through her dark locks, rolls the ends, sets sections with clips, and finishes by unpinning and shaking out voluminous salon-style curls.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "text": "Easy & effortless blowout",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "shot_type": "medium close-up",
+    "visual": "Glamorous creator admiring and fluffing her finished voluminous blowout hairstyle in front of the camera.",
+    "action": "Touches and runs hands through her dark styled bouncy hair, posing and looking into the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 12.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator working on the lower side section of her parted hair using the pink thermal brush tool.",
+    "action": "Brushes through the strand, curls it inwards, rolls it up, releases the curl, and checks the defined bend.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 24.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the middle sections of her hair.",
+    "action": "Rolls the heated brush around hair sections, wraps them around her finger, and secures them with styling clips.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 36.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator working on the crown and top layers.",
+    "action": "Lifts top hair vertically with the brush to create maximum root volume and tension before pinning in place.",
+    "product_visible": true
+   },
+   {
+    "start_s": 36.5,
+    "end_s": 51.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the front fringe / curtain bangs with the thermal brush.",
+    "action": "Rolls bangs backward over the brush barrel, heats the section, and rolls it down to cool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 51.0,
+    "end_s": 56.5,
+    "shot_type": "medium close-up",
+    "visual": "Final result showcase with hair let down and fully styled.",
+    "action": "Fluffs her voluminous bouncy blowout, turns head side to side, and blows a kiss toward the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing the camera running her hands through her freshly styled bouncy blowout with overlay text 'Easy & effortless blowout'.",
+   "visual_0_3s": "Creator smiling and fluffing her shiny, voluminous dark layered blowout.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Easy & effortless blowout",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Immediate reveal of high-glam, glossy blowout results paired with an upbeat pop song rhythm."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Result reveal hook demonstrating finished blowout volume and shine",
+    "Step-by-step sectioning and styling demonstration using the thermal blowout brush",
+    "Pinning technique for longer-lasting hold",
+    "Styling front bangs and crown volume",
+    "Final reveal showing bouncy, salon-quality blowout results"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Easy and effortless blowout at home",
+    "Creates smooth, bouncy curls and lift without complex skills"
+   ],
+   "pain_points": [
+    "Difficulty achieving salon-style blowout volume alone",
+    "Time-consuming round-brush styling with a traditional hair dryer"
+   ],
+   "objections_handled": [
+    "Complexity of round brushing handled by demonstrating a single heated tool that brushes and curls simultaneously"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional round brush and blow dryer combo"
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost thermal round brush"
+   ],
+   "first_seen_s": 4.5,
+   "first_used_on_hair_s": 4.8,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Dark brown/black medium-length hair, sleek and smooth",
+   "hair_after": "Voluminous layered blowout with bouncy, curled-in ends and lift at the crown",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, stylish, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat pop / indie-pop track with female vocals ('I just want to make a lot of money...')",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 9.4,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between styling steps"
+   ],
+   "ending": "Creator blows a kiss with both hands to the camera showcasing full hair volume."
+  },
+  "notes": "No spoken dialogue; relying purely on visual aesthetic, music beat, and clear hair demonstration."
+ }
+}

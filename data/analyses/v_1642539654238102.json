@@ -1,0 +1,512 @@
+{
+ "media_key": "v_1642539654238102",
+ "analyzed_at": "2026-11-28T00:26:22+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "2265d151c40ded610acb40cdb580bb323999529a6f1380257912a6de83a183b8",
+ "source": {
+  "kind": "video",
+  "id": "1642539654238102",
+  "video_id": "1666821098418078",
+  "length_s": 58.146,
+  "permalink": "/23849366283980795/videos/1666821098418078/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 57.7,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator explains how the WavyTalk Blowout Boost replaced multiple tools, solved flat roots, and delivers long-lasting salon volume with ionic anti-frizz technology.",
+  "full_description": "The ad begins with a hook targeting women who end up tying their hair up after styling because they cannot achieve lasting volume. A female creator demonstrates how previous tools left her roots flat and took too much time. She introduces the pink WavyTalk Blowout Boost thermal round brush, showing how it lifts roots, smoothes hair, and curls ends in one tool. She explains the ionic technology that eliminates static frizz, shows a split comparison of styled vs unstyled sections, provides a step-by-step tutorial on sectioning and rolling ends, displays a before/after split screen, and concludes with a 20% discount offer and 30-day return policy on the WavyTalk website.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 75,
+    "en": 25,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "ar",
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "إذا بعد كل styling بترجعي بتربطي شعرك، this is for you.",
+    "text_english": "If after every styling session you end up tying your hair up again, this is for you."
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 7.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "المشكلة إنه جربت كذا tool بس كل مرة شعري ما بيطلع متل ما بدي، وكتير بياخد معي وقت.",
+    "text_english": "The problem is that I tried several tools, but every time my hair doesn't turn out how I want, and it takes so much of my time."
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 12.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "يعني بيطلع عبالي أعمل look فيه volume، بتعب عليه كل هالوقت وبالآخر الـ roots بضلن flat وبلا shape.",
+    "text_english": "I mean, I want to create a voluminous look, I work hard on it all that time, and in the end the roots stay flat and shapeless."
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 16.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "ما بقى بدي قضي كل هالوقت على شعري. مع Wavy Talk Blow Out Boost صارت الـ process أسهل.",
+    "text_english": "I don't want to spend all that time on my hair anymore. With Wavy Talk Blow Out Boost, the process became easier."
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 21.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بنفس الـ brush برفع الـ roots، بنعّم الخصل وبلف الـ ends بلا ما ضل غير بين tool والتانية.",
+    "text_english": "With the same brush I lift the roots, smooth the strands, and curl the ends without constantly switching between one tool and another."
+   },
+   {
+    "start_s": 21.6,
+    "end_s": 30.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "واللي بيميزها عن غيرها إنه فيها Ionic technology، بتطلع negative ions اللي بتساعد تخفف من الـ static charges اللي بتسبب الشعر ينفش ويطير بالهوا.",
+    "text_english": "And what sets it apart is that it features ionic technology, emitting negative ions that help reduce static charges that cause hair to frizz and fly away."
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 32.2,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "شوفوا الفرق، واو!",
+    "text_english": "Look at the difference, wow!"
+   },
+   {
+    "start_s": 32.2,
+    "end_s": 42.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "For best results usually بقسم شعري لخصل صغار، بحط الـ brush تحت الـ roots للـ volume، بمرقها على طول الشعر وبلف الـ ends لجوا أو لبرا. بالنص باخد خصلة صغيرة كل مرة وبكمل بنفس الحركة.",
+    "text_english": "For best results, I usually section my hair into small strands, place the brush under the roots for volume, run it down the length, and curl the ends inward or outward. In the center, I take a small section each time and continue with the same motion."
+   },
+   {
+    "start_s": 42.1,
+    "end_s": 46.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "It's so easy to use وما حسيت عذبني شعري لأوصل للـ look اللي بدي ياه.",
+    "text_english": "It's so easy to use, and I didn't feel my hair struggled to reach the look I wanted."
+   },
+   {
+    "start_s": 46.2,
+    "end_s": 48.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "This is the final look! شوفوا قديه حلو وفيه volume.",
+    "text_english": "This is the final look! Look how pretty and full of volume it is."
+   },
+   {
+    "start_s": 48.7,
+    "end_s": 53.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "إذا بدك تعملي styling لشعرك والـ look عنجد يضاينك ع فترة طويلة، هيدي الـ tool لإلك.",
+    "text_english": "If you want to style your hair and have the look truly last a long time, this tool is for you."
+   },
+   {
+    "start_s": 53.0,
+    "end_s": 57.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "اطلبوها من Wavy Talk website، عليها 20% off and 30 return.",
+    "text_english": "Order it from the Wavy Talk website, it has 20% off and a 30-day return."
+   }
+  ],
+  "transcript_full_original": "إذا بعد كل styling بترجعي بتربطي شعرك، this is for you. المشكلة إنه جربت كذا tool بس كل مرة شعري ما بيطلع متل ما بدي، وكتير بياخد معي وقت. يعني بيطلع عبالي أعمل look فيه volume، بتعب عليه كل هالوقت وبالآخر الـ roots بضلن flat وبلا shape. ما بقى بدي قضي كل هالوقت على شعري. مع Wavy Talk Blow Out Boost صارت الـ process أسهل. بنفس الـ brush برفع الـ roots، بنعّم الخصل وبلف الـ ends بلا ما ضل غير بين tool والتانية. واللي بيميزها عن غيرها إنه فيها Ionic technology، بتطلع negative ions اللي بتساعد تخفف من الـ static charges اللي بتسبب الشعر ينفش ويطير بالهوا. شوفوا الفرق، واو! For best results usually بقسم شعري لخصل صغار، بحط الـ brush تحت الـ roots للـ volume، بمرقها على طول الشعر وبلف الـ ends لجوا أو لبرا. بالنص باخد خصلة صغيرة كل مرة وبكمل بنفس الحركة. It's so easy to use وما حسيت عذبني شعري لأوصل للـ look اللي بدي ياه. This is the final look! شوفوا قديه حلو وفيه volume. إذا بدك تعملي styling لشعرك والـ look عنجد يضاينك ع فترة طويلة، هيدي الـ tool لإلك. اطلبوها من Wavy Talk website، عليها 20% off and 30 return.",
+  "transcript_full_english": "If after every styling session you end up tying your hair up again, this is for you. The problem is that I tried several tools, but every time my hair doesn't turn out how I want, and it takes so much of my time. I mean, I want to create a voluminous look, I work hard on it all that time, and in the end the roots stay flat and shapeless. I don't want to spend all that time on my hair anymore. With Wavy Talk Blow Out Boost, the process became easier. With the same brush I lift the roots, smooth the strands, and curl the ends without constantly switching between one tool and another. And what sets it apart is that it features ionic technology, emitting negative ions that help reduce static charges that cause hair to frizz and fly away. Look at the difference, wow! For best results, I usually section my hair into small strands, place the brush under the roots for volume, run it down the length, and curl the ends inward or outward. In the center, I take a small section each time and continue with the same motion. It's so easy to use, and I didn't feel my hair struggled to reach the look I wanted. This is the final look! Look how pretty and full of volume it is. If you want to style your hair and have the look truly last a long time, this tool is for you. Order it from the Wavy Talk website, it has 20% off and a 30-day return.",
+  "word_count": 158,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "text": "إذا بعد كل styling",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 2.2,
+    "text": "بترجعي بتربطي شعرك",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 3.2,
+    "text": "This is for you",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 5.1,
+    "text": "المشكلة انو جربت كذا tool",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.1,
+    "end_s": 7.1,
+    "text": "بس كلّ مرة شعري ما بيطلع متل ما بدي",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.1,
+    "end_s": 8.1,
+    "text": "و كتير بياخد معي وقت",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.1,
+    "end_s": 10.1,
+    "text": "يعني بيطلع عبالي اعمل look فيه volume",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.1,
+    "end_s": 12.8,
+    "text": "بتعب عليه كل هالوقت و بالاخر الـ roots بضلن flat و بلا shape",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 14.5,
+    "text": "ما بقى بدي قضي كل هالوقت على شعري",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 15.5,
+    "text": "مع wavy talk blow out boost",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.5,
+    "end_s": 16.9,
+    "text": "صارت الـ process اسهل",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.9,
+    "end_s": 18.0,
+    "text": "بنفس الـ brush برفع الـ roots",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 21.6,
+    "text": "بنعّم الخصل و بلف الـ ends بلا ما ضل غيّر بين tool و التانية",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.6,
+    "end_s": 23.6,
+    "text": "و لي بيميزها عن غيرها انه فيها Ionic technology",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.6,
+    "end_s": 26.6,
+    "text": "بتطلع negative ions لي بتساعد تخفف من",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 26.6,
+    "end_s": 30.5,
+    "text": "الـ static charges لي بتسبب الشعر ينفش و يطير بالهوا",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 32.2,
+    "text": "شوفوا الفرق، واو!",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 32.2,
+    "end_s": 33.7,
+    "text": "For best results usually بقسم شعري لخصل صغار",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 33.7,
+    "end_s": 36.0,
+    "text": "بحط الـ brush تحت الـ roots للـ volume",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 36.0,
+    "end_s": 38.6,
+    "text": "بمرقها على طول الشعر و بلف الـ ends",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 38.6,
+    "end_s": 39.7,
+    "text": "لجوا او لبرا",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 39.7,
+    "end_s": 42.1,
+    "text": "بالنص باخد خصلة صغيرة كل مرة و بكمل بنفس الحركة",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 42.1,
+    "end_s": 43.5,
+    "text": "It's so easy to use",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 43.5,
+    "end_s": 46.2,
+    "text": "و ما حسيت عذبني شعري لاوصل للـ look لي بدي ياه",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 46.2,
+    "end_s": 47.1,
+    "text": "This is the final look!",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 47.1,
+    "end_s": 48.7,
+    "text": "شوفوا قديه حلو و فيه volume",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 48.7,
+    "end_s": 51.5,
+    "text": "اذا بدك تعملي styling لشعرك و الـ look عنجد يضاينك عفترة طويلة",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 51.5,
+    "end_s": 53.0,
+    "text": "هيدي الـ tool لالك",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 52.0,
+    "end_s": 54.0,
+    "text": "Before / After",
+    "role": "other"
+   },
+   {
+    "start_s": 53.0,
+    "end_s": 54.5,
+    "text": "اطلبوها من wavy talk website",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 54.5,
+    "end_s": 55.7,
+    "text": "عليها 20% off",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 55.7,
+    "end_s": 57.7,
+    "text": "& 30 return",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "shot_type": "medium close-up",
+    "visual": "Young woman in a leopard-print camisole with pink lace trim pulling her dark hair back into a mock ponytail in front of bedroom wardrobes.",
+    "action": "Creator gestures pulling hair up as if tying it after styling frustration, then lets it drop down.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 12.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator demonstrating styling attempts with the pink WavyTalk thermal brush on dark hair.",
+    "action": "She brushes through a strand while explaining the frustration of flat roots and wasted time from other tools.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 14.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding and showing a shiny, styled curled strand of hair.",
+    "action": "She inspects the bounce and curl of the finished section.",
+    "product_visible": false
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 16.5,
+    "shot_type": "close-up",
+    "visual": "Close-up of the pink WavyTalk Blowout Boost brush held up to the camera showing digital display and bristles.",
+    "action": "Creator presents the product directly to the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 30.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator using the WavyTalk brush on her hair, lifting roots and running through strands from front to back.",
+    "action": "Demonstrating how the thermal brush lifts roots and glides smoothly while explaining ionic negative ion benefits.",
+    "product_visible": true
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 32.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator shows one side of styled, voluminous shiny blowout compared to the unstyled section.",
+    "action": "She shakes her head and touches her styled hair expressing amazement.",
+    "product_visible": false
+   },
+   {
+    "start_s": 32.2,
+    "end_s": 46.2,
+    "shot_type": "medium close-up",
+    "visual": "Step-by-step tutorial: creator pins top hair up, rolls sections over the brush, styles crown hair upward.",
+    "action": "Detailed demonstration showing root lift, pulling down length, curling tips, and crown blowout technique.",
+    "product_visible": true
+   },
+   {
+    "start_s": 46.2,
+    "end_s": 51.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator releases styled hair and shows off the final voluminous salon-style blowout.",
+    "action": "She brushes her hands through her hair and smiles, displaying the bouncy finish.",
+    "product_visible": true
+   },
+   {
+    "start_s": 51.5,
+    "end_s": 53.5,
+    "shot_type": "split-screen",
+    "visual": "Side-by-side back view of hair labeled 'Before' (frizzy, unshaped, messy) and 'After' (smooth, glossy, uniform wave).",
+    "action": "Creator shakes and runs hands through the back of her hair in both clips.",
+    "product_visible": false
+   },
+   {
+    "start_s": 53.5,
+    "end_s": 57.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the WavyTalk Blowout Boost next to her styled hair, smiling at camera.",
+    "action": "She holds the tool up, twirls a curl, and presents the call to action.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera with both hands lifting her dark hair up into a ponytail gesture.",
+   "visual_0_3s": "Creator acts out tying her hair in frustration, then lets hair drop as she addresses the viewer directly.",
+   "spoken_0_3s": "إذا بعد كل styling بترجعي بتربطي شعرك، this is for you.",
+   "text_0_3s": "إذا بعد كل styling بترجعي بتربطي شعرك / This is for you",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Immediate relatable action of tying up ruined/failed hair after putting in effort to style it."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Relatable problem callout: styling hair only to tie it back up because it falls flat",
+    "Pain points: other tools take too long and leave roots flat with no shape",
+    "Product introduction: WavyTalk Blowout Boost makes blowout styling effortless in one step",
+    "Feature & benefit breakdown: Ionic technology emits negative ions to cancel static and eliminate frizz",
+    "Half-head proof: showing the contrast between finished vs unfinished side",
+    "Step-by-step tutorial: sectioning, root lifting, and curling ends inward/outward",
+    "Before / after back view comparison proving sleek shine and volume",
+    "Call to action: 20% discount and 30-day return on official website"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "saves_time",
+    "replaces_multiple_tools",
+    "frizz_or_curly_solution"
+   ],
+   "key_claims": [
+    "Lifts roots, smooths hair, and curls ends in a single brush tool",
+    "Ionic technology eliminates static charges and prevents flyaways/frizz",
+    "Long-lasting blowout volume and shape that stays all day"
+   ],
+   "pain_points": [
+    "Spending hours styling hair only to end up putting it in a ponytail",
+    "Roots remaining flat and shapeless despite styling effort",
+    "Having to switch between multiple hot tools",
+    "Static electricity causing hair to puff up and fly away"
+   ],
+   "objections_handled": [
+    "Difficult to use (creator shows straightforward section-by-section technique)",
+    "Risk of buying online (handled with 30-day return policy and 20% discount)"
+   ],
+   "social_proof": [
+    "Visual half-head and before/after proof demonstrating immediate transformation"
+   ],
+   "comparison_to": "Using multiple separate styling tools that take forever and leave roots flat"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost"
+   ],
+   "first_seen_s": 2.8,
+   "first_used_on_hair_s": 2.8,
+   "final_result_shown_s": 46.2,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "20% off and 30-day return policy",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "اطلبوها من Wavy Talk website، عليها 20% off and 30 return.",
+   "cta_on_screen": "اطلبوها من wavy talk website / عليها 20% off / & 30 return",
+   "cta_at_s": 53.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, thick dark brown/black hair with natural wave and slight frizz",
+   "hair_after": "Voluminous, glossy, smooth salon blowout with bouncy flipped ends and lifted roots",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, informative, confident, and enthusiastic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "Subtle, ambient low-key background track underneath natural creator voiceover",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 12,
+   "avg_shot_length_s": 4.8,
+   "pacing": "medium",
+   "effects": [
+    "burned-in subtitles",
+    "split-screen before/after comparison",
+    "smooth jump cuts"
+   ],
+   "ending": "Creator smiling directly into camera holding up the WavyTalk Blowout Boost tool beside her bouncy blowout"
+  },
+  "notes": "Targeted at Lebanese women dealing with thick/frizzy hair and flat roots. High clarity UGC demonstration emphasizing the multi-tool versatility of the Blowout Boost."
+ }
+}

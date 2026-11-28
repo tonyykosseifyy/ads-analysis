@@ -1,0 +1,220 @@
+{
+ "media_key": "v_1020010237678688",
+ "analyzed_at": "2026-11-28T01:22:09+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "e879728e3cc1d7f756e1c5fec1d5b049858add7b9a977c5a74458e72b812dff9",
+ "source": {
+  "kind": "video",
+  "id": "1020010237678688",
+  "video_id": "1677583823315559",
+  "length_s": 30.966,
+  "permalink": "/23849366283980795/videos/1677583823315559/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 30.7,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates how she gets a full, voluminous blowout in 20 minutes using the Wavytalk thermal brush.",
+  "full_description": "The video starts with a side-by-side comparison hook where the creator reveals one side of her hair fully styled into bouncy blowout curls while the other side is flat and unstyled, captioned with '20 min difference... With the Wavytalk Thermal Brush'. She then turns on the pink Wavytalk thermal brush, displaying its digital temperature screen. Through a rapid sequence of jump cuts, she demonstrates curling various sections—bottom layers, middle strands, face-framing pieces, and the crown backward for root volume. In the reveal, she shakes out and fluffs her voluminous blowout curls, finishing by holding the heated brush up next to her face with a proud smile.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "text": "20 min difference...\nWith the Wavytalk Thermal Brush",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator sitting facing camera showing half-styled blowout hair on the left and unstyled straight hair on the right.",
+    "action": "Creator gestures to both sides of her hair while looking at the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 3.8,
+    "shot_type": "close-up",
+    "visual": "Creator holding the pink Wavytalk thermal brush up to the lens.",
+    "action": "Displays the illuminated digital temperature setting on the handle.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 7.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling a high side strand with the thermal brush.",
+    "action": "Wraps hair strand around the barrel and smoothly rolls it down, releasing a soft curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 10.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator working on a lower section of hair.",
+    "action": "Twirls hair section with fingers after releasing it from the thermal brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.0,
+    "end_s": 12.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling a mid-length section on the side.",
+    "action": "Rolls the brush outward to create volume and releases the strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 14.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling another section near the back/side.",
+    "action": "Guides the hair around the brush and pulls downward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 17.0,
+    "shot_type": "medium close-up",
+    "visual": "Styling front-facing hair pieces.",
+    "action": "Wraps the front lock around the heated thermal barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.0,
+    "end_s": 19.5,
+    "shot_type": "medium close-up",
+    "visual": "Curling another front lock on the right side.",
+    "action": "Twirls and glides the thermal brush through to define the wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.5,
+    "end_s": 23.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the top crown / bang section.",
+    "action": "Rolls the thermal brush backward at the roots to give maximum lift and volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.0,
+    "end_s": 29.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator showing the complete, finished blowout look.",
+    "action": "Runs hands through hair, fluffs the bouncy waves, and poses smiling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 29.5,
+    "end_s": 30.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the pink thermal brush in hand next to her styled hair.",
+    "action": "Smiles into camera with the product proudly displayed.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing half of her head curled in a blowout and the other half unstyled and straight.",
+   "visual_0_3s": "Side-by-side comparison of curled vs straight hair on creator's head, followed by a close-up of the heated brush turning on.",
+   "spoken_0_3s": "",
+   "text_0_3s": "20 min difference... With the Wavytalk Thermal Brush",
+   "hook_type": "before_after",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Split visual presentation on one person's head showing simultaneous unstyled and styled hair with a quick 20-minute claim."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Half-and-half before/after hook demonstrating 20 min transformation",
+    "Close-up showcase of the heated thermal brush temperature screen",
+    "Fast montage demonstration of curling various sections and root volumizing",
+    "Full bouncy hair result fluff and showcase",
+    "Final pose holding the styling tool"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "saves_time",
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Full blowout transformation in only 20 minutes"
+   ],
+   "pain_points": [
+    "Traditional blowouts take too long or require multiple complicated tools"
+   ],
+   "objections_handled": [
+    "Difficulty of doing a blowout on oneself is solved by an intuitive heated brush"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush"
+   ],
+   "first_seen_s": 2.0,
+   "first_used_on_hair_s": 3.8,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long dark brown hair, naturally straight and unstyled",
+   "hair_after": "Voluminous, shiny salon-style blowout curls with heavy bounce",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, glam, engaging"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Upbeat, rhythmic electronic pop beat synchronized with quick cuts",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 10,
+   "avg_shot_length_s": 2.79,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts",
+    "text overlay"
+   ],
+   "ending": "Creator smiles warmly into the camera while posing with the thermal brush beside her face"
+  },
+  "notes": "Ad relies entirely on visual proof and music tempo without voiceover or captions, highlighting the fast 20-minute turnaround and shiny blowout finish."
+ }
+}

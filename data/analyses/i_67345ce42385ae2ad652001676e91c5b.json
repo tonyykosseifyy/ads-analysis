@@ -1,0 +1,160 @@
+{
+ "media_key": "i_67345ce42385ae2ad652001676e91c5b",
+ "analyzed_at": "2026-11-28T00:10:08+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "087e5cb6da3dda7373e0b6594e24af6a246a36c12fb618b3456642e3e0f73e3f",
+ "source": {
+  "kind": "image",
+  "id": "67345ce42385ae2ad652001676e91c5b"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "Side-by-side comparison graphic contrasting the struggle of using a separate hair dryer and round brush against the effortless salon blowout achieved with the WavyTalk thermal brush.",
+  "full_description": "A square static promotional graphic set against a light lilac backdrop. At the top, the bold black 'WAVYTALK' brand logo sits above the headline 'ONE TOOL, SALON-LEVEL BLOWOUT' and the subheadline 'No more struggling with multiple tools'. Below is a two-panel split comparison: the left panel shows a desaturated black-and-white photo of a young woman with a frustrated expression trying to handle both a blow dryer and a tangled round brush, captioned 'Too many tools?' in a grey bar. The right panel shows a vibrant, full-colour photo of a smiling red-haired woman effortlessly styling bouncy, polished curls using the pink WavyTalk Blowout Boost heated round brush, captioned 'Just one tool!' in a vivid pink bar.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "ONE TOOL, SALON-LEVEL BLOWOUT",
+    "role": "hook"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "No more struggling with multiple tools",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Too many tools?",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Just one tool!",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "split-screen",
+    "visual": "A split-screen composition on a pale lilac studio background. Left panel: black-and-white photo of a woman looking annoyed while juggling a hair dryer and round brush. Right panel: full-colour photo of a smiling woman using the pink WavyTalk thermal brush on styled auburn hair.",
+    "action": "Comparison between multi-tool styling struggle and single-tool styling ease.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Split-panel comparison graphic asking 'Too many tools?' versus 'Just one tool!' under the headline 'ONE TOOL, SALON-LEVEL BLOWOUT'.",
+   "visual_0_3s": "Split-panel comparison graphic asking 'Too many tools?' versus 'Just one tool!' under the headline 'ONE TOOL, SALON-LEVEL BLOWOUT'.",
+   "spoken_0_3s": "",
+   "text_0_3s": "WAVYTALK / ONE TOOL, SALON-LEVEL BLOWOUT / No more struggling with multiple tools / Too many tools? / Just one tool!",
+   "hook_type": "before_after",
+   "hook_type_secondary": "problem_callout",
+   "pattern_interrupt": "Sharp visual contrast between a black-and-white struggling panel and an eye-catching, vibrant pink/full-color success panel."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Highlight the common pain point of juggling multiple hair styling tools at once",
+    "Introduce WavyTalk Blowout Boost as the all-in-one salon blowout solution"
+   ],
+   "main_angle": "replaces_multiple_tools",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "One tool delivers a salon-level blowout",
+    "Eliminates the struggle of using multiple tools simultaneously"
+   ],
+   "pain_points": [
+    "Awkward coordination of holding a heavy blow dryer and a round brush at the same time",
+    "Frizzy, tangled hair during self-styling"
+   ],
+   "objections_handled": [
+    "Blowouts at home are too difficult or require professional skills"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional hair dryer and round brush combination"
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": 0,
+   "final_result_shown_s": 0,
+   "demo_clarity": "result_only",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 2,
+   "talent_type": "model",
+   "name_if_shown": "",
+   "age_range": "20s",
+   "hair_before": "Undone, slightly frizzy wavy brunette hair",
+   "hair_after": "Smooth, voluminous, glossy auburn-red curls",
+   "setting": "studio",
+   "faces_camera": true,
+   "energy_tone": "Frustrated and annoyed on the left; radiant, confident, and joyful on the right"
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "Side-by-side photo split",
+    "Grayscale filter on problem side",
+    "Graphic overlay banners"
+   ],
+   "ending": "Static image frame"
+  },
+  "notes": "Static ad creative emphasizing replacement of multiple styling tools with the WavyTalk Blowout Boost thermal round brush."
+ }
+}

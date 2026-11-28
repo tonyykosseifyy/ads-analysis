@@ -1,0 +1,143 @@
+{
+ "media_key": "i_11310ad57ef7f994eb2c9ed5ac5204d0",
+ "analyzed_at": "2026-11-28T00:26:40+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "c676190f85cd5c590569b856bb31a8ee6efdff3f003422b6ad6bc62151e4fb8f",
+ "source": {
+  "kind": "image",
+  "id": "11310ad57ef7f994eb2c9ed5ac5204d0"
+ },
+ "role": "rotating",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "Clean studio product render of a light pink Wavytalk hair styling brush encircled by a satin ribbon promoting a Black Friday sale of up to 35% off.",
+  "full_description": "A square graphic image designed for Black Friday promotions. On the left side, bold dark text reads 'WAVYTALK' at the top, followed by 'UP TO 35% OFF' in large capital letters, and 'Black Friday' underneath. On the right side, a pastel pink Wavytalk hair styling tool (thermal straightening brush) stands upright with an active digital display showing '320°'. A flowing, glossy pink silk ribbon wraps diagonally around the tool against a bright, neutral light grey studio backdrop with soft ambient lighting and shadows.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "UP TO 35% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Black Friday",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "product shot",
+    "visual": "A light pink Wavytalk hair styling tool standing vertically on a clean light grey surface, wrapped by an elegant swirling pink ribbon, alongside bold Black Friday discount typography.",
+    "action": "Static image display of the product and Black Friday discount copy.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Static visual featuring 'UP TO 35% OFF Black Friday' typography next to a pink Wavytalk styling brush with a swirling ribbon.",
+   "visual_0_3s": "Static visual featuring 'UP TO 35% OFF Black Friday' typography next to a pink Wavytalk styling brush with a swirling ribbon.",
+   "spoken_0_3s": "",
+   "text_0_3s": "WAVYTALK UP TO 35% OFF Black Friday",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "none",
+   "pattern_interrupt": "High-contrast bold Black Friday headline beside a soft pastel pink studio aesthetic."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Brand recognition",
+    "Black Friday promotional offer announcement",
+    "Visual presentation of the flagship pink styling tool"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "gift_or_occasion"
+   ],
+   "key_claims": [
+    "Up to 35% discount for Black Friday"
+   ],
+   "pain_points": [],
+   "objections_handled": [
+    "Affordability/price point"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk styling tool (pink thermal brush / straightener)"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "Up to 35% Off for Black Friday",
+   "price_mentioned": "Up to 35% off",
+   "discount_code": "",
+   "urgency": "Black Friday promotion",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "studio",
+   "faces_camera": false,
+   "energy_tone": ""
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "3D render / commercial studio composition",
+    "typography layout"
+   ],
+   "ending": "Static image display."
+  },
+  "notes": "Static ad creative for Meta feed/story placement promoting Black Friday deals for the Lebanese market."
+ }
+}

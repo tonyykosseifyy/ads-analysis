@@ -1,0 +1,190 @@
+{
+ "media_key": "v_1112209421815242",
+ "analyzed_at": "2026-11-28T00:13:20+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "2e06b6de41ab4d8c0d446885e914d6e683aae478d8fb280a73efeba09df80cee",
+ "source": {
+  "kind": "video",
+  "id": "1112209421815242",
+  "video_id": "1676292030545572",
+  "length_s": 12.539,
+  "permalink": "/23849366283980795/videos/1676292030545572/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 12.6,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator showcases a voluminous 90s blowout transformation using the WavyTalk thermal round brush to a trending autumn audio.",
+  "full_description": "A young female creator in a bedroom setting shows off her voluminous, layered fall blowout hairstyle. The video cuts between the finished voluminous hair and quick demonstration clips of her curling sections and bangs using the pink WavyTalk thermal round brush (Blowout Boost). The audio uses the popular Gilmore Girls soundbite ('So what's the verdict? I am an autumn') with ambient orchestral strings.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "speaker": "audio_voiceover",
+    "language": "en",
+    "text_original": "So what's the verdict?",
+    "text_english": "So what's the verdict?"
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 5.0,
+    "speaker": "audio_voiceover",
+    "language": "en",
+    "text_original": "I am an autumn.",
+    "text_english": "I am an autumn."
+   }
+  ],
+  "transcript_full_original": "So what's the verdict? I am an autumn.",
+  "transcript_full_english": "So what's the verdict? I am an autumn.",
+  "word_count": 8,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 12.6,
+    "text": "fall weather = blowouts <3 🍂🐿️",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "shot_type": "medium close-up",
+    "visual": "Young woman in a plaid dress sitting on a bed, showing off her fully styled voluminous blowout with heavy curtain bangs.",
+    "action": "Creator poses, touches her layered waves, and fluffs her hair up with both hands looking into the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 5.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the pink thermal round brush to a lower strand of hair.",
+    "action": "Creator twirls the brush down through the hair strand to curl the ends and shows the smooth wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 8.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling a mid-section on the side of her head with the thermal brush.",
+    "action": "Creator rolls the thermal brush up vertically, holds it briefly, releases a tight spiral bounce, and catches the curl with her fingers.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 10.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling her top crown / bangs section using the pink thermal brush.",
+    "action": "Creator rolls the top crown section back away from her face and pulls the brush upwards to create lift and volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.2,
+    "end_s": 12.6,
+    "shot_type": "medium close-up",
+    "visual": "Finished hairstyle result.",
+    "action": "Creator releases her crown hair, runs her hands through the layers, and poses to showcase the full, bouncy, voluminous blowout.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing the camera showing her completed voluminous layered blowout while wearing a plaid corset-style top.",
+   "visual_0_3s": "Creator shaking and fluffing her thick voluminous blowout hair while pouting playfully at the camera.",
+   "spoken_0_3s": "So what's the verdict? I",
+   "text_0_3s": "fall weather = blowouts <3 🍂🐿️",
+   "hook_type": "result_first",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "Immediate result showcase with dramatic 90s layered hair volume and seasonal aesthetic text hook."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Result reveal hook showing massive volume and bouncy layers",
+    "Step-by-step micro-demo showing how the heated round brush creates curls on bottom layers, side layers, and top crown",
+    "Final aesthetic result reveal with creator shaking out the styled blowout"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Creates massive volume and bouncy curls easily",
+    "Achieves fall aesthetic blowout at home"
+   ],
+   "pain_points": [
+    "Flat hair lacking volume and shape in fall weather",
+    "Difficulty getting salon blowout bounce at home"
+   ],
+   "objections_handled": [
+    "Demonstrates that root lift and defined ends can be achieved with one heated round brush tool"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush (Pink)"
+   ],
+   "first_seen_s": 2.8,
+   "first_used_on_hair_s": 2.9,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Already partially styled/parted brown hair with heavy bangs and long layers",
+   "hair_after": "Ultra-voluminous, bouncy 90s blowout with flipped layers and full rounded bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "aesthetic, trendy, cozy, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Trending Gilmore Girls audio ('So what's the verdict? I am an autumn.') layered over gentle, whimsical orchestral strings and waltz music.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 2.5,
+   "pacing": "fast",
+   "effects": [
+    "aesthetic warm color grading",
+    "quick jump cuts between styling sections"
+   ],
+   "ending": "Cuts out while the creator fluffs her voluminous blowout layers and gazes at the camera."
+  },
+  "notes": "Short aesthetic reel format leveraging viral fall aesthetic sound bites without direct hard-selling, driving organic engagement and click-throughs for the WavyTalk thermal brush."
+ }
+}

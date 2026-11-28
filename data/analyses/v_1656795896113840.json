@@ -1,0 +1,161 @@
+{
+ "media_key": "v_1656795896113840",
+ "analyzed_at": "2026-11-28T00:12:29+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "c388878e213009613d477ddd958c0ad091200836a48bf264e5afec5d45ee037d",
+ "source": {
+  "kind": "video",
+  "id": "1656795896113840",
+  "video_id": "1662347282187269",
+  "length_s": 15.966,
+  "permalink": "/23849366283980795/videos/1662347282187269/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 15.9,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator showcases her voluminous layered blowout and demonstrates a quick curtain-bang hack using a thermal round brush over trending music.",
+  "full_description": "The ad opens with a young woman from behind running her hands through her shiny, voluminous, layered blowout hair wearing a champagne silk robe, with the text 'the hair vs. the hack'. She turns around to face the camera, then cuts to demonstrating a quick styling hack on her front curtain bangs using a white thermal round brush (Blowout Boost). She wraps the top crown/bang section around the heated barrel and twists it out smoothly to create effortless bounce. The video ends with her fluffing and admiring the bouncy blowout layers.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 15.9,
+    "text": "the hair\nvs.\n✨ the hack ✨",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.7,
+    "shot_type": "medium shot",
+    "visual": "Creator in a satin robe seen from the back running her fingers through long, layered, shiny blowout curls, then turning to face the camera.",
+    "action": "Showing off the finished blowout hair result and turning around.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.7,
+    "end_s": 8.0,
+    "shot_type": "close-up / medium shot",
+    "visual": "Creator lifts her front bang section upwards and positions the white thermal round brush underneath near the roots, rolling it backward.",
+    "action": "Sectioning bangs and wrapping hair over the thermal brush barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 11.2,
+    "shot_type": "close-up",
+    "visual": "Creator holding the thermal brush sideways, rolling and unrolling a curtain bang strand to set the curl.",
+    "action": "Twisting and releasing the hair from the heated barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 15.9,
+    "shot_type": "medium shot",
+    "visual": "Creator touches and fluffs her newly curled face-framing layers, turning her head side to side to flaunt the volume.",
+    "action": "Posing, shaking hair, and smiling at the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Back view of a brunette woman with voluminous layered blowout hair wearing a silk robe.",
+   "visual_0_3s": "Creator shows the back of her layered blowout hair, touches it, then turns to face the camera.",
+   "spoken_0_3s": "",
+   "text_0_3s": "the hair vs. ✨ the hack ✨",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Instant visual gratification showing lush 90s-style blowout volume before teasing 'the hack' behind it."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Showcase breathtaking voluminous blowout result",
+    "Tease the styling hack",
+    "Demonstrate fast technique on bangs using thermal round brush",
+    "Final bouncy reveal and confidence pose"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners",
+    "saves_time"
+   ],
+   "key_claims": [
+    "Achieve voluminous salon blowout layers and curtain bangs easily"
+   ],
+   "pain_points": [
+    "Curtain bangs falling flat",
+    "Difficulties styling front layers with a regular round brush and dryer"
+   ],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Thermal Round Brush (Blowout Boost)"
+   ],
+   "first_seen_s": 2.8,
+   "first_used_on_hair_s": 3.2,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Already styled, voluminous dark brown layered hair",
+   "hair_after": "Ultra-bouncy, styled blowout with curled curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "aesthetic, glamorous, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Trending upbeat pop/R&B song with pitched female vocal hook ('Baby I got you stuck in my head / I won't let go of you').",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 3.2,
+   "pacing": "medium",
+   "effects": [
+    "on-screen text overlay"
+   ],
+   "ending": "Creator smiling softly and posing while tossing her bouncy front layers."
+  },
+  "notes": "Aesthetic social-first format leveraging the popular 'the hair vs. the hack' trend. Highly focused on aspiration and visual appeal without spoken sales pitch."
+ }
+}

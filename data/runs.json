@@ -33,5 +33,24 @@
   "input_tokens_this_run": 2016994,
   "output_tokens_this_run": 1065055,
   "finished_at": "2026-11-27T23:52:26+00:00"
+ },
+ {
+  "started_at": "2026-11-28T00:06:37+00:00",
+  "mode": "run",
+  "models": "gemini-3.8-flash",
+  "ads": 769,
+  "assets": 685,
+  "queued": 370,
+  "analysed": 220,
+  "duplicates": 83,
+  "failed": 67,
+  "stopped_for_time": 0,
+  "stopped_for_budget": 0,
+  "gemini_usd_this_run": 4.946,
+  "gemini_usd_this_month": 12.322,
+  "monthly_cap_usd": 30.0,
+  "input_tokens_this_run": 1827957,
+  "output_tokens_this_run": 953336,
+  "finished_at": "2026-11-28T01:46:36+00:00"
  }
 ]

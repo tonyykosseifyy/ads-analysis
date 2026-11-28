@@ -1,0 +1,254 @@
+{
+ "media_key": "v_2215978675941491",
+ "analyzed_at": "2026-11-28T00:13:29+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "8af6d04aa92beff63b36ac37e77350ff12e31df83f1558e49636e10b5edeb87c",
+ "source": {
+  "kind": "video",
+  "id": "2215978675941491",
+  "video_id": "1676897253843525",
+  "length_s": 27.566,
+  "permalink": "/23849366283980795/videos/1676897253843525/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 27.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A redheaded creator recreates Julia Roberts' iconic 'Pretty Woman' voluminous curly hairstyle using the Wavytalk Whirlwind Curl styler to trending music.",
+  "full_description": "The video opens with a ginger-haired creator showing off big 90s curls alongside reference photos of Julia Roberts from 'Pretty Woman' with overlay text announcing the style tutorial. The video transitions to her in a white bathrobe with straight hair, holding the pink Wavytalk Whirlwind Curl tool and showing its temperature display. She sections her long red hair, clamps and twists strands around the tool, showing tight spiral curl results, hair spraying, and curling the front fringe. After fluffing out the curls, she relaxes with coffee, puts on lip gloss, and dresses in a grey pinstriped oversized suit and tie mimicking Julia Roberts' iconic look while showcasing the voluminous, bouncy curls.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "text": "Julia Roberts\n'Pretty woman' hairstyle",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "medium close-up",
+    "visual": "Redheaded creator fluffing voluminous curly hair while wearing a pinstripe suit, with two photos of Julia Roberts from 'Pretty Woman' displayed below.",
+    "action": "Creator grabs and fluffs hair while looking into camera over reference photos.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 3.1,
+    "shot_type": "medium shot",
+    "visual": "Creator in a white bathrobe with long straight hair, holding the pink Wavytalk tool.",
+    "action": "Creator opens and clicks the clamp of the pink styler and smiles.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.1,
+    "end_s": 4.1,
+    "shot_type": "medium shot",
+    "visual": "Creator combing through a section of long, straight ginger hair.",
+    "action": "Runs a black tail comb through the hair section.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 5.0,
+    "shot_type": "medium shot",
+    "visual": "Creator with top hair pinned up with a pink scrunchie, holding a smooth section of hair.",
+    "action": "Demonstrates the section ready to curl.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 5.9,
+    "shot_type": "close-up",
+    "visual": "Close-up shot of the pink Wavytalk styler body in hand, displaying the digital temperature readout and brand logo.",
+    "action": "Creator holds the tool steady to show the digital display and airflow vents.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.9,
+    "end_s": 8.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator clamping a hair section and wrapping it around the heated barrel.",
+    "action": "Clamps hair, twists the tool 360 degrees, and slides it down slowly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.3,
+    "end_s": 9.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator examining the tight spiral curl formed and applying hairspray.",
+    "action": "Twirls the curl around her finger and mists it with hairspray.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.7,
+    "end_s": 11.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding a black styling clip, smiling warmly.",
+    "action": "Prepares another hair section with hair clips.",
+    "product_visible": false
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 13.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling side and back sections near her ear using the styler.",
+    "action": "Wraps hair around iron, glides down, and releases defined spiraled locks.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.6,
+    "end_s": 16.7,
+    "shot_type": "close-up",
+    "visual": "Creator styling the bangs and crown sections with the iron.",
+    "action": "Curles front bangs backward and downward to achieve root lift and bounce.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.7,
+    "end_s": 17.8,
+    "shot_type": "close-up",
+    "visual": "Creator with defined ringlet curls framing her face before shakeout.",
+    "action": "Looks directly at camera displaying tight, intact ringlets.",
+    "product_visible": false
+   },
+   {
+    "start_s": 17.8,
+    "end_s": 19.3,
+    "shot_type": "medium shot",
+    "visual": "Creator shaking out and separating the tight curls with fingers.",
+    "action": "Rakes fingers through curls to transform ringlets into massive voluminous 90s waves.",
+    "product_visible": false
+   },
+   {
+    "start_s": 19.3,
+    "end_s": 21.4,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting by high window in morning robe, sipping from a white mug.",
+    "action": "Drinks coffee while looking outside, showing off soft cascaded curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 21.4,
+    "end_s": 23.0,
+    "shot_type": "close-up",
+    "visual": "Creator dressed in grey outfit, applying pink lip gloss.",
+    "action": "Applies lip gloss to complete the 90s film aesthetic.",
+    "product_visible": false
+   },
+   {
+    "start_s": 23.0,
+    "end_s": 27.5,
+    "shot_type": "medium shot",
+    "visual": "Creator posing by open balcony door in grey pinstripe suit, tie, and full bouncy Julia Roberts curls.",
+    "action": "Runs hands through hair, twirls, and smiles confidently toward camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator in pinstripe suit with huge 90s red curls touching her hair, with inset photos of Julia Roberts in Pretty Woman and text overlay.",
+   "visual_0_3s": "Creator shaking out voluminous curls with Julia Roberts reference images onscreen, followed by transition to bathrobe holding the pink iron.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Julia Roberts 'Pretty woman' hairstyle",
+   "hook_type": "result_first",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "Split visual of cinematic pop-culture reference (Julia Roberts in Pretty Woman) combined with an immediate end-result flash."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Inspiration hook showing finished hair look with movie character reference",
+    "Tool introduction and sectioning prep",
+    "Curling technique step-by-step from bottom layer to front fringe",
+    "Fluffing and breaking up curls for volume",
+    "Full final reveal in styled vintage outfit"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Recreates iconic Julia Roberts 'Pretty Woman' 90s voluminous curly hair",
+    "Smooth glide and defined long-lasting curls with cooling air technology"
+   ],
+   "pain_points": [
+    "Flat hair lacking body and texture",
+    "Difficulty getting tight bouncy 90s style curls without multiple styling tools"
+   ],
+   "objections_handled": [
+    "Can it curl long, thick hair evenly without frizz?"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Whirlwind Curl"
+   ],
+   "first_seen_s": 1.8,
+   "first_used_on_hair_s": 5.9,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Very long, straight ginger/red hair",
+   "hair_after": "Voluminous, bouncy textured spiral curls and 90s Hollywood waves",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "aesthetic, glamorous, playful"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Roy Orbison - 'Oh, Pretty Woman' song track playing throughout without voiceover.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 1.96,
+   "pacing": "fast",
+   "effects": [
+    "beat sync cuts",
+    "on-screen graphic photo overlays",
+    "aesthetic color grading"
+   ],
+   "ending": "Creator playing with bouncy curls by balcony window dressed in iconic Julia Roberts suit outfit."
+  },
+  "notes": "No spoken dialogue in asset; uses popular retro pop song 'Oh, Pretty Woman' to anchor the character hair transformation concept. Tool is Wavytalk Whirlwind Curl (2-in-1 styler with 360 air vents)."
+ }
+}

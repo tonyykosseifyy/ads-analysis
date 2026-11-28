@@ -1,0 +1,134 @@
+{
+ "media_key": "i_3a400d4b6108227a994a9cd09b178c60",
+ "analyzed_at": "2026-11-28T00:46:48+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "79452731ff896c8cad7234fcf4f031c19a27efc904ad45385fc827e2f29f1a91",
+ "source": {
+  "kind": "image",
+  "id": "3a400d4b6108227a994a9cd09b178c60"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "Studio promotional image showing a smiling redheaded model using the pink WavyTalk Blowout Boost brush on her straight hair with headline copy addressing straight hair styling struggles.",
+  "full_description": "A square static promotional image featuring the brand name 'WAVYTALK' at the top, accompanied by the bold headline 'Straight hair styling struggles? We got you.' A smiling young woman with long auburn-red hair is centered against an off-white background framed with a soft lavender border. She holds a light pink WavyTalk Blowout Boost heated round brush in both hands, wrapping a section of her straight hair around the barrel.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Straight hair styling struggles?\nWe got you.",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "medium close-up",
+    "visual": "A smiling young woman with long copper-red hair holds a pink WavyTalk Blowout Boost thermal round brush horizontally against a section of her hair. Studio lighting on a clean neutral background framed by soft purple borders.",
+    "action": "The model smiles looking upwards while holding the pink heated blowout brush under a section of straight hair, gripping the cool tip with her left hand and the handle with her right.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Still graphic with bold text 'Straight hair styling struggles? We got you.' and a model demonstrating the pink WavyTalk round brush tool.",
+   "visual_0_3s": "Still graphic with bold text 'Straight hair styling struggles? We got you.' and a model demonstrating the pink WavyTalk round brush tool.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Straight hair styling struggles? We got you.",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "question",
+   "pattern_interrupt": "Direct question addressing styling struggles for straight hair paired with a bright, vibrant studio portrait."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Identify the problem: straight hair styling struggles",
+    "Offer the solution: WavyTalk Blowout Boost brush"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Solves styling struggles for straight hair"
+   ],
+   "pain_points": [
+    "Struggling to add volume, shape, or style straight flat hair"
+   ],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": 0,
+   "final_result_shown_s": -1,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "model",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, fine-to-medium straight copper-red hair",
+   "hair_after": "Long, fine-to-medium straight copper-red hair",
+   "setting": "studio",
+   "faces_camera": true,
+   "energy_tone": "Warm, cheerful, and approachable"
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [],
+   "ending": "Static image graphic"
+  },
+  "notes": "Static image ad for the WavyTalk Blowout Boost thermal styling brush targeting straight hair styling pain points."
+ }
+}

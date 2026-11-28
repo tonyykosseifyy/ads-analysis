@@ -1,0 +1,532 @@
+{
+ "media_key": "v_1313454413693971",
+ "analyzed_at": "2026-11-28T00:20:13+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "60fab51a36deba0404348a0f897ac369882c050a15dfbe31a7853950dd8caf41",
+ "source": {
+  "kind": "video",
+  "id": "1313454413693971",
+  "video_id": "2169287697179149",
+  "length_s": 60.182,
+  "permalink": "/23849366283980795/videos/2169287697179149/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 59.9,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "English voiceover tells the hair transformation story of Danielle, demonstrating the Wavytalk Blowout Boost thermal brush on her voluminous frizzy hair.",
+  "full_description": "The video features creator Danielle with extremely thick, long, voluminous hair. A male narrator introduces Danielle and shows flashback photos of her damaged, thin hair in college when using flat irons and improper styling tools. Then, Danielle demonstrates styling her thick frizzy hair using the Wavytalk Blowout Boost thermal round brush, showcasing smooth, bouncy blowout results section by section without hair dryer noise or flat-iron damage. Negative ion technology and blowout smoothness are highlighted as she presents the final voluminous blowout finish.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "This is Danielle.",
+    "text_english": "This is Danielle."
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 2.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "And this is her lion's mane.",
+    "text_english": "And this is her lion's mane."
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 4.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "And this was her hair in college,",
+    "text_english": "And this was her hair in college,"
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 7.9,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "when she used the wrong styling tools for her hair.",
+    "text_english": "when she used the wrong styling tools for her hair."
+   },
+   {
+    "start_s": 7.9,
+    "end_s": 9.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "But now she knows better.",
+    "text_english": "But now she knows better."
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 12.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "She now has tools like the Wavytalk Blowout Boost",
+    "text_english": "She now has tools like the Wavytalk Blowout Boost"
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 14.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "that give her a gorgeous blowout look,",
+    "text_english": "that give her a gorgeous blowout look,"
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 16.7,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "without the mechanical damage,",
+    "text_english": "without the mechanical damage,"
+   },
+   {
+    "start_s": 16.7,
+    "end_s": 18.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "without a ton of effort,",
+    "text_english": "without a ton of effort,"
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 20.9,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "and without the annoying noise of a blow dryer.",
+    "text_english": "and without the annoying noise of a blow dryer."
+   },
+   {
+    "start_s": 20.9,
+    "end_s": 25.1,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "It is so fantastic that over 80 million of you have seen her use it.",
+    "text_english": "It is so fantastic that over 80 million of you have seen her use it."
+   },
+   {
+    "start_s": 25.1,
+    "end_s": 28.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Her hair health is the best it has ever been,",
+    "text_english": "Her hair health is the best it has ever been,"
+   },
+   {
+    "start_s": 28.6,
+    "end_s": 31.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "thanks to using tools that are better for her hair,",
+    "text_english": "thanks to using tools that are better for her hair,"
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 33.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "and don't require a million passes",
+    "text_english": "and don't require a million passes"
+   },
+   {
+    "start_s": 33.6,
+    "end_s": 36.1,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "like a blow dryer and a round brush did,",
+    "text_english": "like a blow dryer and a round brush did,"
+   },
+   {
+    "start_s": 36.1,
+    "end_s": 39.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "and don't require frying her hair in between two metal plates.",
+    "text_english": "and don't require frying her hair in between two metal plates."
+   },
+   {
+    "start_s": 39.5,
+    "end_s": 42.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Life with the Blowout Boost is fantastic.",
+    "text_english": "Life with the Blowout Boost is fantastic."
+   },
+   {
+    "start_s": 42.8,
+    "end_s": 46.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "She gets compliments on her hair everywhere she goes.",
+    "text_english": "She gets compliments on her hair everywhere she goes."
+   },
+   {
+    "start_s": 46.2,
+    "end_s": 49.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "And it also uses negative ion technology,",
+    "text_english": "And it also uses negative ion technology,"
+   },
+   {
+    "start_s": 49.3,
+    "end_s": 51.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "which is amazing for combating frizz",
+    "text_english": "which is amazing for combating frizz"
+   },
+   {
+    "start_s": 51.5,
+    "end_s": 53.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "and smoothing the hair cuticle.",
+    "text_english": "and smoothing the hair cuticle."
+   },
+   {
+    "start_s": 53.6,
+    "end_s": 56.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "What a joy! It really is quite amazing.",
+    "text_english": "What a joy! It really is quite amazing."
+   },
+   {
+    "start_s": 56.6,
+    "end_s": 58.1,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "You could say it's magic...",
+    "text_english": "You could say it's magic..."
+   },
+   {
+    "start_s": 58.1,
+    "end_s": 59.9,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "or it's just the Blowout Boost!",
+    "text_english": "or it's just the Blowout Boost!"
+   }
+  ],
+  "transcript_full_original": "This is Danielle. And this is her lion's mane. And this was her hair in college, when she used the wrong styling tools for her hair. But now she knows better. She now has tools like the Wavytalk Blowout Boost that give her a gorgeous blowout look, without the mechanical damage, without a ton of effort, and without the annoying noise of a blow dryer. It is so fantastic that over 80 million of you have seen her use it. Her hair health is the best it has ever been, thanks to using tools that are better for her hair, and don't require a million passes like a blow dryer and a round brush did, and don't require frying her hair in between two metal plates. Life with the Blowout Boost is fantastic. She gets compliments on her hair everywhere she goes. And it also uses negative ion technology, which is amazing for combating frizz and smoothing the hair cuticle. What a joy! It really is quite amazing. You could say it's magic... or it's just the Blowout Boost!",
+  "transcript_full_english": "This is Danielle. And this is her lion's mane. And this was her hair in college, when she used the wrong styling tools for her hair. But now she knows better. She now has tools like the Wavytalk Blowout Boost that give her a gorgeous blowout look, without the mechanical damage, without a ton of effort, and without the annoying noise of a blow dryer. It is so fantastic that over 80 million of you have seen her use it. Her hair health is the best it has ever been, thanks to using tools that are better for her hair, and don't require a million passes like a blow dryer and a round brush did, and don't require frying her hair in between two metal plates. Life with the Blowout Boost is fantastic. She gets compliments on her hair everywhere she goes. And it also uses negative ion technology, which is amazing for combating frizz and smoothing the hair cuticle. What a joy! It really is quite amazing. You could say it's magic... or it's just the Blowout Boost!",
+  "word_count": 169,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "text": "This is Danielle",
+    "role": "hook"
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 2.8,
+    "text": "this is her lion's mane",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 4.8,
+    "text": "and this was her hair in college",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 7.9,
+    "text": "when she used the wrong styling tools for her hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.9,
+    "end_s": 12.3,
+    "text": "but now she knows better she now has tools like the Wavytalk Blowout Boost",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 14.8,
+    "text": "that give her a gorgeous blowout look",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 16.7,
+    "text": "without the mechanical damage,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.7,
+    "end_s": 20.9,
+    "text": "without a ton of effort, & without the annoying noise of a blow dryer",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.9,
+    "end_s": 25.1,
+    "text": "it is so fantastic that over 80 million of you have seen her use it",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.1,
+    "end_s": 27.5,
+    "text": "her hair health is the best it has ever been",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 27.5,
+    "end_s": 31.0,
+    "text": "thanks to using tools that are better for her hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 33.6,
+    "text": "and don't require a million passes",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 33.6,
+    "end_s": 36.1,
+    "text": "like a blow dryer and a round brush did",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 36.1,
+    "end_s": 39.5,
+    "text": "and don't require frying her hair in between two metal plates",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 39.5,
+    "end_s": 42.8,
+    "text": "life with the Blowout Boost is fantastic",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 42.8,
+    "end_s": 46.2,
+    "text": "she gets compliments on her hair everywhere she goes",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 46.2,
+    "end_s": 49.3,
+    "text": "and it also uses negative ion technology",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 49.3,
+    "end_s": 53.6,
+    "text": "which is amazing for combating frizz and smoothing the hair cuticle",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 53.6,
+    "end_s": 56.6,
+    "text": "what a joy! it really is quite amazing",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 56.6,
+    "end_s": 58.1,
+    "text": "you could say it's magic...",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 58.1,
+    "end_s": 59.9,
+    "text": "or it's just the Blowout Boost!",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "shot_type": "medium shot",
+    "visual": "Danielle showing off her styled blowout hair result.",
+    "action": "Danielle smiles and fluffs her bouncy blowout curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 2.8,
+    "shot_type": "medium shot",
+    "visual": "Danielle with her natural extremely frizzy, curly, thick lion's mane hair.",
+    "action": "She shrugs and displays the sheer volume of her natural unruly texture.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 7.9,
+    "shot_type": "montage / photo b-roll",
+    "visual": "Flashback photos of Danielle in college with flat, heat-damaged hair.",
+    "action": "Various photos showing thin, straight, flat-iron damaged strands.",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.9,
+    "end_s": 11.8,
+    "shot_type": "medium shot",
+    "visual": "Danielle holding the Wavytalk Blowout Boost tool in front of the camera.",
+    "action": "She presents the pink and gold thermal round brush, sectioning her hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.8,
+    "end_s": 24.5,
+    "shot_type": "medium close-up",
+    "visual": "Danielle brushing through and curling a section with the Blowout Boost.",
+    "action": "She glides the heated round brush down a hair section, slowly turning it to curl and smooth.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 39.0,
+    "shot_type": "medium shot",
+    "visual": "Demonstration continuing on lower and side sections.",
+    "action": "Danielle smoothly pulls the brush through hair sections, showing glossy straight-to-bouncy waves.",
+    "product_visible": true
+   },
+   {
+    "start_s": 39.0,
+    "end_s": 42.0,
+    "shot_type": "medium shot",
+    "visual": "Half-and-half side comparison.",
+    "action": "Danielle displays the styled sleek blowout half compared to her natural frizzy side.",
+    "product_visible": true
+   },
+   {
+    "start_s": 42.0,
+    "end_s": 53.0,
+    "shot_type": "medium shot",
+    "visual": "Danielle styling top and crown sections.",
+    "action": "She rolls the thermal brush through the top and bangs to create root volume and smooth curls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 53.0,
+    "end_s": 59.9,
+    "shot_type": "medium shot",
+    "visual": "Final voluminous hair result showcase.",
+    "action": "Danielle flips her glossy blowout hair and proudly holds up the Blowout Boost.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Danielle smiling at the camera displaying her enormous, voluminous shiny blowout hair.",
+   "visual_0_3s": "Quick cut from styled blowout hair to her huge wild natural lion's mane texture.",
+   "spoken_0_3s": "This is Danielle. And this is her lion's mane.",
+   "text_0_3s": "This is Danielle / this is her lion's mane",
+   "hook_type": "before_after",
+   "hook_type_secondary": "story",
+   "pattern_interrupt": "Shocking extreme contrast between gorgeous sleek blowout and huge unruly curly lion's mane within 2 seconds."
+  },
+  "structure": {
+   "format": "voiceover_broll",
+   "narrative_beats": [
+    "Hook with dramatic contrast between natural mane and blowout",
+    "Origin backstory showing damaged hair in college from traditional tools",
+    "Introduction of the Wavytalk Blowout Boost tool",
+    "Live styling demo addressing heat damage, noise, and ease of use",
+    "Social proof callout (80M views)",
+    "Half-head contrast and benefit recap (negative ion, anti-frizz)",
+    "Final transformation reveal and product hold-up"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "less_heat_damage",
+    "volume_and_bounce",
+    "social_proof_popularity"
+   ],
+   "key_claims": [
+    "Over 80 million views",
+    "Negative ion technology combats frizz and smooths cuticle",
+    "No mechanical damage, no annoying blow dryer noise",
+    "No frying hair between two metal plates like a flat iron"
+   ],
+   "pain_points": [
+    "Unruly, frizzy, hard-to-manage thick hair",
+    "Damage from flat irons and round brushes",
+    "Noisy blow dryers taking too many passes and effort"
+   ],
+   "objections_handled": [
+    "Heat damage (tool protects hair health without clamping metal plates)",
+    "Too loud / annoying (silent thermal brush compared to blow dryers)"
+   ],
+   "social_proof": [
+    "Over 80 million people have seen her use it",
+    "Gets compliments everywhere she goes"
+   ],
+   "comparison_to": "Blow dryer with round brush, and flat iron / straightener"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 7.9,
+   "first_used_on_hair_s": 11.8,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "Danielle",
+   "age_range": "20s",
+   "hair_before": "Extremely thick, long, voluminous, frizzy curly brunette hair",
+   "hair_after": "Ultra-glossy, smooth, bouncy blowout waves with curved ends",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "Warm, engaging, storytelling, cheerful"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Gentle, whimsical acoustic storytelling background track underneath a British/refined documentary-style male narrator.",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 4.3,
+   "pacing": "medium",
+   "effects": [
+    "Text overlays",
+    "Montage photo sequence",
+    "Smooth cut transitions"
+   ],
+   "ending": "Danielle posing, tossing her bouncy voluminous hair, and holding the Blowout Boost smiling."
+  },
+  "notes": "Ad creative repurposing a viral TikTok UGC video by creator Danielle (@danielleathena) highlighting her lion's mane hair routine with Wavytalk Blowout Boost."
+ }
+}

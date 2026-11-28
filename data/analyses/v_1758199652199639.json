@@ -1,0 +1,478 @@
+{
+ "media_key": "v_1758199652199639",
+ "analyzed_at": "2026-11-28T00:13:17+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "18fefa9acb492e5428b06129b0a2216ea5e0d36cc31a486704df5ab9ffa3f3ef",
+ "source": {
+  "kind": "video",
+  "id": "1758199652199639",
+  "video_id": "1535660857535278",
+  "length_s": 50.572,
+  "permalink": "/23849366283980795/videos/1535660857535278/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 50.6,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates transforming her voluminous curly hair into a sleek blowout using the pink Wavytalk thermal round brush.",
+  "full_description": "The video starts with a split-second flash of the final sleek blowout, then cuts to the creator with her naturally voluminous curly hair. She explains she has a photoshoot tomorrow and needs to tame her hair using the new pink Wavytalk thermal brush. She demonstrates wrapping sections from the roots down, highlighting the one-pass smoothing capability, how much hair the barrel grabs, curling away from her face, and using top-section tension with a roller for crown volume. The video concludes with her removing the roller to reveal a bouncy, shiny salon-style blowout.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 0.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's amazing.",
+    "text_english": "It's amazing."
+   },
+   {
+    "start_s": 0.9,
+    "end_s": 2.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's blowout my hair.",
+    "text_english": "Let's blowout my hair."
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 4.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I have a photo shoot tomorrow for a new brand coming to Sephora,",
+    "text_english": "I have a photo shoot tomorrow for a new brand coming to Sephora,"
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 7.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "so I can't walk in with my lion's mane, so I'm gonna go in with my hot round brush.",
+    "text_english": "so I can't walk in with my lion's mane, so I'm gonna go in with my hot round brush."
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 10.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I wrap at the root and then I slowly make my way down.",
+    "text_english": "I wrap at the root and then I slowly make my way down."
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 16.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "By the way, this is the new Wavytalk thermal brush in pink, and I am obsessed with it.",
+    "text_english": "By the way, this is the new Wavytalk thermal brush in pink, and I am obsessed with it."
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 18.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And look at that one pass!",
+    "text_english": "And look at that one pass!"
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 22.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "In my last video you guys all got mad at me for not curling away from my face on this side,",
+    "text_english": "In my last video you guys all got mad at me for not curling away from my face on this side,"
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 23.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "so don't worry, I got the memo.",
+    "text_english": "so don't worry, I got the memo."
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 25.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "First section done.",
+    "text_english": "First section done."
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 29.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "How small it is, it actually takes a lot of hair, which is amazing if you have a lot of hair like me,",
+    "text_english": "How small it is, it actually takes a lot of hair, which is amazing if you have a lot of hair like me,"
+   },
+   {
+    "start_s": 29.0,
+    "end_s": 32.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "then you know that is a must in a hair tool.",
+    "text_english": "then you know that is a must in a hair tool."
+   },
+   {
+    "start_s": 32.0,
+    "end_s": 33.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Tension is key.",
+    "text_english": "Tension is key."
+   },
+   {
+    "start_s": 33.5,
+    "end_s": 35.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So I'm gonna go over first,",
+    "text_english": "So I'm gonna go over first,"
+   },
+   {
+    "start_s": 35.5,
+    "end_s": 39.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "then I'm gonna go under and up, and this is gonna create so much volume.",
+    "text_english": "then I'm gonna go under and up, and this is gonna create so much volume."
+   },
+   {
+    "start_s": 39.5,
+    "end_s": 43.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And then I'm gonna grab it and put it in a roller while it's still hot.",
+    "text_english": "And then I'm gonna grab it and put it in a roller while it's still hot."
+   },
+   {
+    "start_s": 43.0,
+    "end_s": 45.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now for the final reveal.",
+    "text_english": "Now for the final reveal."
+   },
+   {
+    "start_s": 45.0,
+    "end_s": 47.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm so excited.",
+    "text_english": "I'm so excited."
+   },
+   {
+    "start_s": 47.0,
+    "end_s": 50.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is the best part of like every hairstyle.",
+    "text_english": "This is the best part of like every hairstyle."
+   }
+  ],
+  "transcript_full_original": "It's amazing. Let's blowout my hair. I have a photo shoot tomorrow for a new brand coming to Sephora, so I can't walk in with my lion's mane, so I'm gonna go in with my hot round brush. I wrap at the root and then I slowly make my way down. By the way, this is the new Wavytalk thermal brush in pink, and I am obsessed with it. And look at that one pass! In my last video you guys all got mad at me for not curling away from my face on this side, so don't worry, I got the memo. First section done. How small it is, it actually takes a lot of hair, which is amazing if you have a lot of hair like me, then you know that is a must in a hair tool. Tension is key. So I'm gonna go over first, then I'm gonna go under and up, and this is gonna create so much volume. And then I'm gonna grab it and put it in a roller while it's still hot. Now for the final reveal. I'm so excited. This is the best part of like every hairstyle.",
+  "transcript_full_english": "It's amazing. Let's blowout my hair. I have a photo shoot tomorrow for a new brand coming to Sephora, so I can't walk in with my lion's mane, so I'm gonna go in with my hot round brush. I wrap at the root and then I slowly make my way down. By the way, this is the new Wavytalk thermal brush in pink, and I am obsessed with it. And look at that one pass! In my last video you guys all got mad at me for not curling away from my face on this side, so don't worry, I got the memo. First section done. How small it is, it actually takes a lot of hair, which is amazing if you have a lot of hair like me, then you know that is a must in a hair tool. Tension is key. So I'm gonna go over first, then I'm gonna go under and up, and this is gonna create so much volume. And then I'm gonna grab it and put it in a roller while it's still hot. Now for the final reveal. I'm so excited. This is the best part of like every hairstyle.",
+  "word_count": 182,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 0.9,
+    "text": "it's amazing",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 0.9,
+    "end_s": 2.2,
+    "text": "Let's blowout my hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 4.5,
+    "text": "I have a photo shoot tomorrow for a new brand coming to Sephora",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 7.5,
+    "text": "so I can't walk in with my lion's mane so I'm gonna go in with my hot round brush",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 10.0,
+    "text": "I wrap at the root",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.0,
+    "end_s": 12.0,
+    "text": "and then I slowly make my way down",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 15.0,
+    "text": "by the way this is the new wavytalk thermal brush in pink",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 16.0,
+    "text": "and I am obsessed with it",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 18.0,
+    "text": "and look at that one pass",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 22.0,
+    "text": "you guys all got mad at me for not curling away from my face on this side",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 23.5,
+    "text": "I got the memo",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 25.5,
+    "text": "first section done",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 29.0,
+    "text": "how small it is it actually takes a lot of hair which is amazing if you have a lot of hair like me",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 29.0,
+    "end_s": 32.0,
+    "text": "then you know that is a must in a hair tool",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 32.0,
+    "end_s": 34.0,
+    "text": "tension is key",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 34.0,
+    "end_s": 36.0,
+    "text": "so I'm gonna go over first",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 36.0,
+    "end_s": 39.5,
+    "text": "then I'm gonna go under and up and this is gonna create so much volume",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 39.5,
+    "end_s": 43.0,
+    "text": "and then I'm gonna grab it and put it in a roller while it's still hot",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 43.0,
+    "end_s": 45.0,
+    "text": "now for the final reveal",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 45.0,
+    "end_s": 47.0,
+    "text": "I'm so excited",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 47.0,
+    "end_s": 50.6,
+    "text": "this is the best part of like every hairstyle",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 0.9,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting in a chair with fully blown-out, styled voluminous hair, holding up the pink thermal brush.",
+    "action": "Creator delivers a brief hook statement showing the final result.",
+    "product_visible": true
+   },
+   {
+    "start_s": 0.9,
+    "end_s": 7.5,
+    "shot_type": "medium shot",
+    "visual": "Creator facing camera showing natural big, frizzy curly hair ('lion's mane') and holding the pink thermal brush.",
+    "action": "Creator explains she has an upcoming Sephora photoshoot and needs to blowout her curls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 18.0,
+    "shot_type": "medium shot",
+    "visual": "Creator with top hair clipped up, using the thermal brush on a lower hair section.",
+    "action": "Creator glides the thermal brush down from root to tip, demonstrating smooth hair in one pass.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 23.5,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the opposite side away from her face.",
+    "action": "Creator curls away from face, commenting that she learned from previous viewer feedback.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 25.5,
+    "shot_type": "medium shot",
+    "visual": "Creator showing the two front/bottom sections smoothly blown out.",
+    "action": "Creator poses and touches the finished sections.",
+    "product_visible": false
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 32.0,
+    "shot_type": "medium shot",
+    "visual": "Creator taking a new dense section of curly hair.",
+    "action": "Creator brushes through thick hair, explaining that the tool handles large sections easily.",
+    "product_visible": true
+   },
+   {
+    "start_s": 32.0,
+    "end_s": 43.0,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the crown/bangs section.",
+    "action": "Creator lifts the brush upwards to create root tension and volume, then rolls it into a velcro roller while hot.",
+    "product_visible": true
+   },
+   {
+    "start_s": 43.0,
+    "end_s": 50.6,
+    "shot_type": "medium shot",
+    "visual": "Creator pulling the velcro roller out of her hair.",
+    "action": "Creator unwinds the roller, shakes her thick, shiny blowout with her hands, smiling at the finished style.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator smiling with finished bouncy hair holding the pink Wavytalk thermal brush.",
+   "visual_0_3s": "Fast transition from the final blowout look to creator showing her wild, natural lion's mane curls.",
+   "spoken_0_3s": "It's amazing. Let's blowout my hair. I have a photo shoot tomorrow",
+   "text_0_3s": "it's amazing / Let's blowout my hair",
+   "hook_type": "result_first",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Rapid 1-second flash of the perfect final blowout immediately cutting to extreme wild curls."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Result flash hook showing sleek hair",
+    "Problem/occasion context (big lion's mane curls before a Sephora shoot)",
+    "Technique demonstration: root-to-end pull and single pass smoothing",
+    "Community interaction callback (curling away from face)",
+    "Addressing hair volume/density compatibility",
+    "Volume-building technique using brush tension and hot roller",
+    "Final roller reveal and shaking out bouncy curls"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Smooths thick curly hair in one pass",
+    "Takes a lot of hair despite the compact barrel size",
+    "Creates massive volume with over-and-under root tension"
+   ],
+   "pain_points": [
+    "Wild frizzy lion's mane curls hard to tame before important shoots",
+    "Hair tools that can't handle dense, thick hair volumes"
+   ],
+   "objections_handled": [
+    "Will it work on very thick curly hair? (Demonstrates taking big sections effortlessly)",
+    "Does it give flat hair or volume? (Shows root lifting technique with roller)"
+   ],
+   "social_proof": [
+    "Creator mentions viewer comments from previous video ('you guys all got mad at me')"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush (Pink)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 7.5,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, thick, frizzy, voluminous natural light brown curls",
+   "hair_after": "Ultra-sleek, shiny, voluminous salon blowout with curled ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "friendly, conversational, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No background music; direct spoken creator audio and ambient tool sound.",
+   "captions_burned_in": true,
+   "production_style": "phone_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 6.3,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator fluffing and shaking her completed bouncy blowout directly facing camera."
+  },
+  "notes": "Organic UGC review/tutorial style ad for Wavytalk thermal brush. High demonstration value for curly and thick hair demographics."
+ }
+}

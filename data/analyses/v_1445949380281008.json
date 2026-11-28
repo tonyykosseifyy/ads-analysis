@@ -1,0 +1,352 @@
+{
+ "media_key": "v_1445949380281008",
+ "analyzed_at": "2026-11-28T00:11:54+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "91b607dd7e9fc2365998054125fe929a9db07aa72f39902682bb6d2b842e8b25",
+ "source": {
+  "kind": "video",
+  "id": "1445949380281008",
+  "video_id": "1400451141801799",
+  "length_s": 18.733,
+  "permalink": "/23849366283980795/videos/1400451141801799/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 18.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator explains how the Wavytalk Steamline Pro prevents midday frizz and dullness by hydrating hair while straightening, offering 20% off.",
+  "full_description": "A female creator demonstrates how her hair gets frizzy and dull by midday due to lack of hydration. She introduces the Wavytalk Steamline Pro (steam straightening brush), showing how it steams and hydrates each strand while straightening, detangling, and leaving hair shiny and frizz-free all day without frequent touch-ups. She ends by holding the product box and a pink Wavytalk branded bag while announcing a 20% discount offer.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 65,
+    "en": 30,
+    "fr": 5
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "arabizi",
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "صار midday وشعري بلش يعمل frizz",
+    "text_english": "It became midday and my hair started to frizz"
+   },
+   {
+    "start_s": 1.9,
+    "end_s": 4.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "لأنه منه well hydrated and this is why عنده dull color",
+    "text_english": "because it's not well hydrated and this is why it has a dull color"
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 7.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بس Steamline Pro hydrates كل خصلة while straightening it",
+    "text_english": "but Steamline Pro hydrates every strand while straightening it"
+   },
+   {
+    "start_s": 7.7,
+    "end_s": 10.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "so ببطل يعمل frizz وشوفوا الـ glow قدي حلوة",
+    "text_english": "so it stops frizzing, and look at how nice the glow is"
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 13.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "It detangles all your hair وبيعتيه a shiny look",
+    "text_english": "It detangles all your hair and gives it a shiny look"
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 15.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "no need تعملوا retouche كل ساعتين لشعري يبقا",
+    "text_english": "No need to do touch-ups every two hours for my hair to last"
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 18.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "واطلبوا الـ Steamline Pro for 20% off",
+    "text_english": "and order the Steamline Pro for 20% off"
+   }
+  ],
+  "transcript_full_original": "صار midday وشعري بلش يعمل frizz لأنه منه well hydrated and this is why عنده dull color بس Steamline Pro hydrates كل خصلة while straightening it so ببطل يعمل frizz وشوفوا الـ glow قدي حلوة It detangles all your hair وبيعتيه a shiny look no need تعملوا retouche كل ساعتين لشعري يبقا واطلبوا الـ Steamline Pro for 20% off",
+  "transcript_full_english": "It became midday and my hair started to frizz because it's not well hydrated and this is why it has a dull color, but Steamline Pro hydrates every strand while straightening it so it stops frizzing, and look at how nice the glow is. It detangles all your hair and gives it a shiny look. No need to do touch-ups every two hours for my hair to last, and order the Steamline Pro for 20% off.",
+  "word_count": 55,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.0,
+    "text": "sar midday",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 1.9,
+    "text": "w shaarik ballash yaaml frizz",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.9,
+    "end_s": 3.0,
+    "text": "la2anno manno well hydrated",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 4.8,
+    "text": "w this is why eendo a dull color",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 6.4,
+    "text": "Bas steamline pro hydrates kel khasle",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.4,
+    "end_s": 7.7,
+    "text": "while straightening it",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.7,
+    "end_s": 9.4,
+    "text": "So b battel yaaml frizz w shufo",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.4,
+    "end_s": 10.9,
+    "text": "l glow adde helwe",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 12.0,
+    "text": "It detangles all your hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 13.5,
+    "text": "w byaati a shiny look",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 14.8,
+    "text": "No need taamlo retouche",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 15.6,
+    "text": "kel seeten la shaari yeb2a",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 16.8,
+    "text": "w tlobo l Steamline Pro",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.8,
+    "end_s": 18.5,
+    "text": "for 20% off",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 0.9,
+    "shot_type": "medium shot",
+    "visual": "Creator in a modern apartment wearing a grey knit sweater and black trousers, turning towards camera.",
+    "action": "Creator gestures while speaking about midday hair issues.",
+    "product_visible": false
+   },
+   {
+    "start_s": 0.9,
+    "end_s": 1.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator sitting in front of window in a black blazer, touching her frizzy and unstyled hair with both hands looking distressed.",
+    "action": "Demonstrating frizzy, messy hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.9,
+    "end_s": 4.8,
+    "shot_type": "split-screen graphic / medium shot",
+    "visual": "Creator in grey sweater in the lower frame with graphic inset photo above showing magnified dry split hair vs smooth hair.",
+    "action": "Creator gestures with hands explaining dehydration and dull hair color.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 6.4,
+    "shot_type": "close-up",
+    "visual": "Hands holding the pink Wavytalk Steamline Pro brush in a bathroom setting, displaying bristle design and steam vents.",
+    "action": "Showing the brush features and temperature indicators.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.4,
+    "end_s": 7.7,
+    "shot_type": "medium shot",
+    "visual": "Creator in bathroom wearing heat-resistant black glove, gliding the pink Steamline Pro brush down a section of hair.",
+    "action": "Straightening and hydrating a strand of hair with the steam brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.7,
+    "end_s": 10.9,
+    "shot_type": "medium shot",
+    "visual": "Creator standing at kitchen island beside the Steamline Pro retail packaging, admiring her smooth and glowing hair with an animated visual aura effect.",
+    "action": "Touches and flips her sleek hair, gesturing excitedly about the glow.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 13.5,
+    "shot_type": "medium shot",
+    "visual": "Creator standing next to bright sunny window holding the tool up, smiling proudly at the camera with lens flare and purple light burst.",
+    "action": "Presents the device while hair looks shiny and smooth.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 15.6,
+    "shot_type": "medium shot",
+    "visual": "Creator walking forward in hallway, gesturing with palms forward to emphasize no need for frequent retouches.",
+    "action": "Explaining that results last without constant touch-ups.",
+    "product_visible": false
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 18.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator presenting a hot pink 'W' Wavytalk paper gift bag in one hand and the Steamline Pro boxed package in the other.",
+    "action": "Extending the package towards the camera and delivering call to action.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator in modern grey sweater standing in apartment addressing camera.",
+   "visual_0_3s": "Fast cut from creator talking to creator holding frizzy messed-up hair in bed/blazer, then split-screen dry hair graphic.",
+   "spoken_0_3s": "صار midday وشعري بلش يعمل frizz",
+   "text_0_3s": "sar midday w shaarik ballash yaaml frizz",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Rapid cut to exaggerated frizzy hair demonstration followed by magnified dry hair infographic."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Midday frizz and dehydration pain point callout",
+    "Introduction of Steamline Pro steam technology solution",
+    "Application demo showing hydration and straightening in action",
+    "Results showcase: smooth shiny glow without retouches",
+    "Special 20% discount offer CTA with branded packaging"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "saves_time",
+    "salon_result_at_home",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Steamline Pro hydrates each strand while straightening",
+    "Prevents midday frizz and eliminates dull hair color",
+    "Detangles and gives a shiny, healthy glow",
+    "Long-lasting result without need for touch-ups every two hours"
+   ],
+   "pain_points": [
+    "Hair getting frizzy and dry by midday",
+    "Dull color due to dehydrated hair",
+    "Needing constant hair touch-ups throughout the day"
+   ],
+   "objections_handled": [
+    "Steam brushes damaging hair: this hydrates hair while styling",
+    "Hair reverting to frizz after styling: hydration keeps it frizz-free all day"
+   ],
+   "social_proof": [],
+   "comparison_to": "Regular non-steam straightening methods that dry out hair"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steamline Pro"
+   ],
+   "first_seen_s": 4.8,
+   "first_used_on_hair_s": 6.4,
+   "final_result_shown_s": 7.7,
+   "demo_clarity": "partial",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "20% off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "واطلبوا الـ Steamline Pro for 20% off",
+   "cta_on_screen": "for 20% off",
+   "cta_at_s": 15.6
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Brunette, slightly frizzy, textured, medium-long",
+   "hair_after": "Straight, smooth, shiny, polished brunette hair",
+   "setting": "Modern luxury apartment (living room, bathroom, kitchen counter, sunlit window)",
+   "faces_camera": true,
+   "energy_tone": "Engaging, conversational, expressive, relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat rhythmic commercial pop background beat",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 2.3,
+   "pacing": "fast",
+   "effects": [
+    "Split-screen photo diagram",
+    "Glowing aura visual effect",
+    "Lens flare transition flash",
+    "Center-aligned Arabizi subtitle overlays"
+   ],
+   "ending": "Creator presents product retail box and pink branded bag toward camera smiling."
+  },
+  "notes": "Ad is presented in Lebanese Arabic Arabizi captions on-screen while creator speaks natural Lebanese code-switched with English and French hair terminology."
+ }
+}

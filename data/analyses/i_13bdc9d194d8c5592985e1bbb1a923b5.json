@@ -1,0 +1,158 @@
+{
+ "media_key": "i_13bdc9d194d8c5592985e1bbb1a923b5",
+ "analyzed_at": "2026-11-28T01:09:07+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "b70eb99e4025277a79d651085934be82f7771f22ddae54fed09f37a460bea414",
+ "source": {
+  "kind": "image",
+  "id": "13bdc9d194d8c5592985e1bbb1a923b5"
+ },
+ "role": "rotating",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "Receipt-themed Black Friday promo graphic for the pink WavyTalk Turblow Pro hair dryer at $80.10 (33% off).",
+  "full_description": "A square graphic designed in a wrinkled paper shopping receipt aesthetic against a dark textured burgundy backdrop. The receipt features the WavyTalk logo, 'Black Friday', and a price discount of '$80.10 | 33% OFF'. Below, an itemized line item reads 'TURBLOW PRO / Fast Drying Hair Dryer / QTY 1' accompanied by a product render of the metallic pink Turblow Pro hair dryer. A circular dark purple badge to the right states 'TODAY ONLY'.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Black Friday",
+    "role": "hook"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "$80.10 | 33% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "ITEM QTY TURBLOW PRO 1 Fast Drying Hair Dryer",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "TODAY ONLY",
+    "role": "other"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "product shot",
+    "visual": "A stylized paper receipt displayed against a dark wine-red textured background with paper scraps showing barcodes. Centered on the receipt is a 3D render of the pink WavyTalk Turblow Pro hair dryer with a purple 'TODAY ONLY' stamp on the side.",
+    "action": "Static image display",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "A receipt-style graphic displaying 'Black Friday $80.10 | 33% OFF' and the pink Turblow Pro hair dryer.",
+   "visual_0_3s": "Receipt graphic featuring bold discount pricing and product photo.",
+   "spoken_0_3s": "",
+   "text_0_3s": "WAVYTALK Black Friday $80.10 | 33% OFF TODAY ONLY",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "none",
+   "pattern_interrupt": "Shopping receipt aesthetic with torn edges and bold discount pricing."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Showcase Black Friday discount on a receipt format",
+    "Highlight the Turblow Pro product visual and reduced price point of $80.10",
+    "Establish urgency with 'TODAY ONLY' badge"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "price_value_vs_dyson"
+   ],
+   "key_claims": [
+    "33% OFF",
+    "Fast Drying Hair Dryer"
+   ],
+   "pain_points": [
+    "Expensive hair styling tools"
+   ],
+   "objections_handled": [
+    "High price"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Turblow Pro Fast Drying Hair Dryer"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "33% OFF Black Friday discount",
+   "price_mentioned": "$80.10",
+   "discount_code": "",
+   "urgency": "TODAY ONLY",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "studio",
+   "faces_camera": false,
+   "energy_tone": ""
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "crumpled paper texture overlay",
+    "drop shadow graphic effects"
+   ],
+   "ending": "Static display"
+  },
+  "notes": "Static Black Friday creative asset formatted as an itemized retail receipt."
+ }
+}

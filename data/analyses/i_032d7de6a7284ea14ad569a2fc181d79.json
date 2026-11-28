@@ -1,0 +1,154 @@
+{
+ "media_key": "i_032d7de6a7284ea14ad569a2fc181d79",
+ "analyzed_at": "2026-11-28T01:08:53+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "29af96b18a5dd5ff78f62e06d8c8896863641c7730e324db1ee4a4b2d98f8120",
+ "source": {
+  "kind": "image",
+  "id": "032d7de6a7284ea14ad569a2fc181d79"
+ },
+ "role": "rotating",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "A static Black Friday promo graphic featuring a redheaded woman styling her bouncy curls with a pink Wavytalk thermal blowout brush alongside an 'up to 31% off' badge.",
+  "full_description": "Static promotional creative for Black Friday by Wavytalk. On the right, a smiling woman with styled auburn/red wavy hair holds a pink Wavytalk thermal round brush wrapped around a section of her hair. On the left side against a clean white background, dark bold text reads 'WAVYTALK', 'Black Friday', and '10mins to Bouncy Hair', accented by a circular yellow badge highlighting 'UP TO 31% OFF'.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Black Friday",
+    "role": "hook"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "10mins to Bouncy Hair",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "UP TO 31% OFF",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "medium shot",
+    "visual": "A smiling young adult woman with ginger/auburn bouncy hair wearing a black square-neck top, holding a pink thermal round styling brush wrapped around a lock of hair near her crown. Text overlays with Black Friday discount badge are on the left on a plain light background.",
+    "action": "Posing smiling towards the camera with the styling brush in her hair.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Static image showing a model holding a pink styling brush in her hair with text '10mins to Bouncy Hair' and a '31% OFF' discount bubble.",
+   "visual_0_3s": "Static image display.",
+   "spoken_0_3s": "",
+   "text_0_3s": "WAVYTALK Black Friday 10mins to Bouncy Hair UP TO 31% OFF",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Prominent Black Friday discount sticker combined with a vibrant copper-red hair blowout."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Brand announcement and holiday sale callout (Black Friday)",
+    "Time-saving benefit statement (10mins to Bouncy Hair)",
+    "Promotional discount sticker (Up to 31% OFF)",
+    "Visual proof of styled voluminous hair with tool in use"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "saves_time"
+   ],
+   "key_claims": [
+    "10mins to Bouncy Hair",
+    "Up to 31% off"
+   ],
+   "pain_points": [
+    "Blowouts take too long"
+   ],
+   "objections_handled": [
+    "Ease and speed of getting salon-like volume"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Round Brush"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": 0,
+   "final_result_shown_s": 0,
+   "demo_clarity": "result_only",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "Up to 31% off for Black Friday",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Black Friday",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "model",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "",
+   "hair_after": "Auburn / red, medium-long, glossy bouncy blowout curls",
+   "setting": "studio",
+   "faces_camera": true,
+   "energy_tone": "cheerful and confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "graphic typography overlay",
+    "badge sticker graphic"
+   ],
+   "ending": "Static image ad"
+  },
+  "notes": "Static single-image creative designed for feed or square placement promoting Black Friday sale."
+ }
+}

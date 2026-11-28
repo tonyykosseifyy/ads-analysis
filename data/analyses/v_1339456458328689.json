@@ -1,0 +1,211 @@
+{
+ "media_key": "v_1339456458328689",
+ "analyzed_at": "2026-11-28T00:25:58+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "c47ba2eea00831c6ee8ba0c3dccd6d575be271cf38feb57dbbb219908fa97100",
+ "source": {
+  "kind": "video",
+  "id": "1339456458328689",
+  "video_id": "993320866675940",
+  "length_s": 30.462,
+  "permalink": "/23849366283980795/videos/993320866675940/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 29.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A young creator styles her hair in 5 minutes using a pink thermal brush, demonstrating effortless bouncy blowout curls before a 30% off offer callout.",
+  "full_description": "A silent demonstration set to background music featuring a young female creator styling her long brown-blonde balayage hair in a bathroom. Starting with her hair partially pinned up, she uses the pink Wavytalk Blowout Boost thermal brush to smooth and curl various sections from bottom layers to front curtain bangs. On-screen text highlights the 5-minute styling time, smoothing capability, and ionic frizz reduction. The ad finishes with the creator showing her voluminous, glossy, salon-like blowout result and holding the thermal brush while a 30% discount text overlay encourages immediate purchase.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 7.0,
+    "text": "This is your sign to buy a thermal brush this took 5 minutes",
+    "role": "hook"
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 11.5,
+    "text": "Smooth and shape with one tool",
+    "role": "benefit"
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 16.8,
+    "text": "Ionic Frizz Reduction",
+    "role": "benefit"
+   },
+   {
+    "start_s": 16.8,
+    "end_s": 29.8,
+    "text": "30% OFF RIGHT NOW Don't wait",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.4,
+    "shot_type": "medium selfie shot",
+    "visual": "Young woman in a bathroom holding the pink thermal brush, wrapping and curling a lower section of her hair around the barrel.",
+    "action": "Wraps hair around brush, holds for a moment, and releases a loose bouncy curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 7.2,
+    "shot_type": "medium selfie shot",
+    "visual": "Top hair section clipped with a claw clip; she takes another strand from the side.",
+    "action": "Twirls the brush down the length of the hair strand to shape the curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.2,
+    "end_s": 11.3,
+    "shot_type": "medium selfie shot",
+    "visual": "Creator continues sectioning and styling mid-sections of her hair.",
+    "action": "Glides the thermal brush smoothly through the hair, rolling it upward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.3,
+    "end_s": 16.8,
+    "shot_type": "medium selfie shot",
+    "visual": "Creator styles the right side strands while looking directly into the mirror/camera.",
+    "action": "Rolls the heated round brush near the roots and twists it down.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.8,
+    "end_s": 21.0,
+    "shot_type": "medium selfie shot",
+    "visual": "Text overlay changes to an urgency discount banner as she styles back pieces.",
+    "action": "Winds a back hair strand around the heated barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 23.5,
+    "shot_type": "medium selfie shot",
+    "visual": "Front bangs/face-framing pieces are sectioned out and brushed outward.",
+    "action": "Rolls front curtain bangs away from the face to create lift and volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 29.8,
+    "shot_type": "medium selfie shot",
+    "visual": "Creator displays the finished voluminous blowout result while holding the tool.",
+    "action": "Runs fingers through hair, shakes out the curls, poses, smiles, and showcases the thermal brush.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "A girl curling her hair with a pink thermal brush with bold white overlay text 'This is your sign to buy a thermal brush this took 5 minutes'.",
+   "visual_0_3s": "Close medium shot of the creator curling a strand of hair with the pink round heated brush.",
+   "spoken_0_3s": "",
+   "text_0_3s": "This is your sign to buy a thermal brush this took 5 minutes",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Starts immediately mid-motion curling hair with an engaging relatable trend hook ('This is your sign')."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Relatable hook and quick-result claim (5 minutes)",
+    "Step-by-step styling of hair sections",
+    "Product feature/benefit callouts (smooth and shape, ionic frizz reduction)",
+    "Curtain bang styling demonstration",
+    "Voluminous final result showcase and discount incentive"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "volume_and_bounce",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Took only 5 minutes to style",
+    "Smooths and shapes with one single tool",
+    "Ionic frizz reduction"
+   ],
+   "pain_points": [
+    "Hair styling taking too long",
+    "Frizzy or flat hair",
+    "Needing multiple tools for a blowout"
+   ],
+   "objections_handled": [
+    "Difficult or complicated to style",
+    "High price (handled with 30% discount offer)"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush (Pink)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 23.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "30% off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "RIGHT NOW Don't wait",
+   "cta_spoken": "",
+   "cta_on_screen": "30% OFF RIGHT NOW Don't wait",
+   "cta_at_s": 16.8
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long light-brown / blonde balayage hair, partially pinned up",
+   "hair_after": "Voluminous, smooth, bouncy blowout with face-framing curtain bangs",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "confident and trendy"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Female vocal indie/pop track with beat and melancholic lyrical melody",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 4.25,
+   "pacing": "medium",
+   "effects": [
+    "on-screen text overlays",
+    "doodle arrow stickers"
+   ],
+   "ending": "Creator smiles, shakes out her full head of blowout hair, and holds the thermal brush beside her face."
+  },
+  "notes": "Ad utilizes a viral TikTok format ('This is your sign to buy...') with an offer sticker overlay towards the end."
+ }
+}

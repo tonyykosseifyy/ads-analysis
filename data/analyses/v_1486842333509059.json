@@ -1,0 +1,197 @@
+{
+ "media_key": "v_1486842333509059",
+ "analyzed_at": "2026-11-28T00:26:31+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "736a069a3d7f93d4db27ad5470b6f579122ec5796ac4377bca1b44584f1e735f",
+ "source": {
+  "kind": "video",
+  "id": "1486842333509059",
+  "video_id": "1808216067081923",
+  "length_s": 36.3,
+  "permalink": "/23849366283980795/videos/1808216067081923/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 35.7,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates how to achieve a salon-quality blowout at home in 10 minutes using a pink thermal blowout round brush.",
+  "full_description": "The video starts with a result-first hook displaying a woman showing off her bouncy, voluminous blowout in a bathroom, accompanied by the text overlay '10 MINUTE BLOWOUT AT HOME ✨'. The video then cuts to her in a polka-dot bathrobe brushing out her natural straight hair, followed by step-by-step demonstrations curling various sections using the pink WavyTalk thermal blowout brush. It concludes with back and front reveal shots of her bouncy, full-bodied layered hair as she fluffs and models it in front of the mirror.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.4,
+    "text": "10 MINUTE BLOWOUT AT HOME ✨",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.5,
+    "shot_type": "medium shot",
+    "visual": "Creator in a black off-the-shoulder top in a modern bathroom, displaying her bouncy, voluminous blowout hair.",
+    "action": "Creator runs fingers through her hair, shaking it to showcase the fullness and movement.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 10.5,
+    "shot_type": "medium shot",
+    "visual": "Creator wearing a white polka-dot fleece bathrobe with straight, unstyled hair.",
+    "action": "Creator parts and brushes through a section of her hair using a flat paddle brush.",
+    "product_visible": false
+   },
+   {
+    "start_s": 10.5,
+    "end_s": 14.0,
+    "shot_type": "close-up",
+    "visual": "Pink thermal blowout brush being applied to a strand of hair.",
+    "action": "Creator twists the hair around the thermal brush barrel, slides down, and reveals a smooth curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.0,
+    "end_s": 18.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling a middle layer strand on the right side.",
+    "action": "Creator rolls the brush under the strand towards the ends and releases a loose spiral wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 22.5,
+    "shot_type": "close-up",
+    "visual": "Creator rolling an under-layer strand around the thermal barrel.",
+    "action": "Creator pulls the tool through slowly to create curl tension and lets the strand fall.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.5,
+    "end_s": 27.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the upper front section / curtain bang area.",
+    "action": "Creator curls the strand away from the face and gently twists the brush out.",
+    "product_visible": true
+   },
+   {
+    "start_s": 27.2,
+    "end_s": 30.5,
+    "shot_type": "medium shot",
+    "visual": "Back of the creator's head showing long, layered, balayage hair with large bouncy curls.",
+    "action": "Creator runs her hands through the back of her hair to fluff the curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 35.7,
+    "shot_type": "medium shot",
+    "visual": "Front view of creator back in her black top, admiring her styled hair in the bathroom mirror.",
+    "action": "Creator plays with her hair, flips her bangs, and turns side to side to inspect the blowout.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator in bathroom with voluminous styled hair and text overlay '10 MINUTE BLOWOUT AT HOME ✨'.",
+   "visual_0_3s": "Creator fluffing and showcasing a full, bouncy blowout hairstyle to camera.",
+   "spoken_0_3s": "",
+   "text_0_3s": "10 MINUTE BLOWOUT AT HOME ✨",
+   "hook_type": "result_first",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Immediate reveal of full, bouncy salon-grade hair with a time-saving bold claim before cutting to unstyled hair."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Result reveal hook with time claim",
+    "Hair prep and brushing",
+    "Thermal brush application and curling technique",
+    "Back view full result showcase",
+    "Front styling and mirror appreciation"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "10 minute blowout at home"
+   ],
+   "pain_points": [
+    "Blowouts take too long",
+    "Difficulty achieving salon volume and bounce at home"
+   ],
+   "objections_handled": [
+    "Shows effortless gliding and rolling without tangling or needing advanced technique"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 10.6,
+   "first_used_on_hair_s": 10.6,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Long, relatively straight brown hair with blonde balayage highlights",
+   "hair_after": "Voluminous, bouncy blowout with defined waves and curtain bangs",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "confident and aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Pop track with female vocals and upbeat rhythm",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 4.5,
+   "pacing": "medium",
+   "effects": [
+    "text overlay",
+    "jump cuts"
+   ],
+   "ending": "Creator flipping her hair and looking sideways in the mirror admiring the blowout."
+  },
+  "notes": "Non-verbal UGC video relying on aesthetic transformation and visual appeal. Pink thermal brush (WavyTalk Blowout Boost) is shown in clear practical use."
+ }
+}

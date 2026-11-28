@@ -1,0 +1,284 @@
+{
+ "media_key": "v_2687830998268896",
+ "analyzed_at": "2026-11-28T00:10:25+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "d5a59c227a7f16793b04c24a6ffff88e0eddc5bd79c93ed58bbbb3c2fe6ae031",
+ "source": {
+  "kind": "video",
+  "id": "2687830998268896",
+  "video_id": "2164560077719461",
+  "length_s": 46.366,
+  "permalink": "/122152625727061607/videos/2164560077719461?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 46.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese university student does a quick GRWM blowout using the Wavytalk Blowout Boost round brush before heading to university.",
+  "full_description": "A young female creator films a GRWM / tutorial at home showing her messy, frizzy morning hair. She announces she needs to get ready for university and uses the pink Wavytalk Blowout Boost thermal round brush to style her hair section by section. After a fast-paced tutorial montage set to music, she reveals bouncy, shiny, salon-style layers, noting it took under 15 minutes. She applies jewelry and lip gloss for her final touch-ups and points out the dramatic before-and-after comparison via an inset video of her initial frizzy hair.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 70.0,
+    "en": 30.0,
+    "fr": 0.0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Guys ليكو شعري، ما بيقطع.",
+    "text_english": "Guys look at my hair, it's unacceptable."
+   },
+   {
+    "start_s": 2.3,
+    "end_s": 5.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "I have to get ready كرمال روح عالجامعة، فبدي أعمل شعري blowout.",
+    "text_english": "I have to get ready to go to university, so I want to do a blowout on my hair."
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 8.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "فرح استعمل the Wavytalk Blowout Boost obviously.",
+    "text_english": "So I'm going to use the Wavytalk Blowout Boost obviously."
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 10.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "حأعمل sections لشعري.",
+    "text_english": "I'll make sections in my hair."
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 34.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "عملت كل شعري بـ less than 15 minutes وعطاني blowout كتير حلو.",
+    "text_english": "I did my whole hair in less than 15 minutes and it gave me such a pretty blowout."
+   },
+   {
+    "start_s": 34.3,
+    "end_s": 36.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "I'm obsessed كيف طلع شعري.",
+    "text_english": "I'm obsessed with how my hair turned out."
+   },
+   {
+    "start_s": 37.0,
+    "end_s": 41.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "هلا خليني خلص the final touch-ups كرمال روح عالجامعة.",
+    "text_english": "Now let me finish the final touch-ups so I can head to university."
+   },
+   {
+    "start_s": 42.8,
+    "end_s": 45.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Guys ليكو الفرق بين هلا شعري وبالأول.",
+    "text_english": "Guys, look at the difference between my hair now and before."
+   }
+  ],
+  "transcript_full_original": "Guys ليكو شعري، ما بيقطع. I have to get ready كرمال روح عالجامعة، فبدي أعمل شعري blowout. فرح استعمل the Wavytalk Blowout Boost obviously. حأعمل sections لشعري. عملت كل شعري بـ less than 15 minutes وعطاني blowout كتير حلو. I'm obsessed كيف طلع شعري. هلا خليني خلص the final touch-ups كرمال روح عالجامعة. Guys ليكو الفرق بين هلا شعري وبالأول.",
+  "transcript_full_english": "Guys look at my hair, it's unacceptable. I have to get ready to go to university, so I want to do a blowout on my hair. So I'm going to use the Wavytalk Blowout Boost obviously. I'll make sections in my hair. I did my whole hair in less than 15 minutes and it gave me such a pretty blowout. I'm obsessed with how my hair turned out. Now let me finish the final touch-ups so I can head to university. Guys, look at the difference between my hair now and before.",
+  "word_count": 58,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.8,
+    "shot_type": "medium selfie",
+    "visual": "Young woman in white cropped t-shirt shaking out her unstyled, frizzy, messy dark hair to camera.",
+    "action": "Touches and shakes hair, looks into camera, talks about getting ready for university.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 8.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds up the pink Wavytalk Blowout Boost thermal round brush towards camera.",
+    "action": "Shows the brush with both hands while explaining she is using it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 10.7,
+    "shot_type": "medium selfie",
+    "visual": "Creator clips the top portion of her hair up.",
+    "action": "Sections her hair using clips.",
+    "product_visible": false
+   },
+   {
+    "start_s": 10.7,
+    "end_s": 14.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator running the Blowout Boost brush down a bottom strand of hair.",
+    "action": "Brushes and smooths the section downward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.2,
+    "end_s": 20.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator rolls the end of the hair strand around the thermal barrel and releases it.",
+    "action": "Twirls the brush at the ends to create a bouncy curl, releasing a smooth wavy strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.3,
+    "end_s": 25.5,
+    "shot_type": "medium close-up",
+    "visual": "Styling the side and upper sections of hair with the round brush.",
+    "action": "Rolls the brush inward from mid-lengths to ends and pulls through.",
+    "product_visible": true
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 28.0,
+    "shot_type": "medium selfie",
+    "visual": "Styling front face-framing fringe / curtain bangs.",
+    "action": "Rolls front hair on the brush towards her face and flips it back.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.0,
+    "end_s": 31.0,
+    "shot_type": "medium selfie",
+    "visual": "Creator reveals the fully styled hair with voluminous, sleek waves.",
+    "action": "Tosses hair, smiles, poses holding the brush across her eyes playfully.",
+    "product_visible": true
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 37.4,
+    "shot_type": "medium selfie",
+    "visual": "Creator admiring and showing off her styled blowout to the camera.",
+    "action": "Runs hands through her hair, expressing excitement over how fast and nice it turned out.",
+    "product_visible": false
+   },
+   {
+    "start_s": 37.4,
+    "end_s": 42.6,
+    "shot_type": "close-up",
+    "visual": "Creator putting on earring and applying pink lip oil / gloss.",
+    "action": "Finishing her get-ready routine for university.",
+    "product_visible": false
+   },
+   {
+    "start_s": 42.6,
+    "end_s": 46.0,
+    "shot_type": "split screen / picture-in-picture",
+    "visual": "Main frame shows creator holding lip gloss with styled hair; lower-left inset shows the beginning clip of her frizzy messy hair.",
+    "action": "Points out the contrast between before and after.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator shaking her frizzy, messy hair with wide eyes directly at the camera.",
+   "visual_0_3s": "She ruffles and shakes out her unstyled voluminous bedhead hair.",
+   "spoken_0_3s": "Guys ليكو شعري، ما بيقطع. I have to get ready...",
+   "text_0_3s": "",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Shaking messy, unkempt bedhead hair directly at the camera with dramatic exasperation."
+  },
+  "structure": {
+   "format": "grwm_lifestyle",
+   "narrative_beats": [
+    "Relatable problem hook showing terrible morning hair before university",
+    "Product introduction as the obvious blowout solution",
+    "Step-by-step sectioning and styling montage set to music",
+    "Reveal of glossy, voluminous blowout result",
+    "Speed and satisfaction testimonial (done in less than 15 minutes)",
+    "Finishing GRWM touches (earring, lip gloss)",
+    "Direct before-and-after callout with picture-in-picture overlay"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "frizz_or_curly_solution"
+   ],
+   "key_claims": [
+    "Done in less than 15 minutes",
+    "Gives a super pretty blowout"
+   ],
+   "pain_points": [
+    "Messy morning hair before university / school",
+    "Lack of time in the morning",
+    "Frizzy, unkempt hair"
+   ],
+   "objections_handled": [
+    "Takes too long to do hair in the morning (disproved with under 15 minutes claim)"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 5.8,
+   "first_used_on_hair_s": 10.7,
+   "final_result_shown_s": 28.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, thick, dark brown/black, frizzy, messy and unstyled",
+   "hair_after": "Smooth, glossy, layered blowout with soft inward curls and voluminous face-framing layers",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "energetic, bubbly, relatable, authentic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Upbeat pop / electronic vocal background track that drops in during the tutorial demo and plays softly under voiceover",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 11,
+   "avg_shot_length_s": 4.18,
+   "pacing": "fast",
+   "effects": [
+    "picture-in-picture comparison",
+    "jump cuts"
+   ],
+   "ending": "Creator holding lip gloss, gesturing down at the inset before-video and highlighting the transformation"
+  },
+  "notes": "Classic university student GRWM angle. Highly relatable hook and authentic UGC style. No burned-in subtitles or offer graphics; relies on visual demonstration and genuine creator enthusiasm."
+ }
+}

@@ -1,0 +1,294 @@
+{
+ "media_key": "v_38416598934597935",
+ "analyzed_at": "2026-11-28T00:10:40+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "40acc7fa703de5df5d4f778b7700d46ca3944357f857fdd2fbf397a283d92fcf",
+ "source": {
+  "kind": "video",
+  "id": "38416598934597935",
+  "video_id": "1363447665846814",
+  "length_s": 59.418,
+  "permalink": "/23849366283980795/videos/1363447665846814/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 59.18,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Silent UGC mini tutorial demonstrating step-by-step how to style a voluminous bouncy blowout using a thermal brush.",
+  "full_description": "A creator starts by showing her finished voluminous, 90s-style layered blowout to hook the viewer before transitioning into a step-by-step silent tutorial set to upbeat electronic music. She begins by rough blow-drying her hair flipped forward for volume, then sections it and styles each layer with the thermal brush using a roll-and-pull technique, alternating curl directions. After a brief drink break, she finishes the crown and front curtain bangs, applies hairspray and oil, and poses to showcase the full, glossy, bouncy final result.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.8,
+    "text": "mini hair tutorial :)\nwith a thermal brush!",
+    "role": "hook"
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 9.2,
+    "text": "flip over for extra volume",
+    "role": "benefit"
+   },
+   {
+    "start_s": 9.2,
+    "end_s": 10.3,
+    "text": "serve break 🔥🔥",
+    "role": "other"
+   },
+   {
+    "start_s": 10.3,
+    "end_s": 13.0,
+    "text": "thermal brush! fave",
+    "role": "benefit"
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 20.3,
+    "text": "smooth it out then roll and pull",
+    "role": "benefit"
+   },
+   {
+    "start_s": 20.7,
+    "end_s": 24.5,
+    "text": "opposite direction for other sections",
+    "role": "benefit"
+   },
+   {
+    "start_s": 25.0,
+    "end_s": 28.5,
+    "text": "a few passes through the top to make sure it's smoothhh",
+    "role": "benefit"
+   },
+   {
+    "start_s": 28.7,
+    "end_s": 30.1,
+    "text": "poppi break duh",
+    "role": "other"
+   },
+   {
+    "start_s": 30.3,
+    "end_s": 33.2,
+    "text": "roll & pull on repeat 🥶🥶🥶",
+    "role": "benefit"
+   },
+   {
+    "start_s": 33.2,
+    "end_s": 36.5,
+    "text": "flick a few sections in and a few out!",
+    "role": "benefit"
+   },
+   {
+    "start_s": 41.0,
+    "end_s": 44.5,
+    "text": "best part (bangs)",
+    "role": "benefit"
+   },
+   {
+    "start_s": 45.0,
+    "end_s": 48.0,
+    "text": "keep it goinggg",
+    "role": "other"
+   },
+   {
+    "start_s": 48.5,
+    "end_s": 50.8,
+    "text": "hairspray + hair oil",
+    "role": "benefit"
+   },
+   {
+    "start_s": 50.8,
+    "end_s": 53.5,
+    "text": "fin!",
+    "role": "other"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.9,
+    "shot_type": "medium shot",
+    "visual": "Creator in a black tank top facing the mirror/camera, showing off her finished styled hair.",
+    "action": "She fluffs and shakes her bouncy blowout while making playful expressions.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 6.8,
+    "shot_type": "medium shot",
+    "visual": "Creator before styling with slightly damp/messy wavy natural hair.",
+    "action": "She shakes her hair out to reset for the tutorial.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 10.3,
+    "shot_type": "medium shot",
+    "visual": "Creator drying roots upside down with a black hair dryer.",
+    "action": "She blows dry her hair upside down and flips it back up with attitude.",
+    "product_visible": false
+   },
+   {
+    "start_s": 10.3,
+    "end_s": 24.5,
+    "shot_type": "medium shot",
+    "visual": "Creator using the heated round thermal brush on bottom and middle sections.",
+    "action": "She smooths down a section of hair, wraps it around the barrel, rolls, and glides it through.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 28.5,
+    "shot_type": "medium shot",
+    "visual": "Styling the side and upper strands near crown.",
+    "action": "She brushes through the top to smooth flyaways and curls the ends inward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 30.2,
+    "shot_type": "medium shot",
+    "visual": "Quick sip break.",
+    "action": "She takes a sip from a pink Poppi beverage can.",
+    "product_visible": false
+   },
+   {
+    "start_s": 30.2,
+    "end_s": 40.5,
+    "shot_type": "medium shot",
+    "visual": "Styling opposite side sections.",
+    "action": "She alternates rolling sections in and out to build multi-dimensional volume and texture.",
+    "product_visible": true
+   },
+   {
+    "start_s": 40.5,
+    "end_s": 48.2,
+    "shot_type": "medium shot",
+    "visual": "Focusing on curtain bangs and front framing layers.",
+    "action": "She rolls bangs forward and upward away from her face, releasing soft voluminous face-framing curls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 48.2,
+    "end_s": 50.8,
+    "shot_type": "medium shot",
+    "visual": "Finishing touch.",
+    "action": "She tousles her hair with hands after mentioning hairspray and oil.",
+    "product_visible": false
+   },
+   {
+    "start_s": 50.8,
+    "end_s": 59.18,
+    "shot_type": "medium shot",
+    "visual": "Completed voluminous blowout presentation.",
+    "action": "She turns around, swings her hair, smiles, and poses from multiple angles showing bouncy volume.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing perfect, voluminous layered blowout while touching her hair with text overlay 'mini hair tutorial :) with a thermal brush!'.",
+   "visual_0_3s": "Creator fluffs and moves her styled hair around her face to showcase volume and shine.",
+   "spoken_0_3s": "",
+   "text_0_3s": "mini hair tutorial :)\nwith a thermal brush!",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Immediate reveal of high-volume salon-style blowout before jumping directly into raw before footage."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Result hook showing glamorous blowout",
+    "Hair prep & blowdry upside down for root volume",
+    "Step-by-step thermal brush roll & pull technique on lower sections",
+    "Alternating curl directions for movement",
+    "Curtain bang volume technique",
+    "Final 360 result showcase"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Achieves full blowout volume with a thermal brush",
+    "Smoothing and curling in one motion with roll and pull method"
+   ],
+   "pain_points": [
+    "Flat hair lacking volume",
+    "Difficulty managing round brush and blowdryer simultaneously"
+   ],
+   "objections_handled": [
+    "Can it handle bangs and face framing? (Yes, dedicated technique shown)",
+    "Is it complicated? (Simple smooth, roll and pull technique)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional round brush and hair dryer salon blowout"
+  },
+  "product": {
+   "products_shown": [
+    "Thermal styling brush",
+    "Blow dryer"
+   ],
+   "first_seen_s": 10.3,
+   "first_used_on_hair_s": 10.5,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Dark brown, chest-length, slightly wavy and natural",
+   "hair_after": "Voluminous, bouncy layered blowout with flipped ends and curved curtain bangs",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "Playful, trendy, aesthetic, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Upbeat instrumental electronic pop / house track with punchy beats and synth lines.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 13,
+   "avg_shot_length_s": 4.55,
+   "pacing": "fast",
+   "effects": [
+    "Jump cuts between styling sections",
+    "Text pop-ups sync to beat"
+   ],
+   "ending": "Creator does a model turn, checks her hair in camera, and smiles playfully."
+  },
+  "notes": "Ad is entirely non-verbal; all instructional cues are delivered via concise English text overlays on screen."
+ }
+}

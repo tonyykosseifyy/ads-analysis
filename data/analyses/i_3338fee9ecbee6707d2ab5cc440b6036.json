@@ -1,0 +1,213 @@
+{
+ "media_key": "i_3338fee9ecbee6707d2ab5cc440b6036",
+ "analyzed_at": "2026-11-28T01:03:03+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "8f1aa950b04d183407151ec1455383d7cc38058ada5728189a3e40682265b04d",
+ "source": {
+  "kind": "image",
+  "id": "3338fee9ecbee6707d2ab5cc440b6036"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 18.12,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese hairstylist demonstrates on a client how easy and fast it is to create curls using the WavyTalk Whirlwind Curl.",
+  "full_description": "In a studio setting with a clean white backdrop, a male hairstylist stands behind a seated female client. She holds the pink WavyTalk Whirlwind Curl styler while he takes a strand of her medium-length blonde-highlighted hair. He demonstrates inserting the hair into the tool, gliding down and twisting it to form a curl, highlighting how simple it is. The client agrees, and he releases a well-defined spiral curl, showing off the bouncy result which she loves.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "lb",
+   "approx_share_pct": {
+    "ar": 85,
+    "en": 15,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "speaker": "hairdresser_expert",
+    "language": "mixed",
+    "text_original": "هيدا الـ tool يلي بخمس دقايق بيعملك الـ hair style يلي بدك ياه",
+    "text_english": "This tool gives you whatever hair style you want in five minutes."
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 6.2,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "بتلقطي الخصلة، بتفوتيها بالنص، بتنزلي شوي شوي،",
+    "text_english": "You take the strand, place it in the middle, slide down slowly,"
+   },
+   {
+    "start_s": 6.2,
+    "end_s": 8.3,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "بتبرمي... شفتي شو سهلة؟",
+    "text_english": "You rotate... Did you see how easy it is?"
+   },
+   {
+    "start_s": 8.3,
+    "end_s": 9.3,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "كتير!",
+    "text_english": "Very!"
+   },
+   {
+    "start_s": 9.3,
+    "end_s": 12.0,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "وهلأ هيدي النتيجة...",
+    "text_english": "And now, this is the result..."
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 14.5,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "شوفي شو مهضومة وحلوة!",
+    "text_english": "Look how cute and pretty it is!"
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 16.8,
+    "speaker": "hairdresser_expert",
+    "language": "ar",
+    "text_original": "فينا نتركها هيك وفينا نمشطها، شو رأيك؟",
+    "text_english": "We can leave it like this, or we can brush it out. What do you think?"
+   },
+   {
+    "start_s": 16.8,
+    "end_s": 18.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "كتير حبيت!",
+    "text_english": "I loved it so much!"
+   }
+  ],
+  "transcript_full_original": "هيدا الـ tool يلي بخمس دقايق بيعملك الـ hair style يلي بدك ياه بتلقطي الخصلة، بتفوتيها بالنص، بتنزلي شوي شوي، بتبرمي... شفتي شو سهلة؟ كتير! وهلأ هيدي النتيجة... شوفي شو مهضومة وحلوة! فينا نتركها هيك وفينا نمشطها، شو رأيك؟ كتير حبيت!",
+  "transcript_full_english": "This tool gives you whatever hair style you want in five minutes. You take the strand, place it in the middle, slide down slowly, you rotate... Did you see how easy it is? Very! And now, this is the result... Look how cute and pretty it is! We can leave it like this, or we can brush it out. What do you think? I loved it so much!",
+  "word_count": 42,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "shot_type": "medium_shot",
+    "visual": "A male hairdresser standing behind a seated female client holding a pink WavyTalk Whirlwind Curl against a white studio background.",
+    "action": "Hairdresser introduces the tool while touching the client's hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 9.3,
+    "shot_type": "medium_shot",
+    "visual": "Hairdresser takes the tool and demonstrates curling a section of the client's hair.",
+    "action": "Hairdresser inserts a hair strand into the styling plates, glides downward, and rotates the tool smoothly while asking the client if she sees how easy it is.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.3,
+    "end_s": 18.12,
+    "shot_type": "medium_shot",
+    "visual": "The hairdresser releases the styled hair strand, revealing a bouncy spiral curl.",
+    "action": "Hairdresser displays the shiny defined curl, bounces it with his fingers, and client smiles reacting positively.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Male hairdresser with neck tattoos standing behind a seated brunette woman holding a pink styling tool against a white background.",
+   "visual_0_3s": "Hairdresser talking directly to the camera while holding a strand of client's hair and pointing to the pink hair tool in her hands.",
+   "spoken_0_3s": "هيدا الـ tool يلي بخمس دقايق بيعملك الـ hair style يلي بدك ياه",
+   "text_0_3s": "",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "expert_or_hairdresser",
+   "pattern_interrupt": "A professional salon stylist demonstrating directly on a client with a five-minute hairstyle claim."
+  },
+  "structure": {
+   "format": "hairdresser_or_expert",
+   "narrative_beats": [
+    "Hairdresser hooks viewer with 5-minute styling claim",
+    "Live demonstration of clamp, glide, and rotate technique",
+    "Reveal of the defined spiral curl",
+    "Client positive reaction and approval"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "saves_time",
+    "salon_result_at_home",
+    "expert_endorsement"
+   ],
+   "key_claims": [
+    "Styles hair in 5 minutes",
+    "Extremely easy step-by-step curling technique",
+    "Creates defined and bouncy curls"
+   ],
+   "pain_points": [
+    "Difficulty curling hair at home",
+    "Taking too long to style hair"
+   ],
+   "objections_handled": [
+    "Is it too complicated to use? (Demonstrated how simple the glide-and-twist motion is)"
+   ],
+   "social_proof": [
+    "Professional stylist endorsement and client live satisfaction"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Whirlwind Curl"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 2.8,
+   "final_result_shown_s": 11.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 2,
+   "talent_type": "hairdresser_expert",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Medium-length straight blonde-highlighted brown hair",
+   "hair_after": "Medium-length hair with a fresh, defined spiral curl section on one side",
+   "setting": "studio",
+   "faces_camera": true,
+   "energy_tone": "confident, instructional, and upbeat"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "None, natural dialogue with wireless clip-on microphone.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 0,
+   "avg_shot_length_s": 18.12,
+   "pacing": "medium",
+   "effects": [],
+   "ending": "Stylist holds the curled hair section talking to the client as she smiles and praises the result."
+  },
+  "notes": "Single continuous shot without camera cuts, filmed in a studio with a plain light grey/white background. Client is wearing a dark pinstripe blazer and holding the tool before the hairdresser takes it to demonstrate."
+ }
+}

@@ -1,0 +1,496 @@
+{
+ "media_key": "v_4312583002318770",
+ "analyzed_at": "2026-11-28T00:14:40+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "fcc5d51520bc5dbe39ff695f7d555e86c5c8b6ac1f10dafbfdf705bbee0c56f9",
+ "source": {
+  "kind": "video",
+  "id": "4312583002318770",
+  "video_id": "1340109414796486",
+  "length_s": 139.3,
+  "permalink": "/23849366283980795/videos/1340109414796486/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [
+  "longer_than_2_min"
+ ],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 139.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator tests the Wavytalk steam straightening brush on thick, wavy hair, timing each section to achieve sleek, shiny hair in under 22 minutes.",
+  "full_description": "A female creator tests a pink Wavytalk steam straightening brush on her thick, voluminous, dark wavy hair. She times the process on her phone stopwatch, showing step-by-step progress section by section, demonstrating one-pass straightening with steam, putting on a heat-protective glove, styling bangs, and showcasing final sleek, shiny, straight results in 21 minutes and 57 seconds.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0.0,
+    "en": 100.0,
+    "fr": 0.0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Apparently, the fastest way to get your curly hair silky sleek straight is by using a steam straightener.",
+    "text_english": "Apparently, the fastest way to get your curly hair silky sleek straight is by using a steam straightener."
+   },
+   {
+    "start_s": 4.2,
+    "end_s": 7.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I saw this video on TikTok and I immediately thought it was fake.",
+    "text_english": "I saw this video on TikTok and I immediately thought it was fake."
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 10.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So, of course, I had to buy this contraption so we could try it out for ourselves.",
+    "text_english": "So, of course, I had to buy this contraption so we could try it out for ourselves."
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 16.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I have a lot of hair and it usually takes me over an hour and a half to straighten it, so I'm really hoping that this works.",
+    "text_english": "I have a lot of hair and it usually takes me over an hour and a half to straighten it, so I'm really hoping that this works."
+   },
+   {
+    "start_s": 16.6,
+    "end_s": 19.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "To see how long this actually takes, we're gonna set a timer.",
+    "text_english": "To see how long this actually takes, we're gonna set a timer."
+   },
+   {
+    "start_s": 19.4,
+    "end_s": 22.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm so nervous. I'm gonna take a pretty generous chunk of hair.",
+    "text_english": "I'm so nervous. I'm gonna take a pretty generous chunk of hair."
+   },
+   {
+    "start_s": 22.5,
+    "end_s": 25.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "We're gonna do one pass with no cuts and see how well this works.",
+    "text_english": "We're gonna do one pass with no cuts and see how well this works."
+   },
+   {
+    "start_s": 25.9,
+    "end_s": 28.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I've seen the girls do it kind of slowly.",
+    "text_english": "I've seen the girls do it kind of slowly."
+   },
+   {
+    "start_s": 28.1,
+    "end_s": 30.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Wait a damn second.",
+    "text_english": "Wait a damn second."
+   },
+   {
+    "start_s": 30.1,
+    "end_s": 33.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is crazy. My hair is so hot. It came with this glove and now I know why.",
+    "text_english": "This is crazy. My hair is so hot. It came with this glove and now I know why."
+   },
+   {
+    "start_s": 33.4,
+    "end_s": 38.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Just look at how satisfying this is. That's insane.",
+    "text_english": "Just look at how satisfying this is. That's insane."
+   },
+   {
+    "start_s": 38.4,
+    "end_s": 44.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Before I move on to the next section, I'm gonna do the middle back piece of hair, because nobody wants a curly strand in the back of their head.",
+    "text_english": "Before I move on to the next section, I'm gonna do the middle back piece of hair, because nobody wants a curly strand in the back of their head."
+   },
+   {
+    "start_s": 44.6,
+    "end_s": 47.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Section number one's complete, and my hair is so silky.",
+    "text_english": "Section number one's complete, and my hair is so silky."
+   },
+   {
+    "start_s": 47.8,
+    "end_s": 52.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The first section did take eight minutes, but I do think this is gonna get faster and faster. Moving on to section number two.",
+    "text_english": "The first section did take eight minutes, but I do think this is gonna get faster and faster. Moving on to section number two."
+   },
+   {
+    "start_s": 52.9,
+    "end_s": 58.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I don't know how I'm gonna do this, but I need to get really close to my root here. Don't burn me. Oh.",
+    "text_english": "I don't know how I'm gonna do this, but I need to get really close to my root here. Don't burn me. Oh."
+   },
+   {
+    "start_s": 58.7,
+    "end_s": 60.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "My god. Wow is all I have to say.",
+    "text_english": "My god. Wow is all I have to say."
+   },
+   {
+    "start_s": 61.0,
+    "end_s": 63.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "30 seconds later, this side of my head is done.",
+    "text_english": "30 seconds later, this side of my head is done."
+   },
+   {
+    "start_s": 63.5,
+    "end_s": 68.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is probably gonna be the fastest hair style I've ever done, because we're moving on to section number three, and it's only been 12 minutes.",
+    "text_english": "This is probably gonna be the fastest hair style I've ever done, because we're moving on to section number three, and it's only been 12 minutes."
+   },
+   {
+    "start_s": 68.7,
+    "end_s": 74.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Whenever you wanna section off the crown of your head, take your pointer finger and your thumb like this, and just swipe it backwards.",
+    "text_english": "Whenever you wanna section off the crown of your head, take your pointer finger and your thumb like this, and just swipe it backwards."
+   },
+   {
+    "start_s": 74.4,
+    "end_s": 80.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm actually surprised nobody thought of this concept earlier, because it's pretty much the same thing as ironing your clothes with steam. How is this possible?",
+    "text_english": "I'm actually surprised nobody thought of this concept earlier, because it's pretty much the same thing as ironing your clothes with steam. How is this possible?"
+   },
+   {
+    "start_s": 80.6,
+    "end_s": 87.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now that I've fully gotten the hang of it, I'm gonna show you guys how it's done. Take a pretty thick piece of hair so that you can get more tension on the brush.",
+    "text_english": "Now that I've fully gotten the hang of it, I'm gonna show you guys how it's done. Take a pretty thick piece of hair so that you can get more tension on the brush."
+   },
+   {
+    "start_s": 87.1,
+    "end_s": 93.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Put the brush underneath your hair right at your root, curl it, and bring it all the way down. It turned off.",
+    "text_english": "Put the brush underneath your hair right at your root, curl it, and bring it all the way down. It turned off."
+   },
+   {
+    "start_s": 93.4,
+    "end_s": 98.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Once I've brushed the entire section from underneath, I take the brush and I just comb through my hair one more time.",
+    "text_english": "Once I've brushed the entire section from underneath, I take the brush and I just comb through my hair one more time."
+   },
+   {
+    "start_s": 98.8,
+    "end_s": 105.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "We're moving on to the final section, and so far it's only been 17 minutes. If I can get this done in under 25 minutes, I'll be very happy.",
+    "text_english": "We're moving on to the final section, and so far it's only been 17 minutes. If I can get this done in under 25 minutes, I'll be very happy."
+   },
+   {
+    "start_s": 105.4,
+    "end_s": 110.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I also just watched a few more videos, and everyone says that this doesn't damage your hair.",
+    "text_english": "I also just watched a few more videos, and everyone says that this doesn't damage your hair."
+   },
+   {
+    "start_s": 110.9,
+    "end_s": 113.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I love how much longer my hair gets when I straighten it.",
+    "text_english": "I love how much longer my hair gets when I straighten it."
+   },
+   {
+    "start_s": 113.9,
+    "end_s": 120.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "We're almost done, but since I have bangs, I'm gonna try to curl the ends of these front pieces. I'm not sure if this is gonna work, but we're gonna try.",
+    "text_english": "We're almost done, but since I have bangs, I'm gonna try to curl the ends of these front pieces. I'm not sure if this is gonna work, but we're gonna try."
+   },
+   {
+    "start_s": 120.1,
+    "end_s": 123.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "What? I can't even do that with straightening irons.",
+    "text_english": "What? I can't even do that with straightening irons."
+   },
+   {
+    "start_s": 123.4,
+    "end_s": 127.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The hair is officially all straight, and it only took 21 minutes.",
+    "text_english": "The hair is officially all straight, and it only took 21 minutes."
+   },
+   {
+    "start_s": 127.4,
+    "end_s": 133.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm not gonna lie, this might just be the silkiest and softest my hair has ever felt. This is what you call sleek straight. I'm actually obsessed.",
+    "text_english": "I'm not gonna lie, this might just be the silkiest and softest my hair has ever felt. This is what you call sleek straight. I'm actually obsessed."
+   },
+   {
+    "start_s": 133.1,
+    "end_s": 139.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Anyways, let me know what you guys think, and let me know if you guys have tried this before. Okay, love you guys, bye!",
+    "text_english": "Anyways, let me know what you guys think, and let me know if you guys have tried this before. Okay, love you guys, bye!"
+   }
+  ],
+  "transcript_full_original": "Apparently, the fastest way to get your curly hair silky sleek straight is by using a steam straightener. I saw this video on TikTok and I immediately thought it was fake. So, of course, I had to buy this contraption so we could try it out for ourselves. I have a lot of hair and it usually takes me over an hour and a half to straighten it, so I'm really hoping that this works. To see how long this actually takes, we're gonna set a timer. I'm so nervous. I'm gonna take a pretty generous chunk of hair. We're gonna do one pass with no cuts and see how well this works. I've seen the girls do it kind of slowly. Wait a damn second. This is crazy. My hair is so hot. It came with this glove and now I know why. Just look at how satisfying this is. That's insane. Before I move on to the next section, I'm gonna do the middle back piece of hair, because nobody wants a curly strand in the back of their head. Section number one's complete, and my hair is so silky. The first section did take eight minutes, but I do think this is gonna get faster and faster. Moving on to section number two. I don't know how I'm gonna do this, but I need to get really close to my root here. Don't burn me. Oh. My god. Wow is all I have to say. 30 seconds later, this side of my head is done. This is probably gonna be the fastest hair style I've ever done, because we're moving on to section number three, and it's only been 12 minutes. Whenever you wanna section off the crown of your head, take your pointer finger and your thumb like this, and just swipe it backwards. I'm actually surprised nobody thought of this concept earlier, because it's pretty much the same thing as ironing your clothes with steam. How is this possible? Now that I've fully gotten the hang of it, I'm gonna show you guys how it's done. Take a pretty thick piece of hair so that you can get more tension on the brush. Put the brush underneath your hair right at your root, curl it, and bring it all the way down. It turned off. Once I've brushed the entire section from underneath, I take the brush and I just comb through my hair one more time. We're moving on to the final section, and so far it's only been 17 minutes. If I can get this done in under 25 minutes, I'll be very happy. I also just watched a few more videos, and everyone says that this doesn't damage your hair. I love how much longer my hair gets when I straighten it. We're almost done, but since I have bangs, I'm gonna try to curl the ends of these front pieces. I'm not sure if this is gonna work, but we're gonna try. What? I can't even do that with straightening irons. The hair is officially all straight, and it only took 21 minutes. I'm not gonna lie, this might just be the silkiest and softest my hair has ever felt. This is what you call sleek straight. I'm actually obsessed. Anyways, let me know what you guys think, and let me know if you guys have tried this before. Okay, love you guys, bye!",
+  "transcript_full_english": "Apparently, the fastest way to get your curly hair silky sleek straight is by using a steam straightener. I saw this video on TikTok and I immediately thought it was fake. So, of course, I had to buy this contraption so we could try it out for ourselves. I have a lot of hair and it usually takes me over an hour and a half to straighten it, so I'm really hoping that this works. To see how long this actually takes, we're gonna set a timer. I'm so nervous. I'm gonna take a pretty generous chunk of hair. We're gonna do one pass with no cuts and see how well this works. I've seen the girls do it kind of slowly. Wait a damn second. This is crazy. My hair is so hot. It came with this glove and now I know why. Just look at how satisfying this is. That's insane. Before I move on to the next section, I'm gonna do the middle back piece of hair, because nobody wants a curly strand in the back of their head. Section number one's complete, and my hair is so silky. The first section did take eight minutes, but I do think this is gonna get faster and faster. Moving on to section number two. I don't know how I'm gonna do this, but I need to get really close to my root here. Don't burn me. Oh. My god. Wow is all I have to say. 30 seconds later, this side of my head is done. This is probably gonna be the fastest hair style I've ever done, because we're moving on to section number three, and it's only been 12 minutes. Whenever you wanna section off the crown of your head, take your pointer finger and your thumb like this, and just swipe it backwards. I'm actually surprised nobody thought of this concept earlier, because it's pretty much the same thing as ironing your clothes with steam. How is this possible? Now that I've fully gotten the hang of it, I'm gonna show you guys how it's done. Take a pretty thick piece of hair so that you can get more tension on the brush. Put the brush underneath your hair right at your root, curl it, and bring it all the way down. It turned off. Once I've brushed the entire section from underneath, I take the brush and I just comb through my hair one more time. We're moving on to the final section, and so far it's only been 17 minutes. If I can get this done in under 25 minutes, I'll be very happy. I also just watched a few more videos, and everyone says that this doesn't damage your hair. I love how much longer my hair gets when I straighten it. We're almost done, but since I have bangs, I'm gonna try to curl the ends of these front pieces. I'm not sure if this is gonna work, but we're gonna try. What? I can't even do that with straightening irons. The hair is officially all straight, and it only took 21 minutes. I'm not gonna lie, this might just be the silkiest and softest my hair has ever felt. This is what you call sleek straight. I'm actually obsessed. Anyways, let me know what you guys think, and let me know if you guys have tried this before. Okay, love you guys, bye!",
+  "word_count": 483,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.1,
+    "text": "straightening my hair with steam ★",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 10.9,
+    "shot_type": "medium close-up",
+    "visual": "Female creator in a black bustier talking to camera with natural wavy hair down, showing reference clips in picture-in-picture, and holding up the pink Wavytalk steam brush.",
+    "action": "Creator introduces the TikTok trend of steam straightening hair and reveals the pink Wavytalk tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 19.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator displays her thick hair volume, clips the top section up, and shows a phone stopwatch at 00:00.00.",
+    "action": "Creator sets up expectations regarding styling time and starts the timer.",
+    "product_visible": false
+   },
+   {
+    "start_s": 19.4,
+    "end_s": 33.3,
+    "shot_type": "close-up",
+    "visual": "Creator takes a section of hair and slowly pulls the pink steam brush through it in real time, reacting in shock at the instant sleek result.",
+    "action": "Creator does an uncut first pass on a hair strand, touches the hot strand, and puts on the heat-resistant glove.",
+    "product_visible": true
+   },
+   {
+    "start_s": 33.4,
+    "end_s": 44.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator wearing the black protective glove gliding the steam brush slowly down sections including the back of her head.",
+    "action": "Creator straightens more sections and points out how satisfying and effective it is.",
+    "product_visible": true
+   },
+   {
+    "start_s": 44.6,
+    "end_s": 52.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator displays section one completely straight and shiny, holding up the timer showing 8 minutes 30 seconds.",
+    "action": "Creator checks milestone time on phone and unclips section two.",
+    "product_visible": false
+   },
+   {
+    "start_s": 52.9,
+    "end_s": 63.4,
+    "shot_type": "close-up",
+    "visual": "Creator working near root area with the steam brush, showing steam and visible Wavytalk branding, then showcasing the finished side.",
+    "action": "Creator demonstrates root straightening and expresses amazed reaction.",
+    "product_visible": true
+   },
+   {
+    "start_s": 63.5,
+    "end_s": 74.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator checks phone timer at 11 minutes 58 seconds, explains a sectioning tip for the crown with fingers.",
+    "action": "Creator sections hair and explains technique.",
+    "product_visible": false
+   },
+   {
+    "start_s": 74.4,
+    "end_s": 80.5,
+    "shot_type": "close-up",
+    "visual": "Creator running the brush down crown section, comparing it to steaming/ironing clothes.",
+    "action": "Creator straightens the upper layer with steady slow passes.",
+    "product_visible": true
+   },
+   {
+    "start_s": 80.6,
+    "end_s": 98.7,
+    "shot_type": "medium close-up / close-up",
+    "visual": "Creator demonstrates proper tutorial technique: brushing from underneath at the root with tension, then combing over the top.",
+    "action": "Creator teaches how to use tension and under-brushing to get salon results.",
+    "product_visible": true
+   },
+   {
+    "start_s": 98.8,
+    "end_s": 105.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator shows phone timer at 17 minutes 05 seconds.",
+    "action": "Creator sets goal to finish in under 25 minutes.",
+    "product_visible": false
+   },
+   {
+    "start_s": 105.4,
+    "end_s": 123.3,
+    "shot_type": "close-up",
+    "visual": "Creator finishes front sections and curls bangs inwards/outwards using the heated steam brush edges.",
+    "action": "Creator styles curtain bangs with a beveled curve and reacts with shock at how well it flips.",
+    "product_visible": true
+   },
+   {
+    "start_s": 123.4,
+    "end_s": 139.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator shows final stopwatch result of 21 minutes 57 seconds, runs fingers through silky sleek straight hair, and signs off.",
+    "action": "Creator celebrates speed, softness, and silky finish, delivering outro CTA.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera with voluminous wavy dark hair, wearing a black top, with text overlay 'straightening my hair with steam ★'.",
+   "visual_0_3s": "Creator talking excitedly to camera with on-screen text overlay, referencing viral TikTok hair results shown in a floating video box.",
+   "spoken_0_3s": "Apparently, the fastest way to get your curly hair silky sleek straight is by using a steam straightener.",
+   "text_0_3s": "straightening my hair with steam ★",
+   "hook_type": "trend_or_sound",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Floating TikTok video reference pip box and immediate stopwatch challenge setup."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: viral TikTok steam straightening claim vs skepticism",
+    "Challenge setup: timed run for very thick, slow-to-straighten hair",
+    "First pass uncut test & instant shock reaction",
+    "Section-by-section timed progression with tips (glove, tension, roots)",
+    "Curtain bang styling demonstration",
+    "Final timer check: 21:57 (down from 1.5 hours) & softness testimonial"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "frizz_or_curly_solution",
+    "less_heat_damage"
+   ],
+   "key_claims": [
+    "Fastest way to get curly/wavy hair silky sleek straight",
+    "Cuts straightening time from 1.5 hours down to 22 minutes",
+    "Works in single uncut pass",
+    "Steam straightens like clothes steaming with less damage",
+    "Leaves hair the silkiest and softest it has ever felt"
+   ],
+   "pain_points": [
+    "Straightening thick hair normally takes over 1.5 hours",
+    "Traditional flat irons can be tricky at the crown or for curling bangs",
+    "Burning hands from hot strands",
+    "Curly missed strands at the back of the head"
+   ],
+   "objections_handled": [
+    "Does it actually work in one pass? (Demonstrated live uncut)",
+    "Does it take forever? (Timed checkpoints prove total time ~22 min)",
+    "Does it damage hair? (Addressed with steam comparison and user research)",
+    "Can it style bangs? (Demonstrated curved styling on front bangs)"
+   ],
+   "social_proof": [
+    "Viral TikTok videos referenced",
+    "Real-time stopwatch proof"
+   ],
+   "comparison_to": "Traditional flat straightening irons and clothing steam irons"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steam Straightening Brush"
+   ],
+   "first_seen_s": 4.0,
+   "first_used_on_hair_s": 23.0,
+   "final_result_shown_s": 123.4,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "let me know what you guys think, and let me know if you guys have tried this before.",
+   "cta_on_screen": "",
+   "cta_at_s": 133.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, thick, dark brown/black wavy voluminous hair",
+   "hair_after": "Ultra-sleek, shiny, smooth pin-straight dark hair with gently styled curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Engaging, authentic, skeptical-to-impressed, relatable, energetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Low-volume upbeat, chill background instrumental track supporting the talking creator.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 27,
+   "avg_shot_length_s": 5.1,
+   "pacing": "fast",
+   "effects": [
+    "Picture-in-picture TikTok video overlays",
+    "Stopwatch timer display",
+    "Jump cuts between hair sections"
+   ],
+   "ending": "Creator smiling with sleek finished hair, waving goodbye to camera."
+  },
+  "notes": "Clear organic UGC product review ad with real-time timer proof mechanism. Product visible clearly shows 'wavytalk' logo on handle at 00:54 and 01:37."
+ }
+}

@@ -1,0 +1,327 @@
+{
+ "media_key": "v_1703972764633663",
+ "analyzed_at": "2026-11-28T01:04:23+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "f762208165e5f05f8033c6d1c79fb12d8c4ea102e867f1c64274b97642303adc",
+ "source": {
+  "kind": "video",
+  "id": "1703972764633663",
+  "video_id": "3686739961482585",
+  "length_s": 76.138,
+  "permalink": "/23849366283980795/videos/3686739961482585/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 75.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator demonstrates styling her long hair with the WavyTalk thermal brush in 15 minutes, achieving salon-style blowout curls.",
+  "full_description": "A female creator with very long dark brown hair speaks directly to the camera in a bedroom setting. She explains that she needs a blowout but has no time for a salon visit, introducing the pink WavyTalk thermal brush. She sections and curls her hair on camera, rolling and twisting the barrel through her locks while explaining how quick and effortless the tool is. She reveals bouncy, voluminous blowout curls, notes it only took 15 minutes, and highlights the current sale and 30-day return policy.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 75,
+    "en": 23,
+    "fr": 2
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "مثل ما شايفين I need a blowout",
+    "text_english": "As you can see, I need a blowout"
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 4.1,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "بس أبداً ما معي وقت روح عالصالون",
+    "text_english": "but I really have no time to go to the salon."
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 7.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "So we are going to be using this thermal brush من عند WavyTalk",
+    "text_english": "So we are going to be using this thermal brush from WavyTalk."
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 13.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أكتر شي عم بيهمني بـ my look بهي الفترة هو شعري، لأن إذا شعري منو زابط ما في شي زابط",
+    "text_english": "The thing that matters most to me in my look right now is my hair, because if my hair isn't looking good, nothing looks good."
+   },
+   {
+    "start_s": 13.9,
+    "end_s": 20.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Already بلشت، ليكوا the curls، et voilà",
+    "text_english": "I already started, look at the curls, et voilà!"
+   },
+   {
+    "start_s": 20.3,
+    "end_s": 27.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "ولأنه ما عم بيكون عندي وقت عم بعتمد هيدي الطريقة لأن عم تعطيني أحلى وأجمل results، ليكوا قديه سهلة",
+    "text_english": "And because I haven't had time, I've been relying on this method because it gives me the prettiest and best results, look how easy it is."
+   },
+   {
+    "start_s": 27.5,
+    "end_s": 33.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "مثل ما شفتوا لفيتها وبضلني عم ببرم، and here you go",
+    "text_english": "As you saw, I wrapped it and I keep twisting, and here you go."
+   },
+   {
+    "start_s": 33.6,
+    "end_s": 47.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "WavyTalk كتير سهّلي حياتي، it's so easy to use، ليكوا كيف لفيت الخصلة، ونطر شوي، وببلش أبرم. شفتوا؟",
+    "text_english": "WavyTalk made my life so easy, it's so easy to use, look how I wrapped the section, wait a little bit, and start rolling. Did you see?"
+   },
+   {
+    "start_s": 47.5,
+    "end_s": 54.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "هلا بعمل هيك على كل شعري وبيعتيني أسرع وأجمل results",
+    "text_english": "Now I do this across all my hair and it gives me the fastest and prettiest results."
+   },
+   {
+    "start_s": 54.8,
+    "end_s": 57.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "شايفين الـ volume؟",
+    "text_english": "Do you see the volume?"
+   },
+   {
+    "start_s": 57.2,
+    "end_s": 61.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Almost done، ليكوا شعري ترتّب، كأنه رحت عالصالون",
+    "text_english": "Almost done, look how neat my hair is, like I went to the salon."
+   },
+   {
+    "start_s": 61.5,
+    "end_s": 64.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "شفتوا ليه عم بستعمل هيدي الـ thermal brush من WavyTalk؟",
+    "text_english": "Did you see why I'm using this thermal brush from WavyTalk?"
+   },
+   {
+    "start_s": 64.5,
+    "end_s": 70.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "قلتلكن بضهر من البيت بلا makeup بس بلا ما اعمل شعري مستحيل، لأنه أخد معي maximum 15 minutes",
+    "text_english": "I told you I can leave the house without makeup, but without doing my hair is impossible, because it took me maximum 15 minutes."
+   },
+   {
+    "start_s": 70.3,
+    "end_s": 75.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وبدكن شي أحلى؟ إنه WavyTalk is on sale وعندن a 30-day return فما كتير عندكن حجة ما تجيبوها",
+    "text_english": "And you want something even better? WavyTalk is on sale and they have a 30-day return, so you really have no excuse not to get it."
+   }
+  ],
+  "transcript_full_original": "مثل ما شايفين I need a blowout بس أبداً ما معي وقت روح عالصالون. So we are going to be using this thermal brush من عند WavyTalk. أكتر شي عم بيهمني بـ my look بهي الفترة هو شعري، لأن إذا شعري منو زابط ما في شي زابط. Already بلشت، ليكوا the curls، et voilà. ولأنه ما عم بيكون عندي وقت عم بعتمد هيدي الطريقة لأن عم تعطيني أحلى وأجمل results، ليكوا قديه سهلة. مثل ما شفتوا لفيتها وبضلني عم ببرم، and here you go. WavyTalk كتير سهّلي حياتي، it's so easy to use، ليكوا كيف لفيت الخصلة، ونطر شوي، وببلش أبرم. شفتوا؟ هلا بعمل هيك على كل شعري وبيعتيني أسرع وأجمل results. شايفين الـ volume؟ Almost done، ليكوا شعري ترتّب، كأنه رحت عالصالون. شفتوا ليه عم بستعمل هيدي الـ thermal brush من WavyTalk؟ قلتلكن بضهر من البيت بلا makeup بس بلا ما اعمل شعري مستحيل، لأنه أخد معي maximum 15 minutes. وبدكن شي أحلى؟ إنه WavyTalk is on sale وعندن a 30-day return فما كتير عندكن حجة ما تجيبوها.",
+  "transcript_full_english": "As you can see, I need a blowout but I really have no time to go to the salon. So we are going to be using this thermal brush from WavyTalk. The thing that matters most to me in my look right now is my hair, because if my hair isn't looking good, nothing looks good. I already started, look at the curls, et voilà! And because I haven't had time, I've been relying on this method because it gives me the prettiest and best results, look how easy it is. As you saw, I wrapped it and I keep twisting, and here you go. WavyTalk made my life so easy, it's so easy to use, look how I wrapped the section, wait a little bit, and start rolling. Did you see? Now I do this across all my hair and it gives me the fastest and prettiest results. Do you see the volume? Almost done, look how neat my hair is, like I went to the salon. Did you see why I'm using this thermal brush from WavyTalk? I told you I can leave the house without makeup, but without doing my hair is impossible, because it took me maximum 15 minutes. And you want something even better? WavyTalk is on sale and they have a 30-day return, so you really have no excuse not to get it.",
+  "word_count": 172,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing camera showing her unstyled, flat long hair.",
+    "action": "Creator gestures to her hair stating she needs a blowout with no time for salon.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 7.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds up the pink WavyTalk thermal brush in front of camera.",
+    "action": "Creator shows the brush barrel and display.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 20.3,
+    "shot_type": "medium shot",
+    "visual": "Creator styles top and side section with the thermal brush.",
+    "action": "Creator winds hair around the brush and releases a styled curl, smiling.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.3,
+    "end_s": 33.6,
+    "shot_type": "medium shot",
+    "visual": "Creator curls top roots and mid-lengths.",
+    "action": "Creator wraps hair around barrel, pulls up for root lift, and smoothly unwinds.",
+    "product_visible": true
+   },
+   {
+    "start_s": 33.6,
+    "end_s": 47.5,
+    "shot_type": "medium shot",
+    "visual": "Creator demonstrating curl technique on side strands.",
+    "action": "Creator twists strand around brush, holds briefly, and spins brush down to release spiral wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 47.5,
+    "end_s": 54.8,
+    "shot_type": "medium shot",
+    "visual": "Creator continues rolling side section and shows results.",
+    "action": "Creator spins brush out cleanly revealing glossy curled strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 54.8,
+    "end_s": 57.2,
+    "shot_type": "medium shot",
+    "visual": "Creator checks hair in camera, fluffing front layers.",
+    "action": "Creator touches roots and displays massive volume.",
+    "product_visible": false
+   },
+   {
+    "start_s": 57.2,
+    "end_s": 61.5,
+    "shot_type": "medium shot",
+    "visual": "Creator styles the last back section.",
+    "action": "Creator curls back section overhead with ease.",
+    "product_visible": true
+   },
+   {
+    "start_s": 61.5,
+    "end_s": 70.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator shows fully styled, voluminous salon-grade blowout hair.",
+    "action": "Creator runs hands through hair, posing and expressing how quick it was.",
+    "product_visible": false
+   },
+   {
+    "start_s": 70.3,
+    "end_s": 75.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds up the pink WavyTalk thermal brush again, pointing at it enthusiastically.",
+    "action": "Creator talks about the current sale and 30-day return policy.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing unstyled hair with hands resting on it.",
+   "visual_0_3s": "Creator touches and displays long, flat hair explaining the problem.",
+   "spoken_0_3s": "مثل ما شايفين I need a blowout بس أبداً ما معي وقت روح عالصالون",
+   "text_0_3s": "",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Direct relatable problem hook: creator admits needing a blowout but lacking time for the salon, then immediately presents the handheld styling solution."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Relatable problem: Needs blowout, zero time for salon",
+    "Product introduction: WavyTalk thermal brush",
+    "Real-time live tutorial demonstrating simple wrap-and-spin technique",
+    "Result reveal: salon-level volume and bouncy curls in just 15 minutes",
+    "Offer and risk reversal: Sale mention and 30-day money-back guarantee"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "easy_for_beginners",
+    "volume_and_bounce",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Gives salon blowout results at home",
+    "Takes only maximum 15 minutes",
+    "Very easy to wrap and glide through hair",
+    "Delivers high volume and curls"
+   ],
+   "pain_points": [
+    "No time to visit a hair salon",
+    "Unstyled or flat hair ruins the entire outfit/look",
+    "Styling hair takes too long in general"
+   ],
+   "objections_handled": [
+    "Is it hard to use? Demonstrated step-by-step rolling technique showing simplicity",
+    "Does it take too long? Confirmed it takes maximum 15 minutes",
+    "What if it doesn't work for me? Mentions 30-day return policy"
+   ],
+   "social_proof": [],
+   "comparison_to": "hair salon blowout"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 4.8,
+   "first_used_on_hair_s": 8.0,
+   "final_result_shown_s": 54.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "On sale",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "ما كتير عندكن حجة ما تجيبوها",
+   "cta_on_screen": "",
+   "cta_at_s": 73.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Very long, dark brown/black, straight to slightly wavy and flat",
+   "hair_after": "Voluminous blowout curls with bouncy, polished ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "friendly, conversational, confident, enthusiastic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "Natural ambient room audio with clear spoken voice, no background music track.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 7.6,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between styling steps"
+   ],
+   "ending": "Creator holds the pink thermal brush in front of camera while speaking the final recommendation."
+  },
+  "notes": "Natural and authentic Lebanese UGC ad for WavyTalk's Blowout Boost thermal brush. The creator speaks in natural Lebanese Arabic with fluent English code-switching. Strong emphasis on speed (15 minutes), convenience (replaces salon trip), and risk-free purchase (30-day return policy)."
+ }
+}

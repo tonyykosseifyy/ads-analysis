@@ -1,0 +1,541 @@
+{
+ "media_key": "v_1573732684787716",
+ "analyzed_at": "2026-11-28T01:16:40+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "3fa4bbdebd7015034cd822b03d03da8c8102a5b9a9efa8e40ac7de42acdfd88e",
+ "source": {
+  "kind": "video",
+  "id": "1573732684787716",
+  "video_id": "1090975517326311",
+  "length_s": 68.08,
+  "permalink": "/23849366283980795/videos/1090975517326311/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 67.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Lebanese creator showcases a dramatic before-and-after transformation using the WavyTalk Blowout Boost, demonstrating heat settings, root-lifting technique, and closing with a discount offer.",
+  "full_description": "A creator starts with an instant before-and-after comparison showing her frizzy natural hair versus voluminous, bouncy waves achieved with a single tool. She explains her past frustration of repeating passes on strands that ruined the shape or roots until trying the WavyTalk Blowout Boost. She demonstrates the 5 digital heat settings, tutorials how to lift from the roots and curl downwards for maximum volume, styles her bangs/front section upwards, reveals the sleek frizz-free results thanks to ionic technology, and delivers an urgent call-to-action featuring a 20% discount and 30-day return policy.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 70,
+    "en": 30,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "ar",
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "هيدا الـ before",
+    "text_english": "This is the before"
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 2.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وهيدا الـ after بنات",
+    "text_english": "and this is the after, girls"
+   },
+   {
+    "start_s": 2.7,
+    "end_s": 4.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وكل الفرق بـ tool وحدة.",
+    "text_english": "and all the difference is with one tool."
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 7.3,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "كنت ضيع وقت بنات أنا وعم عيد على نفس الخصلة كذا مرة،",
+    "text_english": "I used to waste time, girls, repeating over the same section multiple times,"
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 9.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "يا ما يزبطوا الـ roots، يا يروح الـ shape،",
+    "text_english": "either the roots wouldn't look right, or the shape would be lost,"
+   },
+   {
+    "start_s": 9.7,
+    "end_s": 13.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "يا الـ final look ما يطلع كثير حلو، وأكيد أنتوا كان يصير معكم هيك",
+    "text_english": "or the final look wouldn't turn out very nice, and I'm sure this used to happen to you too"
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 16.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "لحد ما جربت The Wavy Talk Blowout Boost.",
+    "text_english": "until I tried The Wavy Talk Blowout Boost."
+   },
+   {
+    "start_s": 16.4,
+    "end_s": 20.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بيميزها عن غيرها بنات إنه فيها 5 heat tools options, so انتوا فيكم تعملوا",
+    "text_english": "What sets it apart from others, girls, is that it has 5 heat options, so you can"
+   },
+   {
+    "start_s": 20.3,
+    "end_s": 22.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "adjusting للـ heat حسب شعركم قدي بيتحمل.",
+    "text_english": "adjust the heat depending on how much your hair can take."
+   },
+   {
+    "start_s": 22.3,
+    "end_s": 27.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بهيدي الطريقة بتغيروا الـ heat تبعكم من أقل شيء لأكثر شيء.",
+    "text_english": "This way you adjust your heat from the lowest setting to the highest."
+   },
+   {
+    "start_s": 27.8,
+    "end_s": 31.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "اذا بدكن الـ product يعطي volume أكثر بنات، بتحطوا الـ brush على الـ roots",
+    "text_english": "If you want the product to give more volume, girls, you place the brush at the roots"
+   },
+   {
+    "start_s": 31.8,
+    "end_s": 36.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "then you lift to give volume, then you curl downwards.",
+    "text_english": "then you lift to give volume, then you curl downwards."
+   },
+   {
+    "start_s": 44.8,
+    "end_s": 49.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وأكيد ما ننسى الـ front side. We lift upwards, then we give some volume.",
+    "text_english": "And of course let's not forget the front side. We lift upwards, then we give some volume."
+   },
+   {
+    "start_s": 49.3,
+    "end_s": 51.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "هيك بنعمل الغرة.",
+    "text_english": "That's how we do the bangs."
+   },
+   {
+    "start_s": 51.0,
+    "end_s": 53.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "شوفوا بنات الـ final result شو حلوة.",
+    "text_english": "Look girls, how gorgeous the final result is."
+   },
+   {
+    "start_s": 53.4,
+    "end_s": 59.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "شوفوا الـ styling بنات، قدي طالع حلو، ما في ولا أي frizz due to the ionic technology الموجودة بالـ product.",
+    "text_english": "Look at the styling girls, how nice it turned out, no frizz at all due to the ionic technology in the product."
+   },
+   {
+    "start_s": 59.4,
+    "end_s": 63.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وهلا بقول لكم بنات، try Wavy Talk, benefit from 20% off من هلا لآخر الشهر",
+    "text_english": "And now I tell you girls, try Wavy Talk, benefit from 20% off from now until the end of the month"
+   },
+   {
+    "start_s": 63.8,
+    "end_s": 65.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "with a 30 days return.",
+    "text_english": "with a 30 days return."
+   },
+   {
+    "start_s": 65.5,
+    "end_s": 67.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "اللي ما جرب ع فكرة راحت عليه.",
+    "text_english": "Whoever hasn't tried it has seriously missed out."
+   }
+  ],
+  "transcript_full_original": "هيدا الـ before وهيدا الـ after بنات وكل الفرق بـ tool وحدة. كنت ضيع وقت بنات أنا وعم عيد على نفس الخصلة كذا مرة، يا ما يزبطوا الـ roots، يا يروح الـ shape، يا الـ final look ما يطلع كثير حلو، وأكيد أنتوا كان يصير معكم هيك لحد ما جربت The Wavy Talk Blowout Boost. بيميزها عن غيرها بنات إنه فيها 5 heat tools options, so انتوا فيكم تعملوا adjusting للـ heat حسب شعركم قدي بيتحمل. بهيدي الطريقة بتغيروا الـ heat تبعكم من أقل شيء لأكثر شيء. اذا بدكن الـ product يعطي volume أكثر بنات، بتحطوا الـ brush على الـ roots then you lift to give volume, then you curl downwards. وأكيد ما ننسى الـ front side. We lift upwards, then we give some volume. هيك بنعمل الغرة. شوفوا بنات الـ final result شو حلوة. شوفوا الـ styling بنات، قدي طالع حلو، ما في ولا أي frizz due to the ionic technology الموجودة بالـ product. وهلا بقول لكم بنات، try Wavy Talk, benefit from 20% off من هلا لآخر الشهر with a 30 days return. اللي ما جرب ع فكرة راحت عليه.",
+  "transcript_full_english": "This is the before and this is the after, girls, and all the difference is with one tool. I used to waste time, girls, repeating over the same section multiple times, either the roots wouldn't look right, or the shape would be lost, or the final look wouldn't turn out very nice, and I'm sure this used to happen to you too until I tried The Wavy Talk Blowout Boost. What sets it apart from others, girls, is that it has 5 heat options, so you can adjust the heat depending on how much your hair can take. This way you adjust your heat from the lowest setting to the highest. If you want the product to give more volume, girls, you place the brush at the roots then you lift to give volume, then you curl downwards. And of course let's not forget the front side. We lift upwards, then we give some volume. That's how we do the bangs. Look girls, how gorgeous the final result is. Look at the styling girls, how nice it turned out, no frizz at all due to the ionic technology in the product. And now I tell you girls, try Wavy Talk, benefit from 20% off from now until the end of the month with a 30 days return. Whoever hasn't tried it has seriously missed out.",
+  "word_count": 182,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "text": "هيدا الـ BEFORE وهيدا الـ AFTER",
+    "role": "hook"
+   },
+   {
+    "start_s": 2.7,
+    "end_s": 4.1,
+    "text": "وكل الفرق بـTOOL وحدة.",
+    "role": "benefit"
+   },
+   {
+    "start_s": 4.2,
+    "end_s": 8.0,
+    "text": "كنت ضيع وقت بنات انا وعم عيد على نفس الخصله كذا مره يا ما",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 10.3,
+    "text": "يزبطو ال roots يا يروح ال shape",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.3,
+    "end_s": 13.5,
+    "text": "يا الفاينل لوك ما يطلع كثير حلو واكيد انتم كان يصير معكم هيك",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.6,
+    "end_s": 16.2,
+    "text": "The Wavy Talk Blowout Boost",
+    "role": "brand"
+   },
+   {
+    "start_s": 13.6,
+    "end_s": 15.1,
+    "text": "لحد ما جربت",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 17.8,
+    "text": "بتميزها عن غيرها بنات انه فيها",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.8,
+    "end_s": 20.3,
+    "text": "5 Heat tools options so",
+    "role": "benefit"
+   },
+   {
+    "start_s": 20.3,
+    "end_s": 22.5,
+    "text": "Adjust JHeat حسب شعركن قدي بيتحمل",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.3,
+    "end_s": 25.3,
+    "text": "بهذه الطريقه بتغيروا ال heat",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.4,
+    "end_s": 28.0,
+    "text": "تبعكم من اقل شيء لاكثر شيء.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 28.1,
+    "end_s": 29.8,
+    "text": "اذا بدكن ال product يعطي اكثر volume",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 29.8,
+    "end_s": 32.2,
+    "text": "بنات بتحطوا البراش على roots",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 32.2,
+    "end_s": 34.0,
+    "text": "then you lift to give volume",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 34.0,
+    "end_s": 36.8,
+    "text": "then youu curl downwards",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 45.0,
+    "end_s": 46.5,
+    "text": "واكيد ما ننسى",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 47.9,
+    "text": "Front side we lift upwards",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 47.9,
+    "end_s": 49.3,
+    "text": "then we give some volume",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 49.3,
+    "end_s": 51.0,
+    "text": "هيك بنعمل الغره.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 51.1,
+    "end_s": 52.8,
+    "text": "شو حلوة final result ال",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 52.8,
+    "end_s": 54.7,
+    "text": "styling ال شوفوا",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 54.7,
+    "end_s": 56.4,
+    "text": "بنات قد ايه طالع حلو ما في ولا اي",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 56.4,
+    "end_s": 58.8,
+    "text": "Frizz due to the IONIC TECHNOLOGY الموجودة بال",
+    "role": "benefit"
+   },
+   {
+    "start_s": 58.8,
+    "end_s": 60.5,
+    "text": "وهلا بقول لكم بنات",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 60.5,
+    "end_s": 63.3,
+    "text": "Try Wavy Talk Benefit FROM 20% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 63.3,
+    "end_s": 65.5,
+    "text": "days 30 من هلا لاخر الشهر return",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 65.5,
+    "end_s": 67.5,
+    "text": "اللي ما جرب على فكره راحت عليه.",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator faces camera showing her naturally frizzy, straight/unbrushed brunette hair.",
+    "action": "Creator shakes her head lightly and points out the 'before' state.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 4.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator runs hands through styled, voluminous, wavy, bouncy blowout hair.",
+    "action": "Fluffs hair and smiles into the camera showcasing the 'after'.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 16.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds section of hair and starts winding it around the pink WavyTalk thermal round brush.",
+    "action": "Creator speaks to the camera while clipping hair and introducing the Blowout Boost.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.4,
+    "end_s": 22.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds brush and explains the 5 heat settings.",
+    "action": "Points at the device and touches the handle.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.3,
+    "end_s": 27.8,
+    "shot_type": "close-up",
+    "visual": "Close-up of the handle display on the WavyTalk tool showing the digital temperature numbers changing with button presses.",
+    "action": "Thumb presses the button to cycle through the temperature levels.",
+    "product_visible": true
+   },
+   {
+    "start_s": 27.8,
+    "end_s": 36.8,
+    "shot_type": "medium shot",
+    "visual": "Creator demonstrates placing the brush at the roots and lifting, then curling downwards.",
+    "action": "Slowly rolls the thermal brush through a lower hair section to create lift and curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 36.8,
+    "end_s": 44.8,
+    "shot_type": "medium shot",
+    "visual": "Creator rolls another side section of hair around the heated barrel.",
+    "action": "Twists and slides the thermal brush smoothly out of the hair to reveal a bouncy wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 44.8,
+    "end_s": 51.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator styles the crown / front fringe section upwards.",
+    "action": "Lifts the front bang section up and rolls back with the brush to create curtain bang volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 51.0,
+    "end_s": 59.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator running her fingers through full blowout hair, holding the pink WavyTalk brush next to her face.",
+    "action": "Flaunts shiny, frizz-free blowout waves, points to brush barrel and ionic features.",
+    "product_visible": true
+   },
+   {
+    "start_s": 59.4,
+    "end_s": 67.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the tool beside her head, smiling and gesturing to camera as offer details appear on screen.",
+    "action": "Delivers final pitch with 20% discount and 30-day return policy.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing frizzy untreated hair with overlay 'هيدا الـ BEFORE وهيدا الـ AFTER'.",
+   "visual_0_3s": "Fast jump cut from frizzy untreated hair to bouncy, styled blowout waves as creator shakes her hair.",
+   "spoken_0_3s": "هيدا الـ before وهيدا الـ after بنات وكل الفرق بـ tool وحدة.",
+   "text_0_3s": "هيدا الـ BEFORE وهيدا الـ AFTER",
+   "hook_type": "before_after",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Immediate instant cut between messy, frizzy hair and professional salon blowout at 1 second in."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Instant before/after contrast hook",
+    "Relatable problem callout: wasting time doing multiple passes and ruining root shape",
+    "Tool introduction: WavyTalk Blowout Boost",
+    "Feature highlight: 5 adjustable heat levels shown on digital display",
+    "Technique tutorial: root lifting and downward curling for volume",
+    "Styling front/bangs for crown volume",
+    "Result reveal & tech explanation: ionic technology eliminates frizz",
+    "Limited-time discount offer and satisfaction guarantee CTA"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners",
+    "frizz_or_curly_solution",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Replaces tedious multi-pass straightening/curling routines with one tool",
+    "5 adjustable heat settings suitable for any hair sensitivity",
+    "Ionic technology eliminates frizz completely",
+    "Provides dramatic root lift and bouncy volume"
+   ],
+   "pain_points": [
+    "Wasting time restyling the same section repeatedly",
+    "Losing root volume or misshaping hair ends with regular tools",
+    "Frizz and unruly texture"
+   ],
+   "objections_handled": [
+    "Heat damage worry (handled by showcasing 5 adjustable heat levels for any hair tolerance)",
+    "Risk of buying (handled by 30-day return guarantee)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional multi-step tools / repeating passes with flat irons or conventional dryers"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost"
+   ],
+   "first_seen_s": 4.1,
+   "first_used_on_hair_s": 4.5,
+   "final_result_shown_s": 1.2,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "20% off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Valid until the end of the month (من هلا لآخر الشهر)",
+   "cta_spoken": "Try Wavy Talk, benefit from 20% off من هلا لآخر الشهر with a 30 days return. اللي ما جرب ع فكرة راحت عليه.",
+   "cta_on_screen": "Try Wavy Talk Benefit FROM 20% OFF من هلا لاخر الشهر 30 days return",
+   "cta_at_s": 59.4
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Brunette, chest-length, frizzy, straight/wavy unstyled",
+   "hair_after": "Voluminous, shiny, bouncy salon blowout with curled ends and lifted roots",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Warm, upbeat, instructive, relatable Lebanese UGC style"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Soft rhythmic upbeat instrumental background pop track playing under speech",
+   "captions_burned_in": true,
+   "production_style": "phone_ugc",
+   "cut_count": 12,
+   "avg_shot_length_s": 5.6,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts",
+    "close-up digital zoom"
+   ],
+   "ending": "Creator smiles, holding the pink WavyTalk thermal brush up against the camera while delivering the promo code and return policy offer."
+  },
+  "notes": "Clear, authentic Arabic/English code-switching UGC format specifically targeted at female Lebanese consumers. Seamlessly blends direct response elements (discount + guarantee) with an engaging educational styling tutorial."
+ }
+}

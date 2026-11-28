@@ -1,0 +1,345 @@
+{
+ "media_key": "v_1772930687328929",
+ "analyzed_at": "2026-11-28T00:12:24+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "0a1ab5565b3a5c6bf2a1dbf270b54142c4dd75ea64e62b93e80487644c699445",
+ "source": {
+  "kind": "video",
+  "id": "1772930687328929",
+  "video_id": "1135348945634949",
+  "length_s": 71.966,
+  "permalink": "/23849366283980795/videos/1135348945634949/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 71.7,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates styling wavy curls using the Wavytalk Whirlwind Curl airflow styler while explaining its cooling fan and reduced heat damage.",
+  "full_description": "A creator shares her experience with the Wavytalk Airflow Styler (Whirlwind Curl), opening with finished bouncy curls before showing a before-and-after demonstration. She explains the cooling air mechanism that sets curls instantly without burning hands or damaging hair, and shows the smooth gliding action compared to traditional flat irons.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "My hair does not normally look like this by any means, but I just got this",
+    "text_english": "My hair does not normally look like this by any means, but I just got this"
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 10.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Wavytalk airflow styler, and it has made it so easy to curl my hair, not to mention it minimizes heat damage by 50%.",
+    "text_english": "Wavytalk airflow styler, and it has made it so easy to curl my hair, not to mention it minimizes heat damage by 50%."
+   },
+   {
+    "start_s": 10.2,
+    "end_s": 15.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I have always been the type to struggle when curling my hair, so I wanted to do a test strand just to start off, and I was shocked",
+    "text_english": "I have always been the type to struggle when curling my hair, so I wanted to do a test strand just to start off, and I was shocked"
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 19.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "by the fact that I got a perfect curl the first time. Now you can see my hand touching the barrel",
+    "text_english": "by the fact that I got a perfect curl the first time. Now you can see my hand touching the barrel"
+   },
+   {
+    "start_s": 19.3,
+    "end_s": 23.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "multiple times while curling my hair because the claim is that this cools down your hair while curling it,",
+    "text_english": "multiple times while curling my hair because the claim is that this cools down your hair while curling it,"
+   },
+   {
+    "start_s": 23.3,
+    "end_s": 30.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "so the outside is like a fan that cools down the curl while the inside is like a flat iron that is making the curl.",
+    "text_english": "so the outside is like a fan that cools down the curl while the inside is like a flat iron that is making the curl."
+   },
+   {
+    "start_s": 30.2,
+    "end_s": 35.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And that's because the cool air also helps set the curl. So normally I'll pin my curls right after I curl them to let them cool like that,",
+    "text_english": "And that's because the cool air also helps set the curl. So normally I'll pin my curls right after I curl them to let them cool like that,"
+   },
+   {
+    "start_s": 35.2,
+    "end_s": 38.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "but this just cools it all in one.",
+    "text_english": "but this just cools it all in one."
+   },
+   {
+    "start_s": 38.3,
+    "end_s": 44.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "As you can tell, this straightener has like a barrel around it, making it easier to pull and curl while you're styling your hair,",
+    "text_english": "As you can tell, this straightener has like a barrel around it, making it easier to pull and curl while you're styling your hair,"
+   },
+   {
+    "start_s": 44.0,
+    "end_s": 50.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "because whenever I use a hair straightener, my hair will get like caught and stuck, and it will literally hurt my head while I'm curling,",
+    "text_english": "because whenever I use a hair straightener, my hair will get like caught and stuck, and it will literally hurt my head while I'm curling,"
+   },
+   {
+    "start_s": 50.8,
+    "end_s": 54.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "but I had no issues with this at all. You can see how smoothly I just pull the curl out.",
+    "text_english": "but I had no issues with this at all. You can see how smoothly I just pull the curl out."
+   },
+   {
+    "start_s": 54.5,
+    "end_s": 58.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "By the end of it, my hair was not feeling fried, and I was shocked by these curls. I definitely took bigger sections,",
+    "text_english": "By the end of it, my hair was not feeling fried, and I was shocked by these curls. I definitely took bigger sections,"
+   },
+   {
+    "start_s": 58.7,
+    "end_s": 64.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "so that's why I think they looked a little bit more like waves, but I thought it was so pretty. This is definitely my new favorite tool,",
+    "text_english": "so that's why I think they looked a little bit more like waves, but I thought it was so pretty. This is definitely my new favorite tool,"
+   },
+   {
+    "start_s": 64.0,
+    "end_s": 71.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "because I actually just lost my curling iron, and this is better for my hair anyway, so I'm very happy with the results.",
+    "text_english": "because I actually just lost my curling iron, and this is better for my hair anyway, so I'm very happy with the results."
+   }
+  ],
+  "transcript_full_original": "My hair does not normally look like this by any means, but I just got this Wavytalk airflow styler, and it has made it so easy to curl my hair, not to mention it minimizes heat damage by 50%. I have always been the type to struggle when curling my hair, so I wanted to do a test strand just to start off, and I was shocked by the fact that I got a perfect curl the first time. Now you can see my hand touching the barrel multiple times while curling my hair because the claim is that this cools down your hair while curling it, so the outside is like a fan that cools down the curl while the inside is like a flat iron that is making the curl. And that's because the cool air also helps set the curl. So normally I'll pin my curls right after I curl them to let them cool like that, but this just cools it all in one. As you can tell, this straightener has like a barrel around it, making it easier to pull and curl while you're styling your hair, because whenever I use a hair straightener, my hair will get like caught and stuck, and it will literally hurt my head while I'm curling, but I had no issues with this at all. You can see how smoothly I just pull the curl out. By the end of it, my hair was not feeling fried, and I was shocked by these curls. I definitely took bigger sections, so that's why I think they looked a little bit more like waves, but I thought it was so pretty. This is definitely my new favorite tool, because I actually just lost my curling iron, and this is better for my hair anyway, so I'm very happy with the results.",
+  "transcript_full_english": "My hair does not normally look like this by any means, but I just got this Wavytalk airflow styler, and it has made it so easy to curl my hair, not to mention it minimizes heat damage by 50%. I have always been the type to struggle when curling my hair, so I wanted to do a test strand just to start off, and I was shocked by the fact that I got a perfect curl the first time. Now you can see my hand touching the barrel multiple times while curling my hair because the claim is that this cools down your hair while curling it, so the outside is like a fan that cools down the curl while the inside is like a flat iron that is making the curl. And that's because the cool air also helps set the curl. So normally I'll pin my curls right after I curl them to let them cool like that, but this just cools it all in one. As you can tell, this straightener has like a barrel around it, making it easier to pull and curl while you're styling your hair, because whenever I use a hair straightener, my hair will get like caught and stuck, and it will literally hurt my head while I'm curling, but I had no issues with this at all. You can see how smoothly I just pull the curl out. By the end of it, my hair was not feeling fried, and I was shocked by these curls. I definitely took bigger sections, so that's why I think they looked a little bit more like waves, but I thought it was so pretty. This is definitely my new favorite tool, because I actually just lost my curling iron, and this is better for my hair anyway, so I'm very happy with the results.",
+  "word_count": 273,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.8,
+    "text": "POV: wavytalk tools give you the BEST curls",
+    "role": "hook"
+   },
+   {
+    "start_s": 64.2,
+    "end_s": 71.7,
+    "text": "Purchase with the link in my bio\n(Use \"ari25\" for 25% off the whirlwind curl)",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.4,
+    "shot_type": "medium shot",
+    "visual": "Creator facing camera showing finished voluminous wavy curls.",
+    "action": "Creator fluffs and smiles, running hands through her styled hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 6.7,
+    "shot_type": "medium shot",
+    "visual": "Flashback to creator before styling with unstyled, flatter straight hair.",
+    "action": "Creator holds up hands and shakes hair showing 'before' state.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.7,
+    "end_s": 7.8,
+    "shot_type": "close-up",
+    "visual": "Product close-up of pink Wavytalk Whirlwind Curl tool.",
+    "action": "Creator presents the tool showing the digital temperature display at 347 degrees.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 12.3,
+    "shot_type": "medium shot",
+    "visual": "Creator doing a test strand with the styler.",
+    "action": "Creator clamps a section near the crown, glides down, and reacts with an open-mouthed shocked expression to the clean curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 34.8,
+    "shot_type": "medium shot",
+    "visual": "Demonstration of curling technique and cool-touch outer barrel.",
+    "action": "Creator curls lower sections, touching the outer barrel to prove the cool airflow feature.",
+    "product_visible": true
+   },
+   {
+    "start_s": 34.8,
+    "end_s": 46.5,
+    "shot_type": "medium shot",
+    "visual": "Creator curling mid-layer with hair in a topknot clip.",
+    "action": "Creator bites a strand playfully while clamping, then twists and pulls the styler through smoothly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 54.4,
+    "shot_type": "medium shot",
+    "visual": "Creator taking down top sections and styling upper hair.",
+    "action": "She unclips the top knot and glides the styler effortlessly down upper hair sections.",
+    "product_visible": true
+   },
+   {
+    "start_s": 54.4,
+    "end_s": 56.5,
+    "shot_type": "back view medium shot",
+    "visual": "Rear view showing the full head of styled curls.",
+    "action": "Creator touches the back of her hair and turns head side to side to show curl definition.",
+    "product_visible": false
+   },
+   {
+    "start_s": 56.5,
+    "end_s": 102.5,
+    "shot_type": "medium shot",
+    "visual": "Creator finishing front face-framing strands.",
+    "action": "Creator curls the last front section and checks her waves in the mirror/camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 102.5,
+    "end_s": 71.7,
+    "shot_type": "medium shot",
+    "visual": "Final result showcase and outro.",
+    "action": "Creator excitedly waves both hands, fluffs out curls, smiles, and poses.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator smiling directly into camera touching styled bouncy curls with POV text overlay.",
+   "visual_0_3s": "Creator happily admires and runs hands through voluminous finished curls.",
+   "spoken_0_3s": "My hair does not normally look like this by any means, but I just got this",
+   "text_0_3s": "POV: wavytalk tools give you the BEST curls",
+   "hook_type": "result_first",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Rapid jump cut from gorgeous finished hair to flat unstyled 'before' hair at 3 seconds."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Result reveal hook showing dramatic bounce and curl",
+    "Flashback to unstyled flat before state",
+    "Introduction of Wavytalk Airflow styler and key stat (50% less heat damage)",
+    "Test strand showing instant shock and satisfaction",
+    "Explanation of dual functionality: flat iron inside + cooling fan outside",
+    "Demonstration of smooth glide without hair catching or scalp pain",
+    "Full hair reveal and discount code call to action"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "less_heat_damage",
+    "volume_and_bounce",
+    "saves_time"
+   ],
+   "key_claims": [
+    "Minimizes heat damage by 50%",
+    "External fan cools hair and sets curls immediately without pins",
+    "Cool-touch outer barrel prevents finger burns",
+    "Glides smoothly without catching or pulling hair like traditional straighteners"
+   ],
+   "pain_points": [
+    "Struggling to curl hair with traditional flat irons or curling irons",
+    "Hair catching and pulling causing scalp pain",
+    "Heat damage and fried-feeling hair after styling",
+    "Having to pin curls to let them cool and set"
+   ],
+   "objections_handled": [
+    "Too complicated to use: creator demonstrates how effortless pulling and rotating is on the first try",
+    "Tool gets too hot: creator visibly touches outer barrel repeatedly while curling",
+    "Causes hair breakage/snagging: barrel housing allows zero snagging"
+   ],
+   "social_proof": [
+    "Creator genuine astonished facial reaction on first strand"
+   ],
+   "comparison_to": "Traditional hair straighteners and standard curling irons"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Whirlwind Curl (Airflow Styler)"
+   ],
+   "first_seen_s": 6.7,
+   "first_used_on_hair_s": 7.8,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "25% off the whirlwind curl",
+   "price_mentioned": "",
+   "discount_code": "ari25",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "Purchase with the link in my bio (Use \"ari25\" for 25% off the whirlwind curl)",
+   "cta_at_s": 64.2
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "Ari",
+   "age_range": "18-24",
+   "hair_before": "Straight, medium-thick, highlighted blonde/light brown shoulder-length hair",
+   "hair_after": "Voluminous loose wavy curls with shiny texture and bounce",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Enthusiastic, candid, friendly, and relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "None, clear voiceover recorded over video footage",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 10,
+   "avg_shot_length_s": 7.1,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts",
+    "speed ramping / timelapses"
+   ],
+   "ending": "Creator smiling, running hands through her hair and gesturing to the camera with promo text on screen."
+  },
+  "notes": "Influencer Ari promoting the Wavytalk Whirlwind Curl airflow styling tool with affiliate promo code ari25."
+ }
+}

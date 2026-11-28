@@ -1,0 +1,198 @@
+{
+ "media_key": "v_1126861343497002",
+ "analyzed_at": "2026-11-28T00:31:24+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "57df224fa5b703b0e941465c6911603cf6b295e14bd21b18f0bf91a12460831a",
+ "source": {
+  "kind": "video",
+  "id": "1126861343497002",
+  "video_id": "1151852964375879",
+  "length_s": 25.966,
+  "permalink": "/23849366283980795/videos/1151852964375879/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 25.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator recreates Karol G's signature voluminous layered blowout using a Wavytalk thermal round brush to a trending Spanish track.",
+  "full_description": "A creator sits in a bright bedroom in front of the camera, showing a photo overlay of singer Karol G's layered blowout hairstyle with the text 'Recreating Karol G's hair'. She preps her long brown hair with spray, presents the Wavytalk thermal round brush, and demonstrates curling and lifting sections of hair layer by layer. She shows the smooth bouncy curls formed, curls the front face-framing fringe backwards, and fluffs out a voluminous, salon-quality blowout that matches the celebrity reference before holding up the styling tool.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 8.5,
+    "text": "Recreating Karol G's hair",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.7,
+    "shot_type": "medium shot",
+    "visual": "Creator pointing up to an inset photo of singer Karol G with text overlay 'Recreating Karol G's hair', then spraying heat protectant / texturizing spray on her long hair.",
+    "action": "Points up at inspiration picture and sprays styling spray into hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 2.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds up the white and black Wavytalk thermal heated round styling brush directly to the camera.",
+    "action": "Displays the product to the viewer.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 8.5,
+    "shot_type": "medium shot",
+    "visual": "Creator sections her hair with a hair clip and rolls lower sections around the heated thermal brush, gliding and twirling it down to reveal a tight bouncy curl.",
+    "action": "Styles bottom hair section with thermal brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 11.0,
+    "shot_type": "medium shot",
+    "visual": "Creator inspects and flicks the freshly formed bouncy curl, unclips the next middle section of hair.",
+    "action": "Checks curl result and unclips hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 14.8,
+    "shot_type": "medium shot",
+    "visual": "Creator wraps face-framing strands around the heated thermal barrel, smoothly twisting outward.",
+    "action": "Curling side layer away from face.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 19.3,
+    "shot_type": "medium shot",
+    "visual": "Creator rolls the top crown bangs back and over the thermal brush barrel, then releases it.",
+    "action": "Styles crown and bangs for maximum lift and volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.3,
+    "end_s": 23.4,
+    "shot_type": "medium shot",
+    "visual": "Creator runs hands through hair, shaking out huge, shiny, layered blowout curls mirroring Karol G's look.",
+    "action": "Shakes and fluffs the styled hair to show off full bounce and volume.",
+    "product_visible": false
+   },
+   {
+    "start_s": 23.4,
+    "end_s": 25.5,
+    "shot_type": "medium shot",
+    "visual": "Creator touches her voluminous finished hair with one hand and holds up the Wavytalk thermal brush in the other, smiling at camera.",
+    "action": "Presents final hair result alongside the product.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator gesturing towards an overlay image of Karol G with text 'Recreating Karol G's hair'.",
+   "visual_0_3s": "Creator points to Karol G photo, sprays hair, and presents the heated round brush.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Recreating Karol G's hair",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "Prominent celebrity photo overlay with immediate celebrity hairstyle recreation challenge."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Inspiration reveal: Showing Karol G's hairstyle reference",
+    "Prep & tool display: Spraying hair and presenting the thermal round brush",
+    "Application demo: Curling bottom layers, face-framing layers, and crown section",
+    "Final payoff: Shaking out full, voluminous blowout mimicking the celebrity reference",
+    "Final product hero pose"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "social_proof_popularity"
+   ],
+   "key_claims": [
+    "Achieves celebrity-level blowout volume and bounce with a thermal round brush",
+    "Creates smooth, shiny, flipped curls easily at home"
+   ],
+   "pain_points": [
+    "Difficulty recreating high-volume celebrity blowouts with traditional tools"
+   ],
+   "objections_handled": [
+    "Ease of creating big blowout curls on long, heavy hair without a blow dryer"
+   ],
+   "social_proof": [
+    "Recreating trending Karol G celebrity blowout style"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush"
+   ],
+   "first_seen_s": 1.8,
+   "first_used_on_hair_s": 3.2,
+   "final_result_shown_s": 19.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Very long, dark brown with caramel balayage, straight/flat",
+   "hair_after": "Voluminous, layered, bouncy blowout with curled ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, aesthetic, trendy"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Karol G Latin pop track playing as background sound ('Si Antes Te Hubiera Conocido')",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 3.19,
+   "pacing": "fast",
+   "effects": [
+    "image overlay",
+    "text overlay"
+   ],
+   "ending": "Creator smiling while holding the tool next to her finished blowout hairstyle."
+  },
+  "notes": "Ad utilizes celebrity trend-jacking (Karol G's viral blowout look and music) to showcase the ease of achieving dramatic hair volume with the Wavytalk thermal round brush."
+ }
+}

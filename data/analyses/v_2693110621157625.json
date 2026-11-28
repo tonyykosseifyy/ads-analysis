@@ -1,0 +1,329 @@
+{
+ "media_key": "v_2693110621157625",
+ "analyzed_at": "2026-11-28T01:03:11+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "123b849ff21a3e1f3ffe2f8ef70c86671126289463813a38e33f107e5d75dbc9",
+ "source": {
+  "kind": "video",
+  "id": "2693110621157625",
+  "ig_media_id": "18083965148749823",
+  "permalink": "https://www.instagram.com/p/DfYCJ9tMpUu/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 32.74,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator tests the Wavytalk Steam Pro Straightener on long curly hair, achieving sleek, straight results in one pass and styling all her hair in 20 minutes.",
+  "full_description": "A UGC review and demonstration ad featuring a young female creator with extremely long curly hair testing the pink Wavytalk Steam Pro Straightener. She initially expresses skepticism about it straightening her hair in one pass, tests it on a strand, and is immediately amazed by the sleek result. She then adds water to the steam chamber, styles the rest of her hair in sections, praises the hydration benefits of the steam, and reveals super silky, straightened hair completed in 20 minutes. The video ends with a discount code callout.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "There's literally no way that this can flatten my hair in one pass.",
+    "text_english": "There's literally no way that this can flatten my hair in one pass."
+   },
+   {
+    "start_s": 3.5,
+    "end_s": 4.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's see.",
+    "text_english": "Let's see."
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 6.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Wait.",
+    "text_english": "Wait."
+   },
+   {
+    "start_s": 6.5,
+    "end_s": 8.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Clearly I was wrong.",
+    "text_english": "Clearly I was wrong."
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 11.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I've seen this straightener all over TikTok and I wanted to put it to the test.",
+    "text_english": "I've seen this straightener all over TikTok and I wanted to put it to the test."
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 16.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Something that's really cool is that this straightener uses steam, which will help lock in hydration.",
+    "text_english": "Something that's really cool is that this straightener uses steam, which will help lock in hydration."
+   },
+   {
+    "start_s": 16.8,
+    "end_s": 20.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "My hair already looks so silky and I did these two sections in five minutes.",
+    "text_english": "My hair already looks so silky and I did these two sections in five minutes."
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 22.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Time for my last sections.",
+    "text_english": "Time for my last sections."
+   },
+   {
+    "start_s": 22.5,
+    "end_s": 26.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I can't believe I'm saying this, but I flat ironed my hair in only 20 minutes.",
+    "text_english": "I can't believe I'm saying this, but I flat ironed my hair in only 20 minutes."
+   },
+   {
+    "start_s": 26.8,
+    "end_s": 29.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I think it looks so good. Overall, I'm obsessed.",
+    "text_english": "I think it looks so good. Overall, I'm obsessed."
+   }
+  ],
+  "transcript_full_original": "There's literally no way that this can flatten my hair in one pass. Let's see. Wait. Clearly I was wrong. I've seen this straightener all over TikTok and I wanted to put it to the test. Something that's really cool is that this straightener uses steam, which will help lock in hydration. My hair already looks so silky and I did these two sections in five minutes. Time for my last sections. I can't believe I'm saying this, but I flat ironed my hair in only 20 minutes. I think it looks so good. Overall, I'm obsessed.",
+  "transcript_full_english": "There's literally no way that this can flatten my hair in one pass. Let's see. Wait. Clearly I was wrong. I've seen this straightener all over TikTok and I wanted to put it to the test. Something that's really cool is that this straightener uses steam, which will help lock in hydration. My hair already looks so silky and I did these two sections in five minutes. Time for my last sections. I can't believe I'm saying this, but I flat ironed my hair in only 20 minutes. I think it looks so good. Overall, I'm obsessed.",
+  "word_count": 92,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.8,
+    "text": "Testing out the Wavytalk Steam Pro Straightener 😳",
+    "role": "hook"
+   },
+   {
+    "start_s": 29.5,
+    "end_s": 32.7,
+    "text": "Use code marley25 for 25% off!",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.5,
+    "shot_type": "medium shot",
+    "visual": "Creator standing in bathroom holding the pink Wavytalk straightener, looking skeptical with very long curly hair down to her waist.",
+    "action": "Speaks directly to camera expressing doubt that the tool can straighten her hair in one pass.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.5,
+    "end_s": 6.8,
+    "shot_type": "medium shot",
+    "visual": "Creator takes a section of curly hair and runs the straightener through it once.",
+    "action": "Glides straightener down the hair strand, inspects the perfectly straight result, and smiles in shock.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 8.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds up the pink steam straightener facing forward.",
+    "action": "Shows the tool to the camera and gestures towards it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 10.0,
+    "shot_type": "close-up",
+    "visual": "Creator filling the tool's water reservoir using a dropper bottle.",
+    "action": "Squeezes water into the straightener steam chamber.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.0,
+    "end_s": 11.4,
+    "shot_type": "medium shot",
+    "visual": "Creator showing her full long curly hair before styling.",
+    "action": "Touches and shakes her thick curly hair, smiling enthusiastically.",
+    "product_visible": false
+   },
+   {
+    "start_s": 11.4,
+    "end_s": 13.5,
+    "shot_type": "medium shot",
+    "visual": "Creator sections the top half of her hair with a hair clip and brushes through the bottom layer.",
+    "action": "Clips hair on top of head and detangles bottom length.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 14.8,
+    "shot_type": "close-up",
+    "visual": "Handheld product shot of the Wavytalk Steam Pro Straightener in bathroom mirror reflection.",
+    "action": "Displays the sleek pink body and comb/steam plate design.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 16.5,
+    "shot_type": "medium shot",
+    "visual": "Creator points to the straightener then clamps it onto a section of hair.",
+    "action": "Starts gliding the steam brush through hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 20.5,
+    "shot_type": "medium shot",
+    "visual": "Creator shows two straight, shiny sections alongside unstyled sections, then straightens another strand.",
+    "action": "Demonstrates the contrast and continues straightening hair swiftly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.5,
+    "end_s": 26.5,
+    "shot_type": "medium shot",
+    "visual": "Creator straightens the upper and front sections of her hair.",
+    "action": "Clamps near the roots and glides down the long hair shaft smoothly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 29.5,
+    "shot_type": "medium shot",
+    "visual": "Creator admiring her fully straightened, glossy, waist-length hair.",
+    "action": "Runs fingers through the sleek strands and smiles happily into the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 29.5,
+    "end_s": 32.74,
+    "shot_type": "medium shot",
+    "visual": "Back and front view of the finished silky hair, then creator gives thumbs up and holds the straightener.",
+    "action": "Turns to show straight back hair, turns forward, gives double thumbs up, and flashes an OK sign next to the tool with promo code on screen.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink steam straightener in front of bathroom door with text 'Testing out the Wavytalk Steam Pro Straightener 😳'.",
+   "visual_0_3s": "Creator holding the tool while speaking doubtfully about its straightening power on her long curly hair.",
+   "spoken_0_3s": "There's literally no way that this can flatten my hair in one pass.",
+   "text_0_3s": "Testing out the Wavytalk Steam Pro Straightener 😳",
+   "hook_type": "curiosity_gap",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Challenging statement doubting the product followed immediately by a single-pass live demonstration proving her wrong."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Skepticism hook challenging the one-pass claim",
+    "Immediate live test on one curly strand demonstrating instant result",
+    "Admission of being wrong and viral TikTok context",
+    "Feature explanation focusing on steam locking in hydration",
+    "Speed proof (2 sections in 5 min, entire head in 20 min)",
+    "Final result showcase and creator reaction",
+    "Discount code call-to-action"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "frizz_or_curly_solution",
+    "social_proof_popularity",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Flattens and straightens hair in one single pass",
+    "Uses steam technology to lock in hydration",
+    "Styles two large sections in 5 minutes",
+    "Flat irons thick waist-length hair in only 20 minutes",
+    "Leaves hair looking silky and sleek"
+   ],
+   "pain_points": [
+    "Thick curly long hair takes forever to straighten",
+    "Heat styling usually dehydrates and damages hair",
+    "Needing multiple passes to flatten stubborn curls"
+   ],
+   "objections_handled": [
+    "Will it work on really long curly hair? (Shown working immediately on very long curls)",
+    "Does it take too long? (Completed entire head in only 20 minutes)",
+    "Will it dry out my hair? (Steam feature locks in moisture)"
+   ],
+   "social_proof": [
+    "Seen all over TikTok"
+   ],
+   "comparison_to": "Traditional flat irons"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steam Pro Straightener"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 3.8,
+   "final_result_shown_s": 26.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "25% off",
+   "price_mentioned": "",
+   "discount_code": "marley25",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "Use code marley25 for 25% off!",
+   "cta_at_s": 29.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "Marley",
+   "age_range": "18-24",
+   "hair_before": "Waist-length, brunette, curly/wavy hair",
+   "hair_after": "Waist-length, pin-straight, glossy brunette hair",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, energetic, impressed"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat background instrumental pop/electronic track under voiceover, fading up at the end.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 11,
+   "avg_shot_length_s": 2.73,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts",
+    "text overlay"
+   ],
+   "ending": "Creator turns around showing off long silky hair, gives thumbs up and OK sign holding the tool with promo code on screen."
+  },
+  "notes": "English UGC video created by Marley testing the Wavytalk Steam Pro Straightener, reused as paid Meta ad traffic for Middle East / Lebanon distributor."
+ }
+}

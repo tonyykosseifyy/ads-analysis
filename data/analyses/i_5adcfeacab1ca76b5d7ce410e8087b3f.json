@@ -1,0 +1,144 @@
+{
+ "media_key": "i_5adcfeacab1ca76b5d7ce410e8087b3f",
+ "analyzed_at": "2026-11-28T00:26:36+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "408665d292dbc868131eb7d9961eed9f6a6e0050a81c78d9f810e2f796e39bd2",
+ "source": {
+  "kind": "image",
+  "id": "5adcfeacab1ca76b5d7ce410e8087b3f"
+ },
+ "role": "rotating",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "Static Black Friday promotional image for the WavyTalk Steambrush Pro offering up to 28% off.",
+  "full_description": "A clean, minimalist studio product shot featuring the blush pink WavyTalk Steambrush Pro standing upright with visible steam mist emitting from its heated bristle head. A delicate pastel pink satin ribbon winds gracefully around the device against a soft off-white gradient background. On the left side, bold typographic copy displays the 'WAVYTALK' logo along with 'UP TO 28% OFF' and 'Black Friday'.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "UP TO 28% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Black Friday",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "product shot",
+    "visual": "A light pink WavyTalk Steambrush Pro standing upright with active steam mist emitting from the brush head, intertwined with a flowing pink satin ribbon on a studio backdrop with promotional text on the left.",
+    "action": "Static product display with simulated steam and ribbon accent.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Static graphic showing the WavyTalk Steambrush Pro alongside bold 'UP TO 28% OFF Black Friday' promotional text and elegant pink ribbon.",
+   "visual_0_3s": "Static graphic showing the WavyTalk Steambrush Pro alongside bold 'UP TO 28% OFF Black Friday' promotional text and elegant pink ribbon.",
+   "spoken_0_3s": "",
+   "text_0_3s": "WAVYTALK UP TO 28% OFF Black Friday",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "product_reveal",
+   "pattern_interrupt": "Prominent floating silk ribbon accentuating a steaming straightener brush with large high-contrast discount text."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Brand recognition (WAVYTALK logo)",
+    "High-discount announcement (UP TO 28% OFF)",
+    "Seasonal event context (Black Friday)",
+    "Hero product visualization (Steambrush Pro with active steam)"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "gift_or_occasion",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Up to 28% discount for Black Friday"
+   ],
+   "pain_points": [],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Steambrush Pro"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "Up to 28% off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Black Friday",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "studio",
+   "faces_camera": false,
+   "energy_tone": ""
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "steam effect",
+    "digital rendering",
+    "ribbon overlay"
+   ],
+   "ending": "Static image"
+  },
+  "notes": "Static ad creative for WavyTalk Lebanon running during the Black Friday campaign, highlighting the Steambrush Pro."
+ }
+}

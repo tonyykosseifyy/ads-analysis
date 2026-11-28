@@ -1,0 +1,182 @@
+{
+ "media_key": "v_1769913968017984",
+ "analyzed_at": "2026-11-28T00:08:20+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "7d433ba2fce6562aa4fee801758b635814918989a892173a308ea87dde4f211f",
+ "source": {
+  "kind": "video",
+  "id": "1769913968017984",
+  "video_id": "1714031769699453",
+  "length_s": 28.746,
+  "permalink": "/23849366283980795/videos/1714031769699453/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 29.4,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A mother and daughter with exceptionally long, wavy hair demonstrate effortless straightening using a heated hair straightening brush.",
+  "full_description": "The video features a mother and young daughter sitting on a sofa showcasing their voluminous, waist-length wavy hair. The mother holds up a white thermal hair straightening brush (Steambrush Pro) to the camera. She takes sections of the daughter's blonde hair and glides the brush through, instantly leaving it pin-straight, smooth, and glossy. Next, the mother uses the heated brush on her own thick, dark brown hair, achieving the same sleek result in single passes. The video ends with both mother and daughter flaunting their completely straightened, cascading locks with satisfied smiles.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.7,
+    "shot_type": "medium shot",
+    "visual": "A woman and a young girl sitting together on a couch, displaying their massive, thick, wavy, ultra-long hair.",
+    "action": "Both run their hands through their voluminous hair, showcasing the natural texture before styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 3.4,
+    "shot_type": "close-up",
+    "visual": "Close-up shot of the white heated straightening brush held in the woman's hand.",
+    "action": "She rotates the tool to display its comb bristles and design.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 8.5,
+    "shot_type": "medium shot",
+    "visual": "The mother uses the straightening brush on the front section of the young girl's long blonde hair.",
+    "action": "She glides the heated brush down the strands, immediately transforming the wavy hair into a silky straight curtain.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 12.8,
+    "shot_type": "medium close-up",
+    "visual": "The girl sitting sideways while the mother straightens the back and side sections of her hair.",
+    "action": "The brush glides through from root to tip, showing perfectly straight and reflective hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 18.2,
+    "shot_type": "medium close-up",
+    "visual": "The mother now straightens her own dark brown hair.",
+    "action": "She brushes through a thick section in front of her face, leaving it instantly straight, flat, and shiny.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 22.8,
+    "shot_type": "medium close-up",
+    "visual": "The mother continues straightening another side of her hair.",
+    "action": "She pulls the heated comb slowly down the hair length to the ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 29.4,
+    "shot_type": "medium shot",
+    "visual": "Final reveal showing both the mother and daughter with fully straightened, sleek, floor-length glossy hair.",
+    "action": "The mother shakes out her shiny straight hair, smiles at the camera, and fans out her daughter's straight hair over the sofa.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Mother and daughter sitting on a sofa shaking their voluminous, extra-long natural wavy hair.",
+   "visual_0_3s": "Fluffing of massive wavy hair followed by an immediate product close-up.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "before_after",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Impressive length and volume of natural hair shown instantly before demonstrating an effortless 1-pass transformation."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Showcase massive natural wavy long hair",
+    "Introduce the heated straightening brush",
+    "First pass demo on daughter's hair showing instant silky straightness",
+    "Self-application demo on mother's thick dark hair",
+    "Final dramatic reveal of ultra-long, sleek hair for both"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "easy_for_beginners",
+    "frizz_or_curly_solution"
+   ],
+   "key_claims": [
+    "Straightens very long, thick, wavy hair in single effortless passes",
+    "Leaves hair silky, smooth, and glossy without pulling"
+   ],
+   "pain_points": [
+    "Straightening very long or thick hair takes too long",
+    "Frizz and uneven texture"
+   ],
+   "objections_handled": [
+    "Works effortlessly even on extreme hair lengths and thick textures",
+    "Gentle enough to use on children's hair"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional flat irons that require clamping small sections"
+  },
+  "product": {
+   "products_shown": [
+    "Steambrush Pro / Heated Hair Straightening Brush"
+   ],
+   "first_seen_s": 1.7,
+   "first_used_on_hair_s": 3.4,
+   "final_result_shown_s": 23.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 2,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "Woman 25-34, girl 6-10",
+   "hair_before": "Extra long (waist to hip length), thick, textured wavy hair (dark brown for the mother, light golden brown for the daughter)",
+   "hair_after": "Ultra-sleek, pin-straight, reflective, and frizz-free hair",
+   "setting": "Living room / bedroom couch with modern minimalist decor in the background",
+   "faces_camera": true,
+   "energy_tone": "Satisfied, playful, confident, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat electronic dance track featuring rhythmic vocal chops and a driving club beat",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 4.2,
+   "pacing": "medium",
+   "effects": [
+    "speed cuts",
+    "hair glide transition"
+   ],
+   "ending": "Mother spreads daughter's shiny straight hair across her lap while both smile directly into the camera."
+  },
+  "notes": "Silent demonstration video driven entirely by visual proof of hair transformation on extreme hair lengths. Highly viral format suited for TikTok and Meta Reels."
+ }
+}

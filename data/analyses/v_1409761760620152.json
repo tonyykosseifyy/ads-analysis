@@ -1,0 +1,213 @@
+{
+ "media_key": "v_1409761760620152",
+ "analyzed_at": "2026-11-28T00:26:21+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "f90b79bdd3523f513a0389541e71da0c045d1dcdf77f07a5336d770143b1574f",
+ "source": {
+  "kind": "video",
+  "id": "1409761760620152",
+  "video_id": "2096150557849790",
+  "length_s": 29.666,
+  "permalink": "/23849366283980795/videos/2096150557849790/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 29.6,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A curly-haired creator demos the WavyTalk Blowout Boost thermal round brush, transforming curly hair into a bouncy salon blowout.",
+  "full_description": "A curly-haired woman sits on a bed and addresses curly-haired viewers, claiming the brush works wonders. She detangles, sections her hair, and styles it using the WavyTalk Blowout Boost thermal heated round brush. After showing the smooth half-done result, a close-up shows the digital display on the handle. The video concludes with her fully styled blowout and pointing down to shop.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Curly haired girls, this brush works wonders.",
+    "text_english": "Curly haired girls, this brush works wonders."
+   }
+  ],
+  "transcript_full_original": "Curly haired girls, this brush works wonders.",
+  "transcript_full_english": "Curly haired girls, this brush works wonders.",
+  "word_count": 7,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "text": "Curly haired girls",
+    "role": "hook"
+   },
+   {
+    "start_s": 0.9,
+    "end_s": 2.8,
+    "text": "this brush works wonders",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.0,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting cross-legged on a bed holding the pink WavyTalk Blowout Boost brush talking directly to the camera.",
+    "action": "Addresses curly-haired viewers with product in hand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 5.5,
+    "shot_type": "medium shot",
+    "visual": "Creator brushing through her naturally curly dark hair with a paddle detangling brush.",
+    "action": "Detangling hair prior to heat styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 6.5,
+    "shot_type": "medium shot",
+    "visual": "Creator clips up the top section of her hair to prepare for styling.",
+    "action": "Sectioning hair with a hair clip.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.5,
+    "end_s": 13.5,
+    "shot_type": "medium shot",
+    "visual": "Creator wraps a section of hair around the heated round brush and glides it down to smooth and curl.",
+    "action": "Demonstrating the Blowout Boost styling process step by step.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 18.5,
+    "shot_type": "medium shot",
+    "visual": "Creator inspects and runs her fingers through the styled, smoothed section contrasting with the unstyled side.",
+    "action": "Checking and showing off the half-finished blowout result.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 20.0,
+    "shot_type": "close-up",
+    "visual": "Close-up of hands holding the pink thermal brush handle displaying the digital temperature readout.",
+    "action": "Pressing the button on the handle to show temperature controls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 26.5,
+    "shot_type": "medium shot",
+    "visual": "Creator sits smiling with fully styled, voluminous, shiny hair holding the product.",
+    "action": "Running fingers through finished blowout and tossing hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 29.6,
+    "shot_type": "medium shot",
+    "visual": "Creator points both index fingers downwards toward the screen caption while holding the brush, with a red animated down arrow graphic.",
+    "action": "Directing viewers to click the link/order below.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator sitting cross-legged on a bed in front of the camera holding the pink WavyTalk thermal brush.",
+   "visual_0_3s": "Creator talking excitedly directly to camera holding the tool with burned-in text 'Curly haired girls'.",
+   "spoken_0_3s": "Curly haired girls, this brush works wonders.",
+   "text_0_3s": "Curly haired girls this brush works wonders",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Direct audience callout calling on curly haired girls specifically, followed by a white flash cut into the demo."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Audience callout to curly haired girls",
+    "Hair prep and sectioning",
+    "Thermal brush application and smoothing",
+    "Half-head reveal",
+    "Feature highlight (digital temperature display)",
+    "Full final blowout reveal and gesture call to action"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Works wonders on curly hair"
+   ],
+   "pain_points": [
+    "Difficult curly or frizzy hair that takes effort to smooth out"
+   ],
+   "objections_handled": [
+    "Can it straighten and smooth textured/curly hair? Demonstrated effectively on natural curls."
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 6.5,
+   "final_result_shown_s": 14.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": 26.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Naturally curly/wavy, dark brown/black, shoulder length",
+   "hair_after": "Smooth, voluminous blowout with flipped soft curls at the ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident and relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Trending R&B pop song ('Obsessed' by Mariah Carey) playing from 00:03 until the end.",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 3.7,
+   "pacing": "fast",
+   "effects": [
+    "white flash transitions",
+    "animated red arrow pointer graphic"
+   ],
+   "ending": "Creator sits holding the brush and points down towards the caption link."
+  },
+  "notes": "Targeted at curly haired women in the Lebanese market looking for a quick blowout solution. Clean bedroom UGC setup."
+ }
+}

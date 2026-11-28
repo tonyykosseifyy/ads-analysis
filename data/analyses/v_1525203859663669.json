@@ -1,0 +1,214 @@
+{
+ "media_key": "v_1525203859663669",
+ "analyzed_at": "2026-11-28T00:26:11+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "0e0f6e08520866411c3029a5c72169a10049faf7412b2a17cd58f2c89995bcf3",
+ "source": {
+  "kind": "video",
+  "id": "1525203859663669",
+  "ig_media_id": "18135401251615465",
+  "permalink": "https://www.instagram.com/p/DgDtzqMMxnU/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 17.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates transforming thick, voluminous curly hair into sleek straight hair using a heated straightening brush.",
+  "full_description": "A creator with voluminous curly hair touches her curls, covers the camera lens with her hand, and reveals a quick glimpse of silky straight hair before returning to the start of the routine. She shows the light blue heated straightening brush, brushes out her curls into high volume, sections her hair into space buns, and glides the heated brush through sections of hair. After showing a halfway comparison (one side brushed-out/frizzy, one side straight), she straightens the rest and poses showing the smooth, shiny final result.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 9.2,
+    "end_s": 10.7,
+    "text": "Halfway 😩",
+    "role": "other"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing camera showing thick, natural curly hair, moving hand toward camera lens",
+    "action": "Creator fluffs her curls and blocks the lens with her palm",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.5,
+    "end_s": 2.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator revealing straightened hair as she pulls her hand back from the camera",
+    "action": "Creator poses showing smooth, glossy straightened hair as a hook tease",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 4.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator back with curly hair holding the light blue straightening brush tool",
+    "action": "Creator holds the tool beside her head to introduce it",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 5.5,
+    "shot_type": "medium shot",
+    "visual": "Creator brushing her curly hair out with a regular paddle brush",
+    "action": "Creator brushes curls into a large, frizzy, voluminous poof",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 6.6,
+    "shot_type": "medium shot",
+    "visual": "Creator styling hair into two high space buns to section it",
+    "action": "Creator twists hair into buns leaving lower layers out",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.6,
+    "end_s": 9.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator using the heated straightening brush on a section of hair",
+    "action": "Creator slowly glides the straightening brush through the section, turning it pin-straight",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.1,
+    "end_s": 10.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator showing half curly/brushed out hair and half straightened hair with on-screen text",
+    "action": "Creator looks at camera displaying the direct contrast between both sides",
+    "product_visible": false
+   },
+   {
+    "start_s": 10.8,
+    "end_s": 12.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator straightening the second side of her hair with the tool",
+    "action": "Creator passes the heated brush down the remaining side",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 15.6,
+    "shot_type": "medium shot",
+    "visual": "Creator showing full sleek, shiny, straightened hair result in room setting",
+    "action": "Creator runs fingers through smooth hair and admires the result",
+    "product_visible": false
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 17.5,
+    "shot_type": "end card",
+    "visual": "Black screen with CapCut logo and animation",
+    "action": "CapCut outro template",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing thick voluminous brunette curly hair",
+   "visual_0_3s": "Creator shows curls, covers camera with palm, and transitions to reveal glossy straight hair",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "result_first",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Rapid hand-to-lens transition giving an immediate 1-second preview of the final straightened result"
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Quick transition tease showing the final straight result",
+    "Product reveal alongside original curly hair",
+    "Hair prep: brushing curls into volume and sectioning into buns",
+    "Straightening brush demo showing single-pass smoothing",
+    "Halfway split comparison shot",
+    "Finishing other side and final result reveal"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners",
+    "saves_time"
+   ],
+   "key_claims": [
+    "Straightens thick, frizzy, curly hair easily",
+    "Leaves hair sleek, shiny, and smooth"
+   ],
+   "pain_points": [
+    "Difficult and frizzy curly hair styling",
+    "Complicated and time-consuming flat-iron straightening"
+   ],
+   "objections_handled": [
+    "Effectiveness on very thick, voluminous, curly hair"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk heated straightening brush"
+   ],
+   "first_seen_s": 2.8,
+   "first_used_on_hair_s": 6.6,
+   "final_result_shown_s": 1.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Thick, voluminous, curly dark brown hair (3B/3C)",
+   "hair_after": "Silky, bone-straight, shiny dark brown hair with subtle face-framing lighter highlights",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Confident, effortless, satisfying"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Mid-tempo hip-hop/R&B track with male rap vocals",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 1.9,
+   "pacing": "fast",
+   "effects": [
+    "hand cover lens wipe transition",
+    "jump cuts"
+   ],
+   "ending": "CapCut logo outro card"
+  },
+  "notes": "Video concludes with an unedited CapCut default watermark end screen from 15.6s to 17.5s. No spoken audio or verbal call to action."
+ }
+}

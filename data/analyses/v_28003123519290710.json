@@ -1,0 +1,169 @@
+{
+ "media_key": "v_28003123519290710",
+ "analyzed_at": "2026-11-28T00:52:23+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "6fba4572ac0a989ee8328501289f9e3d4d8bb45d8f2080e5c1cd3db944e9fc0c",
+ "source": {
+  "kind": "video",
+  "id": "28003123519290710",
+  "video_id": "1630552741386568",
+  "length_s": 11.33,
+  "permalink": "/23849366283980795/videos/1630552741386568/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 10.38,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates the Wavytalk Blowout Boost thermal round brush to show skeptical viewers how it creates a bouncy blowout.",
+  "full_description": "A silent UGC-style demo video featuring a young woman who starts with the skeptical hook 'I didn't believe this would actually work' while holding the pink Wavytalk thermal round brush. She styles sections of her long brunette hair by curling and brushing them with the heated round brush, then reveals the final voluminous 90s-style blowout result with styled curtain bangs and bouncy ends set to trending R&B background music.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 10.38,
+    "text": "I didn't believe this would actually work",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.15,
+    "shot_type": "medium shot",
+    "visual": "Creator facing camera holding the pink Wavytalk thermal round brush upright next to her hair, looking skeptical.",
+    "action": "Creator holds the heated round brush in front of the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.15,
+    "end_s": 4.5,
+    "shot_type": "medium shot",
+    "visual": "Creator running the thermal round brush down a sectioned piece of her dark hair.",
+    "action": "Creator rolls and glides the thermal brush through the hair strand to curl the end.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 6.35,
+    "shot_type": "medium shot",
+    "visual": "Creator rolling an upper section of hair around the brush over her head.",
+    "action": "Creator twists and releases the top layer of hair from the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.35,
+    "end_s": 8.7,
+    "shot_type": "medium shot",
+    "visual": "Creator revealing completed bouncy, voluminous blowout hair.",
+    "action": "Creator fluffs and shakes her hair with both hands, posing for the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 10.38,
+    "shot_type": "close-up",
+    "visual": "Close-up profile and front view of creator showing the layered bounce, curtain bangs, and volume.",
+    "action": "Creator turns head side-to-side and touches her styled layered hair.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Young brunette woman looking straight at camera holding the pink Wavytalk thermal brush with overlay text 'I didn't believe this would actually work'.",
+   "visual_0_3s": "Creator presents the tool and starts curling her hair section.",
+   "spoken_0_3s": "",
+   "text_0_3s": "I didn't believe this would actually work",
+   "hook_type": "curiosity_gap",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Direct skepticism hook in text overlay contrasting with immediate demonstration."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Skepticism hook introducing the tool",
+    "Application demo curling mid-lengths and ends",
+    "Final big bouncy blowout reveal showing volume and shine"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Creates a voluminous salon blowout easily at home even if you were skeptical"
+   ],
+   "pain_points": [
+    "Difficulty getting salon blowout volume and curls at home"
+   ],
+   "objections_handled": [
+    "Whether the heated round brush actually works on thick long hair"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 1.15,
+   "final_result_shown_s": 6.35,
+   "demo_clarity": "partial",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, thick dark brown/black hair, partially clipped up, slightly wavy/straight",
+   "hair_after": "Voluminous, shiny 90s blowout with bouncy inward curls and framed curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, stylish, effortless"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Smooth chill R&B / hip hop vocal track ('I'm chillin', I'm good... I'm kickin' back and I'm cool')",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 2.6,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts",
+    "text overlay"
+   ],
+   "ending": "Posing and running hands through bouncy styled hair"
+  },
+  "notes": "Short, trendy organic UGC-style aesthetic ad optimized for TikTok/Reels feed engagement using a viral curiosity hook text overlay."
+ }
+}

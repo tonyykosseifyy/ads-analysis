@@ -1,0 +1,286 @@
+{
+ "media_key": "v_1204901478262949",
+ "analyzed_at": "2026-11-28T01:03:27+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "d2c001db91a7b9308139294f865efc32ece61dc6f56b0f9c824f1dd81937f298",
+ "source": {
+  "kind": "video",
+  "id": "1204901478262949",
+  "video_id": "1367400121227051",
+  "length_s": 30.487,
+  "permalink": "/23849366283980795/videos/1367400121227051/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 30.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates how the Wavytalk Blowout Boost thermal round brush creates smooth, bouncy salon-style blowout curls at home without damage.",
+  "full_description": "A young female creator showcases the pink Wavytalk Blowout Boost thermal brush in a well-lit bedroom setting. She begins by showing a half-done hair contrast, introduces the device close-up, applies hair spray, and demonstrates curling and smoothing sections of her hair. She highlights features like negative ion technology, adjustable heat settings, and snag-free gliding before showing the completed shiny, bouncy blowout from both front and back.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is my favorite hair tool for a reason. Look at that difference. Like,",
+    "text_english": "This is my favorite hair tool for a reason. Look at that difference. Like,"
+   },
+   {
+    "start_s": 2.3,
+    "end_s": 5.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "this is the Wavytalk Blowout Boost.",
+    "text_english": "this is the Wavytalk Blowout Boost."
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 10.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I've been trying to be more careful with heat styling lately, so I love that this brush uses negative ion technology to cut down on damage.",
+    "text_english": "I've been trying to be more careful with heat styling lately, so I love that this brush uses negative ion technology to cut down on damage."
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 14.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I love that this one has an adjustable heat setting, so you can set it to whatever your hair needs.",
+    "text_english": "I love that this one has an adjustable heat setting, so you can set it to whatever your hair needs."
+   },
+   {
+    "start_s": 14.9,
+    "end_s": 17.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And it just glides through my hair so easily without tugging.",
+    "text_english": "And it just glides through my hair so easily without tugging."
+   },
+   {
+    "start_s": 17.9,
+    "end_s": 21.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I feel like it just cuts down all the frizziness and leaves my hair so sleek.",
+    "text_english": "I feel like it just cuts down all the frizziness and leaves my hair so sleek."
+   },
+   {
+    "start_s": 21.7,
+    "end_s": 24.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And we're done. Comes out perfect literally every time.",
+    "text_english": "And we're done. Comes out perfect literally every time."
+   },
+   {
+    "start_s": 24.4,
+    "end_s": 26.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And it looks and feels just like a salon blowout at home.",
+    "text_english": "And it looks and feels just like a salon blowout at home."
+   },
+   {
+    "start_s": 26.9,
+    "end_s": 30.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Here's what it looks like from the back. So bouncy, so much...",
+    "text_english": "Here's what it looks like from the back. So bouncy, so much..."
+   }
+  ],
+  "transcript_full_original": "This is my favorite hair tool for a reason. Look at that difference. Like, this is the Wavytalk Blowout Boost. I've been trying to be more careful with heat styling lately, so I love that this brush uses negative ion technology to cut down on damage. I love that this one has an adjustable heat setting, so you can set it to whatever your hair needs. And it just glides through my hair so easily without tugging. I feel like it just cuts down all the frizziness and leaves my hair so sleek. And we're done. Comes out perfect literally every time. And it looks and feels just like a salon blowout at home. Here's what it looks like from the back. So bouncy, so much...",
+  "transcript_full_english": "This is my favorite hair tool for a reason. Look at that difference. Like, this is the Wavytalk Blowout Boost. I've been trying to be more careful with heat styling lately, so I love that this brush uses negative ion technology to cut down on damage. I love that this one has an adjustable heat setting, so you can set it to whatever your hair needs. And it just glides through my hair so easily without tugging. I feel like it just cuts down all the frizziness and leaves my hair so sleek. And we're done. Comes out perfect literally every time. And it looks and feels just like a salon blowout at home. Here's what it looks like from the back. So bouncy, so much...",
+  "word_count": 105,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.4,
+    "text": "the only hair tool you'll ever need !!",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.4,
+    "shot_type": "medium shot",
+    "visual": "Creator standing facing camera holding the pink heated brush, showing one side styled with blowout curls and the other straight/unstyled.",
+    "action": "Creator gestures to both sides of her hair showing the difference.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 5.5,
+    "shot_type": "close-up",
+    "visual": "Creator holding the Wavytalk Blowout Boost heated round brush up to the camera.",
+    "action": "Showing the digital temperature display and pink barrel design.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 6.8,
+    "shot_type": "medium shot",
+    "visual": "Creator spraying hair product onto her hair.",
+    "action": "Spraying heat protectant into her dark hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 10.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator rolling a section of hair around the thermal brush barrel.",
+    "action": "Rolling hair upwards towards roots, holding, and rolling down.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 14.8,
+    "shot_type": "medium shot",
+    "visual": "Creator releasing a curled section of hair from the brush.",
+    "action": "Twisting the brush out smoothly leaving a bouncy wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 17.8,
+    "shot_type": "close-up",
+    "visual": "Macro close-up of brush bristles gliding through strands of hair.",
+    "action": "Pulling brush taut through hair without tangling.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.8,
+    "end_s": 21.6,
+    "shot_type": "medium shot",
+    "visual": "Creator facing camera talking and holding brush, showing smooth voluminous hair.",
+    "action": "Gesturing along hair shafts showing lack of frizz.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.6,
+    "end_s": 26.8,
+    "shot_type": "close-up / medium shot",
+    "visual": "Creator fluffing and adjusting finished blowout hair with both hands.",
+    "action": "Running fingers through bouncy layered blowout.",
+    "product_visible": false
+   },
+   {
+    "start_s": 26.8,
+    "end_s": 30.0,
+    "shot_type": "medium shot (back view)",
+    "visual": "Creator turns back to camera displaying thick, shiny, bouncy cascading waves.",
+    "action": "Swishing hair back and forth to show volume and bounce.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera holding the pink brush, with one side of hair blown out and the other flat.",
+   "visual_0_3s": "Side-by-side comparison on the creator's own head showing the difference between styled and unstyled hair.",
+   "spoken_0_3s": "This is my favorite hair tool for a reason. Look at that difference. Like,",
+   "text_0_3s": "the only hair tool you'll ever need !!",
+   "hook_type": "before_after",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Immediate visual split on her head showing styled vs unstyled hair with bold assertion."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook displaying immediate difference between styled and unstyled side",
+    "Product close-up reveal and key tech specs (negative ions, heat control)",
+    "Step-by-step styling demonstration emphasizing ease and smooth glide",
+    "Benefit showcase: frizz control, sleek shine, zero tugging",
+    "Final look reveal with full bounce and 360-degree hair display"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "less_heat_damage",
+    "volume_and_bounce",
+    "frizz_or_curly_solution"
+   ],
+   "key_claims": [
+    "Negative ion technology reduces heat damage",
+    "Adjustable heat settings for any hair type",
+    "Glides smoothly without tugging or pulling",
+    "Eliminates frizz and creates sleek salon blowout results"
+   ],
+   "pain_points": [
+    "Heat damage from styling tools",
+    "Tugging, pulling and tangling during blowout",
+    "Frizzy and unmanageable hair",
+    "Expensive or time-consuming salon blowouts"
+   ],
+   "objections_handled": [
+    "Fear of heat damage addressed via negative ion technology and adjustable heat settings",
+    "Fear of hair getting caught addressed by demonstrating smooth glide without tugging"
+   ],
+   "social_proof": [],
+   "comparison_to": "Salon blowout"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 6.8,
+   "final_result_shown_s": 21.6,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Dark brown/black medium-long straight/unstyled hair",
+   "hair_after": "Voluminous, shiny, bouncy salon blowout with curled ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, authentic, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Soft upbeat modern pop background beat",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 3.75,
+   "pacing": "medium",
+   "effects": [
+    "quick jump cuts",
+    "close-up detail insert"
+   ],
+   "ending": "Creator turns back to camera, swishing bouncy hair from the rear before video loops."
+  },
+  "notes": "Ad links to Blowout Boost in Lebanon. Clean UGC format that relies on strong visual demonstration and direct feature-to-benefit explanation."
+ }
+}

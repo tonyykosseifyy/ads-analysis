@@ -1,0 +1,426 @@
+{
+ "media_key": "v_25615494364788220",
+ "analyzed_at": "2026-11-28T00:14:40+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "68a196b390f7c046a6b30774dede91ff68255f952c78842703a22077a6638086",
+ "source": {
+  "kind": "video",
+  "id": "25615494364788220",
+  "video_id": "1839262836722592",
+  "length_s": 36.896,
+  "permalink": "/23849366283980795/videos/1839262836722592/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 37.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator compares hair straightened with the Wavytalk Steamline Pro steam brush against a traditional flat iron, showing smoother, hydrated, frizz-free results.",
+  "full_description": "The creator starts by presenting a half-and-half comparison of her hair: one side styled with the Wavytalk Steamline Pro steam straightener brush and the other with a traditional flat iron. She demonstrates how the flat iron side is dry and frizzy in humidity, while the steam side is glossy, silky, and hydrated. She then holds up the white Wavytalk Steamline Pro, sections her hair, and straightens the frizzy side on camera with a few gliding strokes. She showcases the final salon-gloss finish and explains how targeted steam styles with less heat damage.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "This is my hair straightened with the Steamline Pro,",
+    "text_english": "This is my hair straightened with the Steamline Pro,"
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 3.9,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "and this is my hair straightened with a flat iron.",
+    "text_english": "and this is my hair straightened with a flat iron."
+   },
+   {
+    "start_s": 3.9,
+    "end_s": 5.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "The differences are insane.",
+    "text_english": "The differences are insane."
+   },
+   {
+    "start_s": 5.6,
+    "end_s": 8.4,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "The side with the Steamline feels silky and smooth,",
+    "text_english": "The side with the Steamline feels silky and smooth,"
+   },
+   {
+    "start_s": 8.4,
+    "end_s": 11.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "but also hydrated because of the steam.",
+    "text_english": "but also hydrated because of the steam."
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 13.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "This side with the flat iron feels really dry and frizzy,",
+    "text_english": "This side with the flat iron feels really dry and frizzy,"
+   },
+   {
+    "start_s": 13.6,
+    "end_s": 15.7,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "not the vibe, especially in this humidity.",
+    "text_english": "not the vibe, especially in this humidity."
+   },
+   {
+    "start_s": 15.7,
+    "end_s": 19.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "So we're gonna go in and fix it with this Steamline Pro so I don't look crazy anymore.",
+    "text_english": "So we're gonna go in and fix it with this Steamline Pro so I don't look crazy anymore."
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 23.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I really love this tool because it uses targeted steam to hydrate as it styles,",
+    "text_english": "I really love this tool because it uses targeted steam to hydrate as it styles,"
+   },
+   {
+    "start_s": 23.6,
+    "end_s": 26.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "giving you smoother results and all day shine,",
+    "text_english": "giving you smoother results and all day shine,"
+   },
+   {
+    "start_s": 26.6,
+    "end_s": 29.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "almost as if I got a gloss done at the salon.",
+    "text_english": "almost as if I got a gloss done at the salon."
+   },
+   {
+    "start_s": 29.6,
+    "end_s": 31.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Plus, there's way less heat damage.",
+    "text_english": "Plus, there's way less heat damage."
+   },
+   {
+    "start_s": 31.5,
+    "end_s": 33.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "If you demand results while protecting your hair,",
+    "text_english": "If you demand results while protecting your hair,"
+   },
+   {
+    "start_s": 33.6,
+    "end_s": 35.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "this tool is the way to go.",
+    "text_english": "this tool is the way to go."
+   },
+   {
+    "start_s": 35.3,
+    "end_s": 37.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "We know who the clear winner is.",
+    "text_english": "We know who the clear winner is."
+   }
+  ],
+  "transcript_full_original": "This is my hair straightened with the Steamline Pro, and this is my hair straightened with a flat iron. The differences are insane. The side with the Steamline feels silky and smooth, but also hydrated because of the steam. This side with the flat iron feels really dry and frizzy, not the vibe, especially in this humidity. So we're gonna go in and fix it with this Steamline Pro so I don't look crazy anymore. I really love this tool because it uses targeted steam to hydrate as it styles, giving you smoother results and all day shine, almost as if I got a gloss done at the salon. Plus, there's way less heat damage. If you demand results while protecting your hair, this tool is the way to go. We know who the clear winner is.",
+  "transcript_full_english": "This is my hair straightened with the Steamline Pro, and this is my hair straightened with a flat iron. The differences are insane. The side with the Steamline feels silky and smooth, but also hydrated because of the steam. This side with the flat iron feels really dry and frizzy, not the vibe, especially in this humidity. So we're gonna go in and fix it with this Steamline Pro so I don't look crazy anymore. I really love this tool because it uses targeted steam to hydrate as it styles, giving you smoother results and all day shine, almost as if I got a gloss done at the salon. Plus, there's way less heat damage. If you demand results while protecting your hair, this tool is the way to go. We know who the clear winner is.",
+  "word_count": 139,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.2,
+    "text": "Steamline Pro vs. Traditional Flat Iron",
+    "role": "hook"
+   },
+   {
+    "start_s": 4.0,
+    "end_s": 5.5,
+    "text": "the differences are insane",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 8.3,
+    "text": "the side with the Steamline feels silky and smooth",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 10.9,
+    "text": "but also hydrated because of the steam",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 13.5,
+    "text": "this side with the flat iron feels really dry and frizzy",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.8,
+    "end_s": 15.6,
+    "text": "not the vibe especially in this humidity",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.8,
+    "end_s": 18.2,
+    "text": "so we're gonna go in and fix it with this Steamline Pro",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 19.8,
+    "text": "so I don't look crazy anymore",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 23.5,
+    "text": "I really love this tool because it uses targeted steam to hydrate as it styles",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.8,
+    "end_s": 26.6,
+    "text": "giving you smoother results and all day shine",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 26.8,
+    "end_s": 29.5,
+    "text": "almost as if I got a gloss done at the salon",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 29.8,
+    "end_s": 31.4,
+    "text": "plus there's way less heat damage",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 31.7,
+    "end_s": 33.6,
+    "text": "if you demand results while protecting your hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 33.7,
+    "end_s": 35.2,
+    "text": "this tool is the way to go",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 35.3,
+    "end_s": 36.7,
+    "text": "we know who the clear winner is",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.9,
+    "shot_type": "close-up",
+    "visual": "Creator running her fingers through the sleek, shiny left side of her hair.",
+    "action": "Displays the silky hair result from the Steamline Pro.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.9,
+    "end_s": 3.8,
+    "shot_type": "close-up",
+    "visual": "Creator pointing at the right side of her hair which is puffy and frizzy.",
+    "action": "Shows the flat ironed side looking dry and frizzy.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 5.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing camera showing both sides side by side.",
+    "action": "Points out the clear contrast between the two sides.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.6,
+    "end_s": 11.0,
+    "shot_type": "close-up",
+    "visual": "Close-up on the Steamline Pro side showing gloss and touchable smoothness.",
+    "action": "Combs through hair with fingers and points at the healthy shine.",
+    "product_visible": false
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 15.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator touches and runs hands through the frizzy, dry side.",
+    "action": "Ruffles the frizzy texture to highlight moisture loss and humidity damage.",
+    "product_visible": false
+   },
+   {
+    "start_s": 15.7,
+    "end_s": 19.8,
+    "shot_type": "medium shot",
+    "visual": "Creator presents the white Wavytalk Steamline Pro to the camera.",
+    "action": "Holds up the tool, pointing her finger and wagging it playfully before showing the bristle face.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 26.6,
+    "shot_type": "close-up",
+    "visual": "Creator glides the Wavytalk Steamline Pro brush through sections of her frizzy hair.",
+    "action": "Demonstrates straightening with steam issuing through the brush teeth.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.6,
+    "end_s": 31.5,
+    "shot_type": "close-up",
+    "visual": "Creator strokes the newly smoothed hair strand.",
+    "action": "Demonstrates the resulting salon-gloss finish and mirror shine.",
+    "product_visible": false
+   },
+   {
+    "start_s": 31.5,
+    "end_s": 33.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator displays both sides fully styled, smooth, and balanced.",
+    "action": "Fluffs her hair over her shoulders.",
+    "product_visible": false
+   },
+   {
+    "start_s": 33.6,
+    "end_s": 37.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the Wavytalk Steamline Pro beside her face.",
+    "action": "Taps the side of the brush with her finger, smiling confidently at the camera.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator stroking sleek hair with text 'Steamline Pro vs. Traditional Flat Iron'.",
+   "visual_0_3s": "Side-by-side hair demonstration comparing glossy hair to frizzy hair.",
+   "spoken_0_3s": "This is my hair straightened with the Steamline Pro, and this is my hair straightened with a flat iron.",
+   "text_0_3s": "Steamline Pro vs. Traditional Flat Iron",
+   "hook_type": "before_after",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Instant split comparison between glass-like sleek hair and dry, frizzy flat-ironed hair."
+  },
+  "structure": {
+   "format": "comparison",
+   "narrative_beats": [
+    "Half-and-half comparison between Steamline Pro and traditional flat iron",
+    "Problem callout: flat irons leave hair dry, frizzy, and vulnerable to humidity",
+    "Solution reveal: introducing the Steamline Pro steam brush",
+    "Live application: gliding the steam brush through frizzy hair to fix it",
+    "Benefit proof: salon gloss, deep hydration, and reduced heat damage",
+    "Conclusion / winner declaration"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "less_heat_damage",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Uses targeted steam to hydrate as it styles",
+    "Smoother results with all-day shine",
+    "Results resemble a salon gloss treatment",
+    "Way less heat damage compared to a traditional flat iron",
+    "Resists humidity and prevents frizz"
+   ],
+   "pain_points": [
+    "Flat irons make hair feel dry and frizzy",
+    "Hair puffs up and frizzes in humidity",
+    "Heat damage from standard flat irons"
+   ],
+   "objections_handled": [
+    "Straightened hair looks flat/lifeless: steam adds hydration, gloss, and movement",
+    "Straightened hair gets ruined by humidity: targeted steam locks in moisture so it stays smooth"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional flat iron"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steamline Pro"
+   ],
+   "first_seen_s": 16.5,
+   "first_used_on_hair_s": 20.2,
+   "final_result_shown_s": 31.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "This tool is the way to go. We know who the clear winner is.",
+   "cta_on_screen": "",
+   "cta_at_s": 33.6
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long light brown hair, half frizzy/dry from flat iron, half smooth from steam brush",
+   "hair_after": "Fully straightened, glossy, hydrated, smooth brunette hair",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, relatable, informative"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle upbeat lo-fi pop background beat playing quietly beneath voiceover.",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 4.1,
+   "pacing": "medium",
+   "effects": [
+    "dynamic on-screen captions",
+    "hook text overlay"
+   ],
+   "ending": "Creator holds the Wavytalk Steamline Pro next to her face, tapping it while looking at the camera."
+  },
+  "notes": "Ad repurposed by WavyTalk Lebanon for social campaigns. Features the Wavytalk Steamline Pro (steam straightening brush) with clear split comparison vs traditional flat iron."
+ }
+}

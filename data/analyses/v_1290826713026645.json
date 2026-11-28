@@ -1,0 +1,263 @@
+{
+ "media_key": "v_1290826713026645",
+ "analyzed_at": "2026-11-28T00:10:04+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "5fe1fb07a091a36c41eb2c3ba93d9983430e8e4b3c8e1508a5acc51a64d0f1bc",
+ "source": {
+  "kind": "video",
+  "id": "1290826713026645",
+  "ig_media_id": "18550033699070857",
+  "permalink": "https://www.instagram.com/p/DW2DB6FDK6w/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 69.2,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Lebanese creator demonstrates the Wavytalk Whirlwind Curl tool by styling a strand in real-time and expressing shock at the quick salon-like results.",
+  "full_description": "A creator films herself in selfie mode holding the pale pink Wavytalk hair styling tool (Whirlwind Curl). She shows the curls she has already created on her dark hair, comparing a subtle bottom wave to a full bounce curl. To prove how quick and easy it is, she does a complete front curl on camera in real time without cuts. After releasing a perfect bouncy ringlet in seconds, she reacts with genuine shock, shows the tool's details up close, and tells viewers to screenshot it and order it from Wavytalk Lebanon.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 70,
+    "en": 25,
+    "fr": 5
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Guys عم بستعمل هيدا الـ new product وبدي بس فرجيكن الـ curls يلي عطاني ياهن.",
+    "text_english": "Guys, I'm using this new product and I just want to show you the curls it gave me."
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 10.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Like there's no way عطاني هيك curl كأنه عند الكوافير!",
+    "text_english": "Like there's no way it gave me such a curl, like at the hairdresser!"
+   },
+   {
+    "start_s": 10.6,
+    "end_s": 15.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "يعني هيدي إذا بدي ياها بس من تحت، اوكي؟",
+    "text_english": "I mean this one if I only want it at the bottom, okay?"
+   },
+   {
+    "start_s": 15.1,
+    "end_s": 17.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "وهيدي إذا بدي كلها.",
+    "text_english": "And this one if I want it all over."
+   },
+   {
+    "start_s": 17.6,
+    "end_s": 24.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "حفرجيكن هلا وحدة كمان قدامكن هيك بتشوفوها كلها in real time بلا ما اعمل cut ولا شوية.",
+    "text_english": "I'll show you one right now in front of you so you can see it all in real time without me making any cuts."
+   },
+   {
+    "start_s": 25.0,
+    "end_s": 30.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "عملت هيك، برمتها مرة ورجعت فوتها هون، اوكي؟",
+    "text_english": "I did like this, twisted it once, and brought it back in here, okay?"
+   },
+   {
+    "start_s": 30.6,
+    "end_s": 33.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "وعملت هيك.",
+    "text_english": "And I did like this."
+   },
+   {
+    "start_s": 43.5,
+    "end_s": 47.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "اوكي، ليكوا فرجوني ياها...",
+    "text_english": "Okay, look, let's see it..."
+   },
+   {
+    "start_s": 50.5,
+    "end_s": 53.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Sorry?!",
+    "text_english": "Sorry?!"
+   },
+   {
+    "start_s": 53.1,
+    "end_s": 59.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "Please ليكوا! وما شي ثانية! يعني بقدر اعمل شعري كله بـ خمس دقائق!",
+    "text_english": "Please look! And in like a second! I mean I can do my entire hair in five minutes!"
+   },
+   {
+    "start_s": 59.1,
+    "end_s": 64.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Guys هيدا هو الـ tool من عند Wavytalk، اوكي؟ سكرين شوتت وبعتولن ياهن، وعنجد جيبوه لأنه...",
+    "text_english": "Guys this is the tool from Wavytalk, okay? Screenshot it and send it to them, and really get it because..."
+   },
+   {
+    "start_s": 64.6,
+    "end_s": 69.2,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "ما شي... ما عم بصدق!",
+    "text_english": "Nothing... I can't believe it!"
+   }
+  ],
+  "transcript_full_original": "Guys عم بستعمل هيدا الـ new product وبدي بس فرجيكن الـ curls يلي عطاني ياهن. Like there's no way عطاني هيك curl كأنه عند الكوافير! يعني هيدي إذا بدي ياها بس من تحت، اوكي؟ وهيدي إذا بدي كلها. حفرجيكن هلا وحدة كمان قدامكن هيك بتشوفوها كلها in real time بلا ما اعمل cut ولا شوية. عملت هيك، برمتها مرة ورجعت فوتها هون، اوكي؟ وعملت هيك. اوكي، ليكوا فرجوني ياها... Sorry?! Please ليكوا! وما شي ثانية! يعني بقدر اعمل شعري كله بـ خمس دقائق! Guys هيدا هو الـ tool من عند Wavytalk، اوكي؟ سكرين شوتت وبعتولن ياهن، وعنجد جيبوه لأنه... ما شي... ما عم بصدق!",
+  "transcript_full_english": "Guys, I'm using this new product and I just want to show you the curls it gave me. Like there's no way it gave me such a curl, like at the hairdresser! I mean this one if I only want it at the bottom, okay? And this one if I want it all over. I'll show you one right now in front of you so you can see it all in real time without me making any cuts. I did like this, twisted it once, and brought it back in here, okay? And I did like this. Okay, look, let's see it... Sorry?! Please look! And in like a second! I mean I can do my entire hair in five minutes! Guys this is the tool from Wavytalk, okay? Screenshot it and send it to them, and really get it because... Nothing... I can't believe it!",
+  "word_count": 105,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 17.5,
+    "shot_type": "medium close-up selfie",
+    "visual": "Creator in a black fuzzy cardigan holding the pale pink Wavytalk tool while pointing at styled curls on both sides of her hair.",
+    "action": "Creator talks directly to the camera, touching and presenting the finished curled strands.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 43.5,
+    "shot_type": "medium close-up selfie tutorial",
+    "visual": "Creator taking an uncurled strand of hair from the top front section, clamping it into the pink Wavytalk styler.",
+    "action": "She clamps the strand near the root, twists the tool 360 degrees, and slowly glides it downward in continuous real time.",
+    "product_visible": true
+   },
+   {
+    "start_s": 43.5,
+    "end_s": 58.5,
+    "shot_type": "medium close-up selfie reaction",
+    "visual": "Creator watches the curled strand drop into place, looking shocked with wide eyes and open mouth.",
+    "action": "She twirls the freshly curled strand with her fingers, laughing in disbelief, and holds up five fingers gesturing 5 minutes.",
+    "product_visible": true
+   },
+   {
+    "start_s": 58.5,
+    "end_s": 64.5,
+    "shot_type": "close-up product focus",
+    "visual": "Creator holds the pink Wavytalk styler right up to the camera lens, showing the digital screen and airflow vents.",
+    "action": "She displays the tool clearly for viewers to screenshot.",
+    "product_visible": true
+   },
+   {
+    "start_s": 64.5,
+    "end_s": 69.2,
+    "shot_type": "medium close-up selfie",
+    "visual": "Creator holds the styler up beside her head while admiring her curls.",
+    "action": "She shakes her head in amazement and smiles at the camera as the video ends.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator smiling directly into camera holding the pink Wavytalk styling tool beside her finished curls.",
+   "visual_0_3s": "Creator talking enthusiastically, gesturing to her curls and holding the styling iron.",
+   "spoken_0_3s": "Guys عم بستعمل هيدا الـ new product وبدي بس فرجيكن الـ curls",
+   "text_0_3s": "",
+   "hook_type": "result_first",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Immediate showcase of perfect bouncy curls paired with high-energy conversational speech."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: Showing off salon-quality curls created with a new hair tool.",
+    "Demonstration promise: Offering to style a strand live without cuts to prove speed.",
+    "Live execution: Wrapping hair around the barrel and sliding down smoothly in real time.",
+    "Shock reaction: Complete disbelief at the instant, bouncy salon result.",
+    "Benefit claim: Entire hair can be done in 5 minutes.",
+    "Call to action: Showcases the tool up close, telling viewers to screenshot and message the page to order."
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Gives curls identical to a professional hairdresser/coiffeur",
+    "Takes literally seconds per strand",
+    "Can do entire head of hair in 5 minutes"
+   ],
+   "pain_points": [
+    "Going to the salon / hairdresser takes time and money",
+    "Curling hair at home takes too long"
+   ],
+   "objections_handled": [
+    "Proof of authenticity: shows the curling process in real time with zero video cuts"
+   ],
+   "social_proof": [],
+   "comparison_to": "Professional hairdresser salon styling (كوافير)"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Whirlwind Curl"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 24.5,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "سكرين شوتت وبعتولن ياهن، وعنجد جيبوه",
+   "cta_on_screen": "",
+   "cta_at_s": 61.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Dark brown, long, straight/wavy texture before curling",
+   "hair_after": "Voluminous, bouncy defined curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "excited, shocked, highly enthusiastic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "None, pure organic speech and live tool handling audio",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 0,
+   "avg_shot_length_s": 69.2,
+   "pacing": "medium",
+   "effects": [],
+   "ending": "Creator smiling in disbelief holding the tool next to her hair."
+  },
+  "notes": "Uncut continuous single-take phone UGC video. Demonstrates high trust and authenticity by proving the curl speed in real time without jump cuts."
+ }
+}

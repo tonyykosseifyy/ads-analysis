@@ -1,0 +1,193 @@
+{
+ "media_key": "i_60140041f8dc794c3b0fb4e1d35f6662",
+ "analyzed_at": "2026-11-28T00:13:52+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "82813b8c213d088a6886baaaab4a862a1e61cc432ce2094c6886eed3a77601af",
+ "source": {
+  "kind": "image",
+  "id": "60140041f8dc794c3b0fb4e1d35f6662"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Comparison table graphic positioning the WavyTalk Blowout Boost thermal brush against other popular hair styling tools across four key performance metrics.",
+  "full_description": "A vertical static ad graphic set against an off-white studio background. The top half displays a product shot of the pink WavyTalk Blowout Boost thermal brush head, showing its vented barrel, cool tip, bristles, and ION indicator button. The bottom half features a clean matrix comparison chart comparing the Blowout Boost (highlighted with a light green pill badge) against a traditional Round Brush, Hot Air Brush, Curling Iron, and Flat Iron across four attributes: Multi-Styling, Minimal Skill, Gentle Heat, and Silent. The Blowout Boost is the only tool that receives green checkmarks across all four criteria.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Blowout Boost",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Round Brush",
+    "role": "other"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Hot Air Brush",
+    "role": "other"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Curling Iron",
+    "role": "other"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Flat Iron",
+    "role": "other"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Multi-Styling",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Minimal Skill",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Gentle Heat",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Silent",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "ION",
+    "role": "brand"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "product shot and graphic table",
+    "visual": "A vertical graphic featuring the pink WavyTalk Blowout Boost thermal brush barrel on top and a feature comparison matrix table at the bottom.",
+    "action": "Static presentation of the product and comparison checkmarks.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Clean product visual of the Blowout Boost paired with a multi-competitor comparison matrix.",
+   "visual_0_3s": "Static display of Blowout Boost brush head above a checklist comparing 5 styling tools.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Blowout Boost Round Brush Hot Air Brush Curling Iron Flat Iron Multi-Styling Minimal Skill Gentle Heat Silent",
+   "hook_type": "other",
+   "hook_type_secondary": "none",
+   "pattern_interrupt": "Visual competitor matrix layout highlighting an all-green checkmark row for the Blowout Boost."
+  },
+  "structure": {
+   "format": "comparison",
+   "narrative_beats": [
+    "Visual product showcase of the Blowout Boost thermal brush",
+    "Head-to-head feature matrix highlighting how Blowout Boost solves pain points of alternative tools (multi-styling, minimal skill, gentle heat, silent)"
+   ],
+   "main_angle": "replaces_multiple_tools",
+   "secondary_angles": [
+    "easy_for_beginners",
+    "less_heat_damage",
+    "quiet_or_gentle"
+   ],
+   "key_claims": [
+    "Offers multi-styling capabilities unlike traditional round brushes or irons",
+    "Requires minimal skill compared to round brushes, hot air brushes, and curling irons",
+    "Provides gentle heat unlike curling irons and flat irons",
+    "Completely silent operation unlike hot air brushes and round brush blow-dry routines"
+   ],
+   "pain_points": [
+    "Traditional blowouts require high skill with a round brush and hair dryer",
+    "Hot air brushes are loud and noisy",
+    "Curling irons and flat irons use intense damaging heat",
+    "Owning multiple tools cluttering the counter"
+   ],
+   "objections_handled": [
+    "Too loud (addressed by Silent checkmark)",
+    "Too hard to use (addressed by Minimal Skill checkmark)",
+    "Too damaging (addressed by Gentle Heat checkmark)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Round brush, hot air brush, curling iron, and flat iron"
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "studio",
+   "faces_camera": false,
+   "energy_tone": ""
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [],
+   "ending": "Static image ad creative"
+  },
+  "notes": "Static image ad focused entirely on feature comparison matrix marketing."
+ }
+}

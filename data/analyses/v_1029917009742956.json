@@ -1,0 +1,169 @@
+{
+ "media_key": "v_1029917009742956",
+ "analyzed_at": "2026-11-28T00:25:49+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "a4e101d2ad202b7f9dc392b68c1380723ac661f8e7f076e8509e67b90d2553c2",
+ "source": {
+  "kind": "video",
+  "id": "1029917009742956",
+  "video_id": "1073774155006508",
+  "length_s": 5,
+  "permalink": "/122152625727061607/videos/1073774155006508?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 4.58,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "In a hair salon, a hairdresser hands a pink WavyTalk thermal round brush to a client to demonstrate how she styles her hair strand.",
+  "full_description": "A hairdresser standing behind a young female client in a hair salon hands her a pink WavyTalk thermal styling brush and asks her to show how she curls a strand of hair. The video cuts to a close-up of her winding a hair section around the bristle barrel, then cuts back to the hairdresser taking control of the section and telling her he will show her the proper technique.",
+  "language": {
+   "spoken_languages": [
+    "ar"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 100,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "speaker": "hairdresser",
+    "language": "ar",
+    "text_original": "يلا، فرجينا كيف بتعملي أنتِ خصلة",
+    "text_english": "Come on, show us how you do a strand."
+   },
+   {
+    "start_s": 3.1,
+    "end_s": 4.5,
+    "speaker": "hairdresser",
+    "language": "ar",
+    "text_original": "رح قلك كيف بتعمليها",
+    "text_english": "I'll tell you how to do it."
+   }
+  ],
+  "transcript_full_original": "يلا، فرجينا كيف بتعملي أنتِ خصلة... رح قلك كيف بتعمليها",
+  "transcript_full_english": "Come on, show us how you do a strand... I'll tell you how to do it.",
+  "word_count": 9,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.58,
+    "text": "wavytalk.lb",
+    "role": "brand"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "medium shot",
+    "visual": "A young woman seated in a salon chair with long dark straight hair; a male hairstylist stands behind her holding a pink WavyTalk thermal brush and hands it to her.",
+    "action": "The hairdresser speaks to her and hands her the thermal round brush so she can demonstrate her method.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 3.2,
+    "shot_type": "close-up",
+    "visual": "Close-up of the client wrapping the ends of a hair strand around the pink bristle barrel of the brush.",
+    "action": "The client attempts to roll the hair around the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 4.58,
+    "shot_type": "medium shot",
+    "visual": "Medium shot of the client smiling while holding the brush as the hairdresser takes the hair section to correct her technique.",
+    "action": "The hairdresser holds her strand of hair outwards and tells her he will show her how to properly style it.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Hairdresser standing behind a client in a salon chair holding a pink thermal blowout brush.",
+   "visual_0_3s": "The hairdresser hands the pink styling brush to the client who smiles and starts wrapping her hair.",
+   "spoken_0_3s": "يلا، فرجينا كيف بتعملي أنتِ خصلة",
+   "text_0_3s": "wavytalk.lb",
+   "hook_type": "expert_or_hairdresser",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Hairdresser asking the client to demonstrate her own styling technique on camera."
+  },
+  "structure": {
+   "format": "hairdresser_or_expert",
+   "narrative_beats": [
+    "Hairdresser challenges the client to show how she styles her hair at home with the brush",
+    "Client attempts to wrap her hair around the barrel",
+    "Hairdresser steps in to teach the correct professional technique"
+   ],
+   "main_angle": "expert_endorsement",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Hairdresser guides the client on the proper technique to style strands with the thermal brush"
+   ],
+   "pain_points": [
+    "Incorrect technique when using a round thermal brush at home"
+   ],
+   "objections_handled": [],
+   "social_proof": [
+    "Professional salon setting and stylist endorsement"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 1.8,
+   "final_result_shown_s": -1,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 2,
+   "talent_type": "hairdresser_expert",
+   "name_if_shown": "",
+   "age_range": "20-30",
+   "hair_before": "Long, dark brown, parted to the side, naturally straight/fine",
+   "hair_after": "Same as before (styling in progress)",
+   "setting": "salon",
+   "faces_camera": true,
+   "energy_tone": "friendly, conversational, educational"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No background music, ambient salon background noise with clear live dialogue.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 2,
+   "avg_shot_length_s": 1.53,
+   "pacing": "medium",
+   "effects": [],
+   "ending": "Cuts mid-sentence as the hairdresser holds the client's hair section to demonstrate."
+  },
+  "notes": "Short teaser/hook snippet extracted from a longer salon masterclass / tutorial video showing the hairdresser teaching the client how to use the WavyTalk Blowout Boost."
+ }
+}

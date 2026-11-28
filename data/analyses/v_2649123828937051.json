@@ -1,0 +1,208 @@
+{
+ "media_key": "v_2649123828937051",
+ "analyzed_at": "2026-11-28T00:19:57+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "e534eddd292e9e51d358242a0c1b03df6360f590330a693f611c5675da1eb8b1",
+ "source": {
+  "kind": "video",
+  "id": "2649123828937051",
+  "video_id": "3309189595938905",
+  "length_s": 17.666,
+  "permalink": "/23849366283980795/videos/3309189595938905/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 17.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates how using the WavyTalk thermal brush achieves an easy at-home blowout, comparing styled versus unstyled sides.",
+  "full_description": "The video starts with a young woman in front of a white shelving unit showing off her hair, comparing one side that is styled with voluminous curled ends to the other straight side. On-screen text reads 'the easiest at home blow out hack'. She takes the straight front section of hair, wraps the ends upward around the pink WavyTalk thermal brush, holds it briefly, and rolls it down, revealing a bouncy, smooth blowout curl. She runs her hand through the glossy result, then holds up the heated brush to display it to the camera as the voiceover talks about saving time and money compared to salon blowouts.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at the difference of this side of my hair compared to that side of my hair.",
+    "text_english": "Look at the difference of this side of my hair compared to that side of my hair."
+   },
+   {
+    "start_s": 3.3,
+    "end_s": 7.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "All you have to do is wrap the bottom section of your hair around this wand and then curl upward.",
+    "text_english": "All you have to do is wrap the bottom section of your hair around this wand and then curl upward."
+   },
+   {
+    "start_s": 7.9,
+    "end_s": 10.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And that is it. You get an easy at-home blowout.",
+    "text_english": "And that is it. You get an easy at-home blowout."
+   },
+   {
+    "start_s": 10.8,
+    "end_s": 14.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Ever since I started doing this, I've been saving so much time and money just doing my blowouts at home,",
+    "text_english": "Ever since I started doing this, I've been saving so much time and money just doing my blowouts at home,"
+   },
+   {
+    "start_s": 14.3,
+    "end_s": 17.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "instead of spending hours at the hair salon.",
+    "text_english": "instead of spending hours at the hair salon."
+   }
+  ],
+  "transcript_full_original": "Look at the difference of this side of my hair compared to that side of my hair. All you have to do is wrap the bottom section of your hair around this wand and then curl upward. And that is it. You get an easy at-home blowout. Ever since I started doing this, I've been saving so much time and money just doing my blowouts at home, instead of spending hours at the hair salon.",
+  "transcript_full_english": "Look at the difference of this side of my hair compared to that side of my hair. All you have to do is wrap the bottom section of your hair around this wand and then curl upward. And that is it. You get an easy at-home blowout. Ever since I started doing this, I've been saving so much time and money just doing my blowouts at home, instead of spending hours at the hair salon.",
+  "word_count": 69,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.2,
+    "text": "the easiest at home blow out hack",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.2,
+    "shot_type": "medium close-up selfie",
+    "visual": "A brunette woman looking at the camera, touching the curled bouncy side of her hair while showing the flat straight side on the other.",
+    "action": "Creator gestures to both sides of her hair to showcase the stark difference.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 9.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator positions the pink thermal round brush horizontally at the bottom ends of the uncurled front hair section and rolls it upward.",
+    "action": "She wraps the hair around the thermal brush barrel and twirls it upward, demonstrating how to use the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 13.5,
+    "shot_type": "close-up",
+    "visual": "She unrolls the tool, revealing smooth, shiny, flipped-under curled ends and brushes her fingers through the section.",
+    "action": "Releasing the brush and running her fingers through the freshly styled blowout curl to show bounce and shine.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 17.5,
+    "shot_type": "close-up product focus",
+    "visual": "Creator holds the pink WavyTalk thermal brush up in front of the lens with her styled hair framing the background.",
+    "action": "Showcasing the thermal round brush details, bristles, and LED temperature display.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing the camera showing half-styled bouncy blowout hair and half-straight hair with text overlay 'the easiest at home blow out hack'.",
+   "visual_0_3s": "Creator touches both sides of her hair, showing the visual contrast between the blowout side and flat side.",
+   "spoken_0_3s": "Look at the difference of this side of my hair compared to that side of my hair.",
+   "text_0_3s": "the easiest at home blow out hack",
+   "hook_type": "before_after",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Split comparison on the same head showing bouncy salon volume vs flat straight ends immediately."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Visual split comparison hook comparing styled vs unstyled hair side by side",
+    "Step-by-step instruction on how simple it is to wrap and roll the brush",
+    "Reveal of the resulting bouncy blowout curl",
+    "Value proposition highlighting time and money saved compared to salon visits"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "easy_for_beginners",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Easiest at-home blowout hack",
+    "Saves significant time and money compared to salon visits"
+   ],
+   "pain_points": [
+    "Spending hours at hair salons",
+    "High cost of regular salon blowouts",
+    "Difficulty in achieving professional blowout results at home"
+   ],
+   "objections_handled": [
+    "Is it hard to use? Demonstrated as simple as wrapping the bottom section and curling upward"
+   ],
+   "social_proof": [],
+   "comparison_to": "Spending hours and money at the hair salon"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 3.4,
+   "first_used_on_hair_s": 3.8,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Dark brown, straight, slightly flat",
+   "hair_after": "Dark brown, glossy, voluminous blowout with flipped curved ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "casual, confident, informative"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "None",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 3,
+   "avg_shot_length_s": 4.4,
+   "pacing": "medium",
+   "effects": [
+    "text overlay"
+   ],
+   "ending": "Close-up display of the heated barrel brush in front of creator's face and styled hair."
+  },
+  "notes": "Targeted ad creative for the Lebanese market using organic US/English TikTok style creator content to drive DTC sales of the WavyTalk thermal blowout brush."
+ }
+}

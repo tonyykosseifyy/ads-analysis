@@ -1,0 +1,228 @@
+{
+ "media_key": "v_1149143727375474",
+ "analyzed_at": "2026-11-28T01:29:04+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "59d7480953dfdeed05976b21b6168c0e69d4ba304789442b03cdea7acfa5387b",
+ "source": {
+  "kind": "video",
+  "id": "1149143727375474",
+  "video_id": "2178645852946749",
+  "length_s": 30.93,
+  "permalink": "/23849366283980795/videos/2178645852946749/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 30.6,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A female creator demonstrates achieving a salon-quality voluminous blowout at home using the lavender Wavytalk Blowout Boost thermal round brush set to music.",
+  "full_description": "A silent tutorial demo ad set to trending music featuring a female creator in a silky robe styling her long brown hair with the Wavytalk Blowout Boost thermal round brush. The video starts with a result-first hook where she unravels her freshly styled curtain bangs, revealing instant bounce, and reacts with mock shock. She then displays the heated brush to the camera, sections her hair, and demonstrates smoothing and curling the lower layers, crown, and front bangs. After showing the reveal again, she applies hair oil, touches up her makeup, brushes her hair, and poses to showcase the full, glossy blowout result holding the tool.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.5,
+    "text": "Blowout with the Wavytalk Blowout Boost",
+    "role": "hook"
+   },
+   {
+    "start_s": 1.5,
+    "end_s": 2.5,
+    "text": "Shock",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "shot_type": "medium close-up",
+    "visual": "Glamorous young woman in a beige satin robe holding the purple Wavytalk brush in her bangs, unrolling it and reacting with wide-eyed shock at the bounce.",
+    "action": "Unrolls thermal brush from curtain bangs, drops tool, and displays a shocked facial expression.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 4.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator running her manicured fingers through her bouncy, curled bangs and framed layers.",
+    "action": "Adjusts and touches her styled curtain bangs looking into the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 5.8,
+    "shot_type": "close-up",
+    "visual": "Creator holding the lavender Wavytalk thermal round brush vertically in front of the camera.",
+    "action": "Displays the product handle and bristle barrel to the viewer.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 7.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator clipping the top half of her hair away to reveal the straightened bottom section.",
+    "action": "Sections her long dark hair into a half-up style using claw clips.",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 11.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushing through lower strand of hair and twisting the thermal brush at the ends.",
+    "action": "Glides the heated brush through a hair section and curls the ends inward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 13.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator lifting crown hair straight up with the thermal brush while front bangs are pinned in a roll.",
+    "action": "Styles the top crown section upward for root volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 17.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator rolling her front fringe onto the barrel of the heated brush, rotating it downwards.",
+    "action": "Blows out the bangs by wrapping them tightly around the heated thermal brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 21.0,
+    "shot_type": "medium close-up",
+    "visual": "Unrolling the fringe and revealing the perfectly arched curtain bang flip with surprise.",
+    "action": "Unwinds the brush from her bangs and gasps in shock at the result.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 24.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator opens a small bottle of hair oil, rubs it between her palms, and runs hands through hair.",
+    "action": "Applies finishing hair oil down the lengths and styled ends.",
+    "product_visible": false
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 26.5,
+    "shot_type": "medium close-up",
+    "visual": "Quick cut of creator setting under-eye makeup with powder puff, then brushing through curls with a green detangling brush.",
+    "action": "Taps powder puff on cheek and gently brushes out the styled blowout.",
+    "product_visible": false
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 30.6,
+    "shot_type": "medium shot",
+    "visual": "Creator posing and admiring her finished voluminous, glossy blowout hair, then holding the Wavytalk brush next to her face with a pout.",
+    "action": "Shakes out hair to show volume, poses for the camera, and holds up the Wavytalk Blowout Boost tool.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holds the purple thermal brush in her front bangs with text 'Blowout with the Wavytalk Blowout Boost'.",
+   "visual_0_3s": "She releases the thermal brush from her bangs, revealing a dramatic salon-grade swoop, followed by an exaggerated open-mouthed 'Shock' expression.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Blowout with the Wavytalk Blowout Boost / Shock",
+   "hook_type": "result_first",
+   "hook_type_secondary": "reaction",
+   "pattern_interrupt": "Instant visual satisfaction of a perfect bouncy curtain bang curl unwrapping combined with an exaggerated reaction face within the first 2 seconds."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Result first hook: bang curl release and dramatic shock reaction",
+    "Product showcase: showing the purple thermal brush",
+    "Tutorial walkthrough: sectioning, curling lower layers, adding crown volume, styling bangs",
+    "Second reveal: unrolling bangs with flawless volume",
+    "Finishing routine: serum application, light brushing",
+    "Final glam reveal and beauty pose holding the tool"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Achieves effortless voluminous blowout curls and bouncy curtain bangs",
+    "Smooths hair while creating salon-level bounce"
+   ],
+   "pain_points": [
+    "Flat, lifeless hair lacking volume",
+    "Difficulty styling curtain bangs with traditional round brush and blow dryer"
+   ],
+   "objections_handled": [
+    "Too complicated to use: demonstrated as simple as rolling and pulling"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 1.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, dark brown straight hair with subtle highlights",
+   "hair_after": "Voluminous, shiny 90s-style blowout with flipped bouncy ends and styled curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Glamorous, confident, and expressive"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "R&B / pop trending track with soulful female vocals singing lyrics including 'I adore you...'.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 11,
+   "avg_shot_length_s": 2.78,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts",
+    "text overlay"
+   ],
+   "ending": "Creator pouts and blows a soft kiss while holding the Wavytalk styling brush beside her styled hair."
+  },
+  "notes": "Ad is structured as an aesthetic GRWM / hair routine reel designed for TikTok and Instagram Reels. Relies entirely on visual satisfaction and trending audio without any spoken voiceover."
+ }
+}

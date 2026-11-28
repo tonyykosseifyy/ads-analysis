@@ -1,0 +1,187 @@
+{
+ "media_key": "v_1844861530175151",
+ "analyzed_at": "2026-11-28T00:10:24+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "7fec1078a73fe5a1094bad7ae029b367490df5ab853a8cb22c5e549532f2a3d0",
+ "source": {
+  "kind": "video",
+  "id": "1844861530175151",
+  "video_id": "2053683118627753",
+  "length_s": 20.2,
+  "permalink": "/23849366283980795/videos/2053683118627753/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 20,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator transforms flat hair into a voluminous 90s blowout using the Wavytalk thermal brush set to chill vocal music.",
+  "full_description": "A silent transformation video set to chill, melodic vocal music. The video opens with a quick cut transition showing the creator with flat, lifeless hair before instantly revealing full, bouncy 90s blowout volume. She winks at the camera, then demonstrates using the pink Wavytalk thermal brush (Blowout Boost) on crown sections and bangs. She shows the final voluminous layered result and poses holding the tool next to her face.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.8,
+    "text": "from flat to 90's blowout 🤍",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing the camera with completely flat, straight dark hair looking uninterested with eyes closing.",
+    "action": "Creator blinks/rolls eyes looking unimpressed with flat hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 4.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator instantly transformed with huge, bouncy 90s blowout curls and text overlay.",
+    "action": "Creator runs hands through her voluminous hair and poses confidently.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 5.1,
+    "shot_type": "medium shot",
+    "visual": "Side profile view showing back volume and hair cascade.",
+    "action": "Creator turns over her shoulder and winks at the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.1,
+    "end_s": 10.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling a side/crown section of hair with the pink Wavytalk thermal brush.",
+    "action": "Creator rolls the thermal brush through a parted section, curls it inward, and pulls it out to show a defined bouncy curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.3,
+    "end_s": 13.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling her curtain bangs/front fringe section with the thermal brush.",
+    "action": "Creator places the brush under bangs, rolls up and lifts at the roots, pulls through, and drops voluminous bangs over her face.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.9,
+    "end_s": 18.2,
+    "shot_type": "medium close-up",
+    "visual": "Front view of creator's finished voluminous 90s layered hairstyle.",
+    "action": "Creator shakes her head so bangs part perfectly, then smooths the sides down with her hands.",
+    "product_visible": false
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 20.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the pink Wavytalk thermal round brush upright next to her head.",
+    "action": "Creator holds the styling tool and smiles subtly at the camera.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera with flat, straight hair and typed text appearing: 'from fl|'.",
+   "visual_0_3s": "Immediate cut transition from flat straight hair to full, bouncing 90s blowout volume.",
+   "spoken_0_3s": "",
+   "text_0_3s": "from flat to 90's blowout 🤍",
+   "hook_type": "before_after",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Instant jump-cut snap from flat hair to full glamorous blowout on the beat drop."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Before & after instant reveal hook ('flat to 90s blowout')",
+    "Quick demo of technique on top crown section",
+    "Quick demo on front bangs for root lift and face framing",
+    "Final hairstyle reveal with hair shake",
+    "Product showcase pose"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Transforms flat hair into a 90s blowout"
+   ],
+   "pain_points": [
+    "Flat, lifeless hair lacking volume and shape"
+   ],
+   "objections_handled": [
+    "Shows effortless gliding through hair without tangling or snagging"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 5.1,
+   "first_used_on_hair_s": 5.1,
+   "final_result_shown_s": 1.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Dark brown/black, long, flat, straight",
+   "hair_after": "Voluminous, bouncy 90s blowout with flipped face-framing curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Confident, glamorous, calm aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Chill, slow R&B background beat with ethereal humming/vocalizing chops",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 2.85,
+   "pacing": "medium",
+   "effects": [
+    "jump-cut transformation",
+    "smooth motion cut"
+   ],
+   "ending": "Creator holding the pink thermal brush next to her hair, looking at camera."
+  },
+  "notes": "Popular aesthetic TikTok/Reels sound and format highlighting the 90s blowout look achievable with the thermal round brush."
+ }
+}

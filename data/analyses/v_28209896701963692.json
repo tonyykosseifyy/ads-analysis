@@ -1,0 +1,235 @@
+{
+ "media_key": "v_28209896701963692",
+ "analyzed_at": "2026-11-28T00:09:08+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "680add7ab4bd201625200a7f9fb96036ce291a459088d45b57ca42fd2680c02b",
+ "source": {
+  "kind": "video",
+  "id": "28209896701963692",
+  "video_id": "1050230624277320",
+  "length_s": 17.74,
+  "permalink": "/23849366283980795/videos/1050230624277320/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 17.58,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator showcases her voluminous blowout results and demonstrates styling her hair with the Wavytalk thermal brush.",
+  "full_description": "A creator shares a quick testimonial about never having a bad hair day thanks to the Wavytalk thermal brush. The video cuts between her initial messy/frizzy hair, her styling routine wrapping and shaping sections of hair with the thermal round brush, and glamorous clips flaunting her voluminous, bouncy, finished blowout.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "One thing about me is I never have a bad hair day,",
+    "text_english": "One thing about me is I never have a bad hair day,"
+   },
+   {
+    "start_s": 2.7,
+    "end_s": 5.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "especially using Wavytalk's thermal brush.",
+    "text_english": "especially using Wavytalk's thermal brush."
+   },
+   {
+    "start_s": 5.9,
+    "end_s": 9.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I mean, she never does me wrong.",
+    "text_english": "I mean, she never does me wrong."
+   },
+   {
+    "start_s": 9.3,
+    "end_s": 14.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "She's thick hair friendly, she is medium, short, and long hair friendly,",
+    "text_english": "She's thick hair friendly, she is medium, short, and long hair friendly,"
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 17.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and she's also super lightweight.",
+    "text_english": "and she's also super lightweight."
+   }
+  ],
+  "transcript_full_original": "One thing about me is I never have a bad hair day, especially using Wavytalk's thermal brush. I mean, she never does me wrong. She's thick hair friendly, she is medium, short, and long hair friendly, and she's also super lightweight.",
+  "transcript_full_english": "One thing about me is I never have a bad hair day, especially using Wavytalk's thermal brush. I mean, she never does me wrong. She's thick hair friendly, she is medium, short, and long hair friendly, and she's also super lightweight.",
+  "word_count": 37,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.7,
+    "shot_type": "medium shot",
+    "visual": "Creator in a white graphic tank top shaking out full, puffy, unstyled hair over her face before peeking out and smiling.",
+    "action": "Creator shakes unstyled hair over her face to display the starting texture.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 2.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator in a black tank top running hands through smooth, voluminous styled dark hair.",
+    "action": "Runs hands through styled hair to reveal the finished blowout.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 6.5,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting in a bedroom in front of a dark backdrop, holding the Wavytalk thermal round brush and brushing a side section of hair.",
+    "action": "Demonstrates holding the brush and sectioning her hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.5,
+    "end_s": 9.4,
+    "shot_type": "medium shot",
+    "visual": "Creator wrapping a crown section of hair around the heated barrel of the thermal brush.",
+    "action": "Rolls hair onto the heated thermal brush to create curl and volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.4,
+    "end_s": 12.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator admiring and touching her full, voluminous curls and finished blowout.",
+    "action": "Fluffs and poses with her voluminous finished hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 14.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator in a white tank top using the thermal brush to curl bangs under.",
+    "action": "Rolls the thermal brush under her front fringe/bangs.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 16.5,
+    "shot_type": "medium shot",
+    "visual": "Creator in a black tank top tossing her bouncy blowout curls.",
+    "action": "Tosses and styles hair with her fingers.",
+    "product_visible": false
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 17.58,
+    "shot_type": "medium shot",
+    "visual": "Creator blowing a double kiss toward the camera with bouncy styled hair.",
+    "action": "Blows a kiss to the camera at the end of the video.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator in a white tank top shaking out thick, voluminous, puffy hair covering her face.",
+   "visual_0_3s": "Fast transition from frizzy, voluminous unstyled hair to sleek, bouncy, styled hair.",
+   "spoken_0_3s": "One thing about me is I never have a bad hair day,",
+   "text_0_3s": "",
+   "hook_type": "before_after",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Instant jump cut from wildly poofy unbrushed hair covering her face to perfectly sculpted salon blowout."
+  },
+  "structure": {
+   "format": "voiceover_broll",
+   "narrative_beats": [
+    "Relatable confidence statement and dramatic before/after reveal hook",
+    "Product introduction as the secret tool behind her hair routine",
+    "Feature and suitability breakdown (hair types, lengths, lightweight design)",
+    "Flirty sign-off showcasing the bouncy, voluminous finished result"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Never gives a bad hair day",
+    "Thick hair friendly",
+    "Suitable for short, medium, and long hair",
+    "Super lightweight"
+   ],
+   "pain_points": [
+    "Bad hair days",
+    "Thick hair being difficult to style",
+    "Heavy, fatiguing hair styling tools"
+   ],
+   "objections_handled": [
+    "Works on thick hair textures",
+    "Not too heavy to hold while styling",
+    "Versatile across different hair lengths"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush"
+   ],
+   "first_seen_s": 2.8,
+   "first_used_on_hair_s": 3.2,
+   "final_result_shown_s": 1.7,
+   "demo_clarity": "partial",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Thick, poofy, dark, textured unstyled hair",
+   "hair_after": "Voluminous, shiny, bouncy black blowout curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Confident, upbeat, glamorous"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Upbeat, smooth R&B/hip-hop instrumental beat playing underneath voiceover.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 2.2,
+   "pacing": "fast",
+   "effects": [
+    "quick jump cuts"
+   ],
+   "ending": "Creator blows a kiss to the camera with her voluminous blowout."
+  },
+  "notes": "Ad uses a classic high-energy TikTok UGC format showing immediate before/after payoff followed by demonstration of the tool on thick textured hair."
+ }
+}

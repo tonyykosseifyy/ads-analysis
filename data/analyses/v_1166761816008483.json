@@ -1,0 +1,329 @@
+{
+ "media_key": "v_1166761816008483",
+ "analyzed_at": "2026-11-28T00:12:12+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "a1acef589d200a5201733c41a58122c2473975e8be495fdccc6b227993865502",
+ "source": {
+  "kind": "video",
+  "id": "1166761816008483",
+  "video_id": "2383959489038167",
+  "length_s": 46.8,
+  "permalink": "/23849366283980795/videos/2383959489038167/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 46.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A red-haired creator demonstrates how she achieves a Victoria's Secret style bombshell blowout in 10 minutes using the Wavytalk thermal brush.",
+  "full_description": "A UGC-style tutorial video featuring a young woman with long, thick auburn-red hair. She walks the audience through styling her hair with the pink Wavytalk thermal blowout brush, demonstrating sectioning, wrapping, and curling techniques to achieve a voluminous, salon-quality Victoria's Secret blowout. She explains the high heat setting and negative ion technology to tame frizz. The video concludes with the finished bouncy result, a quick 'BEFORE' and 'AFTER' comparison, and an encouraging call-to-action.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "This is how I got my Victoria's Secret bombshell blowout using the Wavytalk thermal brush.",
+    "text_english": "This is how I got my Victoria's Secret bombshell blowout using the Wavytalk thermal brush."
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 12.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I have pretty long and thick hair, so I personally like to work in smaller sections just to really get that volume and bounce.",
+    "text_english": "I have pretty long and thick hair, so I personally like to work in smaller sections just to really get that volume and bounce."
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 20.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I set my brush to the highest temperature because my hair is pretty thick, and I just wrap each section around the brush curling it downward and toward my face.",
+    "text_english": "I set my brush to the highest temperature because my hair is pretty thick, and I just wrap each section around the brush curling it downward and toward my face."
+   },
+   {
+    "start_s": 20.3,
+    "end_s": 28.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "This brush also has a negative ion technology, which just helps to reduce frizz and give my hair that silky smooth, salon-like finish.",
+    "text_english": "This brush also has a negative ion technology, which just helps to reduce frizz and give my hair that silky smooth, salon-like finish."
+   },
+   {
+    "start_s": 28.2,
+    "end_s": 33.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Overall, this was incredibly easy to use, and it took me a total of like maybe 10 minutes.",
+    "text_english": "Overall, this was incredibly easy to use, and it took me a total of like maybe 10 minutes."
+   },
+   {
+    "start_s": 33.6,
+    "end_s": 37.4,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I feel like this is such an easy way to get a salon quality blowout at home,",
+    "text_english": "I feel like this is such an easy way to get a salon quality blowout at home,"
+   },
+   {
+    "start_s": 37.4,
+    "end_s": 44.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "and here's the finished look. It's giving effortless, glamorous Victoria's Secret bombshell hair, and I am totally obsessed.",
+    "text_english": "and here's the finished look. It's giving effortless, glamorous Victoria's Secret bombshell hair, and I am totally obsessed."
+   },
+   {
+    "start_s": 44.0,
+    "end_s": 46.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Girl, you need to get yourself one.",
+    "text_english": "Girl, you need to get yourself one."
+   }
+  ],
+  "transcript_full_original": "This is how I got my Victoria's Secret bombshell blowout using the Wavytalk thermal brush. I have pretty long and thick hair, so I personally like to work in smaller sections just to really get that volume and bounce. I set my brush to the highest temperature because my hair is pretty thick, and I just wrap each section around the brush curling it downward and toward my face. This brush also has a negative ion technology, which just helps to reduce frizz and give my hair that silky smooth, salon-like finish. Overall, this was incredibly easy to use, and it took me a total of like maybe 10 minutes. I feel like this is such an easy way to get a salon quality blowout at home, and here's the finished look. It's giving effortless, glamorous Victoria's Secret bombshell hair, and I am totally obsessed. Girl, you need to get yourself one.",
+  "transcript_full_english": "This is how I got my Victoria's Secret bombshell blowout using the Wavytalk thermal brush. I have pretty long and thick hair, so I personally like to work in smaller sections just to really get that volume and bounce. I set my brush to the highest temperature because my hair is pretty thick, and I just wrap each section around the brush curling it downward and toward my face. This brush also has a negative ion technology, which just helps to reduce frizz and give my hair that silky smooth, salon-like finish. Overall, this was incredibly easy to use, and it took me a total of like maybe 10 minutes. I feel like this is such an easy way to get a salon quality blowout at home, and here's the finished look. It's giving effortless, glamorous Victoria's Secret bombshell hair, and I am totally obsessed. Girl, you need to get yourself one.",
+  "word_count": 147,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 43.8,
+    "end_s": 44.8,
+    "text": "BEFORE",
+    "role": "benefit"
+   },
+   {
+    "start_s": 44.9,
+    "end_s": 46.5,
+    "text": "AFTER",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator demonstrating curling a sleek red hair strand with the thermal brush.",
+    "action": "Creator glides the heated brush through a smooth section of hair and spins it to demonstrate curl release.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 3.8,
+    "shot_type": "medium shot",
+    "visual": "Creator with top hair clipped up, showing her natural hair texture.",
+    "action": "Creator looks to the side showing sectioned hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 6.8,
+    "shot_type": "medium shot",
+    "visual": "Creator showing full finished bouncy curls framing her face.",
+    "action": "Creator smiles and turns her head to show the full volume and shine.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 7.7,
+    "shot_type": "medium shot",
+    "visual": "Creator parting her hair and sectioning it with her hands.",
+    "action": "Creator gathers the upper section of hair behind her head.",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.7,
+    "end_s": 8.7,
+    "shot_type": "close-up",
+    "visual": "Creator holding up the Wavytalk thermal brush directly in front of the camera.",
+    "action": "Creator displays the barrel, bristles, and display panel of the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.7,
+    "end_s": 17.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator rolling a strand around the brush from roots down.",
+    "action": "Creator slowly rolls and brushes through the hair section downward toward her face.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 21.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator wrapping the ends around the brush barrel.",
+    "action": "Creator twists the hair around the thermal barrel to curl the ends inward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 26.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushing another section smoothly over the heated bristles.",
+    "action": "Creator glides brush down the length, smoothing frizz.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 28.8,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the top crown section.",
+    "action": "Creator rolls the top section backwards to build crown volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.8,
+    "end_s": 33.4,
+    "shot_type": "close-up",
+    "visual": "Creator rolling and releasing the front bangs/layers.",
+    "action": "Creator rolls the front bang section, releases the brush, and lets the glossy curled layer fall forward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 33.4,
+    "end_s": 37.5,
+    "shot_type": "medium shot",
+    "visual": "Creator lifting the top layer straight up with the brush.",
+    "action": "Creator brushes upward from the roots to create lift and volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 37.5,
+    "end_s": 43.8,
+    "shot_type": "medium shot",
+    "visual": "Finished hairstyle showcase.",
+    "action": "Creator turns, flips hair, displays back view of multi-layered voluminous waves, then poses smiling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 43.8,
+    "end_s": 44.8,
+    "shot_type": "medium shot",
+    "visual": "Before shot with 'BEFORE' text overlay.",
+    "action": "Creator shown before styling with straight, somewhat flat reddish hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 44.9,
+    "end_s": 46.5,
+    "shot_type": "medium close-up",
+    "visual": "After shot with 'AFTER' text overlay.",
+    "action": "Creator poses confidently showing off smooth, voluminous bombshell curls.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Close-up of smooth, shiny red hair being rolled through a pink thermal styling brush.",
+   "visual_0_3s": "Smooth gliding motion of the thermal brush curling a sleek strand of hair, followed by a preview of finished bouncy hair.",
+   "spoken_0_3s": "This is how I got my Victoria's Secret bombshell blowout",
+   "text_0_3s": "",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Immediate macro close-up of glossy hair being shaped around the round brush barrel followed by an aspirational reference ('Victoria's Secret bombshell blowout')."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook promising the iconic Victoria's Secret blowout result",
+    "Hair prep and sectioning tip for thick/long hair",
+    "Temperature setting recommendation and inward rolling technique",
+    "Feature callout: Negative ion technology reduces frizz and adds shine",
+    "Ease of use and speed claim (10 minutes total)",
+    "Final look reveal and direct before/after comparison",
+    "Recommendation CTA"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "saves_time",
+    "frizz_or_curly_solution"
+   ],
+   "key_claims": [
+    "Victoria's Secret bombshell blowout look",
+    "Achieved in maybe 10 minutes",
+    "Negative ion technology reduces frizz",
+    "Silky smooth, salon-like finish at home",
+    "Incredibly easy to use"
+   ],
+   "pain_points": [
+    "Long and thick hair takes too long to style",
+    "Frizzy or dull hair",
+    "Difficulty getting salon blowout volume and bounce at home"
+   ],
+   "objections_handled": [
+    "Works effectively even on very thick and long hair",
+    "Fast styling time (only 10 minutes)",
+    "Does not leave hair frizzy due to ionic tech"
+   ],
+   "social_proof": [
+    "Aspirational reference to Victoria's Secret model hair"
+   ],
+   "comparison_to": "Professional salon blowouts"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush (Blowout Boost)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 3.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Girl, you need to get yourself one.",
+   "cta_on_screen": "",
+   "cta_at_s": 44.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, thick auburn red straight hair with subtle natural texture",
+   "hair_after": "Voluminous, glossy, bouncy layered blowout curls with curved ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "friendly, confident, upbeat and conversational"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Soft low-volume upbeat background track under clear voiceover narration",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 13,
+   "avg_shot_length_s": 3.5,
+   "pacing": "medium",
+   "effects": [
+    "quick jump cuts",
+    "on-screen comparison text"
+   ],
+   "ending": "Creator playfully posing and smiling while 'AFTER' text is displayed."
+  },
+  "notes": "English voiceover over creator footage demonstrating the Wavytalk thermal brush. High aesthetic appeal focusing on the glossy ginger/auburn hair texture and Victoria's Secret blowout angle."
+ }
+}

@@ -1,0 +1,179 @@
+{
+ "media_key": "v_2023309444983870",
+ "analyzed_at": "2026-11-28T00:09:43+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "9c087ee2a0aa2ea2a7cbb4e0f8292bcfa79b547f1f0c8b404594974a6f68e6d7",
+ "source": {
+  "kind": "video",
+  "id": "2023309444983870",
+  "video_id": "1757825291948821",
+  "length_s": 24.591,
+  "permalink": "/23849366283980795/videos/1757825291948821/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 25.29,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates how to quickly refresh layered hair using a heated thermal round brush and texturizing spray.",
+  "full_description": "A creator with long, voluminous brunette hair demonstrates an easy routine to refresh layers. Standing in her bedroom, she rolls the pink WavyTalk thermal brush through the crown section to add lift, applies dry shampoo/spray to her roots, and styles her curtain bangs and face-framing layers using the heated round brush. She ends by shaking out her voluminous, bouncy blowout and posing with the tool.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 25.29,
+    "text": "the easiest way\nto refresh your layers",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.3,
+    "shot_type": "medium shot",
+    "visual": "Young woman in a light blue top in a bedroom setting holding a pink thermal round brush at her crown.",
+    "action": "She brushes the top crown layer backwards, rolls it up, holds it briefly, and rolls it out to build height.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.3,
+    "end_s": 9.8,
+    "shot_type": "medium shot",
+    "visual": "Creator holding a colorful can of hair spray / dry shampoo.",
+    "action": "She lifts her top hair layers and sprays product into her roots for texture and volume.",
+    "product_visible": false
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 12.8,
+    "shot_type": "medium shot",
+    "visual": "Creator holding the thermal round brush horizontally against her curtain bangs.",
+    "action": "She styles and curls her front bangs over the heated barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 18.2,
+    "shot_type": "medium shot",
+    "visual": "Creator working on the front face-framing fringe section.",
+    "action": "She brushes downwards and twirls the thermal brush to shape the front layers, releasing them bouncy.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 21.0,
+    "shot_type": "medium shot",
+    "visual": "Creator working on side layer.",
+    "action": "She curls a side layer with the thermal brush and releases a smooth flip.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 25.29,
+    "shot_type": "medium shot",
+    "visual": "Creator showcasing her refreshed, voluminous blowout.",
+    "action": "She fluffs her hair with her fingers, smiles at the camera, and holds up the thermal brush.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator rolling the heated thermal brush backwards at the crown of her head with on-screen text 'the easiest way to refresh your layers'.",
+   "visual_0_3s": "Creator rotating the heated round brush through her crown hair to create instant lift.",
+   "spoken_0_3s": "",
+   "text_0_3s": "the easiest way to refresh your layers",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Immediate action showing the heated round brush already positioned and working in long, glossy hair."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook with quick styling technique on crown layers",
+    "Root prep with texturizing spray",
+    "Shaping face-framing bangs and side layers with the heated brush",
+    "Final reveal showing bouncy, refreshed volume"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "saves_time",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Easiest way to refresh layered hair"
+   ],
+   "pain_points": [
+    "Flat, lifeless second-day layers",
+    "Fallen curtain bangs needing a quick restyle without washing"
+   ],
+   "objections_handled": [
+    "Takes too much time or effort to restyle hair between washes"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 21.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, dark brown, thick wavy hair with layers",
+   "hair_after": "Ultra-voluminous, shiny, bouncy layered blowout with flipped curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relaxed, aesthetic, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Upbeat instrumental guitar strumming track with rhythmic handclaps and percussion.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 4.2,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator smiles, touches her voluminous hair, and holds the pink thermal brush up to the camera."
+  },
+  "notes": "No spoken audio; relies entirely on visual demonstration and static on-screen hook overlay 'the easiest way to refresh your layers'."
+ }
+}

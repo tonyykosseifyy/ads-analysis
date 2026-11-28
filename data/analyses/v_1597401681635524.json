@@ -1,0 +1,397 @@
+{
+ "media_key": "v_1597401681635524",
+ "analyzed_at": "2026-11-28T00:09:21+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "afe296da240aa1ad00e195d9e510737b909a77bd58d8ffe045a3706d79acad62",
+ "source": {
+  "kind": "video",
+  "id": "1597401681635524",
+  "video_id": "1765980101185178",
+  "length_s": 68.172,
+  "permalink": "/23849366283980795/videos/1765980101185178/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 67.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates the Wavytalk Steambrush Pro on her extremely voluminous, frizzy hair, achieving silky, pin-straight results in one pass.",
+  "full_description": "A creator with very thick, voluminous, frizzy curly hair tests the Wavytalk Steambrush Pro for the first time. The video begins with a dramatic hook showing a split result: one side silky and straight versus the other side extremely frizzy, with the text 'ONE PASS IS RIDICULOUS'. She then walks through setting up the tool by filling the water reservoir, clipping her hair into sections, and setting the heat to max (410°F). She glides the steam brush through her coarsest hair sections and along her hairline in single passes, reacting with astonishment at how fast and smooth it gets. After completing half her head in five minutes, she reveals the final full-head transformation, praising the shine from steam alone and remarking on how long and sleek her hair looks without additional styling products.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is crazy.",
+    "text_english": "This is crazy."
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 2.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's really one pass.",
+    "text_english": "It's really one pass."
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 4.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "What is this sorcery?",
+    "text_english": "What is this sorcery?"
+   },
+   {
+    "start_s": 4.3,
+    "end_s": 6.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's not as bad as it looks.",
+    "text_english": "It's not as bad as it looks."
+   },
+   {
+    "start_s": 6.2,
+    "end_s": 8.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I have nothing but high hopes for this.",
+    "text_english": "I have nothing but high hopes for this."
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 9.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Water bottle, tank.",
+    "text_english": "Water bottle, tank."
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 12.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Snap it back in.",
+    "text_english": "Snap it back in."
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 15.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Gonna start at the bottom, work our way up, and just hope for the best.",
+    "text_english": "Gonna start at the bottom, work our way up, and just hope for the best."
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 18.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I've never used this before and it's supposed to only be one pass. Let's see.",
+    "text_english": "I've never used this before and it's supposed to only be one pass. Let's see."
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 19.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm going in full blast.",
+    "text_english": "I'm going in full blast."
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 22.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Back of my crown is the most coarse section that I have on my head.",
+    "text_english": "Back of my crown is the most coarse section that I have on my head."
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 25.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Right in at the roots.",
+    "text_english": "Right in at the roots."
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 32.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "One pass. Wow.",
+    "text_english": "One pass. Wow."
+   },
+   {
+    "start_s": 32.5,
+    "end_s": 34.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's really one pass.",
+    "text_english": "It's really one pass."
+   },
+   {
+    "start_s": 34.2,
+    "end_s": 42.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "For my hairline, I'm gonna go in from the front, just so we can get really close to those baby hairs.",
+    "text_english": "For my hairline, I'm gonna go in from the front, just so we can get really close to those baby hairs."
+   },
+   {
+    "start_s": 44.5,
+    "end_s": 46.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "What is happening, guys?",
+    "text_english": "What is happening, guys?"
+   },
+   {
+    "start_s": 46.8,
+    "end_s": 50.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Believe me when I tell you this took me five minutes.",
+    "text_english": "Believe me when I tell you this took me five minutes."
+   },
+   {
+    "start_s": 50.1,
+    "end_s": 52.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Probably just need a couple minutes to knock out this side.",
+    "text_english": "Probably just need a couple minutes to knock out this side."
+   },
+   {
+    "start_s": 52.8,
+    "end_s": 55.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Who am I right now?",
+    "text_english": "Who am I right now?"
+   },
+   {
+    "start_s": 55.4,
+    "end_s": 57.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I haven't even put any products in yet.",
+    "text_english": "I haven't even put any products in yet."
+   },
+   {
+    "start_s": 57.3,
+    "end_s": 60.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Just from the steam alone, look at the shine!",
+    "text_english": "Just from the steam alone, look at the shine!"
+   },
+   {
+    "start_s": 60.1,
+    "end_s": 64.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I never straighten my hair, and I forget how long it is!",
+    "text_english": "I never straighten my hair, and I forget how long it is!"
+   },
+   {
+    "start_s": 64.9,
+    "end_s": 67.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I cannot get over the length. I love it!",
+    "text_english": "I cannot get over the length. I love it!"
+   }
+  ],
+  "transcript_full_original": "This is crazy. It's really one pass. What is this sorcery? It's not as bad as it looks. I have nothing but high hopes for this. Water bottle, tank. Snap it back in. Gonna start at the bottom, work our way up, and just hope for the best. I've never used this before and it's supposed to only be one pass. Let's see. I'm going in full blast. Back of my crown is the most coarse section that I have on my head. Right in at the roots. One pass. Wow. It's really one pass. For my hairline, I'm gonna go in from the front, just so we can get really close to those baby hairs. What is happening, guys? Believe me when I tell you this took me five minutes. Probably just need a couple minutes to knock out this side. Who am I right now? I haven't even put any products in yet. Just from the steam alone, look at the shine! I never straighten my hair, and I forget how long it is! I cannot get over the length. I love it!",
+  "transcript_full_english": "This is crazy. It's really one pass. What is this sorcery? It's not as bad as it looks. I have nothing but high hopes for this. Water bottle, tank. Snap it back in. Gonna start at the bottom, work our way up, and just hope for the best. I've never used this before and it's supposed to only be one pass. Let's see. I'm going in full blast. Back of my crown is the most coarse section that I have on my head. Right in at the roots. One pass. Wow. It's really one pass. For my hairline, I'm gonna go in from the front, just so we can get really close to those baby hairs. What is happening, guys? Believe me when I tell you this took me five minutes. Probably just need a couple minutes to knock out this side. Who am I right now? I haven't even put any products in yet. Just from the steam alone, look at the shine! I never straighten my hair, and I forget how long it is! I cannot get over the length. I love it!",
+  "word_count": 182,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.1,
+    "text": "ONE PASS IS RIDICULOUS",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator demonstrating half straight, half extremely frizzy voluminous hair, brushing a front strand with the white steam brush.",
+    "action": "Creator glides the brush through a section of hair in one smooth pass while marveling at the contrast.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.2,
+    "end_s": 8.0,
+    "shot_type": "medium shot",
+    "visual": "Creator facing camera showing her full untamed hair before styling, holding up the white Wavytalk steam brush.",
+    "action": "She touches her voluminous, frizzy hair and displays the brush towards the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 12.8,
+    "shot_type": "close-up",
+    "visual": "Water droplet dispenser and detachable water tank of the steam brush.",
+    "action": "Creator squirts water into the tool's water reservoir and snaps the water tank into the back of the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 18.2,
+    "shot_type": "medium shot",
+    "visual": "Creator gathering her hair and sectioning it with clips.",
+    "action": "Creator clips the top sections up to prepare the bottom layers, holding up the brush and one finger for 'one pass'.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 19.8,
+    "shot_type": "close-up",
+    "visual": "Handle of the white Wavytalk tool showing temperature display and buttons.",
+    "action": "Creator's finger points at the LED display lit at 410°F.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 34.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling a coarse section at the back of her head.",
+    "action": "She runs the steam brush from roots to ends, releasing steam, and shows the pin-straight, sleek outcome.",
+    "product_visible": true
+   },
+   {
+    "start_s": 34.0,
+    "end_s": 46.5,
+    "shot_type": "close-up",
+    "visual": "Creator straightening the front hairline and baby hairs.",
+    "action": "She guides the brush carefully along the roots and front section, then lets the silky hair fall straight.",
+    "product_visible": true
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 52.4,
+    "shot_type": "medium shot",
+    "visual": "Half-head styled comparison (left side completely straight, right side big and frizzy).",
+    "action": "Creator winks, points out the stark contrast, and gestures to the styled side while holding the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 52.4,
+    "end_s": 67.5,
+    "shot_type": "medium shot to waist-up shot",
+    "visual": "Final look with entire head of hair straightened, super long and glossy.",
+    "action": "Creator turns around, runs her fingers through her hair, tosses it over her shoulders, and beams with excitement at the length and shine.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator shown with half pin-straight hair and half frizzy, voluminous hair, brushing a strand down with text 'ONE PASS IS RIDICULOUS'.",
+   "visual_0_3s": "Creator looks into camera while completing a flawless pass down a strand of hair with the white steam brush, showing extreme contrast.",
+   "spoken_0_3s": "This is crazy. It's really one pass. What is this sorcery?",
+   "text_0_3s": "ONE PASS IS RIDICULOUS",
+   "hook_type": "result_first",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Split-screen style contrast on creator's actual head: side-by-side comparison of extreme wild volume vs glossy flat-iron straight hair."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Shock hook showcasing the half-done comparison and one-pass ability",
+    "Setup demonstration: filling the water chamber and selecting heat temperature",
+    "Live styling demo on the most coarse hair section and delicate hairline",
+    "Mid-point progress check showing half head completed in 5 minutes",
+    "Final reveal showing ultra-long, glossy hair without any added styling products"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "saves_time",
+    "salon_result_at_home",
+    "less_heat_damage"
+   ],
+   "key_claims": [
+    "Straightens coarse curly hair in just one pass",
+    "Styles half head in only five minutes",
+    "Adds intense shine purely from steam without hair products",
+    "Gets close to the roots and baby hairs safely"
+   ],
+   "pain_points": [
+    "Unruly, frizzy, unmanageable coarse hair",
+    "Time-consuming straightening routines requiring multiple passes",
+    "Hair shrinkage hiding actual hair length"
+   ],
+   "objections_handled": [
+    "Does it really work on very coarse hair? (Tests it directly on the coarsest crown section)",
+    "Does it burn or miss roots/baby hairs? (Shows close-up root pass on hairline)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional multi-pass flat irons"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steambrush Pro"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 52.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Thick, very voluminous, coarse, frizzy wavy/curly brunette hair with blonde/caramel balayage highlights",
+   "hair_after": "Ultra-sleek, pin-straight, shiny, waist-length hair",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "Astonished, energetic, enthusiastic, and authentic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Upbeat, rhythmic background pop/electronic track under voiceover and live dialogue",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 16,
+   "avg_shot_length_s": 4.2,
+   "pacing": "fast",
+   "effects": [
+    "quick cut transitions",
+    "text overlay hook"
+   ],
+   "ending": "Creator tosses her sleek straight hair, smiles at the camera, and exclaims 'I love it!'"
+  },
+  "notes": "Ad distributed in Lebanon featuring viral TikTok creator UGC for the Wavytalk Steambrush Pro. Relies heavily on visual proof of high shrinkage/frizz transforming into ultra-straight length."
+ }
+}

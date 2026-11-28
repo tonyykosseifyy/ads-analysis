@@ -1,0 +1,202 @@
+{
+ "media_key": "v_1824003294979542",
+ "analyzed_at": "2026-11-28T00:52:25+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "198327e89c6b67acfb4ef7d794c34705997d87a28f3b55ef1cc1258febc17054",
+ "source": {
+  "kind": "video",
+  "id": "1824003294979542",
+  "video_id": "1533020731090680",
+  "length_s": 17.342,
+  "permalink": "/23849366283980795/videos/1533020731090680/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 16.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A red-haired creator demonstrates the WavyTalk Steam Pro straightening brush, transforming extreme frizzy volume into smooth, sleek hair.",
+  "full_description": "A silent UGC-style demo video featuring a young woman with enormous, frizzy ginger hair. She holds up the pink WavyTalk Steam Pro straightening brush, reveals close-up details of the steam comb, and demonstrates its smoothing power on her hair. By brushing sections slowly in natural sunlight, she transforms her frizzy curls into silky, straight locks, finishing with a paddle brush and shaking out the sleek final result.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 1.0,
+    "end_s": 2.8,
+    "text": "Steam",
+    "role": "brand"
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 4.0,
+    "text": "Pro",
+    "role": "brand"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.0,
+    "shot_type": "medium shot",
+    "visual": "A young woman with massive, wild, frizzy red hair stands indoors holding a pink straightening brush in front of her.",
+    "action": "Creator poses playfully and presents the tool to the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 2.8,
+    "shot_type": "close-up",
+    "visual": "Handheld close-up of the pink heated steam brush displaying the bristle chamber and temperature indicator lights.",
+    "action": "Hand tilts the device to show the steam vents and design while 'Steam' text is displayed.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 5.0,
+    "shot_type": "medium shot",
+    "visual": "Creator shows a dramatic half-and-half comparison: one side pinned up and straightened, the other completely frizzy.",
+    "action": "Creator touches her hair and smiles, highlighting the stark contrast in texture and volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 7.5,
+    "shot_type": "medium close-up",
+    "visual": "Sunlit shot showing the creator gliding the pink steam brush through a section of frizzy hair.",
+    "action": "She brushes through a strand slowly, immediately smoothing and straightening it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 10.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator working on the top front section and crown of her hair with the brush in warm sunlight.",
+    "action": "She brushes the roots and lengths backwards, smoothing out the top layers.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.5,
+    "end_s": 12.8,
+    "shot_type": "medium shot",
+    "visual": "Creator brushes through her finished, straightened hair using a patterned paddle brush.",
+    "action": "She runs the paddle brush down the length of her silky, straightened hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 14.2,
+    "shot_type": "close-up",
+    "visual": "Creator holds the WavyTalk Steam Pro next to her face, admiring her smooth hair.",
+    "action": "She poses with the device, touching her straight strands.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.2,
+    "end_s": 16.5,
+    "shot_type": "medium shot",
+    "visual": "Final reveal showing full straightened hair flowing over her shoulders.",
+    "action": "Creator shakes and flips her straightened, shiny ginger hair side to side with a proud smile.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera with enormous frizzy ginger hair holding the pink straightening brush.",
+   "visual_0_3s": "Extreme volume and frizz contrast right away, followed by a product close-up labeled 'Steam Pro'.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Steam",
+   "hook_type": "before_after",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Shockingly voluminous, lion-mane frizzy hair that grabs immediate visual attention."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Visual problem hook with extreme frizzy hair",
+    "Product display and half-and-half contrast",
+    "Step-by-step straightening demonstration in sunlight",
+    "Final sleek, straight result reveal"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Tames and straightens even extreme frizzy curly hair",
+    "Steam technology leaves hair sleek and smooth"
+   ],
+   "pain_points": [
+    "Unmanageable, extreme frizz and puffy hair",
+    "Difficulty straightening thick textured hair"
+   ],
+   "objections_handled": [
+    "Shows it works effectively on very thick, unruly frizzy hair with a single pass"
+   ],
+   "social_proof": [],
+   "comparison_to": "Natural frizzy texture (direct half-and-half before and after)"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Steam Pro Straightening Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 5.0,
+   "final_result_shown_s": 14.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Very thick, frizzy, voluminous afro-like ginger/copper hair",
+   "hair_after": "Straight, silky, smooth, glossy ginger hair",
+   "setting": "indoor_home",
+   "faces_camera": true,
+   "energy_tone": "Playful, confident, satisfying"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat rhythmic afrobeat/pop track with repetitive vocal chant samples.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 2.35,
+   "pacing": "fast",
+   "effects": [
+    "Natural lighting transition",
+    "Cut-to-beat editing"
+   ],
+   "ending": "Creator shakes out her silky straightened hair, smiling confidently into the camera."
+  },
+  "notes": "Fast-paced visual transformation reel relying entirely on extreme visual contrast and satisfying smoothing action without voiceover."
+ }
+}

@@ -1,0 +1,180 @@
+{
+ "media_key": "v_27240565865582641",
+ "analyzed_at": "2026-11-28T00:13:59+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "93d6d1608e5b7c9c8d80b8417228d1ec83310c9efb7e7aeff4c3dfeaa4dba993",
+ "source": {
+  "kind": "video",
+  "id": "27240565865582641",
+  "video_id": "1551670943237266",
+  "length_s": 21.338,
+  "permalink": "/23849366283980795/videos/1551670943237266/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 20.3,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator compares struggling to curl hair with an old iron in high school to easily creating bouncy curls now using the Wavytalk Whirlwind Pro.",
+  "full_description": "A relatable 'me in high school vs. me now' video ad set to upbeat background music. The creator first demonstrates the struggle of curling hair with a standard flat iron that pulls hair and fries ends without cooling. She then cuts to 'me now', smoothly gliding the pink Wavytalk Whirlwind Pro through a hair strand, which instantly releases a shiny, defined spiral curl while cooling it with airflow. The video concludes with her fluffing out a full head of voluminous blonde waves, smiling at the camera, and holding up the tool alongside a 'FALL SALE 20% OFF' graphic.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "text": "me in high school\nstyling my hair with an iron:\n(pulls hair, fries ends, doesnt cool curls)",
+    "role": "hook"
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 14.2,
+    "text": "me now:\n(glides through hair & doesnt pull,\ncools hair while curling, fast & easy)",
+    "role": "benefit"
+   },
+   {
+    "start_s": 14.2,
+    "end_s": 20.3,
+    "text": "i get the best results now with\nthe wavytalk whirlwind pro!",
+    "role": "brand"
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 20.3,
+    "text": "FALL SALE\n20% OFF",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "shot_type": "medium close-up",
+    "visual": "Young blonde creator in a light blue top in her bedroom looking frustrated while clamping and pulling an old black flat iron through her hair.",
+    "action": "Creator attempts to curl a section of hair using a regular flat iron; it pulls, snags, and leaves an awkward crimped strand.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 14.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the pink Wavytalk Whirlwind Pro airflow styler in her bedroom.",
+    "action": "She smoothly wraps and glides the tool through a front strand of hair, releasing a bouncy, perfectly set curl, then catches and shows the defined curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.2,
+    "end_s": 20.3,
+    "shot_type": "medium shot",
+    "visual": "Creator displaying full voluminous wavy curls, smiling confidently into the camera.",
+    "action": "She runs her fingers through her hair to shake out the waves, then holds the Wavytalk Whirlwind Pro tool up beside her face while the Fall Sale banner appears.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Blonde creator grimacing as she tries to curl her hair using an old black straightener with overlay text comparing it to high school.",
+   "visual_0_3s": "Creator clamps hair in an old iron that tugs and snags, making a dissatisfied facial expression.",
+   "spoken_0_3s": "",
+   "text_0_3s": "me in high school styling my hair with an iron: (pulls hair, fries ends, doesnt cool curls)",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Nostalgic and relatable comparison of clumsy teenage hair styling methods versus modern effortless tech."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Relatable struggle: curling with traditional straighteners that pinch and damage hair",
+    "Modern solution: showing effortless glide and instant cooling curl formation with Wavytalk Whirlwind Pro",
+    "Final transformation reveal: fluffing out flawless, bouncy, shiny waves",
+    "Callout offer: showing tool with 20% off Fall Sale text"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "less_heat_damage",
+    "volume_and_bounce",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Glides through hair and does not pull",
+    "Cools hair while curling to lock in style",
+    "Fast and easy styling",
+    "Produces the best curly/wavy results"
+   ],
+   "pain_points": [
+    "Traditional flat irons snag and pull hair",
+    "Flat irons fry hair ends with excessive heat",
+    "Lack of cool airflow fails to set long-lasting curls"
+   ],
+   "objections_handled": [
+    "Difficult to curl hair with iron tools",
+    "Risk of heat damage and frizzed ends"
+   ],
+   "social_proof": [
+    "Creator's personal endorsement that she gets the best results with Wavytalk"
+   ],
+   "comparison_to": "Traditional standard flat iron straightener"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Whirlwind Pro"
+   ],
+   "first_seen_s": 4.5,
+   "first_used_on_hair_s": 4.5,
+   "final_result_shown_s": 14.2,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Fall Sale 20% Off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Fall Sale limited time",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long straight blonde-highlighted hair, with one awkwardly crimped strand",
+   "hair_after": "Voluminous, bouncy, glossy waves and curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, satisfied, playful and confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Catchy, mellow pop song with female and male vocals ('...here we are...stick together...')",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 2,
+   "avg_shot_length_s": 6.8,
+   "pacing": "medium",
+   "effects": [
+    "Text pop-in overlays"
+   ],
+   "ending": "Creator smiling next to the tool with 'FALL SALE 20% OFF' graphic visible."
+  },
+  "notes": "Ad relies entirely on relatable text-on-screen hooks and clear visual proof of curl definition without spoken dialogue."
+ }
+}

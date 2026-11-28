@@ -1,0 +1,155 @@
+{
+ "media_key": "i_55846923cfe65541ee8ec4a5e3df6715",
+ "analyzed_at": "2026-11-28T00:47:40+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "88fa01a122afa9061b42db6f6a120a2dc9197f387ea35396d15c146c4f8dbed6",
+ "source": {
+  "kind": "image",
+  "id": "55846923cfe65541ee8ec4a5e3df6715"
+ },
+ "role": "rotating",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "Static promo ad announcing up to 37% off for Black Friday on the WavyTalk Power Wave hair crimping iron with Mac desktop-style graphics.",
+  "full_description": "A square graphic promotional ad featuring the WavyTalk logo and Black Friday discount text at the top: 'UP TO 37% OFF BLACK FRIDAY DEALS'. In the center and foreground, styled as macOS browser windows and desktop folder icons, is the WavyTalk 'Power Wave Hair Crimping Iron' product graphic showing the pink heated styling barrel mechanism, alongside another window displaying a blonde model holding the pink tool next to her finished wavy hair.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "UP TO 37% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "BLACK FRIDAY DEALS",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Power Wave Hair Crimping Iron",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Power Wave",
+    "role": "other"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "graphic_design",
+    "visual": "A clean white backdrop styled like a computer desktop featuring two overlapping browser windows. The left window displays a studio product shot of the pink WavyTalk Power Wave crimper with an inset diagram of hair being clamped inside the curved heating plates. The right window shows a blonde model with long wavy hair holding the pink crimper. Bold Black Friday sale text sits above.",
+    "action": "Static image display.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Bold headline 'UP TO 37% OFF BLACK FRIDAY DEALS' above Mac-style browser windows showcasing the pink WavyTalk Power Wave crimper and a model with styled wavy hair.",
+   "visual_0_3s": "Bold headline 'UP TO 37% OFF BLACK FRIDAY DEALS' above Mac-style browser windows showcasing the pink WavyTalk Power Wave crimper and a model with styled wavy hair.",
+   "spoken_0_3s": "",
+   "text_0_3s": "WAVYTALK UP TO 37% OFF BLACK FRIDAY DEALS",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "product_reveal",
+   "pattern_interrupt": "Desktop OS / browser UI motif featuring bright pink folder icons and layered windows on a clean minimalist background."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Brand & Black Friday headline discount",
+    "Product display and technology diagram",
+    "Model end-result wavy hair showcase"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Up to 37% off during Black Friday",
+    "Creates defined crimped waves easily"
+   ],
+   "pain_points": [],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Power Wave Hair Crimping Iron"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": 0,
+   "demo_clarity": "result_only",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "Up to 37% off Black Friday Deals",
+   "price_mentioned": "Up to 37% off",
+   "discount_code": "",
+   "urgency": "Black Friday Deals",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "model",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "",
+   "hair_after": "Long, honey blonde crimped wavy hair",
+   "setting": "studio",
+   "faces_camera": true,
+   "energy_tone": "Neutral, poised commercial model expression"
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "Computer UI overlay / browser frame mockup",
+    "Vector folder graphics"
+   ],
+   "ending": "Static image frame"
+  },
+  "notes": "Static image creative utilized for Black Friday promotional campaign targeting Lebanon audience."
+ }
+}

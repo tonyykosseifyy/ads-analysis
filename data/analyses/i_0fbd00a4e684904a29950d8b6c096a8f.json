@@ -1,0 +1,149 @@
+{
+ "media_key": "i_0fbd00a4e684904a29950d8b6c096a8f",
+ "analyzed_at": "2026-11-28T01:02:25+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "4526de12cd520f1f23e6fc5cae8093a3e56b489c0c04ad73356fb10ad224b612",
+ "source": {
+  "kind": "image",
+  "id": "0fbd00a4e684904a29950d8b6c096a8f"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "Static promo ad for WavyTalk Power Wave offering 36% off with code NV10, featuring a model holding the tool with styled wavy hair.",
+  "full_description": "A square static promotional graphic showing a young female model with medium-length styled wavy brunette hair holding the pink WavyTalk Power Wave tool. The background is a clean solid off-white studio backdrop. On the left side, the 'WAVYTALK' logo is featured at the top, followed by large typography reading 'Power Wave', a promo code callout 'USE CODE: NV10' with a neon pink highlight, and a large bright pink circular badge reading '36% OFF'.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Power Wave",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "USE CODE: NV10",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "36% OFF",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "medium close-up studio portrait",
+    "visual": "A young female model posing with wavy brunette hair holding the pink WavyTalk Power Wave styling tool in her hand against a white background, next to graphic overlays displaying the brand, product name, discount code, and percentage discount.",
+    "action": "Static pose holding the product upright toward the viewer while looking directly into the camera.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Studio image of a model with wavy hair holding the pink Power Wave iron alongside large bold text 'Power Wave', '36% OFF', and 'USE CODE: NV10'.",
+   "visual_0_3s": "Studio image of a model with wavy hair holding the pink Power Wave iron alongside large bold text 'Power Wave', '36% OFF', and 'USE CODE: NV10'.",
+   "spoken_0_3s": "",
+   "text_0_3s": "WAVYTALK Power Wave USE CODE: NV10 36% OFF",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Vibrant magenta/pink circular sticker reading '36% OFF' drawing immediate focal attention against the neutral background."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Brand and product name display",
+    "Special discount percentage highlight",
+    "Coupon code instruction",
+    "Visual proof of styled wavy hair result on model"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "36% off discount on WavyTalk Power Wave using code NV10"
+   ],
+   "pain_points": [],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Power Wave"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": 0,
+   "demo_clarity": "result_only",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "36% OFF",
+   "price_mentioned": "",
+   "discount_code": "NV10",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "USE CODE: NV10",
+   "cta_at_s": 0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "model",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "",
+   "hair_after": "Medium-length, defined S-waves, brunette/dark brown hair",
+   "setting": "studio",
+   "faces_camera": true,
+   "energy_tone": "Poised, relaxed commercial model pose"
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "Graphic text layout",
+    "Badge sticker overlay"
+   ],
+   "ending": "Static image graphic"
+  },
+  "notes": "Static ad creative designed for paid social promotion featuring coupon code NV10."
+ }
+}

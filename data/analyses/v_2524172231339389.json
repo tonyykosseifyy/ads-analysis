@@ -1,0 +1,538 @@
+{
+ "media_key": "v_2524172231339389",
+ "analyzed_at": "2026-11-28T00:09:38+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "f96debaf5a021349e2609b3b706ec0168d5601807fac18e3c1a4b7c6d8d1af94",
+ "source": {
+  "kind": "video",
+  "id": "2524172231339389",
+  "video_id": "1078296978041379",
+  "length_s": 73.421,
+  "permalink": "/23849366283980795/videos/1078296978041379/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 73.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese mom demonstrates how she quickly styles her hair in 10 minutes using the Wavytalk Blowout Boost heated round brush.",
+  "full_description": "A red-haired creator and busy mother talks directly to the camera about how hard it is to find time for hair styling. Holding the Wavytalk Blowout Boost thermal round brush, she demonstrates curling and styling sections of her hair. She explains how it combines brushing and drying into one step, making quick blowouts between work calls or school pickups easy. She reveals her bouncy, voluminous finished hair, shakes it out, and closes with an offer of 25% off and a 30-day return policy.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 85,
+    "en": 15,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "ar",
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 7.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "هيدي tool هي للمامز يلي بحسو بالذنب حتى لو قضو بس 10 دقايق عم بيظبطو شعراتن.",
+    "text_english": "This tool is for moms who feel guilty even if they spend just 10 minutes fixing their hair."
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 9.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "شوفو معي كيف.",
+    "text_english": "Watch with me how."
+   },
+   {
+    "start_s": 9.0,
+    "end_s": 20.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "الحياة مع الولاد ركض بركض. وأكيد أنا ما عندي وقت لأني كون عم بعمل شعراتي بالبيت، ولا اني روح عالصالون وظبطهن هنيك ساعة اللي بدي.",
+    "text_english": "Life with kids is non-stop running around. And surely I don't have time to do my hair at home, nor go to the salon to get it done whenever I want."
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 28.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أكتر شي حبيتو بهيدا Blowout Boost انه هي heated round brush.",
+    "text_english": "What I loved most about this Blowout Boost is that it is a heated round brush."
+   },
+   {
+    "start_s": 28.0,
+    "end_s": 33.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "يعني هي brush ودراير بنفس الوقت بـ 1 piece وحدة.",
+    "text_english": "Meaning it's a brush and dryer at the same time in 1 single piece."
+   },
+   {
+    "start_s": 33.0,
+    "end_s": 36.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "ولا أهين من هيك.",
+    "text_english": "Nothing easier than this."
+   },
+   {
+    "start_s": 37.0,
+    "end_s": 47.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بستعمله between my work calls، قبل ما روح اجيب اولادي من المدرسة. من بعد ما كون خلصت وجهزت حالي، آخر 10 minutes...",
+    "text_english": "I use it between my work calls, before I go pick up the kids from school. After I'm done and getting ready, the last 10 minutes..."
+   },
+   {
+    "start_s": 47.5,
+    "end_s": 58.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "واو! كنت نسيانة how it feels يكون شعري هيك كلو فوليوم.",
+    "text_english": "Wow! I had forgotten how it feels to have my hair like this, full of volume."
+   },
+   {
+    "start_s": 58.5,
+    "end_s": 64.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وحياة ما بقى عندك ساعة تظبطي شعراتك فيون، هيدي tool كانت لإلي الحل.",
+    "text_english": "And in a life where you no longer have an hour to do your hair, this tool was the solution for me."
+   },
+   {
+    "start_s": 64.5,
+    "end_s": 73.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "هلا عليها 25% off و30 days return. وكلو بيخلص بـ 10 minutes بس.",
+    "text_english": "Right now it has 25% off and 30 days return. And everything gets done in just 10 minutes."
+   }
+  ],
+  "transcript_full_original": "هيدي tool هي للمامز يلي بحسو بالذنب حتى لو قضو بس 10 دقايق عم بيظبطو شعراتن. شوفو معي كيف. الحياة مع الولاد ركض بركض. وأكيد أنا ما عندي وقت لأني كون عم بعمل شعراتي بالبيت، ولا اني روح عالصالون وظبطهن هنيك ساعة اللي بدي. أكتر شي حبيتو بهيدا Blowout Boost انه هي heated round brush. يعني هي brush ودراير بنفس الوقت بـ 1 piece وحدة. ولا أهين من هيك. بستعمله between my work calls، قبل ما روح اجيب اولادي من المدرسة. من بعد ما كون خلصت وجهزت حالي، آخر 10 minutes... واو! كنت نسيانة how it feels يكون شعري هيك كلو فوليوم. وحياة ما بقى عندك ساعة تظبطي شعراتك فيون، هيدي tool كانت لإلي الحل. هلا عليها 25% off و30 days return. وكلو بيخلص بـ 10 minutes بس.",
+  "transcript_full_english": "This tool is for moms who feel guilty even if they spend just 10 minutes fixing their hair. Watch with me how. Life with kids is non-stop running around. And surely I don't have time to do my hair at home, nor go to the salon to get it done whenever I want. What I loved most about this Blowout Boost is that it is a heated round brush. Meaning it's a brush and dryer at the same time in 1 single piece. Nothing easier than this. I use it between my work calls, before I go pick up the kids from school. After I'm done and getting ready, the last 10 minutes... Wow! I had forgotten how it feels to have my hair like this, full of volume. And in a life where you no longer have an hour to do your hair, this tool was the solution for me. Right now it has 25% off and 30 days return. And everything gets done in just 10 minutes.",
+  "word_count": 133,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "text": "هيدي TOOL هي للمامز",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 3.0,
+    "text": "بالذنب حتى لو قضو",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 5.0,
+    "text": "بس 10 دقايق",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 6.0,
+    "text": "عم بيظبطو",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.0,
+    "end_s": 7.0,
+    "text": "شعراتن",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 8.5,
+    "text": "شوفو معي كيف",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.0,
+    "end_s": 11.5,
+    "text": "الحياة مع الولاد ركض بركض",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 13.0,
+    "text": "واكيد انا ما عندي وقت",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 14.5,
+    "text": "لا اني اكون عم",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 15.5,
+    "text": "بعمل شعراتي",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.5,
+    "end_s": 16.5,
+    "text": "بالبيت ولا اني اروح",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 17.5,
+    "text": "عالصالون وظبطهن",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 18.5,
+    "text": "هنيك ساعة",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 20.0,
+    "text": "اللي بدي",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 21.5,
+    "text": "اكتر شي حبيتو",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.5,
+    "end_s": 23.5,
+    "text": "بهيدا BLOW OUT BOOST",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 25.5,
+    "text": "انه هي HEATED",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 27.5,
+    "text": "ROUND BRUSH",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 28.0,
+    "end_s": 30.0,
+    "text": "يعني هي برش ودراير",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 30.0,
+    "end_s": 31.5,
+    "text": "بنفس الوقت",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 31.5,
+    "end_s": 33.0,
+    "text": "بـ 1 PIECE وحده",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 34.0,
+    "end_s": 36.5,
+    "text": "ولا اهين من هيك",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 38.0,
+    "end_s": 39.0,
+    "text": "بستعمله",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 39.0,
+    "end_s": 41.0,
+    "text": "BETWEEN MY WORK CALLS",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 41.0,
+    "end_s": 42.5,
+    "text": "قبل ما روح اجيب",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 42.5,
+    "end_s": 43.5,
+    "text": "اولاد من المدرسة",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 43.5,
+    "end_s": 45.0,
+    "text": "من بعد ماكون",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 45.0,
+    "end_s": 46.0,
+    "text": "خلصت وجهزت حالي",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 46.0,
+    "end_s": 47.0,
+    "text": "10 MINUTES",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 53.0,
+    "end_s": 54.0,
+    "text": "واو",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 54.0,
+    "end_s": 55.0,
+    "text": "وكنت نسيانة",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 55.0,
+    "end_s": 56.5,
+    "text": "HOW IT FEELS",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 56.5,
+    "end_s": 57.5,
+    "text": "يكون شعري هيك",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 57.5,
+    "end_s": 59.0,
+    "text": "كله فوليوم",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 59.0,
+    "end_s": 61.0,
+    "text": "وحياة ما بقى عندك ساعة",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 61.0,
+    "end_s": 62.5,
+    "text": "تظبطي شعراتك",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 62.5,
+    "end_s": 63.5,
+    "text": "فيون",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 63.5,
+    "end_s": 64.5,
+    "text": "هيدي TOOL كانت",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 64.5,
+    "end_s": 65.5,
+    "text": "لإلي الحل",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 65.5,
+    "end_s": 66.5,
+    "text": "هلا عليا",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 66.5,
+    "end_s": 67.5,
+    "text": "25% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 67.5,
+    "end_s": 69.5,
+    "text": "30 DAYS RETURN",
+    "role": "benefit"
+   },
+   {
+    "start_s": 69.5,
+    "end_s": 71.5,
+    "text": "وكلو بيخلص بـ 10 MINUTES",
+    "role": "benefit"
+   },
+   {
+    "start_s": 71.5,
+    "end_s": 73.0,
+    "text": "بس",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 8.5,
+    "shot_type": "medium close-up",
+    "visual": "Female creator with reddish-brown hair holding up the pink Wavytalk Blowout Boost tool facing the camera.",
+    "action": "She talks to the camera, gestures with the tool, and points to the camera inviting the viewer to watch.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 27.5,
+    "shot_type": "medium shot",
+    "visual": "Creator wrapping front strands of her hair around the heated round brush barrel.",
+    "action": "She demonstrates rolling the brush into her hair at the crown and sides, releasing silky curls while talking.",
+    "product_visible": true
+   },
+   {
+    "start_s": 27.5,
+    "end_s": 33.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the Blowout Boost close to the lens and gesturing with her fingers.",
+    "action": "She explains the product mechanics and points at the barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 33.0,
+    "end_s": 36.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling the ends of a hair section with the brush and letting it fall smoothly.",
+    "action": "She brushes down and smiles at the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 36.5,
+    "end_s": 47.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the brush resting on her shoulder and touching her styled fringe/curls.",
+    "action": "She discusses her daily routine and touches her hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 47.0,
+    "end_s": 58.0,
+    "shot_type": "medium shot",
+    "visual": "Creator showing off her fully styled, voluminous, bouncy hair result.",
+    "action": "She fluffs her hair with both hands, flips it, shakes it, and smiles admiring the volume.",
+    "product_visible": false
+   },
+   {
+    "start_s": 58.0,
+    "end_s": 73.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the Blowout Boost device in front of her chest and addressing the audience directly.",
+    "action": "She gestures with the device and her hands while presenting the offer and return guarantee.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink Wavytalk Blowout Boost brush looking directly at the camera.",
+   "visual_0_3s": "Creator smiling while holding the heated brush with on-screen text addressing moms.",
+   "spoken_0_3s": "هيدي tool هي للمامز يلي بحسو بالذنب",
+   "text_0_3s": "هيدي TOOL هي للمامز / بالذنب حتى لو قضو",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "problem_callout",
+   "pattern_interrupt": "Direct callout specifically targeted at busy moms who feel guilty spending time on their hair."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Targeted hook addressing busy moms who feel guilty taking time for self-care",
+    "Relatable problem: lack of time to visit a salon or spend hours styling hair at home",
+    "Product introduction and feature breakdown: heated round brush combining styling and drying",
+    "Step-by-step quick demonstration showing smooth, bouncy curls",
+    "Lifestyle integration: styling between work calls and before school pickup",
+    "Reveal of full, bouncy salon blowout results",
+    "Offer and risk reversal: 25% discount and 30-day money-back guarantee"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Full hair blowout in only 10 minutes",
+    "Combines brush and dryer into 1 piece",
+    "Achieves salon volume and bounce at home without needing a 1-hour appointment"
+   ],
+   "pain_points": [
+    "Busy schedule with kids and work leaves no time for hair styling",
+    "Inability to spend hours visiting the hair salon whenever wanted",
+    "Mom guilt when taking time out to get ready"
+   ],
+   "objections_handled": [
+    "Complicated styling routines handled by showing an all-in-one simple 10-minute brush",
+    "Fear of wasting money handled by 30-day return policy and 25% discount"
+   ],
+   "social_proof": [],
+   "comparison_to": "hair salon blowouts"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 8.5,
+   "final_result_shown_s": 47.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "25% off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "هلا عليها 25% off و30 days return",
+   "cta_on_screen": "25% OFF / 30 DAYS RETURN",
+   "cta_at_s": 66.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Medium-long straight/wavy auburn red hair",
+   "hair_after": "Voluminous, bouncy blowout with smooth waves and curtain fringe",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Warm, relatable, friendly, and enthusiastic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No background music; clear direct UGC voice recording.",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 10.4,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts",
+    "burned-in animated word captions"
+   ],
+   "ending": "Creator smiles, holding the styling tool while mentioning the 10-minute turnaround."
+  },
+  "notes": "Targeted at mothers in Lebanon. Emphasizes emotional relief and time-saving for busy working moms."
+ }
+}

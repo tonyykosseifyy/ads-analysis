@@ -1,0 +1,310 @@
+{
+ "media_key": "v_1095495533042569",
+ "analyzed_at": "2026-11-28T00:09:01+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "f996f4a03afbde2c782771ad494ee368645ed36128257fbc039ed5c3f8acce65",
+ "source": {
+  "kind": "video",
+  "id": "1095495533042569",
+  "video_id": "1045813285028331",
+  "length_s": 81.802,
+  "permalink": "/23849366283980795/videos/1045813285028331/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 81.7,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator showcases her voluminous at-home blowout results and demonstrates curling her hair with the Wavytalk Blowout Boost thermal brush.",
+  "full_description": "A young Lebanese woman demonstrates styling her hair at home using the Wavytalk Blowout Boost thermal brush. She starts by showing her already-styled hair and explaining how simple it is to do her own hair without going to the salon. She introduces the pink thermal brush, details how to section and curl strands, and explains the importance of adjusting temperature according to hair thickness across its 5 heat settings. She highlights saving time and money, being ready for last-minute plans in 10 minutes, and concludes by showing the finished bouncy blowout and mentioning a 25% discount and 30-day return policy.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 70,
+    "en": 30,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "إلي كتير زمان بعمل my own makeup بس هلق recently بلشت أعمل شعري أنا بالبيت لحالي.",
+    "text_english": "I've been doing my own makeup for a long time, but now recently I started doing my hair at home by myself."
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 6.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "يا ريت حدا قالي it was gonna be this easy.",
+    "text_english": "I wish someone had told me it was going to be this easy."
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 12.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "So عازيين a thermal brush, بس make sure إنو عم تستعملي something that has the right heat for your hair type.",
+    "text_english": "So you need a thermal brush, but make sure that you're using something that has the right heat for your hair type."
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 20.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "So the process is so easy. بتاخدوا خصلة، بعدين بتلفّوها هيك مرة، بتنزلي، وبتنطري شوي،",
+    "text_english": "So the process is so easy. You take a strand, then you wrap it once like this, glide down, and wait a bit,"
+   },
+   {
+    "start_s": 20.3,
+    "end_s": 26.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "then بتعملي هيك، ok، and you get the perfect curl.",
+    "text_english": "then you do like this, ok, and you get the perfect curl."
+   },
+   {
+    "start_s": 26.8,
+    "end_s": 33.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بهالحالة الـ heat super مهم، أنا عم بستعمل هيدا الـ Blowout Boost من عند Wavytalk. It has five heat levels.",
+    "text_english": "In this case heat is super important, I'm using this Blowout Boost from Wavytalk. It has five heat levels."
+   },
+   {
+    "start_s": 33.6,
+    "end_s": 39.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "So بستعمل الـ heat يلي هو مناسب لـ my hair type. فك، وليكو كيف بيطلع.",
+    "text_english": "So I use the heat that is suitable for my hair type. Release, and look how it comes out."
+   },
+   {
+    "start_s": 39.5,
+    "end_s": 45.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Usually كل ما شعرك أعبى، كل ما تعلي بالـ heat كرمال تشوفي the most results.",
+    "text_english": "Usually the thicker your hair is, the more you increase the heat so you see the most results."
+   },
+   {
+    "start_s": 45.4,
+    "end_s": 50.8,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "فهلق بنطر شوي، وليكو كيف طلعت.",
+    "text_english": "So now I wait a bit, and look how it turned out."
+   },
+   {
+    "start_s": 50.8,
+    "end_s": 57.3,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "صار كل ما عبالي زبط شعري، بقدر أعمله بالبيت بلا ما روح لعند الكوافير، بوفر مصاري وبوفر وقت.",
+    "text_english": "Now whenever I want to fix my hair, I can do it at home without going to the hairdresser, saving money and saving time."
+   },
+   {
+    "start_s": 57.3,
+    "end_s": 65.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وزيادة عن هيك since I can get my hair done fast، ما بقى عندي مشكلة مع الـ last minute plans، فيي دغري زبط شعري وأمشي.",
+    "text_english": "On top of that, since I can get my hair done fast, I no longer have an issue with last minute plans, I can quickly fix my hair and head out."
+   },
+   {
+    "start_s": 65.3,
+    "end_s": 67.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "كله بـ 10 minutes بس.",
+    "text_english": "All in just 10 minutes."
+   },
+   {
+    "start_s": 67.5,
+    "end_s": 71.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Guys this is the final results مع هيدا الـ tool.",
+    "text_english": "Guys, this is the final results with this tool."
+   },
+   {
+    "start_s": 71.3,
+    "end_s": 76.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I really recommend this tool from Wavytalk, it's the Blowout Boost. It's now 25% off",
+    "text_english": "I really recommend this tool from Wavytalk, it's the Blowout Boost. It's now 25% off"
+   },
+   {
+    "start_s": 76.5,
+    "end_s": 81.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "مع 30 days return، يعني إذا ما حبيتوا الـ results يلي عملتلكم ياهن هون، you can directly return the brush.",
+    "text_english": "with a 30-day return, meaning if you don't like the results that I made for you here, you can directly return the brush."
+   }
+  ],
+  "transcript_full_original": "إلي كتير زمان بعمل my own makeup بس هلق recently بلشت أعمل شعري أنا بالبيت لحالي. يا ريت حدا قالي it was gonna be this easy. So عازيين a thermal brush, بس make sure إنو عم تستعملي something that has the right heat for your hair type. So the process is so easy. بتاخدوا خصلة، بعدين بتلفّوها هيك مرة، بتنزلي، وبتنطري شوي، then بتعملي هيك، ok، and you get the perfect curl. بهالحالة الـ heat super مهم، أنا عم بستعمل هيدا الـ Blowout Boost من عند Wavytalk. It has five heat levels. So بستعمل الـ heat يلي هو مناسب لـ my hair type. فك، وليكو كيف بيطلع. Usually كل ما شعرك أعبى، كل ما تعلي بالـ heat كرمال تشوفي the most results. فهلق بنطر شوي، وليكو كيف طلعت. صار كل ما عبالي زبط شعري، بقدر أعمله بالبيت بلا ما روح لعند الكوافير، بوفر مصاري وبوفر وقت. وزيادة عن هيك since I can get my hair done fast، ما بقى عندي مشكلة مع الـ last minute plans، فيي دغري زبط شعري وأمشي. كله بـ 10 minutes بس. Guys this is the final results مع هيدا الـ tool. I really recommend this tool from Wavytalk, it's the Blowout Boost. It's now 25% off مع 30 days return، يعني إذا ما حبيتوا الـ results يلي عملتلكم ياهن هون، you can directly return the brush.",
+  "transcript_full_english": "I've been doing my own makeup for a long time, but now recently I started doing my hair at home by myself. I wish someone had told me it was going to be this easy. So you need a thermal brush, but make sure that you're using something that has the right heat for your hair type. So the process is so easy. You take a strand, then you wrap it once like this, glide down, and wait a bit, then you do like this, ok, and you get the perfect curl. In this case heat is super important, I'm using this Blowout Boost from Wavytalk. It has five heat levels. So I use the heat that is suitable for my hair type. Release, and look how it comes out. Usually the thicker your hair is, the more you increase the heat so you see the most results. So now I wait a bit, and look how it turned out. Now whenever I want to fix my hair, I can do it at home without going to the hairdresser, saving money and saving time. On top of that, since I can get my hair done fast, I no longer have an issue with last minute plans, I can quickly fix my hair and head out. All in just 10 minutes. Guys, this is the final results with this tool. I really recommend this tool from Wavytalk, it's the Blowout Boost. It's now 25% off with a 30-day return, meaning if you don't like the results that I made for you here, you can directly return the brush.",
+  "word_count": 224,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.8,
+    "shot_type": "medium close-up",
+    "visual": "Young creator with fully styled, voluminous dark hair facing camera, gesturing with hands.",
+    "action": "Creator talks to the camera, touching her bouncy styled hair and introducing how easy it is to style hair at home.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 12.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the pink Wavytalk Blowout Boost thermal round brush up towards the camera.",
+    "action": "Shows the brush, pointing to its barrel and digital temperature display.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 26.8,
+    "shot_type": "medium shot",
+    "visual": "Creator demonstrates the styling technique on a strand of hair.",
+    "action": "Wraps hair around the thermal brush, holds it in place, glides down, and releases a defined curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.8,
+    "end_s": 39.5,
+    "shot_type": "medium shot",
+    "visual": "Creator demonstrates on another section while talking about temperature levels.",
+    "action": "Explains the 5 heat levels, wraps hair around the barrel, pauses, and unravels a smooth curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 39.5,
+    "end_s": 50.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator wrapping an upper section of hair around the thermal brush.",
+    "action": "Holds hair wrapped around the heated barrel, explains heat for thicker hair, then releases the bounce curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 50.8,
+    "end_s": 67.5,
+    "shot_type": "medium shot",
+    "visual": "Creator styles another piece while explaining the lifestyle benefits.",
+    "action": "Curls hair while detailing how it saves time, salon money, and enables getting ready in 10 minutes for last-minute plans.",
+    "product_visible": true
+   },
+   {
+    "start_s": 67.5,
+    "end_s": 81.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator shows off the final voluminous blowout result holding the Blowout Boost brush.",
+    "action": "Shakes and displays her bouncy hair, holds up the tool, and delivers the offer and 30-day return policy CTA.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing off her polished salon-style blowout hair.",
+   "visual_0_3s": "Creator talking energetically with full-volume bouncy blowout hair visible from the start.",
+   "spoken_0_3s": "إلي كتير زمان بعمل my own makeup بس هلق recently بلشت أعمل شعري أنا بالبيت لحالي.",
+   "text_0_3s": "",
+   "hook_type": "result_first",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Starts with flawless salon blowout results immediately visible on the creator."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: Relatable story of starting to do hair at home and finding it unexpectedly easy",
+    "Product Introduction: Introducing the thermal round brush and importance of correct heat",
+    "Step-by-step Demo: Showing wrapping, holding, gliding, and curl release technique",
+    "Feature Explanation: 5 heat settings for different hair thicknesses",
+    "Benefits/Lifestyle: Saving salon money, saving time, ready in 10 minutes for last-minute plans",
+    "Result & Offer: Final hair showcase, 25% discount, and 30-day risk-free return guarantee"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "easy_for_beginners",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Get salon blowout curls at home by yourself",
+    "Full hair styling done in just 10 minutes",
+    "Has 5 adjustable heat levels tailored for hair thickness",
+    "Saves money and time from salon visits",
+    "25% off with 30 days return"
+   ],
+   "pain_points": [
+    "Spending too much time and money visiting hair salons",
+    "Difficulty styling hair alone at home",
+    "Not having enough time to fix hair for last-minute plans",
+    "Wrong heat tools damaging hair or not holding curls"
+   ],
+   "objections_handled": [
+    "Is it difficult to use? Demonstrated as simple wrap-and-glide technique",
+    "Will it work on my hair thickness? Tool features 5 customizable heat levels",
+    "What if I don't get the same results? 30-day return guarantee"
+   ],
+   "social_proof": [],
+   "comparison_to": "Hair salon / coiffeur visits"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 6.8,
+   "first_used_on_hair_s": 13.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "25% off with 30 days return",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "I really recommend this tool from Wavytalk, it's the Blowout Boost. It's now 25% off مع 30 days return، يعني إذا ما حبيتوا الـ results يلي عملتلكم ياهن هون، you can directly return the brush.",
+   "cta_on_screen": "",
+   "cta_at_s": 71.3
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Dark brown/black long hair styled with layered blowout curls",
+   "hair_after": "Dark brown/black voluminous bouncy blowout with defined curled ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "friendly, enthusiastic, relatable, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "Soft, upbeat instrumental background music",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 11.6,
+   "pacing": "medium",
+   "effects": [],
+   "ending": "Creator holding the thermal brush smiling and explaining the return policy"
+  },
+  "notes": "Natural phone-shot UGC video ad targeting the Lebanese market with prominent Lebanese-English code switching."
+ }
+}

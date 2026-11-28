@@ -1,0 +1,206 @@
+{
+ "media_key": "v_1593327482470981",
+ "analyzed_at": "2026-11-28T00:11:35+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "b137b6b899dbd7cdcce3ef74f4f02333fdfec846f28cd5a992726b0fa95a636a",
+ "source": {
+  "kind": "video",
+  "id": "1593327482470981",
+  "video_id": "1376712124619603",
+  "length_s": 35.292,
+  "permalink": "/23849366283980795/videos/1376712124619603/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 35.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates a step-by-step tutorial styling voluminous 'curly-ish blowouts' using a thermal round brush.",
+  "full_description": "A tutorial-style UGC video where a female creator with long highlighted hair demonstrates how to achieve voluminous 'curly-ish blowouts'. She hooks the viewer with a dramatic hair flip showing bouncy blowout curls from the back and front, presents the pink thermal round brush tool, applies hair spray, and curls various sections from bottom to top, including face-framing fringe. She finishes by shaking out her bouncy curls and giving an okay sign.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 35.0,
+    "text": "Curly-ish blowouts >>",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.4,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting with back to camera showing voluminous wavy curls, then turns around and shakes her lush, bouncy hair toward the camera with a smile.",
+    "action": "Creator turns from back view to front view, fluffing finished hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 4.6,
+    "shot_type": "close-up",
+    "visual": "Creator holds the pink thermal heated round brush directly in front of the lens.",
+    "action": "Holding up styling tool to show the barrel and bristles.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.6,
+    "end_s": 6.1,
+    "shot_type": "medium shot",
+    "visual": "Creator holding a white spray bottle misting heat protectant onto her hair.",
+    "action": "Spraying hair section before heat styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.1,
+    "end_s": 10.7,
+    "shot_type": "medium shot",
+    "visual": "Creator with top hair clipped up, wrapping a strand around the thermal brush barrel, sliding down and rolling to create a spiral curl.",
+    "action": "Styling lower section with thermal round brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.7,
+    "end_s": 13.5,
+    "shot_type": "medium shot",
+    "visual": "Creator curling another upper-side strand around the brush, twirling it out smoothly.",
+    "action": "Twirling thermal brush through mid hair strands.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 17.0,
+    "shot_type": "medium shot",
+    "visual": "Creator unclips top sections, shakes hair, and sprays additional product onto remaining unstyled hair.",
+    "action": "Sectioning and applying styling spray.",
+    "product_visible": false
+   },
+   {
+    "start_s": 17.0,
+    "end_s": 23.3,
+    "shot_type": "medium shot",
+    "visual": "Creator taking front-side section, wrapping around the heated brush, twirling down and pulling out to reveal a defined glossy curl.",
+    "action": "Curling face-framing hair sections.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.3,
+    "end_s": 26.6,
+    "shot_type": "medium shot",
+    "visual": "Creator rolls front bangs / fringe upward and away from face around the thermal brush, then rolls it out for bouncy volume.",
+    "action": "Curling fringe/bangs.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.6,
+    "end_s": 35.0,
+    "shot_type": "medium shot",
+    "visual": "Creator fluffing curls with hands, flipping hair from back to front, showing high volume and glossy bounce, clapping softly and making an OK hand sign.",
+    "action": "Showcasing final hairstyle result from multiple angles.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator viewed from behind running fingers through glossy, voluminous blonde-highlighted blowout curls under text 'Curly-ish blowouts >>'.",
+   "visual_0_3s": "Creator shows cascading blowout curls from behind, turns around to camera, and flips her voluminous bouncy hair with a radiant smile.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Curly-ish blowouts >>",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Immediate dramatic reveal of massive, salon-quality blowout volume before cutting straight to the tool used."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Result reveal (hook)",
+    "Product presentation",
+    "Preparation (spray)",
+    "Step-by-step curling demo (lower, mid, front sections)",
+    "Fringe styling technique",
+    "Final result showcase and approval"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Creates curly-ish salon-style blowouts easily at home",
+    "Gives incredible volume, bounce, and definition without frizz"
+   ],
+   "pain_points": [
+    "Flat hair lacking volume",
+    "Difficulty creating blowout curls using traditional round brushes and dryers"
+   ],
+   "objections_handled": [
+    "Ease of use (demonstrates single-tool one-hand rolling technique)"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Thermal Heated Round Brush (Blowout Boost)"
+   ],
+   "first_seen_s": 3.4,
+   "first_used_on_hair_s": 6.1,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Straight to loose wavy long brown hair with blonde balayage highlights",
+   "hair_after": "Voluminous, glossy curly-ish bouncy blowout with curled ends and curtain fringe",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Playful, confident, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat electro-pop track with female vocals ('Claws are awake now...').",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 3.89,
+   "pacing": "medium",
+   "effects": [
+    "text overlay",
+    "speed cuts"
+   ],
+   "ending": "Creator smiles, claps softly, and signs 'OK' with her hand to celebrate the finished blowout."
+  },
+  "notes": "Video contains no spoken dialogue or voiceover; communication relies entirely on visual demonstration, energetic background music, and a static hook overlay text."
+ }
+}

@@ -1,0 +1,208 @@
+{
+ "media_key": "v_747895874805216",
+ "analyzed_at": "2026-11-28T00:13:54+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "8f4161da9fe265d5280311f2c6b0fdca0de63d637d177b3975fa2d8f80f05181",
+ "source": {
+  "kind": "video",
+  "id": "747895874805216",
+  "video_id": "936985588684895",
+  "length_s": 20.015,
+  "permalink": "/23849366283980795/videos/936985588684895/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 19.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator reacts to a viral Blowout Boost clip, then tests the thermal round brush on her own bangs to recreate the same bouncy salon blowout.",
+  "full_description": "The ad starts in a green-screen reaction format where a Lebanese creator reacts to an American creator's viral blowout tutorial using the purple Wavytalk Blowout Boost. The creator explains in Lebanese Arabic that she didn't get the hype until seeing the viral result, and decides to test it herself. The video then transitions to the creator styling her own hair with the pink Wavytalk Blowout Boost, rolling and twisting her front layers to achieve bouncy, voluminous curtain bangs.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 70,
+    "en": 30,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "ما كنت عم بفهم ليش الـ Blowout Boost من عند Wavytalk هالقد عامل ضجة،",
+    "text_english": "I didn't understand why the Blowout Boost from Wavytalk was making such a buzz,"
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 5.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "until شفت هيدا الـ video وقديش غرتها طلعت حلوة،",
+    "text_english": "until I saw this video and how pretty her bangs turned out,"
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 7.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "so خليني جرب أعمل نفس الشي.",
+    "text_english": "so let me try to do the same thing."
+   }
+  ],
+  "transcript_full_original": "ما كنت عم بفهم ليش الـ Blowout Boost من عند Wavytalk هالقد عامل ضجة، until شفت هيدا الـ video وقديش غرتها طلعت حلوة، so خليني جرب أعمل نفس الشي.",
+  "transcript_full_english": "I didn't understand why the Blowout Boost from Wavytalk was making such a buzz, until I saw this video and how pretty her bangs turned out, so let me try to do the same thing.",
+  "word_count": 27,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "text": "Blowout with the Wavytalk Blowout Boost",
+    "role": "hook"
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 3.2,
+    "text": "Shock",
+    "role": "other"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.8,
+    "shot_type": "picture-in-picture green screen reaction",
+    "visual": "A viral styling video runs in the background showing a woman using the purple Wavytalk thermal brush. The creator is superimposed in the bottom-left corner speaking to camera.",
+    "action": "Background creator releases her curtain bangs and shows surprise at the volume. The reacting creator points and explains she wants to replicate it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 8.0,
+    "shot_type": "medium close-up selfie",
+    "visual": "Creator in a grey knit sweater holding the pink Wavytalk Blowout Boost near her hair.",
+    "action": "Creator sections her front hair and prepares to curl it with the thermal brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 11.2,
+    "shot_type": "medium close-up selfie",
+    "visual": "Creator showing the initial flip and smoothness of her hair ends.",
+    "action": "Creator runs the brush through her ends, smiling at how smooth it looks.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 15.5,
+    "shot_type": "medium close-up selfie",
+    "visual": "Creator curling the front bang section upwards and outwards away from her face using the pink thermal brush.",
+    "action": "Creator twirls the brush through her hair to build volume and shape the curtain bang, then gently releases it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.5,
+    "end_s": 19.8,
+    "shot_type": "medium close-up selfie",
+    "visual": "Finished blowout look on the creator.",
+    "action": "Creator fluffs and combs through her voluminous, bouncy front curl with her fingers, smiling at the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Green-screen overlay of the creator over a viral hair tutorial with text 'Blowout with the Wavytalk Blowout Boost'.",
+   "visual_0_3s": "Viral video of an influencer styling long curtain bangs with the purple thermal brush while the creator comments in the corner.",
+   "spoken_0_3s": "ما كنت عم بفهم ليش الـ Blowout Boost من عند Wavytalk هالقد عامل ضجة",
+   "text_0_3s": "Blowout with the Wavytalk Blowout Boost",
+   "hook_type": "reaction",
+   "hook_type_secondary": "social_proof",
+   "pattern_interrupt": "Green screen reaction layout piggybacking on a recognized viral TikTok video."
+  },
+  "structure": {
+   "format": "reaction_or_duet",
+   "narrative_beats": [
+    "Reaction to viral hype (questioning why everyone is obsessed)",
+    "Decision to test the tool herself",
+    "Step-by-step application on curtain bangs",
+    "Final bouncy blowout reveal"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "social_proof_popularity",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Creates stunning, salon-like bouncy curtain bangs easily at home",
+    "Lives up to viral social media hype"
+   ],
+   "pain_points": [
+    "Difficulty styling bangs/curtain layers at home with standard tools"
+   ],
+   "objections_handled": [
+    "Is the viral hype genuine or fake"
+   ],
+   "social_proof": [
+    "Referencing viral TikTok / social video of the product"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 15.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 2,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Straight to slightly wavy long brunette hair",
+   "hair_after": "Voluminous, styled curtain bangs with flipped ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, curious, casual"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Trending R&B/pop remix music playing prominently during the tutorial demo.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 3.96,
+   "pacing": "fast",
+   "effects": [
+    "green screen picture-in-picture",
+    "cut transitions"
+   ],
+   "ending": "Creator proudly poses, touching her styled bouncy hair looking directly into the camera."
+  },
+  "notes": "Targeted at Lebanese market, utilizing a popular TikTok trend where local creators react to viral US/global styling videos before replicating the routine themselves."
+ }
+}

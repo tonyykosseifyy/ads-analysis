@@ -1,0 +1,227 @@
+{
+ "media_key": "v_1146569258235651",
+ "analyzed_at": "2026-11-28T00:13:35+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "c968bead73141efead905ea17941796a242ef85b8bfab24143b1ed732067e576",
+ "source": {
+  "kind": "video",
+  "id": "1146569258235651",
+  "video_id": "1677540307241614",
+  "length_s": 25.266,
+  "permalink": "/23849366283980795/videos/1677540307241614/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 24.6,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator showcases a fast 15-minute bouncy salon blowout using the pink Wavytalk Blowout Boost Thermal Brush through a before/after split demo.",
+  "full_description": "The video starts with an immediate half-head comparison: the creator's hair is styled into a voluminous blowout on the left ('After') while the right side is flat and unstyled ('Before'), labeled '15mins Blowout with Wavytalk Blowout Boost Thermal Brush'. She then shows the pink Wavytalk thermal brush, followed by a macro shot of the digital temperature screen. Next, she demonstrates step-by-step how she wraps sections around the barrel and glides it down to form curls and volume on the sides and bangs. A shot from behind displays smooth, glossy bouncy curls on the back of her head. The video ends with her fluffing her hair, showing off the voluminous final result, and holding the brush next to her face.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "text": "After",
+    "role": "hook"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "text": "Before",
+    "role": "hook"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "text": "15mins Blowout with Wavytalk Blowout Boost Thermal Brush",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing camera showing a half-head before-and-after comparison of her hair with text overlays.",
+    "action": "Creator shakes her hair and gestures to the styled wavy blowout side versus the flat unstyled side.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 3.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator smiles and displays the pink Wavytalk Blowout Boost Thermal Brush in her hands.",
+    "action": "Creator turns the brush toward the camera to present it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 5.5,
+    "shot_type": "close-up",
+    "visual": "Macro close-up shot of the pink thermal brush handle.",
+    "action": "Hand turns on the device, displaying the digital temperature readout rising to 380°F and the blue ion indicator light.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 6.6,
+    "shot_type": "medium shot",
+    "visual": "Creator preparing her hair in front of a neutral studio background.",
+    "action": "Creator clips the top layer of her hair up to section it.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.6,
+    "end_s": 9.4,
+    "shot_type": "close-up",
+    "visual": "Close-up of hair styling on the lower side section.",
+    "action": "Creator rolls the thermal brush through a section of hair, holds it at the ends, and twists down to release a bouncy curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.4,
+    "end_s": 12.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the middle hair layers.",
+    "action": "Creator winds the brush under the strand and glides smoothly outward to create a curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 14.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling front curtain bangs and top framing layer.",
+    "action": "Creator places the brush under bangs, rolls up and back away from the face, and pulls through.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.7,
+    "end_s": 17.7,
+    "shot_type": "close-up back view",
+    "visual": "Rear view of creator's dark brown hair.",
+    "action": "Creator finishes curling the back section with the brush and gently shakes the head to show uniform, shiny waves.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.7,
+    "end_s": 23.4,
+    "shot_type": "medium close-up",
+    "visual": "Front view of creator admiring her fully finished blowout.",
+    "action": "Creator runs fingers through her roots and lengths, tossing hair side to side to showcase volume, bounce, and shine.",
+    "product_visible": false
+   },
+   {
+    "start_s": 23.4,
+    "end_s": 24.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator posing with the styled blowout and the tool.",
+    "action": "Creator holds the pink Wavytalk Blowout Boost tool beside her cheek and smiles into the lens.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Split comparison showing the creator's hair styled in a bouncy blowout on the left marked 'After' and unstyled on the right marked 'Before'.",
+   "visual_0_3s": "Creator shakes her hair to highlight the stark contrast between the styled blowout side and the flat unstyled side, then reveals the pink brush.",
+   "spoken_0_3s": "",
+   "text_0_3s": "After / Before / 15mins Blowout with Wavytalk Blowout Boost Thermal Brush",
+   "hook_type": "before_after",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Instant side-by-side contrast on the opening frame demonstrating the full finished result against flat unstyled hair."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Half-head before/after reveal hook",
+    "Product presentation and digital temp screen feature showcase",
+    "Step-by-step styling demo on sides, ends, bangs, and back",
+    "Back view showing smooth curls",
+    "Final hair fluff and finished result pose with the tool"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Full blowout in 15 minutes",
+    "Bouncy salon-quality curls and volume at home"
+   ],
+   "pain_points": [
+    "Flat, lifeless unstyled hair",
+    "Time-consuming traditional blowout routines"
+   ],
+   "objections_handled": [
+    "Hard to style the back of the head (demonstrated clearly from rear view)",
+    "Takes too long (claims 15-minute completion)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Unstyled/air-dried hair ('Before' side)"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 2.0,
+   "first_used_on_hair_s": 6.6,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Collarbone-length dark brown straight/flat unstyled hair",
+   "hair_after": "Voluminous, bouncy blowout with smooth curved ends and textured curtain bangs",
+   "setting": "studio",
+   "faces_camera": true,
+   "energy_tone": "confident, aesthetic, effortlessly chic"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Trendy upbeat R&B/pop song with female vocals ('Sweet like peaches, I'ma be your fantasy...')",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 2.5,
+   "pacing": "medium",
+   "effects": [
+    "on-screen text overlay",
+    "macro focus pull"
+   ],
+   "ending": "Creator smiles at the camera holding the heated brush next to her bouncy finished blowout."
+  },
+  "notes": "Silent aesthetic UGC demonstration set to trending music. Hook relies on high-contrast half-head Before/After on frame 0."
+ }
+}

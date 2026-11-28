@@ -1,0 +1,142 @@
+{
+ "media_key": "i_4190481d22e4d79d5157d2de0bf37cad",
+ "analyzed_at": "2026-11-28T00:46:51+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "aeac2d42d052fdf3f2affa8f7d47bcdb9ea6c9f3751e76c681a506e0071fb7cd",
+ "source": {
+  "kind": "image",
+  "id": "4190481d22e4d79d5157d2de0bf37cad"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Static Christmas promo graphic showing a hand holding a pink basket filled with holiday decorations and a pink WavyTalk thermal brush offering 15% off.",
+  "full_description": "A vertical festive promotional image on a pastel pink background decorated with subtle white snowflake motifs. A hand reaches into frame from the upper right, holding the handle of a miniature pale pink shopping basket adorned with a red satin bow. Inside the basket are pine tree twigs, holly leaves, red berries, metallic gold and pink Christmas baubles, a matching pink vented detangling paddle brush, and a pink WavyTalk Ionic Thermal Brush. Bold white uppercase text at the top reads 'WAVYTALK CHRISTMAS SALE' with a subline '15% OFF IONIC THERMAL BRUSH'. At the bottom, white capitalized text reads 'MANIFESTING THIS WHOLE VIBE'.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK CHRISTMAS SALE",
+    "role": "hook"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "15% OFF IONIC THERMAL BRUSH",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "MANIFESTING THIS WHOLE VIBE",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "product shot",
+    "visual": "Pink studio backdrop with subtle snowflakes. A hand holds a pink basket packed with Christmas greenery, ornaments, a red ribbon, a pink paddle brush, and the WavyTalk Ionic Thermal Brush.",
+    "action": "Hand holding gift basket static pose with promotional text overlay above and below.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Festive pink holiday shopping basket containing a WavyTalk thermal brush with 'WAVYTALK CHRISTMAS SALE' headline.",
+   "visual_0_3s": "Hand holding a holiday-themed pink basket with WavyTalk thermal brush and Christmas decorations against a pink background.",
+   "spoken_0_3s": "",
+   "text_0_3s": "WAVYTALK CHRISTMAS SALE\n15% OFF IONIC THERMAL BRUSH\nMANIFESTING THIS WHOLE VIBE",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "product_reveal",
+   "pattern_interrupt": "Aesthetic pastel pink holiday basket concept paired with seasonal Christmas sale messaging."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Holiday promotion announcement with discount callout",
+    "Product showcase arranged aesthetically as a Christmas gift package",
+    "Aspirational lifestyle tagline appealing to holiday gifting vibes"
+   ],
+   "main_angle": "gift_or_occasion",
+   "secondary_angles": [
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "15% off Ionic Thermal Brush for Christmas"
+   ],
+   "pain_points": [],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Ionic Thermal Brush",
+    "Pink Vented Paddle Brush"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "15% off Ionic Thermal Brush",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Christmas Sale",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "hands_only",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "studio",
+   "faces_camera": false,
+   "energy_tone": "festive and aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "Graphic overlay",
+    "Snowflake background design"
+   ],
+   "ending": "Static image ad"
+  },
+  "notes": "Static graphic ad formatted for 9:16 Instagram Stories / Reels promoting a 15% discount on the WavyTalk Ionic Thermal Brush as a Christmas gift or holiday purchase."
+ }
+}

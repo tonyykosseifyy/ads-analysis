@@ -1,0 +1,176 @@
+{
+ "media_key": "v_1886450402514921",
+ "analyzed_at": "2026-11-28T00:13:34+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "ed4062ea238246f79ba6c915a5375e774b500fdda576d41290d7aec3a0f10204",
+ "source": {
+  "kind": "video",
+  "id": "1886450402514921",
+  "video_id": "1888208152614830",
+  "length_s": 15.44,
+  "permalink": "/23849366283980795/videos/1888208152614830/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 14.9,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates achieving a massive, bouncy fall blowout using the WavyTalk Blowout Boost thermal round brush.",
+  "full_description": "The video opens with a result hook showing the creator from behind lifting and shaking her thick, bouncy, voluminous blowout hair with text reading 'FALL IS FOR BLOWOUTS'. It then transitions to a quick tutorial demo where she curls a strand of hair using the white WavyTalk thermal round brush (Blowout Boost) to create a defined, bouncy curl. The video concludes with front and back beauty shots showcasing the finished, full-volume blowout look.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "text": "FALL\nIS FOR\nBLOWOUTS\n🍂☕️🥧",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "shot_type": "medium shot (back view)",
+    "visual": "Creator seen from behind, shaking and fluffing long, thick, bouncy blowout curls.",
+    "action": "Creator puts her hands in her hair and shakes out voluminous curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 7.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing the camera with her top hair pinned up, using the white thermal round brush on a lower section.",
+    "action": "Creator glides and twirls the thermal brush through a strand of hair, releasing a bouncy spiral curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.1,
+    "end_s": 9.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the thermal brush horizontally while admiring the freshly curled hair strand.",
+    "action": "Creator pauses to display the curled strand alongside the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.4,
+    "end_s": 11.2,
+    "shot_type": "medium shot",
+    "visual": "Creator turned to the side, showcasing the volume and bouncy layers framing her face.",
+    "action": "Creator inspects her styled hair and holds the brush down.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 13.5,
+    "shot_type": "medium shot",
+    "visual": "Creator smiling directly into the camera with her complete voluminous blowout.",
+    "action": "Creator smiles and runs her fingers through her face-framing layers.",
+    "product_visible": false
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 14.9,
+    "shot_type": "medium shot (back view)",
+    "visual": "Creator turns around showing the voluminous back of her hair.",
+    "action": "Creator lifts and tosses her hair to emphasize the bouncy ends.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator from behind fluffing out a huge, voluminous blowout with text overlay 'FALL IS FOR BLOWOUTS'.",
+   "visual_0_3s": "Voluminous hair flip from behind cutting directly into styling hair with the thermal round brush.",
+   "spoken_0_3s": "",
+   "text_0_3s": "FALL IS FOR BLOWOUTS 🍂☕️🥧",
+   "hook_type": "result_first",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "Instant dramatic motion of massive, shiny, bouncy hair flipping in the first frame."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Instant finished result hook (back view volume)",
+    "Quick step-by-step curling demo with the brush",
+    "Showcase the curl result",
+    "Final aesthetic reveal from front and back"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Effortlessly achieves huge, bouncy salon blowout volume at home"
+   ],
+   "pain_points": [
+    "Flat, lifeless hair",
+    "Difficulty managing a traditional round brush and blow dryer together"
+   ],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 2.1,
+   "first_used_on_hair_s": 2.1,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Long, fine-to-medium straight light brown hair",
+   "hair_after": "Voluminous, bouncy, 90s-style blowout curls with layered texture",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "aesthetic, relaxed, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Indie pop / bedroom pop track with female vocals and soft beat playing throughout.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 2.5,
+   "pacing": "medium",
+   "effects": [
+    "text overlay with emojis"
+   ],
+   "ending": "Creator tosses her voluminous hair while facing away from the camera."
+  },
+  "notes": "Silent aesthetic UGC ad optimized for organic/reels feed; leverages seasonal trend hook 'Fall is for blowouts' to drive visual desire without spoken sales pitch."
+ }
+}

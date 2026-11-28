@@ -1,0 +1,235 @@
+{
+ "media_key": "v_1842153546977652",
+ "analyzed_at": "2026-11-28T00:47:41+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "2936f7422e5f09b7b015ce3fc2ee296eb1236002682cb2551aafe59c49ec72ee",
+ "source": {
+  "kind": "video",
+  "id": "1842153546977652",
+  "video_id": "1637585108020564",
+  "length_s": 38.466,
+  "permalink": "/23849366283980795/videos/1637585108020564/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 37.66,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates step-by-step how to style bouncy layered hair using a pink Wavytalk thermal round brush set to trending music.",
+  "full_description": "The video starts with the creator showcasing her finished, bouncy blowout layered haircut. Text at the top reads '\"how do you style your layers?\" me:'. She then demonstrates styling individual sections of her auburn layered hair using a pink Wavytalk thermal round brush (Blowout Boost). She wraps sections around the barrel, rolls them down, and spins out defined curls using her fingers. She styles multiple layers including side sections and her front curtain bangs by rolling them under. The video concludes with her fluffing out her hair and proudly displaying the completed voluminous blowout while holding the tool.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 37.66,
+    "text": "\"how do you style your layers?\"\nme:",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 0.9,
+    "shot_type": "medium shot",
+    "visual": "Creator sits facing camera showcasing her voluminous curled layers.",
+    "action": "Creator shakes and touches her voluminous curled layered hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 0.9,
+    "end_s": 2.8,
+    "shot_type": "medium shot",
+    "visual": "Creator holding the pink thermal round brush to a strand of hair.",
+    "action": "Wraps a front strand around the brush barrel and pulls through to curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 4.5,
+    "shot_type": "close-up",
+    "visual": "Close-up of hair strand curling around creator's finger.",
+    "action": "Creator twists the warm strand around her finger to set the spiral curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 6.4,
+    "shot_type": "medium shot",
+    "visual": "Creator styling another section on the same side.",
+    "action": "Glides thermal brush through hair section and twists it outward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.4,
+    "end_s": 8.2,
+    "shot_type": "close-up",
+    "visual": "Close-up of freshly styled curl spinning off creator's hand.",
+    "action": "Creator twirls the curl with her fingers to maintain bounce.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.2,
+    "end_s": 12.7,
+    "shot_type": "medium shot",
+    "visual": "Creator working on mid-back layer.",
+    "action": "Rolls the thermal brush up towards the roots and unrolls it slowly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.7,
+    "end_s": 14.8,
+    "shot_type": "medium shot",
+    "visual": "Creator releases section.",
+    "action": "Twirls the section with fingers after releasing from the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 17.6,
+    "shot_type": "medium shot",
+    "visual": "Creator styling upper front section.",
+    "action": "Wraps hair over the heated barrel to create volume and flick.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.6,
+    "end_s": 22.4,
+    "shot_type": "medium shot",
+    "visual": "Creator styling hair on the opposite side.",
+    "action": "Rolls thermal brush down and outward on hair lengths.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.4,
+    "end_s": 25.4,
+    "shot_type": "close-up",
+    "visual": "Close-up on lower strand.",
+    "action": "Spins the curl off fingers showing curl definition.",
+    "product_visible": true
+   },
+   {
+    "start_s": 25.4,
+    "end_s": 29.8,
+    "shot_type": "medium shot",
+    "visual": "Creator finishing remaining mid-lengths on the right side.",
+    "action": "Brushes through and rolls curl ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 29.8,
+    "end_s": 34.7,
+    "shot_type": "medium shot",
+    "visual": "Creator styling curtain bangs in the center.",
+    "action": "Places brush under bangs, rolls forward, and holds before releasing under.",
+    "product_visible": true
+   },
+   {
+    "start_s": 34.7,
+    "end_s": 37.66,
+    "shot_type": "medium shot",
+    "visual": "Final look with voluminous 90s blowout layers.",
+    "action": "Creator fluffs and points to her styled hair, holding up the Wavytalk thermal brush.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera fluffing her perfectly styled, bouncy layered blowout hair with text asking how she styles her layers.",
+   "visual_0_3s": "Finished bouncy layered blowout shown in the first second, then immediately cuts to rolling a section around the heated brush.",
+   "spoken_0_3s": "",
+   "text_0_3s": "\"how do you style your layers?\"\nme:",
+   "hook_type": "result_first",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Instant jump cut from the full glamorous blowout result to a mid-action curling tutorial demo."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Result reveal hook showing finished blowout layers",
+    "Step-by-step curling demonstration on various layer lengths",
+    "Curtain bang styling demonstration",
+    "Final result showcase with product presentation"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Easily creates voluminous, bouncy salon-style curls on layered haircuts"
+   ],
+   "pain_points": [
+    "Difficulty styling layered haircuts at home",
+    "Achieving defined inward and outward blowout flips without a salon visit"
+   ],
+   "objections_handled": [
+    "Ease of use shown through simple rolling and finger-twirling motions"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost (Thermal Round Brush)"
+   ],
+   "first_seen_s": 0.8,
+   "first_used_on_hair_s": 1.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Auburn/copper long layered hair",
+   "hair_after": "Voluminous, bouncy layered blowout with flipped and curled ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "trendy, effortless, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Trending mellow R&B/pop song with emotional female vocals ('There's things I wanna say to you... if you hold me without hurting me...')",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 12,
+   "avg_shot_length_s": 3.1,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts",
+    "on-screen prompt text overlay"
+   ],
+   "ending": "Creator proudly poses, points to her finished hair, and holds the heated round brush upright next to her face."
+  },
+  "notes": "Silent aesthetic tutorial format leveraging a popular TikTok audio and relatable FAQ meme format ('how do you style your layers? me:')."
+ }
+}

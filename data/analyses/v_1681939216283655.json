@@ -1,0 +1,517 @@
+{
+ "media_key": "v_1681939216283655",
+ "analyzed_at": "2026-11-28T00:20:02+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "b3bf5f2dfacebd1f6b2383e1868e09effdef2675eeb282fa93e1e2e01b5db266",
+ "source": {
+  "kind": "video",
+  "id": "1681939216283655",
+  "video_id": "2049417092353310",
+  "length_s": 64.457,
+  "permalink": "/23849366283980795/videos/2049417092353310/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 64.08,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demos the WavyTalk Blowout Boost thermal round brush on her long curly hair, showing how she achieves a sleek bombshell blowout.",
+  "full_description": "A creator starts by showcasing her finished bouncy blowout result, then cuts to her natural voluminous frizzy/curly hair before demonstrating step-by-step how she uses the pink WavyTalk Blowout Boost heated round brush. She styles a section smooth, emphasizes using heat protectant, demonstrates styling bang volume by curling backward, and concludes with the final voluminous, glossy look while displaying a discount code.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I don't know if my hair could ever look better than this.",
+    "text_english": "I don't know if my hair could ever look better than this."
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 3.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's blow out my hair!",
+    "text_english": "Let's blow out my hair!"
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 5.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you wanna go out and get compliments on your hair,",
+    "text_english": "If you wanna go out and get compliments on your hair,"
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 8.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "you need this hair tool. This is called the Wavytalk Blowout Boost,",
+    "text_english": "you need this hair tool. This is called the Wavytalk Blowout Boost,"
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 13.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and it, without fail, gives me the most beautiful bombshell blowout every single time I use it.",
+    "text_english": "and it, without fail, gives me the most beautiful bombshell blowout every single time I use it."
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 17.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's absolutely amazing, look at this. Ready?",
+    "text_english": "It's absolutely amazing, look at this. Ready?"
+   },
+   {
+    "start_s": 17.0,
+    "end_s": 19.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You curl at the ends for a little flip.",
+    "text_english": "You curl at the ends for a little flip."
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 21.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's actually insane.",
+    "text_english": "It's actually insane."
+   },
+   {
+    "start_s": 21.6,
+    "end_s": 26.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So if you want your hair to grab attention and you want it to look really good,",
+    "text_english": "So if you want your hair to grab attention and you want it to look really good,"
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 28.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I highly recommend getting this brush.",
+    "text_english": "I highly recommend getting this brush."
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 30.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And it's not even expensive.",
+    "text_english": "And it's not even expensive."
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 34.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's the easiest thing to do ever. When your hair is damp when you get out of the shower,",
+    "text_english": "It's the easiest thing to do ever. When your hair is damp when you get out of the shower,"
+   },
+   {
+    "start_s": 34.5,
+    "end_s": 38.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "before you blow dry it and before you go in with any heat tools,",
+    "text_english": "before you blow dry it and before you go in with any heat tools,"
+   },
+   {
+    "start_s": 38.5,
+    "end_s": 41.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "you have to put heat protectant on.",
+    "text_english": "you have to put heat protectant on."
+   },
+   {
+    "start_s": 41.0,
+    "end_s": 44.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It takes five seconds and it really does make a huge difference.",
+    "text_english": "It takes five seconds and it really does make a huge difference."
+   },
+   {
+    "start_s": 44.5,
+    "end_s": 48.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Alright, for volume at your bangs, you're gonna wanna go over the hair first like this,",
+    "text_english": "Alright, for volume at your bangs, you're gonna wanna go over the hair first like this,"
+   },
+   {
+    "start_s": 48.5,
+    "end_s": 51.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "then I go under the hair like this,",
+    "text_english": "then I go under the hair like this,"
+   },
+   {
+    "start_s": 51.0,
+    "end_s": 55.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and then when I get to the top I just start to curl back, wait for it.",
+    "text_english": "and then when I get to the top I just start to curl back, wait for it."
+   },
+   {
+    "start_s": 55.5,
+    "end_s": 57.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Alright, this is the final look.",
+    "text_english": "Alright, this is the final look."
+   },
+   {
+    "start_s": 57.5,
+    "end_s": 60.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I don't know if my hair could ever look better than this.",
+    "text_english": "I don't know if my hair could ever look better than this."
+   },
+   {
+    "start_s": 60.5,
+    "end_s": 64.08,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The Wavytalk Blowout Boost mixed with my new haircut is really just giving.",
+    "text_english": "The Wavytalk Blowout Boost mixed with my new haircut is really just giving."
+   }
+  ],
+  "transcript_full_original": "I don't know if my hair could ever look better than this. Let's blow out my hair! If you wanna go out and get compliments on your hair, you need this hair tool. This is called the Wavytalk Blowout Boost, and it, without fail, gives me the most beautiful bombshell blowout every single time I use it. It's absolutely amazing, look at this. Ready? You curl at the ends for a little flip. It's actually insane. So if you want your hair to grab attention and you want it to look really good, I highly recommend getting this brush. And it's not even expensive. It's the easiest thing to do ever. When your hair is damp when you get out of the shower, before you blow dry it and before you go in with any heat tools, you have to put heat protectant on. It takes five seconds and it really does make a huge difference. Alright, for volume at your bangs, you're gonna wanna go over the hair first like this, then I go under the hair like this, and then when I get to the top I just start to curl back, wait for it. Alright, this is the final look. I don't know if my hair could ever look better than this. The Wavytalk Blowout Boost mixed with my new haircut is really just giving.",
+  "transcript_full_english": "I don't know if my hair could ever look better than this. Let's blow out my hair! If you wanna go out and get compliments on your hair, you need this hair tool. This is called the Wavytalk Blowout Boost, and it, without fail, gives me the most beautiful bombshell blowout every single time I use it. It's absolutely amazing, look at this. Ready? You curl at the ends for a little flip. It's actually insane. So if you want your hair to grab attention and you want it to look really good, I highly recommend getting this brush. And it's not even expensive. It's the easiest thing to do ever. When your hair is damp when you get out of the shower, before you blow dry it and before you go in with any heat tools, you have to put heat protectant on. It takes five seconds and it really does make a huge difference. Alright, for volume at your bangs, you're gonna wanna go over the hair first like this, then I go under the hair like this, and then when I get to the top I just start to curl back, wait for it. Alright, this is the final look. I don't know if my hair could ever look better than this. The Wavytalk Blowout Boost mixed with my new haircut is really just giving.",
+  "word_count": 204,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.7,
+    "text": "I don't know if my hair could ever look better than this",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 3.0,
+    "text": "let's blowout my hair!",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 5.0,
+    "text": "if you wanna go out and get compliments on your hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 8.0,
+    "text": "you need this hair tool this is called the Wavytalk Blowout Boost",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 19.5,
+    "text": "BTS 20",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 13.0,
+    "text": "gives me the most beautiful bombshell blowout every single time I use it",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 17.0,
+    "text": "it's absolutely amazing look at this",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.0,
+    "end_s": 19.8,
+    "text": "ready you curl at the ends for a little flip",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 21.6,
+    "text": "it's actually insane",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.6,
+    "end_s": 26.5,
+    "text": "so if you want your hair to grab attention and you want it to look really good",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 28.5,
+    "text": "I highly recommend getting this brush",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 30.5,
+    "text": "and it's not even expensive",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 34.5,
+    "text": "it's the easiest thing to do ever when your hair is damp",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 34.5,
+    "end_s": 36.5,
+    "text": "when you get out of the shower",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 36.5,
+    "end_s": 38.5,
+    "text": "before you blow dry it and before you go in with any heat tools",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 38.5,
+    "end_s": 41.0,
+    "text": "you have to put heat protectant on",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 41.0,
+    "end_s": 44.5,
+    "text": "it takes five seconds and it really does make a huge difference",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 44.5,
+    "end_s": 48.5,
+    "text": "alright for volume at your bangs you're gonna wanna go over the hair first like this",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 48.5,
+    "end_s": 51.0,
+    "text": "then I go under the hair like this",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 51.0,
+    "end_s": 55.0,
+    "text": "and then when I get to the top I just start to curl back wait for it",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 56.0,
+    "end_s": 58.0,
+    "text": "alright this is the final look",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 56.5,
+    "end_s": 64.08,
+    "text": "Discount Code: EARLY20",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 58.0,
+    "end_s": 60.5,
+    "text": "I don't know if my hair could ever look better than this",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 60.5,
+    "end_s": 64.08,
+    "text": "wow the Wavytalk Blowout Boost mixed with my new haircut is really just giving",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.7,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting facing camera showing off her voluminous styled hair.",
+    "action": "Creator fluffs and shakes her styled hair to show off the finished result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 3.0,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting facing camera with natural frizzy/curly voluminous unstyled hair.",
+    "action": "Creator gestures with her hands towards her natural curly hair before styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 5.0,
+    "shot_type": "medium shot",
+    "visual": "Creator with hair clipped up in a bun, holding the pink WavyTalk thermal brush.",
+    "action": "Creator introduces the tool and points to the sectioned hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 20.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushing through a section of hair from roots to ends with the thermal brush.",
+    "action": "Creator slowly glides the heated brush down a long section of hair, curving at the bottom to create a flip.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 30.5,
+    "shot_type": "medium shot",
+    "visual": "Creator styling another section of hair with the heated brush.",
+    "action": "Creator rolls the brush into her hair and glides it down repeatedly to smooth frizz and curl ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 44.5,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the side and bottom sections while talking about prep.",
+    "action": "Creator glides the tool through another long hair section while explaining the importance of heat protectant.",
+    "product_visible": true
+   },
+   {
+    "start_s": 44.5,
+    "end_s": 55.0,
+    "shot_type": "medium shot",
+    "visual": "Creator styling her front bangs/fringe section.",
+    "action": "Creator rolls the brush over then under her bang section, rolling backward away from her face for root lift.",
+    "product_visible": true
+   },
+   {
+    "start_s": 55.0,
+    "end_s": 64.08,
+    "shot_type": "medium shot",
+    "visual": "Creator showing the final look while holding the tool up next to her face.",
+    "action": "Creator flips and touches her full, silky bombshell hair, smiling and showing off the product in hand.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator smiling with huge, voluminous blowout hair touching her hair ends.",
+   "visual_0_3s": "Jump cut from finished blowout hair to naturally wild, frizzy curls.",
+   "spoken_0_3s": "I don't know if my hair could ever look better than this. Let's blow out my hair!",
+   "text_0_3s": "I don't know if my hair could ever look better than this / let's blowout my hair!",
+   "hook_type": "result_first",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Immediate contrast cut at 1.7 seconds from perfect glossy blowout to huge messy curly hair."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Show finished result as hook",
+    "Show natural unstyled curly state",
+    "Introduce tool and demonstrate side section smoothing",
+    "Demonstrate flipping the ends",
+    "Explain prep tip (heat protectant)",
+    "Demonstrate technique for bang/fringe volume",
+    "Reveal final voluminous blowout look with discount code"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "frizz_or_curly_solution",
+    "price_value_vs_dyson",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Gives a bombshell blowout without fail every single time",
+    "Tames and smooths thick frizzy hair",
+    "Not expensive",
+    "Easy to use"
+   ],
+   "pain_points": [
+    "Unruly frizzy unmanageable curls",
+    "Expensive salon blowouts",
+    "Difficult blowout techniques with traditional round brushes and blow dryers"
+   ],
+   "objections_handled": [
+    "Affordability ('it's not even expensive')",
+    "Difficulty ('it's the easiest thing to do ever')",
+    "Heat damage prevention ('you have to put heat protectant on')"
+   ],
+   "social_proof": [
+    "Creator mentions getting lots of compliments whenever she goes out"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost"
+   ],
+   "first_seen_s": 3.0,
+   "first_used_on_hair_s": 5.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "20% off discount code",
+   "price_mentioned": "",
+   "discount_code": "EARLY20 (also shown as BTS 20)",
+   "urgency": "",
+   "cta_spoken": "I highly recommend getting this brush",
+   "cta_on_screen": "Discount Code: EARLY20",
+   "cta_at_s": 26.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Very long, dense, frizzy, naturally textured curly brown hair",
+   "hair_after": "Ultra-glossy, voluminous 90s bombshell blowout with curved ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, authentic, upbeat UGC creator"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No background music, creator speaks directly to camera with ambient room audio",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 9.1,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts",
+    "text overlays"
+   ],
+   "ending": "Creator proudly showing off her hair next to the heated round brush with discount code overlay."
+  },
+  "notes": "Ad utilizes a classic result-first hook followed immediately by the raw unstyled state, providing high visual impact for textured/frizzy hair before demonstrating the WavyTalk Blowout Boost."
+ }
+}

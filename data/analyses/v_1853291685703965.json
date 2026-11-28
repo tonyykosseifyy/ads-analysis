@@ -1,0 +1,373 @@
+{
+ "media_key": "v_1853291685703965",
+ "analyzed_at": "2026-11-28T00:26:17+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "0a8fae714e9cb1a66147a5d61395bf824038312d0b76d59f7fd0614dabcbf009",
+ "source": {
+  "kind": "video",
+  "id": "1853291685703965",
+  "video_id": "941482375462277",
+  "length_s": 48.566,
+  "permalink": "/23849366283980795/videos/941482375462277/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 49.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Blonde creator demonstrates how she transforms frizzy, flat hair into a bouncy salon blowout at home in under 10 minutes using the Wavytalk Blowout Boost thermal round brush.",
+  "full_description": "A creator showcases a rapid hair transformation using the pink Wavytalk Blowout Boost thermal brush. The ad opens with a dynamic hook comparing her natural frizzy hair to voluminous, bouncy results with bold on-screen titles. A close-up b-roll shot highlights the product over a monstera plant leaf. She then sections her dry hair and demonstrates brushing through her bangs and lengths, pointing out key benefits including negative ion frizz reduction, adjustable temperature controls to prevent damage, and speed. A mid-way split comparison shows the smoothed, curved blowout side versus the unstyled side. She finishes styling and displays the final bouncy, voluminous blowout result.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay, okay, this is a lifesaver.",
+    "text_english": "Okay, okay, this is a lifesaver."
+   },
+   {
+    "start_s": 1.5,
+    "end_s": 5.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "From frizzy and flat to bouncy blowout in under 10 minutes with Wavytalk Blowout Boost.",
+    "text_english": "From frizzy and flat to bouncy blowout in under 10 minutes with Wavytalk Blowout Boost."
+   },
+   {
+    "start_s": 5.2,
+    "end_s": 9.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "As you can tell, my start-out hair is definitely not giving what it needs to give.",
+    "text_english": "As you can tell, my start-out hair is definitely not giving what it needs to give."
+   },
+   {
+    "start_s": 9.2,
+    "end_s": 13.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Instead of fighting with a round brush and blow dryer, all I use is this one little tool.",
+    "text_english": "Instead of fighting with a round brush and blow dryer, all I use is this one little tool."
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 17.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I start with my dry, frizzy hair, section it out, and just let the brush do the work.",
+    "text_english": "I start with my dry, frizzy hair, section it out, and just let the brush do the work."
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 22.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It uses negative ion technology to help reduce frizz and just keep everything looking smooth and shiny.",
+    "text_english": "It uses negative ion technology to help reduce frizz and just keep everything looking smooth and shiny."
+   },
+   {
+    "start_s": 22.1,
+    "end_s": 24.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "As you can tell by the finished side compared to the other side.",
+    "text_english": "As you can tell by the finished side compared to the other side."
+   },
+   {
+    "start_s": 24.3,
+    "end_s": 28.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And I love that you can adjust the temperature depending on your hair type, 'cause we don't want any unnecessary damage.",
+    "text_english": "And I love that you can adjust the temperature depending on your hair type, 'cause we don't want any unnecessary damage."
+   },
+   {
+    "start_s": 28.1,
+    "end_s": 34.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "What I love most is how easy this is, because let's be real, none of us have the time to be doing a full salon routine at home.",
+    "text_english": "What I love most is how easy this is, because let's be real, none of us have the time to be doing a full salon routine at home."
+   },
+   {
+    "start_s": 34.8,
+    "end_s": 40.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The Wavytalk Blowout Boost has cut my routine down by so much. What used to take forever literally takes a fraction of my time.",
+    "text_english": "The Wavytalk Blowout Boost has cut my routine down by so much. What used to take forever literally takes a fraction of my time."
+   },
+   {
+    "start_s": 40.2,
+    "end_s": 46.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is definitely my go-to when you just want that effortless, put-together look, like you didn't try too hard, but your hair just looks really, really good.",
+    "text_english": "This is definitely my go-to when you just want that effortless, put-together look, like you didn't try too hard, but your hair just looks really, really good."
+   },
+   {
+    "start_s": 46.1,
+    "end_s": 49.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Frizzy to blowout, and we didn't even leave the house.",
+    "text_english": "Frizzy to blowout, and we didn't even leave the house."
+   }
+  ],
+  "transcript_full_original": "Okay, okay, this is a lifesaver. From frizzy and flat to bouncy blowout in under 10 minutes with Wavytalk Blowout Boost. As you can tell, my start-out hair is definitely not giving what it needs to give. Instead of fighting with a round brush and blow dryer, all I use is this one little tool. I start with my dry, frizzy hair, section it out, and just let the brush do the work. It uses negative ion technology to help reduce frizz and just keep everything looking smooth and shiny. As you can tell by the finished side compared to the other side. And I love that you can adjust the temperature depending on your hair type, 'cause we don't want any unnecessary damage. What I love most is how easy this is, because let's be real, none of us have the time to be doing a full salon routine at home. The Wavytalk Blowout Boost has cut my routine down by so much. What used to take forever literally takes a fraction of my time. This is definitely my go-to when you just want that effortless, put-together look, like you didn't try too hard, but your hair just looks really, really good. Frizzy to blowout, and we didn't even leave the house.",
+  "transcript_full_english": "Okay, okay, this is a lifesaver. From frizzy and flat to bouncy blowout in under 10 minutes with Wavytalk Blowout Boost. As you can tell, my start-out hair is definitely not giving what it needs to give. Instead of fighting with a round brush and blow dryer, all I use is this one little tool. I start with my dry, frizzy hair, section it out, and just let the brush do the work. It uses negative ion technology to help reduce frizz and just keep everything looking smooth and shiny. As you can tell by the finished side compared to the other side. And I love that you can adjust the temperature depending on your hair type, 'cause we don't want any unnecessary damage. What I love most is how easy this is, because let's be real, none of us have the time to be doing a full salon routine at home. The Wavytalk Blowout Boost has cut my routine down by so much. What used to take forever literally takes a fraction of my time. This is definitely my go-to when you just want that effortless, put-together look, like you didn't try too hard, but your hair just looks really, really good. Frizzy to blowout, and we didn't even leave the house.",
+  "word_count": 184,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.4,
+    "text": "from frizzy",
+    "role": "hook"
+   },
+   {
+    "start_s": 1.4,
+    "end_s": 2.1,
+    "text": "from frizzy & flat",
+    "role": "hook"
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 3.4,
+    "text": "to bouncy & smooth",
+    "role": "hook"
+   },
+   {
+    "start_s": 3.5,
+    "end_s": 5.3,
+    "text": "with Wavytalk blowout boost",
+    "role": "brand"
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 49.0,
+    "text": "Dynamic animated captions matching spoken voiceover words",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.5,
+    "shot_type": "medium shot",
+    "visual": "Creator running her fingers through long, frizzy, straight bleached blonde hair",
+    "action": "Creator shows her hair before styling and shakes her head",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.5,
+    "end_s": 3.4,
+    "shot_type": "medium shot",
+    "visual": "Creator pops back up into frame showing fully styled, bouncy blowout hair",
+    "action": "Creator poses and plays with voluminous styled hair",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.5,
+    "end_s": 5.3,
+    "shot_type": "close-up b-roll",
+    "visual": "Pink Wavytalk Blowout Boost thermal brush held against a monstera plant background with digital temperature display lit",
+    "action": "Hand tilts and shows off the heated round brush",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 9.2,
+    "shot_type": "medium shot",
+    "visual": "Creator in bedroom showing unstyled bangs and frizzy long strands",
+    "action": "She brushes bangs upwards, rolls it out, and places hands on hips smiling",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.3,
+    "end_s": 13.5,
+    "shot_type": "medium shot",
+    "visual": "Creator sectioning her top hair with a claw clip",
+    "action": "She clips hair up and points to the Blowout Boost brush",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.6,
+    "end_s": 17.5,
+    "shot_type": "medium shot",
+    "visual": "Creator running the heated brush through a bottom section of hair",
+    "action": "Slowly glides the brush through hair toward the ends, curling under",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.6,
+    "end_s": 22.0,
+    "shot_type": "medium shot",
+    "visual": "Styling the curtain bangs and side framing layers",
+    "action": "Rolls the brush over and under to create volume at the root",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.1,
+    "end_s": 24.3,
+    "shot_type": "medium shot",
+    "visual": "Direct side-by-side comparison on creator's head",
+    "action": "Creator touches the styled voluminous blowout side then points to the unstyled frizzy side",
+    "product_visible": false
+   },
+   {
+    "start_s": 24.4,
+    "end_s": 27.9,
+    "shot_type": "close-up",
+    "visual": "Close-up of the handle and LCD display showing temperature adjustment with blue manicure",
+    "action": "Thumb presses the temperature control buttons on the brush",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.0,
+    "end_s": 35.0,
+    "shot_type": "medium shot",
+    "visual": "Styling remaining sections of hair and crown layers",
+    "action": "Creator wraps hair around the barrel, curling ends and lifting crown",
+    "product_visible": true
+   },
+   {
+    "start_s": 35.1,
+    "end_s": 40.0,
+    "shot_type": "medium shot",
+    "visual": "Refining front face-framing fringe with the thermal brush",
+    "action": "Twisting the brush out of hair and fluffing hair with fingers",
+    "product_visible": true
+   },
+   {
+    "start_s": 40.1,
+    "end_s": 46.0,
+    "shot_type": "medium shot",
+    "visual": "Finished blowout showcase",
+    "action": "Creator runs fingers through luscious hair, admiring texture and bounce",
+    "product_visible": false
+   },
+   {
+    "start_s": 46.1,
+    "end_s": 49.0,
+    "shot_type": "medium shot",
+    "visual": "Creator holding the brush like a microphone, winking at the camera",
+    "action": "Shows full bouncy hair, sings/winks into the brush handle",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Blonde creator with dry, frizzy, unstyled hair shaking her head, text 'from frizzy' visible",
+   "visual_0_3s": "Fast cut transition from messy unstyled hair dropping down to popping back up with a voluminous, polished blowout",
+   "spoken_0_3s": "Okay, okay, this is a lifesaver. From frizzy and flat to bouncy blowout",
+   "text_0_3s": "from frizzy & flat to bouncy & smooth",
+   "hook_type": "before_after",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Instant jump-cut transition revealing the perfected blowout within 2 seconds followed by a sleek b-roll product reveal."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Instant before/after result hook",
+    "Product showcase and promise (under 10 minutes)",
+    "Problem validation (frizzy, flat start hair, hassle of blow dryer + round brush)",
+    "Step-by-step styling demonstration with features (negative ions, heat settings)",
+    "Half-and-half comparison",
+    "Time savings and ease-of-use pitch",
+    "Final look reveal and playful sign-off"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "volume_and_bounce",
+    "frizz_or_curly_solution",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Bouncy blowout in under 10 minutes",
+    "Replaces fighting with a round brush and blow dryer",
+    "Negative ion technology helps reduce frizz and boost shine",
+    "Adjustable temperature settings prevent heat damage",
+    "Cuts routine down to a fraction of the time"
+   ],
+   "pain_points": [
+    "Frizzy and flat unmanageable hair",
+    "Arm fatigue and difficulty juggling a round brush and blow dryer simultaneously",
+    "Long, tedious salon blowout routines at home",
+    "Heat damage from uncontrolled styling tools"
+   ],
+   "objections_handled": [
+    "Too complicated: creator shows simple gliding through sections",
+    "Causes heat damage: handled by showing adjustable digital temperature display",
+    "Takes too long: emphasized as under 10 minutes"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional round brush and hair dryer combination"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 3.5,
+   "first_used_on_hair_s": 5.5,
+   "final_result_shown_s": 2.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, bleached platinum blonde hair, straight, dry, slightly frizzy and flat",
+   "hair_after": "Voluminous, bouncy blowout with smooth curtain bangs and curled-under ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Upbeat, energetic, relatable, and confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle upbeat instrumental pop background track under voiceover",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 13,
+   "avg_shot_length_s": 3.77,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts",
+    "drop-down transition",
+    "b-roll product insert",
+    "animated word-by-word captions"
+   ],
+   "ending": "Creator plays with hair, winks at camera, and holds up the heated brush like a microphone"
+  },
+  "notes": "Ad distributed in Lebanon targeting female consumers seeking quick salon blowout results. Features the popular Wavytalk Blowout Boost thermal round brush."
+ }
+}

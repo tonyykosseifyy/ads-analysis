@@ -1,0 +1,345 @@
+{
+ "media_key": "v_1685226716525383",
+ "analyzed_at": "2026-11-28T00:10:59+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "a2cd21599ddb90f6837cb9e7f4938a23c2baac5ac66db02682272d31c1d5bc49",
+ "source": {
+  "kind": "video",
+  "id": "1685226716525383",
+  "video_id": "1596582088881826",
+  "length_s": 25.819,
+  "permalink": "/23849366283980795/videos/1596582088881826/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 25.86,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates Wavytalk Pro Steam Hair Straightener Brush, showing dramatic before and after silky straight results.",
+  "full_description": "A female creator presents the before and after transformation of straightening her frizzy, wavy hair using Wavytalk Pro Steam Hair Straightener Brush. She shows the device, clips up her hair, glides the steam brush through sections in single passes, explains how the steam locks in moisture, and showcases shiny, sleek straight hair.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Here is the before and after of using steam to straighten my hair.",
+    "text_english": "Here is the before and after of using steam to straighten my hair."
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 6.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This tool is from Wavytalk, it's their Pro Steam hair straightener brush.",
+    "text_english": "This tool is from Wavytalk, it's their Pro Steam hair straightener brush."
+   },
+   {
+    "start_s": 6.1,
+    "end_s": 8.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I've seen this all over my For You page so I needed to try it out.",
+    "text_english": "I've seen this all over my For You page so I needed to try it out."
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 10.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "My first impression, I was very impressed.",
+    "text_english": "My first impression, I was very impressed."
+   },
+   {
+    "start_s": 10.8,
+    "end_s": 13.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "After just one pass through, my hair was completely straight.",
+    "text_english": "After just one pass through, my hair was completely straight."
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 15.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And it left my hair very shiny and soft.",
+    "text_english": "And it left my hair very shiny and soft."
+   },
+   {
+    "start_s": 15.3,
+    "end_s": 17.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I think the steam feature on this is so cool.",
+    "text_english": "I think the steam feature on this is so cool."
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 20.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It locks in the moisture into your hair which is what makes your hair feel so silky.",
+    "text_english": "It locks in the moisture into your hair which is what makes your hair feel so silky."
+   },
+   {
+    "start_s": 20.6,
+    "end_s": 22.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This brush was so fun to try and I loved the results.",
+    "text_english": "This brush was so fun to try and I loved the results."
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 25.86,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you're in the market for a new straightening hair tool, I would check this one out.",
+    "text_english": "If you're in the market for a new straightening hair tool, I would check this one out."
+   }
+  ],
+  "transcript_full_original": "Here is the before and after of using steam to straighten my hair. This tool is from Wavytalk, it's their Pro Steam hair straightener brush. I've seen this all over my For You page so I needed to try it out. My first impression, I was very impressed. After just one pass through, my hair was completely straight. And it left my hair very shiny and soft. I think the steam feature on this is so cool. It locks in the moisture into your hair which is what makes your hair feel so silky. This brush was so fun to try and I loved the results. If you're in the market for a new straightening hair tool, I would check this one out.",
+  "transcript_full_english": "Here is the before and after of using steam to straighten my hair. This tool is from Wavytalk, it's their Pro Steam hair straightener brush. I've seen this all over my For You page so I needed to try it out. My first impression, I was very impressed. After just one pass through, my hair was completely straight. And it left my hair very shiny and soft. I think the steam feature on this is so cool. It locks in the moisture into your hair which is what makes your hair feel so silky. This brush was so fun to try and I loved the results. If you're in the market for a new straightening hair tool, I would check this one out.",
+  "word_count": 105,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.6,
+    "text": "using steam to straighten my hair??",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.7,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting in a bedroom showing her frizzy voluminous natural hair.",
+    "action": "Creator shakes out her frizzy hair with her hands and makes an expressive face.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 2.8,
+    "shot_type": "medium shot",
+    "visual": "Creator showing the after state with silky, smooth straight hair.",
+    "action": "Creator poses smiling with straight hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 4.8,
+    "shot_type": "close-up",
+    "visual": "Wavytalk Pro Steam straightener brush held up to the camera.",
+    "action": "Creator holds the brush, pointing to the water reservoir on the back.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 6.5,
+    "shot_type": "medium shot",
+    "visual": "Creator holding a hair claw clip in front of the lens.",
+    "action": "Creator clips the top half of her hair up.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.5,
+    "end_s": 9.5,
+    "shot_type": "medium shot",
+    "visual": "Creator using the steam brush on a strand of hair.",
+    "action": "She glides the brush slowly down a section from root to tip.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 11.5,
+    "shot_type": "medium shot",
+    "visual": "Creator looking shocked and impressed.",
+    "action": "Creator holds up the freshly straightened strand with wide eyes and an open mouth.",
+    "product_visible": false
+   },
+   {
+    "start_s": 11.5,
+    "end_s": 12.8,
+    "shot_type": "medium shot",
+    "visual": "Creator straightening another bottom section.",
+    "action": "Glides the steam brush through hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 14.5,
+    "shot_type": "close-up",
+    "visual": "Close-up of hair passing through the bristles with visible steam.",
+    "action": "Slow pass through hair showing sleek results.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 15.6,
+    "shot_type": "medium shot",
+    "visual": "Continuing straightening bottom layer.",
+    "action": "Brushing down another section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 16.8,
+    "shot_type": "medium shot",
+    "visual": "Creator unpinning claw clip.",
+    "action": "She takes down the top layer of hair and puckers her lips.",
+    "product_visible": false
+   },
+   {
+    "start_s": 16.8,
+    "end_s": 18.7,
+    "shot_type": "medium shot",
+    "visual": "Straightening the top section.",
+    "action": "Brushing through the crown/front section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.7,
+    "end_s": 20.4,
+    "shot_type": "medium shot",
+    "visual": "Creator admiring her hair.",
+    "action": "Runs hands through straight, silky hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 20.4,
+    "end_s": 22.3,
+    "shot_type": "back view",
+    "visual": "Creator's back showing glossy straight hair.",
+    "action": "Creator brushes through her hair from behind displaying shine and bounce.",
+    "product_visible": false
+   },
+   {
+    "start_s": 22.3,
+    "end_s": 23.6,
+    "shot_type": "close-up",
+    "visual": "Front view of the straightener brush.",
+    "action": "Creator holds up the tool facing the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.6,
+    "end_s": 25.86,
+    "shot_type": "medium shot",
+    "visual": "Creator smiling at the camera with finished straight hair.",
+    "action": "Touches hair and blows a kiss to the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator tossing her frizzy hair with text 'using steam to straighten my hair??'",
+   "visual_0_3s": "Fast cuts between messy frizzy hair (before) and sleek straight hair (after), followed by product reveal.",
+   "spoken_0_3s": "Here is the before and after of using steam to straighten my hair.",
+   "text_0_3s": "using steam to straighten my hair??",
+   "hook_type": "before_after",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Rapid 1-second visual contrast between chaotic frizzy hair and polished straight hair."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Before and after hook showing dramatic transformation",
+    "Product introduction and TikTok viral context",
+    "Step-by-step sectioning and single-pass demo",
+    "Reaction to instant results",
+    "Feature benefit explanation (steam locking in moisture for silky shine)",
+    "Final full hair reveal and recommendation CTA"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "less_heat_damage",
+    "frizz_or_curly_solution",
+    "saves_time",
+    "social_proof_popularity"
+   ],
+   "key_claims": [
+    "Completely straight hair after just one pass",
+    "Leaves hair very shiny, soft, and silky",
+    "Steam locks moisture into hair"
+   ],
+   "pain_points": [
+    "Frizzy, unruly hair",
+    "Dry hair from regular flat irons",
+    "Needing multiple passes to straighten hair"
+   ],
+   "objections_handled": [
+    "Will it actually straighten frizzy hair? (Shown in a single pass)",
+    "Will it dry out hair? (Steam locks in moisture instead of scorching)"
+   ],
+   "social_proof": [
+    "I've seen this all over my For You page"
+   ],
+   "comparison_to": "standard hair straighteners"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Pro Steam Hair Straightener Brush"
+   ],
+   "first_seen_s": 2.8,
+   "first_used_on_hair_s": 6.5,
+   "final_result_shown_s": 1.7,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "If you're in the market for a new straightening hair tool, I would check this one out.",
+   "cta_on_screen": "",
+   "cta_at_s": 22.8
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Wavy, frizzy, light brunette/balayage, medium-thick, chest length",
+   "hair_after": "Ultra-sleek, glossy, flat-ironed straight, silky finish",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, authentic, upbeat"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle upbeat background lo-fi acoustic guitar/pop beat",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 1.85,
+   "pacing": "fast",
+   "effects": [
+    "rapid cuts",
+    "reaction pause",
+    "back-of-head reveal"
+   ],
+   "ending": "Creator blows a kiss towards the camera with styled hair."
+  },
+  "notes": "Classic UGC influencer demo ad featuring the Wavytalk Steambrush Pro. Highlights the unique selling proposition of steam straightening (hydration and shine rather than heat crisping)."
+ }
+}

@@ -1,0 +1,188 @@
+{
+ "media_key": "v_1309752590987536",
+ "analyzed_at": "2026-11-28T00:52:24+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "556207d8ad00e31ca5bc332262895fb49ae05075d3c2814a741493e99d364ac8",
+ "source": {
+  "kind": "video",
+  "id": "1309752590987536",
+  "video_id": "920510610936257",
+  "length_s": 16.556,
+  "permalink": "/23849366283980795/videos/920510610936257/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 16.48,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates achieving a shiny, bouncy salon blowout using the WavyTalk pink thermal round brush over a trending audio.",
+  "full_description": "A creator shows the WavyTalk Blowout Boost thermal round brush and styles her long brown hair. Using a popular audio soundbite ('Do you think my hair is too shiny today?'), she wraps sections of her hair around the heated barrel and releases them into voluminous, glossy blowout curls and face-framing layers. The video highlights the final shine and bounce of her hair.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.8,
+    "end_s": 2.7,
+    "speaker": "audio_track",
+    "language": "en",
+    "text_original": "Do you think my hair is too shiny today?",
+    "text_english": "Do you think my hair is too shiny today?"
+   }
+  ],
+  "transcript_full_original": "Do you think my hair is too shiny today?",
+  "transcript_full_english": "Do you think my hair is too shiny today?",
+  "word_count": 8,
+  "speech_starts_at_s": 0.8,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 10.9,
+    "text": "propaganda i AM falling for:\nthese results:",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.9,
+    "shot_type": "medium close-up",
+    "visual": "Young woman holding a pink thermal round brush in front of the camera and touching her sleek dark hair.",
+    "action": "Creator holds up the tool and adjusts her hair while looking at the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.9,
+    "end_s": 5.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator rolling a section of hair from the top and mid-lengths around the pink thermal brush barrel.",
+    "action": "She brushes through a strand and winds it onto the brush cylinder.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 9.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator twirling and gently pulling the thermal brush downwards to release the curled curl.",
+    "action": "She unwinds the brush to reveal a smooth, bouncy curl flick.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 11.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator pointing directly at the defined, curved blowout layer with a delighted expression.",
+    "action": "She points with her index finger at the finished layer and nods.",
+    "product_visible": false
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 12.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling the opposite front section around the heated round brush.",
+    "action": "She curls her front curtain bangs / face frame.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 16.48,
+    "shot_type": "medium close-up",
+    "visual": "Creator running her fingers through her long, shiny, styled hair and admiring the final result.",
+    "action": "She fluffs her blowout and tilts her head to showcase hair shine and volume.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink thermal brush with on-screen text 'propaganda i AM falling for: these results:'.",
+   "visual_0_3s": "Creator holding the pink styling tool and running her fingers through her glossy hair.",
+   "spoken_0_3s": "Do you think my hair is too shiny today?",
+   "text_0_3s": "propaganda i AM falling for: these results:",
+   "hook_type": "trend_or_sound",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Relatable TikTok trend text overlay combined with an iconic soundbite about hair being 'too shiny'."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook with trending meme text and audio soundbite about shiny hair",
+    "Demo of wrapping hair around the thermal brush",
+    "Reveal of the bouncy curl and pointing to the result",
+    "Final hair flip and shine check"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Produces high shine and salon blowout results easily"
+   ],
+   "pain_points": [
+    "Complicated blow-drying routines that lack volume or shine"
+   ],
+   "objections_handled": [
+    "Difficulty of mastering a traditional round brush and blow dryer"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 1.9,
+   "final_result_shown_s": 9.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, dark brown, straight/slightly wavy smooth hair",
+   "hair_after": "Voluminous, shiny blowout with curved inward ends and bouncy face-framing layers",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident and playful"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Trending dialogue soundbite ('Do you think my hair is too shiny today?') transitioning into an upbeat, rhythmic hip-hop beat.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 3.3,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Fades quickly to dark frame after the hair fluff."
+  },
+  "notes": "Relies purely on organic TikTok/Reels aesthetic and trending sound without overt sales messaging or spoken sales pitch."
+ }
+}

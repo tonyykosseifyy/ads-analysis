@@ -1,0 +1,221 @@
+{
+ "media_key": "v_894306202985324",
+ "analyzed_at": "2026-11-28T01:16:47+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "e110324d40360e42a9ba4328e668cfe41ec2a902cebb4b789862807ed8f65ce0",
+ "source": {
+  "kind": "video",
+  "id": "894306202985324",
+  "video_id": "2137324707009532",
+  "length_s": 29.666,
+  "permalink": "/23849366283980795/videos/2137324707009532/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 29.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A curly-haired creator demonstrates styling her hair into a smooth, bouncy blowout using the pink Wavytalk thermal heated round brush.",
+  "full_description": "The video starts with a young woman with natural curly/wavy dark hair sitting on a bed holding the pink Wavytalk thermal brush, telling curly-haired viewers that the brush works wonders. After a quick white flash transition set to background music, she detangles her hair with a paddle brush, sections it with a clip, and glides the heated thermal round brush through strands to curl and smooth them. The scene cuts to the finished voluminous blowout result, followed by a close-up of the brush's digital temperature display, and ends with her admiring her styled hair while pointing down toward the link.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Curly haired girls, this brush works wonders.",
+    "text_english": "Curly haired girls, this brush works wonders."
+   }
+  ],
+  "transcript_full_original": "Curly haired girls, this brush works wonders.",
+  "transcript_full_english": "Curly haired girls, this brush works wonders.",
+  "word_count": 7,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "text": "Curly haired girls",
+    "role": "hook"
+   },
+   {
+    "start_s": 0.8,
+    "end_s": 1.8,
+    "text": "this brush",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 2.8,
+    "text": "works wonders",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 29.5,
+    "text": "⬇",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.2,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting cross-legged on a white bed holding the pink Wavytalk thermal round brush, addressing the camera directly.",
+    "action": "Creator introduces the tool saying it works wonders for curly hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 5.4,
+    "shot_type": "medium shot",
+    "visual": "Creator holding a flexible pink paddle detangling brush.",
+    "action": "Creator brushes and detangles her curly hair prior to heat styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 6.8,
+    "shot_type": "medium shot",
+    "visual": "Creator sectioning her hair on camera.",
+    "action": "Creator gathers the upper section of hair and secures it with a claw clip.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 13.6,
+    "shot_type": "medium shot",
+    "visual": "Creator using the heated round brush on sections of her hair.",
+    "action": "Creator wraps a hair section around the heated barrel and brushes through to create curled, smoothed ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.6,
+    "end_s": 18.2,
+    "shot_type": "medium shot",
+    "visual": "Creator flaunting her styled, voluminous wavy blowout hair.",
+    "action": "Creator runs her fingers through her freshly styled hair and shakes it gently to show bounce and shine.",
+    "product_visible": false
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 20.0,
+    "shot_type": "close-up",
+    "visual": "Creator's hands holding the handle of the pink Wavytalk thermal brush.",
+    "action": "Creator adjusts or showcases the digital temperature display and controls on the handle.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 29.5,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting on the bed posing with her final blowout while holding the tool.",
+    "action": "Creator touches and admires her bouncy hair, holds up the brush, and points downward while an animated red arrow prompts users to click.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator sitting on a bed holding the pink thermal brush looking straight at the camera with text overlay 'Curly haired girls'.",
+   "visual_0_3s": "Creator sitting with natural wavy/curly hair holding the heated brush and speaking directly to the audience.",
+   "spoken_0_3s": "Curly haired girls, this brush works wonders.",
+   "text_0_3s": "Curly haired girls / this brush works wonders",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Audience callout calling specifically to 'curly haired girls' paired with a fast flash cut directly into a styling montage."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Audience callout to curly-haired girls stating the tool works wonders",
+    "Hair prep via detangling brush and sectioning with clip",
+    "Live styling demo using the thermal round brush",
+    "Reveal of smooth, bouncy blowout results",
+    "Product feature close-up of digital temperature control",
+    "Final hairstyle showcase with point-down call to action"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Works wonders on curly hair",
+    "Transforms curls into smooth, bouncy blowout curls"
+   ],
+   "pain_points": [
+    "Difficulty managing and smoothing curly hair",
+    "Struggling to achieve salon-quality blowout at home"
+   ],
+   "objections_handled": [
+    "Whether the thermal brush is effective on curly hair textures"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 6.8,
+   "final_result_shown_s": 13.6,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "⬇",
+   "cta_at_s": 26.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Natural dark curly / textured wavy medium-long hair",
+   "hair_after": "Smooth, voluminous blowout with polished wavy curled ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, stylish, relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Upbeat pop / R&B vocal track playing in the background ('Eyes full of swimming pool... Lie and say you're sexing me... It's clear that you're obsessed with me...')",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 4.9,
+   "pacing": "medium",
+   "effects": [
+    "white flash transition",
+    "animated red arrow graphic",
+    "light leak effect"
+   ],
+   "ending": "Creator smiles, touches her voluminous styled hair, holds up the brush, and points down towards the shop link."
+  },
+  "notes": "Video specifically targets curly and wavy hair audiences who want a quick, salon-style blowout using a thermal heated round brush."
+ }
+}

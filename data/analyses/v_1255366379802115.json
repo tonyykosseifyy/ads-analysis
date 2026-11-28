@@ -1,0 +1,218 @@
+{
+ "media_key": "v_1255366379802115",
+ "analyzed_at": "2026-11-28T01:27:58+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "885a923ede1ceb022b227b3c21b8bd76811234df5fcea5cd1a5b1e33c4f9e7c3",
+ "source": {
+  "kind": "video",
+  "id": "1255366379802115",
+  "video_id": "1610647899949407",
+  "length_s": 25.75,
+  "permalink": "/23849366283980795/videos/1610647899949407/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 26.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A silent transformation tutorial showing a creator using the pink Wavytalk thermal straightening brush to turn voluminous, textured long hair into sleek, glossy straight hair.",
+  "full_description": "The video starts with a quick before-and-after hook: the creator shows her natural long wavy hair labeled 'from this...', immediately followed by a back shot of smooth, sleek hair labeled 'to this ✨'. She then shows the pink Wavytalk thermal straightening brush and demonstrates gliding it through parted sections of her hair. Clips show the effortless one-pass straightening action across various sections. She gives a thumbs up, finishes styling, and showcases the shiny, bone-straight final result from both the back and front with a confident wink.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.5,
+    "text": "from this...",
+    "role": "hook"
+   },
+   {
+    "start_s": 1.5,
+    "end_s": 3.0,
+    "text": "to this ✨",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.5,
+    "shot_type": "medium shot",
+    "visual": "Young woman in a white bathrobe showing her naturally wavy, thick dark long hair.",
+    "action": "Creator fluffs and gestures at her unstyled hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.5,
+    "end_s": 3.0,
+    "shot_type": "medium shot from behind",
+    "visual": "Back of the creator's head showing ultra-sleek, long straight hair.",
+    "action": "Creator sweeps her hands down the back of her shiny, straight hair to tease the result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 4.0,
+    "shot_type": "medium selfie shot",
+    "visual": "Creator facing the camera holding the pink Wavytalk straightening brush next to her face.",
+    "action": "She presents the heated brush tool to the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.0,
+    "end_s": 7.0,
+    "shot_type": "medium shot",
+    "visual": "Creator brushing through a section of hair from root to tip.",
+    "action": "Slowly glides the straightening brush down a parted section, leaving it straight and silky.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 12.0,
+    "shot_type": "medium shot",
+    "visual": "Continuing to straighten other lower sections with the brush.",
+    "action": "Creator passes the heated comb through separate strands on both sides.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 14.5,
+    "shot_type": "medium shot",
+    "visual": "Flashback snippet of the creator with her hair unstyled, smiling and giving two thumbs up.",
+    "action": "Smiles and gives a double thumbs-up to the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 20.5,
+    "shot_type": "medium shot",
+    "visual": "Demonstrating the straightening brush on the top and crown sections.",
+    "action": "Brushes smooth passes through top layers of hair, showing immediate flattening and shine.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.5,
+    "end_s": 22.5,
+    "shot_type": "medium shot",
+    "visual": "Creator shakes out fully straightened hair while holding the styling brush.",
+    "action": "Shows off the fluidity and shine of the finished hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.5,
+    "end_s": 24.5,
+    "shot_type": "medium back shot",
+    "visual": "Back view of the finished hair reaching past the waist, perfectly straight and glossy.",
+    "action": "Creator gathers and lets hair drape down her back.",
+    "product_visible": false
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 26.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing forward, running hands through her smooth straight hair.",
+    "action": "Creator winks playfully at the camera while admiring the result.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing unstyled, voluminous dark wavy hair with overlay 'from this...'",
+   "visual_0_3s": "Rapid before-and-after cut comparing unstyled hair to silky straight hair.",
+   "spoken_0_3s": "",
+   "text_0_3s": "from this... / to this ✨",
+   "hook_type": "before_after",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Quick cut from unstyled wavy hair to an impossibly glossy, ultra-straight result within the first two seconds."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Teaser before and after contrast hook",
+    "Product reveal",
+    "Step-by-step section straightening demo",
+    "Mid-video reaction / thumbs up",
+    "Final result showcase from front and back"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "easy_for_beginners",
+    "saves_time"
+   ],
+   "key_claims": [
+    "Straightens long wavy hair into silky, glossy hair in simple brush strokes"
+   ],
+   "pain_points": [
+    "Frizzy, unmanageable wavy hair",
+    "Difficult or tedious flat iron routines"
+   ],
+   "objections_handled": [
+    "Works on very long and thick hair effectively"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Straightening Brush"
+   ],
+   "first_seen_s": 3.0,
+   "first_used_on_hair_s": 4.0,
+   "final_result_shown_s": 1.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Very long, dark brown/plum, thick, naturally wavy and frizzy",
+   "hair_after": "Ultra-sleek, glossy, straight and smooth",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident and aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat R&B/hip-hop track with female vocals and a steady beat",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 2.9,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts",
+    "text overlay"
+   ],
+   "ending": "Creator runs hands through straightened hair and winks at the camera."
+  },
+  "notes": "Silent trend-style aesthetic demo ad relying purely on visual transformation and trending music."
+ }
+}

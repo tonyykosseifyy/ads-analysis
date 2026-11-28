@@ -1,0 +1,186 @@
+{
+ "media_key": "v_1837515420589534",
+ "analyzed_at": "2026-11-28T00:20:57+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "12d85b9ec2b87362611a08a2395072169123e5f29aac711bc825008252f8eef9",
+ "source": {
+  "kind": "video",
+  "id": "1837515420589534",
+  "video_id": "1430765769266844",
+  "length_s": 27.133,
+  "permalink": "/23849366283980795/videos/1430765769266844/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 26.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A college student shares a GRWM routine styling her long brunette hair into bouncy blowout curls using the Wavytalk thermal brush.",
+  "full_description": "A relatable university get-ready-with-me styling tutorial where a young creator shows how she styles her long brown hair. After opening with the text hook 'do my hair for uni with me', she flashes the pink Wavytalk thermal brush display set to 410 degrees. She sections her hair, curls each layer with the thermal round brush, lifts her roots for volume, curls her curtain bangs, and runs her fingers through the finished voluminous blowout result.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "text": "do my hair for uni with me",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "shot_type": "medium selfie shot",
+    "visual": "Young woman in a white ribbed cutout top sitting on a bed in her bedroom, touching her long wavy hair.",
+    "action": "Touches and tosses her hair while looking at the camera with a casual, relatable expression.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 4.1,
+    "shot_type": "close-up",
+    "visual": "Close-up of the pink Wavytalk thermal heated brush showing the digital screen at 410 and blue indicator light.",
+    "action": "Holds up the hot styling brush to display the brand and digital temperature readout.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 9.4,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the lower section of her hair in her bedroom.",
+    "action": "Pins the top section up, wraps a strand of hair around the heated barrel, twirls it down, and releases a loose spiral curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.4,
+    "end_s": 15.2,
+    "shot_type": "medium shot",
+    "visual": "Creator working on the mid and top layers with a flower clip holding the rest.",
+    "action": "Pins hair back, brushes through sections with the tool, rolling under and pulling through to curl ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.2,
+    "end_s": 18.5,
+    "shot_type": "medium shot",
+    "visual": "Creator lifting top crown section upwards.",
+    "action": "Lifts the hair at the root with the thermal brush for extra volume and rolls the brush out smoothly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 23.3,
+    "shot_type": "medium shot",
+    "visual": "Creator curling her front curtain bangs/face-framing pieces.",
+    "action": "Rolls the front bangs up and back around the brush barrel, releases, and inspects the face-framing curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.3,
+    "end_s": 26.8,
+    "shot_type": "medium shot",
+    "visual": "Creator showing the final styled hair.",
+    "action": "Runs both hands through her hair to shake out the curls into soft, voluminous blowout waves and smiles confidently.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator in a white long-sleeve knit top sitting on her bed tossing her hair with text 'do my hair for uni with me'.",
+   "visual_0_3s": "Creator looks at camera, runs her hands through her long hair, setting up a university routine.",
+   "spoken_0_3s": "",
+   "text_0_3s": "do my hair for uni with me",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Relatable student GRWM hook paired with a rapid close-up flash of the tool."
+  },
+  "structure": {
+   "format": "grwm_lifestyle",
+   "narrative_beats": [
+    "Relatable GRWM hook",
+    "Tool reveal and temperature check",
+    "Section-by-section styling demo",
+    "Crown volume and bang styling",
+    "Final tousled blowout reveal"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners",
+    "saves_time"
+   ],
+   "key_claims": [
+    "Quickly creates voluminous, bouncy salon-worthy curls at home for daily school/work routines"
+   ],
+   "pain_points": [
+    "Complicated or time-consuming morning hair routines before classes"
+   ],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush"
+   ],
+   "first_seen_s": 2.8,
+   "first_used_on_hair_s": 4.8,
+   "final_result_shown_s": 23.3,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, relatively flat brunette hair with natural waves",
+   "hair_after": "Voluminous, bouncy, polished blowout waves with shaped face-framing layers",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Chill, aesthetic, relatable university GRWM"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Rhythmic upbeat pop/electronic instrumental beat",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 2.9,
+   "pacing": "medium",
+   "effects": [
+    "text overlay",
+    "jump cuts timed to music"
+   ],
+   "ending": "Creator shakes out her voluminous hair and looks into the camera."
+  },
+  "notes": "Classic organic-style UGC GRWM video repurposed as an ad. Relies on visual demonstration and aesthetic transformation rather than spoken persuasion."
+ }
+}

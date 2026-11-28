@@ -1,0 +1,275 @@
+{
+ "media_key": "v_913068121770336",
+ "analyzed_at": "2026-11-28T00:10:22+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "46907f4dc5824f225818d3aacdda204d30b35430e80ff82d6e761d1118bf10c0",
+ "source": {
+  "kind": "video",
+  "id": "913068121770336",
+  "video_id": "1462889025812835",
+  "length_s": 61.633,
+  "permalink": "/23849366283980795/videos/1462889025812835/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 61.98,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates step-by-step how to get voluminous bouncy curls using the pink Wavytalk 2-in-1 airflow styler.",
+  "full_description": "The video starts with a result-first hook where a young woman flips and shows off her voluminous curled hair. She then displays the pink Wavytalk 2-in-1 airflow curling iron and provides a step-by-step demonstration: wrapping hair around the barrel, pulling down, and finger-twisting the curl to set it. She works through her hair layer by layer (bottom, middle, top, and face-framing pieces). Finally, she finger-combs through the curls from behind and turns to the camera to showcase the final bouncy blowout-style curls, finishing with two enthusiastic thumbs up.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.5,
+    "text": "Want volumous curled hair like this? ✨😍",
+    "role": "hook"
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 7.8,
+    "text": "Use the 2in1 wavytalk airflow",
+    "role": "brand"
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 12.0,
+    "text": "wrap your hair around the tool & pull down",
+    "role": "benefit"
+   },
+   {
+    "start_s": 12.5,
+    "end_s": 15.0,
+    "text": "✨✨",
+    "role": "other"
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 20.5,
+    "text": "twist with finger to define the curl",
+    "role": "benefit"
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 25.5,
+    "text": "first layer curled 🫶🏼",
+    "role": "other"
+   },
+   {
+    "start_s": 28.0,
+    "end_s": 31.5,
+    "text": "second layer curled 🫶🏼",
+    "role": "other"
+   },
+   {
+    "start_s": 34.0,
+    "end_s": 36.5,
+    "text": "defined curls in the process >>",
+    "role": "benefit"
+   },
+   {
+    "start_s": 40.0,
+    "end_s": 43.0,
+    "text": "top layered curled 🫶🏼",
+    "role": "other"
+   },
+   {
+    "start_s": 50.8,
+    "end_s": 54.0,
+    "text": "brush curls with fingers",
+    "role": "benefit"
+   },
+   {
+    "start_s": 56.5,
+    "end_s": 60.5,
+    "text": "final results",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.5,
+    "shot_type": "medium shot",
+    "visual": "Creator stands in front of white doors, shaking and flipping her long, voluminous curly hair.",
+    "action": "Hair flip and styling showcase to grab viewer attention.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 7.8,
+    "shot_type": "close-up",
+    "visual": "A hand holds up the pastel pink Wavytalk 2-in-1 airflow curling tool against a white door background.",
+    "action": "Product display introducing the styler.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 15.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator clamps a section of hair in the tool, wraps it around, and glides it down the strand.",
+    "action": "Demonstrating the curling technique on a single strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.5,
+    "end_s": 21.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator takes the freshly released strand and twists it around her finger.",
+    "action": "Twisting curl around finger to set spiral shape.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.5,
+    "end_s": 25.0,
+    "shot_type": "medium shot from behind",
+    "visual": "Creator's back to camera showing the lower layer curled while the upper half is clipped up.",
+    "action": "Demonstrating progress on the bottom layer.",
+    "product_visible": false
+   },
+   {
+    "start_s": 25.0,
+    "end_s": 32.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator curls and inspects the second layer, holding up a tight ribbon curl.",
+    "action": "Curling the middle layer and holding curl coil to camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 32.0,
+    "end_s": 39.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator works on upper mid-sections, wrapping and gliding the styler.",
+    "action": "Continuing styling process across sections.",
+    "product_visible": true
+   },
+   {
+    "start_s": 39.0,
+    "end_s": 50.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator curls the top layer and front blonde face-framing strands away from the face.",
+    "action": "Curling the front bang sections.",
+    "product_visible": true
+   },
+   {
+    "start_s": 50.0,
+    "end_s": 54.0,
+    "shot_type": "medium shot from behind",
+    "visual": "Creator faces away from the camera, using both hands to comb through curls.",
+    "action": "Finger-brushing through the set curls to create soft volume.",
+    "product_visible": false
+   },
+   {
+    "start_s": 54.0,
+    "end_s": 61.98,
+    "shot_type": "medium shot",
+    "visual": "Creator turns around, showing side profile and front view of voluminous hairstyle, smiling and giving two thumbs up.",
+    "action": "Showcasing final look with satisfied approval gesture.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator leaning forward flipping up thick voluminous curls with text asking if the viewer wants hair like this.",
+   "visual_0_3s": "Creator shakes and swishes voluminous, shiny curls toward the camera.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Want volumous curled hair like this? ✨😍",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Dynamic, fast hair flip showing gorgeous blowout curl volume immediately in the opening frame."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Result hook showing desired voluminous curl finish",
+    "Product reveal of the Wavytalk airflow tool",
+    "Technique demonstration: wrap and pull down",
+    "Styling hack: finger twist to set definition",
+    "Section-by-section breakdown (bottom, middle, top, bangs)",
+    "Finishing touch: finger combing through curls",
+    "Final look reveal with endorsement"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "easy_for_beginners",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Creates defined, voluminous curls",
+    "Easy wrap-and-pull motion"
+   ],
+   "pain_points": [
+    "Flat hair lacking volume",
+    "Difficult curling methods that do not hold curl shape"
+   ],
+   "objections_handled": [
+    "Looks hard to curl with a flat iron/airflow tool: step-by-step guidance proves it is easy"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk 2in1 Airflow Styler (Whirlwind Curl)"
+   ],
+   "first_seen_s": 5.8,
+   "first_used_on_hair_s": 8.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long light brown hair with blonde money piece / face-framing highlights, straight/natural texture",
+   "hair_after": "Big, defined, bouncy salon-style curls and volume",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Aesthetic, relaxed, confident, instructional"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Mid-tempo hip-hop / rap song with rhythmic 808s and male vocals.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 13,
+   "avg_shot_length_s": 4.77,
+   "pacing": "medium",
+   "effects": [
+    "On-screen aesthetic typography",
+    "Claw clip hair sectioning"
+   ],
+   "ending": "Creator runs fingers through voluminous hair, smiles directly into the camera, and gives two thumbs up."
+  },
+  "notes": "No voiceover or spoken dialogue; the entire instructional narrative is carried through concise text overlays synced to trending music. Focuses strictly on product utility and technique."
+ }
+}

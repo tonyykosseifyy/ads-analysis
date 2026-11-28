@@ -1,0 +1,247 @@
+{
+ "media_key": "v_1061819496882406",
+ "analyzed_at": "2026-11-28T00:14:29+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "b4c8e623f2cfaf8ccfae94e0c60d02cc6631e2abbbcd8416602fc882eb2f04c2",
+ "source": {
+  "kind": "video",
+  "id": "1061819496882406",
+  "video_id": "1651656183009942",
+  "length_s": 45.416,
+  "permalink": "/23849366283980795/videos/1651656183009942/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 44.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates achieving a bouncy salon-style blowout at home in 12 minutes using the WavyTalk thermal brush, proving the time with an iPad clock.",
+  "full_description": "A silent UGC-style demo video set to trending music with a persistent on-screen hook: 'when you have to leave in 20 mins but can do a blowout look with this thermal brush in only 12'. The creator begins with a quick cut between straight hair and the voluminous blowout result, presents the WavyTalk thermal brush, applies heat protectant spray, and flashes an iPad screen reading 10:00 AM. She sections her blonde hair in steps, curling lower, middle, and top crown layers inward and backward to generate lift and soft curls. At 10:07 she does a mid-way check, then styles the bangs and crown, finger-combs the finished blowout, and displays the iPad reading 10:12 AM to prove it took exactly 12 minutes before posing with the tool.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 44.5,
+    "text": "when you have to leave in 20 mins but can do a blowout look with this thermal brush in only 12",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.0,
+    "shot_type": "medium shot",
+    "visual": "Blonde creator facing camera with flat, straight hair running hands over head.",
+    "action": "Creator shows initial straight hair condition before a quick flash cut.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 2.0,
+    "shot_type": "medium shot",
+    "visual": "Quick flash preview of styled bouncy blowout hair.",
+    "action": "Creator poses showing the voluminous result briefly as a pattern interrupt.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 3.0,
+    "shot_type": "close-up",
+    "visual": "Creator holds up the pink and gold WavyTalk thermal brush toward camera.",
+    "action": "Creator showcases the thermal styling brush displaying the digital screen.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 5.0,
+    "shot_type": "medium shot",
+    "visual": "Creator holding spray bottle in front of plain white wall.",
+    "action": "Creator sprays heat protectant over straight hair and preps it.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 6.0,
+    "shot_type": "medium shot",
+    "visual": "Creator holding up an iPad showing lock screen clock at 10:00.",
+    "action": "Creator establishes start time of 10:00 AM.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.0,
+    "end_s": 7.5,
+    "shot_type": "medium shot",
+    "visual": "Creator clipping up top sections of hair with a claw clip.",
+    "action": "Creator sections hair for styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 13.5,
+    "shot_type": "medium shot",
+    "visual": "Creator curling the lower section of hair inward with the WavyTalk thermal brush.",
+    "action": "Creator glides and twirls brush down hair strand, rolling ends up for bounce.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 22.5,
+    "shot_type": "medium shot",
+    "visual": "Creator releasing middle sections and brushing through with heated round brush.",
+    "action": "Creator rolls middle layers with the thermal brush to add volume and curls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.5,
+    "end_s": 26.5,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the front side layers with the heated brush.",
+    "action": "Creator spins brush through face-framing pieces and checks the curl drop.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 28.0,
+    "shot_type": "medium shot",
+    "visual": "Creator holds up the iPad screen displaying 10:07.",
+    "action": "Creator checks elapsed time midway through.",
+    "product_visible": false
+   },
+   {
+    "start_s": 28.0,
+    "end_s": 38.5,
+    "shot_type": "medium shot",
+    "visual": "Creator styles the crown section and bangs pulling upward and rolling backward.",
+    "action": "Creator adds crown volume by lifting hair up and rolling back with the thermal brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 38.5,
+    "end_s": 41.5,
+    "shot_type": "medium shot",
+    "visual": "Creator shaking out hair and finger-combing curls into a smooth blowout.",
+    "action": "Creator fluffs and styles voluminous layers with hands.",
+    "product_visible": false
+   },
+   {
+    "start_s": 41.5,
+    "end_s": 43.0,
+    "shot_type": "medium shot",
+    "visual": "Creator holding up the iPad lock screen showing 10:12.",
+    "action": "Creator proves the entire styling took only 12 minutes (10:00 to 10:12).",
+    "product_visible": false
+   },
+   {
+    "start_s": 43.0,
+    "end_s": 44.5,
+    "shot_type": "medium shot",
+    "visual": "Creator posing with finished voluminous blowout hair holding the WavyTalk brush.",
+    "action": "Creator smiles and displays the final look next to the tool.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Blonde woman with straight, long blonde hair wearing a navy blue zip-up athletic jacket looking into the camera with hands in hair.",
+   "visual_0_3s": "Rapid jump cut from straight hair to a quick flash of styled hair, followed by a product reveal.",
+   "spoken_0_3s": "",
+   "text_0_3s": "when you have to leave in 20 mins but can do a blowout look with this thermal brush in only 12",
+   "hook_type": "result_first",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Rapid 1-second result flash cut followed immediately by tool display and iPad timer verification."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Relatable time-crunch scenario (leaving in 20 mins)",
+    "Product showcase and clock proof start at 10:00",
+    "Step-by-step section styling demo",
+    "Midpoint time check at 10:07",
+    "Crown/bangs styling for maximum volume",
+    "Final reveal and proof of 12-minute completion at 10:12"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Full blowout look achievable in only 12 minutes",
+    "Creates salon-level volume and bounce quickly at home"
+   ],
+   "pain_points": [
+    "Running late or having only 20 minutes to get ready",
+    "Traditional blowouts take too long with blow dryer and round brush"
+   ],
+   "objections_handled": [
+    "Can it really be done fast? Proved with real iPad timestamp from 10:00 to 10:12"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional lengthy blowout routines"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Thermal Brush (Blowout Boost)"
+   ],
+   "first_seen_s": 2.0,
+   "first_used_on_hair_s": 7.5,
+   "final_result_shown_s": 1.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long straight blonde hair with slight dryness at ends",
+   "hair_after": "Voluminous, bouncy layered blowout with bevelled curled ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Trending vocal soundtrack (remix of Lana Del Rey's National Anthem).",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 13,
+   "avg_shot_length_s": 3.4,
+   "pacing": "fast",
+   "effects": [
+    "flash cut transition",
+    "speed cut montage"
+   ],
+   "ending": "Creator proudly poses with finished hair holding the thermal tool next to her head."
+  },
+  "notes": "Targeted ad for Lebanese market highlighting rapid styling capability; entirely non-verbal format relies on universal visual proof via digital clock and high-contrast before-and-after results."
+ }
+}

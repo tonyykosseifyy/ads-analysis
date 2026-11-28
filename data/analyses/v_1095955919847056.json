@@ -1,0 +1,142 @@
+{
+ "media_key": "v_1095955919847056",
+ "analyzed_at": "2026-11-28T00:10:47+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "ffff319f2db712ff1a572aba3a3593df317ff9da69570a621af5a36728e54755",
+ "source": {
+  "kind": "video",
+  "id": "1095955919847056",
+  "video_id": "1129066769608052",
+  "length_s": 12.213,
+  "permalink": "/23849366283980795/videos/1129066769608052/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 11.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates a thermal round brush by releasing a curled section to reveal a smooth, voluminous blowout result.",
+  "full_description": "A vertical UGC video featuring a young blonde woman styling her hair with a pink thermal round brush (Wavytalk Blowout Boost). At the start, the brush is wrapped around the ends of a front strand of hair with the on-screen text 'POV: you're terrible at doing your hair but found this tool'. She twists and pulls the brush down, releasing a polished inward curled blowout. She sets the tool down and shakes out and touches her voluminous, smooth blonde layers while smiling at the camera.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 11.5,
+    "text": "POV: you're terrible at doing your hair but found this tool",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.0,
+    "shot_type": "medium close-up",
+    "visual": "Young blonde woman looking directly into the camera holding a pink thermal round brush wrapped around the ends of her hair.",
+    "action": "She gently rotates and slides the heated round brush out of the bottom section of her hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 11.5,
+    "shot_type": "medium close-up",
+    "visual": "The woman looks at the camera showing off her layered blowout.",
+    "action": "She sets the tool down, runs her hands through her freshly styled voluminous curls, adjusts her hair, and smiles confidently.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding a pink thermal round brush in her hair with text 'POV: you're terrible at doing your hair but found this tool'.",
+   "visual_0_3s": "Creator unwraps and pulls the heated round brush through her front hair section to reveal a smooth bouncy curl.",
+   "spoken_0_3s": "",
+   "text_0_3s": "POV: you're terrible at doing your hair but found this tool",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Immediate reveal of a curling tool being pulled out to display a salon-level curl with a relatable hook caption."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Relatable problem callout via text overlay for people who struggle with hair styling",
+    "Immediate brush release showing smooth curled blowout result",
+    "Hair shake and showcase of voluminous bouncy final result"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Easy to achieve blowout results even if you are terrible at doing hair"
+   ],
+   "pain_points": [
+    "Difficulty styling hair with traditional tools"
+   ],
+   "objections_handled": [
+    "Requires advanced styling skills"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 3.0,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Layered blonde hair, mostly already styled with one piece wrapped in brush",
+   "hair_after": "Smooth, voluminous layered blonde blowout with curved bouncy ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Dramatic classical operatic / string instrumental music track",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 0,
+   "avg_shot_length_s": 11.5,
+   "pacing": "slow",
+   "effects": [],
+   "ending": "Creator touches hair and looks straight into the camera with a subtle smile."
+  },
+  "notes": "Single continuous take phone UGC video using trending audio and POV hook overlay targeting beginner users who struggle with traditional blowout brushes."
+ }
+}

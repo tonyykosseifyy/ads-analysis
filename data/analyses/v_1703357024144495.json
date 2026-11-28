@@ -1,0 +1,192 @@
+{
+ "media_key": "v_1703357024144495",
+ "analyzed_at": "2026-11-28T00:10:32+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "1c3c5fe1b98e0f8fd03acfcdd48219ce5b51cd37321ffb0c29b73eecb592fa90",
+ "source": {
+  "kind": "video",
+  "id": "1703357024144495",
+  "video_id": "898874019929562",
+  "length_s": 33.2,
+  "permalink": "/23849366283980795/videos/898874019929562/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 32.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A daughter transforms her mother's wild, frizzy grey hair into an elegant salon-style blowout in under 10 minutes using the Wavytalk thermal round brush.",
+  "full_description": "The video starts with a humorous hook showing an older woman with huge, wild frizzy hair, teasing a transformation from 'crazy hair day to millionaire slay in less than 10 min'. It quickly cuts to a glamorous sneak peek of the finished voluminous bob on a luxury glass balcony before demonstrating the styling process step-by-step in a bathroom. The daughter sections the mother's hair and glides the pink Wavytalk thermal round brush through roots and ends, curling inwards. After finishing the crown and front layers, the mom checks her bouncy, polished hair in the mirror and poses outside in a chic leopard-print slip dress.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 32.5,
+    "text": "Turning my mom from crazy hair day to millionaire slay in less than 10 min 💅🏼",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.6,
+    "shot_type": "medium shot",
+    "visual": "A mature woman laughing with extremely puffy, frizzy, unstyled curly grey hair while holding the styling brush handle.",
+    "action": "Mom laughs at her wild hair while holding the base of the hot brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.6,
+    "end_s": 5.4,
+    "shot_type": "medium full shot",
+    "visual": "A flash-forward tease showing the mother in a luxury modern glass hallway/balcony in a leopard dress, rocking sleek styled hair.",
+    "action": "Mom turns around gracefully, showing off her glamorous finished blowout against scenic views.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 16.5,
+    "shot_type": "medium close-up / over-the-shoulder",
+    "visual": "Daughter styling the back and lower sections of the mom's hair with the pink thermal brush in the bathroom.",
+    "action": "The daughter rolls the heated brush through horizontal sections of the bottom layer, creating smooth, curled-under ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 17.5,
+    "shot_type": "medium close-up",
+    "visual": "Mom facing camera with the styled lower layers and the unstyled top pinned up in a messy clip, smiling.",
+    "action": "Mom smiles directly at the camera showing the progress.",
+    "product_visible": false
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 22.8,
+    "shot_type": "close-up",
+    "visual": "The daughter lifting and rolling the crown and front sections backward over the hot thermal brush.",
+    "action": "Styling the root volume and sweeping the bangs and top hair smoothly back.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 29.8,
+    "shot_type": "medium shot",
+    "visual": "Mom fluffing and arranging her newly styled voluminous grey hair in the bathroom mirror.",
+    "action": "Mom admires her hair, fluffs the crown with her fingers, and winks/points approvingly at the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 29.8,
+    "end_s": 32.5,
+    "shot_type": "medium full shot",
+    "visual": "Mother on the balcony in her leopard dress tossing her hair and looking elegant.",
+    "action": "Mom turns her head to show the bounce, volume, and movement of the finished hair.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Mature woman with wild, unbrushed frizzy hair looking shocked and laughing with text overlay.",
+   "visual_0_3s": "Extreme 'before' hair visual showing crazy frizz, quickly flashing to a luxury aesthetic finished blowout tease.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Turning my mom from crazy hair day to millionaire slay in less than 10 min 💅🏼",
+   "hook_type": "before_after",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Drastic visual shock of extreme frizzy bedhead contrasting instantly with high-end luxury aesthetic."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Shocking/relatable frizzy hair before hook",
+    "Instant flash-forward tease of the glamorous finished look",
+    "Demonstration of styling bottom layers with thermal brush",
+    "Mid-way check-in showing contrast",
+    "Styling crown and bangs for maximum volume",
+    "Talent mirror check and satisfied reaction",
+    "Final outdoor reveal and full lifestyle payoff"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "frizz_or_curly_solution",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Transforms crazy frizzy hair into a polished blowout in under 10 minutes",
+    "Adds salon-quality volume, bounce, and shine"
+   ],
+   "pain_points": [
+    "Frizzy, uncontrollable wild hair days",
+    "Spending too much time styling difficult hair"
+   ],
+   "objections_handled": [
+    "Can it handle coarse, frizzy, or mature grey hair? (Yes, smooths effortlessly)"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 5.4,
+   "final_result_shown_s": 1.6,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 2,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "55-65",
+   "hair_before": "Wild, frizzy, voluminous grey/blonde curly bob",
+   "hair_after": "Smooth, voluminous, bouncy blowout with curled-in ends",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "playful, upbeat, elegant"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Upbeat, playful jazz/lounge instrumental track with bouncy upright bass and brass melody.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 4.6,
+   "pacing": "medium",
+   "effects": [
+    "Text overlay banner",
+    "Jump cuts between stages of styling"
+   ],
+   "ending": "Mother turns around and strikes a confident pose on the luxury terrace looking at the camera."
+  },
+  "notes": "Video relies purely on visual transformation storytelling and viral format text hook ('crazy hair day to millionaire slay'). Ideal aspirational ad demonstrating effectiveness on coarse/frizzy mature hair."
+ }
+}

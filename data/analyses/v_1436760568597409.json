@@ -1,0 +1,216 @@
+{
+ "media_key": "v_1436760568597409",
+ "analyzed_at": "2026-11-28T00:09:53+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "798b4dc2a7afccbd471ca7f028d21132550a62399de7e11c808e1518c204a9b7",
+ "source": {
+  "kind": "video",
+  "id": "1436760568597409",
+  "video_id": "1140532948374371",
+  "length_s": 24.333,
+  "permalink": "/23849366283980795/videos/1140532948374371/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 24.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator showcases her hair styling process with the Wavytalk thermal brush transitioning into voluminous blowout results set to music.",
+  "full_description": "A creator demonstrates curling and styling sections of her long brunette hair using a pink and gold Wavytalk thermal round brush under the text overlay 'the process vs...'. After curling several sections and bangs, the video cuts on the beat to 'the results', displaying bouncy, voluminous blowout curls as she flips her hair, applies finishing hair oil, shows off the product, and waves goodbye.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0.0,
+    "en": 0.0,
+    "fr": 0.0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 8.5,
+    "text": "the process vs...",
+    "role": "hook"
+   },
+   {
+    "start_s": 8.6,
+    "end_s": 24.0,
+    "text": "the results",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "shot_type": "medium shot",
+    "visual": "Creator in a striped pink shirt in a bathroom setting unrolling a section of hair from a pink thermal round brush.",
+    "action": "Creator unwinds hair from the barrel to reveal a bouncy spiral curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 5.2,
+    "shot_type": "medium shot",
+    "visual": "Creator curling mid-layer hair with the heated brush and releasing defined curls.",
+    "action": "Creator unclips her hair and slides the thermal brush through a lock, twirling it out.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.2,
+    "end_s": 7.1,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the side and front pieces around her face with the brush.",
+    "action": "Rolling hair upwards around the barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.1,
+    "end_s": 8.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling her bangs straight under with the thermal brush horizontally.",
+    "action": "Pulling the brush forwards through her bangs.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 12.3,
+    "shot_type": "medium shot (back view)",
+    "visual": "Creator from behind, shaking out voluminous, shiny wavy locks after completing the style.",
+    "action": "Fluffing and running fingers through hair from behind.",
+    "product_visible": false
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 15.0,
+    "shot_type": "medium shot",
+    "visual": "Creator turning around to face the camera, adjusting voluminous layered curtain bangs and curls.",
+    "action": "Fluffing roots and smiling at camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 17.0,
+    "shot_type": "medium shot",
+    "visual": "Creator pumping hair oil onto her hand and running it through hair ends.",
+    "action": "Applying hair serum / oil.",
+    "product_visible": false
+   },
+   {
+    "start_s": 17.0,
+    "end_s": 20.0,
+    "shot_type": "medium shot (angled rear)",
+    "visual": "Creator showing the back and side profile of full bouncy waves.",
+    "action": "Separating curls with fingers to show volume.",
+    "product_visible": false
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 22.0,
+    "shot_type": "close-up",
+    "visual": "Creator holding the Wavytalk thermal round brush up towards the camera.",
+    "action": "Pointing at the barrel and logo on the handle.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 24.0,
+    "shot_type": "medium shot",
+    "visual": "Creator smiling and waving hand to the lens.",
+    "action": "Waving goodbye to the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink thermal round brush to a section of her hair under text overlay 'the process vs...'",
+   "visual_0_3s": "Creator unwinding curled hair from the thermal styling brush.",
+   "spoken_0_3s": "",
+   "text_0_3s": "the process vs...",
+   "hook_type": "curiosity_gap",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Split anticipation hook using 'the process vs...' building up to a dramatic music drop reveal."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Process showcase showing quick curling steps on different hair sections",
+    "Transition on music beat drop",
+    "Big reveal of voluminous bouncy blowout curls from behind and front",
+    "Finishing touch styling and product spotlight"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Delivers salon-worthy blowout curls at home easily"
+   ],
+   "pain_points": [
+    "Difficulties achieving bouncy salon blowout volume at home"
+   ],
+   "objections_handled": [
+    "Whether a thermal round brush can hold curls on long hair"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 8.6,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Long brunette highlighted hair, sectioned and clipped up",
+   "hair_after": "Voluminous, bouncy layered blowout curls with polished curtain bangs",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "confident and aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Trending R&B / pop audio track featuring female vocals with a distinct drop transitioning between the process and the results",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 2.4,
+   "pacing": "medium",
+   "effects": [
+    "beat drop transition",
+    "fast cuts"
+   ],
+   "ending": "Creator smiles and waves her hand across the camera frame."
+  },
+  "notes": "Ad utilizes the classic viral TikTok format 'the process vs the results' paired with a beat-drop reveal, highlighting how easily the Wavytalk thermal brush produces defined blowout curls."
+ }
+}

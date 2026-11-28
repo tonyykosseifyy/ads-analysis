@@ -1,0 +1,255 @@
+{
+ "media_key": "v_27451213131207661",
+ "analyzed_at": "2026-11-28T00:08:27+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "9c6d9694df5136d3c8c1534e45cbde080c3067001f503f3c6ef04254b60222ac",
+ "source": {
+  "kind": "video",
+  "id": "27451213131207661",
+  "video_id": "1901984533798377",
+  "length_s": 31.67,
+  "permalink": "/23849366283980795/videos/1901984533798377/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 31.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator uses a reverse-psychology hook listing three playful 'reasons not to buy' the WavyTalk Whirlwind Curl.",
+  "full_description": "A young female creator in a white zip-up top holds the light pink WavyTalk Whirlwind Curl styling tool in a home bedroom/office setting. Speaking directly to the camera in Lebanese Arabic mixed with English and French terms, she employs a reverse psychology hook by presenting 'three reasons why you shouldn't buy this tool from WavyTalk': first, because it does straight (lisse), wavy, and curly hair so you can't decide; second, because its cooling button prevents frizz and instantly sets long-lasting curls; and third, because styling takes only 10 minutes and is extremely easy. She concludes by holding up the tool and jokingly whispering 'don't buy it' with a smirk.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 75,
+    "en": 20,
+    "fr": 5
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Three reasons ليه ما لازم تشتروا هيدا الـ tool من عند Wavytalk.",
+    "text_english": "Three reasons why you shouldn't buy this tool from Wavytalk."
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 5.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "اسمه الـ Whirlwind Curl.",
+    "text_english": "It's called the Whirlwind Curl."
+   },
+   {
+    "start_s": 5.1,
+    "end_s": 9.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "سو أول reason هي إنه بيعملكم شعركم lisse، wavy، وكمان curly.",
+    "text_english": "So the first reason is that it makes your hair straight, wavy, and also curly."
+   },
+   {
+    "start_s": 9.7,
+    "end_s": 11.9,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "إنه ما بتعرفوا تنقّوا شو بدكم تعملوا.",
+    "text_english": "So you won't even know how to choose what to do."
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 16.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "تاني شي لأنه عنده الـ cooling button، وهيدا الشي بيخلّي الشعر ما ينوْبر.",
+    "text_english": "Second thing, because it has the cooling button, and this keeps the hair from getting frizzy."
+   },
+   {
+    "start_s": 16.7,
+    "end_s": 19.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وكمان بس تعملوا curl، it sets دغري أول ما تفكّوها.",
+    "text_english": "And also once you make a curl, it sets right away as soon as you release it."
+   },
+   {
+    "start_s": 19.3,
+    "end_s": 22.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "سو guys، الـ curls تبعكم بيضلّن curly، ما بيقشطوا.",
+    "text_english": "So guys, your curls stay curly, they don't drop."
+   },
+   {
+    "start_s": 22.3,
+    "end_s": 26.6,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "وتالت سبب هو إنه فيّ أعمل كل شعري بـ 10 دقائق وكتير هيّن استعمله.",
+    "text_english": "And the third reason is that I can do all my hair in 10 minutes and it is very easy to use."
+   },
+   {
+    "start_s": 26.6,
+    "end_s": 30.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "فـ guys، هيدا هو الـ tool من عند Wavytalk، اسمه الـ Whirlwind Curl.",
+    "text_english": "So guys, this is the tool from Wavytalk, called the Whirlwind Curl."
+   },
+   {
+    "start_s": 30.2,
+    "end_s": 31.8,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "ما تجيبوه.",
+    "text_english": "Don't get it."
+   }
+  ],
+  "transcript_full_original": "Three reasons ليه ما لازم تشتروا هيدا الـ tool من عند Wavytalk. اسمه الـ Whirlwind Curl. سو أول reason هي إنه بيعملكم شعركم lisse، wavy، وكمان curly. إنه ما بتعرفوا تنقّوا شو بدكم تعملوا. تاني شي لأنه عنده الـ cooling button، وهيدا الشي بيخلّي الشعر ما ينوْبر. وكمان بس تعملوا curl، it sets دغري أول ما تفكّوها. سو guys، الـ curls تبعكم بيضلّن curly، ما بيقشطوا. وتالت سبب هو إنه فيّ أعمل كل شعري بـ 10 دقائق وكتير هيّن استعمله. فـ guys، هيدا هو الـ tool من عند Wavytalk، اسمه الـ Whirlwind Curl. ما تجيبوه.",
+  "transcript_full_english": "Three reasons why you shouldn't buy this tool from Wavytalk. It's called the Whirlwind Curl. So the first reason is that it makes your hair straight, wavy, and also curly. So you won't even know how to choose what to do. Second thing, because it has the cooling button, and this keeps the hair from getting frizzy. And also once you make a curl, it sets right away as soon as you release it. So guys, your curls stay curly, they don't drop. And the third reason is that I can do all my hair in 10 minutes and it is very easy to use. So guys, this is the tool from Wavytalk, called the Whirlwind Curl. Don't get it.",
+  "word_count": 89,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.1,
+    "shot_type": "medium close-up",
+    "visual": "Young creator with long straight dark hair holding the light pink WavyTalk Whirlwind Curl facing camera.",
+    "action": "Creator holds up 3 fingers and shows the pink tool while delivering the reverse psychology hook.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.1,
+    "end_s": 12.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator points to her hair and gestures with the device.",
+    "action": "Creator explains reason 1: versatility (straight, wavy, and curly styles).",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 22.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator points out the cooling air vents and button on the body of the tool.",
+    "action": "Creator demonstrates the cooling feature and explains reason 2: preventing frizz and setting curls immediately.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.3,
+    "end_s": 26.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator rotates the tool in her hands while gesturing.",
+    "action": "Creator explains reason 3: styling full head in 10 minutes and how easy it is to use.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.6,
+    "end_s": 31.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the tool, then camera zooms in slightly toward her face.",
+    "action": "Creator names the tool and winks playfully at the camera whispering 'don't buy it'.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink WavyTalk Whirlwind Curl in one hand and flashing three fingers with the other hand.",
+   "visual_0_3s": "Creator looks directly at the camera holding the tool while gesturing with three fingers.",
+   "spoken_0_3s": "Three reasons ليه ما لازم تشتروا هيدا الـ tool من عند Wavytalk.",
+   "text_0_3s": "",
+   "hook_type": "curiosity_gap",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Reverse psychology negative statement ('reasons why you shouldn't buy this tool') that surprises the viewer."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Negative / reverse psychology hook stating reasons not to buy the tool",
+    "Point 1: Extreme versatility (straight, wavy, curly)",
+    "Point 2: Cooling air vents button sets curls instantly and prevents frizz",
+    "Point 3: Quick styling in 10 minutes and easy usability",
+    "Playful call-down ending repeating the joke: 'Don't get it'"
+   ],
+   "main_angle": "replaces_multiple_tools",
+   "secondary_angles": [
+    "saves_time",
+    "easy_for_beginners",
+    "frizz_or_curly_solution"
+   ],
+   "key_claims": [
+    "Styles hair straight (lisse), wavy, and curly",
+    "Cooling airflow button prevents hair frizzing",
+    "Sets curls instantly so they hold without dropping",
+    "Complete styling takes only 10 minutes",
+    "Very easy to handle and use"
+   ],
+   "pain_points": [
+    "Curls dropping quickly and losing shape",
+    "Frizzy hair after heat styling",
+    "Taking too long to style hair in the morning",
+    "Complicated hair tools"
+   ],
+   "objections_handled": [
+    "Will the curls last? (The cooling airflow locks them in place)",
+    "Is it too difficult to style? (Very easy and fast)"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Whirlwind Curl"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "ما تجيبوه",
+   "cta_on_screen": "",
+   "cta_at_s": 30.2
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, dark brown/black, straight/smooth",
+   "hair_after": "Long, dark brown/black, straight/smooth",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Playful, confident, sassy, conversational"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "None, natural creator voice audio recording.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 0,
+   "avg_shot_length_s": 31.8,
+   "pacing": "medium",
+   "effects": [
+    "Continuous single-take recording"
+   ],
+   "ending": "Creator smirks and tilts head playfully towards camera after whispering sarcastic advice."
+  },
+  "notes": "Classic organic-style reverse psychology listicle UGC filmed as a single continuous take without cuts or on-screen captions."
+ }
+}

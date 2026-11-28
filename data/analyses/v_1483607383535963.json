@@ -1,0 +1,417 @@
+{
+ "media_key": "v_1483607383535963",
+ "analyzed_at": "2026-11-28T00:11:23+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "e004de51999bff97f324879da67fbc6675a7b98fc5b9735108b243fc1bcc93f4",
+ "source": {
+  "kind": "video",
+  "id": "1483607383535963",
+  "video_id": "1658350145238264",
+  "length_s": 62.36,
+  "permalink": "/23849366283980795/videos/1658350145238264/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 62.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Lebanese creator demonstrates styling her bangs and hair sections with the WavyTalk Blowout Boost thermal round brush for quick salon-level volume.",
+  "full_description": "A young Lebanese woman demonstrates the WavyTalk Blowout Boost heated round brush in a bedroom/home setting. She hooks viewers by asking if they want a perfect salon blowout without having time, then demonstrates how she styles her curtain bangs upwards and under for maximum volume, noting that it doesn't snag or pull hair. After revealing the bouncy blowout result, she demos another hair section to show how effortless and fast it is, and finishes by stating she did her entire head in under 10 minutes, urging viewers to shop while it is discounted.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 75,
+    "en": 25,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بدكن that perfect salon blowout بس ما معكن وقت؟",
+    "text_english": "Do you want that perfect salon blowout but you don't have time?"
+   },
+   {
+    "start_s": 2.3,
+    "end_s": 3.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You need this hair tool.",
+    "text_english": "You need this hair tool."
+   },
+   {
+    "start_s": 3.9,
+    "end_s": 7.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "شوفوا بس شو بتقدر تعمل لـ my bangs. Okay?",
+    "text_english": "Just look at what it can do for my bangs. Okay?"
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 12.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أول شي ببلش من ورا، وبعملها brushing هيك.",
+    "text_english": "First I start from the back, and I brush it out like that."
+   },
+   {
+    "start_s": 12.5,
+    "end_s": 17.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "بعدين من قدام، فيكن كذا مرة تعملوها هيك.",
+    "text_english": "Then from the front, you can do it several times like that."
+   },
+   {
+    "start_s": 17.6,
+    "end_s": 24.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "ترجعوا بتعلوها لفوق، and make sure to curl it من تحت، هيك بتعطيكن volume أكتر.",
+    "text_english": "Then lift it upwards, and make sure to curl it at the bottom, that way it gives you more volume."
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 28.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "ما بتقطش الشعر ولا شي.",
+    "text_english": "It doesn't pull or snag the hair at all."
+   },
+   {
+    "start_s": 29.5,
+    "end_s": 33.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And that's it! Wow!",
+    "text_english": "And that's it! Wow!"
+   },
+   {
+    "start_s": 35.5,
+    "end_s": 41.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Look at the volume! بيجنن! It's perfect!",
+    "text_english": "Look at the volume! Gorgeous! It's perfect!"
+   },
+   {
+    "start_s": 42.0,
+    "end_s": 47.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بعد عم فكر أعمل معكن خصلة وحدة بس لتشوفوا قديه it's easy to use.",
+    "text_english": "I'm thinking of doing one more section with you just so you see how easy it is to use."
+   },
+   {
+    "start_s": 51.5,
+    "end_s": 56.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "شوفوا! Wow! Wow wow!",
+    "text_english": "Look! Wow! Wow wow!"
+   },
+   {
+    "start_s": 56.8,
+    "end_s": 62.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "خلصت كل شعري بأقل من 10 minutes using this brush, فإذا you liked this look, don't forget to shop it when it's discounted.",
+    "text_english": "I finished my whole hair in less than 10 minutes using this brush, so if you liked this look, don't forget to shop it when it's discounted."
+   }
+  ],
+  "transcript_full_original": "بدكن that perfect salon blowout بس ما معكن وقت؟ You need this hair tool. شوفوا بس شو بتقدر تعمل لـ my bangs. Okay? أول شي ببلش من ورا، وبعملها brushing هيك. بعدين من قدام، فيكن كذا مرة تعملوها هيك. ترجعوا بتعلوها لفوق، and make sure to curl it من تحت، هيك بتعطيكن volume أكتر. ما بتقطش الشعر ولا شي. And that's it! Wow! Look at the volume! بيجنن! It's perfect! بعد عم فكر أعمل معكن خصلة وحدة بس لتشوفوا قديه it's easy to use. شوفوا! Wow! Wow wow! خلصت كل شعري بأقل من 10 minutes using this brush, فإذا you liked this look, don't forget to shop it when it's discounted.",
+  "transcript_full_english": "Do you want that perfect salon blowout but you don't have time? You need this hair tool. Just look at what it can do for my bangs. Okay? First I start from the back, and I brush it out like that. Then from the front, you can do it several times like that. Then lift it upwards, and make sure to curl it at the bottom, that way it gives you more volume. It doesn't pull or snag the hair at all. And that's it! Wow! Look at the volume! Gorgeous! It's perfect! I'm thinking of doing one more section with you just so you see how easy it is to use. Look! Wow! Wow wow! I finished my whole hair in less than 10 minutes using this brush, so if you liked this look, don't forget to shop it when it's discounted.",
+  "word_count": 105,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.0,
+    "text": "want that perfect salon blowout",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 3.0,
+    "text": "but you don't have time?",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 4.0,
+    "text": "you need this hair tool",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.0,
+    "end_s": 6.0,
+    "text": "just look how it works",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.0,
+    "end_s": 8.0,
+    "text": "for my hair bangs",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 10.0,
+    "text": "first i start from the back",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.0,
+    "end_s": 12.0,
+    "text": "and i brush it out like that",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 14.0,
+    "text": "then i brush it in like that",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.0,
+    "end_s": 16.0,
+    "text": "you can do several tries",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 18.0,
+    "text": "you brush it like that",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 20.0,
+    "text": "then upwards to maintain volume",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 25.0,
+    "text": "make sure to curl it at the ends",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.0,
+    "end_s": 29.0,
+    "text": "it doesn't pull or snag the hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 29.0,
+    "end_s": 31.0,
+    "text": "and that's it!",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 34.0,
+    "text": "wow!!",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 35.0,
+    "end_s": 37.0,
+    "text": "look at the volume",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 37.0,
+    "end_s": 39.0,
+    "text": "amazing",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 39.0,
+    "end_s": 41.0,
+    "text": "it's perfect",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 42.0,
+    "end_s": 45.0,
+    "text": "i still want to do another section",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 45.0,
+    "end_s": 48.0,
+    "text": "just to show you how it's easy to use",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 56.5,
+    "end_s": 62.0,
+    "text": "reference video",
+    "role": "other"
+   },
+   {
+    "start_s": 57.0,
+    "end_s": 59.0,
+    "text": "i finished my whole hair using this brush",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 59.0,
+    "end_s": 60.5,
+    "text": "so if you liked this look",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 60.5,
+    "end_s": 62.0,
+    "text": "don't forget to shop it when it's discounted",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.8,
+    "shot_type": "medium shot",
+    "visual": "Creator standing facing camera holding the pink WavyTalk thermal brush.",
+    "action": "Creator delivers hook directly to camera while pointing at the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 29.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling her curtain bangs using the heated brush.",
+    "action": "She brushes her bangs backwards, forwards, and rolls them straight up and under to create root lift and end curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 29.5,
+    "end_s": 41.8,
+    "shot_type": "medium shot",
+    "visual": "Creator admires the volume and shape of her freshly styled bangs.",
+    "action": "Releases the brush, tosses her hair, fluffs her bangs with her fingers and shows off the volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 41.8,
+    "end_s": 56.5,
+    "shot_type": "medium shot",
+    "visual": "Creator styling another section of hair on the side.",
+    "action": "Wraps a side strand around the thermal barrel, rolls it down smoothly and reveals a bouncy wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 56.5,
+    "end_s": 62.0,
+    "shot_type": "picture-in-picture / split screen",
+    "visual": "Creator holds the brush in foreground; top-left picture-in-picture box labeled 'reference video' shows her hair before/process.",
+    "action": "Creator summarizes that it took under 10 minutes for full hair and delivers CTA to purchase with discount.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera with voluminous dark hair holding the pink WavyTalk brush with subtitle 'want that perfect salon blowout'.",
+   "visual_0_3s": "Creator talking passionately to camera while gesturing with the pink thermal brush in hand.",
+   "spoken_0_3s": "بدكن that perfect salon blowout بس ما معكن وقت؟ You need this hair tool.",
+   "text_0_3s": "want that perfect salon blowout / but you don't have time?",
+   "hook_type": "question",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Direct question addressing time-crunched salon blowout seekers, holding the tool directly at the viewer."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook asking if viewer wants a salon blowout fast",
+    "Step-by-step bangs styling demo with technique tips",
+    "Reaction and volume reveal",
+    "Secondary section demo showing ease of use",
+    "Time claim (full head in under 10 mins) and discount CTA"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Gives a perfect salon blowout at home",
+    "Adds high volume and lift to curtain bangs",
+    "Does not snag or pull the hair",
+    "Easy to use on different hair sections",
+    "Styles the entire head in less than 10 minutes"
+   ],
+   "pain_points": [
+    "No time to go to the hair salon",
+    "Struggling to style curtain bangs with round brush and hairdryer",
+    "Hair getting caught or snagged in round brushes"
+   ],
+   "objections_handled": [
+    "Hair snagging: creator explicitly notes it does not snag or yank the hair",
+    "Difficulty level: creator does an extra live section to prove how effortless it is"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional salon blowout"
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 3.8,
+   "final_result_shown_s": 30.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Discounted price mentioned",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Shop it while it's discounted",
+   "cta_spoken": "فإذا you liked this look, don't forget to shop it when it's discounted",
+   "cta_on_screen": "don't forget to shop it when it's discounted",
+   "cta_at_s": 60.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, thick dark brown/black hair with long curtain bangs",
+   "hair_after": "Bouncy, voluminous blowout with flipped curtain bangs and curved ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "upbeat, friendly, and instructive"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No prominent background music; clear direct UGC voice recording.",
+   "captions_burned_in": true,
+   "production_style": "phone_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 12.4,
+   "pacing": "medium",
+   "effects": [
+    "burned-in English subtitles",
+    "picture-in-picture video inset"
+   ],
+   "ending": "Creator holds product pointing at it, cut off right as she finishes the sentence about discount."
+  },
+  "notes": "Ad targets Lebanon. Demonstrates the heated barrel brush styling technique for bangs and side hair with clear step-by-step guidance."
+ }
+}

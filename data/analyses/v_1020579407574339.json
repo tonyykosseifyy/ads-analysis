@@ -1,0 +1,340 @@
+{
+ "media_key": "v_1020579407574339",
+ "analyzed_at": "2026-11-28T00:12:35+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "e437e63e4ffe316d359aef0f924ce9555d8f24ba5999321bcd931208aaa3e990",
+ "source": {
+  "kind": "video",
+  "id": "1020579407574339",
+  "video_id": "1252679526735660",
+  "length_s": 27.533,
+  "permalink": "/122152625727061607/videos/1252679526735660?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 27.87,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A female creator demonstrates the Wavytalk Airflow Styler (Whirlwind Curl) showing how it straightens and curls in a single tool.",
+  "full_description": "The video opens with a woman admiring her bouncy styled curls in a mirror. She shows the pink Wavytalk Airflow Styler / Whirlwind Curl tool and contrasts quick before-and-after clips of straight vs curled hair. An automated English female voiceover explains how it replaced both her straightener and curling iron, demonstrating the cool air feature, safe-to-touch exterior, straightening on one section, and curling on another with one pass. She finishes by showcasing the voluminous, shiny, bouncy result.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.4,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "This is the best flat iron for curling.",
+    "text_english": "This is the best flat iron for curling."
+   },
+   {
+    "start_s": 1.4,
+    "end_s": 3.4,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I used to switch between two tools every morning,",
+    "text_english": "I used to switch between two tools every morning,"
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 5.1,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "one to straighten and one to curl.",
+    "text_english": "one to straighten and one to curl."
+   },
+   {
+    "start_s": 5.1,
+    "end_s": 7.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "The Wavytalk airflow styler completely replaced both.",
+    "text_english": "The Wavytalk airflow styler completely replaced both."
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 10.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Uses cool air to lock in curls while styling,",
+    "text_english": "Uses cool air to lock in curls while styling,"
+   },
+   {
+    "start_s": 10.3,
+    "end_s": 12.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "so you can literally touch the top while using it.",
+    "text_english": "so you can literally touch the top while using it."
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 15.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I like to smash my hair in between the two plates, I think it makes my hair straighter.",
+    "text_english": "I like to smash my hair in between the two plates, I think it makes my hair straighter."
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 19.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I curled one side and straightened the other just to show you both looks and it worked in just one pass per strand.",
+    "text_english": "I curled one side and straightened the other just to show you both looks and it worked in just one pass per strand."
+   },
+   {
+    "start_s": 19.5,
+    "end_s": 22.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Whether I want soft waves or sleek ends, this tool does it all in one go.",
+    "text_english": "Whether I want soft waves or sleek ends, this tool does it all in one go."
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 25.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Final look is shiny, smooth, and full of volume, as you can see.",
+    "text_english": "Final look is shiny, smooth, and full of volume, as you can see."
+   },
+   {
+    "start_s": 25.8,
+    "end_s": 27.87,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "It gives me the amazing bouncy...",
+    "text_english": "It gives me the amazing bouncy..."
+   }
+  ],
+  "transcript_full_original": "This is the best flat iron for curling. I used to switch between two tools every morning, one to straighten and one to curl. The Wavytalk airflow styler completely replaced both. Uses cool air to lock in curls while styling, so you can literally touch the top while using it. I like to smash my hair in between the two plates, I think it makes my hair straighter. I curled one side and straightened the other just to show you both looks and it worked in just one pass per strand. Whether I want soft waves or sleek ends, this tool does it all in one go. Final look is shiny, smooth, and full of volume, as you can see. It gives me the amazing bouncy...",
+  "transcript_full_english": "This is the best flat iron for curling. I used to switch between two tools every morning, one to straighten and one to curl. The Wavytalk airflow styler completely replaced both. Uses cool air to lock in curls while styling, so you can literally touch the top while using it. I like to smash my hair in between the two plates, I think it makes my hair straighter. I curled one side and straightened the other just to show you both looks and it worked in just one pass per strand. Whether I want soft waves or sleek ends, this tool does it all in one go. Final look is shiny, smooth, and full of volume, as you can see. It gives me the amazing bouncy...",
+  "word_count": 108,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 2.0,
+    "end_s": 3.0,
+    "text": "BEFORE",
+    "role": "other"
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 4.5,
+    "text": "AFTER",
+    "role": "other"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 0.9,
+    "shot_type": "medium shot",
+    "visual": "Creator in pink satin robe checking her hair in mirror reflection.",
+    "action": "Creator poses and looks at herself in mirror admiring curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 0.9,
+    "end_s": 2.0,
+    "shot_type": "close-up",
+    "visual": "Creator opening and closing the pink Wavytalk Airflow Styler in front of the camera.",
+    "action": "Opening and closing plates to showcase the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 3.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator showing straight long hair before styling with text overlay BEFORE.",
+    "action": "Creator tilting head showing straight hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 4.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator showing voluminous curled hair after styling with text overlay AFTER.",
+    "action": "Creator smiling and posing showing styled hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 5.4,
+    "shot_type": "close-up",
+    "visual": "Creator opening and closing the styler plates.",
+    "action": "Displaying the styler again.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 9.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator clamping a hair strand, wrapping it around the styler, and pulling through.",
+    "action": "Demonstrating curling hair with the airflow styler.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.2,
+    "end_s": 10.9,
+    "shot_type": "extreme close-up",
+    "visual": "Close-up of the digital temperature display and control buttons on the Wavytalk handle.",
+    "action": "Hand holding tool showing digital display reading 419°F and Wavytalk logo.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 12.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the outer cool-touch casing with fingers while styling.",
+    "action": "Touching the outer barrel showing it is cool to the touch.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 18.5,
+    "shot_type": "medium close-up / profile",
+    "visual": "Creator pulling hair section through the plates to straighten it.",
+    "action": "Gliding the iron down a strand in a single pass to straighten.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 22.1,
+    "shot_type": "medium close-up / profile",
+    "visual": "Creator curling another section by rotating tool and pulling down.",
+    "action": "Twisting styler 360 degrees and pulling through to create a curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.1,
+    "end_s": 24.5,
+    "shot_type": "close-up",
+    "visual": "Close-up of hair strand wrapping around barrel and revealing glossy spiral curl.",
+    "action": "Releasing curl from barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 25.8,
+    "shot_type": "close-up",
+    "visual": "Creator running fingers through the defined spiral curl to separate it.",
+    "action": "Finger combing through the curl.",
+    "product_visible": false
+   },
+   {
+    "start_s": 25.8,
+    "end_s": 27.87,
+    "shot_type": "medium close-up",
+    "visual": "Creator looking into camera/mirror running hands through her full bouncy blowout.",
+    "action": "Tossing hair and posing showing final result.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator in a pink robe looking at herself in the mirror with voluminous curls.",
+   "visual_0_3s": "Creator looks in mirror, shows the pink iron, and shows rapid before/after comparison clips.",
+   "spoken_0_3s": "This is the best flat iron for curling. I used to switch between two tools every morning,",
+   "text_0_3s": "BEFORE (at 2s)",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Quick cut from mirror glam shot to tool opening and closing to fast Before vs After flashes."
+  },
+  "structure": {
+   "format": "voiceover_broll",
+   "narrative_beats": [
+    "Hook with bold claim and quick before/after comparison",
+    "Problem statement: having to use two separate tools every morning",
+    "Solution reveal: Wavytalk airflow styler replaces both",
+    "Feature highlight: cool air locks curl and keeps exterior safe to touch",
+    "Demo: straightening on one side, curling on the other with one pass",
+    "Final reveal: smooth, shiny, bouncy voluminous curls"
+   ],
+   "main_angle": "replaces_multiple_tools",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Best flat iron for curling",
+    "Replaces both straightener and curling iron",
+    "Uses cool air to lock in curls while styling",
+    "Exterior is safe and cool to touch",
+    "Works in just one pass per strand"
+   ],
+   "pain_points": [
+    "Having to switch between two separate hot tools every morning",
+    "Burning fingers on hot curling wands/plates"
+   ],
+   "objections_handled": [
+    "Can it really straighten AND curl effectively?",
+    "Is the exterior too hot to handle?"
+   ],
+   "social_proof": [],
+   "comparison_to": "Using two separate tools (flat iron + curling wand)"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Airflow Styler / Whirlwind Curl"
+   ],
+   "first_seen_s": 0.9,
+   "first_used_on_hair_s": 5.4,
+   "final_result_shown_s": 3.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Long, thick, straight brunette hair with warm caramel highlights",
+   "hair_after": "Voluminous, glossy Hollywood blowout curls and waves",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident and energetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle upbeat background instrumental pop/electronic beat under AI TTS voiceover.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 11,
+   "avg_shot_length_s": 2.32,
+   "pacing": "fast",
+   "effects": [
+    "text overlay labels (BEFORE / AFTER)",
+    "jump cuts"
+   ],
+   "ending": "Video cuts off on creator tossing her bouncy hair in front of the mirror."
+  },
+  "notes": "Ad utilizes high-engagement TikTok-style robotic voiceover paired with aesthetic UGC footage showing the dual curling and straightening capabilities of the Whirlwind Curl / Airflow Styler."
+ }
+}

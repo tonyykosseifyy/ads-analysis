@@ -1,0 +1,519 @@
+{
+ "media_key": "v_1776537713682191",
+ "analyzed_at": "2026-11-28T00:12:00+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "15595281b61d7965deffd8c749684f0a2d768b3e0945aeb40d8d929617d017cc",
+ "source": {
+  "kind": "video",
+  "id": "1776537713682191",
+  "video_id": "2208250083236952",
+  "length_s": 67.133,
+  "permalink": "/23849366283980795/videos/2208250083236952/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 67.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator styles her extra-long hair into effortless waves using the Wavytalk Power Wave crimper in a step-by-step tutorial.",
+  "full_description": "A female creator with very long brown hair demonstrates how she creates a 'lazy wave' half-up half-down hairstyle using the Wavytalk Power Wave. She starts by showing the finished look teaser and then takes hair down to style it section by section, demonstrating the clamping mechanism, automatic beep timer, and negative ion shine benefits before styling it into a cute half ponytail.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This hairstyle is everything.",
+    "text_english": "This hairstyle is everything."
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 2.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's fix this hair.",
+    "text_english": "Let's fix this hair."
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 4.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm extremely tight on time, so I'm gonna go with my crimper.",
+    "text_english": "I'm extremely tight on time, so I'm gonna go with my crimper."
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 7.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I love this when I want just, like, effortless, loose waves.",
+    "text_english": "I love this when I want just, like, effortless, loose waves."
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 11.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is my go-to hairstyle when I want to look put together but not overly done up.",
+    "text_english": "This is my go-to hairstyle when I want to look put together but not overly done up."
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 13.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It is, quite frankly, the easiest thing ever.",
+    "text_english": "It is, quite frankly, the easiest thing ever."
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 17.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "All I have to do is clamp the hair, and then I wait for that beep, and it tells me when to move down the hair.",
+    "text_english": "All I have to do is clamp the hair, and then I wait for that beep, and it tells me when to move down the hair."
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 21.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Basically no effort, and I get these effortless-looking shiny waves.",
+    "text_english": "Basically no effort, and I get these effortless-looking shiny waves."
+   },
+   {
+    "start_s": 21.8,
+    "end_s": 25.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And I can leave the ends out, which means less heat damage.",
+    "text_english": "And I can leave the ends out, which means less heat damage."
+   },
+   {
+    "start_s": 25.1,
+    "end_s": 28.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at that, it's almost like a nice, soft lazy wave.",
+    "text_english": "Look at that, it's almost like a nice, soft lazy wave."
+   },
+   {
+    "start_s": 28.1,
+    "end_s": 31.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Not too glam, but it's just enough to make you look a little bit more put together.",
+    "text_english": "Not too glam, but it's just enough to make you look a little bit more put together."
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 33.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This took me no time, look at that difference.",
+    "text_english": "This took me no time, look at that difference."
+   },
+   {
+    "start_s": 33.3,
+    "end_s": 37.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So if you're like me and you like that more soft, effortless look, then this is a great option for you.",
+    "text_english": "So if you're like me and you like that more soft, effortless look, then this is a great option for you."
+   },
+   {
+    "start_s": 37.4,
+    "end_s": 40.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "First section done, I'm gonna put this away, and now let's do the top section.",
+    "text_english": "First section done, I'm gonna put this away, and now let's do the top section."
+   },
+   {
+    "start_s": 40.5,
+    "end_s": 43.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And we're gonna do a little half-up half-down moment.",
+    "text_english": "And we're gonna do a little half-up half-down moment."
+   },
+   {
+    "start_s": 43.1,
+    "end_s": 47.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Oh, and this tool uses negative ion technology, and that literally adds shine to your hair.",
+    "text_english": "Oh, and this tool uses negative ion technology, and that literally adds shine to your hair."
+   },
+   {
+    "start_s": 47.7,
+    "end_s": 50.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay, is this not the perfect lazy wave?",
+    "text_english": "Okay, is this not the perfect lazy wave?"
+   },
+   {
+    "start_s": 50.1,
+    "end_s": 54.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now, to add a little something extra, I'm just gonna put half of it up in a pony.",
+    "text_english": "Now, to add a little something extra, I'm just gonna put half of it up in a pony."
+   },
+   {
+    "start_s": 54.3,
+    "end_s": 60.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And I'm using, like, a little brown clear hair tie so that it mixes with my hair and you don't see it.",
+    "text_english": "And I'm using, like, a little brown clear hair tie so that it mixes with my hair and you don't see it."
+   },
+   {
+    "start_s": 60.1,
+    "end_s": 64.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay, stop, this is so cute. It's definitely my new go-to easy hairstyle.",
+    "text_english": "Okay, stop, this is so cute. It's definitely my new go-to easy hairstyle."
+   },
+   {
+    "start_s": 64.8,
+    "end_s": 66.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Definitely check out the Wavytalk Power Wave.",
+    "text_english": "Definitely check out the Wavytalk Power Wave."
+   }
+  ],
+  "transcript_full_original": "This hairstyle is everything. Let's fix this hair. I'm extremely tight on time, so I'm gonna go with my crimper. I love this when I want just, like, effortless, loose waves. This is my go-to hairstyle when I want to look put together but not overly done up. It is, quite frankly, the easiest thing ever. All I have to do is clamp the hair, and then I wait for that beep, and it tells me when to move down the hair. Basically no effort, and I get these effortless-looking shiny waves. And I can leave the ends out, which means less heat damage. Look at that, it's almost like a nice, soft lazy wave. Not too glam, but it's just enough to make you look a little bit more put together. This took me no time, look at that difference. So if you're like me and you like that more soft, effortless look, then this is a great option for you. First section done, I'm gonna put this away, and now let's do the top section. And we're gonna do a little half-up half-down moment. Oh, and this tool uses negative ion technology, and that literally adds shine to your hair. Okay, is this not the perfect lazy wave? Now, to add a little something extra, I'm just gonna put half of it up in a pony. And I'm using, like, a little brown clear hair tie so that it mixes with my hair and you don't see it. Okay, stop, this is so cute. It's definitely my new go-to easy hairstyle. Definitely check out the Wavytalk Power Wave.",
+  "transcript_full_english": "This hairstyle is everything. Let's fix this hair. I'm extremely tight on time, so I'm gonna go with my crimper. I love this when I want just, like, effortless, loose waves. This is my go-to hairstyle when I want to look put together but not overly done up. It is, quite frankly, the easiest thing ever. All I have to do is clamp the hair, and then I wait for that beep, and it tells me when to move down the hair. Basically no effort, and I get these effortless-looking shiny waves. And I can leave the ends out, which means less heat damage. Look at that, it's almost like a nice, soft lazy wave. Not too glam, but it's just enough to make you look a little bit more put together. This took me no time, look at that difference. So if you're like me and you like that more soft, effortless look, then this is a great option for you. First section done, I'm gonna put this away, and now let's do the top section. And we're gonna do a little half-up half-down moment. Oh, and this tool uses negative ion technology, and that literally adds shine to your hair. Okay, is this not the perfect lazy wave? Now, to add a little something extra, I'm just gonna put half of it up in a pony. And I'm using, like, a little brown clear hair tie so that it mixes with my hair and you don't see it. Okay, stop, this is so cute. It's definitely my new go-to easy hairstyle. Definitely check out the Wavytalk Power Wave.",
+  "word_count": 234,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.7,
+    "text": "This hairstyle is everything.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 2.8,
+    "text": "Let's fix this hair.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 4.5,
+    "text": "I'm extremely tight on time,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 5.4,
+    "text": "so I'm gonna go with my crimper.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 7.4,
+    "text": "I love this when I want just, like, effortless, loose waves.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 11.0,
+    "text": "This is my go to hairstyle when I wanna look put together but not overly done up.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 13.0,
+    "text": "the easiest thing ever. All I have to do is clamp the hair,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 17.5,
+    "text": "and then I wait for that beep, and it tells me when to move down the hair.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 21.8,
+    "text": "Basically no effort, and I get these effortless looking shiny waves.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.8,
+    "end_s": 25.1,
+    "text": "And I can leave the ends out, which means less heat damage.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.1,
+    "end_s": 28.1,
+    "text": "Look at that. It's almost like a nice, soft lazy wave. Like,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 28.1,
+    "end_s": 31.0,
+    "text": "not too glam, but it's just enough to make you look a little bit more put together.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 33.3,
+    "text": "This took me no time. Look at that difference.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 33.3,
+    "end_s": 37.4,
+    "text": "So if you're like me and you like that more soft, effortless look, then this is a great option for you.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 37.4,
+    "end_s": 40.5,
+    "text": "First section done. I'm gonna put this away. And now let's do the top section.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 40.5,
+    "end_s": 43.1,
+    "text": "And we're gonna do a little half up half down moment. Oh,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 43.1,
+    "end_s": 47.7,
+    "text": "and this tool uses negative ion technology, and that literally adds shine to your hair.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 47.7,
+    "end_s": 50.1,
+    "text": "Hey, is this not the perfect lazy wave?",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 50.1,
+    "end_s": 54.3,
+    "text": "Now, to add a little something extra, I'm just gonna put half of it up in a pony.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 54.3,
+    "end_s": 60.1,
+    "text": "a little brown clear hair tie so that it mixes with my hair. And you don't see it.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 60.1,
+    "end_s": 64.8,
+    "text": "Okay, stop. This is so cute. It's definitely my new go to easy hairstyle.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 64.8,
+    "end_s": 66.8,
+    "text": "Definitely check out the Wavytalk Power Wave.",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.7,
+    "shot_type": "medium shot",
+    "visual": "Creator sits facing camera showcasing fully styled wavy hair.",
+    "action": "Creator gestures towards her hair saying it is everything.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 7.4,
+    "shot_type": "medium shot",
+    "visual": "Creator holds the pink Wavytalk Power Wave waver tool in front of the camera.",
+    "action": "Creator shakes out her hair, grabs the tool, and explains she is in a rush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 11.8,
+    "shot_type": "medium shot",
+    "visual": "Creator with top half tied up, straight bottom hair down, holding the tool.",
+    "action": "Creator talks directly to the camera while holding the waver tool ready to style.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.8,
+    "end_s": 27.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator clamping a section of her long straight hair with the Wavytalk Power Wave.",
+    "action": "Creator clamps the hair section, listens for the beep, slides down, and reveals defined waves.",
+    "product_visible": true
+   },
+   {
+    "start_s": 27.5,
+    "end_s": 31.0,
+    "shot_type": "medium shot",
+    "visual": "Creator clamps the other side of the lower hair section.",
+    "action": "Creator demonstrates waving the second bottom section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 31.0,
+    "end_s": 33.3,
+    "shot_type": "medium shot",
+    "visual": "Creator shows half-wavy lower section next to straight hair for contrast.",
+    "action": "Creator spreads out the wavy sections and highlights the side-by-side difference.",
+    "product_visible": false
+   },
+   {
+    "start_s": 33.3,
+    "end_s": 37.4,
+    "shot_type": "medium shot",
+    "visual": "Creator continues clamping and styling hair sections.",
+    "action": "Creator applies tool to upper sections while talking.",
+    "product_visible": true
+   },
+   {
+    "start_s": 37.4,
+    "end_s": 47.7,
+    "shot_type": "medium shot",
+    "visual": "Creator unpins the top section and clamps it with the waver.",
+    "action": "Creator drops top section, waves it, and explains the negative ion technology.",
+    "product_visible": true
+   },
+   {
+    "start_s": 47.7,
+    "end_s": 60.1,
+    "shot_type": "medium shot",
+    "visual": "Creator puts top hair up into a half ponytail using a brown clear elastic.",
+    "action": "Creator gathers the crown section, secures it with a small elastic, and adjusts it.",
+    "product_visible": false
+   },
+   {
+    "start_s": 60.1,
+    "end_s": 67.0,
+    "shot_type": "medium shot",
+    "visual": "Creator holding the Wavytalk Power Wave next to her completed styled hair.",
+    "action": "Creator admires the hairstyle, points at the tool, and delivers the closing call to action.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing off long, voluminous wavy hair.",
+   "visual_0_3s": "Creator sitting upright smiling and gesturing towards her styled hair, then transition to holding the crimper.",
+   "spoken_0_3s": "This hairstyle is everything. Let's fix this hair.",
+   "text_0_3s": "This hairstyle is everything. / Let's fix this hair.",
+   "hook_type": "result_first",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Rapid jump cut from a stunning finished hairstyle teaser directly into messy/unprepped hair holding the styling iron."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Finished look teaser hook",
+    "Tool introduction and styling problem context (tight on time, effortless look)",
+    "Step-by-step clamping tutorial with feature explanation (beep indicator, leaving ends out)",
+    "Halfway side-by-side comparison showing wavy texture vs straight hair",
+    "Feature highlight (negative ion technology for shine)",
+    "Final half-up styling step and product call to action"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "saves_time",
+    "salon_result_at_home",
+    "less_heat_damage"
+   ],
+   "key_claims": [
+    "Easiest hair styling tool to use",
+    "Audible beep timer tells you when to slide down",
+    "Negative ion technology adds shine",
+    "Leaves ends out to prevent heat damage",
+    "Creates effortless, soft lazy waves quickly"
+   ],
+   "pain_points": [
+    "Tight on time to do hair",
+    "Overly complicated curling irons",
+    "Fear of heat damage on hair ends",
+    "Hair looking overly done-up instead of naturally put together"
+   ],
+   "objections_handled": [
+    "Knowing how long to hold the clamp (handled by auto beep timer)",
+    "Heat damage (handled by leaving ends out and ionic tech)",
+    "Time consumption for very long hair (demonstrated very fast waving)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional crimpers or curling irons"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Power Wave"
+   ],
+   "first_seen_s": 2.8,
+   "first_used_on_hair_s": 11.8,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Definitely check out the Wavytalk Power Wave.",
+   "cta_on_screen": "Definitely check out the Wavytalk Power Wave.",
+   "cta_at_s": 64.8
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20s",
+   "hair_before": "Extremely long, straight brunette hair reaching below hips",
+   "hair_after": "Voluminous, shiny deep waves styled into a half-up half-down pony",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "friendly, enthusiastic, conversational"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No noticeable background music; direct spoken creator audio with audible iron clamp clicks and beeps.",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 4.8,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts between sections",
+    "burned-in subtitles"
+   ],
+   "ending": "Creator holding the pink Wavytalk Power Wave tool next to her head smiling at the camera."
+  },
+  "notes": "Original English UGC ad licensed or utilized for Wavytalk Power Wave campaign targeting Lebanon/MENA audience."
+ }
+}

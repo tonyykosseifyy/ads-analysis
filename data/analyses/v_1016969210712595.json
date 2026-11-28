@@ -1,0 +1,419 @@
+{
+ "media_key": "v_1016969210712595",
+ "analyzed_at": "2026-11-28T00:31:38+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "ba8b3a0891318ea7f81abce66b7bbb608a9d228de88f7dffad0269fd56848476",
+ "source": {
+  "kind": "video",
+  "id": "1016969210712595",
+  "video_id": "1621290003349037",
+  "length_s": 67.801,
+  "permalink": "/23849366283980795/videos/1621290003349037/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 67.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates styling thick, textured hair with the Wavytalk thermal brush, comparing her frizzy 'before' side with a sleek salon-quality blowout.",
+  "full_description": "A creator showcases a side-by-side comparison of her natural, puffy textured hair against a smooth, voluminous blowout achieved with the Wavytalk Thermal Brush. She explains the features of the tool, including adjustable heat settings and negative ion technology, demonstrates passing it through sectioned hair in a single pass from root to tip, addresses the fear of bristle brushes making hair poofy, shows off the shiny finish, flashes a quick before-and-after photo, and closes with a call to action highlighting affordability and fast shipping.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Watch my hair go from this to this with a bristle brush, girl.",
+    "text_english": "Watch my hair go from this to this with a bristle brush, girl."
+   },
+   {
+    "start_s": 3.2,
+    "end_s": 6.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is the Wavytalk thermal brush, and it's going to give you that perfect blowout look every time.",
+    "text_english": "This is the Wavytalk thermal brush, and it's going to give you that perfect blowout look every time."
+   },
+   {
+    "start_s": 6.1,
+    "end_s": 10.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You can adjust the heat settings and it also has that negative ion technology, and it is going to give you",
+    "text_english": "You can adjust the heat settings and it also has that negative ion technology, and it is going to give you"
+   },
+   {
+    "start_s": 10.3,
+    "end_s": 14.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "silky, soft hair every time.",
+    "text_english": "silky, soft hair every time."
+   },
+   {
+    "start_s": 14.1,
+    "end_s": 18.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This brush changed the game for me. I was the girl who had the blow dryer, the bristle brush, the flat iron,",
+    "text_english": "This brush changed the game for me. I was the girl who had the blow dryer, the bristle brush, the flat iron,"
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 23.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and then I would go and this... look at this! Look at my hair, okay? This speaks for itself.",
+    "text_english": "and then I would go and this... look at this! Look at my hair, okay? This speaks for itself."
+   },
+   {
+    "start_s": 23.3,
+    "end_s": 29.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This brush changed the game for me because I only have to go through with one pass, and I am thoroughly impressed",
+    "text_english": "This brush changed the game for me because I only have to go through with one pass, and I am thoroughly impressed"
+   },
+   {
+    "start_s": 29.8,
+    "end_s": 33.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "on how from root to tip, if you can't tell, the hair is shiny, it is sleek,",
+    "text_english": "on how from root to tip, if you can't tell, the hair is shiny, it is sleek,"
+   },
+   {
+    "start_s": 33.7,
+    "end_s": 39.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and it's giving perfect blowout results with just one tool.",
+    "text_english": "and it's giving perfect blowout results with just one tool."
+   },
+   {
+    "start_s": 39.5,
+    "end_s": 44.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm not going to lie, sometimes when you see a bristle brush like that, you're like, ooh, is the hair going to get poofy? No.",
+    "text_english": "I'm not going to lie, sometimes when you see a bristle brush like that, you're like, ooh, is the hair going to get poofy? No."
+   },
+   {
+    "start_s": 44.5,
+    "end_s": 48.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "My hair, as I'm talking, is still blown out, looking amazing. I wrap my hair every night.",
+    "text_english": "My hair, as I'm talking, is still blown out, looking amazing. I wrap my hair every night."
+   },
+   {
+    "start_s": 48.7,
+    "end_s": 53.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Make sure to add your heat protectant and take care of your hair, ladies.",
+    "text_english": "Make sure to add your heat protectant and take care of your hair, ladies."
+   },
+   {
+    "start_s": 53.0,
+    "end_s": 57.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This brush is the perfect tool to add to your arsenal. I'm telling you, it's going to cut some time in half.",
+    "text_english": "This brush is the perfect tool to add to your arsenal. I'm telling you, it's going to cut some time in half."
+   },
+   {
+    "start_s": 57.2,
+    "end_s": 60.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Here are my before and after results again.",
+    "text_english": "Here are my before and after results again."
+   },
+   {
+    "start_s": 60.6,
+    "end_s": 64.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So if you've been contemplating or had it sitting in your cart, girl it is time to get your Wavytalk thermal brush.",
+    "text_english": "So if you've been contemplating or had it sitting in your cart, girl it is time to get your Wavytalk thermal brush."
+   },
+   {
+    "start_s": 64.6,
+    "end_s": 67.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "They're super affordable and they have three-day shipping as well.",
+    "text_english": "They're super affordable and they have three-day shipping as well."
+   }
+  ],
+  "transcript_full_original": "Watch my hair go from this to this with a bristle brush, girl. This is the Wavytalk thermal brush, and it's going to give you that perfect blowout look every time. You can adjust the heat settings and it also has that negative ion technology, and it is going to give you silky, soft hair every time. This brush changed the game for me. I was the girl who had the blow dryer, the bristle brush, the flat iron, and then I would go and this... look at this! Look at my hair, okay? This speaks for itself. This brush changed the game for me because I only have to go through with one pass, and I am thoroughly impressed on how from root to tip, if you can't tell, the hair is shiny, it is sleek, and it's giving perfect blowout results with just one tool. I'm not going to lie, sometimes when you see a bristle brush like that, you're like, ooh, is the hair going to get poofy? No. My hair, as I'm talking, is still blown out, looking amazing. I wrap my hair every night. Make sure to add your heat protectant and take care of your hair, ladies. This brush is the perfect tool to add to your arsenal. I'm telling you, it's going to cut some time in half. Here are my before and after results again. So if you've been contemplating or had it sitting in your cart, girl it is time to get your Wavytalk thermal brush. They're super affordable and they have three-day shipping as well.",
+  "transcript_full_english": "Watch my hair go from this to this with a bristle brush, girl. This is the Wavytalk thermal brush, and it's going to give you that perfect blowout look every time. You can adjust the heat settings and it also has that negative ion technology, and it is going to give you silky, soft hair every time. This brush changed the game for me. I was the girl who had the blow dryer, the bristle brush, the flat iron, and then I would go and this... look at this! Look at my hair, okay? This speaks for itself. This brush changed the game for me because I only have to go through with one pass, and I am thoroughly impressed on how from root to tip, if you can't tell, the hair is shiny, it is sleek, and it's giving perfect blowout results with just one tool. I'm not going to lie, sometimes when you see a bristle brush like that, you're like, ooh, is the hair going to get poofy? No. My hair, as I'm talking, is still blown out, looking amazing. I wrap my hair every night. Make sure to add your heat protectant and take care of your hair, ladies. This brush is the perfect tool to add to your arsenal. I'm telling you, it's going to cut some time in half. Here are my before and after results again. So if you've been contemplating or had it sitting in your cart, girl it is time to get your Wavytalk thermal brush. They're super affordable and they have three-day shipping as well.",
+  "word_count": 218,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "text": "Blowout Heaven!",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator pointing out her hair split half-and-half: frizzy afro/kinky blowout on one side, shiny bouncy blowout curl on the other.",
+    "action": "Showing the dramatic split between untreated texture and styled blowout.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.5,
+    "end_s": 5.1,
+    "shot_type": "close-up",
+    "visual": "Creator holds the white and rose gold Wavytalk thermal brush right in front of the camera.",
+    "action": "Presenting the brush barrel and blue ION indicator light.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.1,
+    "end_s": 6.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator smiles, gesturing to her finished side of hair.",
+    "action": "Admiring the finished side.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.0,
+    "end_s": 9.9,
+    "shot_type": "close-up",
+    "visual": "Close-up of the handle display showing digital temperature setting being adjusted and ion light.",
+    "action": "Thumb adjusts temperature button.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.9,
+    "end_s": 17.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator uses the thermal brush on a textured section, slowly gliding and curling the ends.",
+    "action": "Demonstrating a slow pass through the hair strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 21.8,
+    "shot_type": "close-up",
+    "visual": "Close-up of the smoothed, silky strand falling across creator's collarbone.",
+    "action": "Creator feels and displays the silky, shiny straightened strand.",
+    "product_visible": false
+   },
+   {
+    "start_s": 21.8,
+    "end_s": 23.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator touches root area of the styled section while shaking her head in amazement.",
+    "action": "Pointing out the sleekness and separation.",
+    "product_visible": false
+   },
+   {
+    "start_s": 23.8,
+    "end_s": 31.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator glides the brush starting close to the roots on another subsection.",
+    "action": "Brushing down slowly, displaying an astonished open-mouth reaction.",
+    "product_visible": true
+   },
+   {
+    "start_s": 31.8,
+    "end_s": 33.6,
+    "shot_type": "close-up",
+    "visual": "Creator lifts the roots to show how straight and flat the roots are.",
+    "action": "Inspecting root-to-tip smoothness.",
+    "product_visible": false
+   },
+   {
+    "start_s": 33.6,
+    "end_s": 40.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator glides thermal brush through hair with a slight inward rotation.",
+    "action": "Straightening and beveling a section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 40.5,
+    "end_s": 47.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator finishes styling crown section with the brush.",
+    "action": "Rolling hair through the brush barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 47.4,
+    "end_s": 48.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator shows off the full blowout results, running fingers through bouncy curls.",
+    "action": "Shaking hair and admiring texture.",
+    "product_visible": false
+   },
+   {
+    "start_s": 48.9,
+    "end_s": 57.0,
+    "shot_type": "high angle medium shot",
+    "visual": "Overhead view as creator brushes down a thick top section.",
+    "action": "Pulling the brush down root to tip.",
+    "product_visible": true
+   },
+   {
+    "start_s": 57.0,
+    "end_s": 58.2,
+    "shot_type": "high angle close-up",
+    "visual": "Creator looks down at the smooth result and twirls the end.",
+    "action": "Checking curl bounce.",
+    "product_visible": true
+   },
+   {
+    "start_s": 58.2,
+    "end_s": 61.6,
+    "shot_type": "close-up",
+    "visual": "Slow glide through coarse hair strands turning instantly smooth.",
+    "action": "Brushing close-up.",
+    "product_visible": true
+   },
+   {
+    "start_s": 61.6,
+    "end_s": 63.0,
+    "shot_type": "medium shot",
+    "visual": "Flash before photo: creator shaking both hands through large, frizzy, untreated textured hair.",
+    "action": "Showing full 'before' puffy hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 63.0,
+    "end_s": 65.4,
+    "shot_type": "medium shot",
+    "visual": "Flash after photo: creator running hands through luscious, bouncy, glossy Hollywood waves blowout.",
+    "action": "Fluffing completed blowout.",
+    "product_visible": false
+   },
+   {
+    "start_s": 65.4,
+    "end_s": 67.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the Wavytalk brush next to her face, kisses it, and points down.",
+    "action": "Kissing product and pointing down to shop.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator leaning into frame showing two contrasting sides of hair: natural frizzy side vs. blowout curls side, with text 'Blowout Heaven!'.",
+   "visual_0_3s": "Creator comparing the puffy, frizzy half of her head directly against the sleek, bouncy curled half.",
+   "spoken_0_3s": "Watch my hair go from this to this with a bristle brush, girl.",
+   "text_0_3s": "Blowout Heaven!",
+   "hook_type": "before_after",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Immediate high-contrast half-done hair transformation shown within the very first second."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Visual hook comparing frizzy textured hair to smooth blowout",
+    "Product introduction and key features (heat settings, negative ion)",
+    "Problem/frustration recap: using multiple tools (dryer, brush, flat iron)",
+    "Live one-pass demonstration from root to tip",
+    "Objection handling: does a bristle brush make textured hair poofy?",
+    "Hair care advice & time-saving benefit",
+    "Full before vs after reveal",
+    "Call to action focusing on price and shipping"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "replaces_multiple_tools",
+    "saves_time",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Perfect blowout look every time",
+    "Silky, soft hair with negative ion technology",
+    "Smooths coarse textured hair in just one pass",
+    "Replaces blow dryer, round brush, and flat iron with one tool",
+    "Does not cause hair to get poofy"
+   ],
+   "pain_points": [
+    "Having to juggle multiple hot tools (blow dryer, flat iron, round brush)",
+    "Frizz and poofiness when using round brushes on coarse hair",
+    "Spending too much time styling thick curly/textured hair"
+   ],
+   "objections_handled": [
+    "Will a heated bristle brush make hair frizzy or poofy? (Demonstrates that hair stays sleek and shiny)",
+    "Can it reach and straighten roots? (Demonstrates root-to-tip smoothing)"
+   ],
+   "social_proof": [
+    "Virality / popularity implied ('sitting in your cart')"
+   ],
+   "comparison_to": "Traditional multi-step routine using a blow dryer, standard bristle brush, and flat iron"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush"
+   ],
+   "first_seen_s": 2.5,
+   "first_used_on_hair_s": 9.9,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Affordable pricing with 3-day shipping",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "it is time to get your Wavytalk thermal brush",
+   "cta_spoken": "Girl, it is time to get your Wavytalk thermal brush.",
+   "cta_on_screen": "",
+   "cta_at_s": 60.6
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Thick, textured, puffy dark brown/black natural hair",
+   "hair_after": "Ultra-sleek, glossy black blowout with bouncy Hollywood curled ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, energetic, relatable, enthusiastic"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle upbeat background instrumental pop/R&B beat underneath voiceover narration",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 15,
+   "avg_shot_length_s": 4.5,
+   "pacing": "fast",
+   "effects": [
+    "Still photo cutaways (before and after full head photos at 01:01 - 01:05)",
+    "Camera angle variations (eye-level to high-angle)"
+   ],
+   "ending": "Creator kisses the thermal brush, winks, and points downwards towards the shopping link."
+  },
+  "notes": "Voiceover-driven UGC tutorial tailored for women with textured / frizzy hair types, demonstrating that the heated barrel thermal brush effectively replaces flat irons and round blowouts."
+ }
+}

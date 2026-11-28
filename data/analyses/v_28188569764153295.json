@@ -1,0 +1,196 @@
+{
+ "media_key": "v_28188569764153295",
+ "analyzed_at": "2026-11-28T00:47:25+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "4e9c01572bb9c747ad3e2caf3df31a17c48f7bf85bdde33f1dfb0e40364cb32d",
+ "source": {
+  "kind": "video",
+  "id": "28188569764153295",
+  "video_id": "1450203636627753",
+  "length_s": 24.983,
+  "permalink": "/23849366283980795/videos/1450203636627753/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 25.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A redhead creator transforms her massive frizzy hair into glamorous defined waves using the Wavytalk Whirlwind Curl while lip-syncing to Sabrina Carpenter.",
+  "full_description": "A young female creator with voluminous frizzy ginger hair starts by displaying the Wavytalk Whirlwind Curl alongside reference photos of Sabrina Carpenter's bouncy waves. She shows the tool's temperature display, sectioning and prepping her hair, and then demonstrates curling strand by strand. The video ends with her flipping and fluffing her newly formed glossy, bouncy curls in warm natural sunlight, showing off the dramatic transformation.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "shot_type": "medium shot",
+    "visual": "Creator standing in kitchen with an enormous head of frizzy ginger hair holding a pink styling wand, with two inset reference images of Sabrina Carpenter's hair at the bottom of the screen.",
+    "action": "Creator lip-syncs to Sabrina Carpenter's song while gesturing with the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 3.7,
+    "shot_type": "close-up",
+    "visual": "Hands holding the pastel pink Wavytalk hair tool showing the digital temperature gauge reading 230° and the Wavytalk branding.",
+    "action": "Rotating the device to display the interface and heating screen.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 5.8,
+    "shot_type": "medium shot / close-up",
+    "visual": "Creator with top hair pinned in mini buns, spraying a styling spray and brushing through a lower section with a pink detangling brush.",
+    "action": "Spraying product and detangling hair section.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 8.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator placing a strand of ginger hair into the Wavytalk styler and gliding/rotating it down.",
+    "action": "Curling the strand with the tool and revealing the shaped wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 10.1,
+    "shot_type": "medium shot",
+    "visual": "Creator unclamping hair clips to unpin a new layer of hair.",
+    "action": "Sectioning another layer of hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 10.1,
+    "end_s": 14.8,
+    "shot_type": "close-up",
+    "visual": "Close-up styling sequence showing the tool clamping, rotating down a section, and releasing smooth, bouncy ringlet curls.",
+    "action": "Curling and admiring the defined curls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 17.6,
+    "shot_type": "close-up",
+    "visual": "Styling the face-framing front piece in warm golden hour sunlight.",
+    "action": "Pulling the tool slowly through the front strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.6,
+    "end_s": 22.2,
+    "shot_type": "medium shot",
+    "visual": "Creator flips her hair upside down and shakes it out vigorously, returning upright with massive, bouncy, defined curls.",
+    "action": "Fluffing and admiring the finished voluminous wavy hair while smiling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 22.2,
+    "end_s": 25.0,
+    "shot_type": "close-up",
+    "visual": "Creator holding the pink Wavytalk tool next to her smiling face, highlighting the finished glossy hairstyle.",
+    "action": "Posing with the product and lip-syncing the final line.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Ginger creator with wild frizzy afro-like hair holding a pink styling wand with Sabrina Carpenter photos superimposed.",
+   "visual_0_3s": "Extreme contrast between the creator's huge frizzy red hair and the sleek celebrity wave reference photos.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "trend_or_sound",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Shockingly voluminous, unruly red hair juxtaposed with high-glam pop star photos."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Inspiration & challenge: unstyled frizzy hair aiming for celebrity waves",
+    "Product showcase: power and temperature control display",
+    "Step-by-step curling demo on thick sections",
+    "Big reveal & hair flip showing glamorous final results"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Transforms thick unruly frizz into smooth glossy waves",
+    "Digital temperature control heats up to 230°C"
+   ],
+   "pain_points": [
+    "Frizzy, undefined hair",
+    "Difficulty achieving smooth celebrity-style blowout curls at home"
+   ],
+   "objections_handled": [
+    "Can it handle extremely thick/frizzy hair? (Shown working effectively on huge coarse hair)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Sabrina Carpenter signature blowout waves"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Whirlwind Curl"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 5.8,
+   "final_result_shown_s": 18.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Extremely voluminous, frizzy, untamed red/ginger hair",
+   "hair_after": "Glossy, defined, loose voluminous curls",
+   "setting": "kitchen",
+   "faces_camera": true,
+   "energy_tone": "Playful, trendy, expressive, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Sabrina Carpenter's 'Please Please Please' pop track with creator lip-syncing to the lyrics.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 11,
+   "avg_shot_length_s": 2.27,
+   "pacing": "fast",
+   "effects": [
+    "photo overlay insets",
+    "sunlight flare"
+   ],
+   "ending": "Creator smiles directly at camera holding the device beside her bouncy curled hair."
+  },
+  "notes": "No spoken dialogue present in video; creator lip-syncs to viral pop audio. Demonstrates effective styling capability on hard-to-manage hair."
+ }
+}

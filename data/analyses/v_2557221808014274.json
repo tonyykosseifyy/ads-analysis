@@ -1,0 +1,326 @@
+{
+ "media_key": "v_2557221808014274",
+ "analyzed_at": "2026-11-28T00:08:28+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "47a0d90d68b98fda08ec604d4759d6892289670b63b807ab0f8041509c6421e0",
+ "source": {
+  "kind": "video",
+  "id": "2557221808014274",
+  "video_id": "2847700928897092",
+  "length_s": 45.741,
+  "permalink": "/23849366283980795/videos/2847700928897092/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 45.3,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator demos getting long-lasting, beachy summer waves using the WavyTalk Whirlwind Curl air-styler.",
+  "full_description": "A young brunette woman shows her voluminous beach waves results first, then guides the viewer step-by-step through her styling routine using the WavyTalk Whirlwind Curl. She explains how the 360-degree built-in cool air vents set and hold the curls so they don't drop after an hour, demonstrates alternating curl tightness for an effortless look, flips and combs her hair out, and concludes with a 25% discount offer and 30-day return policy.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 50,
+    "en": 50,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Okay guys, إذا بدكم volume هالقد حلو مع beach waves بيضاينوا, that's how I do it.",
+    "text_english": "Okay guys, if you want volume this pretty with beach waves that last, that's how I do it."
+   },
+   {
+    "start_s": 4.2,
+    "end_s": 7.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أول شي dry hair، بعدين ما تنسوا تحطوا heat protectant.",
+    "text_english": "First thing dry hair, then don't forget to apply heat protectant."
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 10.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بعدين section your hair, وبستعمل the Whirlwind Curl من Wavytalk.",
+    "text_english": "Then section your hair, and I use the Whirlwind Curl from Wavytalk."
+   },
+   {
+    "start_s": 10.5,
+    "end_s": 13.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "كل الـ trick هو الـ air vents الـ built-in.",
+    "text_english": "The whole trick is the built-in air vents."
+   },
+   {
+    "start_s": 13.1,
+    "end_s": 16.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "A 360 degrees cool air that cools your hair as you curl it.",
+    "text_english": "A 360 degrees cool air that cools your hair as you curl it."
+   },
+   {
+    "start_s": 16.8,
+    "end_s": 20.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "فـ the curl actually sets and holds instead of falling out an hour later.",
+    "text_english": "So the curl actually sets and holds instead of falling out an hour later."
+   },
+   {
+    "start_s": 20.9,
+    "end_s": 24.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "So بعمُل some sections tighter و some looser، هيك ما بيكون عنا real pattern.",
+    "text_english": "So I make some sections tighter and some looser, that way we don't have a real pattern."
+   },
+   {
+    "start_s": 24.9,
+    "end_s": 26.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "So عنجد بيبين effortless.",
+    "text_english": "So it really looks effortless."
+   },
+   {
+    "start_s": 26.7,
+    "end_s": 31.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Once it's all curled، هدوا كل شعركم و brush it out with a wide comb أو إيديكم.",
+    "text_english": "Once it's all curled, let down all your hair and brush it out with a wide comb or your hands."
+   },
+   {
+    "start_s": 31.9,
+    "end_s": 34.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "That's what turns the curls into soft, lived-in waves.",
+    "text_english": "That's what turns the curls into soft, lived-in waves."
+   },
+   {
+    "start_s": 34.7,
+    "end_s": 37.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بعدين علوا شعركم و ليكو الـ results!",
+    "text_english": "Then flip your hair up and look at the results!"
+   },
+   {
+    "start_s": 37.2,
+    "end_s": 39.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "هيدا one of my favorite looks for summer,",
+    "text_english": "This is one of my favorite looks for summer,"
+   },
+   {
+    "start_s": 39.9,
+    "end_s": 43.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and it's 25% off right now with 30-day return.",
+    "text_english": "and it's 25% off right now with 30-day return."
+   },
+   {
+    "start_s": 43.2,
+    "end_s": 45.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "So ما في ولا سبب to not try it.",
+    "text_english": "So there is no reason to not try it."
+   }
+  ],
+  "transcript_full_original": "Okay guys, إذا بدكم volume هالقد حلو مع beach waves بيضاينوا, that's how I do it. أول شي dry hair، بعدين ما تنسوا تحطوا heat protectant. بعدين section your hair, وبستعمل the Whirlwind Curl من Wavytalk. كل الـ trick هو الـ air vents الـ built-in. A 360 degrees cool air that cools your hair as you curl it. فـ the curl actually sets and holds instead of falling out an hour later. So بعمُل some sections tighter و some looser، هيك ما بيكون عنا real pattern. So عنجد بيبين effortless. Once it's all curled، هدوا كل شعركم و brush it out with a wide comb أو إيديكم. That's what turns the curls into soft, lived-in waves. بعدين علوا شعركم و ليكو الـ results! هيدا one of my favorite looks for summer, and it's 25% off right now with 30-day return. So ما في ولا سبب to not try it.",
+  "transcript_full_english": "Okay guys, if you want volume this pretty with beach waves that last, that's how I do it. First thing dry hair, then don't forget to apply heat protectant. Then section your hair, and I use the Whirlwind Curl from Wavytalk. The whole trick is the built-in air vents. A 360 degrees cool air that cools your hair as you curl it. So the curl actually sets and holds instead of falling out an hour later. So I make some sections tighter and some looser, that way we don't have a real pattern. So it really looks effortless. Once it's all curled, let down all your hair and brush it out with a wide comb or your hands. That's what turns the curls into soft, lived-in waves. Then flip your hair up and look at the results! This is one of my favorite looks for summer, and it's 25% off right now with 30-day return. So there is no reason to not try it.",
+  "word_count": 134,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 45.3,
+    "text": "POV: you want big, beachy waves all summer 🍉👙✨",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator sits facing camera showcasing her big, voluminous wavy hair.",
+    "action": "Creator fluffs and shakes her styled hair to display volume and bounce.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 7.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator clips the top section of her straight/natural hair up and brushes through a bottom strand.",
+    "action": "Creator prepares hair, putting it in a clip and brushing through the strand with a pink paddle brush.",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 9.8,
+    "shot_type": "close-up",
+    "visual": "Creator holds up the pink WavyTalk Whirlwind Curl horizontally in front of her face.",
+    "action": "Creator displays the tool, showing the digital display and air vent barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 17.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator uses the Whirlwind Curl on a strand of hair on the side of her head.",
+    "action": "Clamps hair, rotates tool, glides it through as cool air vents lock the curl, releasing a defined spiral.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 20.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator continues curling sections and gestures playfully framing her face.",
+    "action": "Creator curls an upper section, then poses framing her chin with both hands.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.8,
+    "end_s": 23.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushing another section to style.",
+    "action": "Creator brushes the next strand with a pink detangling brush.",
+    "product_visible": false
+   },
+   {
+    "start_s": 23.0,
+    "end_s": 28.6,
+    "shot_type": "close-up",
+    "visual": "Close-up of hair strands and curling iron in action.",
+    "action": "Creator displays the curls of varying tension, then wraps another strand around the heated barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.6,
+    "end_s": 36.8,
+    "shot_type": "medium shot",
+    "visual": "Creator shakes down her entire head of hair and bends forward.",
+    "action": "Creator bends over, shakes out all curls with her fingers, and flips her hair back up excitedly.",
+    "product_visible": false
+   },
+   {
+    "start_s": 36.8,
+    "end_s": 45.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator showing the final look, holding up the Whirlwind Curl tool.",
+    "action": "Creator shows off the finished voluminous wavy hair, brings the pink tool across her face, and smiles.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing bouncy, voluminous dark wavy hair with on-screen hook caption.",
+   "visual_0_3s": "Creator shakes her voluminous waves side to side with her hands framing her hair.",
+   "spoken_0_3s": "Okay guys, إذا بدكم volume هالقد حلو مع beach waves بيضاينوا",
+   "text_0_3s": "POV: you want big, beachy waves all summer 🍉👙✨",
+   "hook_type": "result_first",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Immediate result showcase with dramatic volume shake and relatable POV hook text."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Result hook showing finished bouncy beach waves",
+    "Prep step: dry hair and heat protectant",
+    "Tool introduction: WavyTalk Whirlwind Curl",
+    "Feature & benefit breakdown: built-in cool air vents set curls so they don't fall flat",
+    "Technique tip: alternating tighter and looser curls for effortless look",
+    "Finish & reveal: hair flip, finger comb out, showing final lived-in waves",
+    "Call to action: 25% discount and 30-day money-back guarantee"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Built-in 360-degree cool air vents cool hair as you curl",
+    "Curls set and hold instead of dropping an hour later",
+    "Creates natural, effortless lived-in beach waves"
+   ],
+   "pain_points": [
+    "Curls falling out and going flat an hour later",
+    "Hair looking overly uniform or unnatural"
+   ],
+   "objections_handled": [
+    "Curls don't last: 360 cool air vent technology sets them instantly",
+    "Risk of buying: 30-day return policy provided"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional curling irons that lose hold within an hour"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Whirlwind Curl"
+   ],
+   "first_seen_s": 7.3,
+   "first_used_on_hair_s": 9.8,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "25% off right now with 30-day return policy",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "right now",
+   "cta_spoken": "So ما في ولا سبب to not try it",
+   "cta_on_screen": "",
+   "cta_at_s": 43.2
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long dark brown, relatively straight/naturally wavy",
+   "hair_after": "Long, voluminous, textured beachy waves with high bounce",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "vibrant, upbeat, and encouraging"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat instrumental pop background track under direct creator speech",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 10,
+   "avg_shot_length_s": 4.5,
+   "pacing": "medium",
+   "effects": [
+    "persistent text sticker overlay",
+    "hair flip motion"
+   ],
+   "ending": "Creator smiles, holding the styling tool across her eyes playfully."
+  },
+  "notes": "Static text overlay 'POV: you want big, beachy waves all summer 🍉👙✨' stays pinned throughout the entire video duration. Video effectively blends tutorial styling tips with product feature education (built-in cool air vents)."
+ }
+}

@@ -1,0 +1,178 @@
+{
+ "media_key": "v_1993433164695235",
+ "analyzed_at": "2026-11-28T00:09:34+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "130c4bb237f5bc451b8882420db53d9f01ed1fd0cb8761c60f019b927c980e8a",
+ "source": {
+  "kind": "video",
+  "id": "1993433164695235",
+  "video_id": "1994119894567251",
+  "length_s": 30,
+  "permalink": "/23849366283980795/videos/1994119894567251/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 29.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates styling her blonde hair into a voluminous salon blowout using the pink Wavytalk thermal round brush.",
+  "full_description": "A vertical UGC tutorial video featuring a blonde creator styling her hair in a bathroom using the pink Wavytalk thermal round brush (Blowout Boost). Set to the trending song 'Not My Fault' by Reneé Rapp, she sections her hair with a claw clip, rolls each section around the heated barrel to produce defined, bouncy curls, finishes the crown and curtain bangs by rolling them back, and runs her fingers through her voluminous, glossy 90s-style blowout while showcasing the final result from the front, back, and sides.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 29.8,
+    "text": "using this hair tool everytime I style my hair because I know it will always turn out just how I wanted ✨",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "shot_type": "medium shot",
+    "visual": "Young blonde woman in an oversized dark sweatshirt clipping up the top sections of her hair in a modern bathroom.",
+    "action": "Creator puts her hair into a half-up clip to prepare bottom sections for styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 5.4,
+    "shot_type": "medium shot",
+    "visual": "Creator holds the pink Wavytalk thermal brush and curls a bottom strand of hair.",
+    "action": "She wraps the hair strand around the heated round brush, holds it, and glides it down to reveal a tight bouncy curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 11.8,
+    "shot_type": "medium shot",
+    "visual": "Creator lets down the middle section of hair and styles it with the thermal brush.",
+    "action": "She brushes and twirls the middle hair layer around the heated brush barrel, rolling down smoothly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.8,
+    "end_s": 16.5,
+    "shot_type": "medium shot",
+    "visual": "Creator continues curling sections on the other side and adjusting top clips.",
+    "action": "She rolls another section upward around the brush, releases a defined curl, and removes the clip.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 23.4,
+    "shot_type": "medium shot",
+    "visual": "Creator styles the front curtain bangs and crown layers.",
+    "action": "She rolls the top front bang section back and upward over the brush to create lift and volume at the roots.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.4,
+    "end_s": 29.8,
+    "shot_type": "medium shot",
+    "visual": "Creator shakes out and fluffs her completed blowout.",
+    "action": "She shakes her fingers through the curls, admires her bouncy blowout, turns around to display the layered curls from behind, and turns back to face the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing the mirror tying up her blonde hair with top overlay text about relying on this hair tool.",
+   "visual_0_3s": "Creator sections her hair and immediately picks up the pink thermal brush to begin styling.",
+   "spoken_0_3s": "",
+   "text_0_3s": "using this hair tool everytime I style my hair because I know it will always turn out just how I wanted ✨",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Fast-paced jump directly from clipping hair into rolling curls with upbeat popular music."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Hook text claiming consistent, perfect styling results every single time",
+    "Step-by-step sectioning and curling with the thermal round brush",
+    "Styling front bangs and root volume",
+    "Final result reveal showing smooth, bouncy blowout from front and back"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "easy_for_beginners",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Consistently styles hair exactly as desired every single time"
+   ],
+   "pain_points": [
+    "Inconsistent results with traditional styling tools",
+    "Difficulty getting bouncy salon blowout curls at home"
+   ],
+   "objections_handled": [
+    "Ease of achieving bouncy blowout without complex round-brush-plus-blowdryer coordination"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 2.1,
+   "first_used_on_hair_s": 2.1,
+   "final_result_shown_s": 23.4,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Straight, medium-long layered blonde hair",
+   "hair_after": "Voluminous, bouncy 90s blowout with flipped-in ends and crown volume",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "confident, aesthetic, effortless"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Trending commercial track 'Not My Fault' by Reneé Rapp & Megan Thee Stallion starting with the spoken quote 'You know what? It's not my fault you're like in love with me or something!'.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 3.7,
+   "pacing": "fast",
+   "effects": [
+    "speed cuts between sections"
+   ],
+   "ending": "Creator checking and smoothing her bangs in the mirror, smiling at the finished hair."
+  },
+  "notes": "Classic organic-style UGC TikTok demonstration repurposed as a paid Meta ad. It features no spoken Arabic or voiceover, relying purely on the visual transformation and relatable on-screen text."
+ }
+}

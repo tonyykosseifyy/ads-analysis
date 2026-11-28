@@ -1,0 +1,139 @@
+{
+ "media_key": "i_058144a48c0e690ccf8767ef76d9ceb9",
+ "analyzed_at": "2026-11-28T00:11:07+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "725844c40d140b46b7eaceae49b1e1ad435a44ae87ba417598e06f3977a0197f",
+ "source": {
+  "kind": "image",
+  "id": "058144a48c0e690ccf8767ef76d9ceb9"
+ },
+ "role": "rotating",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "Clean studio product render of the pink WavyTalk thermal round brush wrapped in a pink satin ribbon with Black Friday 'UP TO 31% OFF' offer text.",
+  "full_description": "A square static promotional graphic for Black Friday featuring the pink WavyTalk heated blowout / thermal round brush. The product stands upright against an off-white/light grey minimalist studio background, artistically wrapped and framed by a spiraling light pink satin ribbon. On the left side, bold dark text displays the brand logo 'WAVYTALK', followed by 'UP TO 31% OFF' in large font and 'Black Friday' beneath it. The digital display on the handle of the brush shows '420°F' and an 'ION' indicator light.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "UP TO 31% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Black Friday",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "product shot",
+    "visual": "Pink WavyTalk thermal heated round brush placed vertically on the right half of the frame, wrapped by a floating pink satin ribbon against a light grey studio background. Big typography on the left.",
+    "action": "Static studio graphic showcasing Black Friday discount.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Studio product shot of the pink WavyTalk thermal brush with a pink ribbon and bold headline 'UP TO 31% OFF Black Friday'.",
+   "visual_0_3s": "Studio product shot of the pink WavyTalk thermal brush with a pink ribbon and bold headline 'UP TO 31% OFF Black Friday'.",
+   "spoken_0_3s": "",
+   "text_0_3s": "WAVYTALK UP TO 31% OFF Black Friday",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "product_reveal",
+   "pattern_interrupt": "Clean high-contrast typography emphasizing a significant seasonal discount with gift-like satin ribbon styling."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Brand presentation and seasonal Black Friday discount callout alongside hero product visual."
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "gift_or_occasion"
+   ],
+   "key_claims": [
+    "Up to 31% off for Black Friday"
+   ],
+   "pain_points": [],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Thermal Round Brush (Blowout Boost)"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "UP TO 31% OFF Black Friday",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Black Friday sale",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "studio",
+   "faces_camera": false,
+   "energy_tone": ""
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "3D product rendering / studio photography",
+    "curved satin ribbon graphic overlay"
+   ],
+   "ending": "Static image ad"
+  },
+  "notes": "Single static creative designed for Meta feed placement (1:1 aspect ratio) promoting WavyTalk's Black Friday sale with up to 31% discount."
+ }
+}

@@ -1,0 +1,346 @@
+{
+ "media_key": "v_1445294586862338",
+ "analyzed_at": "2026-11-28T00:09:23+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "c9dbf936cea8cb305975157593a1259a89fe2218a4a9ad5a081804c4bac13f48",
+ "source": {
+  "kind": "video",
+  "id": "1445294586862338",
+  "video_id": "1756581318647655",
+  "length_s": 63.1,
+  "permalink": "/23849366283980795/videos/1756581318647655/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 62.9,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A young woman styles her short hair into bouncy blowout waves using the WavyTalk Whirlwind tool and praises its ease and affordability.",
+  "full_description": "A creator starts with styled bouncy short hair, expressing disbelief at how good it looks. She then shows the pink WavyTalk Whirlwind tool, demonstrating its cool-air feature and fast heating. She shows a step-by-step curling demonstration on camera, clips to a timelapse of completing her hair, and reveals the finished voluminous, wavy blowout. She shakes her hair out, inspects the gorgeous result, explains that it is the Whirlwind Pro from WavyTalk with a 30-day return policy and door-to-door delivery, and closes with a 20% discount offer call to action.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 45,
+    "en": 55,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I can't believe that my hair could look this amazing.",
+    "text_english": "I can't believe that my hair could look this amazing."
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 4.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's do my hair!",
+    "text_english": "Let's do my hair!"
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 8.0,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "لأعمل شعراتي رح استعمل هيدا.",
+    "text_english": "To do my hair I'm going to use this."
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 10.9,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "عم بيطلّع هواء.",
+    "text_english": "It's blowing air."
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 12.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's actually cool!",
+    "text_english": "It's actually cool!"
+   },
+   {
+    "start_s": 12.9,
+    "end_s": 14.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This heats up really fast.",
+    "text_english": "This heats up really fast."
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 21.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Twist this, and then ننزل. Okay, okay, okay.",
+    "text_english": "Twist this, and then we go down. Okay, okay, okay."
+   },
+   {
+    "start_s": 21.6,
+    "end_s": 24.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Since things are mostly straight, let's curl them!",
+    "text_english": "Since things are mostly straight, let's curl them!"
+   },
+   {
+    "start_s": 28.8,
+    "end_s": 30.6,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "ليكوا شعري.",
+    "text_english": "Look at my hair."
+   },
+   {
+    "start_s": 30.6,
+    "end_s": 33.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Perfect curls, perfect waves, whatever you want to call them.",
+    "text_english": "Perfect curls, perfect waves, whatever you want to call them."
+   },
+   {
+    "start_s": 33.3,
+    "end_s": 37.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "وخبرية إنه الـ product is affordable is insane، و all we have to do هلق...",
+    "text_english": "And the fact that the product is affordable is insane, and all we have to do now..."
+   },
+   {
+    "start_s": 40.1,
+    "end_s": 44.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "If this isn't the perfect blowout moment, ما بعرف what is.",
+    "text_english": "If this isn't the perfect blowout moment, I don't know what is."
+   },
+   {
+    "start_s": 44.0,
+    "end_s": 46.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It looks... gorgeous!",
+    "text_english": "It looks... gorgeous!"
+   },
+   {
+    "start_s": 46.2,
+    "end_s": 50.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "In case you're wondering, هيدا هو الـ Whirlwind Pro من WavyTalk.",
+    "text_english": "In case you're wondering, this is the Whirlwind Pro from WavyTalk."
+   },
+   {
+    "start_s": 50.1,
+    "end_s": 54.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "عندهم ثلاثين يوم return policy، يعني بتقدروا تردّوا الـ item إذا ما حبّيتوا.",
+    "text_english": "They have a 30-day return policy, meaning you can return the item if you didn't like it."
+   },
+   {
+    "start_s": 54.0,
+    "end_s": 58.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "والـ item بيوصل دغري لقدّام الباب عندكم فما بتتعذّبوا بالـ order.",
+    "text_english": "And the item is delivered directly to your doorstep so you won't struggle with the order."
+   },
+   {
+    "start_s": 58.6,
+    "end_s": 62.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And currently they're offering 20% off, so order yours today before they're gone.",
+    "text_english": "And currently they're offering 20% off, so order yours today before they're gone."
+   }
+  ],
+  "transcript_full_original": "I can't believe that my hair could look this amazing. Let's do my hair! لأعمل شعراتي رح استعمل هيدا. عم بيطلّع هواء. It's actually cool! This heats up really fast. Twist this, and then ننزل. Okay, okay, okay. Since things are mostly straight, let's curl them! ليكوا شعري. Perfect curls, perfect waves, whatever you want to call them. وخبرية إنه الـ product is affordable is insane، و all we have to do هلق... If this isn't the perfect blowout moment, ما بعرف what is. It looks... gorgeous! In case you're wondering, هيدا هو الـ Whirlwind Pro من WavyTalk. عندهم ثلاثين يوم return policy، يعني بتقدروا تردّوا الـ item إذا ما حبّيتوا. والـ item بيوصل دغري لقدّام الباب عندكم فما بتتعذّبوا بالـ order. And currently they're offering 20% off, so order yours today before they're gone.",
+  "transcript_full_english": "I can't believe that my hair could look this amazing. Let's do my hair! To do my hair I'm going to use this. It's blowing air. It's actually cool! This heats up really fast. Twist this, and then we go down. Okay, okay, okay. Since things are mostly straight, let's curl them! Look at my hair. Perfect curls, perfect waves, whatever you want to call them. And the fact that the product is affordable is insane, and all we have to do now... If this isn't the perfect blowout moment, I don't know what is. It looks... gorgeous! In case you're wondering, this is the Whirlwind Pro from WavyTalk. They have a 30-day return policy, meaning you can return the item if you didn't like it. And the item is delivered directly to your doorstep so you won't struggle with the order. And currently they're offering 20% off, so order yours today before they're gone.",
+  "word_count": 146,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.9,
+    "shot_type": "medium close-up",
+    "visual": "Young woman with styled bouncy curls touching her hair in front of the camera in her bedroom.",
+    "action": "Creator poses, touches her styled hair, shakes her head, and excitedly invites the viewer to do her hair with her.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 14.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds up the pink WavyTalk Whirlwind styler, showing the vents and buttons.",
+    "action": "Creator presents the tool, points to the cool air vents, checks the heat indicator, and explains it heats up fast.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 21.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator sections her hair and clamps a strand with the styler.",
+    "action": "She twists the styler and glides it down to straighten/curl a section of her hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.6,
+    "end_s": 24.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator shows her hair mostly straightened and announces she will now curl it.",
+    "action": "She smiles, frames her straight bob with her hands, and gets ready to curl.",
+    "product_visible": false
+   },
+   {
+    "start_s": 24.8,
+    "end_s": 28.8,
+    "shot_type": "medium close-up (timelapse)",
+    "visual": "Sped-up footage of creator curling multiple sections of her hair around her face.",
+    "action": "She clamps, rotates, and glides the tool through her hair at fast speed.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.8,
+    "end_s": 37.1,
+    "shot_type": "close-up",
+    "visual": "Creator displays the freshly formed, defined bouncy curls holding the styler.",
+    "action": "She touches the curls, shows the tool to the camera, and discusses affordability.",
+    "product_visible": true
+   },
+   {
+    "start_s": 37.1,
+    "end_s": 40.1,
+    "shot_type": "close-up",
+    "visual": "Creator flips her hair forward, tousles it with both hands, and flips it back up.",
+    "action": "Hair flip and finger-combing to break up the curls into a voluminous blowout.",
+    "product_visible": false
+   },
+   {
+    "start_s": 40.1,
+    "end_s": 46.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator admires the final voluminous blowout result in front of the camera.",
+    "action": "She checks her hair, adjusts strands, and smiles with satisfaction.",
+    "product_visible": false
+   },
+   {
+    "start_s": 46.2,
+    "end_s": 62.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the pink tool in her hands while addressing the viewer directly.",
+    "action": "She explains the product name, return policy, delivery convenience, and ends with the 20% off offer.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera touching her bouncy, styled curls with both hands wearing a black knitted sweater and jeans.",
+   "visual_0_3s": "Creator shakes her bouncy bob hair and enthusiastically expresses disbelief at how great it looks.",
+   "spoken_0_3s": "I can't believe that my hair could look this amazing.",
+   "text_0_3s": "",
+   "hook_type": "result_first",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Starts immediately with the breathtaking end result before diving into the styling routine."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Result-first hook showing gorgeous voluminous curls",
+    "Product presentation and cool-air / fast heat features",
+    "Step-by-step curling demonstration and timelapse styling",
+    "Reveal of curl definition and tousled blowout result",
+    "Value pitch on affordability, 30-day returns, and doorstep delivery",
+    "Call to action with limited-time 20% discount"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "price_value_vs_dyson",
+    "easy_for_beginners",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Emits cool air to set styling",
+    "Heats up very fast",
+    "Delivers salon blowout curls at home",
+    "Extremely affordable",
+    "30-day return policy",
+    "Direct doorstep delivery in Lebanon",
+    "20% off currently available"
+   ],
+   "pain_points": [
+    "Difficulty achieving salon blowout results at home",
+    "Expensive hair styling tools",
+    "Complicated ordering and delivery processes"
+   ],
+   "objections_handled": [
+    "Affordability / price",
+    "Risk of buying online (handled by 30-day return policy)",
+    "Shipping hassle (handled by doorstep delivery)"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Whirlwind Curl"
+   ],
+   "first_seen_s": 4.9,
+   "first_used_on_hair_s": 14.8,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "20% off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Order yours today before they're gone",
+   "cta_spoken": "So order yours today before they're gone",
+   "cta_on_screen": "",
+   "cta_at_s": 58.6
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Chin-length reddish-brown bob, styled with soft curls / partially straightened",
+   "hair_after": "Voluminous, bouncy textured blowout waves with curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Excited, friendly, relatable, and authentic"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat lo-fi background rhythm underneath natural spoken dialogue",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 7.8,
+   "pacing": "medium",
+   "effects": [
+    "timelapse speed ramp"
+   ],
+   "ending": "Creator holds the pink tool smiling towards the camera as she delivers the CTA."
+  },
+  "notes": "Natural authentic UGC video in mixed Lebanese Arabic and English targeting Lebanese women. Reassures buyers on common local e-commerce hesitations with a 30-day return guarantee and doorstep delivery."
+ }
+}

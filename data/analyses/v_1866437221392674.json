@@ -1,0 +1,365 @@
+{
+ "media_key": "v_1866437221392674",
+ "analyzed_at": "2026-11-28T00:15:05+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "a0fd4a3cfb21271e3cb2ca4ed2587f522fb4e10bb8d9e5e766e7c326f8548498",
+ "source": {
+  "kind": "video",
+  "id": "1866437221392674",
+  "video_id": "1462070869355407",
+  "length_s": 81.033,
+  "permalink": "/23849366283980795/videos/1462070869355407/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 81.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A blonde creator demonstrates how to achieve a salon-level bouncy blowout at home using the Wavytalk Blowout Boost ionic thermal brush.",
+  "full_description": "A UGC-style tutorial video where a blonde woman shows how she styles her hair with the Wavytalk Blowout Boost thermal round brush. She begins with a half-and-half comparison (one side flat, one side bouncy and styled), demonstrates sectioning, wrapping hair horizontally and vertically, holding tension, and styling face-framing layers under and up for maximum volume. She showcases the final full blowout result with shine and bounce, holding up the product at the end.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let me show you guys how I get a salon blowout at home,",
+    "text_english": "Let me show you guys how I get a salon blowout at home,"
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 4.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and take my hair from this flat and lifeless,",
+    "text_english": "and take my hair from this flat and lifeless,"
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 7.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "to this bouncy and voluminous.",
+    "text_english": "to this bouncy and voluminous."
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 10.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I use the Wavytalk Blowout Boost Ionic Thermal Brush to do this.",
+    "text_english": "I use the Wavytalk Blowout Boost Ionic Thermal Brush to do this."
+   },
+   {
+    "start_s": 10.7,
+    "end_s": 13.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Obviously this side is already styled, so we're only going to be touching this side.",
+    "text_english": "Obviously this side is already styled, so we're only going to be touching this side."
+   },
+   {
+    "start_s": 13.9,
+    "end_s": 18.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "First things first, start by sectioning off your hair into smaller pieces.",
+    "text_english": "First things first, start by sectioning off your hair into smaller pieces."
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 25.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So I'm just going to start by slowly rotating the brush through my hair horizontally to give it that bouncier look.",
+    "text_english": "So I'm just going to start by slowly rotating the brush through my hair horizontally to give it that bouncier look."
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 27.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at that.",
+    "text_english": "Look at that."
+   },
+   {
+    "start_s": 27.8,
+    "end_s": 35.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I do like to alternate going over the hair and under the hair with the brush, on the bottom layers especially, just to give it a little extra lift from the root.",
+    "text_english": "I do like to alternate going over the hair and under the hair with the brush, on the bottom layers especially, just to give it a little extra lift from the root."
+   },
+   {
+    "start_s": 35.5,
+    "end_s": 41.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Again, place the brush horizontally so that it gives you that extra bounce that we're looking for, just like that.",
+    "text_english": "Again, place the brush horizontally so that it gives you that extra bounce that we're looking for, just like that."
+   },
+   {
+    "start_s": 41.5,
+    "end_s": 49.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Also make sure you're giving your hair some tension and letting it sit on the brush long enough instead of just brushing it straight through because you won't get that curl to hold.",
+    "text_english": "Also make sure you're giving your hair some tension and letting it sit on the brush long enough instead of just brushing it straight through because you won't get that curl to hold."
+   },
+   {
+    "start_s": 49.3,
+    "end_s": 56.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So you want to let it sit for a second, brush it through with some tension, and then release.",
+    "text_english": "So you want to let it sit for a second, brush it through with some tension, and then release."
+   },
+   {
+    "start_s": 56.5,
+    "end_s": 58.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at that bounce!",
+    "text_english": "Look at that bounce!"
+   },
+   {
+    "start_s": 58.0,
+    "end_s": 67.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "For all my face-framing pieces, I always like to go up from underneath and then curl towards my face to get that little bit of extra volume that we want at the front.",
+    "text_english": "For all my face-framing pieces, I always like to go up from underneath and then curl towards my face to get that little bit of extra volume that we want at the front."
+   },
+   {
+    "start_s": 67.5,
+    "end_s": 70.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Just like that.",
+    "text_english": "Just like that."
+   },
+   {
+    "start_s": 70.0,
+    "end_s": 73.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It looks so good, oh my gosh.",
+    "text_english": "It looks so good, oh my gosh."
+   },
+   {
+    "start_s": 73.8,
+    "end_s": 75.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now that's a blowout.",
+    "text_english": "Now that's a blowout."
+   },
+   {
+    "start_s": 75.8,
+    "end_s": 78.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Literally so much bounce and shine, all from the Wavytalk Blowout Boost.",
+    "text_english": "Literally so much bounce and shine, all from the Wavytalk Blowout Boost."
+   },
+   {
+    "start_s": 78.8,
+    "end_s": 81.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "That's how you get a salon blowout at home.",
+    "text_english": "That's how you get a salon blowout at home."
+   }
+  ],
+  "transcript_full_original": "Let me show you guys how I get a salon blowout at home, and take my hair from this flat and lifeless, to this bouncy and voluminous. I use the Wavytalk Blowout Boost Ionic Thermal Brush to do this. Obviously this side is already styled, so we're only going to be touching this side. First things first, start by sectioning off your hair into smaller pieces. So I'm just going to start by slowly rotating the brush through my hair horizontally to give it that bouncier look. Look at that. I do like to alternate going over the hair and under the hair with the brush, on the bottom layers especially, just to give it a little extra lift from the root. Again, place the brush horizontally so that it gives you that extra bounce that we're looking for, just like that. Also make sure you're giving your hair some tension and letting it sit on the brush long enough instead of just brushing it straight through because you won't get that curl to hold. So you want to let it sit for a second, brush it through with some tension, and then release. Look at that bounce! For all my face-framing pieces, I always like to go up from underneath and then curl towards my face to get that little bit of extra volume that we want at the front. Just like that. It looks so good, oh my gosh. Now that's a blowout. Literally so much bounce and shine, all from the Wavytalk Blowout Boost. That's how you get a salon blowout at home.",
+  "transcript_full_english": "Let me show you guys how I get a salon blowout at home, and take my hair from this flat and lifeless, to this bouncy and voluminous. I use the Wavytalk Blowout Boost Ionic Thermal Brush to do this. Obviously this side is already styled, so we're only going to be touching this side. First things first, start by sectioning off your hair into smaller pieces. So I'm just going to start by slowly rotating the brush through my hair horizontally to give it that bouncier look. Look at that. I do like to alternate going over the hair and under the hair with the brush, on the bottom layers especially, just to give it a little extra lift from the root. Again, place the brush horizontally so that it gives you that extra bounce that we're looking for, just like that. Also make sure you're giving your hair some tension and letting it sit on the brush long enough instead of just brushing it straight through because you won't get that curl to hold. So you want to let it sit for a second, brush it through with some tension, and then release. Look at that bounce! For all my face-framing pieces, I always like to go up from underneath and then curl towards my face to get that little bit of extra volume that we want at the front. Just like that. It looks so good, oh my gosh. Now that's a blowout. Literally so much bounce and shine, all from the Wavytalk Blowout Boost. That's how you get a salon blowout at home.",
+  "word_count": 223,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 8.0,
+    "text": "HOW I GET A SALON LEVEL BLOWOUT AT HOME",
+    "role": "hook"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 81.0,
+    "text": "Burned-in single-word / phrase spoken captions throughout the entire video",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 7.5,
+    "shot_type": "medium talking head",
+    "visual": "Blonde creator sitting in front of camera with one side of her hair flat/straight and the other side styled in a voluminous blowout.",
+    "action": "Creator talks directly to the camera, pointing to the flat side and then lifting and fluffing the styled side to compare.",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 11.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the pink Wavytalk Blowout Boost thermal brush directly to camera.",
+    "action": "She presents the tool, turns it, and introduces it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 18.5,
+    "shot_type": "medium shot",
+    "visual": "Creator sectioning her straight hair using a clip.",
+    "action": "Creator explains she will style the unstyled side, sectioning top hair up and clipping it.",
+    "product_visible": false
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 27.5,
+    "shot_type": "medium shot",
+    "visual": "Creator using the Wavytalk brush horizontally on the bottom strand.",
+    "action": "She rotates the thermal brush horizontally through the lower hair section and releases a bouncy curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 27.5,
+    "end_s": 41.5,
+    "shot_type": "medium shot",
+    "visual": "Creator demonstrating styling over and under the strand.",
+    "action": "She shows alternating over and under passes, rolling the brush horizontally to give extra root lift and bounce.",
+    "product_visible": true
+   },
+   {
+    "start_s": 41.5,
+    "end_s": 57.5,
+    "shot_type": "medium shot",
+    "visual": "Creator styling upper sections with tension.",
+    "action": "She explains the technique of holding tension and letting hair sit on the barrel before releasing, revealing a defined spiral curl bounce.",
+    "product_visible": true
+   },
+   {
+    "start_s": 57.5,
+    "end_s": 69.5,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the top face-framing layer.",
+    "action": "She lifts front hair straight up, rolls brush underneath towards face for volume, and releases the sweeping curtain layer.",
+    "product_visible": true
+   },
+   {
+    "start_s": 69.5,
+    "end_s": 81.0,
+    "shot_type": "medium shot",
+    "visual": "Creator with both sides styled, running fingers through her voluminous blowout and holding up the tool.",
+    "action": "She admires the result, fluffs both sides together, and holds up the Wavytalk Blowout Boost smiling.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Blonde creator framed in her apartment with half of hair flat and half styled with big bounce, text sticker reading 'HOW I GET A SALON LEVEL BLOWOUT AT HOME'.",
+   "visual_0_3s": "Creator gesturally pointing to her flat, lifeless hair side versus her voluminous side.",
+   "spoken_0_3s": "Let me show you guys how I get a salon blowout at home and take my hair from this flat and lifeless...",
+   "text_0_3s": "HOW I GET A SALON LEVEL BLOWOUT AT HOME",
+   "hook_type": "before_after",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Side-by-side hair contrast visible on the creator's head from the very first frame."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Half-and-half contrast hook showing problem (flat) vs solution (salon blowout)",
+    "Product introduction (Wavytalk Blowout Boost Ionic Thermal Brush)",
+    "Sectioning preparation step",
+    "Horizontal rolling technique for bounce",
+    "Root lift technique (over and under alternation)",
+    "Key tip: hold tension and allow heat to set before release",
+    "Face-framing technique (curling forward from underneath)",
+    "Final result reveal, fluffing, and sign-off endorsement"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Takes hair from flat and lifeless to bouncy and voluminous",
+    "Delivers salon-level blowout at home",
+    "Ionic thermal technology provides bounce and shine"
+   ],
+   "pain_points": [
+    "Flat, lifeless hair",
+    "Curls falling flat when hair isn't held with proper tension",
+    "Expensive or inconvenient salon visits"
+   ],
+   "objections_handled": [
+    "How to keep curls holding (hold tension and let it sit on the barrel)",
+    "How to get root lift (alternate under and over passes)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Salon professional blowout"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Ionic Thermal Brush"
+   ],
+   "first_seen_s": 7.5,
+   "first_used_on_hair_s": 18.5,
+   "final_result_shown_s": 70.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Blonde, medium-long, straight, flat without volume",
+   "hair_after": "Blonde, voluminous, bouncy blowout with face-framing curtain layers and shine",
+   "setting": "Modern living room / apartment interior",
+   "faces_camera": true,
+   "energy_tone": "Warm, encouraging, instructional, upbeat"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "None (clean live creator speech audio)",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 10.1,
+   "pacing": "medium",
+   "effects": [
+    "Jump cuts between tutorial steps",
+    "Static title text banner",
+    "Dynamic burned-in word captions"
+   ],
+   "ending": "Creator smiles, holding the product next to her face while showing off full bouncy blowout."
+  },
+  "notes": "Native English UGC tutorial creator asset licensed/repurposed by WavyTalk for international paid social campaigns including Lebanon."
+ }
+}

@@ -1,0 +1,369 @@
+{
+ "media_key": "v_1918074172417432",
+ "analyzed_at": "2026-11-28T01:09:08+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "e47af469b2acebfa1c4b7645ebdc86fe6de8f35f1875d64fa7bf6b2b8bff5041",
+ "source": {
+  "kind": "video",
+  "id": "1918074172417432",
+  "video_id": "4013083678982945",
+  "length_s": 21.1,
+  "permalink": "/23849366283980795/videos/4013083678982945/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 20.3,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator demonstrates how the Wavytalk Steamline Pro straightens frizzy hair in 10 minutes with one pass and lasting hydration.",
+  "full_description": "A creator speaks directly to the camera explaining how she transformed her frizzy hair to straight in just 10 minutes. The video cuts to her after a shower with messy, frizzy hair, then to her bathroom demonstrating the pink Wavytalk Steamline Pro steam straightener brush gliding through her strands. She highlights that it detangles and straightens with only one pass while hydrating instead of drying hair out like a traditional flat iron. The ad concludes with her showing off the sleek result and holding the product retail box while offering a 20% discount.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 60,
+    "en": 35,
+    "fr": 5
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "arabizi",
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "شوفوا كيف غيرت شعري من frizzy لـ straight بـ 10 mins بس.",
+    "text_english": "Look how I transformed my hair from frizzy to straight in just 10 minutes."
+   },
+   {
+    "start_s": 3.1,
+    "end_s": 6.3,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "خلصت حمام وشعري كان كتير منوبر ومعركج.",
+    "text_english": "I finished showering and my hair was super frizzy and tangled."
+   },
+   {
+    "start_s": 6.3,
+    "end_s": 9.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بس شوفوا كيف الـ Steamline Pro is detangling all my hair.",
+    "text_english": "But look how the Steamline Pro is detangling all my hair."
+   },
+   {
+    "start_s": 9.4,
+    "end_s": 11.4,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "كل خصلة بتصير straight with only 1 pass.",
+    "text_english": "Every strand becomes straight with only 1 pass."
+   },
+   {
+    "start_s": 11.4,
+    "end_s": 14.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "ولأن it hydrates الشعر بدل ما تنشفه متل الـ fer،",
+    "text_english": "And because it hydrates the hair instead of drying it out like a flat iron,"
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 17.2,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بضاين شعري all day بلا retouches.",
+    "text_english": "my hair lasts all day without touch-ups."
+   },
+   {
+    "start_s": 17.2,
+    "end_s": 20.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "إذا بدكن هيك look، order your Steamline Pro for 20% off.",
+    "text_english": "If you want this look, order your Steamline Pro for 20% off."
+   }
+  ],
+  "transcript_full_original": "شوفوا كيف غيرت شعري من frizzy لـ straight بـ 10 mins بس. خلصت حمام وشعري كان كتير منوبر ومعركج. بس شوفوا كيف الـ Steamline Pro is detangling all my hair. كل خصلة بتصير straight with only 1 pass. ولأن it hydrates الشعر بدل ما تنشفه متل الـ fer، بضاين شعري all day بلا retouches. إذا بدكن هيك look، order your Steamline Pro for 20% off.",
+  "transcript_full_english": "Look how I transformed my hair from frizzy to straight in just 10 minutes. I finished showering and my hair was super frizzy and tangled. But look how the Steamline Pro is detangling all my hair. Every strand becomes straight with only 1 pass. And because it hydrates the hair instead of drying it out like a flat iron, my hair lasts all day without touch-ups. If you want this look, order your Steamline Pro for 20% off.",
+  "word_count": 59,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "text": "ghayret chaare",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 2.1,
+    "text": "mn frizzy la straight",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 3.1,
+    "text": "bi 10 mins bas",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.1,
+    "end_s": 4.1,
+    "text": "Khalaset hemem",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 5.2,
+    "text": "wcha3re ken ktir",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.2,
+    "end_s": 6.3,
+    "text": "mnawbar w m3arkaj",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.3,
+    "end_s": 8.0,
+    "text": "l steamline pro is detangling",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 9.4,
+    "text": "all my hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.4,
+    "end_s": 10.4,
+    "text": "kl khosle bt sir",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.4,
+    "end_s": 11.4,
+    "text": "straight with only 1 pass",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.4,
+    "end_s": 12.5,
+    "text": "w la2an it hydrates",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.5,
+    "end_s": 13.9,
+    "text": "l shaar badel ma tnashfo",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 13.9,
+    "end_s": 15.0,
+    "text": "mtl l fer",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 16.1,
+    "text": "bi dayen chaare all day",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.1,
+    "end_s": 17.2,
+    "text": "bala retouches.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.2,
+    "end_s": 18.2,
+    "text": "hek look",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 19.3,
+    "text": "order steamline pro",
+    "role": "cta"
+   },
+   {
+    "start_s": 19.3,
+    "end_s": 20.3,
+    "text": "20% OFF",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.1,
+    "shot_type": "medium shot",
+    "visual": "Female creator sitting on a white couch wearing a dark grey knit sweater talking to camera; animated hair graphics pop up representing frizzy and straight hair.",
+    "action": "Creator introduces the transformation from frizzy to straight in 10 minutes.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.1,
+    "end_s": 6.3,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting on a bed in front of a bright window wearing a black blazer with frizzy, messy hair.",
+    "action": "Creator shakes her head and shows how tangled and frizzy her hair is right out of the shower.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.3,
+    "end_s": 9.4,
+    "shot_type": "medium shot",
+    "visual": "Bathroom setting, creator in black blazer and heat glove using the pink Wavytalk Steamline Pro brush on her long dark hair.",
+    "action": "Creator smiles into camera and slowly brushes through a section of hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.4,
+    "end_s": 11.4,
+    "shot_type": "close-up",
+    "visual": "Close-up macro view of hair passing smoothly through the heated comb teeth of the pink steam brush.",
+    "action": "The brush glides through hair strands, straightening them in one pass.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.4,
+    "end_s": 13.9,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting back on the couch, gesturing with both hands while explaining the hydration benefit.",
+    "action": "Creator talks expressively to camera explaining how steam hydrates the hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 13.9,
+    "end_s": 15.0,
+    "shot_type": "close-up b-roll",
+    "visual": "Close-up of a regular flat iron clamping down on hair, with a graphic rainbow glitch 'X' over it.",
+    "action": "Demonstrating the traditional drying iron that is being replaced.",
+    "product_visible": false
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 17.2,
+    "shot_type": "medium shot",
+    "visual": "Bathroom mirror view, creator holding the Steamline Pro showing her completely straightened, shiny hair.",
+    "action": "Creator poses with the product smiling and showing off straight hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.2,
+    "end_s": 20.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the packaged Steamline Pro box towards the camera with a prominent '20% OFF' graphic overlay.",
+    "action": "Creator presents the retail box and invites viewers to order for 20% off.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Female creator sitting on a sofa looking into camera with burned-in text 'ghayret chaare'.",
+   "visual_0_3s": "Creator talking dynamically with animated illustrations of frizzy vs straight hair appearing on screen.",
+   "spoken_0_3s": "شوفوا كيف غيرت شعري من frizzy لـ straight بـ 10 mins بس.",
+   "text_0_3s": "ghayret chaare mn frizzy la straight bi 10 mins bas",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Fast flash transition and animated curly-to-straight hair sticker graphics appearing in the first 2 seconds."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Hook: Frizzy to straight in 10 minutes",
+    "Pain point: Post-shower messy, unruly hair",
+    "Demo: Effortless detangling and 1-pass straightening with Steamline Pro",
+    "Mechanism/Advantage: Steam hydrates hair rather than drying it like a flat iron",
+    "Benefit: Long-lasting result all day without touch-ups",
+    "Call to Action: 20% discount offer with retail box showcase"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "saves_time",
+    "less_heat_damage"
+   ],
+   "key_claims": [
+    "Straightens frizzy hair in 10 minutes",
+    "Straightens each section in only 1 pass",
+    "Detangles while styling",
+    "Hydrates hair with steam instead of drying it out like a flat iron",
+    "Lasts all day without retouches"
+   ],
+   "pain_points": [
+    "Messy, tangled, frizzy hair after showering",
+    "Traditional flat irons (fer) dry out and damage hair",
+    "Styles that lose shape and require frequent touch-ups"
+   ],
+   "objections_handled": [
+    "Hair damage objection handled by emphasizing steam hydration vs drying flat irons",
+    "Time commitment objection handled with the 10-minute and 1-pass claim"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional flat iron (fer)"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steamline Pro (Steam Straightener Brush)"
+   ],
+   "first_seen_s": 6.3,
+   "first_used_on_hair_s": 6.3,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "20% off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "order your Steamline Pro for 20% off",
+   "cta_on_screen": "order steamline pro 20% OFF",
+   "cta_at_s": 17.2
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Brunette, mid-length to long, frizzy and unstyled",
+   "hair_after": "Brunette, long, glossy, bone straight",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, relatable, persuasive"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat background instrumental pop track underneath creator speech",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 2.5,
+   "pacing": "fast",
+   "effects": [
+    "light leak flash transitions",
+    "animated hair overlay stickers",
+    "glitch X overlay on flat iron b-roll",
+    "Arabizi burned-in animated subtitles"
+   ],
+   "ending": "Creator holding the packaged product box smiling next to a bold '20% OFF' graphic."
+  },
+  "notes": "Spoken dialogue combines Lebanese Arabic with common English and French terminology ('frizzy', 'straight', '10 mins', 'detangling', '1 pass', 'hydrates', 'fer', 'all day', 'retouches', 'look', 'order', 'off'). Subtitles are written entirely in Arabizi (Latin script with numerals) and English."
+ }
+}

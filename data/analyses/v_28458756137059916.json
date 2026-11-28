@@ -1,0 +1,197 @@
+{
+ "media_key": "v_28458756137059916",
+ "analyzed_at": "2026-11-28T00:19:56+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "9ce7b67357eaaf83fd23a48dcaa1372376671b2fa3266e0a830cc1bc9e159a10",
+ "source": {
+  "kind": "video",
+  "id": "28458756137059916",
+  "video_id": "1043047085102502",
+  "length_s": 11.1,
+  "permalink": "/23849366283980795/videos/1043047085102502/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 10.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A girl demonstrates taking her Wavytalk Blowout Boost in her handbag to quickly touch up and style her hair in a public restroom.",
+  "full_description": "A quick lifestyle UGC video showing a young woman who packs her pink Wavytalk Blowout Boost thermal brush in her tote bag. She takes it out in a public restroom, plugs it into the wall, shows the digital screen heating up with the blue ionic light, and quickly brushes and shapes her front layers and bangs in the mirror, finishing with a satisfied smile.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 10.5,
+    "text": "Taking my Wavytalk blowout boost everywhere I go",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 0.9,
+    "shot_type": "POV close-up",
+    "visual": "A brown suede tote bag sitting open with the pink Wavytalk Blowout Boost thermal brush packed inside.",
+    "action": "Camera tilts down looking inside the bag displaying the portable hair tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 0.9,
+    "end_s": 1.9,
+    "shot_type": "mirror selfie medium shot",
+    "visual": "Young woman in a black cropped jacket and grey gym leggings standing in front of an arched mirror in a modern public bathroom.",
+    "action": "She holds the brush and power cord while dancing playfully to the music.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.9,
+    "end_s": 2.8,
+    "shot_type": "front-facing selfie close-up",
+    "visual": "Creator holding the barrel and plug of the Wavytalk brush up to the camera.",
+    "action": "She smiles towards the camera holding the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 3.7,
+    "shot_type": "mirror selfie medium shot",
+    "visual": "Creator in the restroom mirror.",
+    "action": "She shakes the cord and prepares to plug it in.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 4.8,
+    "shot_type": "POV close-up",
+    "visual": "Wall outlet on a tiled bathroom wall.",
+    "action": "Creator's hand with black manicured nails plugs the tool into the wall outlet.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.8,
+    "end_s": 7.5,
+    "shot_type": "close-up",
+    "visual": "Handle of the pink Wavytalk Blowout Boost showing the digital temperature display and blue ion emission light.",
+    "action": "The digital temperature display rapidly climbs to operating heat.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 9.8,
+    "shot_type": "mirror medium shot",
+    "visual": "Creator styling her hair in front of the mirror.",
+    "action": "She rolls the thermal brush through her bangs and front layers to lift and smooth them.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 10.5,
+    "shot_type": "mirror medium shot",
+    "visual": "Creator holding the tool upright, showing off her refreshed, shiny blowout.",
+    "action": "She lowers the tool and smiles contentedly at her reflection.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Top-down view of the pink Wavytalk Blowout Boost resting inside a purse with text overlay.",
+   "visual_0_3s": "Transition from looking inside the handbag to a quick mirror selfie in a restroom holding the tool.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Taking my Wavytalk blowout boost everywhere I go",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Rapid jump cut from handbag POV to an aesthetically lit public restroom mirror."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Show tool conveniently fitting in an everyday handbag",
+    "Arrive at bathroom/on-the-go location and plug it in",
+    "Show fast heat-up on LCD screen",
+    "Quick touch-up styling session in the mirror",
+    "Final refreshed look display"
+   ],
+   "main_angle": "travel_or_on_the_go",
+   "secondary_angles": [
+    "saves_time",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Compact and portable enough to take anywhere in your bag",
+    "Fast heating for on-the-go styling and touch-ups"
+   ],
+   "pain_points": [
+    "Hair losing volume or shape when out of the house",
+    "Bulky hair styling tools that cannot be carried easily"
+   ],
+   "objections_handled": [
+    "Can it be used on the go? (Demonstrated fitting in a regular tote bag and quickly plugged in a public mirror)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional bulky styling tools"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 7.5,
+   "final_result_shown_s": 9.8,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, dark brown straight hair needing minor touch-up",
+   "hair_after": "Smooth, styled bangs and face-framing layers with subtle curve",
+   "setting": "Public restroom / commercial bathroom",
+   "faces_camera": true,
+   "energy_tone": "Casual, upbeat, trendy"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Hip-hop trending track (50 Cent - In Da Club)",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 1.5,
+   "pacing": "fast",
+   "effects": [
+    "quick cuts synced to beat"
+   ],
+   "ending": "Direct cut on creator holding the tool and smiling."
+  },
+  "notes": "Short-form TikTok-style lifestyle video highlighting the on-the-go portability of the Wavytalk Blowout Boost thermal brush."
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "media_key": "i_0bc678c62c525fcf6673729baccc5189",
+ "analyzed_at": "2026-11-28T00:47:40+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "d6b8292fe806b8afb4a3acc60b69a781ef5f944b7a70cfe841caf9c396abcf63",
+ "source": {
+  "kind": "image",
+  "id": "0bc678c62c525fcf6673729baccc5189"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "4:5",
+  "one_line_summary": "Top-down aesthetic flat lay of five colorful WavyTalk thermal round brushes arranged side-by-side with color-matching emoji stickers.",
+  "full_description": "A flat lay photograph showing five WavyTalk thermal round blowout brushes lined up diagonally on a white textured carpet under natural sunlight. From left to right, the colors are off-white/cream, pastel blush pink, baby blue, lilac purple with a metallic purple barrel, and pastel lime green with an olive-toned barrel. Above each brush is a corresponding emoji sticker: a white cloud, a pink cherry blossom, a blue butterfly, a purple heart, and a lime slice.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "ION",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "top-down product shot",
+    "visual": "Five WavyTalk thermal round heated blowout brushes aligned on a plush ivory carpet with aesthetic emoji stickers placed above each brush head (cloud, cherry blossom, blue butterfly, purple heart, lime wedge). Natural sunlight casts soft angled shadows.",
+    "action": "Static product showcase displaying the range of color options.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Overhead flat lay of five pastel-colored WavyTalk thermal brushes lined up on a white rug with emoji accents.",
+   "visual_0_3s": "Overhead flat lay of five pastel-colored WavyTalk thermal brushes lined up on a white rug with emoji accents.",
+   "spoken_0_3s": "",
+   "text_0_3s": "WAVYTALK",
+   "hook_type": "product_reveal",
+   "hook_type_secondary": "none",
+   "pattern_interrupt": "Visually satisfying color-coded arrangement of popular heated hair styling tools paired with cute aesthetic emojis."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Product showcase showing color variety"
+   ],
+   "main_angle": "other",
+   "secondary_angles": [
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Available in multiple aesthetic pastel colors (cream, pink, baby blue, lilac, and lime green)"
+   ],
+   "pain_points": [],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Thermal Round Brush (Blowout Boost)"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "bedroom",
+   "faces_camera": false,
+   "energy_tone": ""
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "emoji stickers overlaid on photo"
+   ],
+   "ending": "Static image flat lay"
+  },
+  "notes": "Static social image creative likely used as an Instagram story or feed placement highlighting the aesthetic color range of the WavyTalk ionic thermal blowout brush."
+ }
+}

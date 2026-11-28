@@ -1,0 +1,138 @@
+{
+ "media_key": "v_1681368583185138",
+ "analyzed_at": "2026-11-28T01:14:56+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "0564f13554de0bf857c5a67d351ecdf8d3667c2648e0f81b4fe003607797364b",
+ "source": {
+  "kind": "video",
+  "id": "1681368583185138",
+  "ig_media_id": "17880155268510248",
+  "permalink": "https://www.instagram.com/p/DWULBsZDN6l/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 10.76,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A woman shows off salon-styled wavy hair created by her hairdresser using the WavyTalk thermal brush.",
+  "full_description": "A woman in a black blazer at a salon turns around to display voluminous, bouncy wavy hair done by her stylist. She smiles and flips her hair, followed by a cut to a mirror selfie where she shows off her curls while holding the pink WavyTalk thermal styling brush.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 10.76,
+    "text": "results of my hairdresser doing my hair with WAVYTALK",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.5,
+    "shot_type": "medium shot",
+    "visual": "A young woman wearing a black coat seen from behind turning towards camera to reveal styled wavy hair.",
+    "action": "Talent turns around, smiles, and shakes her styled hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 10.76,
+    "shot_type": "mirror selfie",
+    "visual": "Mirror view of the woman holding her phone in one hand and the pink WavyTalk thermal brush in the other.",
+    "action": "Talent poses, checks hair in the phone screen, and holds up the styling tool.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Woman seen from behind showcasing long, voluminous dark wavy hair in a salon setting.",
+   "visual_0_3s": "Woman turns around smiling, showing the blowout and wave results.",
+   "spoken_0_3s": "",
+   "text_0_3s": "results of my hairdresser doing my hair with WAVYTALK",
+   "hook_type": "result_first",
+   "hook_type_secondary": "expert_or_hairdresser",
+   "pattern_interrupt": "Immediate reveal of finished, shiny salon blowout curls."
+  },
+  "structure": {
+   "format": "hairdresser_or_expert",
+   "narrative_beats": [
+    "Final hairstyle reveal from the back and front",
+    "Mirror selfie showing the tool used by the hairdresser"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "expert_endorsement",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Achieve professional salon results using WavyTalk tool"
+   ],
+   "pain_points": [],
+   "objections_handled": [],
+   "social_proof": [
+    "Professional hairdresser used the tool on client"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Thermal Heated Brush"
+   ],
+   "first_seen_s": 4.5,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "result_only",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "",
+   "hair_after": "Long, dark brown, styled in smooth voluminous waves",
+   "setting": "salon",
+   "faces_camera": true,
+   "energy_tone": "happy and confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Upbeat electronic pop backing track.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 1,
+   "avg_shot_length_s": 5.38,
+   "pacing": "medium",
+   "effects": [],
+   "ending": "Talent smiles into mirror while holding the product."
+  },
+  "notes": "Short social proof clip highlighting hairdresser use of the tool."
+ }
+}

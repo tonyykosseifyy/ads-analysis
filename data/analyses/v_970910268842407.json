@@ -1,0 +1,123 @@
+{
+ "media_key": "v_970910268842407",
+ "analyzed_at": "2026-11-28T00:26:22+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "bde8546b34496f98431ce938149bd6d8445c2ef43e0b987489d672df6da5fca6",
+ "source": {
+  "kind": "video",
+  "id": "970910268842407",
+  "ig_media_id": "18099253282799785",
+  "permalink": "https://www.instagram.com/p/DWhbCrkjGnQ/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 9.77,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator teases an upcoming product release by playfully hiding behind an unmarked long white box and asking viewers to guess the new item.",
+  "full_description": "A creator stands in front of the camera holding a tall white product box (with the word 'ACCESSORIES' printed faintly mirrored on the side). Throughout the video, she moves the box back and forth in front of her face with playful expressions, teasing a new product drop while upbeat Arabic music plays in the background. The overlay text asks viewers 'CAN YOU GUESS OUR NEWEST ITEM????'. The actual tool inside the box is not unboxed or shown.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 9.77,
+    "text": "CAN YOU GUESS OUR NEWEST ITEM????",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 9.77,
+    "shot_type": "medium close-up",
+    "visual": "A young brunette woman with wavy hair in a casual room holding a tall white packaging box, moving it to partially cover and reveal her face with teasing, excited expressions.",
+    "action": "The creator holds the box up, brings it in front of her face, peeks around it, and smiles at the camera to create suspense for a mystery product launch.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding a tall white box next to her face with a shocked/excited open-mouth expression under the text 'CAN YOU GUESS OUR NEWEST ITEM????'.",
+   "visual_0_3s": "Creator raises the tall white box to obscure her face playfully, teasing a mystery item.",
+   "spoken_0_3s": "",
+   "text_0_3s": "CAN YOU GUESS OUR NEWEST ITEM????",
+   "hook_type": "curiosity_gap",
+   "hook_type_secondary": "question",
+   "pattern_interrupt": "Hiding her face behind an oversized mystery box immediately stimulates curiosity about what is inside."
+  },
+  "structure": {
+   "format": "product_showcase",
+   "narrative_beats": [
+    "Curiosity hook teasing a mystery upcoming product",
+    "Playful hide-and-reveal visual teasing viewer engagement in the comments"
+   ],
+   "main_angle": "other",
+   "secondary_angles": [],
+   "key_claims": [],
+   "pain_points": [],
+   "objections_handled": [],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Mystery Box (Accessories)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "CAN YOU GUESS OUR NEWEST ITEM????",
+   "cta_at_s": 0.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, dark brown, styled in smooth loose waves",
+   "hair_after": "Same",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "playful"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat Arabic vocal pop song with rhythmic electronic percussion.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 0,
+   "avg_shot_length_s": 9.77,
+   "pacing": "medium",
+   "effects": [],
+   "ending": "Creator holds the box close to the camera lens as the video loops."
+  },
+  "notes": "Short engagement-driving teaser post designed to prompt comments and speculation prior to an official product drop."
+ }
+}

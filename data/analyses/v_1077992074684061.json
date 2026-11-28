@@ -1,0 +1,270 @@
+{
+ "media_key": "v_1077992074684061",
+ "analyzed_at": "2026-11-28T00:10:40+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "b0d76b07a4e6fc7f4eeaca12640f1063ac183b2d7bd96f9adb714745ce165d67",
+ "source": {
+  "kind": "video",
+  "id": "1077992074684061",
+  "video_id": "1665101208437730",
+  "length_s": 51.106,
+  "permalink": "/23849366283980795/videos/1665101208437730/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 51.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A Lebanese creator explains how the WavyTalk Blowout Boost thermal brush gives salon blowouts quickly at home when in a rush.",
+  "full_description": "A young Lebanese woman in a white tank top films a selfie-style talking head UGC video in a room. She brushes her straight hair while explaining she has an outing today but no time to go to the salon. She introduces the pink WavyTalk Blowout Boost thermal round brush, demonstrates rolling and curling strands of her hair at the crown and sides, reveals bouncy wavy results, and recommends it as an essential, easy-to-use tool for every girl.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en",
+    "fr"
+   ],
+   "primary_spoken_language": "ar",
+   "arabic_dialect": "levantine_lebanese",
+   "approx_share_pct": {
+    "ar": 75.0,
+    "en": 20.0,
+    "fr": 5.0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "ضاهرة اليوم وما معي وقت كرمال روح عند الكوافير",
+    "text_english": "I'm going out today and I don't have time to go to the hairdresser."
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 7.8,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أنا شخص كتير بحب الشعر يكون styled وحلو لأنه الشعر بغير بالأوفر أول look",
+    "text_english": "I'm someone who loves hair to be styled and pretty because hair completely transforms the overall look."
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 13.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "لأنه لو قد ما الميك أب حلو والتياب حلوين، إذا الشعر منه properly styled، عنجد الـ look حيبين ناقص",
+    "text_english": "Because no matter how pretty the makeup or clothes are, if hair isn't properly styled, honestly the look will feel incomplete."
+   },
+   {
+    "start_s": 14.0,
+    "end_s": 16.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "لحديد ما لقيت the thermal brush من عند Wavytalk",
+    "text_english": "Until I found the thermal brush from Wavytalk."
+   },
+   {
+    "start_s": 17.0,
+    "end_s": 19.3,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "الحلو بهيدا الـ tool إنه هي بتعمل الشغل عنك",
+    "text_english": "What's great about this tool is that it does the work for you."
+   },
+   {
+    "start_s": 19.4,
+    "end_s": 26.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "أنا كل شي عليي ألقط الخصلة وابروم الـ brush",
+    "text_english": "All I have to do is grab the strand and twist the brush."
+   },
+   {
+    "start_s": 27.5,
+    "end_s": 30.5,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Guys ليكو ملا results",
+    "text_english": "Guys, look at what amazing results!"
+   },
+   {
+    "start_s": 31.5,
+    "end_s": 37.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بالعادة أنا حدا ما بيعرف يستعمل hair tools، كتير بستصعب السيشوار مع الـ round brush",
+    "text_english": "Usually I'm someone who doesn't know how to use hair tools; I find using a blow dryer with a round brush very difficult."
+   },
+   {
+    "start_s": 37.1,
+    "end_s": 40.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "بس guys ليكو هيدي الـ brush قدي هينة عليي",
+    "text_english": "But guys, look at how easy this brush is for me."
+   },
+   {
+    "start_s": 40.1,
+    "end_s": 44.5,
+    "speaker": "creator",
+    "language": "ar",
+    "text_original": "وأحلى شي إنه قادرة اخلص شعري بسرعة لو قد ما مستعجلة",
+    "text_english": "And the best part is that I can finish my hair quickly no matter how rushed I am."
+   },
+   {
+    "start_s": 45.5,
+    "end_s": 51.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "عنجد guys ما بعرف كيف كنت عايشة بلا هيدا الـ Blowout Boost. It's a must have لـ every girl in her house.",
+    "text_english": "Seriously guys, I don't know how I was living without this Blowout Boost. It's a must have for every girl in her house."
+   }
+  ],
+  "transcript_full_original": "ضاهرة اليوم وما معي وقت كرمال روح عند الكوافير. أنا شخص كتير بحب الشعر يكون styled وحلو لأنه الشعر بغير بالأوفر أول look. لأنه لو قد ما الميك أب حلو والتياب حلوين، إذا الشعر منه properly styled، عنجد الـ look حيبين ناقص. لحديد ما لقيت the thermal brush من عند Wavytalk. الحلو بهيدا الـ tool إنه هي بتعمل الشغل عنك. أنا كل شي عليي ألقط الخصلة وابروم الـ brush. Guys ليكو ملا results! بالعادة أنا حدا ما بيعرف يستعمل hair tools، كتير بستصعب السيشوار مع الـ round brush. بس guys ليكو هيدي الـ brush قدي هينة عليي. وأحلى شي إنه قادرة اخلص شعري بسرعة لو قد ما مستعجلة. عنجد guys ما بعرف كيف كنت عايشة بلا هيدا الـ Blowout Boost. It's a must have لـ every girl in her house.",
+  "transcript_full_english": "I'm going out today and I don't have time to go to the hairdresser. I'm someone who loves hair to be styled and pretty because hair completely transforms the overall look. Because no matter how pretty the makeup or clothes are, if hair isn't properly styled, honestly the look will feel incomplete. Until I found the thermal brush from Wavytalk. What's great about this tool is that it does the work for you. All I have to do is grab the strand and twist the brush. Guys, look at what amazing results! Usually I'm someone who doesn't know how to use hair tools; I find using a blow dryer with a round brush very difficult. But guys, look at how easy this brush is for me. And the best part is that I can finish my hair quickly no matter how rushed I am. Seriously guys, I don't know how I was living without this Blowout Boost. It's a must have for every girl in her house.",
+  "word_count": 130,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 14.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushing her long straight hair with a regular paddle brush while speaking directly to camera.",
+    "action": "Creator talks about going out, having no time for a salon, and why styling hair is essential for an outfit.",
+    "product_visible": false
+   },
+   {
+    "start_s": 14.0,
+    "end_s": 19.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding up the pink WavyTalk Blowout Boost thermal round brush in front of the camera.",
+    "action": "She introduces the thermal brush from WavyTalk and points to it while explaining it does the work.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.5,
+    "end_s": 27.0,
+    "shot_type": "medium close-up",
+    "visual": "Demo of creator wrapping a front section of hair around the heated brush barrel.",
+    "action": "She rolls the thermal brush around a top strand, holds it, and rotates it outwards.",
+    "product_visible": true
+   },
+   {
+    "start_s": 27.0,
+    "end_s": 31.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator releases the curled section and shows the bouncy curled strand to the camera.",
+    "action": "She inspects the curled strand with her hand and shows excitement at the result.",
+    "product_visible": true
+   },
+   {
+    "start_s": 31.5,
+    "end_s": 45.0,
+    "shot_type": "medium close-up",
+    "visual": "Demo on another side section of hair.",
+    "action": "Creator curls another section on the side while explaining she struggles with traditional round brushes and hair dryers.",
+    "product_visible": true
+   },
+   {
+    "start_s": 45.0,
+    "end_s": 51.0,
+    "shot_type": "medium close-up",
+    "visual": "Finished styled blowout hair with volume and waves framing the creator's face.",
+    "action": "Creator holds the WavyTalk Blowout Boost brush next to her face, showing off her finished styled hair and delivering a final endorsement.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera holding a pink paddle brush against her chest, wearing a white top.",
+   "visual_0_3s": "Creator brushing her hair with a flat brush and talking expressively about going out.",
+   "spoken_0_3s": "ضاهرة اليوم وما معي وقت كرمال روح عند الكوافير",
+   "text_0_3s": "",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "pov_or_relatable",
+   "pattern_interrupt": "Immediate relatable dilemma of heading out with zero time for a salon visit."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Problem/relatable situation: going out with no time for salon blowout",
+    "Context: hair makes or breaks the whole outfit/look",
+    "Solution reveal: WavyTalk thermal brush",
+    "Step-by-step live demonstration on crown and side strands",
+    "Objection handling: hard to handle dryer + round brush, but this tool makes it easy and fast",
+    "Final look showcase & must-have recommendation"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "saves_time",
+    "salon_result_at_home",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "The tool does all the styling work for you",
+    "Easy alternative to a difficult round brush and blow dryer combo",
+    "Styles hair quickly even when rushing",
+    "Delivers salon blowout curls at home"
+   ],
+   "pain_points": [
+    "No time to go to the salon before going out",
+    "Hair ruins the outfit/makeup if not properly styled",
+    "Using a round brush and blow dryer simultaneously is difficult"
+   ],
+   "objections_handled": [
+    "I am clumsy/bad at styling tools: shows it only requires wrapping and rotating",
+    "I don't have enough time: finishes fast even when rushed"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional hair dryer and round brush"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 14.5,
+   "first_used_on_hair_s": 19.5,
+   "final_result_shown_s": 27.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "It's a must have لـ every girl in her house",
+   "cta_on_screen": "",
+   "cta_at_s": 49.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long straight dark brown/black hair, flat ends",
+   "hair_after": "Bouncy voluminous blowout with curved ends and defined waves",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "conversational, enthusiastic, relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "No background music, natural room vocal audio with product handling sounds",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 8.5,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between demo steps"
+   ],
+   "ending": "Creator holds the Blowout Boost brush pointing up next to her styled hair and delivers the final sentence"
+  },
+  "notes": "Authentic organic UGC review format specifically targeted at young Lebanese women who struggle with round brush blowouts at home."
+ }
+}

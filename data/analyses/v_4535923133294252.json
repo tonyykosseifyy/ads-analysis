@@ -1,0 +1,189 @@
+{
+ "media_key": "v_4535923133294252",
+ "analyzed_at": "2026-11-28T00:14:07+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "13675de2b8197e02e9a5e8a2a5b1ef96e016a6204ff4d19757795ff8fe8cffc1",
+ "source": {
+  "kind": "video",
+  "id": "4535923133294252",
+  "video_id": "1752077159356640",
+  "length_s": 25.356,
+  "permalink": "/23849366283980795/videos/1752077159356640/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 25.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates how to achieve voluminous 90s-style blowout layers using the Wavytalk thermal heated round brush.",
+  "full_description": "The video opens with a hook showing the creator flaunting her finished, voluminous layered blowout. She then shows the Wavytalk thermal heated round brush up close, displaying the temperature screen set to 390°F. She sections her hair and glides the brush through her hair, curling the ends under and outward. A text graphic announcing a '20% OFF FALL SALE' is overlaid. Next, she rolls her crown and bangs section backwards for maximum lift. In the final scene, she releases clips, fluffs her bouncy layers, and poses for the camera showing off the high-shine, full-volume salon blowout result.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.0,
+    "text": "how to become divalicious...",
+    "role": "hook"
+   },
+   {
+    "start_s": 7.0,
+    "end_s": 12.5,
+    "text": "20% OFF\nFALL SALE",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "medium close-up",
+    "visual": "Young woman with lush, styled layered blowout shaking her hair and posing confidently.",
+    "action": "Creator shakes and runs hands through finished hair, showing bouncy blowout result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 3.8,
+    "shot_type": "close-up",
+    "visual": "Wavytalk thermal brush held vertically in front of creator's face.",
+    "action": "Creator shows the ceramic heated barrel and taps the digital temperature display screen showing 390°F.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 11.2,
+    "shot_type": "medium shot",
+    "visual": "Creator styling pinned-up hair sections with the heated round brush.",
+    "action": "She wraps hair around the barrel, rotates it through strands, and releases a bouncy curled flip while promotional text appears.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 16.0,
+    "shot_type": "medium shot",
+    "visual": "Creator styling crown and bangs area.",
+    "action": "She rolls bangs and top layers backwards over the heated barrel to create root lift and curtain bang shape.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 19.5,
+    "shot_type": "medium shot",
+    "visual": "Creator touching up side curls and allowing bangs to set with clips.",
+    "action": "She twirls the thermal brush curls with her fingers to set the shape.",
+    "product_visible": false
+   },
+   {
+    "start_s": 19.5,
+    "end_s": 25.0,
+    "shot_type": "medium shot",
+    "visual": "Final blowout hairstyle reveal.",
+    "action": "Creator removes clips, fluffs root volume, turns side to side, and poses showcasing the full, glossy result.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator showcasing voluminous bouncy blowout layers with on-screen text 'how to become divalicious...'.",
+   "visual_0_3s": "Creator running fingers through glossy layered blowout and then quickly presenting the Wavytalk thermal brush.",
+   "spoken_0_3s": "",
+   "text_0_3s": "how to become divalicious...",
+   "hook_type": "result_first",
+   "hook_type_secondary": "product_reveal",
+   "pattern_interrupt": "Immediate result showcase with glossy bouncy hair movement before cutting directly to the tool."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Result teaser hook showcasing voluminous 90s blowout",
+    "Product display showing temperature display and bristle barrel",
+    "Step-by-step styling of bottom layers and curls",
+    "Sale offer overlay",
+    "Curtain bang and crown volume styling demonstration",
+    "Final hair fluff and glamorous reveal"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Achieves voluminous 90s layered blowout curls at home",
+    "Heats up and styles smoothly without snagging"
+   ],
+   "pain_points": [
+    "Flat hair lacking volume and shape",
+    "Difficulty achieving salon round-brush blowout using regular dryer and round brush"
+   ],
+   "objections_handled": [
+    "Heat setting control visible via digital display"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional round-brush salon blowout"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush"
+   ],
+   "first_seen_s": 1.8,
+   "first_used_on_hair_s": 3.8,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "20% OFF FALL SALE",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "FALL SALE",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Dark brown/black layered medium-long hair partially sectioned and pinned",
+   "hair_after": "Glossy, voluminous, bouncy 90s blowout with flicked layered ends and lifted curtain bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, stylish, glamorous"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Mid-tempo hip-hop / R&B track with female vocals and beat",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 9,
+   "avg_shot_length_s": 2.78,
+   "pacing": "medium",
+   "effects": [
+    "Text overlay",
+    "Speed cuts between styling sections"
+   ],
+   "ending": "Creator flips hair, fluffs bangs, and smiles confidently into camera."
+  },
+  "notes": "Silent aesthetic UGC video optimized for TikTok/Reels feed; features seasonal discount overlay (20% OFF FALL SALE). No spoken dialogue or voiceover."
+ }
+}

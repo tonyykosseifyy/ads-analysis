@@ -1,0 +1,222 @@
+{
+ "media_key": "v_1533052011693625",
+ "analyzed_at": "2026-11-28T00:15:04+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "30afb7c98a61a8d859322dc75add9a70a1591f28108836af896ef8cc972f51a9",
+ "source": {
+  "kind": "video",
+  "id": "1533052011693625",
+  "video_id": "3163367307202250",
+  "length_s": 26.368,
+  "permalink": "/23849366283980795/videos/3163367307202250/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 25.7,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates styling straight/wavy hair into a voluminous 90s blowout using the WavyTalk thermal round brush.",
+  "full_description": "A creator shares a step-by-step styling routine using the pink WavyTalk thermal round brush (Blowout Boost) set to trending music. She opens with a curiosity hook targeting straight and wavy hair types, sections her hair, highlights the curl bounce and half-head difference, demonstrates smoothing and wrapping a section while calling out ionic frizz reduction, and concludes with a full reveal of bouncy, voluminous blowout hair.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.4,
+    "text": "Why havent girls with straight/wavy hair been told about this...",
+    "role": "hook"
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 3.4,
+    "text": "SECTION YOUR HAIR",
+    "role": "benefit"
+   },
+   {
+    "start_s": 3.5,
+    "end_s": 6.5,
+    "text": "LOOK AT THAT BOUNCE!",
+    "role": "benefit"
+   },
+   {
+    "start_s": 6.6,
+    "end_s": 8.4,
+    "text": "SEE THE DIFFERENCE",
+    "role": "benefit"
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 15.4,
+    "text": "USES IONIC TECHNOLOGY TO KILL FRIZZ",
+    "role": "benefit"
+   },
+   {
+    "start_s": 15.5,
+    "end_s": 22.8,
+    "text": "MAIN CHARACTER HAIR UNLOCKED",
+    "role": "benefit"
+   },
+   {
+    "start_s": 22.9,
+    "end_s": 25.7,
+    "text": "I'M IN LOVEE",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.5,
+    "shot_type": "medium close-up",
+    "visual": "Young woman in a white t-shirt touching her styled hair in bedroom, then sectioning top hair with clips",
+    "action": "Touches bangs, then sections off her crown hair",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.5,
+    "end_s": 6.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the pink thermal round brush, winking, and bouncing a curled front fringe section with her palm",
+    "action": "Shows bounce of curl and winks at camera while holding brush",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.5,
+    "end_s": 8.5,
+    "shot_type": "medium shot",
+    "visual": "Side-by-side comparison on creator's head: one side styled into bouncy curls, the other side straight and unstyled",
+    "action": "Compares both sides using hand gestures to show difference in volume and texture",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 15.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator wrapping a strand of hair around the heated pink round brush, gliding down and twisting to create a curl",
+    "action": "Brushes through section and rolls hair around barrel to curl",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.5,
+    "end_s": 23.0,
+    "shot_type": "medium shot",
+    "visual": "Creator releasing top hair clip, running fingers through thick, voluminous layered blowout curls",
+    "action": "Unclips hair, runs fingers through it, shakes it out, and holds up the thermal brush",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.0,
+    "end_s": 25.7,
+    "shot_type": "medium shot",
+    "visual": "Creator fluffing her styled bouncy hair, smiling excitedly at camera",
+    "action": "Fluffs hair with hands and sways happily to music",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator touching her styled bangs with overlaid text questioning why straight/wavy hair girls haven't heard about this",
+   "visual_0_3s": "Creator touches voluminous front fringe then begins sectioning her hair",
+   "spoken_0_3s": "",
+   "text_0_3s": "Why havent girls with straight/wavy hair been told about this...",
+   "hook_type": "curiosity_gap",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Provocative question text addressing straight/wavy hair girls with high-energy music."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Hook questioning why straight/wavy haired girls don't know this tool",
+    "Hair sectioning preparation",
+    "Tease of bouncy curled fringe result",
+    "Side-by-side comparison of styled vs unstyled hair",
+    "Application demo highlighting ionic anti-frizz technology",
+    "Full hair shakeout and celebration of bouncy blowout volume"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "frizz_or_curly_solution",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Delivers intense bounce",
+    "Uses ionic technology to kill frizz",
+    "Gives voluminous main-character blowout hair"
+   ],
+   "pain_points": [
+    "Flat, lifeless straight or wavy hair",
+    "Frizz and lack of definition",
+    "Difficulty achieving salon round-brush blowout at home"
+   ],
+   "objections_handled": [
+    "Works on straight and wavy hair types",
+    "Doesn't leave hair frizzy thanks to ionic tech"
+   ],
+   "social_proof": [],
+   "comparison_to": "Natural flat/unstyled hair on the other side of her head"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost"
+   ],
+   "first_seen_s": 3.5,
+   "first_used_on_hair_s": 8.5,
+   "final_result_shown_s": 15.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Straight, flat, light-brown/brunette hair with honey highlights",
+   "hair_after": "Voluminous, shiny, bouncy 90s layered blowout with curled ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, playful, fun"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Trending upbeat hip-hop track featuring male rap vocals ('Freak out...')",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 4.3,
+   "pacing": "medium",
+   "effects": [
+    "text overlays",
+    "beat-aligned jump cuts"
+   ],
+   "ending": "Creator playfully tossing and fluffing her completed blowout hair, smiling into camera."
+  },
+  "notes": "Targeted ad for WavyTalk Lebanon showcasing the Blowout Boost thermal heated round brush. Silent demonstration relying on visual transformation, beat-synced cuts, and clear step-by-step benefit text overlays."
+ }
+}

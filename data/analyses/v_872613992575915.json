@@ -1,0 +1,497 @@
+{
+ "media_key": "v_872613992575915",
+ "analyzed_at": "2026-11-28T00:09:19+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "20616e6f0d9b46d161642f43a99200ff7702feed9fa24ccfc794b1cabaec3da0",
+ "source": {
+  "kind": "video",
+  "id": "872613992575915",
+  "video_id": "1789209869013703",
+  "length_s": 136.333,
+  "permalink": "/23849366283980795/videos/1789209869013703/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [
+  "longer_than_2_min"
+ ],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 135.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demos the Wavytalk Pro Steam Straightener Brush, straightening her thick frizzy hair in 11 minutes while praising the shine and scalp safety.",
+  "full_description": "A female creator with thick, voluminous curly/textured brunette hair demonstrates the Wavytalk Pro Steam Hair Straightener (Steambrush Pro). She explains that she was initially skeptical because humidity/steam usually makes curly hair frizzy, but Danielle Athena's co-creation convinced her to try it. She showcases the water reservoir, steam outlets, and heat-protected outer prongs that allow root contact without burning the scalp. She checks the time on an iPad at 2:32 PM, straightens her hair in large sections, checks again at 2:35 PM, and finishes her entire head by 2:43 PM (11 minutes total). She displays the final glossy, pin-straight results and directs viewers to the shopping link.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I was never really a huge fan of straightener brushes until I tried this one",
+    "text_english": "I was never really a huge fan of straightener brushes until I tried this one"
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 7.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "because the steam function makes my hair a million times shinier.",
+    "text_english": "because the steam function makes my hair a million times shinier."
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 10.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm using the Wavytalk Pro Steam Hair Straightener.",
+    "text_english": "I'm using the Wavytalk Pro Steam Hair Straightener."
+   },
+   {
+    "start_s": 10.1,
+    "end_s": 13.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You fill up this water tank right here, and then this is where the steam is gonna come out of.",
+    "text_english": "You fill up this water tank right here, and then this is where the steam is gonna come out of."
+   },
+   {
+    "start_s": 13.5,
+    "end_s": 18.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's just a very fine amount of steam that's gonna help lock in the moisture in your hair follicle.",
+    "text_english": "It's just a very fine amount of steam that's gonna help lock in the moisture in your hair follicle."
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 22.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "As a curly hair girl, I was very skeptical about this tool because of the steam.",
+    "text_english": "As a curly hair girl, I was very skeptical about this tool because of the steam."
+   },
+   {
+    "start_s": 22.8,
+    "end_s": 27.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you have curly hair or even wavy hair, you know that steam and curly hair does not mix in the slightest.",
+    "text_english": "If you have curly hair or even wavy hair, you know that steam and curly hair does not mix in the slightest."
+   },
+   {
+    "start_s": 27.6,
+    "end_s": 32.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "But Danielle Athena co-created this tool with Wavytalk, and she has gorgeous long curly hair,",
+    "text_english": "But Danielle Athena co-created this tool with Wavytalk, and she has gorgeous long curly hair,"
+   },
+   {
+    "start_s": 32.3,
+    "end_s": 34.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "so if it works for her, I was like, you know what, I might as well give it a try.",
+    "text_english": "so if it works for her, I was like, you know what, I might as well give it a try."
+   },
+   {
+    "start_s": 34.8,
+    "end_s": 38.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm pressing and holding on the steam function button to get the steam rollin'.",
+    "text_english": "I'm pressing and holding on the steam function button to get the steam rollin'."
+   },
+   {
+    "start_s": 38.6,
+    "end_s": 41.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Starting at 2:32, you see a little bit of steam coming out,",
+    "text_english": "Starting at 2:32, you see a little bit of steam coming out,"
+   },
+   {
+    "start_s": 41.3,
+    "end_s": 50.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and you're just gonna use it as a regular straightening brush, and hold your hair, and then pull it down all the way to the end.",
+    "text_english": "and you're just gonna use it as a regular straightening brush, and hold your hair, and then pull it down all the way to the end."
+   },
+   {
+    "start_s": 50.0,
+    "end_s": 54.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And this is what you're left with, your hair perfectly straight and so hydrated.",
+    "text_english": "And this is what you're left with, your hair perfectly straight and so hydrated."
+   },
+   {
+    "start_s": 54.5,
+    "end_s": 59.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You can also really get into your roots with this brush because the prongs are protected against the heat,",
+    "text_english": "You can also really get into your roots with this brush because the prongs are protected against the heat,"
+   },
+   {
+    "start_s": 59.8,
+    "end_s": 64.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "so only the inner part of the prongs are heated and the outside is not, so you can put them right against your scalp.",
+    "text_english": "so only the inner part of the prongs are heated and the outside is not, so you can put them right against your scalp."
+   },
+   {
+    "start_s": 64.9,
+    "end_s": 73.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The first video that I made about this brush, I got so many comments on that video of girls with curly or wavy or just like kind of poofy textured hair telling me how amazing this straightener works for their hair,",
+    "text_english": "The first video that I made about this brush, I got so many comments on that video of girls with curly or wavy or just like kind of poofy textured hair telling me how amazing this straightener works for their hair,"
+   },
+   {
+    "start_s": 73.8,
+    "end_s": 79.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and I attribute all those comments to the steam function on this straightener brush.",
+    "text_english": "and I attribute all those comments to the steam function on this straightener brush."
+   },
+   {
+    "start_s": 79.2,
+    "end_s": 84.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Also with getting the back of your hair, I just take my hand and kind of feel it, and make sure that I got the back,",
+    "text_english": "Also with getting the back of your hair, I just take my hand and kind of feel it, and make sure that I got the back,"
+   },
+   {
+    "start_s": 84.5,
+    "end_s": 90.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and if I feel any bumps, I just do a quick little run through again, just like that to make sure I got the back.",
+    "text_english": "and if I feel any bumps, I just do a quick little run through again, just like that to make sure I got the back."
+   },
+   {
+    "start_s": 90.5,
+    "end_s": 97.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "That first section was literally so quick. It is 2:35, that is wild.",
+    "text_english": "That first section was literally so quick. It is 2:35, that is wild."
+   },
+   {
+    "start_s": 97.4,
+    "end_s": 101.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "All I have to say is that Danielle knew what she was doing when she made this brush.",
+    "text_english": "All I have to say is that Danielle knew what she was doing when she made this brush."
+   },
+   {
+    "start_s": 101.5,
+    "end_s": 106.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is hands down the fastest tool I have ever tried,",
+    "text_english": "This is hands down the fastest tool I have ever tried,"
+   },
+   {
+    "start_s": 106.1,
+    "end_s": 111.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and also you can just take such bigger chunkins- chunks of my hair.",
+    "text_english": "and also you can just take such bigger chunkins- chunks of my hair."
+   },
+   {
+    "start_s": 111.9,
+    "end_s": 117.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "We're down to the last section. I'm so excited to see the final results.",
+    "text_english": "We're down to the last section. I'm so excited to see the final results."
+   },
+   {
+    "start_s": 117.3,
+    "end_s": 125.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay. All right, let's check the time, let's check the time. It is 2:43.",
+    "text_english": "Okay. All right, let's check the time, let's check the time. It is 2:43."
+   },
+   {
+    "start_s": 125.0,
+    "end_s": 130.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at how shiny my hair came out! No other hair tool gives me the shine and the hydration that this one does.",
+    "text_english": "Look at how shiny my hair came out! No other hair tool gives me the shine and the hydration that this one does."
+   },
+   {
+    "start_s": 130.8,
+    "end_s": 135.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If your hair has any type of texture to it, I cannot recommend this tool enough. The link will be down below, check it out in the orange shopping cart.",
+    "text_english": "If your hair has any type of texture to it, I cannot recommend this tool enough. The link will be down below, check it out in the orange shopping cart."
+   }
+  ],
+  "transcript_full_original": "I was never really a huge fan of straightener brushes until I tried this one because the steam function makes my hair a million times shinier. I'm using the Wavytalk Pro Steam Hair Straightener. You fill up this water tank right here, and then this is where the steam is gonna come out of. It's just a very fine amount of steam that's gonna help lock in the moisture in your hair follicle. As a curly hair girl, I was very skeptical about this tool because of the steam. If you have curly hair or even wavy hair, you know that steam and curly hair does not mix in the slightest. But Danielle Athena co-created this tool with Wavytalk, and she has gorgeous long curly hair, so if it works for her, I was like, you know what, I might as well give it a try. I'm pressing and holding on the steam function button to get the steam rollin'. Starting at 2:32, you see a little bit of steam coming out, and you're just gonna use it as a regular straightening brush, and hold your hair, and then pull it down all the way to the end. And this is what you're left with, your hair perfectly straight and so hydrated. You can also really get into your roots with this brush because the prongs are protected against the heat, so only the inner part of the prongs are heated and the outside is not, so you can put them right against your scalp. The first video that I made about this brush, I got so many comments on that video of girls with curly or wavy or just like kind of poofy textured hair telling me how amazing this straightener works for their hair, and I attribute all those comments to the steam function on this straightener brush. Also with getting the back of your hair, I just take my hand and kind of feel it, and make sure that I got the back, and if I feel any bumps, I just do a quick little run through again, just like that to make sure I got the back. That first section was literally so quick. It is 2:35, that is wild. All I have to say is that Danielle knew what she was doing when she made this brush. This is hands down the fastest tool I have ever tried, and also you can just take such bigger chunkins- chunks of my hair. We're down to the last section. I'm so excited to see the final results. Okay. All right, let's check the time, let's check the time. It is 2:43. Look at how shiny my hair came out! No other hair tool gives me the shine and the hydration that this one does. If your hair has any type of texture to it, I cannot recommend this tool enough. The link will be down below, check it out in the orange shopping cart.",
+  "transcript_full_english": "I was never really a huge fan of straightener brushes until I tried this one because the steam function makes my hair a million times shinier. I'm using the Wavytalk Pro Steam Hair Straightener. You fill up this water tank right here, and then this is where the steam is gonna come out of. It's just a very fine amount of steam that's gonna help lock in the moisture in your hair follicle. As a curly hair girl, I was very skeptical about this tool because of the steam. If you have curly hair or even wavy hair, you know that steam and curly hair does not mix in the slightest. But Danielle Athena co-created this tool with Wavytalk, and she has gorgeous long curly hair, so if it works for her, I was like, you know what, I might as well give it a try. I'm pressing and holding on the steam function button to get the steam rollin'. Starting at 2:32, you see a little bit of steam coming out, and you're just gonna use it as a regular straightening brush, and hold your hair, and then pull it down all the way to the end. And this is what you're left with, your hair perfectly straight and so hydrated. You can also really get into your roots with this brush because the prongs are protected against the heat, so only the inner part of the prongs are heated and the outside is not, so you can put them right against your scalp. The first video that I made about this brush, I got so many comments on that video of girls with curly or wavy or just like kind of poofy textured hair telling me how amazing this straightener works for their hair, and I attribute all those comments to the steam function on this straightener brush. Also with getting the back of your hair, I just take my hand and kind of feel it, and make sure that I got the back, and if I feel any bumps, I just do a quick little run through again, just like that to make sure I got the back. That first section was literally so quick. It is 2:35, that is wild. All I have to say is that Danielle knew what she was doing when she made this brush. This is hands down the fastest tool I have ever tried, and also you can just take such bigger chunkins- chunks of my hair. We're down to the last section. I'm so excited to see the final results. Okay. All right, let's check the time, let's check the time. It is 2:43. Look at how shiny my hair came out! No other hair tool gives me the shine and the hydration that this one does. If your hair has any type of texture to it, I cannot recommend this tool enough. The link will be down below, check it out in the orange shopping cart.",
+  "word_count": 427,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 135.5,
+    "text": "[Continuous burned-in closed captions corresponding to speech]",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 7.3,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting in a bedroom chair with one side of her hair sleek and straightened and the other side bushy and curly, running the white Wavytalk brush through her hair.",
+    "action": "Glides the straightener brush down her hair section toward the camera while talking.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 18.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the white Wavytalk Pro Steam straightener close to the camera, pointing at the reservoir tank and the steam exhaust vents.",
+    "action": "Rotates device to show water chamber and points finger to steam holes along the bristles.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 27.6,
+    "shot_type": "medium shot",
+    "visual": "Creator sections the top part of her curly hair up with a pink scrunchie.",
+    "action": "Pins hair into a top half-bun and explains her skepticism as a curly girl.",
+    "product_visible": false
+   },
+   {
+    "start_s": 27.6,
+    "end_s": 34.8,
+    "shot_type": "medium shot",
+    "visual": "Creator detangles bottom section with a teal paddle brush while talking about Danielle Athena.",
+    "action": "Brushes out curls before heat styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 34.8,
+    "end_s": 38.6,
+    "shot_type": "close-up",
+    "visual": "Front view of the straightener brush handle showing button controls and indicator lights.",
+    "action": "Creator presses and holds the steam activation button.",
+    "product_visible": true
+   },
+   {
+    "start_s": 38.6,
+    "end_s": 40.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds up an iPad showing the lock screen clock displaying 2:32.",
+    "action": "Shows time stamp on screen to initiate timed demonstration.",
+    "product_visible": false
+   },
+   {
+    "start_s": 40.5,
+    "end_s": 50.0,
+    "shot_type": "medium shot",
+    "visual": "Creator runs the Wavytalk steam brush through a dense, textured hair section from root to tip.",
+    "action": "Glides brush down, transforming curly strand to completely straight and silky.",
+    "product_visible": true
+   },
+   {
+    "start_s": 50.0,
+    "end_s": 54.5,
+    "shot_type": "medium shot",
+    "visual": "Creator touches and displays the straightened section, smiling.",
+    "action": "Shows off pin-straight, hydrated result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 54.5,
+    "end_s": 64.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator demonstrates placing the brush directly against her scalp and root area.",
+    "action": "Shows how anti-scald outer prongs prevent burning while getting close to roots.",
+    "product_visible": true
+   },
+   {
+    "start_s": 64.9,
+    "end_s": 79.2,
+    "shot_type": "medium shot",
+    "visual": "Creator continues brushing sections while recounting viewer comments from her previous video.",
+    "action": "Brushes hair slowly down while looking at camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 79.2,
+    "end_s": 90.5,
+    "shot_type": "medium shot",
+    "visual": "Creator runs the brush behind her head to straighten back sections.",
+    "action": "Feels back with hand and does quick passes with the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 90.5,
+    "end_s": 97.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator shows the iPad screen again showing 2:35.",
+    "action": "Highlights that the first half took only 3 minutes.",
+    "product_visible": false
+   },
+   {
+    "start_s": 97.4,
+    "end_s": 111.9,
+    "shot_type": "medium shot",
+    "visual": "Creator lets down upper sections and takes large thick chunks with the brush.",
+    "action": "Straightens top layers in single passes, laughing at a verbal slip.",
+    "product_visible": true
+   },
+   {
+    "start_s": 111.9,
+    "end_s": 117.3,
+    "shot_type": "medium shot",
+    "visual": "Creator reaches the final top middle front section.",
+    "action": "Brushes the crown hair straight backwards and down.",
+    "product_visible": true
+   },
+   {
+    "start_s": 117.3,
+    "end_s": 125.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator drops hair down, ruffles it, and shows iPad lock screen displaying 2:43.",
+    "action": "Confirms total straightening time took 11 minutes.",
+    "product_visible": false
+   },
+   {
+    "start_s": 125.0,
+    "end_s": 135.5,
+    "shot_type": "medium shot",
+    "visual": "Creator shakes out fully straightened, glossy dark hair, holding the tool up.",
+    "action": "Runs fingers through silky hair, holds brush, and points to the link below.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator actively running the white steam straightening brush through her long hair, with half curly and half straight.",
+   "visual_0_3s": "Immediate live motion of the straightening brush gliding through thick hair showing instant smoothing.",
+   "spoken_0_3s": "I was never really a huge fan of straightener brushes until I tried this one",
+   "text_0_3s": "I was never really a huge fan of straightener brushes until I tried this one",
+   "hook_type": "before_after",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Split comparison visible immediately on creator's head: one half bushy curly, other half pin-straight and glossy."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: skepticism turned into belief due to steam gloss effect",
+    "Feature walkthrough: water tank, steam output, safety anti-scald prongs",
+    "Credibility/Backstory: co-created with curly influencer Danielle Athena",
+    "Proof of speed: timed challenge using iPad clock (2:32 PM start)",
+    "Technique demonstration: root-to-end brushing, tackling back of head",
+    "Mid-point check-in: 3 minutes elapsed for first layer",
+    "Final reveal: complete sleek look at 2:43 PM (11 minutes total)",
+    "Final endorsement and CTA to buy via link"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "easy_for_beginners",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Steam locks in moisture in hair follicles",
+    "Makes hair a million times shinier than standard brushes",
+    "Prongs are heat-protected on the outside so they do not burn the scalp",
+    "Straightens entire head of thick curly hair in 11 minutes",
+    "Allows styling large thick chunks at once"
+   ],
+   "pain_points": [
+    "Straightening brushes snagging or not smoothing coarse curly hair",
+    "Burning scalp with hot flat irons or brushes near roots",
+    "Straightening taking forever on thick poofy hair",
+    "Dry, frizzy, lack-of-shine finish from dry heat tools"
+   ],
+   "objections_handled": [
+    "Steam will make curly hair frizz up (refuted: fine steam locks hydration without puffing)",
+    "Can't get close to the roots (refuted: outer cool-touch prongs protect scalp)",
+    "It takes too long (refuted: entire head finished in 11 minutes)"
+   ],
+   "social_proof": [
+    "Co-created by curly hair creator Danielle Athena",
+    "Previous viral video received flood of positive comments from curly/poofy-haired women"
+   ],
+   "comparison_to": "Traditional non-steam straightening brushes and standard flat irons"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Pro Steam Hair Straightener (Steambrush Pro)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 125.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "The link will be down below, check it out in the orange shopping cart.",
+   "cta_on_screen": "",
+   "cta_at_s": 133.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Dark brown, thick, long, bushy curly/textured",
+   "hair_after": "Ultra-glossy, pin-straight, sleek dark brown",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, energetic, authentic, excited"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "None, natural speaking audio with brush passing sounds",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 9.7,
+   "pacing": "medium",
+   "effects": [
+    "Jump cuts between sections",
+    "Burned-in word subtitles",
+    "Real-time clock verification via tablet"
+   ],
+   "ending": "Creator presents full sleek hair result, displays tool, and gives CTA to click shopping cart."
+  },
+  "notes": "Authentic TikTok Shop style UGC video for Wavytalk Pro Steam Straightener. Extremely convincing timed demo proof format (iPad clock proof at 2:32, 2:35, and 2:43 PM)."
+ }
+}

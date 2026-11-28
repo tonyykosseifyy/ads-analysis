@@ -1,0 +1,179 @@
+{
+ "media_key": "v_4647758058827326",
+ "analyzed_at": "2026-11-28T00:11:59+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "733a66c263a1873ab90313a22816d2ba65090b4717249e1219231d771811df53",
+ "source": {
+  "kind": "video",
+  "id": "4647758058827326",
+  "video_id": "1421563103428379",
+  "length_s": 43.876,
+  "permalink": "/23849366283980795/videos/1421563103428379/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 43.7,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator showcases a 5-minute blowout result and quick styling demo using the pink thermal round brush set to Arabic pop music.",
+  "full_description": "The video opens with a creator displaying her voluminous layered ash-blonde blowout in front of a white closet, accompanied by the text overlay '5 min Blowout ✨💇🏼‍♀️'. At 6.8s, she presents the pink Wavytalk thermal round brush (Blowout Boost) to the camera and demonstrates curling her hair inward in smooth strokes. The ad cuts between styling sections and concludes with her fluffing her roots, admiring the bouncy results, and smiling at the camera. There is no spoken audio, only background Arabic music.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 12.2,
+    "text": "5 min Blowout ✨💇🏼‍♀️",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.8,
+    "shot_type": "medium shot selfie",
+    "visual": "Creator facing camera in front of white panel doors in a grey athletic crop top, touching and displaying her styled blowout hair.",
+    "action": "Posing, touching hair layers, showing finished blowout texture.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 12.8,
+    "shot_type": "medium shot selfie",
+    "visual": "Creator displays the pink thermal round brush tool, then brings it to her hair ends.",
+    "action": "Holds up the heated round brush to camera, inserts it under hair strand, and rolls inward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 19.8,
+    "shot_type": "medium shot selfie",
+    "visual": "Creator styling mid-lengths and ends of hair with the thermal brush.",
+    "action": "Rolling the brush downwards and curling the bottom layers inwards.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 25.5,
+    "shot_type": "medium shot selfie",
+    "visual": "Creator using the thermal brush on front layers on the other side.",
+    "action": "Twisting the brush through hair ends to create a soft flipped-in curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 29.5,
+    "shot_type": "medium shot selfie",
+    "visual": "Creator putting tool down and fluffing hair with both hands.",
+    "action": "Running hands through ends to separate curls and demonstrate bounce.",
+    "product_visible": false
+   },
+   {
+    "start_s": 29.5,
+    "end_s": 43.7,
+    "shot_type": "medium shot selfie",
+    "visual": "Creator running fingers through root area and admiring the final bouncy blowout look.",
+    "action": "Lifting crown sections, fixing face-framing strands, smiling into lens.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Young woman with ash blonde layered hair facing camera with text overlay '5 min Blowout ✨💇🏼‍♀️'.",
+   "visual_0_3s": "Creator runs hand through glossy, voluminous hair, displaying finished salon results immediately.",
+   "spoken_0_3s": "",
+   "text_0_3s": "5 min Blowout ✨💇🏼‍♀️",
+   "hook_type": "result_first",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Immediate presentation of a finished aesthetic blowout paired with a fast 5-minute promise text."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Result-first display of bouncy blowout hair",
+    "Tool reveal to camera",
+    "Demonstration of curling ends inward using heated round brush",
+    "Final styling, fluffing roots, and admiring the result"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "5 min Blowout"
+   ],
+   "pain_points": [
+    "Time-consuming blowouts",
+    "Difficulty coordinating traditional blow dryer and round brush"
+   ],
+   "objections_handled": [
+    "Ease of achieving salon curls at home"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 6.8,
+   "first_used_on_hair_s": 7.6,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Medium-long layered ash blonde hair with darker roots, mostly pre-styled",
+   "hair_after": "Bouncy, voluminous layered 90s blowout with curled inward ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "aesthetic, effortless, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Upbeat modern Arabic pop song with female vocals",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 8.7,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator posing, fluffing front fringe layers, smiling into camera"
+  },
+  "notes": "Silent UGC aesthetic demonstration showcasing the Blowout Boost heated round brush set to popular Arabic music. Text sticker '5 min Blowout ✨💇🏼‍♀️' serves as the single hook overlay."
+ }
+}

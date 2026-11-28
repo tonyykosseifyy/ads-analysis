@@ -1,0 +1,147 @@
+{
+ "media_key": "i_a7900084abac8ab8c19d7a8c1579b749",
+ "analyzed_at": "2026-11-28T00:11:46+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "3f845a7f57f74fc7041a58aa0a0b4abf7effe1a2be072b2336cde0bd75dfb802",
+ "source": {
+  "kind": "image",
+  "id": "a7900084abac8ab8c19d7a8c1579b749"
+ },
+ "role": "rotating",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "Receipt-style Black Friday promotional graphic offering 35% off the Wavytalk Whirlwind Curl Airflow Styler and Straightener at $71.10.",
+  "full_description": "A square static promotional ad formatted as a printed white receipt against a textured dark purple/maroon background. The receipt header features the Wavytalk logo, 'Black Friday', and the discounted price and deal: '$71.10 | 35% OFF'. The receipt body lists the line item 'WHIRLWIND CURL Airflow Styler and Straightener' with a quantity of 1, accompanied by a high-resolution vertical cutout of the light pink airflow styler device. A dark purple circular sticker on the right reads 'TODAY ONLY'. Portions of other paper receipts and barcodes peek in from the corners.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK\nBlack Friday\n$71.10 | 35% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "ITEM QTY\nWHIRLWIND CURL\nAirflow Styler and Straightener 1",
+    "role": "benefit"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "TODAY ONLY",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "product shot",
+    "visual": "A graphic design composition showing a white paper receipt on a dark wine-red textured background with barcode slips on the left and another receipt corner on the bottom right. In the center of the receipt sits a studio cutout of the pale pink Wavytalk Whirlwind Curl Airflow Styler and Straightener, with a 'TODAY ONLY' circular badge to its right.",
+    "action": "Static image presentation of Black Friday price cut for Whirlwind Curl.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "White paper receipt graphic displaying 'WAVYTALK Black Friday $71.10 | 35% OFF' with pink Whirlwind Curl tool.",
+   "visual_0_3s": "White paper receipt graphic displaying 'WAVYTALK Black Friday $71.10 | 35% OFF' with pink Whirlwind Curl tool.",
+   "spoken_0_3s": "",
+   "text_0_3s": "WAVYTALK Black Friday $71.10 | 35% OFF",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "none",
+   "pattern_interrupt": "Receipt bill visual layout with stark bold discount and pricing."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Black Friday discount announcement",
+    "Product showcase with direct price and percentage off",
+    "Urgency trigger (TODAY ONLY badge)"
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "price_value_vs_dyson"
+   ],
+   "key_claims": [
+    "35% OFF discount",
+    "Special Black Friday price of $71.10",
+    "Limited time offer: Today Only"
+   ],
+   "pain_points": [
+    "High price of premium airflow stylers"
+   ],
+   "objections_handled": [
+    "Affordability/pricing"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Whirlwind Curl Airflow Styler and Straightener"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "35% OFF for Black Friday ($71.10)",
+   "price_mentioned": "$71.10",
+   "discount_code": "",
+   "urgency": "TODAY ONLY",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "studio",
+   "faces_camera": false,
+   "energy_tone": ""
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [
+    "digital illustration",
+    "receipt graphic overlay"
+   ],
+   "ending": "Static end frame"
+  },
+  "notes": "Static ad creative utilizing a shopping receipt motif for Black Friday promotion."
+ }
+}

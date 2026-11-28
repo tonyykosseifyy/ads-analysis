@@ -1,0 +1,419 @@
+{
+ "media_key": "v_1493518362684290",
+ "analyzed_at": "2026-11-28T00:26:18+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "3670834640753f27fd89fa94f45a411ccba04053dc5a2be8b1fe36d99166affa",
+ "source": {
+  "kind": "video",
+  "id": "1493518362684290",
+  "video_id": "2100567070650040",
+  "length_s": 55.066,
+  "permalink": "/23849366283980795/videos/2100567070650040/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 55,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator creates a Coachella festival-ready wavy hairstyle in under 10 minutes using the WavyTalk Power Wave waver.",
+  "full_description": "The video starts with the creator showcasing her finished half-up wavy hairstyle before testing if she can achieve festival-ready hair in under 10 minutes using the pink WavyTalk Power Wave. She shows her straight, flat starting hair, sets the waver's temperature and timer display, and demonstrates clamping sections until the automated beep alerts her to release. She explains the deep V-barrel design, negative ion vent, and anti-frizz benefits in festival heat, notes WavyTalk's official partnership with Coachella, and shows the dramatic before-and-after transformation.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay, Coachella hair in under 10 minutes? Let's test it.",
+    "text_english": "Okay, Coachella hair in under 10 minutes? Let's test it."
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 6.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is my starting hair. Zero texture, very much giving she needs some Coachella-fying.",
+    "text_english": "This is my starting hair. Zero texture, very much giving she needs some Coachella-fying."
+   },
+   {
+    "start_s": 6.7,
+    "end_s": 9.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is where the WavyTalk Power Wave comes in.",
+    "text_english": "This is where the WavyTalk Power Wave comes in."
+   },
+   {
+    "start_s": 9.2,
+    "end_s": 13.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "First of all, I love that you can fully adjust the settings. I set mine to 360 degrees",
+    "text_english": "First of all, I love that you can fully adjust the settings. I set mine to 360 degrees"
+   },
+   {
+    "start_s": 13.4,
+    "end_s": 16.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and you can adjust the timer too. I did mine at 4 seconds.",
+    "text_english": "and you can adjust the timer too. I did mine at 4 seconds."
+   },
+   {
+    "start_s": 16.2,
+    "end_s": 19.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It literally beeps when it's ready, so you're never guessing.",
+    "text_english": "It literally beeps when it's ready, so you're never guessing."
+   },
+   {
+    "start_s": 19.3,
+    "end_s": 21.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You're always left with the perfect loose wave.",
+    "text_english": "You're always left with the perfect loose wave."
+   },
+   {
+    "start_s": 21.4,
+    "end_s": 24.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Clamp, wait for the beep, release. That's it.",
+    "text_english": "Clamp, wait for the beep, release. That's it."
+   },
+   {
+    "start_s": 24.1,
+    "end_s": 26.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Look at that wave! It's giving instant texture.",
+    "text_english": "Look at that wave! It's giving instant texture."
+   },
+   {
+    "start_s": 26.6,
+    "end_s": 30.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The deep V barrels give you that lift at the root instead of crimped flat-looking hair.",
+    "text_english": "The deep V barrels give you that lift at the root instead of crimped flat-looking hair."
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 33.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's loose, it's bouncy, she's giving festival ready.",
+    "text_english": "It's loose, it's bouncy, she's giving festival ready."
+   },
+   {
+    "start_s": 33.3,
+    "end_s": 37.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And it has negative ion vent, so everything stays smooth and shiny, zero frizz,",
+    "text_english": "And it has negative ion vent, so everything stays smooth and shiny, zero frizz,"
+   },
+   {
+    "start_s": 37.0,
+    "end_s": 39.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "which is major because festival heat is no joke.",
+    "text_english": "which is major because festival heat is no joke."
+   },
+   {
+    "start_s": 39.5,
+    "end_s": 43.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And I love that WavyTalk was announced as Coachella's exclusive hair tool partner this year,",
+    "text_english": "And I love that WavyTalk was announced as Coachella's exclusive hair tool partner this year,"
+   },
+   {
+    "start_s": 43.4,
+    "end_s": 46.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "which makes so much sense because this literally was made for festival hair.",
+    "text_english": "which makes so much sense because this literally was made for festival hair."
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 49.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay, but we cannot ignore this amazing hair transformation,",
+    "text_english": "Okay, but we cannot ignore this amazing hair transformation,"
+   },
+   {
+    "start_s": 49.3,
+    "end_s": 51.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "from flat and freshly washed",
+    "text_english": "from flat and freshly washed"
+   },
+   {
+    "start_s": 51.5,
+    "end_s": 53.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "to full textured desert goddess.",
+    "text_english": "to full textured desert goddess."
+   },
+   {
+    "start_s": 53.3,
+    "end_s": 55.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And we did it under 10 minutes.",
+    "text_english": "And we did it under 10 minutes."
+   }
+  ],
+  "transcript_full_original": "Okay, Coachella hair in under 10 minutes? Let's test it. This is my starting hair. Zero texture, very much giving she needs some Coachella-fying. This is where the WavyTalk Power Wave comes in. First of all, I love that you can fully adjust the settings. I set mine to 360 degrees and you can adjust the timer too. I did mine at 4 seconds. It literally beeps when it's ready, so you're never guessing. You're always left with the perfect loose wave. Clamp, wait for the beep, release. That's it. Look at that wave! It's giving instant texture. The deep V barrels give you that lift at the root instead of crimped flat-looking hair. It's loose, it's bouncy, she's giving festival ready. And it has negative ion vent, so everything stays smooth and shiny, zero frizz, which is major because festival heat is no joke. And I love that WavyTalk was announced as Coachella's exclusive hair tool partner this year, which makes so much sense because this literally was made for festival hair. Okay, but we cannot ignore this amazing hair transformation, from flat and freshly washed to full textured desert goddess. And we did it under 10 minutes.",
+  "transcript_full_english": "Okay, Coachella hair in under 10 minutes? Let's test it. This is my starting hair. Zero texture, very much giving she needs some Coachella-fying. This is where the WavyTalk Power Wave comes in. First of all, I love that you can fully adjust the settings. I set mine to 360 degrees and you can adjust the timer too. I did mine at 4 seconds. It literally beeps when it's ready, so you're never guessing. You're always left with the perfect loose wave. Clamp, wait for the beep, release. That's it. Look at that wave! It's giving instant texture. The deep V barrels give you that lift at the root instead of crimped flat-looking hair. It's loose, it's bouncy, she's giving festival ready. And it has negative ion vent, so everything stays smooth and shiny, zero frizz, which is major because festival heat is no joke. And I love that WavyTalk was announced as Coachella's exclusive hair tool partner this year, which makes so much sense because this literally was made for festival hair. Okay, but we cannot ignore this amazing hair transformation, from flat and freshly washed to full textured desert goddess. And we did it under 10 minutes.",
+  "word_count": 181,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "text": "COACHELLA HAIR in under 10 minutes with WavyTalk Power Wave",
+    "role": "hook"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 55.0,
+    "text": "Burned-in word-level dynamic animated captions of the voiceover speech",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 0.9,
+    "shot_type": "medium close-up",
+    "visual": "Blonde creator showing her profile and styled wavy hair.",
+    "action": "Creator turns her head to show the full textured wave hairstyle.",
+    "product_visible": false
+   },
+   {
+    "start_s": 0.9,
+    "end_s": 2.8,
+    "shot_type": "medium shot",
+    "visual": "Creator holds up the pink WavyTalk Power Wave waver in front of her styled hair.",
+    "action": "Creator introduces the tool and hooks the audience with the 10-minute challenge.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 6.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator before styling, showing her straight, limp hair.",
+    "action": "Creator runs hands through flat straight hair to demonstrate lack of texture.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.7,
+    "end_s": 8.9,
+    "shot_type": "close-up",
+    "visual": "Close-up of the pink WavyTalk Power Wave waver tool.",
+    "action": "Creator holds the waver up to the camera showing the digital screen and logo.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.9,
+    "end_s": 13.4,
+    "shot_type": "macro close-up",
+    "visual": "Close-up of the handle with digital circular LED display showing temperature and timer settings.",
+    "action": "A hand adjusts the button to set the temperature to 360°F and 4s timer.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.4,
+    "end_s": 19.3,
+    "shot_type": "medium shot",
+    "visual": "Creator clamping a section of her hair at the top roots using the Power Wave.",
+    "action": "Creator clamps hair, holds for the 4-second beep countdown, and steps down.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.3,
+    "end_s": 26.6,
+    "shot_type": "close-up",
+    "visual": "Creator clamping down mid-shaft to ends, showing deep S-waves being formed.",
+    "action": "Creator clamps and releases, revealing crisp, voluminous waves.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.6,
+    "end_s": 30.5,
+    "shot_type": "close-up b-roll",
+    "visual": "Close-up shot of the internal heated deep V ceramic plates and vents against a houseplant background.",
+    "action": "Camera tilts up showcasing the barrel curvature and inner plates.",
+    "product_visible": true
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 33.3,
+    "shot_type": "medium shot",
+    "visual": "Creator waving the bottom sections of her hair while the top half is pinned up with a claw clip.",
+    "action": "Creator demonstrates the easy styling motion on lower layers.",
+    "product_visible": true
+   },
+   {
+    "start_s": 33.3,
+    "end_s": 36.9,
+    "shot_type": "medium shot",
+    "visual": "Creator smiles excitedly, runs fingers through finished bouncy waves, and gathers top section.",
+    "action": "Creator shows off the shine and movement, then gathers hair into a half-up ponytail.",
+    "product_visible": false
+   },
+   {
+    "start_s": 36.9,
+    "end_s": 46.5,
+    "shot_type": "medium shot",
+    "visual": "Creator finishes braiding small front face-framing accent braids.",
+    "action": "Creator styles boho accent braids into the wavy hair while explaining the festival partnership.",
+    "product_visible": false
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 48.9,
+    "shot_type": "medium shot",
+    "visual": "Creator holds the WavyTalk Power Wave next to her finished styled festival hair.",
+    "action": "Creator poses with the product smiling.",
+    "product_visible": true
+   },
+   {
+    "start_s": 48.9,
+    "end_s": 51.0,
+    "shot_type": "medium close-up",
+    "visual": "Before shot: Creator showing flat, straight, unstyled hair.",
+    "action": "Creator fluffs flat starting hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 51.0,
+    "end_s": 55.0,
+    "shot_type": "medium shot",
+    "visual": "After shot: Completed voluminous textured festival wavy hair with braids and half-up top.",
+    "action": "Creator smiles, shakes hair, and does a kiss face with hands framing her face.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Blonde woman with gorgeous textured waves turning her head, with prominent title text 'COACHELLA HAIR'.",
+   "visual_0_3s": "Finished hair result shown first, then creator poses holding the pink WavyTalk Power Wave tool.",
+   "spoken_0_3s": "Okay, Coachella hair in under 10 minutes? Let's test it.",
+   "text_0_3s": "COACHELLA HAIR in under 10 minutes with WavyTalk Power Wave",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Starts with finished glamorous festival hair and a quick 10-minute speed test promise."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook with end result and 10-minute time challenge.",
+    "Show flat before-hair needing festival volume and texture.",
+    "Introduce WavyTalk Power Wave and highlight custom heat/timer beep feature.",
+    "Demonstrate clamping and automated beep release mechanism.",
+    "Highlight deep V barrel design and negative ion vent preventing frizz in heat.",
+    "Social proof mention: Official Coachella hair partner.",
+    "Direct before-and-after side-by-side comparison under 10 minutes."
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "social_proof_popularity",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Coachella festival hair in under 10 minutes",
+    "Adjustable temperature and timer with automatic beep so you never guess",
+    "Deep V barrels provide root lift instead of crimped flat hair",
+    "Negative ion vent keeps hair smooth, shiny, and frizz-free in heat",
+    "Official exclusive hair tool partner of Coachella"
+   ],
+   "pain_points": [
+    "Flat, lifeless hair with zero texture",
+    "Guessing how long to hold hot irons on hair and burning it",
+    "Crimpers leaving flat, unnatural crimps rather than bouncy waves",
+    "Frizz and humidity ruining hairstyles in festival heat"
+   ],
+   "objections_handled": [
+    "Takes too long to do thick long hair (done in under 10 minutes)",
+    "Unsure how long to hold heat (timer beeps automatically)",
+    "Hair will look crimped or frizzy (deep V barrels and negative ions keep it sleek and bouncy)"
+   ],
+   "social_proof": [
+    "Announced as Coachella's exclusive hair tool partner this year"
+   ],
+   "comparison_to": "Traditional crimpers that leave flat-looking crimped hair"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Power Wave"
+   ],
+   "first_seen_s": 0.9,
+   "first_used_on_hair_s": 13.4,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, straight, flat, blonde hair without texture",
+   "hair_after": "Voluminous, deep S-waves styled in a boho half-up high pony with accent face-framing braids",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Upbeat, energetic, enthusiastic, and confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle upbeat ambient background electronic pop music underneath clear creator voiceover",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 3.9,
+   "pacing": "fast",
+   "effects": [
+    "Word-by-word dynamic animated text captions",
+    "B-roll detail inserts",
+    "Quick cut before/after transformation montage"
+   ],
+   "ending": "Creator framing face with hands and blowing a kiss showing the finished festival wavy look."
+  },
+  "notes": "Ad utilizes high seasonal interest around Coachella and festival season styling to drive demand for the WavyTalk Power Wave, emphasizing quick styling and anti-frizz performance."
+ }
+}

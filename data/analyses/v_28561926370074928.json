@@ -1,0 +1,178 @@
+{
+ "media_key": "v_28561926370074928",
+ "analyzed_at": "2026-11-28T00:10:57+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "62823563aa6e46872d36132703d808b512251bbde103cb4cb78cd119f0e20c16",
+ "source": {
+  "kind": "video",
+  "id": "28561926370074928",
+  "video_id": "1356340806016051",
+  "length_s": 18.97,
+  "permalink": "/23849366283980795/videos/1356340806016051/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 18.57,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A young woman styles her long dark hair using the pink WavyTalk thermal brush to achieve a voluminous, bouncy summer blowout.",
+  "full_description": "The video features a young woman styling her long dark hair using a pink WavyTalk thermal round brush (Blowout Boost). Set to trending music with a persistent on-screen text hook ('you want big bouncy blowout hair for your unplanned summer nights'), she demonstrates curling sections of hair, lifting the top front section for volume, and finally revealing full, bouncy, salon-quality blowout results.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 18.57,
+    "text": "you want big bouncy blowout hair\nfor your unplanned summer nights\n🌴🍹🌅🍝",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "medium close-up",
+    "visual": "Young woman rolling the pink heated round brush through a lower strand of long dark hair.",
+    "action": "Creator glides the brush down a strand and wraps the hair around the barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 4.5,
+    "shot_type": "medium shot",
+    "visual": "Creator facing camera, top section of hair tied up in a half bun, examining curled section.",
+    "action": "She twirls the freshly curled strand around her finger to show bounce.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 6.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the brush at an angle near the lower ends of her hair.",
+    "action": "Curling another section of hair with the thermal brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 12.8,
+    "shot_type": "medium shot",
+    "visual": "Creator facing camera, brushing and rotating the thermal brush through front sections of hair.",
+    "action": "Brushing through and rolling sections to add curl and volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 15.5,
+    "shot_type": "medium shot",
+    "visual": "Creator curling her top front bangs section upwards and backward.",
+    "action": "Rolling the brush at the roots backwards to create crown volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.5,
+    "end_s": 18.57,
+    "shot_type": "medium shot",
+    "visual": "Creator running her hands through full, voluminous, styled blowout hair.",
+    "action": "Shaking out her hair, posing, and smiling at the camera showing the finished look.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator shown from the side curling a long black hair strand with a pink round thermal brush.",
+   "visual_0_3s": "Creator curling her hair with the heated brush and showing the resulting bounce with her fingers.",
+   "spoken_0_3s": "",
+   "text_0_3s": "you want big bouncy blowout hair for your unplanned summer nights 🌴🍹🌅🍝",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Quick rhythmic cuts syncing styling actions to the upbeat trending music."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Relatable summer hook text overlay",
+    "Quick demo shots wrapping and curling hair with the thermal brush",
+    "Crown/bangs styling for maximum lift",
+    "Dramatic voluminous hair reveal"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Creates big, bouncy blowout hair quickly for nights out"
+   ],
+   "pain_points": [
+    "Getting ready quickly for unplanned summer nights",
+    "Achieving salon-level blowout volume at home"
+   ],
+   "objections_handled": [
+    "Easy and quick to do on long, thick hair by yourself"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush (Pink)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 15.5,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, dark brown/black, straight to slightly wavy",
+   "hair_after": "Voluminous blowout with soft layered waves and flipped bangs",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, aesthetic, effortless"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Female pop vocal singing 'Never ending midnight' over an energetic electronic beat",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 3.1,
+   "pacing": "fast",
+   "effects": [
+    "Quick cuts synced to music beat"
+   ],
+   "ending": "Final pose admiring voluminous hair results facing camera"
+  },
+  "notes": "Classic UGC visual trend ad relying entirely on relatable lifestyle hook overlay, aesthetics, trending sound, and clear visual transformation without spoken audio."
+ }
+}

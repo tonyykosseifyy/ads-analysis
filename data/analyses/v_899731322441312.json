@@ -1,0 +1,195 @@
+{
+ "media_key": "v_899731322441312",
+ "analyzed_at": "2026-11-28T01:23:03+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "502ddeea118ec19be193485f2118d6145cb2af3f83e381bdfcf51d249a725d1d",
+ "source": {
+  "kind": "video",
+  "id": "899731322441312",
+  "video_id": "1680541926648221",
+  "length_s": 17.366,
+  "permalink": "/23849366283980795/videos/1680541926648221/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 16.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A fast-paced montage of multiple women demonstrating the dramatic, instant straightening results of a thermal heated straightening brush on curly and coily hair.",
+  "full_description": "A UGC compilation set to Elton John's 'Rocket Man' showcasing multiple creators with thick, curly, and textured hair using a heated straightening brush. The video features before-and-after results in single glides, highlighting smooth, sleek, silky finishes and genuine shocked reactions from the creators, framed with the caption 'Propaganda I AM falling for: These results.'",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 16.5,
+    "text": "Propaganda I AM falling for:\nThese results.",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.0,
+    "shot_type": "medium shot",
+    "visual": "A young Black woman with voluminous curly hair stands facing the camera holding a pink thermal straightening brush.",
+    "action": "She looks at the camera with an expressive face and holds up the styling tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 4.5,
+    "shot_type": "medium shot",
+    "visual": "Same woman sections a piece of her kinky-curly hair and passes the pink heated brush through it.",
+    "action": "She glides the brush down from root to tip, immediately transforming the hair into sleek, straight strands.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 7.3,
+    "shot_type": "medium close-up",
+    "visual": "A brunette woman with half of her hair frizzy and voluminous and the other half silky straight.",
+    "action": "She smiles at the camera as she slides a white hair styling tool through a strand of hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 9.5,
+    "shot_type": "close-up",
+    "visual": "Close-up profile of a woman with curly hair pulling the pink straightening brush down a taut section of hair.",
+    "action": "The comb passes through, revealing instantly smooth, glossy, pin-straight hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 11.4,
+    "shot_type": "medium close-up",
+    "visual": "A woman wearing a pink hoodie touches a newly straightened front section of her otherwise natural afro-textured hair.",
+    "action": "She covers her mouth and turns her head in shock and awe at how sleek the section is.",
+    "product_visible": false
+   },
+   {
+    "start_s": 11.4,
+    "end_s": 15.3,
+    "shot_type": "extreme close-up",
+    "visual": "Macro view of textured, coarse hair entering the heated pink comb brush and emerging perfectly flat, shiny, and curved at the tip.",
+    "action": "The brush moves slowly through the hair section, providing a clear demonstration of single-pass straightening.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.3,
+    "end_s": 16.5,
+    "shot_type": "medium close-up",
+    "visual": "The woman from the previous shot gasps and opens her mouth in pure amazement looking directly at the camera.",
+    "action": "She reacts in disbelief to the outcome of her hair straightening.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "A creator with textured curls holding a pink thermal straightening brush with on-screen text 'Propaganda I AM falling for: These results.'",
+   "visual_0_3s": "The creator immediately runs the heated brush down a curl, instantly leaving it straight and smooth.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Propaganda I AM falling for:\nThese results.",
+   "hook_type": "result_first",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "Instant transformation of curly/textured hair to silky straight in a single comb pass within the first 2 seconds."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook with relatable trend text and single-pass straightening demo on curly hair",
+    "Montage of multiple different creators with different hair textures getting smooth, salon-straight results",
+    "Extreme close-up proving single-glide efficiency on coarse hair",
+    "Shocked, impressed reaction confirming the hype is real"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "saves_time",
+    "social_proof_popularity"
+   ],
+   "key_claims": [
+    "Straightens curly and textured hair in a single pass",
+    "Provides sleek, silky, frizz-free results",
+    "The viral hype/propaganda results are completely genuine"
+   ],
+   "pain_points": [
+    "Difficult-to-straighten curly and coily hair",
+    "Time-consuming flat ironing",
+    "Frizz and lack of shine"
+   ],
+   "objections_handled": [
+    "Does it actually work on textured 3C/4C hair? (Shown working immediately on various curly/coily hair types in close-up)"
+   ],
+   "social_proof": [
+    "Multiple user demonstrations compiled into one viral trend montage",
+    "Genuine amazed facial expressions"
+   ],
+   "comparison_to": "Traditional slow flat irons / viral TikTok hair tools"
+  },
+  "product": {
+   "products_shown": [
+    "Thermal Straightening Brush / Comb (Pink)",
+    "Thermal Straightening Comb (White)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 1.0,
+   "final_result_shown_s": 2.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 4,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Thick, frizzy, curly and coily natural hair",
+   "hair_after": "Ultra-sleek, smooth, glossy straightened hair",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "impressed, amazed, viral aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Elton John's 'Rocket Man' chorus playing in the background.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 3.3,
+   "pacing": "fast",
+   "effects": [
+    "TikTok text overlay sticker",
+    "multi-clip compilation edit"
+   ],
+   "ending": "Creator reacting with wide open mouth and shocked facial expression looking at camera."
+  },
+  "notes": "Classic UGC compilation ad capitalizing on viral TikTok sound and trend format ('propaganda I am falling for') demonstrating multi-texture hair straightening efficiency."
+ }
+}

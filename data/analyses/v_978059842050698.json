@@ -1,0 +1,179 @@
+{
+ "media_key": "v_978059842050698",
+ "analyzed_at": "2026-11-28T00:25:57+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "fa685ba14bd6ca3ae6e37ca63d3bae400756745424a930e6685f157a89250d80",
+ "source": {
+  "kind": "video",
+  "id": "978059842050698",
+  "ig_media_id": "18079801466447721",
+  "permalink": "https://www.instagram.com/p/DgDtxZqM9w-/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 21.14,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A woman demonstrates curling her long straight hair into bouncy, defined curls using the pink WavyTalk Whirlwind Curl in a bathroom demo set to music.",
+  "full_description": "A creator starts by showing her long, straight-to-wavy brunette hair from behind, followed by a fast transition to her sectioning her hair in a bathroom. A partner peeks in the background door and makes her laugh. She then demonstrates how to use the pink WavyTalk Whirlwind Curl tool on multiple sections of her hair, clamping, wrapping, and gliding down to create bouncy spiral curls. She smiles proudly after releasing each curl. The video concludes with the full finished hairstyle, displaying voluminous, shiny bouncy curls from the front and back, finishing with a smile and blowing a kiss to the camera.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "shot_type": "medium shot, rear view",
+    "visual": "Creator stands facing away from the camera in a bathroom, showing her long straight brunette hair before styling.",
+    "action": "She tosses and shakes her straight hair with both hands, followed by a quick zoom blur transition.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 4.5,
+    "shot_type": "medium close-up, front-facing",
+    "visual": "Creator faces the mirror/camera, clipping the top section of her hair up.",
+    "action": "As she pins her hair, a man peeks his head through the bathroom door in the background; she turns, notices, and laughs warmly.",
+    "product_visible": false
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 7.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the pink WavyTalk Whirlwind Curl tool to a section of her hair.",
+    "action": "She clamps and rotates the iron, gliding it downward along the strand, then releases a tight, glossy spiral curl and displays it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 11.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator curls another section from the upper side of her head.",
+    "action": "She glides the pink styler down the section, curls it around, releases another perfect curl, smiles widely, and playfully tugs the curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.4,
+    "end_s": 15.3,
+    "shot_type": "medium close-up, slight side angle",
+    "visual": "Creator works on the lower/back section of her hair.",
+    "action": "She inserts a hair strand into the iron, slides it through smoothly, and drops out another styled curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.3,
+    "end_s": 17.0,
+    "shot_type": "close-up",
+    "visual": "Creator styles a front face-framing piece.",
+    "action": "She glides the styler downward and curls the front section away from her face.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.0,
+    "end_s": 21.14,
+    "shot_type": "medium shot",
+    "visual": "Full final result showcase in the bathroom.",
+    "action": "Creator beams at the camera showing her completed head of voluminous bouncy curls, spins to showcase the back, turns around with a smile, and blows a kiss to the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator viewed from behind in a bathroom showing her straight, waist-length brunette hair.",
+   "visual_0_3s": "Creator shakes out her straight hair from behind, fast zoom transition into sectioning her hair while laughing at someone peeking into the bathroom.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "before_after",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "A quick visual zoom blur cut followed by an unexpected funny cameo of someone peeking around the doorway."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Before hair state display (straight hair)",
+    "Sectioning and playful candid moment",
+    "Demonstrating the curling technique step by step",
+    "Immediate curl results and reaction",
+    "Final hairstyle reveal from front and back"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Effortlessly creates defined, bouncy, glossy curls",
+    "Glides smoothly through long hair without snagging"
+   ],
+   "pain_points": [
+    "Difficulty getting consistent spiral curls on long hair",
+    "Frizzy or flat straight hair lacking bounce"
+   ],
+   "objections_handled": [
+    "Shows in real-time how easily the tool glides down the hair length without getting stuck"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Whirlwind Curl"
+   ],
+   "first_seen_s": 4.5,
+   "first_used_on_hair_s": 4.5,
+   "final_result_shown_s": 17.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 2,
+   "talent_type": "everyday_customer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Long, waist-length, fine-to-medium straight/flat brunette hair",
+   "hair_after": "Voluminous, shiny, bouncy spiral curls",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "Happy, cheerful, playful, and confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Upbeat, cheerful pop/hip-hop instrumental rhythm track with no vocal lyrics or speech.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 3.5,
+   "pacing": "medium",
+   "effects": [
+    "Zoom blur transition",
+    "Quick jump cuts between hair sections"
+   ],
+   "ending": "Creator shows the back of her curls, turns back to the camera, and blows a kiss."
+  },
+  "notes": "Ad video relies purely on visual proof and UGC aesthetics with no spoken dialogue or on-screen text overlays, focusing entirely on the transformation from straight hair to shiny bouncy curls."
+ }
+}

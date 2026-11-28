@@ -1,0 +1,190 @@
+{
+ "media_key": "v_992718800546844",
+ "analyzed_at": "2026-11-28T00:20:54+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "816c5fcc257b3027f5ae0a3b6a700a9be6821beb40940efb32fe988363d8d654",
+ "source": {
+  "kind": "video",
+  "id": "992718800546844",
+  "video_id": "1017615631353879",
+  "length_s": 29.866,
+  "permalink": "/23849366283980795/videos/1017615631353879/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 29.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A curly-haired creator straightens her 3C curls using the Wavytalk Steambrush Pro to check her true hair length.",
+  "full_description": "A creator with voluminous 3C curly hair performs an ASMR-style demo straightening her hair to measure its length. She showcases the Wavytalk Steambrush Pro, fills its water reservoir with a dropper, applies heat protectant products, sections her hair, and glides the steaming brush comb smoothly through the dense curls, effortlessly transforming them into sleek, pin-straight, glossy dark hair. The video ends with a back-view reveal of her silky straightened hair extending down her back.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 4.8,
+    "text": "straightening my 3c curls to check how long it actually is",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator standing in front of camera with hair half-straightened and half-curly in a top knot, brushing it out into a huge voluminous afro-puff.",
+    "action": "Creator shakes out and brushes her big voluminous 3C curls.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 4.9,
+    "shot_type": "close-up",
+    "visual": "Creator displays the pink Wavytalk Steambrush Pro, taps on the water chamber, fills it using a water dropper, and clicks it shut.",
+    "action": "Demonstrating the steam water reservoir filling process with ASMR clicks.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.9,
+    "end_s": 8.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator takes down hair, presents heat protectant sprays and styling cream, applying them into her curly hair strands.",
+    "action": "Prepping curly hair with protective hair products.",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.5,
+    "end_s": 14.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator takes a section of curly hair and glides the heated steam brush comb through it, instantly turning it pin-straight with visible steam vapor.",
+    "action": "Gliding the steam straightener brush through curly hair in single passes.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.7,
+    "end_s": 18.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator sections the remaining dense curls and puts on a heat-resistant styling glove.",
+    "action": "Preparing another curly section and putting on styling glove.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 26.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator clips away hair and straightens the front crown and bangs section using the steam brush, pulling down smoothly.",
+    "action": "Straightening front sections and bangs with precision.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.0,
+    "end_s": 29.5,
+    "shot_type": "medium shot",
+    "visual": "Creator admiring the sleek results from the front, then turning around with her back to camera to reveal long, silky, straight hair.",
+    "action": "Showing the full back reveal of straightened, shiny hair.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing a split look: half straight, half huge 3C curly hair with text overlay.",
+   "visual_0_3s": "Fast cuts of her brushing out her voluminous 3C curls followed immediately by the pink steam straightener.",
+   "spoken_0_3s": "",
+   "text_0_3s": "straightening my 3c curls to check how long it actually is",
+   "hook_type": "before_after",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Dramatic contrast between ultra-curly voluminous 3C texture and sleek straightened strand in the very first frame."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Curiosity hook: checking length of 3C curls",
+    "ASMR tool prep and water reservoir filling",
+    "Heat protectant application",
+    "Step-by-step steam straightening pass demonstration",
+    "Final transformation reveal showing sleek length from front and back"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "less_heat_damage"
+   ],
+   "key_claims": [
+    "Straightens dense 3C curls into bone-straight hair",
+    "Steam infusion keeps hair smooth and shiny"
+   ],
+   "pain_points": [
+    "Severe curl shrinkage hiding true length",
+    "Difficulty straightening coarse 3C curls with standard flat irons"
+   ],
+   "objections_handled": [
+    "Handles very dense, frizzy, curly hair types effortlessly in single passes without snagging"
+   ],
+   "social_proof": [],
+   "comparison_to": "standard flat irons / unstraightened curls"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steambrush Pro"
+   ],
+   "first_seen_s": 1.7,
+   "first_used_on_hair_s": 8.7,
+   "final_result_shown_s": 26.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Dark brown / black 3C tight voluminous curls with significant shrinkage",
+   "hair_after": "Ultra-sleek, long, straight, glossy dark hair reaching mid-back",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "aesthetic, satisfying, calm ASMR"
+  },
+  "audio_and_edit": {
+   "audio_type": "asmr_product_sound",
+   "music_description": "Crisp ASMR sound effects of hair brushing, tapping plastic, water filling, clicking, and steam release, with subtle atmospheric background music.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 16,
+   "avg_shot_length_s": 1.8,
+   "pacing": "fast",
+   "effects": [
+    "ASMR foley/sound design",
+    "fast-paced cutting",
+    "visual steam vapor accent"
+   ],
+   "ending": "Creator turns her back to the camera, showcasing the full glossy length of her straightened hair."
+  },
+  "notes": "Classic ASMR length-check format for curl transformation. Highly engaging for tight curls / shrinkage pain points."
+ }
+}

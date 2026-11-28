@@ -1,0 +1,494 @@
+{
+ "media_key": "v_1379837604026286",
+ "analyzed_at": "2026-11-28T00:17:19+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "3848c712815678810d7a95ece40cb740e5cf713f374c177220db5586d21c878b",
+ "source": {
+  "kind": "video",
+  "id": "1379837604026286",
+  "video_id": "2792214531148721",
+  "length_s": 109.033,
+  "permalink": "/23849366283980795/videos/2792214531148721/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 109,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A curly-haired creator debunks the myth that heat styling ruins curls while styling her voluminous hair with the Wavytalk Blowout Boost.",
+  "full_description": "A young female creator with very thick, voluminous curly/frizzy hair demonstrates styling her hair with the Wavytalk Blowout Boost thermal round brush. She starts with a dramatic hook ('Let's ruin my curly hair!') addressing comments from viewers who claim heat styling destroys natural curl patterns. She explains curl health maintenance, shares a sectioning hack by wrapping styled sections around a top bun, compares the brush to damaging flat irons, shows half-done vs untouched hair, styles her top section, and displays the final bouncy, glossy blowout result while asking viewers their preference.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's ruin my curly hair!",
+    "text_english": "Let's ruin my curly hair!"
+   },
+   {
+    "start_s": 1.5,
+    "end_s": 5.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I honestly think it's so funny that people think I'm ruining my curly hair just because I'm blowing it out.",
+    "text_english": "I honestly think it's so funny that people think I'm ruining my curly hair just because I'm blowing it out."
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 11.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Believe it or not, but it is possible to maintain the health of your curls while still heat styling your hair, and I am proof of that.",
+    "text_english": "Believe it or not, but it is possible to maintain the health of your curls while still heat styling your hair, and I am proof of that."
+   },
+   {
+    "start_s": 11.9,
+    "end_s": 21.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Side note, I'm about to make your life so much easier with heat styling. When you're done with a section, wrap it around your bun like this, so that way you can get to this hair without that hair getting in the way.",
+    "text_english": "Side note, I'm about to make your life so much easier with heat styling. When you're done with a section, wrap it around your bun like this, so that way you can get to this hair without that hair getting in the way."
+   },
+   {
+    "start_s": 21.6,
+    "end_s": 25.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm telling you it helps so much, it keeps everything so much more efficient.",
+    "text_english": "I'm telling you it helps so much, it keeps everything so much more efficient."
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 30.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "But as I was saying, you do not have to give up heat styling to save your curls.",
+    "text_english": "But as I was saying, you do not have to give up heat styling to save your curls."
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 36.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm telling you, I left my hair curly the other day and it honestly looked curlier than ever, it was insane.",
+    "text_english": "I'm telling you, I left my hair curly the other day and it honestly looked curlier than ever, it was insane."
+   },
+   {
+    "start_s": 36.5,
+    "end_s": 42.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The key to maintaining your curls is all about your hair care and the tools that you're using to heat style your hair.",
+    "text_english": "The key to maintaining your curls is all about your hair care and the tools that you're using to heat style your hair."
+   },
+   {
+    "start_s": 42.0,
+    "end_s": 47.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Trust me, when I was using a regular flat iron, my hair was fried and it was not good.",
+    "text_english": "Trust me, when I was using a regular flat iron, my hair was fried and it was not good."
+   },
+   {
+    "start_s": 47.0,
+    "end_s": 55.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "For example this is the Wavytalk Blowout Boost, I absolutely love it. It allows me to get this look from this without a ton of passes, and that is key.",
+    "text_english": "For example this is the Wavytalk Blowout Boost, I absolutely love it. It allows me to get this look from this without a ton of passes, and that is key."
+   },
+   {
+    "start_s": 55.4,
+    "end_s": 63.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "When I used to use a regular straightening iron, my hair was getting clamped in between two metal plates and it was absolutely fried, which meant my curls looked terrible.",
+    "text_english": "When I used to use a regular straightening iron, my hair was getting clamped in between two metal plates and it was absolutely fried, which meant my curls looked terrible."
+   },
+   {
+    "start_s": 63.3,
+    "end_s": 70.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "But now because I'm smart with what tools I use on my hair, I get to heat style whenever I want, and I could wear my curls and they still look good.",
+    "text_english": "But now because I'm smart with what tools I use on my hair, I get to heat style whenever I want, and I could wear my curls and they still look good."
+   },
+   {
+    "start_s": 70.0,
+    "end_s": 80.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I honestly just hate the misconception that you can't wear your hair straight and curly, you have to choose one. You can either be a natural curly girl or a heat style girl. I think you can have both.",
+    "text_english": "I honestly just hate the misconception that you can't wear your hair straight and curly, you have to choose one. You can either be a natural curly girl or a heat style girl. I think you can have both."
+   },
+   {
+    "start_s": 80.5,
+    "end_s": 88.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And I am proof of that, just watch my videos. I heat style all the time, but I still do curly hair routines and it's fun.",
+    "text_english": "And I am proof of that, just watch my videos. I heat style all the time, but I still do curly hair routines and it's fun."
+   },
+   {
+    "start_s": 88.0,
+    "end_s": 93.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Contrary to what a lot of people think, you do not have to live life black and white, you can like two different things at the end of the day.",
+    "text_english": "Contrary to what a lot of people think, you do not have to live life black and white, you can like two different things at the end of the day."
+   },
+   {
+    "start_s": 93.5,
+    "end_s": 101.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "At the end of the day, do I prefer heat styling? Yes. But that doesn't mean I don't love my curls and wanna wear my curls sometimes. I can do both without ruining them.",
+    "text_english": "At the end of the day, do I prefer heat styling? Yes. But that doesn't mean I don't love my curls and wanna wear my curls sometimes. I can do both without ruining them."
+   },
+   {
+    "start_s": 101.5,
+    "end_s": 106.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay, this is the final look! What do you guys think? Do you prefer natural curls or heat styling?",
+    "text_english": "Okay, this is the final look! What do you guys think? Do you prefer natural curls or heat styling?"
+   },
+   {
+    "start_s": 106.5,
+    "end_s": 109.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And you gotta make sure you check out the Wavytalk Blowout Boost.",
+    "text_english": "And you gotta make sure you check out the Wavytalk Blowout Boost."
+   }
+  ],
+  "transcript_full_original": "Let's ruin my curly hair! I honestly think it's so funny that people think I'm ruining my curly hair just because I'm blowing it out. Believe it or not, but it is possible to maintain the health of your curls while still heat styling your hair, and I am proof of that. Side note, I'm about to make your life so much easier with heat styling. When you're done with a section, wrap it around your bun like this, so that way you can get to this hair without that hair getting in the way. I'm telling you it helps so much, it keeps everything so much more efficient. But as I was saying, you do not have to give up heat styling to save your curls. I'm telling you, I left my hair curly the other day and it honestly looked curlier than ever, it was insane. The key to maintaining your curls is all about your hair care and the tools that you're using to heat style your hair. Trust me, when I was using a regular flat iron, my hair was fried and it was not good. For example this is the Wavytalk Blowout Boost, I absolutely love it. It allows me to get this look from this without a ton of passes, and that is key. When I used to use a regular straightening iron, my hair was getting clamped in between two metal plates and it was absolutely fried, which meant my curls looked terrible. But now because I'm smart with what tools I use on my hair, I get to heat style whenever I want, and I could wear my curls and they still look good. I honestly just hate the misconception that you can't wear your hair straight and curly, you have to choose one. You can either be a natural curly girl or a heat style girl. I think you can have both, and I am proof of that, just watch my videos. I heat style all the time, but I still do curly hair routines and it's fun. Contrary to what a lot of people think, you do not have to live life black and white, you can like two different things at the end of the day. At the end of the day, do I prefer heat styling? Yes. But that doesn't mean I don't love my curls and wanna wear my curls sometimes. I can do both without ruining them. Okay, this is the final look! What do you guys think? Do you prefer natural curls or heat styling? And you gotta make sure you check out the Wavytalk Blowout Boost.",
+  "transcript_full_english": "Let's ruin my curly hair! I honestly think it's so funny that people think I'm ruining my curly hair just because I'm blowing it out. Believe it or not, but it is possible to maintain the health of your curls while still heat styling your hair, and I am proof of that. Side note, I'm about to make your life so much easier with heat styling. When you're done with a section, wrap it around your bun like this, so that way you can get to this hair without that hair getting in the way. I'm telling you it helps so much, it keeps everything so much more efficient. But as I was saying, you do not have to give up heat styling to save your curls. I'm telling you, I left my hair curly the other day and it honestly looked curlier than ever, it was insane. The key to maintaining your curls is all about your hair care and the tools that you're using to heat style your hair. Trust me, when I was using a regular flat iron, my hair was fried and it was not good. For example this is the Wavytalk Blowout Boost, I absolutely love it. It allows me to get this look from this without a ton of passes, and that is key. When I used to use a regular straightening iron, my hair was getting clamped in between two metal plates and it was absolutely fried, which meant my curls looked terrible. But now because I'm smart with what tools I use on my hair, I get to heat style whenever I want, and I could wear my curls and they still look good. I honestly just hate the misconception that you can't wear your hair straight and curly, you have to choose one. You can either be a natural curly girl or a heat style girl. I think you can have both, and I am proof of that, just watch my videos. I heat style all the time, but I still do curly hair routines and it's fun. Contrary to what a lot of people think, you do not have to live life black and white, you can like two different things at the end of the day. At the end of the day, do I prefer heat styling? Yes. But that doesn't mean I don't love my curls and wanna wear my curls sometimes. I can do both without ruining them. Okay, this is the final look! What do you guys think? Do you prefer natural curls or heat styling? And you gotta make sure you check out the Wavytalk Blowout Boost.",
+  "word_count": 368,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.5,
+    "text": "Let's ruin my curly hair!",
+    "role": "hook"
+   },
+   {
+    "start_s": 1.5,
+    "end_s": 5.8,
+    "text": "I honestly think it's so funny that people think I'm ruining my curly hair just because I'm blowing it out",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 11.9,
+    "text": "believe it or not but it is possible to maintain the health of your curls while still heat styling your hair and I am proof of that,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.9,
+    "end_s": 21.6,
+    "text": "side note, I'm about to make your life so much easier with heat styling when you're done with a section wrap it around your bun like this so that way you can get to this hair without that hair getting in the way",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.6,
+    "end_s": 25.5,
+    "text": "I'm telling you it helps so much It keeps everything so much more efficient",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 30.5,
+    "text": "but as I was saying, you do not have to give up heat styling to save your curls",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 36.5,
+    "text": "I'm telling you I left my hair curly the other day and it honestly looked curlier than ever it was insane,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 36.5,
+    "end_s": 42.0,
+    "text": "the key to maintaining your curls is all about your hair care and the tools that you're using to heat style your hair,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 42.0,
+    "end_s": 47.0,
+    "text": "trust me when I was using a regular flat iron my hair was fried and it was not good",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 47.0,
+    "end_s": 55.4,
+    "text": "for example this is the Wavytalk Blowout Boost I absolutely love it it allows me to get this look from this without a ton of passes and that is key;",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 55.4,
+    "end_s": 63.3,
+    "text": "when I used to use a regular straightening iron my hair was getting clamped in between two metal plates and it was absolutely fried which meant my curls looked terrible",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 63.3,
+    "end_s": 70.0,
+    "text": "but now because I'm smart with what tools I use on my hair I get to heat style whenever I want and I could wear my curls and they still look good",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 70.0,
+    "end_s": 80.5,
+    "text": "I honestly just hate the misconception that you can't wear your hair straight and curly you have to choose one you can either be a natural curly girl or a heat style girl I think you can have both",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 80.5,
+    "end_s": 88.0,
+    "text": "and I am proof of that, just watch my videos I heat style all the time but I still do curly hair routines and it's fun",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 88.0,
+    "end_s": 93.5,
+    "text": "contrary to what a lot of people think you do not have to live life black and white you can like two different things at the end of the day",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 93.5,
+    "end_s": 101.5,
+    "text": "at the end of the day do I prefer heat styling? yes but that doesn't mean I don't love my curls and wanna wear my curls sometimes I can do both without ruining them",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 101.5,
+    "end_s": 106.5,
+    "text": "okay this is the final look! what do you guys think? do you prefer natural curls or heat styling?",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 106.5,
+    "end_s": 109.0,
+    "text": "and you gotta make sure you check out the Wavytalk Blowout Boost",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.5,
+    "shot_type": "medium_shot",
+    "visual": "Creator facing camera showing her enormous, unstyled, thick, puffy brushed curly hair.",
+    "action": "Speaks directly to camera with sarcastic hook 'Let's ruin my curly hair!'",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.5,
+    "end_s": 6.0,
+    "shot_type": "medium_shot",
+    "visual": "Hair pinned into a top knot, bottom layer down, brushing through.",
+    "action": "Puts top hair up, prepares bottom hair section.",
+    "product_visible": false
+   },
+   {
+    "start_s": 6.0,
+    "end_s": 12.0,
+    "shot_type": "medium_shot",
+    "visual": "Using pink Wavytalk Blowout Boost round brush tool on a bottom strand.",
+    "action": "Brushes and pulls through strand smoothly to straighten and smooth.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 22.0,
+    "shot_type": "medium_shot",
+    "visual": "Creator demonstrating styling hack.",
+    "action": "Takes smoothed strand and wraps it securely around her top bun to keep it separated.",
+    "product_visible": false
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 42.0,
+    "shot_type": "medium_shot",
+    "visual": "Continuing to style lower sections with the heated round brush.",
+    "action": "Glides the thermal brush down hair shafts, curving ends inward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 42.0,
+    "end_s": 47.0,
+    "shot_type": "medium_shot",
+    "visual": "Creator wrapping styled section around top bun again.",
+    "action": "Secures freshly smoothed strand onto the bun and talks about past flat iron damage.",
+    "product_visible": false
+   },
+   {
+    "start_s": 47.0,
+    "end_s": 55.4,
+    "shot_type": "medium_shot",
+    "visual": "Split visual comparison of her own head: one side sleek blowout, other side puffy untreated hair, holding the tool.",
+    "action": "Holds up Wavytalk Blowout Boost tool and gestures between styled side and raw curly side.",
+    "product_visible": true
+   },
+   {
+    "start_s": 55.4,
+    "end_s": 63.3,
+    "shot_type": "medium_shot",
+    "visual": "Styling the left side lower section with the tool.",
+    "action": "Runs thermal brush from roots through lengths, curving at the bottom.",
+    "product_visible": true
+   },
+   {
+    "start_s": 63.3,
+    "end_s": 70.0,
+    "shot_type": "medium_shot",
+    "visual": "Lower half fully styled, smooth and shiny, top bun still tied.",
+    "action": "Shows smoothed lower lengths with hands on chest.",
+    "product_visible": false
+   },
+   {
+    "start_s": 70.0,
+    "end_s": 93.5,
+    "shot_type": "medium_shot",
+    "visual": "Styling the top/side layers with the heated brush.",
+    "action": "Rolling hair around the barrel over the crown and curling inward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 93.5,
+    "end_s": 96.0,
+    "shot_type": "medium_shot",
+    "visual": "Showing progress of styled side layers with bun still partially up.",
+    "action": "Fluffs hair with hands.",
+    "product_visible": false
+   },
+   {
+    "start_s": 96.0,
+    "end_s": 101.5,
+    "shot_type": "medium_shot",
+    "visual": "Styling front bangs / crown section upwards with tool.",
+    "action": "Rolls front section straight up from scalp with Wavytalk brush and releases.",
+    "product_visible": true
+   },
+   {
+    "start_s": 101.5,
+    "end_s": 109.0,
+    "shot_type": "medium_shot",
+    "visual": "Final look reveal: full blowout, bouncy glossy ends, voluminous salon finish.",
+    "action": "Creator shakes and runs hands through finished hair, holds up Wavytalk Blowout Boost tool, and smiles.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator sits facing camera with an enormous mane of frizzy, brushed-out natural curly hair.",
+   "visual_0_3s": "Extreme volume puffy curly hair contrasted with sarcastic title text 'Let's ruin my curly hair!'.",
+   "spoken_0_3s": "Let's ruin my curly hair! I honestly think it's so funny that people think...",
+   "text_0_3s": "Let's ruin my curly hair!",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "The sarcastic opening line addresses online hate/criticism while showing huge voluminous natural hair."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Provocative sarcastic hook addressing online comments about heat destroying curls",
+    "Sectioning efficiency tip (wrapping finished sections around top bun)",
+    "Addressing the core objection: can you heat style and keep curls healthy?",
+    "Comparing flat iron plate damage vs heated round brush smoothness",
+    "Half-and-half side demonstration showing dramatic difference",
+    "Product presentation of Wavytalk Blowout Boost",
+    "Step-by-step styling of mid and top crown sections",
+    "Final gorgeous bouncy blowout result and call to check out tool"
+   ],
+   "main_angle": "less_heat_damage",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "volume_and_bounce",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Allows you to get a smooth blowout without a ton of passes",
+    "Protects curl health unlike flat irons that clamp hair between metal plates",
+    "Gives salon-worthy volume and bounce"
+   ],
+   "pain_points": [
+    "Fear of heat damage destroying natural curl pattern",
+    "Flat irons frying hair between hot metal plates",
+    "Long, tedious blowout sessions where styled hair gets tangled with unstyled hair"
+   ],
+   "objections_handled": [
+    "Heat styling will permanently ruin your curls",
+    "You have to choose between being a curly girl or heat styling"
+   ],
+   "social_proof": [
+    "Creator's personal hair transformation and personal testimonial that her curls remain intact"
+   ],
+   "comparison_to": "Traditional flat iron / straightening iron with two metal clamping plates"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 6.0,
+   "first_used_on_hair_s": 6.0,
+   "final_result_shown_s": 101.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "And you gotta make sure you check out the Wavytalk Blowout Boost.",
+   "cta_on_screen": "and you gotta make sure you check out the Wavytalk Blowout Boost",
+   "cta_at_s": 106.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Extremely thick, long, voluminous brushed curly brown hair",
+   "hair_after": "Ultra-sleek, bouncy, voluminous blowout with softly curled under ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "relatable, confident, conversational, educational"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "Natural ambient room audio and creator voice speaking directly to microphone without background music.",
+   "captions_burned_in": true,
+   "production_style": "phone_ugc",
+   "cut_count": 12,
+   "avg_shot_length_s": 9.1,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between hair styling sections"
+   ],
+   "ending": "Creator proudly displays finished voluminous blowout while pointing at the Wavytalk tool."
+  },
+  "notes": "Targeted by WavyTalk distributor in Lebanon/MENA utilizing organic US/English TikTok creator UGC to showcase heat-protection benefits for curly hair."
+ }
+}

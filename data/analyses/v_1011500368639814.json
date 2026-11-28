@@ -1,0 +1,209 @@
+{
+ "media_key": "v_1011500368639814",
+ "analyzed_at": "2026-11-28T00:10:07+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "cf36ccba2a5802583500723b6cdb170650c5ee3ef05120421c3d3238b2c470fa",
+ "source": {
+  "kind": "video",
+  "id": "1011500368639814",
+  "video_id": "1537139721495379",
+  "length_s": 41.043,
+  "permalink": "/23849366283980795/videos/1537139721495379/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 40.84,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Silent UGC demo showing a young woman transforming frizzy reddish hair into glossy blowout curls using the WavyTalk Blowout Boost thermal brush.",
+  "full_description": "A creator with frizzy auburn-red hair sits facing the camera in a bedroom setting, displaying text 'From Frizzy To Glossy'. She presents the pink WavyTalk Blowout Boost thermal brush and sections her hair. Set to trending pop music without spoken dialogue, she demonstrates rolling and gliding strands through the heated brush barrel, finishing with the front curtain bangs. The video concludes with her shaking out shiny, bouncy salon-style curls and posing for the camera.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "text": "From Frizzy",
+    "role": "hook"
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 3.3,
+    "text": "To Glossy",
+    "role": "benefit"
+   },
+   {
+    "start_s": 3.3,
+    "end_s": 40.84,
+    "text": "using the Wavytalk Blowout Boost thermal brush",
+    "role": "brand"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.3,
+    "shot_type": "medium close-up",
+    "visual": "Young creator with slightly frizzy reddish-brown hair sitting indoors in front of a white wall, pointing to her hair.",
+    "action": "Creator gestures to her frizzy hair as 'From Frizzy' and 'To Glossy' text overlays appear.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.3,
+    "end_s": 5.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds up the pink WavyTalk Blowout Boost heated round brush next to her cheek.",
+    "action": "Creator reveals the product and smiles into the lens.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.6,
+    "end_s": 7.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator sectioning her hair with a hair clip.",
+    "action": "Clips the top section of her hair away to prepare for styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 14.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator using the heated brush on lower strand of hair.",
+    "action": "Glides and wraps a strand around the thermal barrel, then releases a smooth, glossy curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 22.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling another middle strand of hair.",
+    "action": "Rolls the brush slowly down the length and curls inward, revealing another defined curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.4,
+    "end_s": 28.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator tousling her styled sections and continuing on the other side.",
+    "action": "Shakes out hair, then sections and styles another section around the hot barrel.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 33.1,
+    "shot_type": "medium close-up",
+    "visual": "Styling the front curtain bangs/top section.",
+    "action": "Wraps front fringe section over the top and pulls back to create root volume and soft flip.",
+    "product_visible": true
+   },
+   {
+    "start_s": 33.1,
+    "end_s": 40.84,
+    "shot_type": "medium close-up",
+    "visual": "Creator showcasing the final glossy blowout look.",
+    "action": "Runs fingers through bouncy, shiny, voluminous blowout curls and poses confidently.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera pointing at her wavy, frizzy reddish hair with 'From Frizzy' written in script font.",
+   "visual_0_3s": "Creator pointing at her hair while text flashes from 'From Frizzy' to 'To Glossy'.",
+   "spoken_0_3s": "",
+   "text_0_3s": "From Frizzy / To Glossy",
+   "hook_type": "before_after",
+   "hook_type_secondary": "problem_callout",
+   "pattern_interrupt": "Rapid text shift from 'From Frizzy' to 'To Glossy' paired with music beat."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Problem callout: Showing frizzy unstyled hair",
+    "Solution introduction: Revealing WavyTalk Blowout Boost",
+    "Step-by-step tutorial demo: Sectioning and styling curls",
+    "Front layer styling: Volumizing face-framing fringe",
+    "Final reveal: Running fingers through glossy, bouncy blowout curls"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Transforms frizzy hair into glossy blowout curls",
+    "Provides smooth shine and bouncy volume"
+   ],
+   "pain_points": [
+    "Frizzy, dull, unmanageable hair",
+    "Difficulty getting sleek blowout curls at home"
+   ],
+   "objections_handled": [
+    "Ease of use: Shows simple brushing and rolling motion"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 3.3,
+   "first_used_on_hair_s": 7.3,
+   "final_result_shown_s": 33.1,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Shoulder-to-chest length, reddish-auburn, dry/frizzy texture",
+   "hair_after": "Chest length, voluminous, sleek, glossy bouncy blowout curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Aesthetic, calm, confident, relaxed"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Mid-tempo pop / R&B track with female vocals ('Talk to me... I love the way you're onto me...').",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 5.1,
+   "pacing": "medium",
+   "effects": [
+    "Text overlays with elegant script typography",
+    "Jump cuts between styling stages"
+   ],
+   "ending": "Creator smiling softly and tilting head with finished glossy blowout hair."
+  },
+  "notes": "No spoken dialogue in this ad. Relies entirely on visual transformation, aesthetic UGC styling, and permanent text overlay identifying the tool as the Wavytalk Blowout Boost thermal brush."
+ }
+}

@@ -1,0 +1,179 @@
+{
+ "media_key": "v_963553412925095",
+ "analyzed_at": "2026-11-28T00:09:25+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "4ab5a64a1ded42050f7123a293a1e0bb27b6a3ec32ff22d31152fbfdd7b2fcf7",
+ "source": {
+  "kind": "video",
+  "id": "963553412925095",
+  "ig_media_id": "18058074566477153",
+  "permalink": "https://www.instagram.com/p/DW2C80ODKpp/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 36.63,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "Silent UGC demo showing a young woman curling her hair in 10 minutes with the pink WavyTalk Whirlwind Curl tool.",
+  "full_description": "A silent UGC-style tutorial set to upbeat background music. A young brunette woman demonstrates how she curls her long dark hair using the pink WavyTalk Whirlwind Curl. The ad begins with on-screen text challenging 'Finish my whole hair with me in 10 mins', shows clips of her clamping, wrapping, and gliding the styling tool through sections of hair to form defined curls, and ends with her fluffing out her full, voluminous wavy hair and posing proudly with the product.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.8,
+    "text": "Finish my whole hair with me in 10 mins",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator in a grey sweater holds the pink WavyTalk Whirlwind Curl iron horizontally near her head with curled hair visible.",
+    "action": "Creator poses with the styling tool, smiling at the camera as the text hook appears.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 8.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator working on curling a strand of hair on the right side of her head.",
+    "action": "She clamps the hair section near the root, twists the tool 360 degrees, and glides it down to reveal a tight bouncy curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.3,
+    "end_s": 11.8,
+    "shot_type": "close-up",
+    "visual": "Creator using the iron in straightener mode.",
+    "action": "She runs the iron down a wavy piece of hair to smooth it out before styling.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.8,
+    "end_s": 21.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling a front section of hair.",
+    "action": "Creator clamps the hair, wraps it smoothly around the vented barrel, glides down steadily, and lets the curl bounce free.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 24.6,
+    "shot_type": "close-up",
+    "visual": "Close-up of hair wrapping around the ceramic barrel of the pink styler.",
+    "action": "The styler glides smoothly through the strand and releases a curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.6,
+    "end_s": 36.63,
+    "shot_type": "medium shot",
+    "visual": "Creator showing finished hairstyle and posing with the tool.",
+    "action": "She runs her fingers through her hair to loosen the waves, checks the volume, holds up the tool beside her cheek, and smiles cheerfully at the camera.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "A smiling young woman holds the pink WavyTalk styling tool with text 'Finish my whole hair with me in 10 mins'.",
+   "visual_0_3s": "Creator holding the product and transitioning directly into clamping a strand of hair.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Finish my whole hair with me in 10 mins",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Fast transition directly from showing the tool to active curling demonstration under a 10-minute speed styling challenge claim."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Time challenge hook (do whole hair in 10 mins)",
+    "Step-by-step curling demonstration showing easy wrap and glide motion",
+    "Smoothing demonstration using the flat clamp",
+    "Finished full voluminous bouncy curl result reveal"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Can finish full head of hair in 10 minutes",
+    "Creates smooth, bouncy curls effortlessly"
+   ],
+   "pain_points": [
+    "Curling hair takes too long",
+    "Traditional curlers can be difficult to maneuver"
+   ],
+   "objections_handled": [
+    "Shows how fast each curl forms in a single smooth glide without snagging"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Whirlwind Curl"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 2.2,
+   "final_result_shown_s": 24.6,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, dark brown wavy/partially styled hair",
+   "hair_after": "Voluminous, bouncy, glossy curls throughout full head",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "upbeat, confident, relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Upbeat, energetic electronic pop instrumental track with catchy percussion rhythm",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 6.1,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator smiles warmly at the camera holding the pink tool next to her curled hair."
+  },
+  "notes": "Silent product tutorial UGC ad relying entirely on visual proof of ease-of-use and speed (10 mins claim) with trending upbeat audio."
+ }
+}

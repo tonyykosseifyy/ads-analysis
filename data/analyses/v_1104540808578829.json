@@ -1,0 +1,173 @@
+{
+ "media_key": "v_1104540808578829",
+ "analyzed_at": "2026-11-28T00:20:53+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "295cb656b84e0ab53bfd2975875a8504c54b4725b6d852d71f1b99bee61d176b",
+ "source": {
+  "kind": "video",
+  "id": "1104540808578829",
+  "video_id": "1499754055285964",
+  "length_s": 47.67,
+  "permalink": "/23849366283980795/videos/1499754055285964/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 47.7,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A mother styles her daughter's and her own ultra-long hair into dramatic deep mermaid waves using the WavyTalk Power Wave hair waver.",
+  "full_description": "A high-energy UGC-style transformation video set to pop music featuring a mother and her young daughter, both with waist-to-floor-length hair. The video opens with a quick jump-cut transition showing their hair straight then styled into full crimped waves. The mother demonstrates the pink WavyTalk Power Wave styling tool, showing the digital temperature display and controls. She clamps sections of her daughter's long hair step-by-step from root to tip, revealing defined, glossy deep waves. Afterwards, she demonstrates the tool on her own auburn hair. The video ends with a celebratory dance reveal showing both of them with enormous, voluminous mermaid waves.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "shot_type": "medium shot",
+    "visual": "Mother and young daughter sitting side by side with straight floor-length hair, performing a whip-transition into yellow dresses with fully crimped wavy hair.",
+    "action": "They toss their hair forward, trigger a jump cut change of clothes and hairstyles, showcasing the finished crimped wave result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 6.1,
+    "shot_type": "close-up",
+    "visual": "Mother holding the pink WavyTalk deep waver upright to camera in front of the daughter.",
+    "action": "She displays the digital display screen showing temperature settings and points to the side power and adjustment buttons.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.1,
+    "end_s": 28.5,
+    "shot_type": "medium close-up",
+    "visual": "Daughter seated on a chair while mother uses the pink waver down sections of her long blonde hair.",
+    "action": "Mother clamps section by section from top to bottom, holding briefly, releasing perfect uniform mermaid crimps all the way down.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 30.5,
+    "shot_type": "medium shot",
+    "visual": "Mother and daughter showing the daughter's finished voluminous crimped hair.",
+    "action": "Mother proudly fans out daughter's waves to display the volume, texture, and full length.",
+    "product_visible": false
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 40.5,
+    "shot_type": "medium shot",
+    "visual": "Mother styling her own long auburn hair with the pink waver tool in front of the camera.",
+    "action": "She clamps sections down the side of her head, smiling and showing the instant wave definition on each clamp.",
+    "product_visible": true
+   },
+   {
+    "start_s": 40.5,
+    "end_s": 47.7,
+    "shot_type": "medium shot",
+    "visual": "Mother and daughter dancing, twirling, and playing together in matching outfits with their completed mermaid hair.",
+    "action": "Mother spins daughter around by the hand, hugging and smiling while tossing their thick wavy hair.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Mother and daughter seated facing camera tossing their straight ultra-long hair forward.",
+   "visual_0_3s": "Rapid jump-cut transition revealing instantaneous transformation from straight hair to full mermaid waves in matching dresses.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "before_after",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Rapid jump cut outfit and hair transformation on mother and daughter with exceptionally long, floor-length hair."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Result reveal / transformation hook",
+    "Product showcase and controls intro",
+    "Step-by-step application on child's long hair",
+    "Application demo on mother's hair",
+    "Final celebration and joy display"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "easy_for_beginners",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Creates defined mermaid/crimped waves effortlessly even on ultra-long hair"
+   ],
+   "pain_points": [
+    "Time-consuming styling on long hair",
+    "Difficulty getting consistent waves across long lengths"
+   ],
+   "objections_handled": [
+    "Demonstrates that it works evenly on very long hair without creasing or catching"
+   ],
+   "social_proof": [
+    "Visual before and after proof on two different hair types and colors"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Power Wave"
+   ],
+   "first_seen_s": 2.8,
+   "first_used_on_hair_s": 6.1,
+   "final_result_shown_s": 1.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 2,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34 and child",
+   "hair_before": "Floor-length straight brown/auburn hair (adult) and floor-length blonde hair (child)",
+   "hair_after": "Voluminous, uniform deep mermaid crimp waves",
+   "setting": "Living room / modern apartment interior",
+   "faces_camera": true,
+   "energy_tone": "Joyful, energetic, playful, mother-daughter lifestyle aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Uptempo female vocal pop track synced to cuts and hair drops",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 3.4,
+   "pacing": "fast",
+   "effects": [
+    "jump-cut transformation",
+    "music beat sync"
+   ],
+   "ending": "Mother hugging daughter while laughing and looking into camera"
+  },
+  "notes": "No voiceover or spoken dialogue. Highly visual UGC asset leaning into novelty appeal of exceptionally long hair to highlight tool capacity."
+ }
+}

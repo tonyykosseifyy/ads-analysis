@@ -1,0 +1,416 @@
+{
+ "media_key": "v_4468278706829831",
+ "analyzed_at": "2026-11-28T00:09:54+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "c6045fb1cebcfce4d34c2f88d2e02713cdece8321311a9c68291158d3e2cfacc",
+ "source": {
+  "kind": "video",
+  "id": "4468278706829831",
+  "video_id": "4501132123455651",
+  "length_s": 63.233,
+  "permalink": "/23849366283980795/videos/4501132123455651/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 63.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A blonde creator demonstrates three distinct hairstyles (voluminous curls, sleek straight, and beach waves) using the Wavytalk Airflow Styler.",
+  "full_description": "The video opens with a quick montage showing three different hairstyles achieved with a single tool: voluminous curls, sleek straight hair, and beach waves. The creator then sections her hair and demonstrates how to use the Wavytalk Airflow Styler (Whirlwind Curl) step-by-step for each style. Style #1 breaks down how to clamp, flip, and slide the iron to create voluminous curls with cool-air technology setting the shape. Style #2 shows how to straighten frizzy/curly hair while highlighting the heat-safe exterior and cool-air function. Style #3 demonstrates how to create effortless beach waves with straighter ends by moving quickly and alternating curl directions. The ad concludes with the creator shaking out her beach waves and an on-screen call to action to shop via the link in bio.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0.0,
+    "en": 100.0,
+    "fr": 0.0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.4,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "If you style your hair the same way every day, let me teach you three easy styles you can do with one tool.",
+    "text_english": "If you style your hair the same way every day, let me teach you three easy styles you can do with one tool."
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 7.4,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "For a voluminous curly look,",
+    "text_english": "For a voluminous curly look,"
+   },
+   {
+    "start_s": 7.5,
+    "end_s": 10.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "hold the iron with your pointer finger on the clamp.",
+    "text_english": "hold the iron with your pointer finger on the clamp."
+   },
+   {
+    "start_s": 10.1,
+    "end_s": 13.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "To start, have the clamp facing down, back of your hand will be on top.",
+    "text_english": "To start, have the clamp facing down, back of your hand will be on top."
+   },
+   {
+    "start_s": 13.6,
+    "end_s": 14.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Put the hair in the barrel.",
+    "text_english": "Put the hair in the barrel."
+   },
+   {
+    "start_s": 14.9,
+    "end_s": 17.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Before you move the iron, flip your hand back. Now the clamp is on top.",
+    "text_english": "Before you move the iron, flip your hand back. Now the clamp is on top."
+   },
+   {
+    "start_s": 17.6,
+    "end_s": 22.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "With a little tension, just slowly slide the barrel down all the way to the ends.",
+    "text_english": "With a little tension, just slowly slide the barrel down all the way to the ends."
+   },
+   {
+    "start_s": 22.1,
+    "end_s": 25.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "The cool air sets each curl, giving long-lasting, beautiful curls.",
+    "text_english": "The cool air sets each curl, giving long-lasting, beautiful curls."
+   },
+   {
+    "start_s": 25.9,
+    "end_s": 29.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "If you have wild, wavy, curly hair like I do, this little airflow styler is so smart.",
+    "text_english": "If you have wild, wavy, curly hair like I do, this little airflow styler is so smart."
+   },
+   {
+    "start_s": 29.9,
+    "end_s": 36.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "It has a cool air feature that prevents the outside of the iron from getting too hot so your hands don't get burnt. It's amazing!",
+    "text_english": "It has a cool air feature that prevents the outside of the iron from getting too hot so your hands don't get burnt. It's amazing!"
+   },
+   {
+    "start_s": 36.9,
+    "end_s": 40.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "And it cools the hair so it's warm and not hot.",
+    "text_english": "And it cools the hair so it's warm and not hot."
+   },
+   {
+    "start_s": 40.6,
+    "end_s": 43.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Easy to get a soft, beautiful, smooth look.",
+    "text_english": "Easy to get a soft, beautiful, smooth look."
+   },
+   {
+    "start_s": 43.7,
+    "end_s": 49.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "For beach waves, same technique as curls, but beach waves are less curl and smooth straight ends.",
+    "text_english": "For beach waves, same technique as curls, but beach waves are less curl and smooth straight ends."
+   },
+   {
+    "start_s": 49.4,
+    "end_s": 53.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "So you're going to pass the hair quickly through the iron, and when you get to the ends, you just barely run them through.",
+    "text_english": "So you're going to pass the hair quickly through the iron, and when you get to the ends, you just barely run them through."
+   },
+   {
+    "start_s": 53.7,
+    "end_s": 58.7,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "For a tousled beach wavy look, I do the first two curls going back, and then I alternate forward, back throughout the rest of the hair.",
+    "text_english": "For a tousled beach wavy look, I do the first two curls going back, and then I alternate forward, back throughout the rest of the hair."
+   },
+   {
+    "start_s": 58.8,
+    "end_s": 61.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "The curved edges make curling so much easier.",
+    "text_english": "The curved edges make curling so much easier."
+   },
+   {
+    "start_s": 61.3,
+    "end_s": 63.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Go shop Wavytalk today! Check out the link in my bio!",
+    "text_english": "Go shop Wavytalk today! Check out the link in my bio!"
+   }
+  ],
+  "transcript_full_original": "If you style your hair the same way every day, let me teach you three easy styles you can do with one tool. For a voluminous curly look, hold the iron with your pointer finger on the clamp. To start, have the clamp facing down, back of your hand will be on top. Put the hair in the barrel. Before you move the iron, flip your hand back. Now the clamp is on top. With a little tension, just slowly slide the barrel down all the way to the ends. The cool air sets each curl, giving long-lasting, beautiful curls. If you have wild, wavy, curly hair like I do, this little airflow styler is so smart. It has a cool air feature that prevents the outside of the iron from getting too hot so your hands don't get burnt. It's amazing! And it cools the hair so it's warm and not hot. Easy to get a soft, beautiful, smooth look. For beach waves, same technique as curls, but beach waves are less curl and smooth straight ends. So you're going to pass the hair quickly through the iron, and when you get to the ends, you just barely run them through. For a tousled beach wavy look, I do the first two curls going back, and then I alternate forward, back throughout the rest of the hair. The curved edges make curling so much easier. Go shop Wavytalk today! Check out the link in my bio!",
+  "transcript_full_english": "If you style your hair the same way every day, let me teach you three easy styles you can do with one tool. For a voluminous curly look, hold the iron with your pointer finger on the clamp. To start, have the clamp facing down, back of your hand will be on top. Put the hair in the barrel. Before you move the iron, flip your hand back. Now the clamp is on top. With a little tension, just slowly slide the barrel down all the way to the ends. The cool air sets each curl, giving long-lasting, beautiful curls. If you have wild, wavy, curly hair like I do, this little airflow styler is so smart. It has a cool air feature that prevents the outside of the iron from getting too hot so your hands don't get burnt. It's amazing! And it cools the hair so it's warm and not hot. Easy to get a soft, beautiful, smooth look. For beach waves, same technique as curls, but beach waves are less curl and smooth straight ends. So you're going to pass the hair quickly through the iron, and when you get to the ends, you just barely run them through. For a tousled beach wavy look, I do the first two curls going back, and then I alternate forward, back throughout the rest of the hair. The curved edges make curling so much easier. Go shop Wavytalk today! Check out the link in my bio!",
+  "word_count": 222,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 0.9,
+    "text": "VOLUMINOUS CURLS",
+    "role": "hook"
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 1.9,
+    "text": "SLEEK & STRAIGHT",
+    "role": "hook"
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 2.9,
+    "text": "BEACH WAVES",
+    "role": "hook"
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 5.4,
+    "text": "3 EASY STYLES USING THE AIRFLOW STYLER!",
+    "role": "hook"
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 25.8,
+    "text": "Style #1:\nVoluminous curls",
+    "role": "benefit"
+   },
+   {
+    "start_s": 9.0,
+    "end_s": 13.5,
+    "text": "Slowly & pull the iron all the way to the ends to create a bouncy curl!",
+    "role": "benefit"
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 24.5,
+    "text": "Cool air comes out of those little holes setting the curl in place!",
+    "role": "benefit"
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 43.6,
+    "text": "Style #2:\nSLEEK & STRAIGHT",
+    "role": "benefit"
+   },
+   {
+    "start_s": 29.5,
+    "end_s": 37.5,
+    "text": "The cool air technology keeps the outside of the iron from getting too hot So it doesn't burn your hands!",
+    "role": "benefit"
+   },
+   {
+    "start_s": 44.5,
+    "end_s": 63.0,
+    "text": "Style #3:\nBEACH WAVES",
+    "role": "benefit"
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 53.5,
+    "text": "Beach Waves are tousled waves with straighter ends.",
+    "role": "benefit"
+   },
+   {
+    "start_s": 55.5,
+    "end_s": 60.5,
+    "text": "I love the curved edges of the Airflow Styler! Makes curls & waves so much nicer!",
+    "role": "benefit"
+   },
+   {
+    "start_s": 61.2,
+    "end_s": 63.0,
+    "text": "GO SHOP WAVY TALK TODAY! CHECK OUT THE LINK IN MY BIO!",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.0,
+    "shot_type": "medium close-up",
+    "visual": "Blonde creator flaunting voluminous bouncy curls.",
+    "action": "Creator turns head and shows off style 1.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 2.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator showing sleek, straight hair in a grey top.",
+    "action": "Creator poses touching her straight hair for style 2.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.0,
+    "end_s": 3.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator showing relaxed, tousled beach waves.",
+    "action": "Creator poses smiling for style 3.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.0,
+    "end_s": 5.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator pinning hair up and holding the pink Wavytalk Airflow Styler.",
+    "action": "Creator clips the top section of her hair and starts clamping the iron.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 25.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator demonstrating Style #1: Voluminous Curls.",
+    "action": "Creator explains hand placement, clamps hair, flips her hand back, glides iron down, and releases a bouncy curl, admiring it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 25.8,
+    "end_s": 43.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator demonstrating Style #2: Sleek & Straight.",
+    "action": "Creator shows her natural frizzy wavy hair, clamps the styler, glides straight through, showing cool-touch exterior and smooth straight results.",
+    "product_visible": true
+   },
+   {
+    "start_s": 43.6,
+    "end_s": 60.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator demonstrating Style #3: Beach Waves.",
+    "action": "Creator glides iron quickly, leaves ends straighter, alternates curl direction, and highlights curved edges.",
+    "product_visible": true
+   },
+   {
+    "start_s": 60.5,
+    "end_s": 63.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator shaking out her finished beach waves with CTA banner.",
+    "action": "Creator fluffs her styled hair with both hands toward the camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Blonde woman with voluminous curls touching her hair with text 'VOLUMINOUS CURLS'.",
+   "visual_0_3s": "Rapid cuts between three finished looks: voluminous curls, sleek straight, and beach waves.",
+   "spoken_0_3s": "If you style your hair the same way every day, let me teach you three easy styles",
+   "text_0_3s": "VOLUMINOUS CURLS / SLEEK & STRAIGHT / BEACH WAVES",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Fast-paced jump cuts switching between three distinctly styled hair looks in the first 3 seconds."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: Rapid showcase of 3 distinct styles possible with 1 tool",
+    "Tutorial 1: Detailed technique for voluminous bouncy curls with cool air set",
+    "Tutorial 2: Straightening natural wavy/frizzy hair while explaining no-burn cool exterior",
+    "Tutorial 3: Beach waves demo with fast glide, straight ends, and alternating directions",
+    "Conclusion & CTA: Fluffing hair and directing viewer to bio link"
+   ],
+   "main_angle": "replaces_multiple_tools",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners",
+    "less_heat_damage"
+   ],
+   "key_claims": [
+    "3 easy styles with 1 tool",
+    "Cool air sets curls in place for long-lasting results",
+    "Cool air technology prevents outside of iron from burning hands",
+    "Cools hair so it stays warm not hot",
+    "Curved edges make curling and waving effortless"
+   ],
+   "pain_points": [
+    "Styling hair the exact same boring way every day",
+    "Burning hands or fingers on conventional hot styling tools",
+    "Extreme heat damaging hair",
+    "Needing multiple separate tools for straightening and curling"
+   ],
+   "objections_handled": [
+    "Will the tool burn my fingers? (No, cool-air exterior keeps it safe to touch)",
+    "Is it hard to curl with a flat iron? (Curved barrel and specific hand-flip instructions make it easy)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional hot flat irons and curling wands that burn hands and only perform one styling function."
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Airflow Styler / Whirlwind Curl"
+   ],
+   "first_seen_s": 3.5,
+   "first_used_on_hair_s": 4.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Go shop Wavytalk today! Check out the link in my bio!",
+   "cta_on_screen": "GO SHOP WAVY TALK TODAY! CHECK OUT THE LINK IN MY BIO!",
+   "cta_at_s": 61.2
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Naturally wavy, frizzy, blonde medium-long hair",
+   "hair_after": "Voluminous curls, sleek straight, and textured beach waves",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "instructive, upbeat, relatable and cheerful"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle upbeat electronic pop background rhythm under clean voiceover narration.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 22,
+   "avg_shot_length_s": 2.86,
+   "pacing": "fast",
+   "effects": [
+    "text overlays",
+    "jump cuts",
+    "section title cards"
+   ],
+   "ending": "Creator smiling, shaking out full beach wavy hair, with CTA sticker at bottom."
+  },
+  "notes": "Clear, high-converting 3-in-1 styling tutorial showing versatile use cases of the Wavytalk Airflow Styler (Whirlwind Curl). Directly tackles flat iron curling learning curve and heat protection benefits."
+ }
+}

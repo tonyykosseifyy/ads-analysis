@@ -1,0 +1,211 @@
+{
+ "media_key": "v_992587780426880",
+ "analyzed_at": "2026-11-28T00:14:23+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "d4da69a81255814fe53d0590099607a62c42306fed8adb3e1b7f96776a713fbf",
+ "source": {
+  "kind": "video",
+  "id": "992587780426880",
+  "video_id": "36542450665370142",
+  "length_s": 26.666,
+  "permalink": "/23849366283980795/videos/36542450665370142/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 27.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A red-haired creator undergoes a quick-cut transformation from messy frizzy hair to bouncy salon blowout curls using the Wavytalk thermal round brush.",
+  "full_description": "The video opens with a young red-haired woman wearing a casual hoodie with unstyled, frizzy hair lip-syncing to upbeat music. On the beat drop, she transitions via snap cut into a pink strapless mini dress in a studio with lavender lighting, holding the beige/gold Wavytalk thermal blowout brush. She sections her hair, demonstrates curling and smoothing locks through the heated round brush, shows a close-up of the heated barrel in action, and curls her face-framing fringe. Intercut with rapid fantasy shots of her standing beside a giant human-sized Wavytalk brush in a retro pink neon diner, she displays her voluminous, shiny, styled red blowout result.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "shot_type": "medium shot",
+    "visual": "A young woman with messy, frizzy red hair wearing a burgundy oversized zip hoodie against a grey background.",
+    "action": "She lip-syncs to the intro lyrics, shakes her hair, and points directly at the camera on the beat drop.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 5.4,
+    "shot_type": "medium shot",
+    "visual": "Instant jump cut transformation to the same creator wearing full glam makeup and a pink mini dress against a purple studio backdrop.",
+    "action": "She catches and reveals the Wavytalk thermal blowout brush in hand, smiling and waving it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 9.5,
+    "shot_type": "medium shot",
+    "visual": "The creator styling her hair with top section pinned up in a half bun.",
+    "action": "She brushes and twirls a strand of hair around the heated round brush to create a curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 11.2,
+    "shot_type": "close-up",
+    "visual": "Tight shot on the ceramic vented barrel and bristles of the Wavytalk brush with red hair wrapped around it.",
+    "action": "Her hands rotate the brush through the section of hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 16.5,
+    "shot_type": "medium shot",
+    "visual": "The creator demonstrating styling technique on her face-framing layers and bangs.",
+    "action": "She rolls the brush upwards and outwards through her front bangs and pulls it through smoothly, smiling at camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 18.3,
+    "shot_type": "wide shot",
+    "visual": "Stylized retro diner set bathed in pink neon light with a CGI giant human-sized Wavytalk brush.",
+    "action": "The creator in her pink dress poses and rests her hand next to the oversized brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.3,
+    "end_s": 20.4,
+    "shot_type": "medium shot",
+    "visual": "Purple studio background with creator showing final styled hair.",
+    "action": "She poses with the brush near her shoulder, shaking her voluminous wavy red hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.4,
+    "end_s": 21.6,
+    "shot_type": "wide shot",
+    "visual": "Quick flash back to the retro pink neon diner with the giant brush.",
+    "action": "Creator poses with arms crossed beside the giant brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 21.6,
+    "end_s": 23.5,
+    "shot_type": "medium shot",
+    "visual": "Studio setting showing close-up of glossy bouncy red blowout curls.",
+    "action": "She runs her fingers through the curls to show bounce and shine.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 24.5,
+    "shot_type": "wide shot",
+    "visual": "Brief beat back to the diner set with giant brush.",
+    "action": "Creator poses with hands on hips beside the oversized brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.5,
+    "end_s": 27.0,
+    "shot_type": "medium shot",
+    "visual": "Final studio hero shot of the creator with perfect blowout waves.",
+    "action": "She holds the Wavytalk brush next to her face while gently touching her hair and gazing into camera.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator with wild, frizzy, disheveled red hair in an oversized hoodie looking into the camera.",
+   "visual_0_3s": "Fast visual glow-up transition from messy hoodie look to fully glam pink-dress studio look with the styling tool in hand.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "before_after",
+   "hook_type_secondary": "trend_or_sound",
+   "pattern_interrupt": "A sudden beat-drop jump cut taking the creator from casual messy hair to full studio glam in 2 seconds."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Messy before look setup",
+    "Beat-drop transformation reveal with product",
+    "Step-by-step curling demo on different hair sections",
+    "Surreal CGI giant brush aesthetic cut",
+    "Hero final hair reveal showing glossy volume and bounce"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Effortlessly transforms messy frizzy hair into salon blowout curls"
+   ],
+   "pain_points": [
+    "Frizzy, unruly, unstyled hair"
+   ],
+   "objections_handled": [
+    "Looks difficult to curl bangs or create volume (demonstrated easily on front layers)"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 2.1,
+   "first_used_on_hair_s": 5.4,
+   "final_result_shown_s": 18.3,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "model",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Bright crimson/red dyed hair, medium-long, frizzy, unstyled, dry texture",
+   "hair_after": "Voluminous, silky, shiny, inward-curling blowout waves with curtain bangs",
+   "setting": "studio",
+   "faces_camera": true,
+   "energy_tone": "Confident, playful, trendy, glamorous"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Upbeat pop electronic dance track with female vocals ('Only you move me to the rhythm...') matching the tempo of the quick cuts.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 10,
+   "avg_shot_length_s": 2.7,
+   "pacing": "fast",
+   "effects": [
+    "Beat-synced jump cuts",
+    "CGI human-scale 3D product rendering in retro diner set",
+    "Studio lighting color contrast"
+   ],
+   "ending": "Creator holding the brush and showcasing her finished hair directly to camera."
+  },
+  "notes": "Ad is completely music-driven with no voiceover or text overlay, relying entirely on visual transformation, clear demonstration technique, and high-energy pacing."
+ }
+}

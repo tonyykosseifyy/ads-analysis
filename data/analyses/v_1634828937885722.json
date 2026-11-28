@@ -1,0 +1,494 @@
+{
+ "media_key": "v_1634828937885722",
+ "analyzed_at": "2026-11-28T00:20:39+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "0a61d3837c4d5d76ae3e2e72dd8fb5c015c2a22e097a3178c8bc20e7142a8269",
+ "source": {
+  "kind": "video",
+  "id": "1634828937885722",
+  "video_id": "868966785855283",
+  "length_s": 42.233,
+  "permalink": "/23849366283980795/videos/868966785855283/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 41.48,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates straightening thick, frizzy wavy hair in 8 minutes using Wavytalk's Steamline Pro steam brush.",
+  "full_description": "A creator showcases her hair transformation from thick, frizzy waves to glossy, pin-straight locks using the Wavytalk Steamline Pro brush. She explains how the steam technology hydrates hair while styling to provide sleek, frizz-resistant, long-lasting results that withstand humidity and rain.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "It only took me 8 minutes to take my hair from this",
+    "text_english": "It only took me 8 minutes to take my hair from this"
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 4.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "to this.",
+    "text_english": "to this."
+   },
+   {
+    "start_s": 4.6,
+    "end_s": 7.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "If you haven't heard of Wavytalk's Viral Steamline Pro by now,",
+    "text_english": "If you haven't heard of Wavytalk's Viral Steamline Pro by now,"
+   },
+   {
+    "start_s": 7.6,
+    "end_s": 9.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "let me introduce you to it.",
+    "text_english": "let me introduce you to it."
+   },
+   {
+    "start_s": 9.2,
+    "end_s": 12.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "It's a straightener brush that uses steam technology,",
+    "text_english": "It's a straightener brush that uses steam technology,"
+   },
+   {
+    "start_s": 12.2,
+    "end_s": 14.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "and it's truly not like any other tool I've ever used.",
+    "text_english": "and it's truly not like any other tool I've ever used."
+   },
+   {
+    "start_s": 14.9,
+    "end_s": 17.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "My hair is naturally wavy and frizzy,",
+    "text_english": "My hair is naturally wavy and frizzy,"
+   },
+   {
+    "start_s": 17.0,
+    "end_s": 19.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "and I've always struggled with finding a straightener",
+    "text_english": "and I've always struggled with finding a straightener"
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 21.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "that can actually get my hair sleek",
+    "text_english": "that can actually get my hair sleek"
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 22.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "with results that hold",
+    "text_english": "with results that hold"
+   },
+   {
+    "start_s": 22.3,
+    "end_s": 24.1,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "and don't frizz up after an hour.",
+    "text_english": "and don't frizz up after an hour."
+   },
+   {
+    "start_s": 24.1,
+    "end_s": 25.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "What sets this tool apart",
+    "text_english": "What sets this tool apart"
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 28.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "is that it uses steam to hydrate your hair as it styles,",
+    "text_english": "is that it uses steam to hydrate your hair as it styles,"
+   },
+   {
+    "start_s": 28.0,
+    "end_s": 29.8,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "giving you sleeker and smoother results.",
+    "text_english": "giving you sleeker and smoother results."
+   },
+   {
+    "start_s": 29.8,
+    "end_s": 32.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Like, are you seeing the shine? It's insane.",
+    "text_english": "Like, are you seeing the shine? It's insane."
+   },
+   {
+    "start_s": 32.2,
+    "end_s": 34.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I never need to worry about frizz.",
+    "text_english": "I never need to worry about frizz."
+   },
+   {
+    "start_s": 34.6,
+    "end_s": 37.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "These results hold up all day and literally through anything.",
+    "text_english": "These results hold up all day and literally through anything."
+   },
+   {
+    "start_s": 37.6,
+    "end_s": 40.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Humidity and the rain isn't even a match.",
+    "text_english": "Humidity and the rain isn't even a match."
+   },
+   {
+    "start_s": 40.0,
+    "end_s": 41.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Let this be your sign to get a Steamline Pro.",
+    "text_english": "Let this be your sign to get a Steamline Pro."
+   }
+  ],
+  "transcript_full_original": "It only took me 8 minutes to take my hair from this to this. If you haven't heard of Wavytalk's Viral Steamline Pro by now, let me introduce you to it. It's a straightener brush that uses steam technology, and it's truly not like any other tool I've ever used. My hair is naturally wavy and frizzy, and I've always struggled with finding a straightener that can actually get my hair sleek with results that hold and don't frizz up after an hour. What sets this tool apart is that it uses steam to hydrate your hair as it styles, giving you sleeker and smoother results. Like, are you seeing the shine? It's insane. I never need to worry about frizz. These results hold up all day and literally through anything. Humidity and the rain isn't even a match. Let this be your sign to get a Steamline Pro.",
+  "transcript_full_english": "It only took me 8 minutes to take my hair from this to this. If you haven't heard of Wavytalk's Viral Steamline Pro by now, let me introduce you to it. It's a straightener brush that uses steam technology, and it's truly not like any other tool I've ever used. My hair is naturally wavy and frizzy, and I've always struggled with finding a straightener that can actually get my hair sleek with results that hold and don't frizz up after an hour. What sets this tool apart is that it uses steam to hydrate your hair as it styles, giving you sleeker and smoother results. Like, are you seeing the shine? It's insane. I never need to worry about frizz. These results hold up all day and literally through anything. Humidity and the rain isn't even a match. Let this be your sign to get a Steamline Pro.",
+  "word_count": 139,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.0,
+    "text": "Using STEAM to straighten my hair in only 8 minutes?!",
+    "role": "hook"
+   },
+   {
+    "start_s": 5.0,
+    "end_s": 7.6,
+    "text": "if you haven't heard of Wavytalk's Viral Steamline Pro by now",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.6,
+    "end_s": 9.2,
+    "text": "let me introduce you to it",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.2,
+    "end_s": 12.2,
+    "text": "it is a straightener brush that uses steam technology",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.2,
+    "end_s": 14.8,
+    "text": "and it's truly not like any other tool I've ever used",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.9,
+    "end_s": 17.0,
+    "text": "my hair is naturally wavy and frizzy",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.0,
+    "end_s": 19.8,
+    "text": "and I've always struggled with finding a straightener",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 19.8,
+    "end_s": 21.0,
+    "text": "that can actually get my hair sleek",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.0,
+    "end_s": 22.3,
+    "text": "with results that hold",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.3,
+    "end_s": 24.1,
+    "text": "and don't frizz up after an hour",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 24.1,
+    "end_s": 25.5,
+    "text": "what sets this tool apart",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.5,
+    "end_s": 28.0,
+    "text": "is that it uses steam to hydrate your hair as it styles",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 28.0,
+    "end_s": 29.8,
+    "text": "giving you sleeker and smoother results",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 29.8,
+    "end_s": 32.2,
+    "text": "like are you seeing the shine it's insane",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 32.2,
+    "end_s": 34.6,
+    "text": "I never need to worry about frizz",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 34.6,
+    "end_s": 37.6,
+    "text": "these results hold up all day and literally through anything",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 37.6,
+    "end_s": 40.0,
+    "text": "humidity and the rain isn't even a match",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 40.0,
+    "end_s": 41.5,
+    "text": "let this be your sign to get a Steamline Pro",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator in bathrobe finishing a pass of the white Wavytalk Steamline Pro brush on a front hair section.",
+    "action": "Creator glides the brush through her hair to reveal a pin-straight strand next to frizzy waves.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.5,
+    "end_s": 3.7,
+    "shot_type": "close-up",
+    "visual": "Creator displays full voluminous wavy frizzy hair before styling.",
+    "action": "Creator runs fingers through wild, wavy before-hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 5.4,
+    "shot_type": "medium shot",
+    "visual": "Creator fully styled with silky straight hair.",
+    "action": "Creator shows off the sleek final straight results.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.4,
+    "end_s": 7.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding up the Wavytalk Steamline Pro brush bristles-forward to camera.",
+    "action": "Creator introduces the device facing the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.7,
+    "end_s": 12.3,
+    "shot_type": "close-up",
+    "visual": "Side view of creator gliding the straightener brush through a section of brown hair.",
+    "action": "Smooth pass through hair showing steam-assisted straightening.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 14.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushing through the top section near her ear.",
+    "action": "Creator uses the steam straightener on front sections.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 17.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator points out the straight section versus untouched wavy texture.",
+    "action": "Creator points fingers to hair sections comparing textures.",
+    "product_visible": false
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 22.1,
+    "shot_type": "medium shot",
+    "visual": "Half-and-half comparison: left side straight and glossy, right side wavy and frizzy.",
+    "action": "Creator points from the sleek straight side to the frizzy wavy side.",
+    "product_visible": false
+   },
+   {
+    "start_s": 22.1,
+    "end_s": 28.8,
+    "shot_type": "close-up",
+    "visual": "Close-up action shots of the Wavytalk Steamline Pro brushing through hair roots to tips.",
+    "action": "Demonstrating the steam bristle design straightening each strand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.8,
+    "end_s": 34.6,
+    "shot_type": "medium shot",
+    "visual": "Creator admiring glossy, sleek straightened hair.",
+    "action": "Creator runs fingers through glossy straight hair, displaying extreme shine.",
+    "product_visible": false
+   },
+   {
+    "start_s": 34.6,
+    "end_s": 38.8,
+    "shot_type": "back view / medium shot",
+    "visual": "Creator turns back to camera, displaying smooth length down her back.",
+    "action": "Creator shakes hair to show movement and sleekness from behind.",
+    "product_visible": false
+   },
+   {
+    "start_s": 38.8,
+    "end_s": 41.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the Wavytalk Steamline Pro tool against her face.",
+    "action": "Creator poses with the tool for the final CTA.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator pulling the white Wavytalk Steamline Pro brush through her hair with hook text overlay.",
+   "visual_0_3s": "Smooth gliding pass of the steam brush instantly revealing straightened hair, followed by a cut to her wild wavy hair.",
+   "spoken_0_3s": "It only took me 8 minutes to take my hair from this to this.",
+   "text_0_3s": "Using STEAM to straighten my hair in only 8 minutes?!",
+   "hook_type": "before_after",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Rapid jump cut from instant pass to frizzy 'before' mane, then snap transition to completely straight hair."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: Fast 8-minute dramatic before/after transformation using steam.",
+    "Product introduction: Wavytalk Steamline Pro viral straightener brush.",
+    "Pain point: Naturally wavy/frizzy hair that normally re-frizzes after an hour.",
+    "Feature & Mechanism: Steam technology hydrates hair during styling.",
+    "Results & Proof: Intense shine, 50/50 split comparison, and long-lasting humidity resistance.",
+    "Call to action: Sign to purchase the Steamline Pro."
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "saves_time",
+    "salon_result_at_home",
+    "social_proof_popularity"
+   ],
+   "key_claims": [
+    "Straightens hair in only 8 minutes",
+    "Uses steam technology to hydrate hair while styling",
+    "Gives sleeker, smoother, insane shine results",
+    "Results hold all day through humidity and rain without frizzing"
+   ],
+   "pain_points": [
+    "Naturally wavy and frizzy hair",
+    "Straighteners that lose hold and frizz up after just an hour",
+    "Frizz caused by humidity and rain"
+   ],
+   "objections_handled": [
+    "Will it hold in humidity? Yes, holds all day even in rain and humidity.",
+    "Will heat dry out hair? No, steam hydrates while styling."
+   ],
+   "social_proof": [
+    "References 'Wavytalk's Viral Steamline Pro'"
+   ],
+   "comparison_to": "Traditional hair straighteners that don't hold and frizz after an hour"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steamline Pro"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 3.7,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Let this be your sign to get a Steamline Pro.",
+   "cta_on_screen": "let this be your sign to get a Steamline Pro",
+   "cta_at_s": 40.0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Long, thick, naturally wavy and frizzy brunette hair",
+   "hair_after": "Ultra-sleek, pin-straight, reflective glossy brunette hair",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "enthusiastic, confident, and informative"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle upbeat lo-fi background pop beat",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 11,
+   "avg_shot_length_s": 3.77,
+   "pacing": "fast",
+   "effects": [
+    "burn-in text captions",
+    "split half-and-half styling demonstration"
+   ],
+   "ending": "Creator smiling next to the Steamline Pro tool facing camera with CTA on screen."
+  },
+  "notes": "Original creator video promoting the Wavytalk Steamline Pro steam brush, running via Wavytalk Lebanon reseller account."
+ }
+}

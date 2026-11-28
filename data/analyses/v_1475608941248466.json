@@ -1,0 +1,174 @@
+{
+ "media_key": "v_1475608941248466",
+ "analyzed_at": "2026-11-28T00:25:54+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "dec4173c77d423780231b436046d908687440993a0921e4dd33531edc284222e",
+ "source": {
+  "kind": "video",
+  "id": "1475608941248466",
+  "video_id": "1488614646109106",
+  "length_s": 23.59,
+  "permalink": "/23849366283980795/videos/1488614646109106/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 23.4,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A young woman demonstrates curling her hair into small and big curls using the pink WavyTalk styling tool set to upbeat music.",
+  "full_description": "A vertical selfie-style UGC video where a creator demonstrates the ease of styling curls with the pink WavyTalk airflow styler/curler (Whirlwind Curl). She starts by showing the digital temperature display ramping up, followed by a demo showing 'small curls' on a thin strand of hair, then 'bigger curls' on a larger section, showcasing bouncy results with no spoken words, backed by a trending pop music track.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.4,
+    "text": "Look how easy it is to do curls with the right tool",
+    "role": "hook"
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 11.2,
+    "text": "small curls",
+    "role": "benefit"
+   },
+   {
+    "start_s": 11.3,
+    "end_s": 23.4,
+    "text": "bigger curls",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator sits facing camera holding the pale pink WavyTalk styler, showing the barrel and turning it on as the digital temperature climbs.",
+    "action": "Creator holds the styling tool towards camera, displays the power button and LED temperature reading ramping up.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 11.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator working on a small section of her front hair using the tool.",
+    "action": "Creator clamps a thin section of hair, rotates the iron, glides it through, and inspects the resulting tight spiral curl with her hand.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.3,
+    "end_s": 17.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator takes a thicker section of hair near her crown/side.",
+    "action": "She clamps the larger strand into the iron, winds it around, and pulls downward slowly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.3,
+    "end_s": 23.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator reveals the large defined bouncy spiral curl.",
+    "action": "Creator releases the iron, twirls the large curl around her finger, smiles happily at the camera, and poses with the completed style.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink WavyTalk styler with text overlay 'Look how easy it is to do curls with the right tool'.",
+   "visual_0_3s": "Creator displaying the pink styler and turning it toward the camera lens to show the LED display.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Look how easy it is to do curls with the right tool",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Direct aesthetic camera reveal showing the digital heat-up numbers rapidly rising."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Tool introduction and fast heat-up display",
+    "Demonstration of tight small curls technique and immediate result",
+    "Demonstration of loose bigger curls technique",
+    "Final curl reveal and satisfaction display"
+   ],
+   "main_angle": "easy_for_beginners",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "replaces_multiple_tools"
+   ],
+   "key_claims": [
+    "Curling hair is easy with the right tool",
+    "Creates versatile curl sizes including small and bigger curls"
+   ],
+   "pain_points": [
+    "Difficulty achieving consistent curls with standard flat irons"
+   ],
+   "objections_handled": [
+    "Versatility for different styles and curl tightness"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Whirlwind Curl"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 5.5,
+   "final_result_shown_s": 8.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, dark brown, straight/slightly wavy",
+   "hair_after": "Styled with defined spiral curls (small and large)",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "playful, confident, trendy"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat pop / R&B track featuring female vocals ('Baby girl you are so pretty...')",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 3,
+   "avg_shot_length_s": 5.85,
+   "pacing": "medium",
+   "effects": [
+    "text overlays"
+   ],
+   "ending": "Creator smiles, twirls her freshly styled big curl, and gestures towards the camera holding the tool."
+  },
+  "notes": "No spoken audio; entirely music and visual demonstration. Brand name 'wavytalk' visible on the device barrel in selfie mirror view."
+ }
+}

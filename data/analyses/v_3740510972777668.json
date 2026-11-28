@@ -1,0 +1,208 @@
+{
+ "media_key": "v_3740510972777668",
+ "analyzed_at": "2026-11-28T00:13:52+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "44618b4fa6d5c2544c078640129d2d06aa15c50fe5ff78f15fc508b385ab18ee",
+ "source": {
+  "kind": "video",
+  "id": "3740510972777668",
+  "video_id": "1544392231055557",
+  "length_s": 19.737,
+  "permalink": "/23849366283980795/videos/1544392231055557/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 19.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A redhead creator with voluminous, frizzy waves transforms her hair into ultra-sleek, pin-straight locks using the Wavytalk steam brush.",
+  "full_description": "The video opens with a young red-haired woman showing off her massive, frizzy, curly ginger hair alongside photos of sleek straight hair and the caption 'Straight hair >>>'. She sections her hair and uses the pink Wavytalk steam straightening brush, demonstrating how a single pass glides through and instantly straightens her thick strands. A brief close-up highlights the steam emitting from the tool. After showing a dramatic half-and-half comparison and finishing her bangs, the ad concludes with her posing and showing off her silky, long, pin-straight results set to background music.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.5,
+    "text": "Straight hair >>>",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.5,
+    "shot_type": "medium close-up",
+    "visual": "Young woman with huge, wild, voluminous curly red hair looking into camera with hair inspiration photos overlaid",
+    "action": "Stands looking at the camera with text 'Straight hair >>>' before starting her hair routine",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.5,
+    "end_s": 3.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator in her room parting and clipping her thick red hair into sections",
+    "action": "Sections off a front strand to prepare for straightening",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.8,
+    "end_s": 5.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the pink Wavytalk steam brush and glides it down a wavy section",
+    "action": "Passes the hot steam brush through the curl, instantly making it pin-straight and shiny",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 6.7,
+    "shot_type": "close-up",
+    "visual": "Handheld shot of the pink Wavytalk steam straightening brush bristles",
+    "action": "The brush releases visible steam vapor while held horizontal",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.7,
+    "end_s": 7.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushing another section from the back of her head",
+    "action": "Pulls the brush down through the back layer of hair",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.9,
+    "end_s": 9.7,
+    "shot_type": "medium close-up",
+    "visual": "Half-straight, half-curly comparison as she straightens the top front section",
+    "action": "Runs the brush through the upper front section, showcasing the contrast between the straightened side and the curly side",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.7,
+    "end_s": 11.8,
+    "shot_type": "close-up",
+    "visual": "Creator styling her curtain bangs and face-framing fringe with the steam brush",
+    "action": "Brushes front bangs through the heated bristles for a slight curve and smooth finish",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.8,
+    "end_s": 13.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator finishing the other side of her hair",
+    "action": "Passes the brush through the remaining wavy sections",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 19.5,
+    "shot_type": "medium shot",
+    "visual": "Final reveal showing completely sleek, silky, ultra-long straight red hair",
+    "action": "Moves head side to side, smiling, touching her hair, and showing the finished sleek texture",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator with massive, frizzy curly ginger hair and text overlay 'Straight hair >>>' with two reference photos of long sleek hair",
+   "visual_0_3s": "Extreme contrast between wild voluminous hair and the sleek hair trend reference photos, immediately grabbing visual attention",
+   "spoken_0_3s": "",
+   "text_0_3s": "Straight hair >>>",
+   "hook_type": "before_after",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "The enormous volume and frizz of the creator's natural hair paired with reference photos of impossible sleekness creates instant visual intrigue."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Visual hook establishing curly/frizzy state vs desired sleek straight hair",
+    "Sectioning hair for styling",
+    "First pass demo proving immediate one-stroke straightening",
+    "Steam feature product close-up",
+    "Half-and-half contrast demonstrating dramatic effectiveness",
+    "Front styling / bangs demo",
+    "Final transformation reveal and hair movement showcase"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Tames and flattens even extremely frizzy, voluminous curly hair in one pass",
+    "Hydrating steam leaves hair silky, shiny, and pin-straight"
+   ],
+   "pain_points": [
+    "Hard-to-manage frizzy curly hair",
+    "Ineffective straighteners that take too many passes",
+    "Heat damage and puffiness"
+   ],
+   "objections_handled": [
+    "Will it work on very thick or wild frizzy curls? (Shown effortlessly straightening dense hair in single strokes)"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional flat irons or regular blow-drying"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steambrush Pro"
+   ],
+   "first_seen_s": 3.8,
+   "first_used_on_hair_s": 3.8,
+   "final_result_shown_s": 13.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Very long, highly voluminous, frizzy natural ginger/red waves and curls",
+   "hair_after": "Ultra-long, pin-straight, smooth, glossy red hair",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "satisfying, aesthetic, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Upbeat Spanish rhythmic pop song with female vocals",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 2.4,
+   "pacing": "fast",
+   "effects": [
+    "image overlay stickers on opening hook",
+    "quick jump cuts synced to demonstration steps"
+   ],
+   "ending": "Final beauty poses displaying straight hair from various angles with a warm smile"
+  },
+  "notes": "Video relies purely on satisfying visual transformation and trending background music without spoken commentary or sales pitch overlays."
+ }
+}

@@ -1,0 +1,175 @@
+{
+ "media_key": "v_1357855192960844",
+ "analyzed_at": "2026-11-28T00:08:45+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "35e16d480c964f680c8fc85d327410878f35e4c5a8d27b1e29ce2c9dc687a24f",
+ "source": {
+  "kind": "video",
+  "id": "1357855192960844",
+  "ig_media_id": "18131782120764156",
+  "permalink": "https://www.instagram.com/p/DfWxFgYMqgF/"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 18.9,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates styling her long hair with the Wavytalk thermal round brush, showcasing bouncy, voluminous waves with an on-screen text hook.",
+  "full_description": "A woman sits facing the camera holding a light blue Wavytalk thermal round brush with text overlay stating she has used it for 3 years. Over trending background music with no spoken words, she demonstrates curling and smoothing front and side sections of her long, brunette highlighted hair. She twirls the hair around the barrel, releases glossy bouncy curls, runs her fingers through her full mane of hair, and poses smiling with the heated brush.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.4,
+    "text": "Been using this tool for 3 years and it still amazes me",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting in a bedroom/living space holding the light blue thermal brush upright next to her face, smiling at the camera with text overlay.",
+    "action": "Holds brush up, smiles confidently.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 5.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator wrapping a front bang strand around the thermal barrel brush and slowly rolling it upward.",
+    "action": "Rolls the tool through her front strand and gently pulls it out to release a curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.9,
+    "end_s": 10.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds the tool, inspects the formed face-framing curl, and pulls through another strand.",
+    "action": "Inspects hair and prepares next section.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.2,
+    "end_s": 14.5,
+    "shot_type": "medium shot",
+    "visual": "Creator rolls another side section of her long hair using the thermal brush, curling downwards and releasing a spiral wave.",
+    "action": "Curling a side strand and twisting it out.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.5,
+    "end_s": 18.9,
+    "shot_type": "medium shot",
+    "visual": "Creator runs both hands through her voluminous, glossy curled blowout, shaking it out before holding the brush back up next to her face.",
+    "action": "Tousles and fluffs hair, smiles, and displays the brush next to her hair.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the light blue thermal brush up, with text reading 'Been using this tool for 3 years and it still amazes me'.",
+   "visual_0_3s": "Creator presents the tool next to her already gorgeous hair and immediately begins wrapping a front section around it.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Been using this tool for 3 years and it still amazes me",
+   "hook_type": "bold_claim",
+   "hook_type_secondary": "social_proof",
+   "pattern_interrupt": "Long-term loyalty claim paired immediately with effortless styling demonstration."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Hook with text overlay showing long-term satisfaction (3 years of use)",
+    "Live demonstration curling front face-framing bangs",
+    "Demonstration curling side lengths",
+    "Shake out and reveal of full, voluminous blowout result",
+    "Final pose holding the product"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners",
+    "social_proof_popularity"
+   ],
+   "key_claims": [
+    "Tool still amazes after 3 years of continuous use",
+    "Creates smooth, bouncy blowout curls effortlessly"
+   ],
+   "pain_points": [
+    "Difficult traditional round brush and blow dryer technique",
+    "Frizz and lack of shape in hair"
+   ],
+   "objections_handled": [
+    "Durability / longevity of the tool (proven by 3 years use claim)",
+    "Ease of creating defined face-framing curls without tangling"
+   ],
+   "social_proof": [
+    "3-year personal customer endorsement"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Round Brush (Blowout Boost)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 1.2,
+   "final_result_shown_s": 14.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Long, thick brunette hair with caramel highlights, styled into loose waves.",
+   "hair_after": "Voluminous, glossy, bouncy layered blowout curls.",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, aesthetic, relaxed"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Female pop/urban song with lyrics 'I just wanna make a lot of money, be my own housewife...'.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 4,
+   "avg_shot_length_s": 3.78,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator tousles her finished hair and poses smiling with the thermal brush in hand."
+  },
+  "notes": "No spoken dialogue in the clip. Highly visual UGC demonstration focusing on the effortless curl formation and long-term reliability angle."
+ }
+}

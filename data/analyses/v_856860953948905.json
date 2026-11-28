@@ -1,0 +1,191 @@
+{
+ "media_key": "v_856860953948905",
+ "analyzed_at": "2026-11-28T00:12:48+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "0f9b43b530770093a66be64b2911280a39fa7a849da0f5932257d647be27e899",
+ "source": {
+  "kind": "video",
+  "id": "856860953948905",
+  "video_id": "1014896604629967",
+  "length_s": 40.833,
+  "permalink": "/23849366283980795/videos/1014896604629967/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 40.96,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates a fast 15-minute bouncy blowout using the WavyTalk Blowout Boost thermal round brush set to trending Arabic music.",
+  "full_description": "A creator film herself in a modern bathroom demonstrating a full at-home blowout tutorial. She starts by presenting her prep product (Lush Super Milk), then presents the pink WavyTalk Blowout Boost thermal styling brush, powering it on to show the digital temperature display reaching 200°C. She sections her long brunette hair and glides the heated round brush through strands, wrapping and releasing bouncy curls and waves. She applies finishing spray and styles her curtain bangs up and back. The video concludes with a showcase of her voluminous, shiny salon-style blowout results as she flips and touches her styled hair. A steady caption reads '15 minutes blowout in 40 seconds' over upbeat Arabic pop music.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 40.96,
+    "text": "15 minutes blowout in 40 seconds",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "shot_type": "medium selfie shot",
+    "visual": "Creator in bathroom holding up Lush Super Milk conditioning hair primer to prep her hair.",
+    "action": "Creator pouts and presents the hair primer bottle to the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 7.4,
+    "shot_type": "close-up",
+    "visual": "Pink WavyTalk thermal round brush held in front of the camera.",
+    "action": "Creator shows the brush barrel and presses the power button, displaying the digital temperature indicator warming up to 200°C.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 9.5,
+    "shot_type": "medium selfie shot",
+    "visual": "Creator dividing her long hair into sections.",
+    "action": "Creator separates and sections her hair with clips to prepare for styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 9.5,
+    "end_s": 20.6,
+    "shot_type": "medium selfie shot",
+    "visual": "Creator using the heated round brush on bottom hair sections.",
+    "action": "Creator brushes and twists hair around the barrel, rolling it down to release voluminous bouncy waves.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.6,
+    "end_s": 22.2,
+    "shot_type": "medium selfie shot",
+    "visual": "Creator applying hair styling spray to her curls.",
+    "action": "Creator sprays texturizing / holding spray onto the curled strands.",
+    "product_visible": false
+   },
+   {
+    "start_s": 22.2,
+    "end_s": 29.8,
+    "shot_type": "medium selfie shot",
+    "visual": "Creator styling upper sections and curtain bangs with the thermal brush.",
+    "action": "Creator rolls the top section and bangs backwards over the brush barrel to create lift and volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 29.8,
+    "end_s": 40.96,
+    "shot_type": "medium selfie shot",
+    "visual": "Creator showing the final full blowout results.",
+    "action": "Creator runs fingers through her bouncy, glossy layered blowout, flipping her hair and smiling at the camera.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator making a playful face towards the camera in a modern bathroom.",
+   "visual_0_3s": "Creator holding hair prep product before showing the WavyTalk styling tool.",
+   "spoken_0_3s": "",
+   "text_0_3s": "15 minutes blowout in 40 seconds",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Promising a complete salon-grade blowout in just 15 minutes compressed into a snappy 40-second video."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Time-lapse hook promising a 15-minute blowout",
+    "Tool and prep product reveal",
+    "Step-by-step sectioning and curling demo",
+    "Front layer / bangs styling demo",
+    "Final glossy, bouncy blowout results showcase"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Full blowout achieved in only 15 minutes",
+    "Delivers voluminous, salon-quality bouncy curls with ease"
+   ],
+   "pain_points": [
+    "Blowouts taking too long with traditional round brush and blow dryer",
+    "Flat hair lacking volume and curl definition"
+   ],
+   "objections_handled": [
+    "Demonstrates heat brush smoothly gliding without tangling long hair"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost",
+    "Lush Super Milk"
+   ],
+   "first_seen_s": 2.8,
+   "first_used_on_hair_s": 9.5,
+   "final_result_shown_s": 29.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, dark brown/black, straight to slightly wavy and flat",
+   "hair_after": "Voluminous, shiny, layered blowout with large bouncy curls",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "confident, stylish, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Female Arabic upbeat romantic pop song ('Laeetna Fag'ah Bat'awed Aleih / Eini Khod Eini')",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 14,
+   "avg_shot_length_s": 2.9,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts",
+    "speed ramps"
+   ],
+   "ending": "Creator admiring and adjusting her finished blowout in the mirror."
+  },
+  "notes": "Video contains no spoken voice track; relies on music track and visual demo with persistent static subtitle text."
+ }
+}

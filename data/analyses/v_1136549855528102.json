@@ -1,0 +1,194 @@
+{
+ "media_key": "v_1136549855528102",
+ "analyzed_at": "2026-11-28T00:08:54+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "84f71a9908ca55b22a9ca41913c3874b95f1688dc5a21e8c3d13d4634e5fd287",
+ "source": {
+  "kind": "video",
+  "id": "1136549855528102",
+  "video_id": "1656663689140727",
+  "length_s": 28.966,
+  "permalink": "/23849366283980795/videos/1656663689140727/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 28.7,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator showcases her voluminous 90s blowout and demonstrates step-by-step how to style it using the pink Wavytalk thermal round brush.",
+  "full_description": "The video starts with the creator showcasing her finished voluminous 90s blowout with an on-screen text hook reading 'Easiest 90's Blowout'. She flashes the pink Wavytalk thermal brush to the camera before transitioning to a quick step-by-step tutorial. With her hair sectioned using a claw clip, she curls the mid-lengths, ends, and crown layer to achieve bouncy face-framing layers and root lift. The video concludes with her shaking out her shiny, styled hair and admiring the full result to trending background music.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 5.4,
+    "text": "Easiest 90's Blowout",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "shot_type": "medium close-up",
+    "visual": "Young woman in a bathroom setting shaking out and showcasing her fully styled, voluminous black hair.",
+    "action": "Creator shakes her bouncy hair with both hands towards the camera, looking confident.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 3.4,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds up the pink Wavytalk thermal round brush in front of her chest.",
+    "action": "Creator poses with the thermal brush and blows a kiss while presenting the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 5.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator fluffs her styled layers and touches her hair.",
+    "action": "Creator runs fingers through her hair to show off the bounce and curl.",
+    "product_visible": false
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 11.4,
+    "shot_type": "medium shot",
+    "visual": "Top hair pinned up with a claw clip; creator styling a lower strand using the pink thermal brush.",
+    "action": "Creator glides the brush through a section of hair, winds the end around the barrel, and rolls it up.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.4,
+    "end_s": 14.8,
+    "shot_type": "medium shot",
+    "visual": "Creator twists the brush out of the curl and checks the newly formed bouncy wave.",
+    "action": "She unwinds the brush smoothly and cups the warm curl to set the shape.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 18.5,
+    "shot_type": "medium shot",
+    "visual": "Creator demonstrates rolling the front face-framing layer outwards.",
+    "action": "She brushes through the mid-lengths, curls the ends inwards, and glides through.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 23.5,
+    "shot_type": "medium close-up",
+    "visual": "Styling the top crown section with the thermal brush for maximum root volume.",
+    "action": "She pulls the crown section straight up, wraps it around the barrel, rolls down to the root, and releases backwards.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 28.7,
+    "shot_type": "medium close-up",
+    "visual": "Final blowout reveal with dramatic volume, body, and flipped layers.",
+    "action": "Creator flips and shakes her styled hair with both hands, posing for the camera with a satisfied smile.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing the camera shaking out voluminous 90s blowout hair with text overlay 'Easiest 90's Blowout'.",
+   "visual_0_3s": "Finished voluminous blowout shown immediately, followed by presenting the pink thermal brush.",
+   "spoken_0_3s": "",
+   "text_0_3s": "Easiest 90's Blowout",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Instant reveal of dramatic bouncy hair followed immediately by holding up the styling tool."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Result reveal hook showing dramatic 90s blowout hair",
+    "Product presentation showing the styling tool used",
+    "Step-by-step curling and wrapping technique on lower and side sections",
+    "Crown section technique for root volume",
+    "Final comb-out and satisfied hair reveal"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Achieve an easy 90s blowout look at home"
+   ],
+   "pain_points": [
+    "Difficulty getting salon blowout volume and curl with traditional round brushes and blow dryers"
+   ],
+   "objections_handled": [
+    "Complexity of doing a round-brush blowout is simplified into a one-step heated tool"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional blow dryer and round brush blowout"
+  },
+  "product": {
+   "products_shown": [
+    "Blowout Boost"
+   ],
+   "first_seen_s": 2.1,
+   "first_used_on_hair_s": 5.6,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Dark brown/black thick long layered hair",
+   "hair_after": "Voluminous, shiny 90s layered blowout with flipped-in and flipped-out bouncy curls",
+   "setting": "bathroom",
+   "faces_camera": true,
+   "energy_tone": "Confident, effortless, trendy"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Trending upbeat mashup / hip-hop and French pop rhythm track.",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 4.1,
+   "pacing": "medium",
+   "effects": [
+    "text overlay"
+   ],
+   "ending": "Creator shaking out hair and posing at camera as the video cuts off."
+  },
+  "notes": "Silent tutorial format relying on aesthetic trend appeal, result-first visual proof, and easy-to-follow curling technique without spoken dialogue."
+ }
+}

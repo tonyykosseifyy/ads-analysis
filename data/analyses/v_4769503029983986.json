@@ -1,0 +1,169 @@
+{
+ "media_key": "v_4769503029983986",
+ "analyzed_at": "2026-11-28T00:08:26+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "de79e61daf0c680067425748d1e431b3c5d69819216ea46e1e5d803c82e4329f",
+ "source": {
+  "kind": "video",
+  "id": "4769503029983986",
+  "video_id": "3252239874986457",
+  "length_s": 30.9,
+  "permalink": "/23849366283980795/videos/3252239874986457/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 30.7,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates step-by-step how to style bouncy salon blowout curls using the WavyTalk thermal round brush set to background music.",
+  "full_description": "A silent aesthetic UGC tutorial set to a mellow R&B vocal track. A young woman with long highlighted brown hair sections her hair and uses the pink WavyTalk thermal round brush to create voluminous blowout waves. She demonstrates wrapping and twisting hair around the barrel across different sections, including crown volume and curtain bangs, concluding with a full bouncy hair reveal while posing with the styling tool.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "shot_type": "medium selfie shot",
+    "visual": "Young woman in a beige sparkly top holding a strand of hair and the pink thermal brush in front of a white curtain background.",
+    "action": "Creator inspects a section of hair and lines up the heated round brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 6.2,
+    "shot_type": "medium selfie shot",
+    "visual": "Creator wrapping hair around the pink barrel.",
+    "action": "She winds hair around the thermal brush barrel, holds it briefly, and glides it out into a defined curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.2,
+    "end_s": 12.5,
+    "shot_type": "medium selfie shot",
+    "visual": "Creator working on a side section of hair.",
+    "action": "She wraps the mid-length strand around the barrel, rolls down, and twists the brush out to form a spiral wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.5,
+    "end_s": 17.5,
+    "shot_type": "medium selfie shot",
+    "visual": "Creator styling the crown and top layers.",
+    "action": "She rolls a top section backward over the heated brush barrel for root lift and volume, releasing a smooth curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 23.5,
+    "shot_type": "medium selfie shot",
+    "visual": "Styling face-framing front bangs.",
+    "action": "She brushes the front fringe forward and rolls it outward through the thermal bristles.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.5,
+    "end_s": 30.7,
+    "shot_type": "medium selfie shot",
+    "visual": "Completed blowout hairstyle.",
+    "action": "She shakes out her curls with her fingers, checks her hair in the camera reflection, and holds the pink thermal brush upright next to her head.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding a hair strand in one hand and the pink thermal brush in the other, facing the camera.",
+   "visual_0_3s": "Creator sections her hair and immediately begins wrapping it around the thermal round brush.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Immediate hands-on styling action with the heated round brush without intro talk."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Demonstrating curl technique on side strand",
+    "Rolling mid-lengths into defined curls",
+    "Creating root lift and volume at the crown",
+    "Curling face-framing fringe",
+    "Final hair flip and reveal with product in hand"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Creates smooth, bouncy salon-style blowout curls easily at home"
+   ],
+   "pain_points": [
+    "Clumsy blowout technique with traditional hair dryer and round brush"
+   ],
+   "objections_handled": [
+    "Hair glides smoothly through the bristles without snagging or tangling"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk thermal round brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 2.5,
+   "final_result_shown_s": 23.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long brunette hair with warm blonde balayage, straight to soft wave",
+   "hair_after": "Voluminous, bouncy blowout with smooth defined curls and shiny finish",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "aesthetic, calm, confident"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Slow, soulful R&B trending sound with female vocals ('I used to think the glow was make up...').",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 5.1,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between hair styling sections"
+   ],
+   "ending": "Creator proudly poses with her voluminous blowout hair while displaying the thermal brush tool beside her face."
+  },
+  "notes": "Completely silent demonstration video with trending audio, focusing purely on visual aesthetic appeal and ease of use of the thermal round brush."
+ }
+}

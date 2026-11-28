@@ -1,0 +1,255 @@
+{
+ "media_key": "v_3889741897850032",
+ "analyzed_at": "2026-11-28T00:13:23+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "bcbd3af8cf69eeacfeee3a661b9ec2c6cef3109f42b131a42e7adda789c684d9",
+ "source": {
+  "kind": "video",
+  "id": "3889741897850032",
+  "video_id": "1469587538693930",
+  "length_s": 32.633,
+  "permalink": "/23849366283980795/videos/1469587538693930/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 32.84,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates the Wavytalk Steamline Pro straightening brush, turning frizzy thick curls into shiny straight hair with half-and-half comparison.",
+  "full_description": "A woman demonstrates the Wavytalk Steamline Pro steam straightening brush on her naturally curly, voluminous brunette hair. She glides the orange brush through sections to show instant sleek results compared to her frizzy curls. She shows a close-up of the heated prongs and steam chamber, explains how the steam hydrates hair and prevents heat damage, runs it close to the scalp roots, and reveals the finished sleek half-and-half look and final styled hair.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.7,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I used to never be a big fan of straightener brushes just because they would never get my hair as straight as a clamp straightening iron would,",
+    "text_english": "I used to never be a big fan of straightener brushes just because they would never get my hair as straight as a clamp straightening iron would,"
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 7.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "until I tried the Wavytalk Steamline Pro.",
+    "text_english": "until I tried the Wavytalk Steamline Pro."
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 11.2,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "It uses a very fine amount of steam to add hydration and moisture back into my hair when I'm straightening,",
+    "text_english": "It uses a very fine amount of steam to add hydration and moisture back into my hair when I'm straightening,"
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 15.0,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "to make it so smooth and shiny and also help protect against heat damage.",
+    "text_english": "to make it so smooth and shiny and also help protect against heat damage."
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 19.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I also love how only the inside of these prongs are heated so I can put the straightener brush right up against my scalp to really smooth out my roots and straighten them out.",
+    "text_english": "I also love how only the inside of these prongs are heated so I can put the straightener brush right up against my scalp to really smooth out my roots and straighten them out."
+   },
+   {
+    "start_s": 22.2,
+    "end_s": 28.9,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "If your hair's not coming out as silky, smooth, and shiny as you want it, I highly recommend checking out this brush. It'll have you looking like you just got a keratin treatment.",
+    "text_english": "If your hair's not coming out as silky, smooth, and shiny as you want it, I highly recommend checking out this brush. It'll have you looking like you just got a keratin treatment."
+   },
+   {
+    "start_s": 28.9,
+    "end_s": 32.5,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "It's also on sale right now with free shipping, so definitely take advantage of that.",
+    "text_english": "It's also on sale right now with free shipping, so definitely take advantage of that."
+   }
+  ],
+  "transcript_full_original": "I used to never be a big fan of straightener brushes just because they would never get my hair as straight as a clamp straightening iron would until I tried the Wavytalk Steamline Pro. It uses a very fine amount of steam to add hydration and moisture back into my hair when I'm straightening to make it so smooth and shiny and also help protect against heat damage. I also love how only the inside of these prongs are heated so I can put the straightener brush right up against my scalp to really smooth out my roots and straighten them out. If your hair's not coming out as silky, smooth, and shiny as you want it, I highly recommend checking out this brush. It'll have you looking like you just got a keratin treatment. It's also on sale right now with free shipping, so definitely take advantage of that.",
+  "transcript_full_english": "I used to never be a big fan of straightener brushes just because they would never get my hair as straight as a clamp straightening iron would until I tried the Wavytalk Steamline Pro. It uses a very fine amount of steam to add hydration and moisture back into my hair when I'm straightening to make it so smooth and shiny and also help protect against heat damage. I also love how only the inside of these prongs are heated so I can put the straightener brush right up against my scalp to really smooth out my roots and straighten them out. If your hair's not coming out as silky, smooth, and shiny as you want it, I highly recommend checking out this brush. It'll have you looking like you just got a keratin treatment. It's also on sale right now with free shipping, so definitely take advantage of that.",
+  "word_count": 137,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 7.1,
+    "shot_type": "medium shot",
+    "visual": "Young woman in a brown top sitting in a teal armchair passes the orange Wavytalk brush through a parted section of thick, frizzy brunette hair.",
+    "action": "Creator glides the straightening brush slowly down one section, transforming curly hair into silky straight hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.1,
+    "end_s": 10.7,
+    "shot_type": "medium shot",
+    "visual": "Creator displays the straightened section against the untouched curls, brushing down the smooth section with her hand.",
+    "action": "Creator gestures with her hand to show how silky and flat the straightened strand is.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.7,
+    "end_s": 11.9,
+    "shot_type": "medium shot",
+    "visual": "Creator before styling with very full, voluminous, frizzy curly hair smiling at the camera.",
+    "action": "Quick flash/cut to the creator's full natural curly hair before styling.",
+    "product_visible": false
+   },
+   {
+    "start_s": 11.9,
+    "end_s": 13.0,
+    "shot_type": "close-up",
+    "visual": "Creator points her finger at the internal heated comb teeth and steam vents of the orange Wavytalk brush.",
+    "action": "Creator points directly to the heated bristles of the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 19.3,
+    "shot_type": "medium shot",
+    "visual": "Creator brushes a lower section of pinned-up hair from underneath, smoothing it from roots to ends.",
+    "action": "Creator pulls the brush through hair from mid-shaft to ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.3,
+    "end_s": 27.8,
+    "shot_type": "medium shot",
+    "visual": "Creator holds the brush close to her scalp at the top crown roots to straighten the front section.",
+    "action": "Creator places the brush right at the roots, glides it through the top layer, then smiles and inspects the smoothness.",
+    "product_visible": true
+   },
+   {
+    "start_s": 27.8,
+    "end_s": 30.5,
+    "shot_type": "medium shot",
+    "visual": "Split-hair half-and-half contrast: right side completely straight and glossy, left side untouched wild curls.",
+    "action": "Creator looks at the camera showing the dramatic contrast between both sides of her head.",
+    "product_visible": false
+   },
+   {
+    "start_s": 30.5,
+    "end_s": 32.84,
+    "shot_type": "medium shot",
+    "visual": "Creator with both sides fully straightened, styled with soft outward flipped ends, holding up the orange Wavytalk brush with a confident smile.",
+    "action": "Creator poses with the finished blowout look and holds up the brush.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator pulling an orange heated straightening brush through a section of frizzy brunette hair.",
+   "visual_0_3s": "Straightener comb glides through thick textured curls leaving an instantly sleek, bone-straight strip of hair.",
+   "spoken_0_3s": "I used to never be a big fan of straightener brushes just because they would never get my hair...",
+   "text_0_3s": "",
+   "hook_type": "result_first",
+   "hook_type_secondary": "before_after",
+   "pattern_interrupt": "Instant demonstration of high-contrast curly-to-straight transformation within the opening second."
+  },
+  "structure": {
+   "format": "voiceover_broll",
+   "narrative_beats": [
+    "Objection/hook: skepticism about straightening brushes vs clamp flat irons.",
+    "Product introduction: Wavytalk Steamline Pro with steam hydration feature.",
+    "Technical demonstration: showing steam and heated prongs design.",
+    "Application & scalp safety: demonstrating root smoothing without burning.",
+    "Half-and-half result comparison: side-by-side curly vs straight.",
+    "Call to action: keratin-treatment claim and free shipping sale."
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "less_heat_damage",
+    "saves_time"
+   ],
+   "key_claims": [
+    "Straightens as effectively as a clamp straightening iron",
+    "Uses fine steam to add hydration and moisture back into hair",
+    "Protects against heat damage",
+    "Prong design allows safe styling right up against the scalp",
+    "Leaves hair looking like a keratin treatment"
+   ],
+   "pain_points": [
+    "Straightener brushes usually do not get hair straight enough",
+    "Flat irons can cause heat damage and dryness",
+    "Hard to get close to the roots without burning the scalp",
+    "Unruly frizz and unruly curls"
+   ],
+   "objections_handled": [
+    "Brush straighteners don't straighten as well as clamp flat irons",
+    "Risk of burning the scalp when reaching the roots",
+    "Heat styling dries out hair"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional clamp flat iron / straightening iron"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steamline Pro Straightening Brush"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 27.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "On sale with free shipping",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "on sale right now",
+   "cta_spoken": "Definitely take advantage of that",
+   "cta_on_screen": "",
+   "cta_at_s": 28.9
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Thick, dark brown, long, frizzy, voluminous wavy/curly hair",
+   "hair_after": "Silky, smooth, bone-straight glossy brunette hair with gentle curved ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "calm, informative, relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "None / minimal ambient, automated TTS voiceover narration",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 4.1,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator smiles warmly at the camera holding the orange Wavytalk brush next to her freshly straightened blowout."
+  },
+  "notes": "English UGC video featuring the Wavytalk Steamline Pro (marketed in MENA/Lebanon ad accounts as Steambrush Pro / Steamline Pro). Utilizes a popular automated TikTok voiceover track over creator styling footage."
+ }
+}

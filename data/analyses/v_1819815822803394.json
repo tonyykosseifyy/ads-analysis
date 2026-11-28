@@ -1,0 +1,300 @@
+{
+ "media_key": "v_1819815822803394",
+ "analyzed_at": "2026-11-28T00:26:07+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "2d217c92289a362cc6676c8524d345b993c5325e9784dc1978185630de0e15b5",
+ "source": {
+  "kind": "video",
+  "id": "1819815822803394",
+  "video_id": "3082805662050406",
+  "length_s": 33.866,
+  "permalink": "/23849366283980795/videos/3082805662050406/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 34.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator showcases unboxing and using the Wavytalk Steambrush Pro in periwinkle, demonstrating quick one-pass hair straightening.",
+  "full_description": "A UGC-style product review and tutorial where a young woman with dark curly/wavy hair unboxes the Wavytalk Steambrush Pro from an Ulta shopping bag. She reveals the device in the periwinkle colorway, fills the water tank using the included dropper, powers it on, and demonstrates straightening sections of her thick hair in a single pass while wearing a protective heat glove. She discusses how it prevents heat damage and saves time compared to traditional flat irons, ending by showing her sleek, shiny straightened hair while posing with the tool.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I found this gorgeous product at Ulta today that straightened my hair in less than 20 minutes.",
+    "text_english": "I found this gorgeous product at Ulta today that straightened my hair in less than 20 minutes."
+   },
+   {
+    "start_s": 3.4,
+    "end_s": 7.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is Wavytalk's Steambrush Pro in the bold new color periwinkle,",
+    "text_english": "This is Wavytalk's Steambrush Pro in the bold new color periwinkle,"
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 12.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and it is exclusively available on Ulta.com and in select Ulta Beauty stores.",
+    "text_english": "and it is exclusively available on Ulta.com and in select Ulta Beauty stores."
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 19.3,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This steam-powered straightener brush straightens your hair in just one pass, which really sped up the styling process for me.",
+    "text_english": "This steam-powered straightener brush straightens your hair in just one pass, which really sped up the styling process for me."
+   },
+   {
+    "start_s": 19.3,
+    "end_s": 24.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "As someone with curly hair, it usually takes so many passes just to straighten one piece,",
+    "text_english": "As someone with curly hair, it usually takes so many passes just to straighten one piece,"
+   },
+   {
+    "start_s": 24.1,
+    "end_s": 29.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "which one, takes forever, and two, ends up damaging my hair, so I really appreciate the benefits of this tool.",
+    "text_english": "which one, takes forever, and two, ends up damaging my hair, so I really appreciate the benefits of this tool."
+   },
+   {
+    "start_s": 29.5,
+    "end_s": 33.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Here are the finished results, and I absolutely love how this came out.",
+    "text_english": "Here are the finished results, and I absolutely love how this came out."
+   }
+  ],
+  "transcript_full_original": "I found this gorgeous product at Ulta today that straightened my hair in less than 20 minutes. This is Wavytalk's Steambrush Pro in the bold new color periwinkle, and it is exclusively available on Ulta.com and in select Ulta Beauty stores. This steam-powered straightener brush straightens your hair in just one pass, which really sped up the styling process for me. As someone with curly hair, it usually takes so many passes just to straighten one piece, which one, takes forever, and two, ends up damaging my hair, so I really appreciate the benefits of this tool. Here are the finished results, and I absolutely love how this came out.",
+  "transcript_full_english": "I found this gorgeous product at Ulta today that straightened my hair in less than 20 minutes. This is Wavytalk's Steambrush Pro in the bold new color periwinkle, and it is exclusively available on Ulta.com and in select Ulta Beauty stores. This steam-powered straightener brush straightens your hair in just one pass, which really sped up the styling process for me. As someone with curly hair, it usually takes so many passes just to straighten one piece, which one, takes forever, and two, ends up damaging my hair, so I really appreciate the benefits of this tool. Here are the finished results, and I absolutely love how this came out.",
+  "word_count": 98,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator in a blue one-shoulder top posing and touching her straightened, glossy hair.",
+    "action": "Creator checks and smooths her hair looking toward the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 1.7,
+    "end_s": 3.7,
+    "shot_type": "medium shot",
+    "visual": "Creator pulls the Wavytalk Steambrush Pro box out of an orange Ulta shopping bag.",
+    "action": "Unboxing reveal from shopping bag.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 6.8,
+    "shot_type": "close-up",
+    "visual": "Creator removes the protective sleeve from the periwinkle straightener brush and turns it around.",
+    "action": "Unsheathing and showing the device bristles and water reservoir back.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 8.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator runs fingers through her voluminous, natural curly/wavy dark hair before styling.",
+    "action": "Displaying 'before' hair condition.",
+    "product_visible": false
+   },
+   {
+    "start_s": 8.8,
+    "end_s": 10.0,
+    "shot_type": "medium shot from behind",
+    "visual": "Creator turns around, flipping her sleek straightened hair.",
+    "action": "Quick flash forward to styled result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 10.0,
+    "end_s": 11.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator points out curly texture in her hair strands.",
+    "action": "Examining texture before straightening.",
+    "product_visible": false
+   },
+   {
+    "start_s": 11.6,
+    "end_s": 13.0,
+    "shot_type": "close-up",
+    "visual": "Creator holds up the clear water bottle dropper accessory.",
+    "action": "Presenting the water filling tool.",
+    "product_visible": false
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 14.7,
+    "shot_type": "close-up",
+    "visual": "Creator snaps the filled water reservoir into the back of the brush handle.",
+    "action": "Inserting water chamber into the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.7,
+    "end_s": 16.8,
+    "shot_type": "close-up",
+    "visual": "Creator powers on the brush, showing the digital temperature display reaching 370°F and steam activating.",
+    "action": "Pressing the power button and showing glowing bristles/display.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.8,
+    "end_s": 20.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushes a front section of hair in a single pass while wearing a black heat-resistant glove.",
+    "action": "Demonstrating the one-pass straightening stroke.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.6,
+    "end_s": 24.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator demonstrates straightening another curly section, guiding the strand with her gloved hand.",
+    "action": "Straightening hair smoothly from root to tip.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.3,
+    "end_s": 29.1,
+    "shot_type": "medium close-up from side/back",
+    "visual": "Creator brushes down a section from the back of her head, showing the glossy, pin-straight finish.",
+    "action": "Brushing through back layers.",
+    "product_visible": true
+   },
+   {
+    "start_s": 29.1,
+    "end_s": 30.0,
+    "shot_type": "close-up transition",
+    "visual": "Creator covers camera lens with hand transition.",
+    "action": "Hand swipe transition.",
+    "product_visible": false
+   },
+   {
+    "start_s": 30.0,
+    "end_s": 34.0,
+    "shot_type": "medium shot",
+    "visual": "Creator turns around, tossing her fully straightened glossy hair and smiling while holding the periwinkle brush next to her face.",
+    "action": "Showcasing final result and posing with the tool.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera showing her silky smooth straightened hair in a blue top.",
+   "visual_0_3s": "Fast cut from creator's finished hair to pulling the product box out of an Ulta shopping bag.",
+   "spoken_0_3s": "I found this gorgeous product at Ulta today that straightened my hair in less than 20 minutes.",
+   "text_0_3s": "",
+   "hook_type": "result_first",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Rapid flash of the sleek result followed immediately by unboxing from a bright orange shopping bag."
+  },
+  "structure": {
+   "format": "voiceover_broll",
+   "narrative_beats": [
+    "Result preview hook & time claim (straightened in under 20 mins)",
+    "Unboxing and color/retailer introduction (Wavytalk Steambrush Pro in Periwinkle at Ulta)",
+    "Setup demo: water reservoir filling and power-on display",
+    "Performance demonstration: one-pass straightening on curly hair with heat glove",
+    "Addressing hair pain points: eliminates multiple damaging passes and saves time",
+    "Final look reveal and creator endorsement"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "less_heat_damage",
+    "salon_result_at_home"
+   ],
+   "key_claims": [
+    "Straightened hair in less than 20 minutes",
+    "Steam-powered straightener brush straightens in just one pass",
+    "Prevents heat damage caused by repeated flat iron passes on curly hair"
+   ],
+   "pain_points": [
+    "Curly hair usually takes endless passes with standard flat irons to get straight",
+    "Repeated passes take forever and cause severe heat damage"
+   ],
+   "objections_handled": [
+    "Will it work on curly hair? (Demonstrated directly on thick curly hair in one pass)",
+    "Does it cause heat damage? (Steam technology conditions and minimizes damage compared to dry heat flat irons)"
+   ],
+   "social_proof": [
+    "Carried at Ulta Beauty"
+   ],
+   "comparison_to": "Traditional flat irons / multi-pass straighteners"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steambrush Pro (Periwinkle)"
+   ],
+   "first_seen_s": 1.7,
+   "first_used_on_hair_s": 16.8,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Thick, naturally wavy/curly dark brunette/black hair with natural volume and slight frizz",
+   "hair_after": "Ultra sleek, pin-straight, reflective dark hair with soft movement",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Warm, relatable, smooth, and enthusiastic"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle upbeat lo-fi pop background music under clear vocal voiceover",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 13,
+   "avg_shot_length_s": 2.6,
+   "pacing": "fast",
+   "effects": [
+    "hand over lens transition"
+   ],
+   "ending": "Creator smiling and posing while holding the straightener brush up beside her hair."
+  },
+  "notes": "Ad asset originally created for US Ulta retail launch, repurposed as UGC creative for paid social."
+ }
+}

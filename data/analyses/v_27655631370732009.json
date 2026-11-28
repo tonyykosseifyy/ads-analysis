@@ -1,0 +1,137 @@
+{
+ "media_key": "v_27655631370732009",
+ "analyzed_at": "2026-11-28T00:10:02+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "63f2e5621151b1198f1e75bbdee89d48fa72a7b332becda242b3f91bbaa30432",
+ "source": {
+  "kind": "video",
+  "id": "27655631370732009",
+  "video_id": "1953253682045948",
+  "length_s": 16.6,
+  "permalink": "/23849366283980795/videos/1953253682045948/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 17.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates how to smoothly glide a thermal brush down long frizzy hair to achieve an instant sleek, glossy blowout.",
+  "full_description": "In a single continuous medium shot, a young woman with very long, thick, and textured brown hair sits facing the camera in a room. A bold text overlay reads 'If you're not using your thermal brush like this, you need to start.' She takes a large strand of hair, places the Wavytalk thermal round brush under the roots, and glides it down slowly with tension. As the heated ceramic barrel and bristles move through the strand, it instantly transforms frizzy, dull hair into a sleek, shiny, and polished blowout with a curled end. Pop/electronic music plays throughout with no spoken audio.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "none",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 17.0,
+    "text": "If you're not using your thermal brush like this, you need to start.",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 17.0,
+    "shot_type": "medium close-up",
+    "visual": "Young woman in a dark knit cardigan with gold buttons sitting in a white chair. Her long hair is partly pinned up, showing natural frizz and volume.",
+    "action": "She inserts the Wavytalk thermal round brush near the roots and slowly brushes downward while keeping tension with her fingers, turning frizzy hair into a silky smooth, sleek strand.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator preparing to brush her textured hair with an on-screen text hook about the proper technique to use a thermal brush.",
+   "visual_0_3s": "Creator positioning the thermal brush at the root of a textured section of hair.",
+   "spoken_0_3s": "",
+   "text_0_3s": "If you're not using your thermal brush like this, you need to start.",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "curiosity_gap",
+   "pattern_interrupt": "Provocative technique assertion overlay paired with immediate visual contrast between textured before and smooth after hair."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Provocative text hook challenging the viewer's styling technique",
+    "Real-time single-pass demonstration of the thermal brush gliding through textured hair",
+    "Instant visual payoff showing smooth, silky, salon-quality blowout results"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "frizz_or_curly_solution",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Instantly smooths frizzy textured hair in one controlled pass"
+   ],
+   "pain_points": [
+    "Frizzy, unruly, and unmanageable hair",
+    "Struggling to get a smooth blowout at home"
+   ],
+   "objections_handled": [
+    "Takes too long or requires multiple complicated steps"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional round brushing / hair drying"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Thermal Brush (Blowout Boost)"
+   ],
+   "first_seen_s": 0.8,
+   "first_used_on_hair_s": 1.0,
+   "final_result_shown_s": 14.5,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Very long, thick, frizzy light-brown textured hair",
+   "hair_after": "Ultra-smooth, glossy, polished hair with a rounded curled finish",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "calm, satisfying, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "trending_sound",
+   "music_description": "Mid-tempo electronic pop track featuring female vocals ('Tangled up in wires, I can't catch my breath, I run I run...')",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 0,
+   "avg_shot_length_s": 17.0,
+   "pacing": "slow",
+   "effects": [
+    "text overlay"
+   ],
+   "ending": "The styled section drops into place, showing high gloss and bounce alongside the remaining unstyled hair."
+  },
+  "notes": "Single continuous take UGC video designed to provide high visual satisfaction (ASMR-style visual transformation) without spoken dialogue, relying entirely on the visual before-and-after contrast in real time."
+ }
+}

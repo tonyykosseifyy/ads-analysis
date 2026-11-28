@@ -1,0 +1,232 @@
+{
+ "media_key": "v_1084831637356186",
+ "analyzed_at": "2026-11-28T00:08:48+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "79ad58c18007971fbc81c248335d5387febf594251ebeab80ff7f8bea984d404",
+ "source": {
+  "kind": "video",
+  "id": "1084831637356186",
+  "video_id": "1383095327129984",
+  "length_s": 32.1,
+  "permalink": "/23849366283980795/videos/1383095327129984/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 31.84,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates achieving beach waves in 15 minutes using the pink Wavytalk Power Wave crimper/waver.",
+  "full_description": "A creator dressed in a satin robe demonstrates styling her long dark hair into deep beach waves using the pink Wavytalk Power Wave. The video starts with a cheeky intro showing the tool and finished hair on one side, then transitions through brushing, sectioning, and clamping each section with music playing. Halfway through, she speaks directly to the camera explaining that the tool alerts her with an audio beep when it's time to release and move down the strand. The video concludes with a full reveal of her voluminous, shiny beach waves from the back and front.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 24.3,
+    "end_s": 27.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Something I like about this is that it lets you know when to move.",
+    "text_english": "Something I like about this is that it lets you know when to move."
+   }
+  ],
+  "transcript_full_original": "Something I like about this is that it lets you know when to move.",
+  "transcript_full_english": "Something I like about this is that it lets you know when to move.",
+  "word_count": 14,
+  "speech_starts_at_s": 24.3,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "text": "15 min beach waves with the Wavytalk Power wave",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator in a champagne silk robe winking playfully and smiling while holding the pink Wavytalk Power Wave next to her face.",
+    "action": "Creator winks, bites her lip, smiles, and holds up the tool with on-screen text introducing the 15-minute beach waves routine.",
+    "product_visible": true
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 3.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator brushing through her straightened brown hair.",
+    "action": "She detangles and brushes a section of hair in preparation for waving.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.1,
+    "end_s": 6.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator using the pink Power Wave on a section of hair.",
+    "action": "She clamps the waver near the root and glides down, revealing the first wave pattern.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.3,
+    "end_s": 9.8,
+    "shot_type": "medium shot",
+    "visual": "Creator continuing to wave her hair while dancing to the beat.",
+    "action": "She shows off the first completed waved strand and points to the straight side.",
+    "product_visible": true
+   },
+   {
+    "start_s": 9.8,
+    "end_s": 12.3,
+    "shot_type": "medium shot",
+    "visual": "Creator styling while holding a Starbucks iced/takeaway cup.",
+    "action": "She clamps hair with one hand and playfully holds up her coffee cup to the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.3,
+    "end_s": 17.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator waving more sections, making expressive playful faces.",
+    "action": "She clamps down the waver, reacts enthusiastically to the camera, and fans her face playfully.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.6,
+    "end_s": 20.0,
+    "shot_type": "medium shot",
+    "visual": "Creator shaking out the partially completed waves.",
+    "action": "She fluffs out the waved half to showcase the defined volume and shine.",
+    "product_visible": false
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 24.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator sectioning the top part of her hair with a scrunchie and styling the remaining sections.",
+    "action": "She clamps through upper strands methodically.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.3,
+    "end_s": 28.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator talking to camera while clamping a strand near her face.",
+    "action": "She explains the automatic beep timing feature and gestures as the tool alerts her.",
+    "product_visible": true
+   },
+   {
+    "start_s": 28.0,
+    "end_s": 29.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the top root section.",
+    "action": "She finishes clamping the crown layer.",
+    "product_visible": true
+   },
+   {
+    "start_s": 29.8,
+    "end_s": 31.84,
+    "shot_type": "medium shot",
+    "visual": "Final hair results showcase.",
+    "action": "Creator turns around showing her long cascading beach waves from the back, then turns to face camera running fingers through her waves.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator holding the pink Wavytalk Power Wave against her face, smiling playfully with on-screen text '15 min beach waves with the Wavytalk Power wave'.",
+   "visual_0_3s": "High-energy glam selfie creator displaying tool and text, transitioning quickly into hair brushing and clamping.",
+   "spoken_0_3s": "",
+   "text_0_3s": "15 min beach waves with the Wavytalk Power wave",
+   "hook_type": "tutorial_promise",
+   "hook_type_secondary": "result_first",
+   "pattern_interrupt": "Quick succession of playful facial expressions, coffee cup prop, and dynamic clamping cuts synced to R&B music."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: Fast 15-minute beach wave promise with tool reveal",
+    "Process montage: Step-by-step section clamping while lip syncing/dancing",
+    "Key feature callout: Demonstrating the built-in timer beep that tells you when to move to the next wave",
+    "Final transformation: 360-degree reveal of full, bouncy beach waves from back and front"
+   ],
+   "main_angle": "saves_time",
+   "secondary_angles": [
+    "easy_for_beginners",
+    "salon_result_at_home",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "15 min beach waves",
+    "Tool alerts you with a beep when to move to the next section"
+   ],
+   "pain_points": [
+    "Waving long hair takes too long",
+    "Not knowing how many seconds to hold the heat tool on each section to avoid burning hair"
+   ],
+   "objections_handled": [
+    "Uncertainty about heat exposure duration is eliminated by the auto-timer beep"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Power Wave"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 3.1,
+   "final_result_shown_s": 29.8,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-28",
+   "hair_before": "Very long, dark brown/brunette, sleek and straight",
+   "hair_after": "Voluminous, glossy, deep S-pattern beach waves",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Playful, confident, trendy, and glamorous"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Smooth R&B/pop vocal track playing in background, pausing briefly for creator's spoken remark and the tool's beep sound.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 12,
+   "avg_shot_length_s": 2.65,
+   "pacing": "fast",
+   "effects": [
+    "jump cuts",
+    "turnaround transition"
+   ],
+   "ending": "Creator turns facing the camera, smiling and touching her freshly styled long beach waves."
+  },
+  "notes": "Features the Wavytalk Power Wave in pastel pink with built-in timer beep notification."
+ }
+}

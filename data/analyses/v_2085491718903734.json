@@ -1,0 +1,422 @@
+{
+ "media_key": "v_2085491718903734",
+ "analyzed_at": "2026-11-28T00:12:58+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "17fcf007856c8b3a6bdd6f963eecbe433d4e96882ebbf86af4162c0d17e6c4b9",
+ "source": {
+  "kind": "video",
+  "id": "2085491718903734",
+  "video_id": "1807874899918318",
+  "length_s": 28.537,
+  "permalink": "/23849366283980795/videos/1807874899918318/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 28.5,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator shares how her boyfriend constantly compliments her hair done with the Wavytalk Blowout Boost thermal round brush.",
+  "full_description": "The creator opens with a story about her boyfriend noticing her hair before his basketball game. She shows the Wavytalk Blowout Boost thermal round brush, demonstrates using it on her hair, explains its ionic technology and time-saving benefits (a 90s supermodel blowout in 12 minutes), answers his question about whether she's spending salon money again with 'La2 habibi, one-time purchase', and closes holding the Wavytalk retail box, branded shopping bag, and brush while offering a 15% discount.",
+  "language": {
+   "spoken_languages": [
+    "en",
+    "ar"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 10,
+    "en": 90,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en",
+    "arabizi",
+    "ar"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "My boyfriend noticed my hair before his basketball match.",
+    "text_english": "My boyfriend noticed my hair before his basketball match."
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 4.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This brush is wonderful.",
+    "text_english": "This brush is wonderful."
+   },
+   {
+    "start_s": 4.2,
+    "end_s": 5.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Ever since I got the Blowout Boost,",
+    "text_english": "Ever since I got the Blowout Boost,"
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 7.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "he keeps saying 'شو عاملة بشعرك؟'",
+    "text_english": "he keeps saying 'What did you do to your hair?'"
+   },
+   {
+    "start_s": 7.7,
+    "end_s": 10.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Like sir, I've been telling you about this Wavytalk brush for weeks!",
+    "text_english": "Like sir, I've been telling you about this Wavytalk brush for weeks!"
+   },
+   {
+    "start_s": 10.5,
+    "end_s": 14.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The ionic technology gives it an insane shine just like a filter.",
+    "text_english": "The ionic technology gives it an insane shine just like a filter."
+   },
+   {
+    "start_s": 14.3,
+    "end_s": 17.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I did the 90s supermodel blowout yesterday, it took me 12 minutes",
+    "text_english": "I did the 90s supermodel blowout yesterday, it took me 12 minutes"
+   },
+   {
+    "start_s": 17.7,
+    "end_s": 19.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and finished before his pre-game shower.",
+    "text_english": "and finished before his pre-game shower."
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 22.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "He even asked if I'm spending money at the salon again.",
+    "text_english": "He even asked if I'm spending money at the salon again."
+   },
+   {
+    "start_s": 22.9,
+    "end_s": 25.1,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "لأ حبيبي, one-time purchase, lifetime compliment.",
+    "text_english": "No my love, one-time purchase, lifetime compliment."
+   },
+   {
+    "start_s": 25.2,
+    "end_s": 28.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Get the attention you deserve, 15% off now.",
+    "text_english": "Get the attention you deserve, 15% off now."
+   }
+  ],
+  "transcript_full_original": "My boyfriend noticed my hair before his basketball match. This brush is wonderful. Ever since I got the Blowout Boost, he keeps saying 'شو عاملة بشعرك؟' Like sir, I've been telling you about this Wavytalk brush for weeks! The ionic technology gives it an insane shine just like a filter. I did the 90s supermodel blowout yesterday, it took me 12 minutes and finished before his pre-game shower. He even asked if I'm spending money at the salon again. لأ حبيبي, one-time purchase, lifetime compliment. Get the attention you deserve, 15% off now.",
+  "transcript_full_english": "My boyfriend noticed my hair before his basketball match. This brush is wonderful. Ever since I got the Blowout Boost, he keeps saying 'What did you do to your hair?' Like sir, I've been telling you about this Wavytalk brush for weeks! The ionic technology gives it an insane shine just like a filter. I did the 90s supermodel blowout yesterday, it took me 12 minutes and finished before his pre-game shower. He even asked if I'm spending money at the salon again. No my love, one-time purchase, lifetime compliment. Get the attention you deserve, 15% off now.",
+  "word_count": 87,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.2,
+    "text": "My boyfriend noticed",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.2,
+    "end_s": 2.8,
+    "text": "my hair before his basketball match",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 4.1,
+    "text": "this brush is wonderful",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.2,
+    "end_s": 5.7,
+    "text": "Ever since I got the Blowout Boost,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 7.6,
+    "text": "'shu 3amle bi sha3rik'",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.7,
+    "end_s": 8.7,
+    "text": "Like sir,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.8,
+    "end_s": 10.4,
+    "text": "I've been telling you about this Wavytalk brush for weeks!",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.5,
+    "end_s": 14.2,
+    "text": "The ionic technology gives this insane shine just like a filter",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.3,
+    "end_s": 16.6,
+    "text": "I did the 90s supermodel blowout yesterday",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.7,
+    "end_s": 17.6,
+    "text": "took 12 minutes",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.7,
+    "end_s": 19.9,
+    "text": "and finished before his pre-game shower",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 22.8,
+    "text": "HE Even asked if I'm spending money at the salon again",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.9,
+    "end_s": 24.0,
+    "text": "La2 habibi",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 24.0,
+    "end_s": 25.1,
+    "text": "one-time purchase lifetime compliment",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.2,
+    "end_s": 27.2,
+    "text": "Get the attention you deserve",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 27.2,
+    "end_s": 28.5,
+    "text": "15% off now.",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "shot_type": "medium shot",
+    "visual": "Creator standing against an outdoor basketball court digital background, touching her styled bouncy hair as a basketball drops behind her.",
+    "action": "Creator speaks directly to the camera delivering the relatable relationship hook.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 4.1,
+    "shot_type": "medium shot",
+    "visual": "Creator in modern bedroom holding the pink Wavytalk Blowout Boost brush toward camera.",
+    "action": "Holds up the thermal round brush and praises it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.2,
+    "end_s": 5.7,
+    "shot_type": "close-up",
+    "visual": "Bathroom close-up showing creator rolling a section of her hair around the Wavytalk Blowout Boost barrel.",
+    "action": "Twisting and gliding the brush through hair to demonstrate styling technique.",
+    "product_visible": true
+   },
+   {
+    "start_s": 5.8,
+    "end_s": 7.6,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting cross-legged on a white bed, holding the brush and gesturing with her hand.",
+    "action": "Quoting her boyfriend's amazed question in Lebanese Arabic.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.7,
+    "end_s": 8.8,
+    "shot_type": "medium shot",
+    "visual": "Creator on bed in black sleeveless dress holding the brush and smiling.",
+    "action": "Shows off styled voluminous hair while holding the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.8,
+    "end_s": 10.4,
+    "shot_type": "medium close-up",
+    "visual": "Bathroom shot of creator running fingers through glossy, voluminous blowout waves.",
+    "action": "Flaunting bouncy salon-finish hair to the mirror/camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 10.5,
+    "end_s": 14.2,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting on white bed in sunlight, holding the brush and running hand through her silky hair.",
+    "action": "Explaining the ionic technology and resulting filter-like shine.",
+    "product_visible": true
+   },
+   {
+    "start_s": 14.3,
+    "end_s": 17.6,
+    "shot_type": "insert / cutaway",
+    "visual": "Iconic vintage photo of Cindy Crawford showcasing 90s supermodel blowout volume.",
+    "action": "Visual reference illustrating the 90s supermodel blowout style.",
+    "product_visible": false
+   },
+   {
+    "start_s": 17.7,
+    "end_s": 19.9,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting on bed talking with expressive facial expressions.",
+    "action": "Explaining how fast the blowout was completed (12 minutes).",
+    "product_visible": false
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 22.8,
+    "shot_type": "medium shot with graphic overlay",
+    "visual": "Creator on bed while an animated overlay of hands fanning hundred-dollar bills appears in foreground.",
+    "action": "Relating boyfriend's question about spending salon money.",
+    "product_visible": false
+   },
+   {
+    "start_s": 22.9,
+    "end_s": 25.1,
+    "shot_type": "medium shot",
+    "visual": "Creator on bed holding the packaged Wavytalk Blowout Boost product box in front of her.",
+    "action": "Rebuffing salon spending with 'La2 habibi, one-time purchase'.",
+    "product_visible": true
+   },
+   {
+    "start_s": 25.2,
+    "end_s": 28.5,
+    "shot_type": "medium shot",
+    "visual": "Creator standing in bedroom holding a pink Wavytalk branded shopping bag in one hand and the Blowout Boost in the other.",
+    "action": "Delivering CTA and discount offer with an enthusiastic smile.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator standing outdoors / green screen basketball court touching her blowout with caption 'My boyfriend noticed'.",
+   "visual_0_3s": "Creator framed against basketball court touching her voluminous hair as a basketball drops into frame.",
+   "spoken_0_3s": "My boyfriend noticed my hair before his basketball match.",
+   "text_0_3s": "My boyfriend noticed my hair before his basketball match",
+   "hook_type": "pov_or_relatable",
+   "hook_type_secondary": "story",
+   "pattern_interrupt": "Unusual green screen background of a basketball court with a ball bouncing behind a beauty creator."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Relatable boyfriend validation hook",
+    "Product introduction and thermal brush demo",
+    "Feature explanation: ionic shine like a filter",
+    "Speed benefit: 90s supermodel blowout in 12 minutes",
+    "Financial objection handled: one-time purchase vs salon visits",
+    "Call to action with 15% discount and branded packaging showcase"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "price_value_vs_dyson",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Gives 90s supermodel blowout at home",
+    "Takes only 12 minutes",
+    "Ionic technology creates insane shine like a filter",
+    "One-time purchase that replaces salon appointments"
+   ],
+   "pain_points": [
+    "Expensive repeated salon blowouts",
+    "Taking too long to style hair before events",
+    "Lack of volume and shine"
+   ],
+   "objections_handled": [
+    "High ongoing cost (it is a one-time purchase vs recurring salon bills)",
+    "Too complicated/slow to use (takes only 12 minutes)"
+   ],
+   "social_proof": [
+    "Boyfriend validation and compliments"
+   ],
+   "comparison_to": "Professional hair salon blowouts"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 2.9,
+   "first_used_on_hair_s": 4.2,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "partial",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "15% off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "now",
+   "cta_spoken": "Get the attention you deserve, 15% off now.",
+   "cta_on_screen": "Get the attention you deserve 15% off now.",
+   "cta_at_s": 25.2
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Already styled long dark brown voluminous curls",
+   "hair_after": "Shiny, voluminous 90s bouncy blowout waves",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "charismatic, conversational, and cheeky"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat lo-fi background rhythm underneath speech",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 10,
+   "avg_shot_length_s": 2.85,
+   "pacing": "fast",
+   "effects": [
+    "green screen background",
+    "money graphic overlay",
+    "photo cutaway insert"
+   ],
+   "ending": "Creator smiling while holding branded Wavytalk shopping bag and product"
+  },
+  "notes": "Targeted at Lebanese women, mixing fluent English with recognizable Lebanese Arabic phrases ('shu 3amle bi sha3rik', 'la2 habibi'). Uses boyfriend validation as an emotional hook."
+ }
+}

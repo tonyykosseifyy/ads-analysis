@@ -1,0 +1,353 @@
+{
+ "media_key": "v_2139465676854521",
+ "analyzed_at": "2026-11-28T00:20:10+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "d07ea807cbf77bc9b002d9fa0d16b2ab164dde0bc9554e8be0c51a1fdb4a26e9",
+ "source": {
+  "kind": "video",
+  "id": "2139465676854521",
+  "video_id": "1201714972047882",
+  "length_s": 74.977,
+  "permalink": "/23849366283980795/videos/1201714972047882/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 75.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator shares step-by-step tutorial tips on achieving a voluminous at-home blowout using the Wavytalk Blowout Boost thermal brush.",
+  "full_description": "A creator starts by showing a mirror selfie clip of her voluminous blowout that prompted questions on her social media story. She then transitions to showing her natural curly/wavy hair before demonstrating how she styles it section by section using the light blue Wavytalk Blowout Boost thermal brush. She provides practical tips: applying tension, doing one pass to smooth and a second to shape, wrapping around the handle for tighter curls, holding the brush at an angle to avoid tangling, and brushing out the final curls with fingers for full volume.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.5,
+    "end_s": 5.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I posted this video on my story and a lot of you have asked me how I do my blowouts.",
+    "text_english": "I posted this video on my story and a lot of you have asked me how I do my blowouts."
+   },
+   {
+    "start_s": 5.5,
+    "end_s": 10.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So I'm going to show you what I use and some tips on how to get your hair to look like that.",
+    "text_english": "So I'm going to show you what I use and some tips on how to get your hair to look like that."
+   },
+   {
+    "start_s": 10.7,
+    "end_s": 14.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So first, I start off by completely detangling my hair.",
+    "text_english": "So first, I start off by completely detangling my hair."
+   },
+   {
+    "start_s": 14.3,
+    "end_s": 17.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And then I go in with this Blowout Boost by Wavytalk.",
+    "text_english": "And then I go in with this Blowout Boost by Wavytalk."
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 23.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "It's a thermal brush so it doesn't blow out any air, it just heats up like a curling iron.",
+    "text_english": "It's a thermal brush so it doesn't blow out any air, it just heats up like a curling iron."
+   },
+   {
+    "start_s": 23.4,
+    "end_s": 27.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So in order to ensure you get the best results from this brush,",
+    "text_english": "So in order to ensure you get the best results from this brush,"
+   },
+   {
+    "start_s": 27.3,
+    "end_s": 32.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "you want to make sure that you're holding the section and pulling down with a lot of tension.",
+    "text_english": "you want to make sure that you're holding the section and pulling down with a lot of tension."
+   },
+   {
+    "start_s": 32.2,
+    "end_s": 39.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "In the front I like to do one pass to smooth it out, and then another pass to curl it and shape it to my face.",
+    "text_english": "In the front I like to do one pass to smooth it out, and then another pass to curl it and shape it to my face."
+   },
+   {
+    "start_s": 39.2,
+    "end_s": 44.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I also find that wrapping it around the handle also makes it a little bit of a tighter curl.",
+    "text_english": "I also find that wrapping it around the handle also makes it a little bit of a tighter curl."
+   },
+   {
+    "start_s": 44.3,
+    "end_s": 53.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "The best way to not get your hair tangled on the brush is to make sure you're holding it at an angle so that it slides through your hair instead of completely just wrap around the brush.",
+    "text_english": "The best way to not get your hair tangled on the brush is to make sure you're holding it at an angle so that it slides through your hair instead of completely just wrap around the brush."
+   },
+   {
+    "start_s": 53.8,
+    "end_s": 62.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I prefer to do curls at the end of each one because I feel like it adds a lot more volume, and volume is definitely something that I love for my hair.",
+    "text_english": "I prefer to do curls at the end of each one because I feel like it adds a lot more volume, and volume is definitely something that I love for my hair."
+   },
+   {
+    "start_s": 63.0,
+    "end_s": 65.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Once you're done, it should look like this.",
+    "text_english": "Once you're done, it should look like this."
+   },
+   {
+    "start_s": 65.6,
+    "end_s": 69.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I personally prefer to run my hands through it and smooth it out a little bit,",
+    "text_english": "I personally prefer to run my hands through it and smooth it out a little bit,"
+   },
+   {
+    "start_s": 69.6,
+    "end_s": 73.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "so you still get that volume and a little bit less of a curl.",
+    "text_english": "so you still get that volume and a little bit less of a curl."
+   },
+   {
+    "start_s": 73.2,
+    "end_s": 75.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Just try it out and let me know what you think.",
+    "text_english": "Just try it out and let me know what you think."
+   }
+  ],
+  "transcript_full_original": "I posted this video on my story and a lot of you have asked me how I do my blowouts. So I'm going to show you what I use and some tips on how to get your hair to look like that. So first, I start off by completely detangling my hair. And then I go in with this Blowout Boost by Wavytalk. It's a thermal brush so it doesn't blow out any air, it just heats up like a curling iron. So in order to ensure you get the best results from this brush, you want to make sure that you're holding the section and pulling down with a lot of tension. In the front I like to do one pass to smooth it out, and then another pass to curl it and shape it to my face. I also find that wrapping it around the handle also makes it a little bit of a tighter curl. The best way to not get your hair tangled on the brush is to make sure you're holding it at an angle so that it slides through your hair instead of completely just wrap around the brush. I prefer to do curls at the end of each one because I feel like it adds a lot more volume, and volume is definitely something that I love for my hair. Once you're done, it should look like this. I personally prefer to run my hands through it and smooth it out a little bit, so you still get that volume and a little bit less of a curl. Just try it out and let me know what you think.",
+  "transcript_full_english": "I posted this video on my story and a lot of you have asked me how I do my blowouts. So I'm going to show you what I use and some tips on how to get your hair to look like that. So first, I start off by completely detangling my hair. And then I go in with this Blowout Boost by Wavytalk. It's a thermal brush so it doesn't blow out any air, it just heats up like a curling iron. So in order to ensure you get the best results from this brush, you want to make sure that you're holding the section and pulling down with a lot of tension. In the front I like to do one pass to smooth it out, and then another pass to curl it and shape it to my face. I also find that wrapping it around the handle also makes it a little bit of a tighter curl. The best way to not get your hair tangled on the brush is to make sure you're holding it at an angle so that it slides through your hair instead of completely just wrap around the brush. I prefer to do curls at the end of each one because I feel like it adds a lot more volume, and volume is definitely something that I love for my hair. Once you're done, it should look like this. I personally prefer to run my hands through it and smooth it out a little bit, so you still get that volume and a little bit less of a curl. Just try it out and let me know what you think.",
+  "word_count": 257,
+  "speech_starts_at_s": 0.5,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 6.8,
+    "text": "How I do my blowouts 🎀",
+    "role": "hook"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 7.3,
+    "shot_type": "mirror selfie",
+    "visual": "Creator filming her reflection in a round mirror holding an iPhone, showing off finished shiny, voluminous blowout curls and touching her hair.",
+    "action": "Creator moves her styled hair around to showcase volume and gloss.",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.3,
+    "end_s": 10.7,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing the camera showing her natural voluminous wavy/curly hair before styling.",
+    "action": "Creator shakes her natural hair and smiles toward camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 10.7,
+    "end_s": 18.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator sectioning her hair up with a claw clip and brushing a lower section with the blue Wavytalk Blowout Boost brush.",
+    "action": "Creator glides the heated brush through the bottom strand, twirling the ends.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 23.3,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling a mid section around the brush barrel.",
+    "action": "Creator rolls the thermal brush upward and holds it in place.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.3,
+    "end_s": 32.0,
+    "shot_type": "close-up",
+    "visual": "Close-up of hair strands pulled taut against the bristles of the thermal brush.",
+    "action": "Creator demonstrates pulling down with tension to smooth out texture and frizz.",
+    "product_visible": true
+   },
+   {
+    "start_s": 32.0,
+    "end_s": 39.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the front framing layers.",
+    "action": "Creator pulls the brush forward to smooth, then rotates and curls away from the face.",
+    "product_visible": true
+   },
+   {
+    "start_s": 39.1,
+    "end_s": 44.2,
+    "shot_type": "medium close-up",
+    "visual": "Creator sectioning the top part of her hair and placing the tool at the root.",
+    "action": "Creator wraps hair around the base and handle of the tool for extra hold.",
+    "product_visible": true
+   },
+   {
+    "start_s": 44.2,
+    "end_s": 53.6,
+    "shot_type": "medium close-up",
+    "visual": "Creator demonstrating how to glide the heated brush at an angle through hair without tangling.",
+    "action": "Creator guides the brush slowly at an angle, letting hair roll off cleanly.",
+    "product_visible": true
+   },
+   {
+    "start_s": 53.6,
+    "end_s": 62.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator rolling bangs/top section around the barrel away from her forehead.",
+    "action": "Creator rolls the brush backward to create root lift and bouncy volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 62.8,
+    "end_s": 65.2,
+    "shot_type": "close-up",
+    "visual": "Finished curls hanging in tight spiral waves over creator's shoulder.",
+    "action": "Creator displays the defined spiral result before brushing out.",
+    "product_visible": false
+   },
+   {
+    "start_s": 65.2,
+    "end_s": 75.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator wearing a white knit cardigan running fingers through her styled hair.",
+    "action": "Creator shakes out curls into voluminous blowout waves and poses for camera.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator filming her voluminous blowout in a vanity mirror holding her phone with text overlay 'How I do my blowouts 🎀'.",
+   "visual_0_3s": "Creator running her manicured hand through shiny, voluminous blowout waves in the mirror.",
+   "spoken_0_3s": "I posted this video on my story and a lot of you have asked me...",
+   "text_0_3s": "How I do my blowouts 🎀",
+   "hook_type": "result_first",
+   "hook_type_secondary": "social_proof",
+   "pattern_interrupt": "Showing gorgeous final hair results in the first second while answering audience DMs from her story."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Result reveal & addressing viewer requests from social story",
+    "Before hair state display",
+    "Product introduction (thermal brush explanation)",
+    "Technique tip 1: tension for smoothing",
+    "Technique tip 2: two-pass method for front framing pieces",
+    "Technique tip 3: angle technique to prevent tangling",
+    "Result reveal and comb-through for full blowout volume",
+    "Closing call to try it out"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Thermal brush doesn't blow air, heats like a curling iron",
+    "Holding with tension gives smoothest results",
+    "Angle technique prevents hair tangling on the barrel",
+    "Curling ends creates massive volume"
+   ],
+   "pain_points": [
+    "Hair tangling on round heated brushes",
+    "Flat hair lacking salon-style bounce and volume",
+    "Difficulty styling face-framing front pieces"
+   ],
+   "objections_handled": [
+    "Hair getting stuck or tangled in thermal bristles (addressed with angle demonstration)",
+    "Difficulty shaping front layers (addressed with the two-pass technique)"
+   ],
+   "social_proof": [
+    "Creator mentions a lot of followers asked for this routine after seeing her story"
+   ],
+   "comparison_to": "Curling iron (explains it heats up like one without blowing air)"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost"
+   ],
+   "first_seen_s": 10.7,
+   "first_used_on_hair_s": 11.0,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Just try it out and let me know what you think.",
+   "cta_on_screen": "",
+   "cta_at_s": 73.2
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Thick, dark brunette natural curls/waves, medium shoulder-length",
+   "hair_after": "Ultra smooth, glossy 90s-style blowout with face-framing bouncy curls and lifted volume",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Warm, educational, relaxed, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Soft, calm, lo-fi instrumental background beat under the voiceover",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 10,
+   "avg_shot_length_s": 7.5,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between sections",
+    "mirror reflection hook"
+   ],
+   "ending": "Creator showing the final brushed-out volume from the side and back, smiling and looking back at the camera."
+  },
+  "notes": "Ad is authentic creator UGC focusing on practical how-to tips for the Wavytalk Blowout Boost thermal heated round brush, specifically solving the objection of hair snagging/tangling in the bristles."
+ }
+}

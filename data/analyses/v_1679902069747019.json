@@ -1,0 +1,630 @@
+{
+ "media_key": "v_1679902069747019",
+ "analyzed_at": "2026-11-28T00:09:04+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "d962bcf90cb543dce55c04e982675d33468f7c9b7f83925cfeb459e80f46f79f",
+ "source": {
+  "kind": "video",
+  "id": "1679902069747019",
+  "video_id": "1975873336431800",
+  "length_s": 105.366,
+  "permalink": "/23849366283980795/videos/1975873336431800/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 105.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates how to achieve two different blowout styles (spiral curl vs traditional blowout flip) using the pink thermal brush tool.",
+  "full_description": "A long-haired creator wearing a white bathrobe demonstrates styling her thick brown hair with a pink thermal round brush (WavyTalk Blowout Boost). After prepping with heat protectant, she shares that she has used this tool consistently for over two years while maintaining healthy hair length. She demonstrates two styling techniques: holding the brush vertically to achieve spiral curls versus holding it horizontally for a traditional sleek blowout with flipped ends. She showcases the side-by-side comparison, styles her bangs and front face-framing pieces, and displays the final voluminous, bouncy blowout result.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let's blowout my hair!",
+    "text_english": "Let's blowout my hair!"
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 2.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Heat protectant, always.",
+    "text_english": "Heat protectant, always."
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 8.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I realized the other day that I've been using this tool consistently for over two years now, which is actually insane.",
+    "text_english": "I realized the other day that I've been using this tool consistently for over two years now, which is actually insane."
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 10.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "And look how long and healthy my hair still is.",
+    "text_english": "And look how long and healthy my hair still is."
+   },
+   {
+    "start_s": 10.0,
+    "end_s": 12.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now that is what I'm talking about.",
+    "text_english": "Now that is what I'm talking about."
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 15.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "One of the best things about this hair tool is that you can use it multiple different ways.",
+    "text_english": "One of the best things about this hair tool is that you can use it multiple different ways."
+   },
+   {
+    "start_s": 15.0,
+    "end_s": 18.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So the way I'm using it right now is holding the brush at a vertical angle,",
+    "text_english": "So the way I'm using it right now is holding the brush at a vertical angle,"
+   },
+   {
+    "start_s": 18.5,
+    "end_s": 22.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and this is going to create more of a spiral curl.",
+    "text_english": "and this is going to create more of a spiral curl."
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 23.9,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I mean, look how pretty that is.",
+    "text_english": "I mean, look how pretty that is."
+   },
+   {
+    "start_s": 23.9,
+    "end_s": 28.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Versus on this side, where I'm gonna hold the brush at a horizontal angle and just make my way down,",
+    "text_english": "Versus on this side, where I'm gonna hold the brush at a horizontal angle and just make my way down,"
+   },
+   {
+    "start_s": 28.5,
+    "end_s": 34.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and I'm gonna get more of a traditional blowout look like this, where the flip is only at the ends.",
+    "text_english": "and I'm gonna get more of a traditional blowout look like this, where the flip is only at the ends."
+   },
+   {
+    "start_s": 34.5,
+    "end_s": 38.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Just getting a little closer so you can see it stays straight all the way until the ends, where there's a flip,",
+    "text_english": "Just getting a little closer so you can see it stays straight all the way until the ends, where there's a flip,"
+   },
+   {
+    "start_s": 38.8,
+    "end_s": 44.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "whereas this side already starts curling up here and then it makes a spiral all the way down.",
+    "text_english": "whereas this side already starts curling up here and then it makes a spiral all the way down."
+   },
+   {
+    "start_s": 44.0,
+    "end_s": 47.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Both are gorgeous. It's just up to your personal preference.",
+    "text_english": "Both are gorgeous. It's just up to your personal preference."
+   },
+   {
+    "start_s": 47.0,
+    "end_s": 55.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Using this side as an example of the spiral curl, and I am taking the brush and I'm using that handle to help aid in the spiral,",
+    "text_english": "Using this side as an example of the spiral curl, and I am taking the brush and I'm using that handle to help aid in the spiral,"
+   },
+   {
+    "start_s": 55.5,
+    "end_s": 59.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and then I just let go at the ends.",
+    "text_english": "and then I just let go at the ends."
+   },
+   {
+    "start_s": 59.5,
+    "end_s": 63.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Beautiful. It literally looks like I used a curling iron.",
+    "text_english": "Beautiful. It literally looks like I used a curling iron."
+   },
+   {
+    "start_s": 63.0,
+    "end_s": 68.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This side, I'm doing the way that I usually do it. Honestly just depends on my mood and how much curl I want.",
+    "text_english": "This side, I'm doing the way that I usually do it. Honestly just depends on my mood and how much curl I want."
+   },
+   {
+    "start_s": 68.0,
+    "end_s": 71.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "But this is more of the traditional way, horizontally.",
+    "text_english": "But this is more of the traditional way, horizontally."
+   },
+   {
+    "start_s": 71.5,
+    "end_s": 73.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "So here's the difference. Side by side.",
+    "text_english": "So here's the difference. Side by side."
+   },
+   {
+    "start_s": 73.8,
+    "end_s": 79.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I'm gonna match this side to the other side so I don't look crazy holding at a vertical angle.",
+    "text_english": "I'm gonna match this side to the other side so I don't look crazy holding at a vertical angle."
+   },
+   {
+    "start_s": 79.8,
+    "end_s": 82.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Notice how there's so much more curl now?",
+    "text_english": "Notice how there's so much more curl now?"
+   },
+   {
+    "start_s": 82.0,
+    "end_s": 84.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Now add a little bit more curl on this piece.",
+    "text_english": "Now add a little bit more curl on this piece."
+   },
+   {
+    "start_s": 84.5,
+    "end_s": 86.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Oh, yeah.",
+    "text_english": "Oh, yeah."
+   },
+   {
+    "start_s": 86.5,
+    "end_s": 90.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I still always style my front section the same way.",
+    "text_english": "I still always style my front section the same way."
+   },
+   {
+    "start_s": 90.0,
+    "end_s": 93.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Okay, and this is the final look. What do you guys think?",
+    "text_english": "Okay, and this is the final look. What do you guys think?"
+   },
+   {
+    "start_s": 93.8,
+    "end_s": 98.5,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You could see how holding the brush vertically really helps to add those face framing curls.",
+    "text_english": "You could see how holding the brush vertically really helps to add those face framing curls."
+   },
+   {
+    "start_s": 98.5,
+    "end_s": 103.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If you want, you can do the little front section as well to add a little bit more curl.",
+    "text_english": "If you want, you can do the little front section as well to add a little bit more curl."
+   },
+   {
+    "start_s": 103.0,
+    "end_s": 105.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Let me know what you think!",
+    "text_english": "Let me know what you think!"
+   }
+  ],
+  "transcript_full_original": "Let's blowout my hair! Heat protectant, always. I realized the other day that I've been using this tool consistently for over two years now, which is actually insane. And look how long and healthy my hair still is. Now that is what I'm talking about. One of the best things about this hair tool is that you can use it multiple different ways. So the way I'm using it right now is holding the brush at a vertical angle, and this is going to create more of a spiral curl. I mean, look how pretty that is. Versus on this side, where I'm gonna hold the brush at a horizontal angle and just make my way down, and I'm gonna get more of a traditional blowout look like this, where the flip is only at the ends. Just getting a little closer so you can see it stays straight all the way until the ends, where there's a flip, whereas this side already starts curling up here and then it makes a spiral all the way down. Both are gorgeous. It's just up to your personal preference. Using this side as an example of the spiral curl, and I am taking the brush and I'm using that handle to help aid in the spiral, and then I just let go at the ends. Beautiful. It literally looks like I used a curling iron. This side, I'm doing the way that I usually do it. Honestly just depends on my mood and how much curl I want. But this is more of the traditional way, horizontally. So here's the difference. Side by side. I'm gonna match this side to the other side so I don't look crazy holding at a vertical angle. Notice how there's so much more curl now? Now add a little bit more curl on this piece. Oh, yeah. I still always style my front section the same way. Okay, and this is the final look. What do you guys think? You could see how holding the brush vertically really helps to add those face framing curls. If you want, you can do the little front section as well to add a little bit more curl. Let me know what you think!",
+  "transcript_full_english": "Let's blowout my hair! Heat protectant, always. I realized the other day that I've been using this tool consistently for over two years now, which is actually insane. And look how long and healthy my hair still is. Now that is what I'm talking about. One of the best things about this hair tool is that you can use it multiple different ways. So the way I'm using it right now is holding the brush at a vertical angle, and this is going to create more of a spiral curl. I mean, look how pretty that is. Versus on this side, where I'm gonna hold the brush at a horizontal angle and just make my way down, and I'm gonna get more of a traditional blowout look like this, where the flip is only at the ends. Just getting a little closer so you can see it stays straight all the way until the ends, where there's a flip, whereas this side already starts curling up here and then it makes a spiral all the way down. Both are gorgeous. It's just up to your personal preference. Using this side as an example of the spiral curl, and I am taking the brush and I'm using that handle to help aid in the spiral, and then I just let go at the ends. Beautiful. It literally looks like I used a curling iron. This side, I'm doing the way that I usually do it. Honestly just depends on my mood and how much curl I want. But this is more of the traditional way, horizontally. So here's the difference. Side by side. I'm gonna match this side to the other side so I don't look crazy holding at a vertical angle. Notice how there's so much more curl now? Now add a little bit more curl on this piece. Oh, yeah. I still always style my front section the same way. Okay, and this is the final look. What do you guys think? You could see how holding the brush vertically really helps to add those face framing curls. If you want, you can do the little front section as well to add a little bit more curl. Let me know what you think!",
+  "word_count": 349,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "text": "Let's blowout my hair!",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 2.2,
+    "text": "Heat protectant.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.2,
+    "end_s": 2.9,
+    "text": "Always.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 5.9,
+    "text": "that I've been using this tool consistently for over two years now,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 5.9,
+    "end_s": 7.8,
+    "text": "which is actually insane.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 9.9,
+    "text": "And look how long and healthy my hair still is.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.9,
+    "end_s": 11.9,
+    "text": "Now that is what I'm talking about.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 11.9,
+    "end_s": 14.8,
+    "text": "One of the best things about this hair tool",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.8,
+    "end_s": 18.2,
+    "text": "is that you can use it multiple different ways.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.2,
+    "end_s": 22.0,
+    "text": "So the way I'm using it right now is holding the brush at a vertical angle,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 23.8,
+    "text": "and this is going to create more of a spiral curl.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.8,
+    "end_s": 28.2,
+    "text": "I mean, look how pretty that is. Versus on this side,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 28.2,
+    "end_s": 33.5,
+    "text": "where I'm gonna hold the brush at a horizontal angle and just make my way down and I'm gonna get more of a traditional blow out look like this, where the flip is only at the ends,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 34.5,
+    "end_s": 38.5,
+    "text": "just getting a little closer so you can see it stays straight all the way until the ends,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 38.5,
+    "end_s": 43.5,
+    "text": "where there's a flip, whereas the side already starts curling up here and then it makes a spiral all the way down.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 44.0,
+    "end_s": 46.5,
+    "text": "Both are gorgeous. It's just up to your personal preference.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 47.0,
+    "end_s": 55.0,
+    "text": "Using this side as an example of the spiral curl, and I am taking the brush and I'm using that handle to help aid in the spiral,",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 56.5,
+    "end_s": 58.5,
+    "text": "and then I just let go at the ends.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 60.0,
+    "end_s": 63.0,
+    "text": "Beautiful. It literally looks like I used a curling iron.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 63.0,
+    "end_s": 71.0,
+    "text": "This side, I'm doing the way that I usually do it. Honestly just depends on my mood. And how much curl I want, but this is more of the traditional way, horizontally.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 71.5,
+    "end_s": 73.5,
+    "text": "So here's the difference. Side by side.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 73.8,
+    "end_s": 79.5,
+    "text": "I'm gonna match this side to the other side so I don't look crazy holding at a vertical angle.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 80.0,
+    "end_s": 82.0,
+    "text": "Notice how there's so much more curl?",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 82.0,
+    "end_s": 84.5,
+    "text": "Now add a little bit more curl on this piece.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 85.0,
+    "end_s": 86.5,
+    "text": "Oh, yeah.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 86.5,
+    "end_s": 89.8,
+    "text": "I still always style my front section the same way.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 90.0,
+    "end_s": 93.5,
+    "text": "Okay, and this is the final look. What do you guys think?",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 94.0,
+    "end_s": 98.0,
+    "text": "You could see how holding the brush vertically really helps to add those face framing curls.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 98.5,
+    "end_s": 103.0,
+    "text": "you can do the little front section as well to add a little bit more curl.",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 103.5,
+    "end_s": 105.0,
+    "text": "Let me know what you think!",
+    "role": "caption_of_speech"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.9,
+    "shot_type": "medium shot",
+    "visual": "Creator in a white robe showing her long natural wavy/frizzy hair before styling, spraying heat protectant.",
+    "action": "Creator faces the camera with natural hair, sprays heat protectant over her long thick hair.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.9,
+    "end_s": 11.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the pink thermal brush tool, smoothing a bottom strand of hair and demonstrating healthy long hair results.",
+    "action": "Creator glides the thermal round brush down a section, shows how straight and silky it looks.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.9,
+    "end_s": 23.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator wrapping hair vertically around the pink thermal brush to create a spiral curl.",
+    "action": "Creator twists the brush vertically down her hair strand, releases it to reveal a defined bouncy spiral curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.9,
+    "end_s": 34.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the opposite side holding the brush horizontally.",
+    "action": "Creator rolls the brush inward horizontally down the section to create a classic flipped end blowout.",
+    "product_visible": true
+   },
+   {
+    "start_s": 34.5,
+    "end_s": 46.5,
+    "shot_type": "close-up",
+    "visual": "Creator leaning closer to compare the straight-to-flip side with the spiral-curl side side-by-side.",
+    "action": "Creator points out the difference between the two techniques on both sides of her face.",
+    "product_visible": false
+   },
+   {
+    "start_s": 46.5,
+    "end_s": 62.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator demonstrating another vertical spiral curl using the brush barrel and handle.",
+    "action": "Creator wraps hair strand around brush barrel vertically, glides down, releases curl, and shows the tool to the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 62.5,
+    "end_s": 73.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator doing horizontal technique on lower sections and showing side by side result.",
+    "action": "Creator glides horizontally at the ends and displays both sides side-by-side.",
+    "product_visible": true
+   },
+   {
+    "start_s": 73.5,
+    "end_s": 86.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator matching the other side with vertical curling to ensure symmetrical spiral curls.",
+    "action": "Creator re-curls sections vertically to match the spiral curl look on both sides.",
+    "product_visible": true
+   },
+   {
+    "start_s": 86.5,
+    "end_s": 90.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling her top front bang section upwards with the round thermal brush.",
+    "action": "Creator pulls the front crown section straight up and rolls back for volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 90.0,
+    "end_s": 105.0,
+    "shot_type": "medium shot",
+    "visual": "Final look showcase: creator shaking out her voluminous, shiny, bouncy curly blowout, touching up face-framing pieces.",
+    "action": "Creator shakes out curls, runs fingers through hair, touches up a front strand with the brush, and asks viewer opinion.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera in a white bathrobe with huge voluminous natural wavy hair, enthusiastically shouting 'Let's blowout my hair!'",
+   "visual_0_3s": "Natural, unprocessed thick hair shown full-screen while creator sprays heat protectant mist.",
+   "spoken_0_3s": "Let's blowout my hair! Heat protectant, always.",
+   "text_0_3s": "Let's blowout my hair! / Heat protectant. Always.",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Massive voluminous long frizzy hair shown immediately upfront creates an instant curiosity gap to see how it transforms."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Starting point: natural hair & heat prep",
+    "Credibility claim: 2 years of consistent use and hair is still healthy and long",
+    "Technique 1: Vertical brush angle for spiral curl",
+    "Technique 2: Horizontal brush angle for traditional blowout flip",
+    "Direct side-by-side comparison & explanation of anatomy of each curl",
+    "Crown / bang styling for lift",
+    "Final result showcase & community question"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "replaces_multiple_tools",
+    "less_heat_damage",
+    "volume_and_bounce"
+   ],
+   "key_claims": [
+    "Been using this tool consistently for over 2 years and hair remains long and healthy",
+    "Tool can be used in multiple different ways",
+    "Vertical angle creates spiral curls looking like a curling iron",
+    "Horizontal angle creates a classic blowout flip"
+   ],
+   "pain_points": [
+    "Fear of heat damage destroying long hair over time",
+    "Having to buy multiple tools (curling iron vs blowout brush)"
+   ],
+   "objections_handled": [
+    "Does it cause heat damage? Creator shows extreme length and health after 2 years of use.",
+    "Can it only do straight hair? Creator proves it curls like a curling iron."
+   ],
+   "social_proof": [
+    "Over 2 years of personal consistent usage evidence"
+   ],
+   "comparison_to": "Curling iron and traditional round brush blowout"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Blowout Boost Thermal Brush (pink)"
+   ],
+   "first_seen_s": 2.9,
+   "first_used_on_hair_s": 3.0,
+   "final_result_shown_s": 90.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "Let me know what you think!",
+   "cta_on_screen": "Let me know what you think!",
+   "cta_at_s": 103.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Very long, waist-length, thick brunette natural wavy/textured frizzy hair",
+   "hair_after": "Ultra-glossy, healthy, bouncy spiral curls with voluminous face-framing layers",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Warm, educational, upbeat, authentic UGC"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "Clean direct spoken creator audio without prominent background music track.",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 11,
+   "avg_shot_length_s": 9.5,
+   "pacing": "medium",
+   "effects": [
+    "Jump cuts between styling sections",
+    "White center-aligned subtitles"
+   ],
+   "ending": "Creator smiling, running hands through her full bouncy blowout and asking viewers for their opinion."
+  },
+  "notes": "High-performing UGC demo video demonstrating technique versatility (vertical vs horizontal technique) on the pink thermal blowout brush, validating product longevity and zero hair damage over 2 years."
+ }
+}

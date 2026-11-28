@@ -1,0 +1,245 @@
+{
+ "media_key": "v_1310041061280698",
+ "analyzed_at": "2026-11-28T00:10:21+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "d99dfc62c56c64658ddf4574aa847bdf6433641d5925a9cca27bd5cdd0db2e8f",
+ "source": {
+  "kind": "video",
+  "id": "1310041061280698",
+  "video_id": "1683351056246447",
+  "length_s": 33.933,
+  "permalink": "/23849366283980795/videos/1683351056246447/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 33.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A curly-haired model showcases defined curls achieved with the WavyTalk hair dryer and diffuser attachment over energetic music and bold benefit text overlays.",
+  "full_description": "A vertical social ad for WavyTalk featuring a young woman demonstrating the Turblow Pro dryer with curl diffuser. The ad opens with the finished voluminous curly look, cuts to unboxing and showing the pink tool, demonstrates diffusing wet curls step by step from ends to scalp, and concludes with the defined final result alongside promotional discount and CTA text overlays. There is no spoken audio; upbeat electronic music plays throughout.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 33.8,
+    "text": "WAVYTALK",
+    "role": "brand"
+   },
+   {
+    "start_s": 0.0,
+    "end_s": 3.6,
+    "text": "YOUR CURLS DESERVE THE SPOTLIGHT",
+    "role": "hook"
+   },
+   {
+    "start_s": 3.6,
+    "end_s": 7.4,
+    "text": "SEE WHY IT WENT VIRAL ON TIKTOK",
+    "role": "benefit"
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 12.9,
+    "text": "DESIGNED TO DEFINE CURLS",
+    "role": "benefit"
+   },
+   {
+    "start_s": 12.9,
+    "end_s": 19.4,
+    "text": "AND KILL FRIZZ",
+    "role": "benefit"
+   },
+   {
+    "start_s": 19.4,
+    "end_s": 23.4,
+    "text": "5x FASTER THAN REGULAR DRYERS",
+    "role": "benefit"
+   },
+   {
+    "start_s": 23.4,
+    "end_s": 27.4,
+    "text": "GENTLER THAN A NORMAL DIFFUSER",
+    "role": "benefit"
+   },
+   {
+    "start_s": 27.4,
+    "end_s": 31.2,
+    "text": "25% OFF WITH 30-DAY RETURNS",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 31.2,
+    "end_s": 33.8,
+    "text": "GET YOURS NOW",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.6,
+    "shot_type": "medium shot",
+    "visual": "Young woman with long, voluminous, dark brunette curly hair smiling, running her fingers through her hair.",
+    "action": "Posing and shaking hair to show off defined curl result.",
+    "product_visible": false
+   },
+   {
+    "start_s": 3.6,
+    "end_s": 7.4,
+    "shot_type": "medium shot",
+    "visual": "Woman smiling while holding up the WavyTalk product packaging box, then holding the pastel pink hair dryer with the diffuser head attached.",
+    "action": "Unboxing and presenting the product and diffuser attachment to camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 12.9,
+    "shot_type": "close-up",
+    "visual": "Woman holding the dryer with diffuser cup lifting and scrunching damp curls.",
+    "action": "Diffusing damp curls upwards from the ends toward the roots.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.9,
+    "end_s": 19.4,
+    "shot_type": "close-up",
+    "visual": "Diffusing side sections of curls, lifting them into the diffuser bowl.",
+    "action": "Gently pulsing the diffuser into curly hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 19.4,
+    "end_s": 23.4,
+    "shot_type": "close-up",
+    "visual": "Rear/top angle showing the diffuser bowl pressed gently into the crown and roots.",
+    "action": "Diffusing roots and back sections for root lift.",
+    "product_visible": true
+   },
+   {
+    "start_s": 23.4,
+    "end_s": 27.4,
+    "shot_type": "medium close-up",
+    "visual": "Diffuser positioned along the top side of head near roots.",
+    "action": "Lifting root volume with the diffuser prongs.",
+    "product_visible": true
+   },
+   {
+    "start_s": 27.4,
+    "end_s": 33.8,
+    "shot_type": "medium shot",
+    "visual": "Woman touching her fully dried, bouncy, glossy defined curls and smiling at camera.",
+    "action": "Showing off the completed hairstyle, fluffing hair at the roots and posing.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Young woman with long, shiny, defined curly hair smiling and running her hands through her hair with purple brand border.",
+   "visual_0_3s": "Model enthusiastically touches and fluffs her voluminous, shiny defined curls to show final results first.",
+   "spoken_0_3s": "",
+   "text_0_3s": "YOUR CURLS DESERVE THE SPOTLIGHT",
+   "hook_type": "result_first",
+   "hook_type_secondary": "social_proof",
+   "pattern_interrupt": "Immediate result reveal paired with an aesthetic purple bordered frame and rhythmic upbeat music."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Result reveal hook",
+    "Viral product reveal in packaging",
+    "Application demonstration cupping and drying curls with diffuser",
+    "Root lift demonstration from behind and side",
+    "Final result flaunt with discount offer and CTA"
+   ],
+   "main_angle": "frizz_or_curly_solution",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "saves_time",
+    "social_proof_popularity",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Designed to define curls",
+    "Kill frizz",
+    "5x faster than regular dryers",
+    "Gentler than a normal diffuser"
+   ],
+   "pain_points": [
+    "Frizzy curly hair",
+    "Slow drying time with standard dryers",
+    "Diffuser heat damage"
+   ],
+   "objections_handled": [
+    "Will it damage or frizz curls? No, gentler than standard diffusers and kills frizz",
+    "Does it take forever? 5x faster than regular dryers"
+   ],
+   "social_proof": [
+    "SEE WHY IT WENT VIRAL ON TIKTOK"
+   ],
+   "comparison_to": "regular hair dryers and normal diffusers"
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Turblow Pro with diffuser attachment"
+   ],
+   "first_seen_s": 3.6,
+   "first_used_on_hair_s": 7.4,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "25% OFF with 30-day returns",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "GET YOURS NOW",
+   "cta_at_s": 31.2
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Damp, dark brunette curly hair",
+   "hair_after": "Dry, defined, voluminous shiny dark curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Confident, energetic, glamorous"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Upbeat rhythmic electronic pop background track with steady beat.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 6,
+   "avg_shot_length_s": 4.8,
+   "pacing": "medium",
+   "effects": [
+    "Framed graphic overlay border",
+    "Lower-third animated text overlays"
+   ],
+   "ending": "Model smiling and tossing her defined curls with CTA banner 'GET YOURS NOW' on screen."
+  },
+  "notes": "The video is designed for sound-off consumption with high-contrast text overlays highlighting product benefits and social proof ('Went viral on TikTok')."
+ }
+}

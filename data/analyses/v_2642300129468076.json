@@ -1,0 +1,460 @@
+{
+ "media_key": "v_2642300129468076",
+ "analyzed_at": "2026-11-28T00:20:10+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "801bd48c841fb292f8e944cd5f830455e3def9b4f49354648db502fdc1614155",
+ "source": {
+  "kind": "video",
+  "id": "2642300129468076",
+  "video_id": "1160135869624885",
+  "length_s": 27.666,
+  "permalink": "/23849366283980795/videos/1160135869624885/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 27.7,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator showcases the Wavytalk Steamline Pro straightening brush, claiming celebrity stylists use it on Kylie Jenner, Megan Fox, and JLo.",
+  "full_description": "A creator dressed in a black blazer sits on a bed stating her hair goal is Kylie Jenner, showing a pop-up photo of Kylie. She reveals she bought the exact tool used by Kylie's hairstylist: the Wavytalk Steamline Pro. In a modern bathroom, she demonstrates straightening her dark hair smoothly with the steam brush wearing a heat-protective glove. She highlights its US bestseller status, shows photos of celebrities (Megan Fox, Madonna, Jennifer Lopez), explains its 5 heat settings and safe daily use, before showing off her sleek, shiny hair and pointing down to buy it via wavytalk-lb.com.",
+  "language": {
+   "spoken_languages": [
+    "ar",
+    "en"
+   ],
+   "primary_spoken_language": "mixed",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 50,
+    "en": 50,
+    "fr": 0
+   },
+   "code_switching": true,
+   "on_screen_text_languages": [
+    "en",
+    "arabizi"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "My hair goal? Kylie Jenner.",
+    "text_english": "My hair goal? Kylie Jenner."
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 4.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "لهيك جبت the exact tool her hairdresser is using.",
+    "text_english": "That's why I got the exact tool her hairdresser is using."
+   },
+   {
+    "start_s": 4.6,
+    "end_s": 6.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "Wavytalk Steamline Pro.",
+    "text_english": "Wavytalk Steamline Pro."
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 10.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "It straightens all my hair وبتعطي shine مش شايفتها ابداً من قبل.",
+    "text_english": "It straightens all my hair and gives shine I've never seen before."
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 15.9,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "It's a bestseller now بـ US، وهيردريسر كايلي عم يستعملها مع all his clients:",
+    "text_english": "It's a bestseller now in the US, and Kylie's hairdresser uses it with all his clients:"
+   },
+   {
+    "start_s": 15.9,
+    "end_s": 18.7,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "Megan Fox, Madonna، وجنيفر لوبيز.",
+    "text_english": "Megan Fox, Madonna, and Jennifer Lopez."
+   },
+   {
+    "start_s": 18.7,
+    "end_s": 23.0,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "فيها 5 temperature settings لتناسب all hair types، و it's safe for daily use.",
+    "text_english": "It has 5 temperature settings to suit all hair types, and it's safe for daily use."
+   },
+   {
+    "start_s": 23.0,
+    "end_s": 25.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "If Kylie Jenner can do it, so can you.",
+    "text_english": "If Kylie Jenner can do it, so can you."
+   },
+   {
+    "start_s": 25.4,
+    "end_s": 27.6,
+    "speaker": "creator",
+    "language": "mixed",
+    "text_original": "طلبوا Steamline Pro from the link below.",
+    "text_english": "Order Steamline Pro from the link below."
+   }
+  ],
+  "transcript_full_original": "My hair goal? Kylie Jenner. لهيك جبت the exact tool her hairdresser is using. Wavytalk Steamline Pro. It straightens all my hair وبتعطي shine مش شايفتها ابداً من قبل. It's a bestseller now بـ US، وهيردريسر كايلي عم يستعملها مع all his clients: Megan Fox, Madonna، وجنيفر لوبيز. فيها 5 temperature settings لتناسب all hair types، و it's safe for daily use. If Kylie Jenner can do it, so can you. طلبوا Steamline Pro from the link below.",
+  "transcript_full_english": "My hair goal? Kylie Jenner. That's why I got the exact tool her hairdresser is using. Wavytalk Steamline Pro. It straightens all my hair and gives shine I've never seen before. It's a bestseller now in the US, and Kylie's hairdresser uses it with all his clients: Megan Fox, Madonna, and Jennifer Lopez. It has 5 temperature settings to suit all hair types, and it's safe for daily use. If Kylie Jenner can do it, so can you. Order Steamline Pro from the link below.",
+  "word_count": 67,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.0,
+    "text": "my hair goal",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 1.0,
+    "end_s": 2.1,
+    "text": "Kylie Jenner",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 3.7,
+    "text": "lahek jebet the exact tool",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 4.6,
+    "text": "her hairdresser is using",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 4.6,
+    "end_s": 6.8,
+    "text": "wavytalk steamline Pro",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 8.0,
+    "text": "It straightens all my hair",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 9.4,
+    "text": "w btaati shine",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 9.4,
+    "end_s": 10.9,
+    "text": "msh sheyfeta abadan mn abl",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 12.8,
+    "text": "Best Seller",
+    "role": "benefit"
+   },
+   {
+    "start_s": 11.0,
+    "end_s": 12.8,
+    "text": "It's a bestseller now b US",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 14.3,
+    "text": "w hairdresser kylie",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 14.3,
+    "end_s": 15.9,
+    "text": "aam yestaamela maa all his clients",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 15.9,
+    "end_s": 16.8,
+    "text": "Megan Fox",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 16.8,
+    "end_s": 17.6,
+    "text": "Madonna",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 17.6,
+    "end_s": 18.7,
+    "text": "w Jennifer Lopez",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 18.7,
+    "end_s": 20.3,
+    "text": "fiya 5 temperature settings",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 20.3,
+    "end_s": 21.7,
+    "text": "la tnesib all hair types",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 21.7,
+    "end_s": 23.0,
+    "text": "w its safe for daily use",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 23.0,
+    "end_s": 24.3,
+    "text": "If Kylie jenner can do it",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 24.3,
+    "end_s": 25.4,
+    "text": "so can you",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 25.4,
+    "end_s": 26.5,
+    "text": "tlobo steamline pro",
+    "role": "caption_of_speech"
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 27.6,
+    "text": "wavytalk-lb.com",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.1,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting on a white bed wearing an oversized black blazer, looking directly into the camera. An image overlay of Kylie Jenner appears in front of her.",
+    "action": "Creator poses and points down to Kylie Jenner's photo overlay as she states her hair goal.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.1,
+    "end_s": 3.7,
+    "shot_type": "medium shot",
+    "visual": "Creator in a modern tiled bathroom smiling and presenting the pink Wavytalk Steamline Pro to the camera.",
+    "action": "Creator shows the device horizontally towards the camera.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.7,
+    "end_s": 4.6,
+    "shot_type": "close-up",
+    "visual": "Close-up of the creator combing a section of long dark hair with the steam straightening brush.",
+    "action": "Gliding the pink steam brush smoothly through hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.6,
+    "end_s": 6.8,
+    "shot_type": "product shot",
+    "visual": "Product box of Wavytalk Steamline Pro standing on a shelf next to a hot pink 'W' Wavytalk gift bag.",
+    "action": "Static camera display showing packaging and branded shopping bag.",
+    "product_visible": true
+   },
+   {
+    "start_s": 6.8,
+    "end_s": 8.0,
+    "shot_type": "medium shot",
+    "visual": "Side profile in the bathroom mirror as the creator sections her hair and brushes down with the steam tool.",
+    "action": "Straightening a long strand of hair with the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 10.9,
+    "shot_type": "medium close-up",
+    "visual": "Creator smiles facing the camera, holding the tool across her chest while showing off her shiny, smooth hair.",
+    "action": "Creator smiles and nods, displaying her finished hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.9,
+    "end_s": 13.0,
+    "shot_type": "close-up",
+    "visual": "Extreme close-up shot of the pink brush handle featuring the Wavytalk Pro logo with graphic stickers of a red ribbon 'Best Seller' and an American flag.",
+    "action": "Hands wearing black heat gloves hold the brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 13.0,
+    "end_s": 15.9,
+    "shot_type": "close-up",
+    "visual": "Close-up top view of the brush bristles, water tank section, and indicator buttons being held on a bathroom vanity.",
+    "action": "Manicured hands hold and display the button controls on the tool.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.9,
+    "end_s": 18.7,
+    "shot_type": "slideshow / static overlays",
+    "visual": "Fast cuts of celebrity red carpet photos: Megan Fox, Madonna, Jennifer Lopez.",
+    "action": "Celebrity portraits appear sequentially matching the voiceover.",
+    "product_visible": false
+   },
+   {
+    "start_s": 18.7,
+    "end_s": 20.0,
+    "shot_type": "medium shot",
+    "visual": "Creator standing in bathroom holding up the tool towards camera.",
+    "action": "Creator introduces features.",
+    "product_visible": true
+   },
+   {
+    "start_s": 20.0,
+    "end_s": 22.0,
+    "shot_type": "medium shot",
+    "visual": "Creator standing by a sunny floor-to-ceiling city window holding the tool in one hand and flipping her soft straight hair with the other.",
+    "action": "Creator happily runs fingers through her straight shiny hair.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 25.4,
+    "shot_type": "medium close-up",
+    "visual": "Side view of creator straightening a strand of hair smoothly with steamline brush.",
+    "action": "Running the brush from root to tip.",
+    "product_visible": true
+   },
+   {
+    "start_s": 25.4,
+    "end_s": 26.5,
+    "shot_type": "product shot",
+    "visual": "Product packaging box on a white shelf under bright sunlight.",
+    "action": "Camera zooms slightly on the Steamline Pro box.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 27.7,
+    "shot_type": "medium shot",
+    "visual": "Creator sitting on the bed in her black blazer holding the pink tool and pointing down to the URL overlay.",
+    "action": "Creator gestures downwards pointing to the link wavytalk-lb.com.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator sitting in a chic black oversized blazer on a bed with caption 'my hair goal'.",
+   "visual_0_3s": "Creator sitting on bed, picture of Kylie Jenner pops up as an overlay, cut to bathroom holding pink brush.",
+   "spoken_0_3s": "My hair goal? Kylie Jenner. لهيك جبت the exact tool...",
+   "text_0_3s": "my hair goal / Kylie Jenner",
+   "hook_type": "social_proof",
+   "hook_type_secondary": "expert_or_hairdresser",
+   "pattern_interrupt": "A large glamour photo cutout of Kylie Jenner popping up over the creator."
+  },
+  "structure": {
+   "format": "talking_head_ugc",
+   "narrative_beats": [
+    "Celebrity inspiration hook (Kylie Jenner)",
+    "Tool introduction & celebrity stylist association",
+    "Straightening and shine demonstration",
+    "Authority proof (US bestseller, Megan Fox, Madonna, JLo)",
+    "Features (5 temperature settings, safe daily use)",
+    "Empowerment & CTA to order via website link"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "social_proof_popularity",
+    "expert_endorsement",
+    "less_heat_damage"
+   ],
+   "key_claims": [
+    "Exact tool used by Kylie Jenner's hairstylist",
+    "Straightens all hair and gives unprecedented shine",
+    "Bestseller in the US",
+    "Used on Megan Fox, Madonna, Jennifer Lopez",
+    "5 temperature settings suitable for all hair types",
+    "Safe for daily use"
+   ],
+   "pain_points": [
+    "Dull or frizzy hair lacking celebrity shine",
+    "Fear of daily heat damage"
+   ],
+   "objections_handled": [
+    "Is it safe for daily use? (Yes, safe for daily use)",
+    "Will it work on my hair type? (5 settings to suit all hair types)"
+   ],
+   "social_proof": [
+    "Used by Kylie Jenner's hairstylist",
+    "Celebrity clients: Kylie Jenner, Megan Fox, Madonna, Jennifer Lopez",
+    "US bestseller"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Steamline Pro"
+   ],
+   "first_seen_s": 2.1,
+   "first_used_on_hair_s": 3.7,
+   "final_result_shown_s": 8.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "طلبوا Steamline Pro from the link below.",
+   "cta_on_screen": "wavytalk-lb.com",
+   "cta_at_s": 25.4
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Long, dark brunette, natural straight/slightly frizzy",
+   "hair_after": "Ultra-sleek, silky, shiny straight dark hair",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "confident, chic, aspirational, persuasive"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking_plus_music",
+   "music_description": "Subtle upbeat rhythmic background pop/electronic track",
+   "captions_burned_in": true,
+   "production_style": "edited_ugc",
+   "cut_count": 12,
+   "avg_shot_length_s": 2.3,
+   "pacing": "fast",
+   "effects": [
+    "celebrity photo overlays",
+    "stickers (US flag, best seller ribbon)",
+    "text animations"
+   ],
+   "ending": "Creator sitting on bed pointing down with website URL displayed on screen"
+  },
+  "notes": "Targeted at Lebanese consumers, the video leans heavily on Hollywood celebrity hairstylist credibility and American popularity to validate the Wavytalk Steamline Pro."
+ }
+}

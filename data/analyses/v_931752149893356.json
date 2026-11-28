@@ -1,0 +1,181 @@
+{
+ "media_key": "v_931752149893356",
+ "analyzed_at": "2026-11-28T00:14:24+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "a8d71f541d86fba7be79382f1edafd9b5aadb8bf406a098fd2b8c2a538e5956d",
+ "source": {
+  "kind": "video",
+  "id": "931752149893356",
+  "video_id": "4493637917587213",
+  "length_s": 21.966,
+  "permalink": "/23849366283980795/videos/4493637917587213/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 22.0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator demonstrates how to style a sleek half-up curled ponytail using the Wavytalk 2-in-1 straightener and curler.",
+  "full_description": "A creator showcases a sleek half-up ponytail hairstyle tutorial. After briefly teasing the curl action and final result, she partitions her dark brown hair and creates a secure half-up pony wrapped with hair. She introduces the pink Wavytalk 2-in-1 styling iron, displaying its digital temperature gauge set to 320°F. She curls sections of the ponytail smoothly, shows the bouncy curls from behind, and finishes by posing with the tool to highlight the finished look.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 11.2,
+    "end_s": 15.5,
+    "text": "2 in 1 straightener/curler",
+    "role": "benefit"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "shot_type": "medium close-up",
+    "visual": "Creator curling a hair section and immediately posing to reveal the styled bouncy ponytail.",
+    "action": "Creator quickly releases a curl and turns her head to show the hairstyle.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.8,
+    "end_s": 7.8,
+    "shot_type": "medium shot / back angle",
+    "visual": "Creator in bedroom setting sectioning hair.",
+    "action": "Creator sections the top half of her hair, secures it into a tight ponytail, and wraps a strand around the hair tie to conceal it.",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.8,
+    "end_s": 10.4,
+    "shot_type": "close-up",
+    "visual": "Creator holding the pink Wavytalk styling tool towards the camera.",
+    "action": "Displays the sleek pink wand and the illuminated digital temperature display reading 320°F.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.4,
+    "end_s": 16.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling her hair with text overlay '2 in 1 straightener/curler'.",
+    "action": "Glides and rotates the styler through sections of the ponytail to create smooth, defined spiral curls.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.5,
+    "end_s": 19.5,
+    "shot_type": "medium shot (rear view)",
+    "visual": "Back of creator's head showing the finished ponytail curls.",
+    "action": "Creator runs fingers lightly through the curls to fluff and show bounce.",
+    "product_visible": false
+   },
+   {
+    "start_s": 19.5,
+    "end_s": 22.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator facing camera holding the pink tool, then turning to side profile.",
+    "action": "Posing gracefully while holding the styling iron beside her face, showing off the completed hairstyle.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator actively curling hair near top of head with the pink styler.",
+   "visual_0_3s": "Fast preview of curling action followed by a polished side-angle look at the final curls.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "result_first",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Rapid 1-second preview of the finished sleek hair before jumping into hair prep."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Teaser of final look and curling action",
+    "Step-by-step hair preparation and sleek ponytail base",
+    "Tool showcase highlighting digital heat control",
+    "Curling process demo showing ease of glide",
+    "Final hairstyle reveal from back and side profile"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "replaces_multiple_tools",
+    "volume_and_bounce",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "2 in 1 straightener/curler capability",
+    "Effortless spiral curls with controlled heat"
+   ],
+   "pain_points": [
+    "Difficulty styling ponytails with separate curling irons",
+    "Frizzy or flat ponytail hair"
+   ],
+   "objections_handled": [
+    "Shows precise temperature control to prevent excessive heat exposure"
+   ],
+   "social_proof": [],
+   "comparison_to": "Traditional single-purpose hair irons"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Whirlwind Curl 2-in-1 styler"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 0.0,
+   "final_result_shown_s": 1.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-25",
+   "hair_before": "Dark brown, straight-to-wavy, medium-to-long length",
+   "hair_after": "Sleek half-up high ponytail with polished bouncy spiral curls",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "stylish, calm, aspirational"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "R&B / pop backing track with female vocals singing 'shine shine shine like diamonds'.",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 7,
+   "avg_shot_length_s": 3.1,
+   "pacing": "fast",
+   "effects": [
+    "clean jump cuts"
+   ],
+   "ending": "Creator smiling in side profile showcasing finished curls and holding the tool."
+  },
+  "notes": "Silent aesthetic UGC tutorial focusing entirely on visual demonstration and step-by-step hairstyle execution set to background music."
+ }
+}

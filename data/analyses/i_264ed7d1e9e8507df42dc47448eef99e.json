@@ -1,0 +1,144 @@
+{
+ "media_key": "i_264ed7d1e9e8507df42dc47448eef99e",
+ "analyzed_at": "2026-11-28T01:08:53+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "82ea78f2f963e418ae62a79206ffa34c222bf9b5135fadbbb03784760ebe5914",
+ "source": {
+  "kind": "image",
+  "id": "264ed7d1e9e8507df42dc47448eef99e"
+ },
+ "role": "rotating",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "1:1",
+  "one_line_summary": "Static Black Friday promotional graphic featuring the pastel pink WavyTalk hair dryer wrapped in a satin ribbon with 'UP TO 34% OFF'.",
+  "full_description": "A square studio product promotional graphic set against an off-white to pale gray gradient background. On the right, a soft baby pink WavyTalk Turblow Pro high-speed hair dryer stands upright, wrapped elegantly by a flowing, shiny pink satin ribbon. On the left, the dark brown/black typography displays the WavyTalk logo at the top, followed by a bold headline 'UP TO 34% OFF' and subtitle 'Black Friday'.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK",
+    "role": "brand"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "UP TO 34% OFF",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "Black Friday",
+    "role": "hook"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "WAVYTALK PRO",
+    "role": "brand"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "product shot",
+    "visual": "A light pink WavyTalk high-speed hair dryer standing upright wrapped in a curling light pink satin ribbon against a clean, light studio backdrop, accompanied by bold text announcing the Black Friday discount.",
+    "action": "Static product display and text layout.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Clean product render of pink WavyTalk hair dryer wrapped in a pink ribbon alongside 'UP TO 34% OFF Black Friday' headline.",
+   "visual_0_3s": "Clean product render of pink WavyTalk hair dryer wrapped in a pink ribbon alongside 'UP TO 34% OFF Black Friday' headline.",
+   "spoken_0_3s": "",
+   "text_0_3s": "WAVYTALK UP TO 34% OFF Black Friday",
+   "hook_type": "offer_or_price",
+   "hook_type_secondary": "none",
+   "pattern_interrupt": "High-contrast bold discount typography paired with elegant gift-style ribbon wrapping around a sleek beauty tool."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Promotional Black Friday discount announcement featuring the hero pink hair dryer."
+   ],
+   "main_angle": "offer_discount_urgency",
+   "secondary_angles": [
+    "gift_or_occasion"
+   ],
+   "key_claims": [
+    "Up to 34% off for Black Friday"
+   ],
+   "pain_points": [],
+   "objections_handled": [
+    "price_value_vs_dyson"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "WavyTalk Turblow Pro Hair Dryer"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": -1,
+   "demo_clarity": "none",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "Up to 34% off",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Black Friday",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 0,
+   "talent_type": "no_person",
+   "name_if_shown": "",
+   "age_range": "",
+   "hair_before": "",
+   "hair_after": "",
+   "setting": "studio",
+   "faces_camera": false,
+   "energy_tone": ""
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "static_design",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "slow",
+   "effects": [],
+   "ending": ""
+  },
+  "notes": "Static image ad designed for Meta feed / square placement highlighting seasonal Black Friday promotional discount."
+ }
+}

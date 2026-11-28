@@ -1,0 +1,290 @@
+{
+ "media_key": "v_958409526889588",
+ "analyzed_at": "2026-11-28T00:15:08+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "d03b0147f8170f1d0a7ecdda1fb20f722646204773e4f66a046f46249880deda",
+ "source": {
+  "kind": "video",
+  "id": "958409526889588",
+  "video_id": "1088247090694844",
+  "length_s": 40.147,
+  "permalink": "/23849366283980795/videos/1088247090694844/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 39.46,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator demonstrates styling a bouncy salon-quality blowout using the pink Wavytalk thermal round brush without hairdryer noise.",
+  "full_description": "A young woman in a yellow top demonstrates using the pink Wavytalk thermal blowout brush. An automated voiceover explains that it is the most affordable tool for creating a bouncy blowout without blow-dryer noise. She curls sections of her long brown hair, giving step-by-step instructions on rolling downward and holding at the ends. She highlights negative ion technology reducing frizz before the video concludes with an on-screen limited-time 30% off discount offer.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.4,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "Today I'm styling my hair with the most affordable hair tool that I could find.",
+    "text_english": "Today I'm styling my hair with the most affordable hair tool that I could find."
+   },
+   {
+    "start_s": 3.5,
+    "end_s": 8.1,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "If you love the look of a bouncy blowout, but you hate the noise of a blow dryer,",
+    "text_english": "If you love the look of a bouncy blowout, but you hate the noise of a blow dryer,"
+   },
+   {
+    "start_s": 8.2,
+    "end_s": 15.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "then you need this hair tool because it gives you the most beautiful blowout look. Like, look at that curl! I absolutely love how it leaves my hair looking.",
+    "text_english": "then you need this hair tool because it gives you the most beautiful blowout look. Like, look at that curl! I absolutely love how it leaves my hair looking."
+   },
+   {
+    "start_s": 15.7,
+    "end_s": 20.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "What you want to do to achieve this hairstyle is brush in a downwards motion towards your face,",
+    "text_english": "What you want to do to achieve this hairstyle is brush in a downwards motion towards your face,"
+   },
+   {
+    "start_s": 20.4,
+    "end_s": 26.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "and really focus on the tips of it, hold it in place and just keep rolling at the bottom to get the perfect bouncy curl.",
+    "text_english": "and really focus on the tips of it, hold it in place and just keep rolling at the bottom to get the perfect bouncy curl."
+   },
+   {
+    "start_s": 26.4,
+    "end_s": 30.6,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I really love that it gives me like a smooth effect with like the perfect amount of volume.",
+    "text_english": "I really love that it gives me like a smooth effect with like the perfect amount of volume."
+   },
+   {
+    "start_s": 30.7,
+    "end_s": 37.3,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "The brush releases negative ions and it locks in moisture and smooths out each and every strand to reduce the frizz and the tangles.",
+    "text_english": "The brush releases negative ions and it locks in moisture and smooths out each and every strand to reduce the frizz and the tangles."
+   },
+   {
+    "start_s": 37.4,
+    "end_s": 39.46,
+    "speaker": "voiceover",
+    "language": "en",
+    "text_original": "I seriously cannot get over this brush-",
+    "text_english": "I seriously cannot get over this brush-"
+   }
+  ],
+  "transcript_full_original": "Today I'm styling my hair with the most affordable hair tool that I could find. If you love the look of a bouncy blowout, but you hate the noise of a blow dryer, then you need this hair tool because it gives you the most beautiful blowout look. Like, look at that curl! I absolutely love how it leaves my hair looking. What you want to do to achieve this hairstyle is brush in a downwards motion towards your face, and really focus on the tips of it, hold it in place and just keep rolling at the bottom to get the perfect bouncy curl. I really love that it gives me like a smooth effect with like the perfect amount of volume. The brush releases negative ions and it locks in moisture and smooths out each and every strand to reduce the frizz and the tangles. I seriously cannot get over this brush-",
+  "transcript_full_english": "Today I'm styling my hair with the most affordable hair tool that I could find. If you love the look of a bouncy blowout, but you hate the noise of a blow dryer, then you need this hair tool because it gives you the most beautiful blowout look. Like, look at that curl! I absolutely love how it leaves my hair looking. What you want to do to achieve this hairstyle is brush in a downwards motion towards your face, and really focus on the tips of it, hold it in place and just keep rolling at the bottom to get the perfect bouncy curl. I really love that it gives me like a smooth effect with like the perfect amount of volume. The brush releases negative ions and it locks in moisture and smooths out each and every strand to reduce the frizz and the tangles. I seriously cannot get over this brush-",
+  "word_count": 128,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "text": "Get a Salon-Style Blowout In Just 10 Minutes",
+    "role": "hook"
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 3.5,
+    "text": "Wavytalk\nmost affordable hair tool",
+    "role": "brand"
+   },
+   {
+    "start_s": 27.5,
+    "end_s": 39.46,
+    "text": "Limited-Time 30% OFF\nShop Before It's Gone!",
+    "role": "offer_price"
+   },
+   {
+    "start_s": 35.8,
+    "end_s": 39.46,
+    "text": "grab yours below! 🫶\n(currently on sale)",
+    "role": "cta"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 1.1,
+    "shot_type": "medium shot selfie",
+    "visual": "Creator standing in bedroom pointing at her already curled side of hair, holding the bottom of the tool.",
+    "action": "Creator gestures towards her hair and holds the brush handle.",
+    "product_visible": true
+   },
+   {
+    "start_s": 1.1,
+    "end_s": 4.5,
+    "shot_type": "medium close-up",
+    "visual": "Creator holds up the pink Wavytalk thermal round brush showing the bristles and digital display screen.",
+    "action": "Creator displays the barrel and turns on the temperature setting, pointing to the screen.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.5,
+    "end_s": 10.4,
+    "shot_type": "medium shot",
+    "visual": "Creator wrapping a strand of hair around the heated brush and slowly gliding down to release a bouncy curl.",
+    "action": "Creator rolls the brush through a section of hair, unrolls, and displays the defined curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 10.4,
+    "end_s": 16.0,
+    "shot_type": "medium shot",
+    "visual": "Creator taking another front section and twisting the round brush downwards.",
+    "action": "Creator curls the strand inward toward her face and lets it fall into a wave.",
+    "product_visible": true
+   },
+   {
+    "start_s": 16.0,
+    "end_s": 22.3,
+    "shot_type": "medium shot",
+    "visual": "Creator rolling hair upwards and holding near the roots/face.",
+    "action": "Creator demonstrates rolling the top layer backward and releasing.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.3,
+    "end_s": 26.5,
+    "shot_type": "medium shot",
+    "visual": "Creator working on the lower lengths, holding the brush horizontal at the ends.",
+    "action": "Creator spins the thermal brush through the tips to set a bouncy inward curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 26.5,
+    "end_s": 34.0,
+    "shot_type": "medium shot",
+    "visual": "Creator brushing through another section smoothly, holding the tip of the brush.",
+    "action": "Creator glides down the hair shaft slowly, showing frizz reduction and shine.",
+    "product_visible": true
+   },
+   {
+    "start_s": 34.0,
+    "end_s": 39.46,
+    "shot_type": "medium shot",
+    "visual": "Creator styles the remaining front strands and displays the finished voluminous blowout result.",
+    "action": "Creator curls the top layer, shakes out her hair, and points at the styled result.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera in bedroom holding the pink brush handle, with styled curtain bangs and hook text overlaid.",
+   "visual_0_3s": "Creator holding up the pink thermal styling brush and showing the barrel to camera.",
+   "spoken_0_3s": "Today I'm styling my hair with the most affordable hair tool that I could find.",
+   "text_0_3s": "Get a Salon-Style Blowout In Just 10 Minutes / Wavytalk most affordable hair tool",
+   "hook_type": "problem_callout",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Instant product presentation coupled with an affordable claim and quiet alternative callout."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Hook: Introduce affordable styling tool and quiet alternative to noisy blow dryers",
+    "First curl reveal and reaction",
+    "Step-by-step tutorial on motion, direction, and rolling ends",
+    "Product feature breakdown: Negative ions, smoothing frizz, locking moisture",
+    "Final blowout look reveal with discount and CTA"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "price_value_vs_dyson",
+    "quiet_or_gentle",
+    "volume_and_bounce",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Get a salon-style blowout in just 10 minutes",
+    "Most affordable hair tool",
+    "Gives blowout look without the loud noise of a blow dryer",
+    "Releases negative ions to lock in moisture, reduce frizz and tangles"
+   ],
+   "pain_points": [
+    "Blow dryers are loud and annoying to use",
+    "Expensive blowout tools",
+    "Frizzy and tangled hair",
+    "Struggling to get bouncy curls and volume at home"
+   ],
+   "objections_handled": [
+    "Too loud: operates completely silently without air noise",
+    "Too expensive: branded as the most affordable tool",
+    "Hard to use: demonstrated with simple roll and glide motion"
+   ],
+   "social_proof": [],
+   "comparison_to": "traditional blow dryer"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost (Thermal Round Brush)"
+   ],
+   "first_seen_s": 0.0,
+   "first_used_on_hair_s": 4.5,
+   "final_result_shown_s": 37.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "Limited-Time 30% OFF",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "Shop Before It's Gone! / (currently on sale)",
+   "cta_spoken": "",
+   "cta_on_screen": "grab yours below! 🫶 (currently on sale) / Shop Before It's Gone!",
+   "cta_at_s": 27.5
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "18-24",
+   "hair_before": "Long, thick brown hair, partially straight/unstyled on one side",
+   "hair_after": "Voluminous, shiny salon-style blowout with defined curled ends and bouncy curtain layers",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "calm, informative, aesthetic"
+  },
+  "audio_and_edit": {
+   "audio_type": "voiceover",
+   "music_description": "Subtle soft background lofi beat under the English female voiceover",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 8,
+   "avg_shot_length_s": 4.9,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts between hair styling sections",
+    "text graphic overlays with rounded card banners"
+   ],
+   "ending": "Cuts mid-sentence as creator admires her completed blowout in the camera."
+  },
+  "notes": "Video uses a popular aesthetic UGC template with TTS/creator voiceover demonstrating the Wavytalk thermal blowout brush for Lebanese/regional e-commerce distribution."
+ }
+}

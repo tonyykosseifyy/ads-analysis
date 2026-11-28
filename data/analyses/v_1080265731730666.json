@@ -1,0 +1,302 @@
+{
+ "media_key": "v_1080265731730666",
+ "analyzed_at": "2026-11-28T00:11:16+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "bc18bac79a45ddfbe79e2d4adcef4c19fc6c60b7eff28b245984047c7e6f2e6f",
+ "source": {
+  "kind": "video",
+  "id": "1080265731730666",
+  "video_id": "2268441967889473",
+  "length_s": 29.441,
+  "permalink": "/23849366283980795/videos/2268441967889473/?idorvanity=23849366283980795"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 28.68,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator showcases her voluminous salon-quality blowout achieved at home in under 10 minutes using the Wavytalk Blowout Boost thermal brush.",
+  "full_description": "A beauty creator in a modern walk-in closet demonstrates the Wavytalk Blowout Boost thermal brush. She starts by flaunting her bouncy, glossy blowout hair, shows the temperature display set at 420°F, explains the negative ion technology benefits (less frizz, more shine, no heat damage feeling), demonstrates styling her front curtain bangs with one pass, and poses showing off the final voluminous result while encouraging viewers to get it for the summer.",
+  "language": {
+   "spoken_languages": [
+    "en"
+   ],
+   "primary_spoken_language": "en",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 100,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "en"
+   ]
+  },
+  "transcript": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.7,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is the one tool that replaced my salon blowouts.",
+    "text_english": "This is the one tool that replaced my salon blowouts."
+   },
+   {
+    "start_s": 2.7,
+    "end_s": 7.4,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I mean please look at the before and after. I got this done in less than 10 minutes.",
+    "text_english": "I mean please look at the before and after. I got this done in less than 10 minutes."
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 12.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "This is the Wavytalk Blowout Boost thermal brush, and it's kind of ruined salons for me.",
+    "text_english": "This is the Wavytalk Blowout Boost thermal brush, and it's kind of ruined salons for me."
+   },
+   {
+    "start_s": 12.8,
+    "end_s": 15.2,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "I have it set to 420 degrees,",
+    "text_english": "I have it set to 420 degrees,"
+   },
+   {
+    "start_s": 15.2,
+    "end_s": 22.0,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "and it's negative ion technology, which basically means less frizz, has more shine, and your hair doesn't feel like it's being punished.",
+    "text_english": "and it's negative ion technology, which basically means less frizz, has more shine, and your hair doesn't feel like it's being punished."
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 24.1,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "One pass, that's it.",
+    "text_english": "One pass, that's it."
+   },
+   {
+    "start_s": 24.1,
+    "end_s": 26.8,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "She's bouncy, she's shiny, she's giving main character.",
+    "text_english": "She's bouncy, she's shiny, she's giving main character."
+   },
+   {
+    "start_s": 26.8,
+    "end_s": 28.6,
+    "speaker": "creator",
+    "language": "en",
+    "text_original": "You need this for the summer.",
+    "text_english": "You need this for the summer."
+   }
+  ],
+  "transcript_full_original": "This is the one tool that replaced my salon blowouts. I mean please look at the before and after. I got this done in less than 10 minutes. This is the Wavytalk Blowout Boost thermal brush, and it's kind of ruined salons for me. I have it set to 420 degrees, and it's negative ion technology, which basically means less frizz, has more shine, and your hair doesn't feel like it's being punished. One pass, that's it. She's bouncy, she's shiny, she's giving main character. You need this for the summer.",
+  "transcript_full_english": "This is the one tool that replaced my salon blowouts. I mean please look at the before and after. I got this done in less than 10 minutes. This is the Wavytalk Blowout Boost thermal brush, and it's kind of ruined salons for me. I have it set to 420 degrees, and it's negative ion technology, which basically means less frizz, has more shine, and your hair doesn't feel like it's being punished. One pass, that's it. She's bouncy, she's shiny, she's giving main character. You need this for the summer.",
+  "word_count": 89,
+  "speech_starts_at_s": 0.0,
+  "on_screen_text": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "text": "the one tool that replaced my salon blowouts",
+    "role": "hook"
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 12.0,
+    "text": "Wavytalk blowout boost thermal brush",
+    "role": "brand"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 2.8,
+    "shot_type": "medium shot",
+    "visual": "Creator in walk-in closet touching and shaking her glossy, bouncy blowout hair towards camera.",
+    "action": "Creator shakes her styled voluminous blowout hair and smiles.",
+    "product_visible": false
+   },
+   {
+    "start_s": 2.8,
+    "end_s": 4.1,
+    "shot_type": "close-up",
+    "visual": "Close-up of the Wavytalk thermal brush handle displaying the digital screen illuminated at 420°.",
+    "action": "Creator holds and points to the heat display on the thermal brush.",
+    "product_visible": true
+   },
+   {
+    "start_s": 4.1,
+    "end_s": 7.4,
+    "shot_type": "medium profile shot",
+    "visual": "Creator wearing black-framed glasses checking her long smooth hair from the side.",
+    "action": "Creator runs her hand through her hair, turning to show length and texture.",
+    "product_visible": false
+   },
+   {
+    "start_s": 7.4,
+    "end_s": 11.2,
+    "shot_type": "medium shot",
+    "visual": "Creator rolling the pink thermal brush through the mid-lengths and ends of a hair section.",
+    "action": "Creator glides the thermal brush through a hair section and rolls it out.",
+    "product_visible": true
+   },
+   {
+    "start_s": 11.2,
+    "end_s": 13.1,
+    "shot_type": "medium shot",
+    "visual": "Creator showing the freshly styled bouncy curl at the bottom of her hair strand.",
+    "action": "Creator twirls the curled hair section and smiles at the camera.",
+    "product_visible": false
+   },
+   {
+    "start_s": 13.1,
+    "end_s": 15.6,
+    "shot_type": "medium shot",
+    "visual": "Creator styling her front bang layer with the thermal brush positioned at the root.",
+    "action": "Creator lifts and rolls front bangs upwards and outward.",
+    "product_visible": true
+   },
+   {
+    "start_s": 15.6,
+    "end_s": 18.0,
+    "shot_type": "medium shot",
+    "visual": "Creator twisting the thermal brush outward through side hair strands.",
+    "action": "Creator rolls the barrel through the side hair to build volume.",
+    "product_visible": true
+   },
+   {
+    "start_s": 18.0,
+    "end_s": 22.0,
+    "shot_type": "medium shot",
+    "visual": "Creator showing the tool horizontally, then touching the smooth, shiny end curls.",
+    "action": "Creator presents the thermal brush, then displays the shiny, frizz-free curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 24.1,
+    "shot_type": "medium close-up",
+    "visual": "Creator rolling front bangs inward in one single pass.",
+    "action": "Creator rolls bangs over the brush barrel and releases a bouncy curl.",
+    "product_visible": true
+   },
+   {
+    "start_s": 24.1,
+    "end_s": 26.8,
+    "shot_type": "medium shot",
+    "visual": "Creator fluffing and running fingers through her voluminous blowout hairstyle.",
+    "action": "Creator shakes out her bouncy layers and gives a confident main-character look.",
+    "product_visible": false
+   },
+   {
+    "start_s": 26.8,
+    "end_s": 28.68,
+    "shot_type": "medium close-up",
+    "visual": "Creator holding the Wavytalk Blowout Boost thermal brush next to her face with a finished blowout look.",
+    "action": "Creator smiles, holding the styling tool proudly next to her styled hair.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator facing camera in a walk-in wardrobe displaying her thick voluminous glossy blowout hair with text 'the one tool that replaced my salon blowouts'.",
+   "visual_0_3s": "Creator shaking her thick, shiny blowout hair in front of the camera.",
+   "spoken_0_3s": "This is the one tool that replaced my salon blowouts.",
+   "text_0_3s": "the one tool that replaced my salon blowouts",
+   "hook_type": "result_first",
+   "hook_type_secondary": "bold_claim",
+   "pattern_interrupt": "Immediate result showcase paired with a bold claim that one single tool replaced all professional salon blowouts."
+  },
+  "structure": {
+   "format": "tutorial_demo",
+   "narrative_beats": [
+    "Result-first hook claiming tool replaced salon visits",
+    "Speed claim (under 10 minutes)",
+    "Product introduction and temperature setup (420°F)",
+    "Tech explanation: negative ion technology reducing frizz and shine without hair damage",
+    "Demonstration of effortless styling in one single pass",
+    "Final look showcase and seasonal recommendation CTA"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "saves_time",
+    "volume_and_bounce",
+    "less_heat_damage"
+   ],
+   "key_claims": [
+    "Replaced salon blowouts",
+    "Done in less than 10 minutes",
+    "Heats up to 420 degrees",
+    "Negative ion technology means less frizz and more shine",
+    "Hair doesn't feel punished or heat-damaged",
+    "Takes only one pass"
+   ],
+   "pain_points": [
+    "Expensive and time-consuming salon visits",
+    "Frizzy dull hair",
+    "Heat damage from styling tools"
+   ],
+   "objections_handled": [
+    "Too complicated/slow: takes less than 10 minutes and one pass per section",
+    "Damages hair: negative ions prevent hair from feeling damaged or punished"
+   ],
+   "social_proof": [],
+   "comparison_to": "Professional salon blowouts"
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Blowout Boost Thermal Brush"
+   ],
+   "first_seen_s": 2.8,
+   "first_used_on_hair_s": 7.4,
+   "final_result_shown_s": 0.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "You need this for the summer.",
+   "cta_on_screen": "",
+   "cta_at_s": 26.8
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "25-34",
+   "hair_before": "Dark brown, straight/slightly wavy, long hair shown smoothly brushed before blowout styling",
+   "hair_after": "Voluminous, glossy, bouncy layered blowout with flipped curtain bangs and curved ends",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Confident, enthusiastic, polished, relatable"
+  },
+  "audio_and_edit": {
+   "audio_type": "talking",
+   "music_description": "None / clean direct creator speech with subtle background ambient room tone",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 10,
+   "avg_shot_length_s": 2.6,
+   "pacing": "fast",
+   "effects": [
+    "Stylized text overlays",
+    "Quick cut transitions"
+   ],
+   "ending": "Creator smiles holding the pink thermal brush next to her face as she delivers the final recommendation."
+  },
+  "notes": "English UGC video produced for the Wavytalk Blowout Boost thermal brush, emphasizing fast salon-quality styling, negative ion technology, and bouncy finish."
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "media_key": "i_6f4cfdf16c46367cdbe33a9ae7e51949",
+ "analyzed_at": "2026-11-28T01:02:26+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "af79b06804f80df459452dba6c33aa9335f039d8bdd7cbcac54dba1cea90095d",
+ "source": {
+  "kind": "image",
+  "id": "6f4cfdf16c46367cdbe33a9ae7e51949"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "image",
+  "duration_s": 0,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "A creator poses with wavy hair holding the pink WavyTalk Whirlwind Curl, featuring an invitation to style hair and discount code ANGELZ10.",
+  "full_description": "Vertical static image ad featuring a young female creator with styled wavy shoulder-length hair pouting towards the camera. She is holding a pale pink WavyTalk Whirlwind Curl styling tool in her hand. Centered on-screen text features Lebanese Arabic text 'يلا نعمل شعري؟' (Shall we do my hair?) alongside the creator discount promo code 'ANGELZ10 at wavytalk.lb'.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "Lebanese",
+   "approx_share_pct": {
+    "ar": 50,
+    "en": 50,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": [
+    "ar",
+    "en"
+   ]
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "يلا نعمل شعري؟",
+    "role": "hook"
+   },
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "text": "ANGELZ10 at wavytalk.lb",
+    "role": "offer_price"
+   }
+  ],
+  "scenes": [
+   {
+    "start_s": 0,
+    "end_s": 0,
+    "shot_type": "medium close-up selfie",
+    "visual": "Young creator with wavy caramel-brown hair puckering lips, holding pink WavyTalk Whirlwind Curl, in front of a room shelf with books and cosmetics.",
+    "action": "Posing playfully while holding the hair tool.",
+    "product_visible": true
+   }
+  ],
+  "hook": {
+   "first_frame": "Selfie shot of creator holding a pink WavyTalk tool making a pouty face with Arabic text 'يلا نعمل شعري؟' and promo code 'ANGELZ10 at wavytalk.lb'.",
+   "visual_0_3s": "Selfie shot of creator holding a pink WavyTalk tool making a pouty face with Arabic text 'يلا نعمل شعري؟' and promo code 'ANGELZ10 at wavytalk.lb'.",
+   "spoken_0_3s": "",
+   "text_0_3s": "يلا نعمل شعري؟ ANGELZ10 at wavytalk.lb",
+   "hook_type": "question",
+   "hook_type_secondary": "offer_or_price",
+   "pattern_interrupt": "Playful kissing face pose paired with prominent affiliate coupon code."
+  },
+  "structure": {
+   "format": "slideshow_or_static",
+   "narrative_beats": [
+    "Show final styled wavy hair with tool",
+    "Offer creator discount code for the brand website"
+   ],
+   "main_angle": "salon_result_at_home",
+   "secondary_angles": [
+    "volume_and_bounce",
+    "offer_discount_urgency"
+   ],
+   "key_claims": [
+    "Easy home curling with WavyTalk Whirlwind Curl",
+    "Discount available with code ANGELZ10 at wavytalk.lb"
+   ],
+   "pain_points": [
+    "Achieving effortless curls at home"
+   ],
+   "objections_handled": [],
+   "social_proof": [
+    "Creator/influencer endorsement"
+   ],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Whirlwind Curl"
+   ],
+   "first_seen_s": 0,
+   "first_used_on_hair_s": -1,
+   "final_result_shown_s": 0,
+   "demo_clarity": "result_only",
+   "before_after_shown": false
+  },
+  "offer_and_cta": {
+   "offer": "Discount with code ANGELZ10",
+   "price_mentioned": "",
+   "discount_code": "ANGELZ10",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "ANGELZ10 at wavytalk.lb",
+   "cta_at_s": 0
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "ANGELZ",
+   "age_range": "20-25",
+   "hair_before": "",
+   "hair_after": "Shoulder-length styled soft waves, caramel brown",
+   "setting": "indoor bedroom / living room shelf background",
+   "faces_camera": true,
+   "energy_tone": "Playful and approachable"
+  },
+  "audio_and_edit": {
+   "audio_type": "silent",
+   "music_description": "",
+   "captions_burned_in": false,
+   "production_style": "phone_ugc",
+   "cut_count": 0,
+   "avg_shot_length_s": 0,
+   "pacing": "medium",
+   "effects": [
+    "Text overlay"
+   ],
+   "ending": "Static image"
+  },
+  "notes": "Static image creative running as a paid Instagram story/feed ad targeted to Lebanon featuring influencer affiliate code ANGELZ10."
+ }
+}

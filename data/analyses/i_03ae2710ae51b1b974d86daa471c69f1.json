@@ -1,0 +1,166 @@
+{
+ "media_key": "i_03ae2710ae51b1b974d86daa471c69f1",
+ "analyzed_at": "2026-11-28T01:16:07+00:00",
+ "model": "gemini-3.8-flash",
+ "sha256": "023213e490257fc229d8d1017aadab6af300085247ffd54b6f0883940861bea9",
+ "source": {
+  "kind": "image",
+  "id": "03ae2710ae51b1b974d86daa471c69f1"
+ },
+ "role": "primary",
+ "flags": [],
+ "analysis": {
+  "asset_type": "video",
+  "duration_s": 29.8,
+  "aspect_ratio": "9:16",
+  "one_line_summary": "Creator transforms long straight dark hair into voluminous deep beach waves using the pink Wavytalk Power Wave.",
+  "full_description": "An aesthetic UGC demonstration video set to music showing a young woman with long straight dark hair styling her hair with the pink Wavytalk Power Wave deep waver. She introduces the tool, demonstrates clamping it down sections of her hair, and reveals the final glossy, voluminous beach wave result while running her fingers through her hair.",
+  "language": {
+   "spoken_languages": [],
+   "primary_spoken_language": "none",
+   "arabic_dialect": "",
+   "approx_share_pct": {
+    "ar": 0,
+    "en": 0,
+    "fr": 0
+   },
+   "code_switching": false,
+   "on_screen_text_languages": []
+  },
+  "transcript": [],
+  "transcript_full_original": "",
+  "transcript_full_english": "",
+  "word_count": 0,
+  "speech_starts_at_s": -1,
+  "on_screen_text": [],
+  "scenes": [
+   {
+    "start_s": 0.0,
+    "end_s": 3.5,
+    "shot_type": "medium shot",
+    "visual": "A young woman with straight dark brown hair wearing a white ribbed long-sleeve top stands in a brightly lit room.",
+    "action": "She looks into the camera, smiles, and holds up the pink Wavytalk Power Wave deep waver tool to present it.",
+    "product_visible": true
+   },
+   {
+    "start_s": 3.5,
+    "end_s": 8.0,
+    "shot_type": "medium close-up",
+    "visual": "Creator styling the front strand of her hair.",
+    "action": "She sections a strand of hair and clamps the waver tool near the top, holding it for a couple seconds.",
+    "product_visible": true
+   },
+   {
+    "start_s": 8.0,
+    "end_s": 12.0,
+    "shot_type": "medium close-up",
+    "visual": "Close-up of the hair strand being styled.",
+    "action": "She moves the tool further down the strand and clamps again, creating uniform, defined deep crimped waves.",
+    "product_visible": true
+   },
+   {
+    "start_s": 12.0,
+    "end_s": 17.5,
+    "shot_type": "medium shot",
+    "visual": "Creator styling the opposite side of her head.",
+    "action": "She clamps the deep waver down the other side of her hair, smiling while showing the wave pattern form.",
+    "product_visible": true
+   },
+   {
+    "start_s": 17.5,
+    "end_s": 22.0,
+    "shot_type": "medium shot",
+    "visual": "Creator finishing top sections.",
+    "action": "She clamps top layers to blend the waves seamlessly across all layers.",
+    "product_visible": true
+   },
+   {
+    "start_s": 22.0,
+    "end_s": 29.8,
+    "shot_type": "medium shot",
+    "visual": "Creator showing the completed hairstyle.",
+    "action": "She shakes her hair, runs her hands through the glossy deep waves, and poses happily to show the final voluminous result.",
+    "product_visible": false
+   }
+  ],
+  "hook": {
+   "first_frame": "Creator with sleek straight hair standing against a neutral door frame looking into the camera.",
+   "visual_0_3s": "Creator raises the pink Wavytalk Power Wave tool and presents it to the camera with a smile.",
+   "spoken_0_3s": "",
+   "text_0_3s": "",
+   "hook_type": "product_reveal",
+   "hook_type_secondary": "tutorial_promise",
+   "pattern_interrupt": "Immediate product reveal followed directly by clamping action on straight hair."
+  },
+  "structure": {
+   "format": "silent_demo_with_text",
+   "narrative_beats": [
+    "Product presentation",
+    "Demonstration of clamping technique on one side",
+    "Completing waves on the other side",
+    "Final hairstyle reveal with hair shake and posing"
+   ],
+   "main_angle": "volume_and_bounce",
+   "secondary_angles": [
+    "salon_result_at_home",
+    "easy_for_beginners"
+   ],
+   "key_claims": [
+    "Effortless deep beach waves",
+    "Creates defined mermaid texture on straight hair quickly"
+   ],
+   "pain_points": [
+    "Curling straight hair with round irons takes too long and drops easily"
+   ],
+   "objections_handled": [
+    "Whether the waver creates uniform, defined ridges easily at home"
+   ],
+   "social_proof": [],
+   "comparison_to": ""
+  },
+  "product": {
+   "products_shown": [
+    "Wavytalk Power Wave"
+   ],
+   "first_seen_s": 1.5,
+   "first_used_on_hair_s": 3.5,
+   "final_result_shown_s": 22.0,
+   "demo_clarity": "clear_step_by_step",
+   "before_after_shown": true
+  },
+  "offer_and_cta": {
+   "offer": "",
+   "price_mentioned": "",
+   "discount_code": "",
+   "urgency": "",
+   "cta_spoken": "",
+   "cta_on_screen": "",
+   "cta_at_s": -1
+  },
+  "talent": {
+   "people_count": 1,
+   "talent_type": "creator_influencer",
+   "name_if_shown": "",
+   "age_range": "20-29",
+   "hair_before": "Long, sleek, straight dark brown hair",
+   "hair_after": "Voluminous, defined, glossy deep beach mermaid waves",
+   "setting": "bedroom",
+   "faces_camera": true,
+   "energy_tone": "Aesthetic, calm, confident and glamorous"
+  },
+  "audio_and_edit": {
+   "audio_type": "music_only",
+   "music_description": "Rhythmic, upbeat background music track",
+   "captions_burned_in": false,
+   "production_style": "edited_ugc",
+   "cut_count": 5,
+   "avg_shot_length_s": 5.0,
+   "pacing": "medium",
+   "effects": [
+    "jump cuts"
+   ],
+   "ending": "Creator admires her wavy hair in the camera, smiling and touching her hair."
+  },
+  "notes": "Clean aesthetic silent UGC styling demo for Wavytalk Power Wave targeting women looking for easy beach/mermaid waves."
+ }
+}
