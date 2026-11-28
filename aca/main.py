@@ -115,6 +115,32 @@ def download_media(meta: MetaClient, ref: MediaRef, work: Path) -> tuple[Path, d
     return meta.download(m["media_url"], work / f"{slug(ref.key)}{ext}"), info
 
 
+MEDIA_EXTS = {".mp4", ".mov", ".m4v", ".webm", ".jpg", ".jpeg", ".png", ".webp"}
+
+
+def manual_files(folder: Path, ads: list[dict], media: dict) -> dict[str, Path]:
+    """Video/image files added by hand to manual/, for creatives Meta won't hand over (creators' own posts,
+    Instagram-only posts). Name each file after its ad id (e.g. 23857964199420795.mp4) or its media key
+    (e.g. v_3676247799180361.mp4); it is then analysed and joined to that ad's metrics like any other."""
+    if not folder.is_dir():
+        return {}
+    by_ad = {a["ad_id"]: a["media_keys"] for a in ads if a.get("media_keys")}
+    out: dict[str, Path] = {}
+    for f in sorted(folder.iterdir()):
+        if f.suffix.lower() not in MEDIA_EXTS:
+            continue
+        if f.stem in media:
+            out[f.stem] = f
+        elif f.stem in by_ad:
+            for k in by_ad[f.stem]:
+                out.setdefault(k, f)
+        else:
+            log.warning("manual/%s matches no ad id or media key; skipped", f.name)
+    if out:
+        log.info("%s creatives have a manual file", len(out))
+    return out
+
+
 def _sha256(path: Path) -> str:
     h = hashlib.sha256()
     with open(path, "rb") as fh:
@@ -147,10 +173,11 @@ def analyze_all(settings: Settings, meta: MetaClient, store: Store, ads: list[di
         for k in ad["media_keys"]:
             spend_by_key[k] = spend_by_key.get(k, 0) + ad["metrics"]["spend"] / max(len(ad["media_keys"]), 1)
 
+    manual = manual_files(settings.manual_dir, ads, media)
     todo = [k for k in sorted(media, key=lambda k: -spend_by_key.get(k, 0))
             if spend_by_key.get(k, 0) >= settings.min_spend
             and (fresh or not store.is_done(k))
-            and (fresh or only_keys is not None or not store.should_skip_failed(k))
+            and (fresh or only_keys is not None or k in manual or not store.should_skip_failed(k))
             and (only_keys is None or k in only_keys)]
     if settings.max_media:
         todo = todo[: settings.max_media]
@@ -182,7 +209,10 @@ def analyze_all(settings: Settings, meta: MetaClient, store: Store, ads: list[di
         tmp = settings.work_dir / slug(key)
         tmp.mkdir(parents=True, exist_ok=True)
         try:
-            path, info = download_media(meta, ref, tmp)
+            if key in manual:
+                path, info = manual[key], {"kind": ref.kind, "id": ref.id, "source": "manual file"}
+            else:
+                path, info = download_media(meta, ref, tmp)
             digest = _sha256(path)
             if not fresh:
                 owner = store.claim(digest, key)

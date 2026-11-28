@@ -43,6 +43,7 @@ class Settings:
 
     data_dir: Path = field(default_factory=lambda: Path(_env("DATA_DIR", "data")))
     work_dir: Path = field(default_factory=lambda: Path(_env("WORK_DIR", "/tmp/aca-media")))
+    manual_dir: Path = field(default_factory=lambda: Path(_env("MANUAL_DIR", "manual")))
 
     @property
     def graph_base(self) -> str:

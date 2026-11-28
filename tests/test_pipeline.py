@@ -109,7 +109,8 @@ def env(tmp_path, monkeypatch):
     FakeGemini.cost_per_video = 0.0
     s = Settings(meta_access_token="t", gemini_api_key="k", gemini_model="m-flash",
                  google_service_account_json=None, sheet_id=None,
-                 data_dir=tmp_path / "data", work_dir=tmp_path / "work", concurrency=3)
+                 data_dir=tmp_path / "data", work_dir=tmp_path / "work", concurrency=3,
+                 manual_dir=tmp_path / "no-manual")
     return s
 
 
@@ -156,6 +157,19 @@ def test_retry_failed_watches_only_failed_assets_even_past_the_retry_limit(env):
     _, _, _, stats = run(env, meta, only_keys=set(store.failures))
     assert stats["queued"] == 1  # only the failed placement video, though it already used its 3 attempts
     assert stats["analysed"] == 0 and stats["failed"] == 1
+
+
+def test_manual_file_is_analysed_for_a_creative_meta_wont_hand_over(env, tmp_path):
+    meta = FakeMeta()
+    for _ in range(3):
+        run(env, meta)  # the placement video fails 3 times: no file from Meta
+    env.manual_dir = tmp_path / "manual"
+    env.manual_dir.mkdir()
+    (env.manual_dir / "v_928674400010108.mp4").write_bytes(b"hand-added video bytes")
+    (env.manual_dir / "notes.txt").write_text("ignored")
+    store, _, _, stats = run(env, meta)
+    assert stats["queued"] == 1 and stats["analysed"] == 1
+    assert store.is_done("v_928674400010108") and "v_928674400010108" not in store.failures
 
 
 def test_min_spend_and_max_media(env):
